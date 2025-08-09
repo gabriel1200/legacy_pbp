@@ -1,0 +1,451 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022101023,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,4,10,0,1,8:11 PM,12:00,Jump Ball Sarr vs. Plumlee: Tip to Ball,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,7,1,108,1,8:11 PM,11:46,,,Bridges 2' Cutting Dunk Shot (2 PTS) (Plumlee 1 AST),2 - 0,-2,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,9,1,1,1,8:11 PM,11:29,Bazley 3PT Jump Shot (3 PTS) (Sarr 1 AST),,,2 - 3,1,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,11,6,2,1,8:11 PM,11:06,Sarr S.FOUL (P1.T1) (J.Orr),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,13,3,11,1,8:12 PM,11:06,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,14,4,1,1,8:12 PM,11:06,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,15,3,12,1,8:12 PM,11:06,,,Plumlee Free Throw 2 of 2 (1 PTS),3 - 3,TIE,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,16,2,1,1,8:12 PM,10:54,MISS Bazley 24' 3PT Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,17,4,0,1,8:12 PM,10:51,Sarr REBOUND (Off:1 Def:0),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,18,1,6,1,8:12 PM,10:40,Gilgeous-Alexander 3' Driving Layup (2 PTS) (Bazley 1 AST),,,3 - 5,2,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,19,1,106,1,8:13 PM,10:35,,,Bridges 1' Running Alley Oop Dunk Shot (4 PTS) (Ball 1 AST),5 - 5,TIE,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,21,6,1,1,8:13 PM,10:19,,,Plumlee P.FOUL (P1.T1) (P.Ransom),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,24,1,79,1,8:13 PM,10:11,Mann 26' 3PT Pullup Jump Shot (3 PTS) (Bazley 2 AST),,,5 - 8,3,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,26,1,80,1,8:14 PM,9:47,,,Rozier 3PT Step Back Jump Shot (3 PTS) (Washington 1 AST),8 - 8,TIE,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,28,6,17,1,8:14 PM,9:31,,,Hornets T.Foul (Def. 3 Sec Washington ) (J.Orr),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022101023,29,3,16,1,8:14 PM,9:31,Gilgeous-Alexander Free Throw Technical (3 PTS),,,8 - 9,1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,30,2,1,1,8:15 PM,9:19,MISS Bazley 3PT Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,31,4,0,1,8:15 PM,9:15,,,Rozier REBOUND (Off:0 Def:1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,32,1,1,1,8:15 PM,9:02,,,Ball 27' 3PT Jump Shot (3 PTS) (Bridges 1 AST),11 - 9,-2,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,34,2,1,1,8:15 PM,8:51,MISS Sarr 26' 3PT Jump Shot,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,35,4,0,1,8:15 PM,8:49,,,Bridges REBOUND (Off:0 Def:1),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,36,5,39,1,8:15 PM,8:44,,,Ball Step Out of Bounds Turnover (P1.T1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022101023,37,2,1,1,8:16 PM,8:33,MISS Maledon 3PT Jump Shot,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,38,4,0,1,8:16 PM,8:30,Sarr REBOUND (Off:2 Def:0),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,39,6,2,1,8:16 PM,8:30,,,Ball S.FOUL (P1.T2) (P.Ransom),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,41,3,11,1,8:16 PM,8:30,Sarr Free Throw 1 of 2 (1 PTS),,,11 - 10,-1,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,42,3,12,1,8:16 PM,8:30,Sarr Free Throw 2 of 2 (2 PTS),,,11 - 11,TIE,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,43,1,1,1,8:17 PM,8:21,,,Rozier 24' 3PT Jump Shot (6 PTS) (Ball 2 AST),14 - 11,-3,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,45,1,1,1,8:17 PM,8:08,Bazley 26' 3PT Jump Shot (6 PTS) (Sarr 2 AST),,,14 - 14,TIE,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,47,1,98,1,8:17 PM,7:57,,,Rozier 3' Cutting Layup Shot (8 PTS) (Plumlee 2 AST),16 - 14,-2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,49,2,101,1,8:17 PM,7:42,MISS Mann 10' Driving Floating Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,50,4,0,1,8:17 PM,7:39,Mann REBOUND (Off:1 Def:0),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,51,2,72,1,8:17 PM,7:38,MISS Mann 3' Putback Layup,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,52,4,0,1,8:17 PM,7:36,,,Ball REBOUND (Off:0 Def:1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,53,1,1,1,8:18 PM,7:22,,,Bridges 25' 3PT Jump Shot (7 PTS) (Ball 3 AST),19 - 14,-5,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,55,9,1,1,8:18 PM,7:12,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,56,1,6,1,8:21 PM,7:01,Gilgeous-Alexander 5' Driving Layup (5 PTS) (Mann 1 AST),,,19 - 16,-3,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,58,2,1,1,8:21 PM,6:38,,,MISS Washington 24' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,59,4,0,1,8:21 PM,6:36,Maledon REBOUND (Off:0 Def:1),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,60,1,103,1,8:21 PM,6:32,Gilgeous-Alexander 12' Running Pull-Up Jump Shot (7 PTS) (Maledon 1 AST),,,19 - 18,-1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,62,1,79,1,8:22 PM,6:15,,,Ball 19' Pullup Jump Shot (5 PTS),21 - 18,-3,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,63,1,79,1,8:22 PM,5:58,Mann 26' 3PT Pullup Jump Shot (6 PTS),,,21 - 21,TIE,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,64,2,1,1,8:22 PM,5:38,,,MISS Ball 28' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,65,4,0,1,8:22 PM,5:35,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,66,1,6,1,8:22 PM,5:28,Bazley 3' Driving Layup (8 PTS),,,21 - 23,2,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,68,2,1,1,8:23 PM,5:13,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,69,4,0,1,8:23 PM,5:11,Maledon REBOUND (Off:0 Def:2),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,70,1,47,1,8:23 PM,5:02,Sarr 4' Turnaround Jump Shot (4 PTS),,,21 - 25,4,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,72,2,6,1,8:23 PM,4:48,,,MISS Ball 6' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,73,4,0,1,8:23 PM,4:47,Sarr REBOUND (Off:2 Def:1),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,74,1,6,1,8:23 PM,4:37,Maledon 3' Driving Layup (2 PTS) (Mann 2 AST),,,21 - 27,6,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,76,9,1,1,8:23 PM,4:33,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,77,8,0,1,8:25 PM,4:33,,,SUB: Oubre Jr. FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,78,8,0,1,8:25 PM,4:33,,,SUB: Harrell FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,79,8,0,1,8:25 PM,4:33,,,SUB: McDaniels FOR Bridges,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,80,8,0,1,8:25 PM,4:33,,,SUB: Martin FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,85,2,1,1,8:27 PM,4:18,,,MISS Rozier 25' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,86,4,0,1,8:27 PM,4:14,Mann REBOUND (Off:1 Def:1),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,87,1,6,1,8:27 PM,4:04,Gilgeous-Alexander 5' Driving Layup (9 PTS) (Mann 3 AST),,,21 - 29,8,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,89,2,79,1,8:27 PM,3:51,,,MISS Martin 14' Pullup Jump Shot,,,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,90,4,0,1,8:27 PM,3:48,Sarr REBOUND (Off:2 Def:2),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,91,2,6,1,8:27 PM,3:39,MISS Gilgeous-Alexander 6' Driving Layup,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,92,4,0,1,8:27 PM,3:39,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,93,6,3,1,8:27 PM,3:39,,,Oubre Jr. L.B.FOUL (P1.T3) (P.Ransom),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,95,8,0,1,8:27 PM,3:39,SUB: Pokusevski FOR Maledon,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,97,2,79,1,8:28 PM,3:34,MISS Gilgeous-Alexander 25' 3PT Pullup Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,98,4,0,1,8:28 PM,3:30,,,Rozier REBOUND (Off:0 Def:2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,99,2,6,1,8:28 PM,3:20,,,MISS Oubre Jr. 3' Driving Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,100,4,0,1,8:28 PM,3:17,,,McDaniels REBOUND (Off:1 Def:0),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,101,6,1,1,8:28 PM,3:13,Sarr P.FOUL (P2.T2) (P.Ransom),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,103,8,0,1,8:28 PM,3:13,SUB: Roby FOR Sarr,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,105,6,2,1,8:29 PM,3:07,Roby S.FOUL (P1.T3) (B.Kennedy),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,107,3,11,1,8:29 PM,3:07,,,MISS Oubre Jr. Free Throw 1 of 2,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,108,4,1,1,8:29 PM,3:07,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,109,3,12,1,8:29 PM,3:07,,,Oubre Jr. Free Throw 2 of 2 (1 PTS),22 - 29,7,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,110,1,52,1,8:29 PM,2:55,Bazley 2' Alley Oop Dunk (10 PTS) (Gilgeous-Alexander 1 AST),,,22 - 31,9,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,112,2,6,1,8:30 PM,2:42,,,MISS Martin 3' Driving Layup,,,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,113,4,0,1,8:30 PM,2:40,Roby REBOUND (Off:0 Def:1),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,114,6,1,1,8:30 PM,2:37,,,Oubre Jr. P.FOUL (P2.T4) (J.Orr),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,116,8,0,1,8:30 PM,2:37,,,SUB: Thomas FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,118,1,1,1,8:30 PM,2:30,Pokusevski 26' 3PT Jump Shot (3 PTS) (Mann 4 AST),,,22 - 34,12,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,120,2,73,1,8:30 PM,2:22,,,MISS Oubre Jr. 3' Driving Reverse Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,121,4,0,1,8:30 PM,2:17,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,122,2,5,1,8:31 PM,2:04,MISS Pokusevski 3' Layup,,Harrell BLOCK (1 BLK),,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,124,4,0,1,8:31 PM,2:02,Pokusevski REBOUND (Off:1 Def:0),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,125,1,97,1,8:31 PM,2:02,Pokusevski 2' Tip Layup Shot (5 PTS),,,22 - 36,14,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,126,9,1,1,8:31 PM,2:02,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,127,2,78,1,8:33 PM,1:44,,,MISS Thomas 6' Floating Jump Shot,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,128,4,0,1,8:33 PM,1:41,,,Thomas REBOUND (Off:1 Def:0),,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,129,6,2,1,8:33 PM,1:40,Roby S.FOUL (P2.T4) (J.Orr),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,131,3,11,1,8:33 PM,1:40,,,Harrell Free Throw 1 of 2 (1 PTS),23 - 36,13,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,132,3,12,1,8:33 PM,1:40,,,Harrell Free Throw 2 of 2 (2 PTS),24 - 36,12,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,133,5,1,1,8:34 PM,1:23,Bazley Bad Pass Turnover (P1.T1),,Martin STEAL (1 STL),,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,135,1,41,1,8:34 PM,1:20,,,Martin 2' Running Layup (2 PTS),26 - 36,10,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,136,1,75,1,8:34 PM,1:03,Gilgeous-Alexander 3' Driving Finger Roll Layup (11 PTS),,,26 - 38,12,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,137,2,1,1,8:34 PM,0:45,,,MISS McDaniels 25' 3PT Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,138,4,0,1,8:34 PM,0:42,Roby REBOUND (Off:0 Def:2),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,139,1,1,1,8:35 PM,0:36,Mann 26' 3PT Jump Shot (9 PTS) (Bazley 3 AST),,,26 - 41,15,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,143,1,6,1,8:35 PM,0:28,,,Harrell 6' Driving Layup (4 PTS),28 - 41,13,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,144,6,2,1,8:35 PM,0:28,Roby S.FOUL (P3.PN) (P.Ransom),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,146,8,0,1,8:35 PM,0:28,SUB: Waters III FOR Roby,,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,147,8,0,1,8:35 PM,0:28,SUB: Krejci FOR Mann,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,150,3,10,1,8:35 PM,0:28,,,Harrell Free Throw 1 of 1 (5 PTS),29 - 41,12,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,151,6,26,1,8:36 PM,0:21,Gilgeous-Alexander Offensive Charge Foul (P1) (P.Ransom),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,153,5,37,1,8:36 PM,0:21,Gilgeous-Alexander Offensive Foul Turnover (P1.T2),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022101023,154,2,5,1,8:36 PM,0:05,Waters III BLOCK (1 BLK),,MISS Thomas 6' Layup,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022101023,156,4,0,1,8:36 PM,0:00,Waters III REBOUND (Off:0 Def:1),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,157,2,103,1,8:36 PM,0:00,MISS Krejci 25' 3PT Running Pull-Up Jump Shot,,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,158,4,0,1,8:36 PM,0:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,159,13,0,1,8:36 PM,0:00,,End of 1st Period (8:36 PM EST),,29 - 41,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101023,166,12,0,2,8:39 PM,12:00,,Start of 2nd Period (8:39 PM EST),,29 - 41,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,167,1,1,2,8:39 PM,11:45,Pokusevski 10' Jump Shot (7 PTS) (Krejci 1 AST),,,29 - 43,14,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,169,2,101,2,8:39 PM,11:32,,,MISS Ball 10' Driving Floating Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,170,4,0,2,8:39 PM,11:30,Maledon REBOUND (Off:0 Def:3),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,171,2,41,2,8:39 PM,11:26,MISS Maledon 5' Running Layup,,Thomas BLOCK (1 BLK),,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,173,4,0,2,8:39 PM,11:23,Maledon REBOUND (Off:1 Def:3),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,174,2,1,2,8:39 PM,11:19,MISS Waters III 24' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,175,4,0,2,8:40 PM,11:17,Maledon REBOUND (Off:2 Def:3),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,176,6,2,2,8:40 PM,11:15,,,Harrell S.FOUL (P1.T1) (B.Kennedy),,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,178,3,11,2,8:40 PM,11:15,MISS Sarr Free Throw 1 of 2,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,179,4,1,2,8:40 PM,11:15,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,180,3,12,2,8:40 PM,11:15,Sarr Free Throw 2 of 2 (5 PTS),,,29 - 44,15,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,181,2,6,2,8:40 PM,11:05,,,MISS Ball 5' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,182,4,0,2,8:41 PM,11:02,Waters III REBOUND (Off:0 Def:2),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,183,6,28,2,8:41 PM,11:00,,,Harrell Personal Take Foul (P2.T2) (J.Orr),,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,185,6,26,2,8:41 PM,10:45,Waters III Offensive Charge Foul (P1) (P.Ransom),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,187,5,37,2,8:41 PM,10:45,Waters III Offensive Foul Turnover (P1.T3),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022101023,188,2,101,2,8:42 PM,10:33,,,MISS Thomas 9' Driving Floating Jump Shot,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,189,4,0,2,8:42 PM,10:30,Waters III REBOUND (Off:0 Def:3),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,190,1,1,2,8:42 PM,10:26,Pokusevski 24' 3PT Jump Shot (10 PTS) (Krejci 2 AST),,,29 - 47,18,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,192,1,1,2,8:42 PM,10:08,,,Thomas 3PT Jump Shot (3 PTS) (Harrell 1 AST),32 - 47,15,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,194,5,4,2,8:42 PM,9:54,Pokusevski Traveling Turnover (P1.T4),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022101023,195,8,0,2,8:42 PM,9:54,,,SUB: Bridges FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,197,1,1,2,8:43 PM,9:44,,,Thomas 26' 3PT Jump Shot (6 PTS) (Bridges 2 AST),35 - 47,12,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,200,8,0,2,8:43 PM,9:33,,,SUB: Washington FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,202,2,79,2,8:44 PM,9:16,MISS Waters III 3PT Pullup Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,203,4,0,2,8:44 PM,9:14,,,Ball REBOUND (Off:0 Def:2),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,204,2,6,2,8:44 PM,9:08,,,MISS Ball 3' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,205,4,0,2,8:44 PM,9:06,Pokusevski REBOUND (Off:1 Def:1),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,206,5,39,2,8:44 PM,8:56,Pokusevski Step Out of Bounds Turnover (P2.T5),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022101023,207,8,0,2,8:44 PM,8:56,,,SUB: Plumlee FOR Harrell,,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,209,1,1,2,8:44 PM,8:44,,,Thomas 27' 3PT Jump Shot (9 PTS) (Bridges 3 AST),38 - 47,9,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,211,1,1,2,8:45 PM,8:20,Krejci 26' 3PT Jump Shot (3 PTS) (Pokusevski 1 AST),,,38 - 50,12,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,213,2,6,2,8:45 PM,8:01,,,MISS Thomas 7' Driving Layup,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,214,4,0,2,8:45 PM,7:56,,,Ball REBOUND (Off:1 Def:2),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,215,1,1,2,8:45 PM,7:54,,,Thomas 3PT Jump Shot (12 PTS) (Ball 4 AST),41 - 50,9,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,217,5,2,2,8:46 PM,7:40,Pokusevski Lost Ball Turnover (P3.T6),,Ball STEAL (1 STL),,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,219,1,50,2,8:46 PM,7:35,,,Washington 2' Running Dunk (2 PTS) (Ball 5 AST),43 - 50,7,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,221,9,1,2,8:46 PM,7:24,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,222,8,0,2,8:48 PM,7:24,SUB: Roby FOR Sarr,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,224,2,1,2,8:49 PM,7:17,MISS Maledon 24' 3PT Jump Shot,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,225,4,0,2,8:49 PM,7:13,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,226,1,108,2,8:49 PM,7:02,,,Washington 3' Cutting Dunk Shot (4 PTS) (Ball 6 AST),45 - 50,5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,228,1,6,2,8:49 PM,6:41,Maledon 4' Driving Layup (4 PTS) (Waters III 1 AST),,,45 - 52,7,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,230,1,6,2,8:50 PM,6:18,,,Bridges 4' Driving Layup (9 PTS) (Thomas 1 AST),47 - 52,5,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,232,2,79,2,8:50 PM,6:07,MISS Waters III 27' 3PT Pullup Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,233,4,0,2,8:50 PM,6:06,Krejci REBOUND (Off:1 Def:0),,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,234,2,79,2,8:50 PM,5:55,MISS Pokusevski 11' Pullup Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,235,4,0,2,8:50 PM,5:51,,,Bridges REBOUND (Off:0 Def:2),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,236,2,1,2,8:50 PM,5:40,,,MISS Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,237,4,0,2,8:51 PM,5:36,Krejci REBOUND (Off:1 Def:1),,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,238,2,6,2,8:51 PM,5:26,MISS Maledon 4' Driving Layup,,Plumlee BLOCK (1 BLK),,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,240,4,0,2,8:51 PM,5:24,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101023,242,8,0,2,8:51 PM,5:24,SUB: Gilgeous-Alexander FOR Maledon,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,243,8,0,2,8:51 PM,5:24,SUB: Bazley FOR Pokusevski,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,244,8,0,2,8:51 PM,5:24,SUB: Mann FOR Krejci,,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,245,8,0,2,8:51 PM,5:24,,,SUB: Rozier FOR Thomas,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,250,2,6,2,8:51 PM,5:11,,,MISS Bridges 5' Driving Layup,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,251,4,0,2,8:51 PM,5:09,Bazley REBOUND (Off:0 Def:1),,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,253,5,2,2,8:51 PM,5:05,Bazley Lost Ball Turnover (P2.T7),,Bridges STEAL (1 STL),,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,255,2,5,2,8:52 PM,5:01,Roby BLOCK (1 BLK),,MISS Bridges 3' Layup,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022101023,257,4,0,2,8:52 PM,4:57,,,Plumlee REBOUND (Off:1 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,258,5,1,2,8:52 PM,4:55,Waters III STEAL (1 STL),,Plumlee Bad Pass Turnover (P1.T2),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,260,2,1,2,8:52 PM,4:50,MISS Bazley 5' Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,261,4,0,2,8:52 PM,4:47,,,Plumlee REBOUND (Off:1 Def:2),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,262,2,1,2,8:52 PM,4:39,,,MISS Rozier 24' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,263,4,0,2,8:52 PM,4:34,Roby REBOUND (Off:0 Def:3),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,264,2,80,2,8:52 PM,4:25,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,265,4,0,2,8:52 PM,4:23,,,Ball REBOUND (Off:1 Def:3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,266,1,1,2,8:52 PM,4:05,,,Bridges 24' 3PT Jump Shot (12 PTS) (Plumlee 3 AST),50 - 52,2,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,268,2,1,2,8:53 PM,3:47,MISS Waters III 24' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,269,4,0,2,8:53 PM,3:45,,,Washington REBOUND (Off:0 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,270,2,1,2,8:53 PM,3:32,,,MISS Bridges 3PT Jump Shot,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,271,4,0,2,8:53 PM,3:29,Bazley REBOUND (Off:0 Def:2),,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,272,1,6,2,8:53 PM,3:22,Gilgeous-Alexander 9' Driving Layup (13 PTS) (Bazley 4 AST),,,50 - 54,4,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,274,6,2,2,8:53 PM,3:22,,,Rozier S.FOUL (P1.T3) (J.Orr),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,276,8,0,2,8:54 PM,3:22,SUB: Pokusevski FOR Roby,,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,278,3,10,2,8:54 PM,3:22,Gilgeous-Alexander Free Throw 1 of 1 (14 PTS),,,50 - 55,5,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,279,8,0,2,8:54 PM,3:22,,,SUB: Martin FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,281,1,5,2,8:54 PM,3:06,,,Plumlee 2' Layup (3 PTS),52 - 55,3,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,282,6,2,2,8:54 PM,3:06,Pokusevski S.FOUL (P1.T1) (J.Orr),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,284,8,0,2,8:54 PM,3:06,SUB: Maledon FOR Waters III,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,286,3,10,2,8:54 PM,3:06,,,MISS Plumlee Free Throw 1 of 1,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,287,4,0,2,8:54 PM,3:04,Gilgeous-Alexander REBOUND (Off:0 Def:3),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,288,2,1,2,8:55 PM,2:56,MISS Mann 25' 3PT Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,289,4,0,2,8:55 PM,2:53,,,Rozier REBOUND (Off:0 Def:3),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,290,1,6,2,8:55 PM,2:46,,,Rozier 4' Driving Layup (10 PTS),54 - 55,1,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,291,1,108,2,8:55 PM,2:21,Bazley 2' Cutting Dunk Shot (12 PTS) (Pokusevski 2 AST),,,54 - 57,3,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,293,2,41,2,8:55 PM,2:14,,,MISS Rozier 2' Running Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,294,4,0,2,8:55 PM,2:12,Gilgeous-Alexander REBOUND (Off:0 Def:4),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,295,2,50,2,8:55 PM,2:08,MISS Bazley 4' Running Dunk,,Plumlee BLOCK (2 BLK),,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,297,4,0,2,8:56 PM,2:03,Pokusevski REBOUND (Off:2 Def:1),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,298,5,2,2,8:56 PM,2:02,Maledon Lost Ball Turnover (P1.T8),,Martin STEAL (2 STL),,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,300,9,1,2,8:56 PM,1:59,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,301,6,2,2,8:59 PM,1:52,Maledon S.FOUL (P1.T2) (B.Kennedy),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,303,7,1,2,8:59 PM,1:52,THUNDER Violation: Delay of game Violation,,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101023,304,3,13,2,9:00 PM,1:52,,,Rozier Free Throw 1 of 3 (11 PTS),55 - 57,2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,305,3,14,2,9:00 PM,1:52,,,Rozier Free Throw 2 of 3 (12 PTS),56 - 57,1,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,306,3,15,2,9:00 PM,1:52,,,Rozier Free Throw 3 of 3 (13 PTS),57 - 57,TIE,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,307,1,1,2,9:01 PM,1:38,Bazley 24' 3PT Jump Shot (15 PTS) (Gilgeous-Alexander 2 AST),,,57 - 60,3,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,309,1,1,2,9:01 PM,1:23,,,Martin 3PT Jump Shot (5 PTS) (Bridges 4 AST),60 - 60,TIE,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,311,1,73,2,9:01 PM,1:06,Bazley 3' Driving Reverse Layup (17 PTS) (Mann 5 AST),,,60 - 62,2,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,313,2,1,2,9:01 PM,0:50,,,MISS Bridges 9' Jump Shot,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,314,4,0,2,9:01 PM,0:50,Bazley REBOUND (Off:0 Def:3),,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,315,2,1,2,9:02 PM,0:38,MISS Gilgeous-Alexander 26' 3PT Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,316,4,0,2,9:02 PM,0:33,,,Rozier REBOUND (Off:0 Def:4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,317,1,1,2,9:02 PM,0:26,,,Rozier 25' 3PT Jump Shot (16 PTS) (Bridges 5 AST),63 - 62,-1,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,319,5,1,2,9:02 PM,0:08,Mann Bad Pass Turnover (P1.T9),,Martin STEAL (3 STL),,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,321,1,50,2,9:02 PM,0:06,,,Martin 2' Running Dunk (7 PTS),65 - 62,-3,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,322,2,41,2,9:02 PM,0:00,MISS Mann 3' Running Layup,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,323,4,0,2,9:02 PM,0:00,Gilgeous-Alexander REBOUND (Off:1 Def:4),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,324,1,97,2,9:02 PM,0:00,Gilgeous-Alexander Tip Layup Shot (16 PTS),,,65 - 64,-1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,325,13,0,2,9:03 PM,0:00,,End of 2nd Period (9:03 PM EST),,65 - 64,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101023,331,12,0,3,9:18 PM,12:00,,Start of 3rd Period (9:18 PM EST),,65 - 64,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,332,2,75,3,9:18 PM,11:43,MISS Mann 5' Driving Finger Roll Layup,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,333,4,0,3,9:18 PM,11:41,,,Plumlee REBOUND (Off:1 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,334,5,1,3,9:18 PM,11:27,Maledon STEAL (1 STL),,Ball Bad Pass Turnover (P2.T3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,336,5,1,3,9:18 PM,11:23,Maledon Bad Pass Turnover (P2.T10),,Rozier STEAL (1 STL),,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,338,1,1,3,9:19 PM,11:07,,,Bridges 24' 3PT Jump Shot (15 PTS),68 - 64,-4,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,339,5,1,3,9:19 PM,10:54,Gilgeous-Alexander Bad Pass Turnover (P2.T11),,Ball STEAL (2 STL),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,341,6,2,3,9:19 PM,10:49,Sarr S.FOUL (P3.T1) (J.Orr),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,343,3,11,3,9:19 PM,10:49,,,Ball Free Throw 1 of 2 (6 PTS),69 - 64,-5,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,344,3,12,3,9:20 PM,10:49,,,Ball Free Throw 2 of 2 (7 PTS),70 - 64,-6,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,345,2,1,3,9:20 PM,10:34,MISS Maledon 26' 3PT Jump Shot,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,346,4,0,3,9:20 PM,10:31,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,348,5,1,3,9:21 PM,10:17,Mann STEAL (1 STL),,Ball Bad Pass Turnover (P3.T4),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,350,6,2,3,9:21 PM,10:15,,,Rozier S.FOUL (P2.T1) (J.Orr),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,352,3,11,3,9:21 PM,10:15,Mann Free Throw 1 of 2 (10 PTS),,,70 - 65,-5,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,353,3,12,3,9:21 PM,10:15,Mann Free Throw 2 of 2 (11 PTS),,,70 - 66,-4,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,354,1,7,3,9:22 PM,9:50,,,Plumlee 2' Dunk (5 PTS) (Bridges 6 AST),72 - 66,-6,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,356,5,2,3,9:22 PM,9:30,Sarr Lost Ball Turnover (P1.T12),,Washington STEAL (1 STL),,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,358,1,1,3,9:22 PM,9:18,,,Ball 25' 3PT Jump Shot (10 PTS) (Plumlee 4 AST),75 - 66,-9,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,360,9,1,3,9:22 PM,9:17,THUNDER Timeout: Regular (Full 3 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,361,1,80,3,9:25 PM,9:04,Gilgeous-Alexander 27' 3PT Step Back Jump Shot (19 PTS) (Mann 6 AST),,,75 - 69,-6,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,363,1,1,3,9:26 PM,8:44,,,Ball 25' 3PT Jump Shot (13 PTS) (Rozier 1 AST),78 - 69,-9,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,365,1,1,3,9:26 PM,8:21,Gilgeous-Alexander 26' 3PT Jump Shot (22 PTS) (Maledon 2 AST),,,78 - 72,-6,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,367,2,1,3,9:26 PM,8:05,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,368,4,0,3,9:26 PM,8:02,Mann REBOUND (Off:1 Def:2),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,369,2,63,3,9:26 PM,7:54,MISS Maledon 7' Fadeaway Jumper,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,370,4,0,3,9:27 PM,7:51,,,Plumlee REBOUND (Off:1 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,371,1,98,3,9:27 PM,7:45,,,Rozier 4' Cutting Layup Shot (18 PTS) (Plumlee 5 AST),80 - 72,-8,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,373,6,2,3,9:27 PM,7:45,Gilgeous-Alexander S.FOUL (P2.T2) (J.Orr),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,395,3,10,3,9:27 PM,7:45,,,Rozier Free Throw 1 of 1 (19 PTS),81 - 72,-9,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0022101023,376,6,1,3,9:27 PM,7:35,,,Rozier P.FOUL (P3.T2) (J.Orr),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,378,2,6,3,9:28 PM,7:25,MISS Bazley 4' Driving Layup,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,379,4,0,3,9:28 PM,7:23,,,Plumlee REBOUND (Off:1 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,380,1,1,3,9:28 PM,7:18,,,Ball 26' 3PT Jump Shot (16 PTS) (Rozier 2 AST),84 - 72,-12,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,381,2,1,3,9:28 PM,7:01,MISS Bazley 24' 3PT Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,382,4,0,3,9:28 PM,6:58,,,Ball REBOUND (Off:1 Def:4),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,383,1,1,3,9:28 PM,6:53,,,Ball 28' 3PT Jump Shot (19 PTS) (Rozier 3 AST),87 - 72,-15,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,386,9,1,3,9:28 PM,6:51,THUNDER Timeout: Regular (Full 4 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,388,8,0,3,9:31 PM,6:51,SUB: Pokusevski FOR Mann,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,389,8,0,3,9:31 PM,6:51,SUB: Waters III FOR Sarr,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,390,8,0,3,9:31 PM,6:51,,,SUB: Martin FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,394,6,2,3,9:31 PM,6:40,,,Ball S.FOUL (P2.T3) (B.Kennedy),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,397,3,11,3,9:32 PM,6:40,Pokusevski Free Throw 1 of 2 (11 PTS),,,87 - 73,-14,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,398,3,12,3,9:32 PM,6:40,Pokusevski Free Throw 2 of 2 (12 PTS),,,87 - 74,-13,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,399,2,1,3,9:32 PM,6:21,,,MISS Rozier 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,400,4,0,3,9:32 PM,6:18,,,Plumlee REBOUND (Off:2 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,401,10,0,3,9:34 PM,6:15,Jump Ball Bazley vs. Plumlee: Tip to Bridges,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,404,1,63,3,9:34 PM,6:05,,,Martin 4' Fadeaway Jumper (9 PTS) (Plumlee 6 AST),89 - 74,-15,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,406,2,1,3,9:34 PM,5:46,MISS Pokusevski 27' 3PT Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,407,4,0,3,9:34 PM,5:43,,,Rozier REBOUND (Off:0 Def:5),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,408,2,1,3,9:34 PM,5:26,,,MISS Rozier 25' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,409,4,0,3,9:34 PM,5:24,Maledon REBOUND (Off:2 Def:4),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,410,1,98,3,9:35 PM,5:11,Gilgeous-Alexander 3' Cutting Layup Shot (24 PTS) (Pokusevski 3 AST),,,89 - 76,-13,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,412,6,2,3,9:35 PM,4:56,Maledon S.FOUL (P2.T3) (J.Orr),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,414,3,11,3,9:35 PM,4:56,,,Martin Free Throw 1 of 2 (10 PTS),90 - 76,-14,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,415,8,0,3,9:35 PM,4:56,,,SUB: Oubre Jr. FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,416,8,0,3,9:35 PM,4:56,,,SUB: Harrell FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,419,3,12,3,9:36 PM,4:56,,,Martin Free Throw 2 of 2 (11 PTS),91 - 76,-15,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,420,1,1,3,9:36 PM,4:41,Gilgeous-Alexander 26' 3PT Jump Shot (27 PTS) (Pokusevski 4 AST),,,91 - 79,-12,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,422,1,79,3,9:36 PM,4:25,,,Bridges 25' 3PT Pullup Jump Shot (18 PTS),94 - 79,-15,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,423,6,1,3,9:36 PM,4:17,,,Harrell P.FOUL (P3.T4) (J.Orr),,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,425,8,0,3,9:37 PM,4:17,SUB: Sarr FOR Maledon,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,443,8,0,3,9:37 PM,4:17,,,SUB: McDaniels FOR Bridges,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,427,2,1,3,9:37 PM,4:07,MISS Pokusevski 25' 3PT Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,428,4,0,3,9:37 PM,4:03,,,Oubre Jr. REBOUND (Off:0 Def:1),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,429,1,98,3,9:37 PM,3:55,,,McDaniels 4' Cutting Layup Shot (2 PTS) (Oubre Jr. 1 AST),96 - 79,-17,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,433,1,6,3,9:37 PM,3:45,Gilgeous-Alexander 4' Driving Layup (29 PTS),,,96 - 81,-15,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,434,6,2,3,9:37 PM,3:45,,,McDaniels S.FOUL (P1.PN) (P.Ransom),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,436,8,0,3,9:38 PM,3:45,SUB: Mann FOR Bazley,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,438,3,10,3,9:38 PM,3:45,Gilgeous-Alexander Free Throw 1 of 1 (30 PTS),,,96 - 82,-14,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,439,1,1,3,9:38 PM,3:36,,,Oubre Jr. 25' 3PT Jump Shot (4 PTS) (Harrell 2 AST),99 - 82,-17,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,441,6,1,3,9:38 PM,3:21,,,McDaniels P.FOUL (P2.PN) (B.Kennedy),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,445,3,11,3,9:39 PM,3:21,MISS Pokusevski Free Throw 1 of 2,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,446,4,1,3,9:39 PM,3:21,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,447,8,0,3,9:39 PM,3:21,,,SUB: Rozier FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,449,3,12,3,9:39 PM,3:21,Pokusevski Free Throw 2 of 2 (13 PTS),,,99 - 83,-16,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,450,2,63,3,9:39 PM,3:06,,,MISS McDaniels 7' Fadeaway Jumper,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,451,4,0,3,9:39 PM,3:02,Sarr REBOUND (Off:2 Def:3),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,452,5,1,3,9:40 PM,2:56,Pokusevski Bad Pass Turnover (P4.T13),,Rozier STEAL (2 STL),,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,672,5,45,3,9:40 PM,2:51,,,Rozier Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0022101023,457,8,0,3,9:40 PM,2:51,SUB: Krejci FOR Pokusevski,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,459,2,1,3,9:40 PM,2:38,MISS Waters III 26' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,460,4,0,3,9:40 PM,2:33,,,McDaniels REBOUND (Off:1 Def:1),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,461,2,6,3,9:40 PM,2:20,,,MISS McDaniels 5' Driving Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,462,4,0,3,9:40 PM,2:18,Krejci REBOUND (Off:1 Def:2),,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,464,1,1,3,9:41 PM,2:00,Krejci 25' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),,,99 - 86,-13,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,466,1,78,3,9:41 PM,1:46,,,Oubre Jr. 8' Floating Jump Shot (6 PTS),101 - 86,-15,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,467,2,78,3,9:41 PM,1:29,MISS Sarr 8' Floating Jump Shot,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,468,4,0,3,9:41 PM,1:27,,,Oubre Jr. REBOUND (Off:0 Def:2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,469,6,2,3,9:42 PM,1:20,Waters III S.FOUL (P2.T4) (P.Ransom),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,471,18,0,3,9:42 PM,1:20,,Instant Replay3rd Period (9:42 PM EST),,101 - 86,-15,0,469,Jamal Mashburn,,,,,0,0,,,,,,1,0,,,,,,0
+0022101023,472,3,13,3,9:44 PM,1:20,,,MISS Oubre Jr. Free Throw 1 of 3,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,473,4,1,3,9:44 PM,1:20,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,474,3,14,3,9:44 PM,1:20,,,Oubre Jr. Free Throw 2 of 3 (7 PTS),102 - 86,-16,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,475,3,15,3,9:44 PM,1:20,,,MISS Oubre Jr. Free Throw 3 of 3,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,476,4,0,3,9:44 PM,1:19,Gilgeous-Alexander REBOUND (Off:1 Def:5),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,477,1,1,3,9:44 PM,1:01,Krejci 24' 3PT Jump Shot (9 PTS) (Waters III 2 AST),,,102 - 89,-13,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,479,2,79,3,9:45 PM,0:49,,,MISS McDaniels 6' Pullup Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,480,4,0,3,9:45 PM,0:46,Waters III REBOUND (Off:0 Def:4),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,481,2,1,3,9:45 PM,0:36,MISS Krejci 26' 3PT Jump Shot,,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,482,4,0,3,9:45 PM,0:33,,,Oubre Jr. REBOUND (Off:0 Def:3),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,483,2,1,3,9:45 PM,0:14,,,MISS Oubre Jr. 25' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,484,4,0,3,9:45 PM,0:11,Mann REBOUND (Off:1 Def:3),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,528,2,79,3,9:45 PM,0:01,MISS Mann 14' Pullup Jump Shot,,Oubre Jr. BLOCK (1 BLK),,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,530,4,0,3,9:45 PM,0:01,Mann REBOUND (Off:2 Def:3),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,485,1,1,3,9:45 PM,0:00,Mann 9' Jump Shot (13 PTS),,,102 - 91,-11,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,486,13,0,3,9:46 PM,0:00,,End of 3rd Period (9:46 PM EST),,102 - 91,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101023,497,12,0,4,9:48 PM,12:00,,Start of 4th Period (9:48 PM EST),,102 - 91,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,498,1,1,4,9:48 PM,11:48,,,Rozier 3PT Jump Shot (22 PTS) (Thomas 2 AST),105 - 91,-14,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,500,5,2,4,9:49 PM,11:33,Krejci Lost Ball Turnover (P1.T14),,Oubre Jr. STEAL (1 STL),,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,502,2,1,4,9:49 PM,11:27,,,MISS Oubre Jr. 25' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,503,4,0,4,9:49 PM,11:23,Roby REBOUND (Off:0 Def:4),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,504,1,79,4,9:49 PM,11:18,Krejci 26' 3PT Pullup Jump Shot (12 PTS) (Maledon 3 AST),,,105 - 94,-11,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,506,6,28,4,9:49 PM,10:57,Krejci Personal Take Foul (P1.T1) (P.Ransom),,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,508,1,79,4,9:50 PM,10:48,,,Rozier 9' Pullup Jump Shot (24 PTS),107 - 94,-13,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,509,2,79,4,9:50 PM,10:32,MISS Mann 26' 3PT Pullup Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,510,4,0,4,9:50 PM,10:30,,,Washington REBOUND (Off:0 Def:2),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,511,2,101,4,9:50 PM,10:16,,,MISS Thomas 8' Driving Floating Jump Shot,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,512,4,0,4,9:50 PM,10:15,,,Oubre Jr. REBOUND (Off:1 Def:3),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,513,1,97,4,9:50 PM,10:15,,,Oubre Jr. Tip Layup Shot (9 PTS),109 - 94,-15,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,514,2,79,4,9:50 PM,10:02,MISS Mann 26' 3PT Pullup Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,515,4,0,4,9:50 PM,9:58,,,Washington REBOUND (Off:0 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,516,6,1,4,9:51 PM,9:51,Roby P.FOUL (P4.T2) (J.Orr),,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,518,6,1,4,9:51 PM,9:45,Krejci P.FOUL (P2.T3) (P.Ransom),,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,520,8,0,4,9:51 PM,9:45,SUB: Pokusevski FOR Maledon,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,522,1,79,4,9:52 PM,9:36,,,Rozier 12' Pullup Jump Shot (26 PTS),111 - 94,-17,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,523,5,1,4,9:52 PM,9:21,Krejci Bad Pass Turnover (P2.T15),,Washington STEAL (2 STL),,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,525,1,52,4,9:52 PM,9:17,,,Oubre Jr. 2' Alley Oop Dunk (11 PTS) (Rozier 4 AST),113 - 94,-19,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,527,9,1,4,9:52 PM,9:17,THUNDER Timeout: Regular (Full 5 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,531,8,0,4,9:54 PM,9:17,SUB: Gilgeous-Alexander FOR Roby,,,,,4,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,532,8,0,4,9:54 PM,9:17,SUB: Sarr FOR Krejci,,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,535,1,101,4,9:55 PM,9:03,Pokusevski 5' Driving Floating Jump Shot (15 PTS) (Sarr 3 AST),,,113 - 96,-17,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,536,1,79,4,9:55 PM,8:50,,,Rozier 20' Pullup Jump Shot (28 PTS) (Thomas 3 AST),115 - 96,-19,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,537,1,9,4,9:55 PM,8:35,Bazley 2' Driving Dunk (19 PTS),,,115 - 98,-17,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,538,1,101,4,9:56 PM,8:19,,,Rozier 11' Driving Floating Jump Shot (30 PTS),117 - 98,-19,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,540,2,1,4,9:56 PM,8:04,MISS Bazley 3PT Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,541,4,0,4,9:56 PM,8:03,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,543,8,0,4,9:56 PM,8:03,SUB: Waters III FOR Mann,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,546,9,1,4,9:56 PM,8:03,THUNDER Timeout: Regular (Full 6 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,548,18,5,4,9:57 PM,8:03,,Instant Replay4th Period (9:57 PM EST),,117 - 98,-19,0,542,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101023,549,5,13,4,9:59 PM,8:02,Pokusevski Backcourt Turnover (P5.T16),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022101023,550,5,2,4,10:00 PM,7:54,Waters III STEAL (2 STL),,Rozier Lost Ball Turnover (P2.T6),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,552,1,41,4,10:00 PM,7:50,Waters III 5' Running Layup (2 PTS),,,117 - 100,-17,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,554,2,1,4,10:00 PM,7:42,,,MISS Oubre Jr. 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,555,4,0,4,10:00 PM,7:39,Sarr REBOUND (Off:2 Def:4),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,556,2,79,4,10:01 PM,7:33,MISS Gilgeous-Alexander 9' Pullup Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,557,4,0,4,10:01 PM,7:29,,,Rozier REBOUND (Off:0 Def:6),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,558,2,79,4,10:01 PM,7:11,,,MISS Rozier 15' Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,559,4,0,4,10:01 PM,7:08,Bazley REBOUND (Off:0 Def:4),,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,560,6,2,4,10:01 PM,6:58,,,Harrell S.FOUL (P4.T1) (J.Orr),,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,562,3,11,4,10:02 PM,6:58,Bazley Free Throw 1 of 2 (20 PTS),,,117 - 101,-16,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,563,8,0,4,10:02 PM,6:58,,,SUB: Bridges FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,564,8,0,4,10:02 PM,6:58,,,SUB: Plumlee FOR Harrell,,,5,1626149,Montrezl Harrell,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,565,8,0,4,10:02 PM,6:58,,,SUB: Ball FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,569,3,12,4,10:02 PM,6:58,MISS Bazley Free Throw 2 of 2,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,570,4,0,4,10:02 PM,6:56,,,Plumlee REBOUND (Off:2 Def:6),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,571,2,78,4,10:02 PM,6:42,Sarr BLOCK (1 BLK),,MISS Thomas 6' Floating Jump Shot,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022101023,573,4,0,4,10:02 PM,6:38,Waters III REBOUND (Off:0 Def:5),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,581,8,0,4,10:02 PM,6:37,,,SUB: Martin FOR Thomas,,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,574,1,50,4,10:02 PM,6:37,Bazley 1' Running Dunk (22 PTS) (Pokusevski 5 AST),,,117 - 103,-14,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,576,9,1,4,10:02 PM,6:37,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,577,1,1,4,10:04 PM,6:14,,,Bridges 26' 3PT Jump Shot (21 PTS) (Plumlee 7 AST),120 - 103,-17,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,579,1,5,4,10:05 PM,5:50,Sarr 2' Layup (7 PTS) (Gilgeous-Alexander 4 AST),,,120 - 105,-15,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,583,2,1,4,10:05 PM,5:27,,,MISS Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,584,4,0,4,10:05 PM,5:24,Waters III REBOUND (Off:0 Def:6),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,585,2,5,4,10:05 PM,5:20,MISS Gilgeous-Alexander 3' Layup,,Plumlee BLOCK (3 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,587,4,0,4,10:05 PM,5:19,Gilgeous-Alexander REBOUND (Off:2 Def:5),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,588,6,2,4,10:05 PM,5:19,,,Ball S.FOUL (P3.T2) (J.Orr),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,590,3,11,4,10:06 PM,5:19,Gilgeous-Alexander Free Throw 1 of 2 (31 PTS),,,120 - 106,-14,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,591,3,12,4,10:06 PM,5:19,Gilgeous-Alexander Free Throw 2 of 2 (32 PTS),,,120 - 107,-13,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,592,6,1,4,10:06 PM,5:10,Gilgeous-Alexander P.FOUL (P3.T4) (B.Kennedy),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,594,1,5,4,10:06 PM,5:03,,,Washington 3' Layup (6 PTS) (Ball 7 AST),122 - 107,-15,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,596,2,1,4,10:07 PM,4:41,MISS Gilgeous-Alexander 26' 3PT Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,597,4,0,4,10:07 PM,4:38,,,Plumlee REBOUND (Off:2 Def:7),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,599,2,98,4,10:07 PM,4:27,,,MISS Plumlee 4' Cutting Layup Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,600,4,0,4,10:07 PM,4:24,Pokusevski REBOUND (Off:2 Def:2),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,601,5,1,4,10:07 PM,4:23,Pokusevski Bad Pass Turnover (P6.T17),,Plumlee STEAL (1 STL),,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,604,2,78,4,10:08 PM,4:02,,,MISS Washington 12' Floating Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,605,4,0,4,10:08 PM,3:55,,,Washington REBOUND (Off:2 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,606,2,97,4,10:08 PM,3:55,,,MISS Washington Tip Layup Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,607,4,0,4,10:08 PM,3:55,,,Washington REBOUND (Off:2 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,621,2,97,4,10:08 PM,3:55,,,MISS Washington 3' Tip Layup Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,622,4,0,4,10:08 PM,3:55,Gilgeous-Alexander REBOUND (Off:2 Def:6),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,608,2,6,4,10:08 PM,3:48,MISS Gilgeous-Alexander 4' Driving Layup,,Plumlee BLOCK (4 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+0022101023,610,4,0,4,10:08 PM,3:48,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,612,8,0,4,10:08 PM,3:48,,,SUB: Rozier FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,614,6,26,4,10:09 PM,3:42,Gilgeous-Alexander Offensive Charge Foul (P4) (P.Ransom),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,616,5,37,4,10:09 PM,3:42,Gilgeous-Alexander Offensive Foul Turnover (P3.T18),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022101023,617,1,102,4,10:10 PM,3:34,,,Bridges 5' Driving Floating Bank Jump Shot (23 PTS),124 - 107,-17,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,618,1,1,4,10:10 PM,3:15,Bazley 25' 3PT Jump Shot (25 PTS) (Gilgeous-Alexander 5 AST),,,124 - 110,-14,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,620,9,1,4,10:10 PM,3:13,,,Hornets Timeout: Regular (Reg.5 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,623,6,1,4,10:12 PM,3:10,Gilgeous-Alexander P.FOUL (P5.PN) (J.Orr),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022101023,625,3,11,4,10:12 PM,3:10,,,Ball Free Throw 1 of 2 (20 PTS),125 - 110,-15,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,626,3,12,4,10:12 PM,3:10,,,Ball Free Throw 2 of 2 (21 PTS),126 - 110,-16,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,627,2,1,4,10:13 PM,2:57,MISS Bazley 26' 3PT Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,628,4,0,4,10:13 PM,2:52,,,Bridges REBOUND (Off:0 Def:3),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,629,1,79,4,10:13 PM,2:32,,,Bridges 17' Pullup Jump Shot (25 PTS),128 - 110,-18,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,630,9,1,4,10:13 PM,2:32,THUNDER Timeout: Regular (Full 7 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,631,8,0,4,10:14 PM,2:32,SUB: Krejci FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,632,8,0,4,10:14 PM,2:32,SUB: Maledon FOR Bazley,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022101023,635,2,79,4,10:15 PM,2:16,MISS Waters III 26' 3PT Pullup Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,636,4,0,4,10:15 PM,2:13,,,Plumlee REBOUND (Off:2 Def:8),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,637,1,44,4,10:15 PM,2:00,,,Bridges 3' Reverse Layup (27 PTS) (Plumlee 8 AST),130 - 110,-20,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,639,6,28,4,10:15 PM,1:59,,,Bridges Personal Take Foul (P1.T3) (P.Ransom),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,641,8,0,4,10:15 PM,1:59,,,SUB: Thor FOR Bridges,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,642,8,0,4,10:15 PM,1:59,,,SUB: Richards FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,643,8,0,4,10:15 PM,1:59,,,SUB: Thomas FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,644,8,0,4,10:15 PM,1:59,,,SUB: McDaniels FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022101023,649,2,6,4,10:16 PM,1:44,MISS Krejci 6' Driving Layup,,,,,4,1630249,Vít Krejčí,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,650,4,0,4,10:16 PM,1:41,Sarr REBOUND (Off:3 Def:4),,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,651,2,97,4,10:16 PM,1:41,MISS Sarr Tip Layup Shot,,,,,4,1630846,Olivier Sarr,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,652,4,0,4,10:16 PM,1:40,,,Thor REBOUND (Off:0 Def:1),,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,653,1,79,4,10:16 PM,1:22,,,Thor 19' Pullup Jump Shot (2 PTS),132 - 110,-22,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,654,6,1,4,10:17 PM,1:13,,,Thomas P.FOUL (P1.PN) (J.Orr),,,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022101023,656,3,11,4,10:17 PM,1:13,Maledon Free Throw 1 of 2 (5 PTS),,,132 - 111,-21,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,657,3,12,4,10:17 PM,1:13,Maledon Free Throw 2 of 2 (6 PTS),,,132 - 112,-20,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,658,1,5,4,10:18 PM,1:03,,,Richards 2' Layup (2 PTS) (Thomas 4 AST),134 - 112,-22,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,202738,Isaiah Thomas,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022101023,660,2,1,4,10:18 PM,0:43,MISS Maledon 27' 3PT Jump Shot,,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,661,4,0,4,10:18 PM,0:40,Pokusevski REBOUND (Off:3 Def:2),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,662,1,72,4,10:18 PM,0:40,Pokusevski 2' Putback Layup (17 PTS),,,134 - 114,-20,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,663,2,98,4,10:18 PM,0:30,,,MISS Richards 3' Cutting Layup Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022101023,664,4,0,4,10:18 PM,0:28,Maledon REBOUND (Off:2 Def:5),,,,,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,665,2,1,4,10:18 PM,0:24,MISS Pokusevski 26' 3PT Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022101023,666,4,0,4,10:18 PM,0:21,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101023,668,1,44,4,10:19 PM,0:20,Waters III 3' Reverse Layup (4 PTS) (Maledon 4 AST),,,134 - 116,-18,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022101023,670,13,0,4,10:19 PM,0:00,,End of 4th Period (10:19 PM EST),,134 - 116,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

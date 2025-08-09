@@ -1,0 +1,420 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100123,2,12,0,1,8:42 PM,12:00,,Start of 1st Period (8:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,4,10,0,1,8:42 PM,12:00,Jump Ball Vucevic vs. Lopez: Tip to G. Antetokounmpo,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,7,2,1,1,8:42 PM,11:40,,,MISS Holiday 25' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,8,4,0,1,8:42 PM,11:34,Caruso REBOUND (Off:0 Def:1),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,9,2,102,1,8:43 PM,11:19,MISS DeRozan 6' Driving Floating Bank Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,10,4,0,1,8:43 PM,11:17,Williams REBOUND (Off:1 Def:0),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,11,2,1,1,8:43 PM,11:14,MISS Williams 26' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,12,4,0,1,8:43 PM,11:10,,,G. Antetokounmpo REBOUND (Off:0 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,13,1,75,1,8:43 PM,11:00,,,Holiday 1' Driving Finger Roll Layup (2 PTS),2 - 0,-2,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,14,1,1,1,8:43 PM,10:46,Vucevic 26' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),,,2 - 3,1,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,16,5,1,1,8:44 PM,10:31,DeRozan STEAL (1 STL),,Matthews Bad Pass Turnover (P1.T1),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,18,2,1,1,8:44 PM,10:21,MISS LaVine 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,19,4,0,1,8:44 PM,10:17,,,Portis REBOUND (Off:0 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,20,1,1,1,8:44 PM,10:05,,,Lopez 3PT Jump Shot (3 PTS),5 - 3,-2,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,22,2,79,1,8:44 PM,9:44,MISS Williams 17' Pullup Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,23,4,0,1,8:44 PM,9:42,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,24,2,5,1,8:44 PM,9:36,Vucevic BLOCK (1 BLK),,MISS Portis 1' Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0042100123,26,4,0,1,8:44 PM,9:32,,,Portis REBOUND (Off:1 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,27,1,1,1,8:45 PM,9:30,,,Portis 16' Jump Shot (2 PTS) (Matthews 1 AST),7 - 3,-4,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,29,1,1,1,8:45 PM,9:07,Vucevic 26' 3PT Jump Shot (6 PTS) (LaVine 1 AST),,,7 - 6,-1,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,31,1,1,1,8:45 PM,8:57,,,Portis 25' 3PT Jump Shot (5 PTS) (G. Antetokounmpo 1 AST),10 - 6,-4,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,33,2,1,1,8:45 PM,8:39,MISS Vucevic 26' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,34,4,0,1,8:45 PM,8:37,,,G. Antetokounmpo REBOUND (Off:0 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,35,1,6,1,8:46 PM,8:32,,,G. Antetokounmpo 2' Driving Layup (2 PTS),12 - 6,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,36,6,2,1,8:46 PM,8:32,LaVine S.FOUL (P1.T1) (M.Davis),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,38,3,10,1,8:46 PM,8:32,,,MISS G. Antetokounmpo Free Throw 1 of 1,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,39,4,0,1,8:46 PM,8:29,Vucevic REBOUND (Off:0 Def:1),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,40,2,79,1,8:47 PM,8:06,MISS DeRozan 10' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,41,4,0,1,8:47 PM,8:02,,,G. Antetokounmpo REBOUND (Off:0 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,42,1,1,1,8:47 PM,7:57,,,Portis 26' 3PT Jump Shot (8 PTS) (Holiday 1 AST),15 - 6,-9,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,44,1,79,1,8:47 PM,7:44,Caruso 25' 3PT Pullup Jump Shot (3 PTS),,,15 - 9,-6,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,45,1,6,1,8:47 PM,7:35,,,Holiday 1' Driving Layup (4 PTS),17 - 9,-8,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,46,9,1,1,8:47 PM,7:34,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,47,2,79,1,8:51 PM,7:18,MISS DeRozan 15' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,48,4,0,1,8:51 PM,7:18,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,49,2,1,1,8:51 PM,7:02,,,MISS Portis 25' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,50,4,0,1,8:52 PM,6:59,Williams REBOUND (Off:1 Def:1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,51,5,2,1,8:52 PM,6:48,DeRozan Lost Ball Turnover (P1.T1),,Holiday STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,53,1,41,1,8:52 PM,6:45,,,Holiday 1' Running Layup (6 PTS),19 - 9,-10,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,54,2,1,1,8:52 PM,6:29,MISS Vucevic 21' Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,55,4,0,1,8:52 PM,6:27,,,Portis REBOUND (Off:1 Def:2),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,56,2,1,1,8:52 PM,6:12,,,MISS Matthews 3PT Jump Shot,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,57,4,0,1,8:52 PM,6:09,,,Matthews REBOUND (Off:1 Def:0),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,58,6,4,1,8:53 PM,6:02,,,G. Antetokounmpo OFF.Foul (P1) (M.Davis),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,60,5,37,1,8:53 PM,6:02,,,G. Antetokounmpo Offensive Foul Turnover (P1.T2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100123,61,8,0,1,8:53 PM,6:02,,,SUB: Allen FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,63,2,79,1,8:53 PM,5:47,MISS LaVine 20' Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,64,4,0,1,8:53 PM,5:44,,,Allen REBOUND (Off:0 Def:1),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,65,2,79,1,8:54 PM,5:29,,,MISS Holiday 15' Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,66,4,0,1,8:54 PM,5:25,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,67,2,58,1,8:54 PM,5:13,MISS Vucevic 6' Turnaround Hook Shot,,Lopez BLOCK (1 BLK),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,69,4,0,1,8:54 PM,5:10,,,Portis REBOUND (Off:1 Def:3),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,70,2,1,1,8:54 PM,5:05,,,MISS Portis 16' Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,71,4,0,1,8:54 PM,5:01,Vucevic REBOUND (Off:0 Def:2),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,72,2,1,1,8:55 PM,4:42,MISS Vucevic 26' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,73,4,0,1,8:55 PM,4:38,,,Portis REBOUND (Off:1 Def:4),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,74,2,79,1,8:55 PM,4:33,,,MISS Holiday 25' 3PT Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,75,4,0,1,8:55 PM,4:30,Vucevic REBOUND (Off:0 Def:3),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,76,1,6,1,8:55 PM,4:22,DeRozan 2' Driving Layup (2 PTS),,,19 - 11,-8,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,77,2,6,1,8:55 PM,4:01,,,MISS Allen 2' Driving Layup,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,78,4,0,1,8:55 PM,3:59,LaVine REBOUND (Off:0 Def:1),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,79,5,4,1,8:56 PM,3:42,LaVine Traveling Turnover (P1.T2),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0042100123,80,9,1,1,8:56 PM,3:42,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,81,8,0,1,8:59 PM,3:42,SUB: White FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,82,8,0,1,8:59 PM,3:42,SUB: Jones Jr. FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,83,8,0,1,8:59 PM,3:42,SUB: Thompson FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,84,8,0,1,8:59 PM,3:42,,,SUB: Carter FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,85,8,0,1,8:59 PM,3:42,,,SUB: G. Antetokounmpo FOR Matthews,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,100,8,0,1,8:59 PM,3:42,,,SUB: Connaughton FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,91,1,1,1,9:00 PM,3:30,,,Allen 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),22 - 11,-11,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,93,1,79,1,9:00 PM,3:15,DeRozan 17' Pullup Jump Shot (4 PTS),,,22 - 13,-9,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,94,1,1,1,9:00 PM,2:57,,,Allen 25' 3PT Jump Shot (6 PTS) (Carter 1 AST),25 - 13,-12,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,96,2,6,1,9:00 PM,2:42,MISS Caruso 3' Driving Layup,,Connaughton BLOCK (1 BLK),,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,98,4,0,1,9:01 PM,2:37,,,Connaughton REBOUND (Off:0 Def:1),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,99,6,1,1,9:01 PM,2:36,Caruso P.FOUL (P1.T2) (S.Wright),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,103,8,0,1,9:01 PM,2:36,SUB: LaVine FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,105,1,1,1,9:01 PM,2:28,,,Allen 26' 3PT Jump Shot (9 PTS) (G. Antetokounmpo 3 AST),28 - 13,-15,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,107,1,78,1,9:02 PM,2:05,LaVine 9' Floating Jump Shot (2 PTS),,,28 - 15,-13,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,108,2,79,1,9:02 PM,1:57,,,MISS G. Antetokounmpo 25' 3PT Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,109,4,0,1,9:02 PM,1:55,White REBOUND (Off:0 Def:1),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,110,2,1,1,9:02 PM,1:48,MISS White 28' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,111,4,0,1,9:02 PM,1:43,,,Connaughton REBOUND (Off:0 Def:2),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,112,1,63,1,9:02 PM,1:34,,,Holiday 10' Fadeaway Jumper (8 PTS),30 - 15,-15,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,113,2,101,1,9:02 PM,1:09,MISS White 5' Driving Floating Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,114,4,0,1,9:03 PM,1:07,,,Allen REBOUND (Off:0 Def:2),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,115,6,2,1,9:03 PM,0:52,White S.FOUL (P1.T3) (B.Forte),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,117,3,13,1,9:03 PM,0:52,,,Connaughton Free Throw 1 of 3 (1 PTS),31 - 15,-16,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,118,3,14,1,9:04 PM,0:52,,,Connaughton Free Throw 2 of 3 (2 PTS),32 - 15,-17,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,119,3,15,1,9:04 PM,0:52,,,Connaughton Free Throw 3 of 3 (3 PTS),33 - 15,-18,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,120,1,6,1,9:04 PM,0:36,LaVine 1' Driving Layup (4 PTS) (Thompson 1 AST),,,33 - 17,-16,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,122,2,79,1,9:04 PM,0:28,,,MISS G. Antetokounmpo 19' Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,123,4,0,1,9:04 PM,0:24,LaVine REBOUND (Off:0 Def:2),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,124,5,2,1,9:05 PM,0:02,Thompson Lost Ball Turnover (P1.T3),,Allen STEAL (1 STL),,,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,126,2,1,1,9:05 PM,0:00,,,MISS Holiday 52' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,127,4,0,1,9:05 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,128,13,0,1,9:05 PM,0:00,,End of 1st Period (9:05 PM EST),,33 - 17,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100123,137,12,0,2,9:09 PM,12:00,,Start of 2nd Period (9:09 PM EST),,33 - 17,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,138,2,1,2,9:09 PM,11:49,MISS White 25' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,139,4,0,2,9:09 PM,11:45,Green REBOUND (Off:1 Def:0),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,140,1,63,2,9:09 PM,11:38,White 9' Fadeaway Jumper (2 PTS) (Vucevic 1 AST),,,33 - 19,-14,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,142,2,79,2,9:09 PM,11:25,,,MISS Portis 21' Pullup Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,143,4,0,2,9:09 PM,11:22,White REBOUND (Off:0 Def:2),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,144,2,1,2,9:10 PM,11:04,MISS Green 25' 3PT Jump Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,145,4,0,2,9:10 PM,11:00,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,146,6,1,2,9:10 PM,10:52,White P.FOUL (P2.T1) (B.Forte),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,148,8,0,2,9:10 PM,10:52,SUB: Caruso FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,150,2,1,2,9:10 PM,10:42,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,151,4,0,2,9:10 PM,10:39,Caruso REBOUND (Off:0 Def:2),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,152,1,1,2,9:11 PM,10:31,Caruso 25' 3PT Jump Shot (6 PTS) (LaVine 2 AST),,,33 - 22,-11,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,154,1,79,2,9:11 PM,10:08,,,G. Antetokounmpo 19' Pullup Jump Shot (4 PTS),35 - 22,-13,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,155,2,79,2,9:11 PM,9:54,MISS LaVine 20' Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,156,4,0,2,9:11 PM,9:48,,,Matthews REBOUND (Off:1 Def:1),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,157,1,9,2,9:11 PM,9:42,,,G. Antetokounmpo Driving Dunk (6 PTS),37 - 22,-15,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,158,2,101,2,9:12 PM,9:21,MISS Caruso 4' Driving Floating Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,159,4,0,2,9:12 PM,9:19,,,Connaughton REBOUND (Off:0 Def:3),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,160,2,1,2,9:12 PM,9:09,,,MISS Connaughton 24' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,161,4,0,2,9:12 PM,9:04,,,Matthews REBOUND (Off:2 Def:1),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,162,1,1,2,9:12 PM,9:03,,,Connaughton 25' 3PT Jump Shot (6 PTS) (Carter 2 AST),40 - 22,-18,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,164,9,1,2,9:12 PM,9:02,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,165,8,0,2,9:16 PM,9:02,,,SUB: Allen FOR Matthews,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,167,6,1,2,9:16 PM,8:50,,,Carter P.FOUL (P1.T1) (S.Wright),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,169,5,1,2,9:16 PM,8:41,LaVine Bad Pass Turnover (P2.T4),,Carter STEAL (1 STL),,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,171,6,2,2,9:17 PM,8:39,Caruso S.FOUL (P2.T2) (S.Wright),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,173,3,11,2,9:17 PM,8:39,,,G. Antetokounmpo Free Throw 1 of 2 (7 PTS),41 - 22,-19,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,174,8,0,2,9:17 PM,8:39,SUB: Williams FOR Green,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,176,3,12,2,9:18 PM,8:39,,,G. Antetokounmpo Free Throw 2 of 2 (8 PTS),42 - 22,-20,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,177,2,1,2,9:18 PM,8:24,MISS Williams 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,178,4,0,2,9:18 PM,8:21,,,Portis REBOUND (Off:1 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,179,2,1,2,9:18 PM,8:08,,,MISS Portis 25' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,180,4,0,2,9:18 PM,8:05,White REBOUND (Off:0 Def:3),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,181,2,1,2,9:18 PM,7:52,MISS White 28' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,182,4,0,2,9:18 PM,7:49,,,Portis REBOUND (Off:1 Def:6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,183,1,98,2,9:19 PM,7:39,,,Portis 1' Cutting Layup Shot (10 PTS) (G. Antetokounmpo 4 AST),44 - 22,-22,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,185,2,1,2,9:19 PM,7:19,MISS LaVine 27' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,186,4,0,2,9:19 PM,7:16,,,G. Antetokounmpo REBOUND (Off:0 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,187,2,1,2,9:19 PM,7:08,,,MISS Allen 27' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,188,4,0,2,9:19 PM,7:06,,,Portis REBOUND (Off:2 Def:6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,189,2,1,2,9:19 PM,7:03,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,190,4,0,2,9:19 PM,7:03,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,192,6,3,2,9:19 PM,7:03,,,Portis L.B.FOUL (P1.T2) (B.Forte),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,194,8,0,2,9:20 PM,7:03,SUB: DeRozan FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,195,8,0,2,9:20 PM,7:03,,,SUB: Holiday FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,196,8,0,2,9:20 PM,7:03,,,SUB: Lopez FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,200,2,79,2,9:20 PM,6:46,MISS DeRozan 22' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,201,4,0,2,9:20 PM,6:43,,,Allen REBOUND (Off:0 Def:3),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,202,1,6,2,9:20 PM,6:38,,,Allen 1' Driving Layup (11 PTS),46 - 22,-24,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,203,1,1,2,9:21 PM,6:18,White 3PT Jump Shot (5 PTS) (DeRozan 2 AST),,,46 - 25,-21,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,205,2,1,2,9:21 PM,6:00,,,MISS Lopez 26' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,206,4,0,2,9:21 PM,5:56,White REBOUND (Off:0 Def:4),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,207,1,1,2,9:21 PM,5:47,Caruso 25' 3PT Jump Shot (9 PTS) (White 1 AST),,,46 - 28,-18,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,209,9,1,2,9:21 PM,5:38,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,210,8,0,2,9:24 PM,5:38,SUB: LaVine FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,211,8,0,2,9:24 PM,5:38,SUB: Dosunmu FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,212,8,0,2,9:24 PM,5:38,,,SUB: G. Antetokounmpo FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,213,8,0,2,9:24 PM,5:38,,,SUB: Matthews FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,218,1,63,2,9:25 PM,5:19,,,Lopez 12' Fadeaway Jumper (5 PTS) (G. Antetokounmpo 5 AST),48 - 28,-20,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,220,2,6,2,9:26 PM,4:51,MISS LaVine 1' Driving Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,221,4,0,2,9:26 PM,4:49,,,Holiday REBOUND (Off:0 Def:2),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,222,6,26,2,9:26 PM,4:47,,,G. Antetokounmpo Offensive Charge Foul (P2) (M.Davis),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,224,5,37,2,9:26 PM,4:47,,,G. Antetokounmpo Offensive Foul Turnover (P2.T3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100123,225,2,6,2,9:26 PM,4:38,MISS LaVine 1' Driving Layup,,Lopez BLOCK (2 BLK),,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,227,4,0,2,9:26 PM,4:35,,,Allen REBOUND (Off:0 Def:4),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,228,2,41,2,9:26 PM,4:30,Williams BLOCK (1 BLK),,MISS Allen 3' Running Layup,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1
+0042100123,230,4,0,2,9:27 PM,4:27,Vucevic REBOUND (Off:0 Def:4),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,231,1,1,2,9:27 PM,4:18,Vucevic 19' Jump Shot (8 PTS) (DeRozan 3 AST),,,48 - 30,-18,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,233,1,6,2,9:27 PM,4:03,,,Holiday 1' Driving Layup (10 PTS),50 - 30,-20,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,234,5,40,2,9:27 PM,3:42,DeRozan Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0042100123,235,8,0,2,9:27 PM,3:42,SUB: Caruso FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,237,6,1,2,9:28 PM,3:29,LaVine P.FOUL (P2.T3) (S.Wright),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,239,2,58,2,9:28 PM,3:16,,,MISS Lopez 7' Turnaround Hook Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,240,4,0,2,9:28 PM,3:14,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,241,1,6,2,9:28 PM,3:08,DeRozan 2' Driving Layup (6 PTS),,,50 - 32,-18,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,242,6,2,2,9:29 PM,3:08,,,Matthews S.FOUL (P1.T3) (S.Wright),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,244,3,10,2,9:29 PM,3:08,DeRozan Free Throw 1 of 1 (7 PTS),,,50 - 33,-17,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,245,1,1,2,9:29 PM,2:52,,,Allen 26' 3PT Jump Shot (14 PTS) (G. Antetokounmpo 6 AST),53 - 33,-20,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,248,1,1,2,9:29 PM,2:40,DeRozan 19' Jump Shot (9 PTS) (Vucevic 2 AST),,,53 - 35,-18,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,250,1,52,2,9:30 PM,2:27,,,G. Antetokounmpo Alley Oop Dunk (10 PTS) (Holiday 2 AST),55 - 35,-20,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,253,8,0,2,9:30 PM,2:07,,,SUB: Connaughton FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,255,2,98,2,9:30 PM,1:58,MISS Williams 1' Cutting Layup Shot,,Allen BLOCK (1 BLK),,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,257,4,0,2,9:31 PM,1:45,,,Allen REBOUND (Off:0 Def:5),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,258,1,1,2,9:31 PM,1:45,,,Holiday 25' 3PT Jump Shot (13 PTS) (Lopez 1 AST),58 - 35,-23,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,260,1,1,2,9:31 PM,1:30,Vucevic 20' Jump Shot (10 PTS) (LaVine 3 AST),,,58 - 37,-21,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,262,1,6,2,9:31 PM,1:15,,,Lopez 2' Driving Layup (7 PTS),60 - 37,-23,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,263,6,1,2,9:31 PM,1:03,,,Matthews P.FOUL (P2.T4) (B.Forte),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,265,2,1,2,9:32 PM,0:52,MISS Vucevic 25' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,266,4,0,2,9:32 PM,0:49,,,Holiday REBOUND (Off:0 Def:3),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,267,2,79,2,9:32 PM,0:33,,,MISS Holiday 24' 3PT Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,268,4,0,2,9:32 PM,0:31,LaVine REBOUND (Off:0 Def:3),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,269,1,78,2,9:33 PM,0:24,Vucevic 6' Floating Jump Shot (12 PTS) (LaVine 4 AST),,,60 - 39,-21,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,271,5,1,2,9:33 PM,0:04,Williams STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,273,1,41,2,9:33 PM,0:01,LaVine 1' Running Layup (6 PTS) (Williams 1 AST),,,60 - 41,-19,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,275,13,0,2,9:33 PM,0:00,,End of 2nd Period (9:33 PM EST),,60 - 41,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100123,280,12,0,3,9:49 PM,12:00,,Start of 3rd Period (9:49 PM EST),,60 - 41,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,281,5,1,3,9:49 PM,11:46,DeRozan Bad Pass Turnover (P3.T6),,Matthews STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,283,2,86,3,9:49 PM,11:31,,,MISS G. Antetokounmpo 13' Turnaround Fadeaway Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,284,4,0,3,9:49 PM,11:28,DeRozan REBOUND (Off:0 Def:3),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,285,1,79,3,9:50 PM,11:14,LaVine 25' 3PT Pullup Jump Shot (9 PTS) (Vucevic 3 AST),,,60 - 44,-16,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,287,1,79,3,9:50 PM,10:58,,,G. Antetokounmpo 19' Pullup Jump Shot (12 PTS),62 - 44,-18,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,315,2,1,3,9:50 PM,10:46,MISS DeRozan 13' Jump Shot,,Holiday BLOCK (1 BLK),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,317,4,0,3,9:50 PM,10:46,,,G. Antetokounmpo REBOUND (Off:0 Def:5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,290,1,52,3,9:50 PM,10:39,,,G. Antetokounmpo 1' Alley Oop Dunk (14 PTS) (Holiday 3 AST),64 - 44,-20,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,292,2,1,3,9:50 PM,10:29,MISS Vucevic 25' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,293,4,0,3,9:50 PM,10:25,,,Portis REBOUND (Off:2 Def:7),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,294,6,2,3,9:51 PM,10:13,Williams S.FOUL (P1.T1) (S.Wright),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,296,3,11,3,9:51 PM,10:13,,,G. Antetokounmpo Free Throw 1 of 2 (15 PTS),65 - 44,-21,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,297,3,12,3,9:52 PM,10:13,,,G. Antetokounmpo Free Throw 2 of 2 (16 PTS),66 - 44,-22,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,298,2,58,3,9:52 PM,9:49,MISS Vucevic 7' Turnaround Hook Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,299,4,0,3,9:52 PM,9:46,,,G. Antetokounmpo REBOUND (Off:0 Def:6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,300,2,1,3,9:52 PM,9:33,,,MISS Lopez 16' Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,301,4,0,3,9:52 PM,9:31,Vucevic REBOUND (Off:0 Def:5),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,302,2,1,3,9:53 PM,9:19,MISS Williams 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,303,4,0,3,9:53 PM,9:14,,,Lopez REBOUND (Off:0 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,304,1,47,3,9:53 PM,9:05,,,Portis 13' Turnaround Jump Shot (12 PTS) (Holiday 4 AST),68 - 44,-24,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,306,2,1,3,9:53 PM,8:48,MISS Vucevic 26' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,307,4,0,3,9:53 PM,8:45,,,Portis REBOUND (Off:2 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,308,2,1,3,9:53 PM,8:36,,,MISS G. Antetokounmpo 26' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,309,4,0,3,9:53 PM,8:32,DeRozan REBOUND (Off:0 Def:4),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,311,5,45,3,9:54 PM,8:16,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0042100123,312,1,9,3,9:54 PM,8:02,,,G. Antetokounmpo 1' Driving Dunk (18 PTS) (Holiday 5 AST),70 - 44,-26,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,314,9,1,3,9:55 PM,8:00,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,318,8,0,3,9:58 PM,8:00,SUB: Jones Jr. FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,320,5,45,3,9:59 PM,7:48,Jones Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0042100123,321,6,1,3,9:59 PM,7:37,Caruso P.FOUL (P3.T2) (S.Wright),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,323,6,1,3,9:59 PM,7:26,DeRozan P.FOUL (P1.T3) (B.Forte),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,325,1,1,3,10:00 PM,7:19,,,Matthews 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 7 AST),73 - 44,-29,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,327,1,1,3,10:01 PM,6:55,LaVine 25' 3PT Jump Shot (12 PTS) (DeRozan 4 AST),,,73 - 47,-26,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,329,2,1,3,10:01 PM,6:44,,,MISS Matthews 28' 3PT Jump Shot,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,330,4,0,3,10:01 PM,6:44,LaVine REBOUND (Off:0 Def:4),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,331,1,78,3,10:01 PM,6:35,Vucevic 7' Floating Jump Shot (14 PTS) (LaVine 5 AST),,,73 - 49,-24,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,333,6,26,3,10:01 PM,6:25,,,G. Antetokounmpo Offensive Charge Foul (P3) (B.Forte),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,335,5,37,3,10:01 PM,6:25,,,G. Antetokounmpo Offensive Foul Turnover (P3.T5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100123,336,9,1,3,10:01 PM,6:25,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,337,18,4,3,10:01 PM,6:25,,Instant Replay3rd Period (10:01 PM EST),,73 - 49,-24,0,333,Kevin Gamble,,,,,0,0,,,,,,1,0,,,,,,1
+0042100123,338,8,0,3,10:04 PM,6:25,,,SUB: Allen FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,340,2,1,3,10:05 PM,6:09,MISS Caruso 24' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,341,4,0,3,10:05 PM,6:07,,,Lopez REBOUND (Off:0 Def:2),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,342,2,101,3,10:05 PM,5:59,,,MISS Lopez 8' Driving Floating Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,343,4,0,3,10:05 PM,5:58,Vucevic REBOUND (Off:0 Def:6),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,344,2,1,3,10:06 PM,5:43,MISS Caruso 25' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,345,4,0,3,10:06 PM,5:41,,,Portis REBOUND (Off:2 Def:9),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,346,2,1,3,10:06 PM,5:33,,,MISS Portis 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,347,4,0,3,10:06 PM,5:30,LaVine REBOUND (Off:0 Def:5),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,348,2,73,3,10:06 PM,5:17,MISS LaVine 2' Driving Reverse Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,349,4,0,3,10:06 PM,5:15,,,Portis REBOUND (Off:2 Def:10),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,350,2,6,3,10:06 PM,5:06,,,MISS Holiday 2' Driving Layup,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,351,4,0,3,10:06 PM,5:03,,,Holiday REBOUND (Off:1 Def:3),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,352,1,97,3,10:06 PM,5:03,,,Holiday Tip Layup Shot (15 PTS),75 - 49,-26,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,353,1,1,3,10:07 PM,4:55,Vucevic 19' Jump Shot (16 PTS) (Caruso 1 AST),,,75 - 51,-24,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,356,8,0,3,10:07 PM,4:40,SUB: White FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,357,8,0,3,10:07 PM,4:40,,,SUB: Connaughton FOR Matthews,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,360,10,0,3,10:08 PM,4:36,Jump Ball LaVine vs. Holiday: Tip to White,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1
+0042100123,363,5,2,3,10:08 PM,4:36,LaVine STEAL (1 STL),,Holiday Lost Ball Turnover (P2.T6),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,365,1,1,3,10:08 PM,4:25,Vucevic 25' 3PT Jump Shot (19 PTS) (Jones Jr. 1 AST),,,75 - 54,-21,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,367,2,101,3,10:08 PM,4:07,,,MISS Lopez 7' Driving Floating Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,368,4,0,3,10:08 PM,4:05,,,Portis REBOUND (Off:3 Def:10),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,369,2,1,3,10:08 PM,4:02,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,370,4,0,3,10:08 PM,4:00,Jones Jr. REBOUND (Off:0 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,371,6,2,3,10:08 PM,3:52,,,Lopez S.FOUL (P1.T1) (B.Forte),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,373,3,11,3,10:09 PM,3:52,MISS DeRozan Free Throw 1 of 2,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,374,4,1,3,10:09 PM,3:52,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,379,3,12,3,10:09 PM,3:52,MISS DeRozan Free Throw 2 of 2,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0042100123,375,8,0,3,10:09 PM,3:52,SUB: Dosunmu FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,376,8,0,3,10:09 PM,3:52,,,SUB: Carter FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,380,4,0,3,10:09 PM,3:51,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,399,6,1,3,10:10 PM,3:42,Jones Jr. P.FOUL (P1.T4) (B.Forte),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,385,1,1,3,10:10 PM,3:28,,,Allen 26' 3PT Jump Shot (17 PTS) (Holiday 6 AST),78 - 54,-24,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,387,2,1,3,10:10 PM,3:16,MISS Vucevic 25' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,388,4,0,3,10:10 PM,3:14,,,Holiday REBOUND (Off:1 Def:4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,389,2,1,3,10:11 PM,3:02,,,MISS Holiday 15' Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,390,4,0,3,10:11 PM,2:59,DeRozan REBOUND (Off:0 Def:5),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,391,2,1,3,10:11 PM,2:53,MISS White 28' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,392,4,0,3,10:11 PM,2:50,,,Holiday REBOUND (Off:1 Def:5),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,393,1,1,3,10:11 PM,2:31,,,Lopez 6' Jump Shot (9 PTS),80 - 54,-26,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,395,2,1,3,10:11 PM,2:06,MISS Dosunmu 25' 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,396,4,0,3,10:12 PM,2:04,,,Allen REBOUND (Off:0 Def:6),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,397,6,2,3,10:12 PM,1:57,DeRozan S.FOUL (P2.PN) (S.Wright),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,401,3,11,3,10:12 PM,1:57,,,Holiday Free Throw 1 of 2 (16 PTS),81 - 54,-27,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,406,3,12,3,10:12 PM,1:57,,,MISS Holiday Free Throw 2 of 2,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,402,8,0,3,10:12 PM,1:57,SUB: Thompson FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,403,8,0,3,10:12 PM,1:57,,,SUB: G. Antetokounmpo FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,407,4,0,3,10:12 PM,1:55,White REBOUND (Off:0 Def:5),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,409,2,79,3,10:13 PM,1:34,MISS White 17' Pullup Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,410,4,0,3,10:13 PM,1:31,,,Connaughton REBOUND (Off:0 Def:4),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,411,1,6,3,10:14 PM,1:17,,,Allen 1' Driving Layup (19 PTS) (Carter 3 AST),83 - 54,-29,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,413,6,2,3,10:14 PM,1:17,Thompson S.FOUL (P1.PN) (B.Forte),,,,,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,415,8,0,3,10:14 PM,1:17,,,SUB: Portis FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,417,8,0,3,10:14 PM,1:17,SUB: LaVine FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,419,3,10,3,10:14 PM,1:17,,,Allen Free Throw 1 of 1 (20 PTS),84 - 54,-30,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,420,2,1,3,10:14 PM,1:07,MISS Jones Jr. 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,421,4,0,3,10:15 PM,1:04,,,G. Antetokounmpo REBOUND (Off:0 Def:7),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,422,1,1,3,10:15 PM,0:56,,,Connaughton 29' 3PT Jump Shot (9 PTS) (G. Antetokounmpo 8 AST),87 - 54,-33,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,424,1,101,3,10:15 PM,0:42,LaVine 4' Driving Floating Jump Shot (14 PTS),,,87 - 56,-31,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,425,6,2,3,10:15 PM,0:42,,,Carter S.FOUL (P2.T2) (B.Forte),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,427,8,0,3,10:15 PM,0:42,,,SUB: Matthews FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,429,3,10,3,10:16 PM,0:42,LaVine Free Throw 1 of 1 (15 PTS),,,87 - 57,-30,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0042100123,430,2,1,3,10:16 PM,0:30,,,MISS G. Antetokounmpo 28' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,431,4,0,3,10:16 PM,0:28,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,433,6,2,3,10:17 PM,0:10,,,Matthews S.FOUL (P3.PN) (B.Forte),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,435,3,11,3,10:17 PM,0:10,DeRozan Free Throw 1 of 2 (10 PTS),,,87 - 58,-29,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,436,8,0,3,10:17 PM,0:10,,,SUB: Holiday FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,437,8,0,3,10:17 PM,0:10,,,SUB: Portis FOR Matthews,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,440,3,12,3,10:17 PM,0:10,DeRozan Free Throw 2 of 2 (11 PTS),,,87 - 59,-28,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,442,1,1,3,10:18 PM,0:00,,,Portis 27' 3PT Jump Shot (15 PTS) (Connaughton 1 AST),90 - 59,-31,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,444,13,0,3,10:18 PM,0:00,,End of 3rd Period (10:18 PM EST),,90 - 59,-31,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100123,453,12,0,4,10:21 PM,12:00,,Start of 4th Period (10:21 PM EST),,90 - 59,-31,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,454,6,4,4,10:22 PM,11:52,,,Portis OFF.Foul (P2) (M.Davis),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0042100123,456,5,37,4,10:22 PM,11:52,,,Portis Offensive Foul Turnover (P1.T7),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0042100123,457,2,101,4,10:22 PM,11:35,MISS Williams 8' Driving Floating Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,458,4,0,4,10:22 PM,11:32,,,Portis REBOUND (Off:3 Def:11),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,459,1,1,4,10:22 PM,11:26,,,Portis 26' 3PT Jump Shot (18 PTS) (G. Antetokounmpo 9 AST),93 - 59,-34,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,461,2,1,4,10:23 PM,11:06,MISS Williams 25' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,462,4,0,4,10:23 PM,11:04,Dosunmu REBOUND (Off:1 Def:0),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,463,1,79,4,10:23 PM,11:02,Dosunmu 14' Pullup Jump Shot (2 PTS),,,93 - 61,-32,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,464,2,1,4,10:23 PM,10:38,,,MISS Portis 28' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,465,4,0,4,10:23 PM,10:37,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,467,1,78,4,10:23 PM,10:26,Thompson 4' Floating Jump Shot (2 PTS) (Dosunmu 1 AST),,,93 - 63,-30,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,469,5,2,4,10:24 PM,10:11,Brown Jr. STEAL (1 STL),,G. Antetokounmpo Lost Ball Turnover (P4.T8),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,471,6,4,4,10:24 PM,10:09,Brown Jr. OFF.Foul (P1) (M.Davis),,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,473,5,37,4,10:24 PM,10:09,Brown Jr. Offensive Foul Turnover (P1.T9),,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0042100123,474,2,1,4,10:24 PM,9:56,,,MISS Allen 27' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,475,4,0,4,10:24 PM,9:52,White REBOUND (Off:0 Def:6),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,476,5,2,4,10:24 PM,9:43,Thompson Lost Ball Turnover (P2.T10),,Connaughton STEAL (1 STL),,,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,478,2,1,4,10:25 PM,9:32,,,MISS Connaughton 28' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,479,4,0,4,10:25 PM,9:28,White REBOUND (Off:0 Def:7),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,480,2,79,4,10:25 PM,9:16,MISS Dosunmu 17' Pullup Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,481,4,0,4,10:25 PM,9:10,,,Portis REBOUND (Off:3 Def:12),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,482,1,6,4,10:25 PM,9:02,,,Allen 2' Driving Layup (22 PTS) (Carter 4 AST),95 - 63,-32,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,484,2,58,4,10:25 PM,8:48,MISS Thompson 4' Turnaround Hook Shot,,G. Antetokounmpo BLOCK (1 BLK),,,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100123,486,4,0,4,10:25 PM,8:45,Dosunmu REBOUND (Off:2 Def:0),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,487,2,47,4,10:25 PM,8:43,MISS Williams 5' Turnaround Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,488,4,0,4,10:26 PM,8:40,,,Portis REBOUND (Off:3 Def:13),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,489,9,1,4,10:26 PM,8:39,,,Bucks Timeout: Regular (Reg.4 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,490,8,0,4,10:29 PM,8:39,,,SUB: Ibaka FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,491,8,0,4,10:29 PM,8:39,,,SUB: T. Antetokounmpo FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,492,8,0,4,10:29 PM,8:39,,,SUB: Nwora FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,496,1,6,4,10:29 PM,8:27,,,Connaughton 3' Driving Layup (11 PTS) (T. Antetokounmpo 1 AST),97 - 63,-34,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,498,6,2,4,10:30 PM,8:02,,,T. Antetokounmpo S.FOUL (P1.T1) (B.Forte),,,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,500,3,11,4,10:30 PM,8:02,White Free Throw 1 of 2 (6 PTS),,,97 - 64,-33,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0042100123,506,3,12,4,10:30 PM,8:02,MISS White Free Throw 2 of 2,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0042100123,501,8,0,4,10:30 PM,8:02,,,SUB: Tucker FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1629730,Rayjon Tucker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,502,8,0,4,10:30 PM,8:02,,,SUB: Vildoza FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100123,507,4,0,4,10:30 PM,7:58,,,Ibaka REBOUND (Off:0 Def:1),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,508,2,5,4,10:31 PM,7:42,,,MISS Nwora 2' Layup,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,509,4,0,4,10:31 PM,7:40,Brown Jr. REBOUND (Off:0 Def:1),,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,510,2,1,4,10:31 PM,7:28,MISS Dosunmu 24' 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,511,4,0,4,10:31 PM,7:24,,,Nwora REBOUND (Off:0 Def:1),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,512,2,1,4,10:32 PM,7:12,,,MISS Vildoza 3PT Jump Shot,,,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,513,4,0,4,10:32 PM,7:12,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,515,2,79,4,10:32 PM,6:59,MISS White 25' 3PT Pullup Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,516,4,0,4,10:32 PM,6:57,,,Ibaka REBOUND (Off:0 Def:2),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,517,2,1,4,10:32 PM,6:50,,,MISS Ibaka 26' 3PT Jump Shot,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,518,4,0,4,10:32 PM,6:48,Williams REBOUND (Off:1 Def:2),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,519,2,1,4,10:32 PM,6:43,MISS Williams 20' Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,520,4,0,4,10:32 PM,6:41,,,Vildoza REBOUND (Off:0 Def:1),,,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,521,1,50,4,10:32 PM,6:38,,,T. Antetokounmpo Running Dunk (2 PTS) (Vildoza 1 AST),99 - 64,-35,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,523,2,79,4,10:33 PM,6:20,MISS Brown Jr. 15' Pullup Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,524,4,0,4,10:33 PM,6:17,,,Ibaka REBOUND (Off:0 Def:3),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,526,8,0,4,10:33 PM,6:07,SUB: Bradley FOR Thompson,,,,,4,202684,Tristan Thompson,1610612741.0,Chicago,Bulls,CHI,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,528,2,1,4,10:33 PM,6:04,,,MISS Nwora 25' 3PT Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,529,4,0,4,10:33 PM,6:03,White REBOUND (Off:0 Def:8),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,530,6,1,4,10:33 PM,6:03,,,Vildoza P.FOUL (P1.T2) (B.Forte),,,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,532,5,1,4,10:34 PM,5:51,White Bad Pass Turnover (P1.T11),,Vildoza STEAL (1 STL),,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,534,1,50,4,10:34 PM,5:45,,,Nwora 1' Running Dunk (2 PTS) (Vildoza 2 AST),101 - 64,-37,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,536,1,1,4,10:34 PM,5:33,Bradley 20' Jump Shot (2 PTS),,,101 - 66,-35,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,537,2,78,4,10:34 PM,5:20,,,MISS Ibaka 12' Floating Jump Shot,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,538,4,0,4,10:34 PM,5:17,,,Ibaka REBOUND (Off:1 Def:3),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,539,1,47,4,10:34 PM,5:14,,,Ibaka 7' Turnaround Jump Shot (2 PTS),103 - 66,-37,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,540,5,1,4,10:34 PM,5:03,Dosunmu Bad Pass Turnover (P1.T12),,T. Antetokounmpo STEAL (1 STL),,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,542,5,1,4,10:34 PM,5:00,Williams STEAL (2 STL),,Ibaka Bad Pass Turnover (P1.T9),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,544,1,7,4,10:35 PM,4:55,Bradley 1' Dunk (4 PTS) (Dosunmu 2 AST),,,103 - 68,-35,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,546,2,1,4,10:35 PM,4:33,,,MISS Nwora 21' Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,547,4,0,4,10:35 PM,4:31,,,Tucker REBOUND (Off:1 Def:0),,,5,1629730,Rayjon Tucker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,548,2,1,4,10:35 PM,4:25,,,MISS Ibaka 16' Jump Shot,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,549,4,0,4,10:35 PM,4:24,Williams REBOUND (Off:1 Def:3),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,550,6,2,4,10:35 PM,4:19,,,T. Antetokounmpo S.FOUL (P2.T3) (B.Forte),,,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,552,3,11,4,10:36 PM,4:19,MISS Williams Free Throw 1 of 2,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,553,4,1,4,10:36 PM,4:19,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,554,8,0,4,10:36 PM,4:19,SUB: Green FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,556,3,12,4,10:36 PM,4:19,Williams Free Throw 2 of 2 (1 PTS),,,103 - 69,-34,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0042100123,557,2,79,4,10:36 PM,3:59,,,MISS Vildoza 27' 3PT Pullup Jump Shot,,,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,558,4,0,4,10:36 PM,3:55,Bradley REBOUND (Off:0 Def:1),,,,,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,559,6,1,4,10:36 PM,3:52,,,T. Antetokounmpo P.FOUL (P3.T4) (S.Wright),,,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0042100123,561,2,79,4,10:37 PM,3:46,MISS Dosunmu 26' 3PT Pullup Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,562,4,0,4,10:37 PM,3:43,,,Ibaka REBOUND (Off:1 Def:4),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,563,2,98,4,10:37 PM,3:33,,,MISS Ibaka 2' Cutting Layup Shot,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,564,4,0,4,10:37 PM,3:31,Bradley REBOUND (Off:0 Def:2),,,,,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,565,1,7,4,10:37 PM,3:21,Bradley 1' Dunk (6 PTS) (Dosunmu 3 AST),,,103 - 71,-32,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,567,2,80,4,10:37 PM,3:08,,,MISS Nwora 19' Step Back Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,568,4,0,4,10:37 PM,3:05,Bradley REBOUND (Off:0 Def:3),,,,,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,569,1,78,4,10:38 PM,2:56,Bradley 4' Floating Jump Shot (8 PTS) (Dosunmu 4 AST),,,103 - 73,-30,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,571,2,6,4,10:38 PM,2:39,,,MISS Ibaka 6' Driving Layup,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,572,4,0,4,10:38 PM,2:35,Green REBOUND (Off:1 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,574,5,1,4,10:39 PM,2:31,Dosunmu Bad Pass Turnover (P2.T13),,Vildoza STEAL (2 STL),,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,576,1,9,4,10:39 PM,2:28,,,T. Antetokounmpo 1' Driving Dunk (4 PTS) (Vildoza 3 AST),105 - 73,-32,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,587,6,2,4,10:39 PM,2:28,Williams S.FOUL (P2.T1) (S.Wright),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,594,3,10,4,10:39 PM,2:28,,,MISS T. Antetokounmpo Free Throw 1 of 1,,,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,595,4,0,4,10:39 PM,2:28,Brown Jr. REBOUND (Off:0 Def:2),,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0042100123,578,9,1,4,10:39 PM,2:28,BULLS Timeout: Regular (Full 4 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100123,579,8,0,4,10:39 PM,2:28,SUB: Jones Jr. FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0042100123,581,2,1,4,10:42 PM,2:14,MISS Brown Jr. 26' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,582,4,0,4,10:42 PM,2:13,Jones Jr. REBOUND (Off:1 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,583,1,97,4,10:42 PM,2:10,Jones Jr. Tip Layup Shot (2 PTS),,,105 - 75,-30,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,584,1,1,4,10:43 PM,1:49,,,Vildoza 29' 3PT Jump Shot (3 PTS) (Nwora 1 AST),108 - 75,-33,5,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100123,586,2,79,4,10:43 PM,1:34,MISS Brown Jr. 21' Pullup Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,589,4,0,4,10:43 PM,1:34,,,Tucker REBOUND (Off:1 Def:1),,,5,1629730,Rayjon Tucker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,590,2,5,4,10:43 PM,1:18,,,MISS T. Antetokounmpo 2' Layup,,,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,591,4,0,4,10:43 PM,1:17,,,Ibaka REBOUND (Off:2 Def:4),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,592,1,72,4,10:43 PM,1:17,,,Ibaka 1' Putback Layup (4 PTS),110 - 75,-35,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,593,1,79,4,10:43 PM,1:09,Dosunmu 13' Pullup Jump Shot (4 PTS),,,110 - 77,-33,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,596,2,1,4,10:44 PM,1:00,,,MISS Nwora 27' 3PT Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,597,4,0,4,10:44 PM,1:00,Dosunmu REBOUND (Off:2 Def:1),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,598,1,6,4,10:44 PM,0:55,Bradley 1' Driving Layup (10 PTS) (Dosunmu 5 AST),,,110 - 79,-31,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0042100123,600,6,2,4,10:44 PM,0:44,Dosunmu S.FOUL (P1.T2) (M.Davis),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100123,602,3,11,4,10:45 PM,0:44,,,Ibaka Free Throw 1 of 2 (5 PTS),111 - 79,-32,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,603,3,12,4,10:45 PM,0:44,,,MISS Ibaka Free Throw 2 of 2,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100123,604,4,0,4,10:45 PM,0:42,Dosunmu REBOUND (Off:2 Def:2),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,605,1,6,4,10:45 PM,0:25,Brown Jr. 2' Driving Layup (2 PTS),,,111 - 81,-30,4,1628972,Troy Brown Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0042100123,606,5,11,4,10:46 PM,0:01,,,Bucks Turnover: Shot Clock (T#10),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100123,607,13,0,4,10:46 PM,0:00,,End of 4th Period (10:46 PM EST),,111 - 81,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

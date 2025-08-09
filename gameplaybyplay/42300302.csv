@@ -1,0 +1,438 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300302,2,12,0,1,8:14 PM,12:00,,Start of 1st Period (8:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,4,10,0,1,8:14 PM,12:00,Jump Ball Horford vs. Turner: Tip to Nembhard,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1
+0042300302,7,1,108,1,8:15 PM,11:38,,,Siakam 1' Cutting Dunk Shot (2 PTS) (Nembhard 1 AST),2 - 0,-2,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,9,2,5,1,8:15 PM,11:17,MISS Tatum 1' Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,10,4,0,1,8:15 PM,11:16,Tatum REBOUND (Off:1 Def:0),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,11,2,97,1,8:15 PM,11:16,MISS Tatum Tip Layup Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,12,4,0,1,8:15 PM,11:14,Holiday REBOUND (Off:1 Def:0),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,13,1,1,1,8:15 PM,11:12,Brown 25' 3PT Jump Shot (3 PTS) (Holiday 1 AST),,,2 - 3,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,15,1,86,1,8:15 PM,11:02,,,Siakam 16' Turnaround Fadeaway (4 PTS),4 - 3,-1,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,16,2,79,1,8:15 PM,10:52,MISS White 26' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,17,4,0,1,8:15 PM,10:50,,,Siakam REBOUND (Off:0 Def:1),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,18,5,2,1,8:15 PM,10:41,Horford STEAL (1 STL),,Siakam Lost Ball Turnover (P1.T1),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,20,2,1,1,8:16 PM,10:34,MISS Horford 26' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,21,4,0,1,8:16 PM,10:32,,,Turner REBOUND (Off:0 Def:1),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,22,2,1,1,8:16 PM,10:24,,,MISS Turner 24' 3PT Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,23,4,0,1,8:16 PM,10:22,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,24,6,2,1,8:16 PM,10:07,,,Nesmith S.FOUL (P1.T1) (J.Williams),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,26,3,11,1,8:17 PM,10:07,Brown Free Throw 1 of 2 (4 PTS),,,4 - 4,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,27,3,12,1,8:17 PM,10:07,Brown Free Throw 2 of 2 (5 PTS),,,4 - 5,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,28,2,1,1,8:17 PM,9:52,,,MISS Turner 27' 3PT Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,29,4,0,1,8:17 PM,9:49,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,31,2,1,1,8:18 PM,9:36,,,MISS Nembhard 26' 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,32,4,0,1,8:18 PM,9:34,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,34,1,79,1,8:18 PM,9:26,,,Nesmith 15' Pullup Jump Shot (2 PTS) (Haliburton 1 AST),6 - 5,-1,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,36,2,80,1,8:19 PM,9:05,MISS Brown 26' 3PT Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,37,4,0,1,8:19 PM,9:04,White REBOUND (Off:1 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,38,1,85,1,8:19 PM,8:58,Horford 4' Turnaround Bank Shot (2 PTS) (White 1 AST),,,6 - 7,1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,40,1,79,1,8:19 PM,8:43,,,Nesmith 17' Pullup Jump Shot (4 PTS) (Siakam 1 AST),8 - 7,-1,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,42,1,108,1,8:19 PM,8:33,Brown Cutting Dunk Shot (7 PTS) (White 2 AST),,,8 - 9,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,44,6,2,1,8:20 PM,8:23,Brown S.FOUL (P1.T1) (S.Foster),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,46,3,11,1,8:20 PM,8:23,,,Nembhard Free Throw 1 of 2 (1 PTS),9 - 9,TIE,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,47,3,12,1,8:20 PM,8:23,,,Nembhard Free Throw 2 of 2 (2 PTS),10 - 9,-1,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,48,1,47,1,8:20 PM,8:07,Tatum 20' Turnaround Jump Shot (2 PTS) (Holiday 2 AST),,,10 - 11,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,50,1,80,1,8:21 PM,7:57,,,Haliburton 27' 3PT Step Back Jump Shot (3 PTS),13 - 11,-2,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,51,1,78,1,8:21 PM,7:44,Holiday 8' Floating Jump Shot (2 PTS) (White 3 AST),,,13 - 13,TIE,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,54,8,0,1,8:21 PM,7:33,SUB: Pritchard FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,56,1,1,1,8:22 PM,7:28,,,Nembhard 25' 3PT Jump Shot (5 PTS) (Haliburton 2 AST),16 - 13,-3,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,58,1,9,1,8:22 PM,7:12,Horford 1' Driving Dunk (4 PTS) (Tatum 1 AST),,,16 - 15,-1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,61,6,4,1,8:22 PM,6:57,,,Turner OFF.Foul (P1) (S.Wright),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,63,5,37,1,8:22 PM,6:57,,,Turner Offensive Foul Turnover (P1.T2),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,64,9,1,1,8:22 PM,6:57,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,65,8,0,1,8:25 PM,6:57,SUB: Kornet FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,66,8,0,1,8:25 PM,6:57,,,SUB: Toppin FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,67,8,0,1,8:25 PM,6:57,,,SUB: McConnell FOR Nesmith,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,68,8,0,1,8:25 PM,6:57,,,SUB: Sheppard FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,76,5,2,1,8:26 PM,6:40,Brown Lost Ball Turnover (P1.T1),,Turner STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,80,5,45,1,8:26 PM,6:38,,,Turner Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,74,2,79,1,8:27 PM,6:34,MISS White 17' Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,75,4,0,1,8:27 PM,6:31,,,Toppin REBOUND (Off:0 Def:1),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,78,1,1,1,8:27 PM,6:15,,,McConnell 13' Jump Shot (2 PTS) (Haliburton 3 AST),18 - 15,-3,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,81,2,79,1,8:27 PM,6:01,MISS Tatum 26' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,82,4,0,1,8:27 PM,6:01,White REBOUND (Off:2 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,83,2,101,1,8:27 PM,5:54,MISS White 9' Driving Floating Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,84,4,0,1,8:27 PM,5:51,,,Haliburton REBOUND (Off:0 Def:1),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,85,6,26,1,8:28 PM,5:45,,,Turner Offensive Charge Foul (P2) (J.Williams),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,87,5,37,1,8:28 PM,5:45,,,Turner Offensive Foul Turnover (P3.T4),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,88,8,0,1,8:28 PM,5:45,,,SUB: Jackson FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,90,2,1,1,8:28 PM,5:33,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,91,4,0,1,8:28 PM,5:32,Kornet REBOUND (Off:1 Def:0),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,92,1,63,1,8:28 PM,5:24,Pritchard 6' Fadeaway Jumper (2 PTS),,,18 - 17,-1,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,93,2,79,1,8:29 PM,5:15,,,MISS McConnell 20' Pullup Jump Shot,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,94,4,0,1,8:29 PM,5:13,Pritchard REBOUND (Off:0 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,95,5,39,1,8:29 PM,5:12,Pritchard Step Out of Bounds Turnover (P1.T2),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300302,96,1,6,1,8:29 PM,5:00,,,Toppin 4' Driving Layup (2 PTS),20 - 17,-3,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,97,6,1,1,8:29 PM,4:59,,,Sheppard P.FOUL (P1.T2) (S.Foster),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,99,2,1,1,8:29 PM,4:50,MISS Tatum 26' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,100,4,0,1,8:30 PM,4:47,Brown REBOUND (Off:1 Def:0),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,101,2,6,1,8:30 PM,4:44,MISS Brown 3' Driving Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,102,4,0,1,8:30 PM,4:43,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300302,103,6,3,1,8:30 PM,4:43,Brown L.B.FOUL (P2.T2) (J.Williams),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,105,8,0,1,8:30 PM,4:43,SUB: Holiday FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,106,8,0,1,8:30 PM,4:43,SUB: Hauser FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,107,8,0,1,8:30 PM,4:43,,,SUB: Nesmith FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,111,1,1,1,8:31 PM,4:30,,,McConnell 26' 3PT Jump Shot (5 PTS) (Nesmith 1 AST),23 - 17,-6,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,113,6,26,1,8:31 PM,4:08,Tatum Offensive Charge Foul (P1) (J.Williams),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,115,5,37,1,8:31 PM,4:08,Tatum Offensive Foul Turnover (P1.T3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300302,116,2,1,1,8:31 PM,3:52,,,MISS Nesmith 24' 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,117,4,0,1,8:31 PM,3:51,Kornet REBOUND (Off:1 Def:1),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,118,1,80,1,8:32 PM,3:40,Pritchard 27' 3PT Step Back Jump Shot (5 PTS),,,23 - 20,-3,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,119,9,1,1,8:32 PM,3:39,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,120,8,0,1,8:35 PM,3:39,,,SUB: Haliburton FOR Nesmith,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,122,5,45,1,8:36 PM,3:21,,,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,123,5,45,1,8:36 PM,3:05,Tatum Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300302,124,8,0,1,8:36 PM,3:05,,,SUB: Siakam FOR Jackson,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,126,1,63,1,8:37 PM,2:57,,,Haliburton 15' Fadeaway Jumper (5 PTS) (McConnell 1 AST),25 - 20,-5,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,128,6,1,1,8:37 PM,2:40,,,McConnell P.FOUL (P1.T3) (S.Wright),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,130,5,45,1,8:37 PM,2:36,Kornet Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300302,131,2,63,1,8:38 PM,2:12,,,MISS McConnell 12' Fadeaway Jumper,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,132,4,0,1,8:38 PM,2:11,Hauser REBOUND (Off:0 Def:1),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,133,6,1,1,8:38 PM,2:07,,,Siakam P.FOUL (P1.T4) (S.Foster),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,135,8,0,1,8:38 PM,2:07,SUB: Horford FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,137,2,73,1,8:39 PM,1:56,MISS Tatum 3' Driving Reverse Layup,,Toppin BLOCK (1 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1
+0042300302,139,4,0,1,8:39 PM,1:55,,,Siakam REBOUND (Off:0 Def:2),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,140,2,2,1,8:39 PM,1:50,,,MISS Sheppard 24' 3PT Running Jump Shot,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,141,4,0,1,8:39 PM,1:48,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,142,1,98,1,8:39 PM,1:39,Hauser 1' Cutting Layup Shot (2 PTS) (Holiday 3 AST),,,25 - 22,-3,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,146,9,1,1,8:40 PM,1:24,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,148,1,6,1,8:41 PM,1:14,,,McConnell 3' Driving Layup (7 PTS),27 - 22,-5,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,149,2,83,1,8:41 PM,1:00,MISS Pritchard 9' Fadeaway Bank Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,150,4,0,1,8:41 PM,0:58,,,McConnell REBOUND (Off:0 Def:1),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,151,2,80,1,8:42 PM,0:49,,,MISS Haliburton 29' 3PT Step Back Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,152,4,0,1,8:42 PM,0:47,Tatum REBOUND (Off:1 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,153,1,1,1,8:42 PM,0:31,Holiday 27' 3PT Jump Shot (5 PTS) (Tatum 2 AST),,,27 - 25,-2,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,155,5,1,1,8:42 PM,0:15,Hauser STEAL (1 STL),,Sheppard Bad Pass Turnover (P1.T6),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,158,8,0,1,8:43 PM,0:05,,,SUB: Nembhard FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,160,2,80,1,8:43 PM,0:01,MISS Pritchard 20' Step Back Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,161,4,0,1,8:43 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300302,162,13,0,1,8:43 PM,0:00,,End of 1st Period (8:43 PM EST),,27 - 25,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300302,171,12,0,2,8:47 PM,12:00,,Start of 2nd Period (8:47 PM EST),,27 - 25,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,172,2,1,2,8:47 PM,11:43,MISS Brown 26' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,173,4,0,2,8:47 PM,11:41,,,McConnell REBOUND (Off:0 Def:2),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,174,2,6,2,8:47 PM,11:28,,,MISS Siakam 9' Driving Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,175,4,0,2,8:47 PM,11:26,Hauser REBOUND (Off:0 Def:2),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,176,1,50,2,8:47 PM,11:22,Horford 1' Running Dunk (6 PTS) (White 4 AST),,,27 - 27,TIE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,178,2,6,2,8:48 PM,11:10,,,MISS Jackson 6' Driving Layup,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,179,4,0,2,8:48 PM,11:09,,,Jackson REBOUND (Off:1 Def:0),,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,180,2,97,2,8:48 PM,11:08,,,MISS Jackson 2' Tip Layup Shot,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,181,4,0,2,8:48 PM,11:06,Hauser REBOUND (Off:0 Def:3),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,182,2,98,2,8:48 PM,10:52,MISS Horford 5' Cutting Layup Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,183,4,0,2,8:48 PM,10:51,Horford REBOUND (Off:1 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,184,2,97,2,8:48 PM,10:51,MISS Horford 2' Tip Layup Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,185,4,0,2,8:48 PM,10:50,Horford REBOUND (Off:2 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,186,2,1,2,8:48 PM,10:45,MISS Hauser 24' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,187,4,0,2,8:48 PM,10:42,Brown REBOUND (Off:2 Def:0),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,188,1,72,2,8:48 PM,10:41,Brown 3' Putback Layup (9 PTS),,,27 - 29,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,189,9,1,2,8:48 PM,10:39,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,190,8,0,2,8:51 PM,10:39,SUB: Brissett FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,192,2,6,2,8:52 PM,10:27,,,MISS McConnell 4' Driving Layup,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,193,4,0,2,8:52 PM,10:25,Brissett REBOUND (Off:0 Def:1),,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,194,1,1,2,8:52 PM,10:16,White 27' 3PT Jump Shot (3 PTS) (Holiday 4 AST),,,27 - 32,5,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,196,5,45,2,8:53 PM,10:00,,,Nesmith Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,197,8,0,2,8:53 PM,10:00,,,SUB: Turner FOR Jackson,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,199,6,2,2,8:53 PM,9:41,,,McConnell S.FOUL (P2.T1) (J.Williams),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,201,3,11,2,8:54 PM,9:41,Brown Free Throw 1 of 2 (10 PTS),,,27 - 33,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300302,202,8,0,2,8:54 PM,9:41,SUB: Horford FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,203,8,0,2,8:54 PM,9:41,,,SUB: Nembhard FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,204,8,0,2,8:54 PM,9:41,,,SUB: Toppin FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,208,3,12,2,8:54 PM,9:41,Brown Free Throw 2 of 2 (11 PTS),,,27 - 34,7,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,209,2,47,2,8:55 PM,9:28,,,MISS Turner 11' Turnaround Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,210,4,0,2,8:55 PM,9:26,Brissett REBOUND (Off:0 Def:2),,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,211,1,80,2,8:55 PM,9:07,Brown 27' 3PT Step Back Jump Shot (14 PTS),,,27 - 37,10,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,212,6,1,2,8:55 PM,8:50,Hauser P.FOUL (P1.T1) (S.Wright),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,214,8,0,2,8:55 PM,8:50,SUB: Holiday FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,215,8,0,2,8:55 PM,8:50,,,SUB: Haliburton FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,218,5,1,2,8:56 PM,8:43,Brissett STEAL (1 STL),,Nembhard Bad Pass Turnover (P1.T8),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,220,2,2,2,8:56 PM,8:37,MISS Brown 24' 3PT Running Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,221,4,0,2,8:56 PM,8:35,,,Haliburton REBOUND (Off:0 Def:2),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,222,2,1,2,8:56 PM,8:27,,,MISS Nembhard 26' 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,223,4,0,2,8:56 PM,8:25,Holiday REBOUND (Off:1 Def:1),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,224,1,100,2,8:56 PM,8:16,Brown 3' Running Alley Oop Layup Shot (16 PTS) (Holiday 5 AST),,,27 - 39,12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,226,5,40,2,8:57 PM,8:01,,,Turner Out of Bounds Lost Ball Turnover (P4.T9),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,227,6,2,2,8:57 PM,7:49,,,Toppin S.FOUL (P1.T2) (S.Foster),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,229,3,11,2,8:58 PM,7:49,MISS Brown Free Throw 1 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,230,4,1,2,8:58 PM,7:49,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,231,8,0,2,8:58 PM,7:49,SUB: Tatum FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,233,3,12,2,8:58 PM,7:49,Brown Free Throw 2 of 2 (17 PTS),,,27 - 40,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,234,2,79,2,8:58 PM,7:38,,,MISS Haliburton 29' 3PT Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,235,4,0,2,8:59 PM,7:36,Horford REBOUND (Off:2 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,236,5,1,2,8:59 PM,7:34,Horford Bad Pass Turnover (P1.T6),,Nembhard STEAL (1 STL),,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,237,2,101,2,8:59 PM,7:22,,,MISS Nesmith 15' Driving Floating Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,238,4,0,2,8:59 PM,7:21,Horford REBOUND (Off:2 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,239,1,6,2,8:59 PM,7:04,Tatum 2' Driving Layup (4 PTS) (Holiday 6 AST),,,27 - 42,15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,241,9,1,2,8:59 PM,7:04,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,242,8,0,2,9:02 PM,7:04,,,SUB: Siakam FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,244,6,2,2,9:03 PM,6:45,White S.FOUL (P1.T2) (S.Foster),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,246,3,11,2,9:04 PM,6:45,,,Nesmith Free Throw 1 of 2 (5 PTS),28 - 42,14,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,247,3,12,2,9:04 PM,6:45,,,Nesmith Free Throw 2 of 2 (6 PTS),29 - 42,13,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,248,2,79,2,9:05 PM,6:21,MISS Brown 17' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,249,4,0,2,9:05 PM,6:19,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,251,6,2,2,9:05 PM,6:09,,,Nembhard S.FOUL (P1.T3) (S.Foster),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,253,3,13,2,9:06 PM,6:09,White Free Throw 1 of 3 (4 PTS),,,29 - 43,14,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,254,3,14,2,9:06 PM,6:09,White Free Throw 2 of 3 (5 PTS),,,29 - 44,15,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300302,255,8,0,2,9:06 PM,6:09,SUB: Hauser FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,259,3,15,2,9:06 PM,6:09,White Free Throw 3 of 3 (6 PTS),,,29 - 45,16,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,260,1,1,2,9:07 PM,6:01,,,Nesmith 26' 3PT Jump Shot (9 PTS) (Haliburton 4 AST),32 - 45,13,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,262,2,63,2,9:07 PM,5:35,MISS Tatum 15' Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,263,4,0,2,9:07 PM,5:33,,,Turner REBOUND (Off:0 Def:2),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,264,1,86,2,9:07 PM,5:25,,,Nembhard 11' Turnaround Fadeaway (7 PTS),34 - 45,11,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,265,2,5,2,9:08 PM,5:05,MISS White 2' Layup,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,267,4,0,2,9:08 PM,5:04,,,Siakam REBOUND (Off:0 Def:3),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,268,1,103,2,9:08 PM,5:01,,,Haliburton 26' 3PT Running Pull-Up Jump Shot (8 PTS),37 - 45,8,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,269,1,6,2,9:08 PM,4:47,Holiday 1' Driving Layup (7 PTS),,,37 - 47,10,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,270,2,79,2,9:08 PM,4:39,,,MISS Nesmith 26' 3PT Pullup Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,271,4,0,2,9:08 PM,4:37,Horford REBOUND (Off:2 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,277,8,0,2,9:09 PM,4:19,SUB: Brown FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,279,2,80,2,9:09 PM,4:15,MISS Brown 19' Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,280,4,0,2,9:09 PM,4:12,Horford REBOUND (Off:3 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,281,6,1,2,9:09 PM,4:11,,,Turner P.FOUL (P3.T4) (S.Wright),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,283,8,0,2,9:09 PM,4:11,,,SUB: Jackson FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,285,5,2,2,9:10 PM,4:04,Tatum Lost Ball Turnover (P3.T7),,Haliburton STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,287,1,50,2,9:10 PM,4:00,,,Siakam 2' Running Dunk (6 PTS) (Haliburton 5 AST),39 - 47,8,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,289,1,79,2,9:10 PM,3:50,Holiday 27' 3PT Pullup Jump Shot (10 PTS),,,39 - 50,11,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,290,2,6,2,9:10 PM,3:27,,,MISS Nembhard 4' Driving Layup,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,292,4,0,2,9:10 PM,3:26,Brown REBOUND (Off:2 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,293,1,41,2,9:10 PM,3:20,Brown 5' Running Layup (19 PTS),,,39 - 52,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,294,1,73,2,9:11 PM,2:57,,,Nembhard 3' Driving Reverse Layup (9 PTS),41 - 52,11,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,295,2,73,2,9:11 PM,2:50,MISS Brown 3' Driving Reverse Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,296,4,0,2,9:11 PM,2:49,,,Jackson REBOUND (Off:1 Def:1),,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,297,2,2,2,9:11 PM,2:43,,,MISS Nembhard 3PT Running Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,298,4,0,2,9:11 PM,2:39,,,Siakam REBOUND (Off:1 Def:3),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,299,1,72,2,9:11 PM,2:38,,,Siakam 3' Putback Layup (8 PTS),43 - 52,9,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,301,8,0,2,9:11 PM,2:29,SUB: Hauser FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,303,1,6,2,9:12 PM,2:18,Brown 1' Driving Layup (21 PTS),,,43 - 54,11,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,304,2,102,2,9:12 PM,2:06,,,MISS Nembhard 8' Driving Floating Bank Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,305,4,0,2,9:12 PM,2:05,,,Nembhard REBOUND (Off:1 Def:0),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,306,5,2,2,9:12 PM,1:58,White STEAL (1 STL),,Nesmith Lost Ball Turnover (P2.T10),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,308,1,76,2,9:12 PM,1:53,Brown 2' Running Finger Roll Layup (23 PTS) (Holiday 7 AST),,,43 - 56,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,310,9,1,2,9:13 PM,1:52,,,Pacers Timeout: Regular (Reg.4 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,312,8,0,2,9:14 PM,1:52,,,SUB: Toppin FOR Jackson,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,314,1,6,2,9:15 PM,1:40,,,Siakam 3' Driving Layup (10 PTS),45 - 56,11,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,315,2,1,2,9:15 PM,1:21,MISS Hauser 24' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,316,4,0,2,9:15 PM,1:20,,,Haliburton REBOUND (Off:0 Def:3),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,317,1,63,2,9:15 PM,1:08,,,Siakam 9' Fadeaway Jumper (12 PTS) (Nembhard 2 AST),47 - 56,9,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,318,2,1,2,9:16 PM,0:44,MISS White 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,319,4,0,2,9:16 PM,0:42,,,Haliburton REBOUND (Off:0 Def:4),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,321,1,86,2,9:16 PM,0:31,,,Siakam 11' Turnaround Fadeaway (14 PTS) (Haliburton 6 AST),49 - 56,7,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,323,6,2,2,9:16 PM,0:12,,,Nesmith S.FOUL (P2.PN) (S.Foster),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,325,3,11,2,9:17 PM,0:12,Brown Free Throw 1 of 2 (24 PTS),,,49 - 57,8,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,326,3,12,2,9:17 PM,0:12,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,327,4,0,2,9:17 PM,0:12,,,Nesmith REBOUND (Off:0 Def:1),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,328,1,9,2,9:17 PM,0:04,,,Siakam 1' Driving Dunk (16 PTS),51 - 57,6,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,329,2,79,2,9:18 PM,0:00,MISS White 30' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,330,4,0,2,9:18 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,331,13,0,2,9:18 PM,0:00,,End of 2nd Period (9:18 PM EST),,51 - 57,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300302,336,12,0,3,9:34 PM,12:00,,Start of 3rd Period (9:34 PM EST),,51 - 57,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,337,1,79,3,9:34 PM,11:47,Brown 16' Pullup Jump Shot (26 PTS) (Tatum 3 AST),,,51 - 59,8,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,339,6,2,3,9:34 PM,11:34,Tatum S.FOUL (P2.T1) (J.Williams),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,341,3,11,3,9:34 PM,11:34,,,Nembhard Free Throw 1 of 2 (10 PTS),52 - 59,7,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,342,3,12,3,9:34 PM,11:34,,,MISS Nembhard Free Throw 2 of 2,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,343,4,0,3,9:34 PM,11:34,Brown REBOUND (Off:2 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,344,1,79,3,9:35 PM,11:18,Brown 17' Pullup Jump Shot (28 PTS) (Tatum 4 AST),,,52 - 61,9,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,346,2,80,3,9:35 PM,10:54,,,MISS Siakam 19' Step Back Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,347,4,0,3,9:35 PM,10:53,Tatum REBOUND (Off:1 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,348,2,1,3,9:35 PM,10:44,MISS Tatum 28' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,349,4,0,3,9:35 PM,10:42,,,Turner REBOUND (Off:0 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,350,1,1,3,9:36 PM,10:34,,,Siakam 27' 3PT Jump Shot (19 PTS) (Nembhard 3 AST),55 - 61,6,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,352,1,1,3,9:36 PM,10:14,White 26' 3PT Jump Shot (9 PTS),,,55 - 64,9,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,354,1,79,3,9:36 PM,9:57,,,Haliburton 17' Pullup Jump Shot (10 PTS) (Siakam 2 AST),57 - 64,7,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,356,6,1,3,9:37 PM,9:40,,,Nembhard P.FOUL (P2.T1) (S.Wright),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,358,6,1,3,9:37 PM,9:33,,,Siakam P.FOUL (P2.T2) (S.Wright),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,360,1,43,3,9:37 PM,9:30,Holiday 5' Alley Oop Layup (12 PTS) (White 5 AST),,,57 - 66,9,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,362,1,86,3,9:38 PM,9:12,,,Siakam 16' Turnaround Fadeaway (21 PTS),59 - 66,7,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,363,5,4,3,9:38 PM,9:01,Holiday Traveling Turnover (P1.T8),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300302,364,1,80,3,9:38 PM,8:53,,,Nembhard 16' Step Back Jump Shot (12 PTS),61 - 66,5,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,365,2,79,3,9:38 PM,8:41,MISS Holiday 27' 3PT Pullup Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,366,4,0,3,9:38 PM,8:40,,,Nesmith REBOUND (Off:0 Def:2),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,367,1,63,3,9:39 PM,8:29,,,Siakam 11' Fadeaway Jumper (23 PTS),63 - 66,3,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,368,1,75,3,9:39 PM,8:11,White 3' Driving Finger Roll Layup (11 PTS),,,63 - 68,5,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,369,1,1,3,9:39 PM,7:55,,,Siakam 27' 3PT Jump Shot (26 PTS) (Haliburton 7 AST),66 - 68,2,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,371,1,9,3,9:40 PM,7:38,White 1' Driving Dunk (13 PTS) (Holiday 8 AST),,,66 - 70,4,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,373,6,1,3,9:40 PM,7:28,White P.FOUL (P2.T2) (S.Wright),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,375,2,63,3,9:40 PM,7:20,,,MISS Siakam 16' Fadeaway Jumper,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,376,4,0,3,9:40 PM,7:18,,,Turner REBOUND (Off:1 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,377,2,1,3,9:40 PM,7:14,,,MISS Haliburton 28' 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,378,4,0,3,9:40 PM,7:12,,,Siakam REBOUND (Off:2 Def:3),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,379,2,72,3,9:40 PM,7:11,,,MISS Siakam 2' Putback Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,380,4,0,3,9:40 PM,7:10,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,381,6,3,3,9:41 PM,7:10,,,Nesmith L.B.FOUL (P3.T3) (S.Foster),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,383,9,1,3,9:41 PM,7:10,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,384,18,5,3,9:41 PM,7:10,,Instant Replay3rd Period (9:41 PM EST),,66 - 70,4,0,381,James Robinson,,,,,0,0,,,,,,1,0,,,,,,1
+0042300302,386,1,9,3,9:45 PM,6:54,Tatum 1' Driving Dunk (6 PTS),,,66 - 72,6,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,388,1,86,3,9:45 PM,6:35,,,Turner 13' Turnaround Fadeaway (2 PTS),68 - 72,4,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,389,2,1,3,9:45 PM,6:17,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,390,4,0,3,9:45 PM,6:15,,,Nesmith REBOUND (Off:0 Def:3),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,391,2,6,3,9:46 PM,5:56,,,MISS Nesmith 2' Driving Layup,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,392,4,0,3,9:46 PM,5:55,Horford REBOUND (Off:3 Def:5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,393,1,1,3,9:46 PM,5:45,White 28' 3PT Jump Shot (16 PTS) (Brown 1 AST),,,68 - 75,7,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,395,2,79,3,9:46 PM,5:33,,,MISS Nembhard 18' Pullup Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,396,4,0,3,9:46 PM,5:32,Tatum REBOUND (Off:1 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,397,6,1,3,9:46 PM,5:20,,,Nesmith P.FOUL (P4.T4) (S.Wright),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,399,8,0,3,9:46 PM,5:20,SUB: Pritchard FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,400,8,0,3,9:46 PM,5:20,SUB: Brissett FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,401,8,0,3,9:46 PM,5:20,,,SUB: Toppin FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,402,8,0,3,9:46 PM,5:20,,,SUB: McConnell FOR Nesmith,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,403,8,0,3,9:46 PM,5:20,,,SUB: Sheppard FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,409,1,80,3,9:47 PM,5:12,Tatum 14' Step Back Jump Shot (8 PTS),,,68 - 77,9,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,411,1,1,3,9:48 PM,4:52,,,Turner 26' 3PT Jump Shot (5 PTS) (Haliburton 8 AST),71 - 77,6,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,413,1,1,3,9:48 PM,4:32,Brown 3PT Jump Shot (31 PTS) (Tatum 5 AST),,,71 - 80,9,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,415,2,79,3,9:48 PM,4:18,,,MISS Haliburton 26' 3PT Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,416,4,0,3,9:48 PM,4:16,,,Sheppard REBOUND (Off:1 Def:0),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,417,2,1,3,9:48 PM,4:14,,,MISS Toppin 27' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,418,4,0,3,9:48 PM,4:12,,,McConnell REBOUND (Off:1 Def:2),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,419,2,63,3,9:49 PM,4:04,,,MISS Turner 13' Fadeaway Jumper,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,420,4,0,3,9:49 PM,4:00,,,Sheppard REBOUND (Off:2 Def:0),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,421,2,1,3,9:49 PM,3:57,,,MISS Sheppard 27' 3PT Jump Shot,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,422,4,0,3,9:49 PM,3:55,Tatum REBOUND (Off:1 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,423,1,108,3,9:49 PM,3:44,Brissett 1' Cutting Dunk Shot (2 PTS) (Brown 2 AST),,,71 - 82,11,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,425,9,1,3,9:49 PM,3:44,,,Pacers Timeout: Regular (Reg.5 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,426,8,0,3,9:52 PM,3:44,,,SUB: Siakam FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,428,5,1,3,9:53 PM,3:20,Brown STEAL (1 STL),,Siakam Bad Pass Turnover (P2.T11),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,430,1,41,3,9:53 PM,3:19,Brown 2' Running Layup (33 PTS),,,71 - 84,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,431,6,2,3,9:53 PM,3:19,,,Siakam S.FOUL (P3.PN) (S.Foster),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,433,3,10,3,9:54 PM,3:19,MISS Brown Free Throw 1 of 1,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,434,4,0,3,9:54 PM,3:19,,,Toppin REBOUND (Off:0 Def:2),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,435,1,79,3,9:54 PM,3:11,,,McConnell 15' Pullup Jump Shot (9 PTS),73 - 84,11,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,436,1,1,3,9:54 PM,2:57,Pritchard 3PT Jump Shot (8 PTS) (White 6 AST),,,73 - 87,14,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,438,1,1,3,9:54 PM,2:39,,,Turner 27' 3PT Jump Shot (8 PTS) (McConnell 2 AST),76 - 87,11,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,440,1,6,3,9:55 PM,2:23,Pritchard 2' Driving Layup (10 PTS),,,76 - 89,13,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,441,6,2,3,9:55 PM,2:04,White S.FOUL (P3.T3) (S.Foster),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,443,3,11,3,9:56 PM,2:04,,,MISS Toppin Free Throw 1 of 2,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,444,4,1,3,9:56 PM,2:04,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,445,8,0,3,9:56 PM,2:04,SUB: Holiday FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,447,3,12,3,9:56 PM,2:04,,,Toppin Free Throw 2 of 2 (3 PTS),77 - 89,12,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,448,1,86,3,9:56 PM,1:44,Tatum 15' Turnaround Fadeaway (10 PTS),,,77 - 91,14,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,449,6,1,3,9:57 PM,1:22,Brown P.FOUL (P3.T4) (S.Foster),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,451,2,63,3,9:57 PM,1:19,,,MISS McConnell 15' Fadeaway Jumper,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,452,4,0,3,9:57 PM,1:18,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,453,6,3,3,9:57 PM,1:18,Holiday L.B.FOUL (P1.PN) (J.Williams),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,455,3,11,3,9:58 PM,1:18,,,Toppin Free Throw 1 of 2 (4 PTS),78 - 91,13,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,456,3,12,3,9:58 PM,1:18,,,MISS Toppin Free Throw 2 of 2,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,457,4,0,3,9:58 PM,1:18,Tatum REBOUND (Off:1 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,458,1,63,3,9:58 PM,1:00,Tatum 13' Fadeaway Jumper (12 PTS),,,78 - 93,15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,459,5,1,3,9:59 PM,0:52,Brissett STEAL (2 STL),,McConnell Bad Pass Turnover (P1.T12),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,461,2,79,3,9:59 PM,0:41,MISS Tatum 29' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,462,4,0,3,9:59 PM,0:38,,,McConnell REBOUND (Off:1 Def:3),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,463,1,50,3,9:59 PM,0:35,,,Toppin 1' Running Dunk (6 PTS) (McConnell 3 AST),80 - 93,13,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,465,2,79,3,9:59 PM,0:33,MISS Brown 27' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,466,4,0,3,9:59 PM,0:31,,,Toppin REBOUND (Off:0 Def:3),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,467,2,80,3,10:00 PM,0:09,,,MISS Toppin 18' Step Back Jump Shot,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,468,4,0,3,10:00 PM,0:06,Brown REBOUND (Off:2 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,469,2,79,3,10:00 PM,0:00,MISS Brown 19' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,470,4,0,3,10:00 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300302,471,13,0,3,10:00 PM,0:00,,End of 3rd Period (10:00 PM EST),,80 - 93,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300302,480,12,0,4,10:03 PM,12:00,,Start of 4th Period (10:03 PM EST),,80 - 93,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,481,1,79,4,10:04 PM,11:34,,,Siakam 18' Pullup Jump Shot (28 PTS),82 - 93,11,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,482,2,1,4,10:04 PM,11:05,MISS Hauser 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,483,4,0,4,10:04 PM,11:03,Horford REBOUND (Off:4 Def:5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,484,2,1,4,10:04 PM,10:54,MISS Hauser 26' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,485,4,0,4,10:05 PM,10:51,Pritchard REBOUND (Off:1 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,486,1,6,4,10:05 PM,10:49,Tatum 3' Driving Layup (14 PTS) (Pritchard 1 AST),,,82 - 95,13,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,488,6,2,4,10:05 PM,10:49,,,McConnell S.FOUL (P3.T1) (S.Foster),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,490,3,10,4,10:05 PM,10:49,Tatum Free Throw 1 of 1 (15 PTS),,,82 - 96,14,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300302,491,2,79,4,10:05 PM,10:39,,,MISS McConnell 15' Pullup Jump Shot,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,492,4,0,4,10:05 PM,10:37,Horford REBOUND (Off:4 Def:6),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,493,2,2,4,10:05 PM,10:31,MISS Tatum 26' 3PT Running Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,494,4,0,4,10:05 PM,10:28,,,McConnell REBOUND (Off:1 Def:4),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,495,2,6,4,10:06 PM,10:20,Hauser BLOCK (1 BLK),,MISS McConnell 3' Driving Layup,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,1
+0042300302,497,4,0,4,10:06 PM,10:19,Holiday REBOUND (Off:1 Def:2),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,498,1,1,4,10:06 PM,10:11,Holiday 27' 3PT Jump Shot (15 PTS) (Hauser 1 AST),,,82 - 99,17,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,500,5,1,4,10:06 PM,9:47,Horford STEAL (2 STL),,McConnell Bad Pass Turnover (P2.T13),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,502,2,63,4,10:06 PM,9:35,MISS Tatum 13' Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,503,4,0,4,10:06 PM,9:34,,,Jackson REBOUND (Off:1 Def:2),,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,504,6,1,4,10:07 PM,9:25,Holiday P.FOUL (P2.T1) (S.Wright),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,506,8,0,4,10:07 PM,9:25,,,SUB: Nembhard FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,508,8,0,4,10:07 PM,9:25,,,SUB: Toppin FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,510,8,0,4,10:07 PM,9:25,SUB: Brissett FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,512,1,75,4,10:07 PM,9:13,,,Sheppard 3' Driving Finger Roll Layup (2 PTS) (Nembhard 4 AST),84 - 99,15,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,517,5,11,4,10:08 PM,8:47,CELTICS Turnover: Shot Clock (T#9),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300302,518,6,1,4,10:08 PM,8:41,Tatum P.FOUL (P3.T2) (S.Wright),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,521,9,1,4,10:09 PM,8:41,,,Pacers Timeout: Regular (Reg.6 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,522,18,5,4,10:09 PM,8:41,,Instant Replay4th Period (10:09 PM EST),,84 - 99,15,0,518,Timofey Mozgov,,,,,0,0,,,,,,1,0,,,,,,1
+0042300302,523,8,0,4,10:11 PM,8:41,SUB: Brown FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,524,8,0,4,10:11 PM,8:41,SUB: White FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,527,1,80,4,10:12 PM,8:26,,,Nembhard 18' Step Back Jump Shot (14 PTS),86 - 99,13,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,528,1,1,4,10:13 PM,8:05,White 26' 3PT Jump Shot (19 PTS) (Hauser 2 AST),,,86 - 102,16,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,530,2,1,4,10:13 PM,7:42,,,MISS Sheppard 25' 3PT Jump Shot,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,531,4,0,4,10:13 PM,7:41,White REBOUND (Off:2 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,532,6,1,4,10:13 PM,7:40,,,Sheppard P.FOUL (P2.T2) (J.Williams),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,535,1,75,4,10:14 PM,7:33,Brown 3' Driving Finger Roll Layup (35 PTS) (Holiday 9 AST),,,86 - 104,18,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,536,6,2,4,10:14 PM,7:26,Brown S.FOUL (P4.T3) (S.Foster),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,539,3,11,4,10:14 PM,7:26,,,MISS Jackson Free Throw 1 of 2,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,540,4,1,4,10:14 PM,7:26,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,541,3,12,4,10:15 PM,7:26,,,Jackson Free Throw 2 of 2 (1 PTS),87 - 104,17,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,542,2,79,4,10:15 PM,7:11,MISS Brown 17' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,543,4,0,4,10:15 PM,7:10,,,Nembhard REBOUND (Off:1 Def:1),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,544,2,2,4,10:15 PM,7:04,,,MISS McDermott 27' 3PT Running Jump Shot,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,545,4,0,4,10:15 PM,7:02,,,Jackson REBOUND (Off:2 Def:2),,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,546,1,101,4,10:15 PM,6:58,,,Nembhard 10' Driving Floating Jump Shot (16 PTS) (Sheppard 1 AST),89 - 104,15,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,547,6,1,4,10:15 PM,6:45,,,Nembhard P.FOUL (P3.T3) (S.Wright),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,550,6,16,4,10:16 PM,6:45,,"Double Technical - Jackson, Hauser (S.Foster)",,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0042300302,552,8,0,4,10:17 PM,6:45,,,SUB: Smith FOR Jackson,,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,554,6,2,4,10:17 PM,6:31,,,Smith S.FOUL (P1.T4) (J.Williams),,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,556,3,11,4,10:18 PM,6:31,Tatum Free Throw 1 of 2 (16 PTS),,,89 - 105,16,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300302,557,3,12,4,10:18 PM,6:31,Tatum Free Throw 2 of 2 (17 PTS),,,89 - 106,17,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,558,1,79,4,10:18 PM,6:24,,,Toppin 26' 3PT Pullup Jump Shot (9 PTS),92 - 106,14,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,559,1,101,4,10:18 PM,5:57,White 8' Driving Floating Jump Shot (21 PTS),,,92 - 108,16,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,560,2,78,4,10:19 PM,5:43,White BLOCK (1 BLK),,MISS Smith 6' Floating Jump Shot,,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042300302,562,4,0,4,10:19 PM,5:42,Hauser REBOUND (Off:0 Def:4),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,563,6,1,4,10:19 PM,5:36,,,Nembhard P.FOUL (P4.PN) (S.Foster),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,565,3,11,4,10:19 PM,5:36,Brown Free Throw 1 of 2 (36 PTS),,,92 - 109,17,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,566,3,12,4,10:19 PM,5:36,Brown Free Throw 2 of 2 (37 PTS),,,92 - 110,18,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,567,1,79,4,10:20 PM,5:26,,,Toppin 18' Pullup Jump Shot (11 PTS) (McDermott 1 AST),94 - 110,16,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,569,2,79,4,10:20 PM,5:05,MISS Brown 25' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,570,4,0,4,10:20 PM,5:03,Holiday REBOUND (Off:2 Def:2),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,571,1,1,4,10:20 PM,4:59,Tatum 26' 3PT Jump Shot (20 PTS) (Holiday 10 AST),,,94 - 113,19,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,573,1,6,4,10:20 PM,4:51,,,Sheppard 2' Driving Layup (4 PTS) (Nembhard 5 AST),96 - 113,17,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,575,6,2,4,10:20 PM,4:51,White S.FOUL (P4.T4) (S.Foster),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,577,8,0,4,10:21 PM,4:51,,,SUB: Walker FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,579,3,10,4,10:21 PM,4:51,,,Sheppard Free Throw 1 of 1 (5 PTS),97 - 113,16,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,580,2,101,4,10:21 PM,4:35,MISS Brown 11' Driving Floating Jump Shot,,McDermott BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,1
+0042300302,582,4,0,4,10:21 PM,4:34,,,Smith REBOUND (Off:0 Def:1),,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,586,5,45,4,10:21 PM,4:33,,,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300302,584,9,1,4,10:22 PM,4:33,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,585,18,5,4,10:22 PM,4:33,,Instant Replay4th Period (10:22 PM EST),,97 - 113,16,0,583,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300302,587,8,0,4,10:24 PM,4:33,SUB: Pritchard FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,588,8,0,4,10:24 PM,4:33,,,SUB: Jackson FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,591,2,79,4,10:25 PM,4:21,MISS Tatum 27' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,592,4,0,4,10:25 PM,4:18,,,Walker REBOUND (Off:0 Def:1),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,593,5,1,4,10:25 PM,4:17,Hauser STEAL (2 STL),,Walker Bad Pass Turnover (P1.T15),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,595,5,2,4,10:26 PM,4:14,Brown Lost Ball Turnover (P2.T10),,Smith STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,597,2,1,4,10:26 PM,3:58,,,MISS Smith 27' 3PT Jump Shot,,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,598,4,0,4,10:26 PM,3:55,,,Jackson REBOUND (Off:3 Def:2),,,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,599,1,6,4,10:26 PM,3:49,,,Sheppard 3' Driving Layup (7 PTS),99 - 113,14,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,601,1,79,4,10:26 PM,3:27,White 14' Pullup Jump Shot (23 PTS) (Hauser 3 AST),,,99 - 115,16,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,602,1,101,4,10:26 PM,3:15,,,Walker 15' Driving Floating Jump Shot (2 PTS),101 - 115,14,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,603,6,2,4,10:27 PM,3:15,Pritchard S.FOUL (P1.PN) (J.Williams),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,606,8,0,4,10:27 PM,3:15,SUB: Brissett FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,607,8,0,4,10:27 PM,3:15,,,SUB: Brown FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300302,610,8,0,4,10:27 PM,3:15,SUB: Tillman FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,612,3,10,4,10:28 PM,3:15,,,Walker Free Throw 1 of 1 (3 PTS),102 - 115,13,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,613,1,102,4,10:28 PM,2:55,Tatum 11' Driving Floating Bank Jump Shot (22 PTS),,,102 - 117,15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,614,6,2,4,10:28 PM,2:55,,,Smith S.FOUL (P2.PN) (J.Williams),,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,616,3,10,4,10:28 PM,2:55,Tatum Free Throw 1 of 1 (23 PTS),,,102 - 118,16,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,617,1,78,4,10:29 PM,2:46,,,McDermott 7' Floating Jump Shot (2 PTS) (Brown 1 AST),104 - 118,14,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,619,5,2,4,10:29 PM,2:20,Tatum Lost Ball Turnover (P4.T11),,Walker STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,621,5,1,4,10:29 PM,2:15,Brissett STEAL (3 STL),,Brown Bad Pass Turnover (P1.T16),,,5,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,623,1,80,4,10:29 PM,1:52,Brown 26' 3PT Step Back Jump Shot (40 PTS),,,104 - 121,17,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,624,1,98,4,10:30 PM,1:36,,,Jackson 2' Cutting Layup Shot (3 PTS) (Brown 2 AST),106 - 121,15,5,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300302,626,9,1,4,10:30 PM,1:29,CELTICS Timeout: Regular (Full 5 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300302,627,8,0,4,10:31 PM,1:29,SUB: Pritchard FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,628,8,0,4,10:31 PM,1:29,SUB: Hauser FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,629,8,0,4,10:31 PM,1:29,SUB: Mykhailiuk FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300302,633,6,1,4,10:32 PM,1:15,,,Walker P.FOUL (P1.PN) (S.Wright),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300302,635,3,11,4,10:32 PM,1:15,Pritchard Free Throw 1 of 2 (11 PTS),,,106 - 122,16,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,636,3,12,4,10:33 PM,1:15,Pritchard Free Throw 2 of 2 (12 PTS),,,106 - 123,17,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,637,2,79,4,10:33 PM,1:07,,,MISS Walker 25' 3PT Pullup Jump Shot,,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,638,4,0,4,10:33 PM,1:05,Brissett REBOUND (Off:0 Def:3),,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300302,639,1,1,4,10:33 PM,0:51,Mykhailiuk 3PT Jump Shot (3 PTS) (Pritchard 2 AST),,,106 - 126,20,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300302,641,2,63,4,10:33 PM,0:36,,,MISS Walker 18' Fadeaway Jumper,,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,642,4,0,4,10:33 PM,0:34,,,Smith REBOUND (Off:1 Def:1),,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,643,6,2,4,10:33 PM,0:32,Mykhailiuk S.FOUL (P1.PN) (S.Wright),,,,,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300302,645,3,11,4,10:34 PM,0:32,,,Smith Free Throw 1 of 2 (1 PTS),107 - 126,19,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,646,3,12,4,10:34 PM,0:32,,,MISS Smith Free Throw 2 of 2,,,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,647,4,0,4,10:34 PM,0:30,,,Walker REBOUND (Off:1 Def:1),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300302,648,1,1,4,10:34 PM,0:28,,,Smith 26' 3PT Jump Shot (4 PTS),110 - 126,16,5,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300302,649,5,11,4,10:35 PM,0:04,CELTICS Turnover: Shot Clock (T#12),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300302,650,13,0,4,10:35 PM,0:00,,End of 4th Period (10:35 PM EST),,110 - 126,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

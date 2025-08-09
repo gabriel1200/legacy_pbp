@@ -1,0 +1,456 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022301215,2,12,0,1,10:14 PM,12:00,,Start of 1st Period (10:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,4,10,0,1,10:14 PM,12:00,Jump Ball Zubac vs. Jokic: Tip to Mann,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0022301215,7,7,5,1,10:14 PM,11:43,,,Jokic Violation:Kicked Ball (R.Acosta),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0022301215,8,2,1,1,10:14 PM,11:37,MISS George 27' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,9,4,0,1,10:15 PM,11:35,,,Gordon REBOUND (Off:0 Def:1),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,10,1,1,1,10:15 PM,11:25,,,Jokic 27' 3PT Jump Shot (3 PTS) (Gordon 1 AST),3 - 0,-3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,12,1,101,1,10:15 PM,11:09,Zubac 7' Driving Floating Jump Shot (2 PTS) (George 1 AST),,,3 - 2,-1,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,14,1,1,1,10:15 PM,10:49,,,Murray 26' 3PT Jump Shot (3 PTS) (Jokic 1 AST),6 - 2,-4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,16,1,6,1,10:16 PM,10:31,Harden 2' Driving Layup (2 PTS) (Leonard 1 AST),,,6 - 4,-2,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,18,2,63,1,10:16 PM,10:08,,,MISS Caldwell-Pope 12' Fadeaway Jumper,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,19,4,0,1,10:16 PM,10:06,Zubac REBOUND (Off:0 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,20,5,2,1,10:16 PM,9:55,Leonard Lost Ball Turnover (P1.T1),,Caldwell-Pope STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,22,1,1,1,10:16 PM,9:38,,,Jokic 28' 3PT Jump Shot (6 PTS) (Caldwell-Pope 1 AST),9 - 4,-5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,24,1,63,1,10:17 PM,9:21,Mann 5' Fadeaway Jumper (2 PTS) (Harden 1 AST),,,9 - 6,-3,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,26,2,1,1,10:17 PM,9:02,,,MISS Murray 25' 3PT Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,27,4,0,1,10:17 PM,8:56,,,Porter Jr. REBOUND (Off:1 Def:0),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,28,1,1,1,10:17 PM,8:55,,,Caldwell-Pope 26' 3PT Jump Shot (3 PTS) (Jokic 2 AST),12 - 6,-6,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,30,2,6,1,10:17 PM,8:40,MISS George 3' Driving Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,31,4,0,1,10:18 PM,8:36,,,Jokic REBOUND (Off:0 Def:1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,32,1,6,1,10:18 PM,8:18,,,Gordon 3' Driving Layup (2 PTS),14 - 6,-8,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,33,9,1,1,10:18 PM,8:18,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,34,2,79,1,10:22 PM,8:03,MISS Harden 14' Pullup Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,35,4,0,1,10:22 PM,7:59,,,Gordon REBOUND (Off:0 Def:2),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,36,1,2,1,10:22 PM,7:54,,,Porter Jr. 28' 3PT Running Jump Shot (3 PTS) (Gordon 2 AST),17 - 6,-11,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,38,2,86,1,10:22 PM,7:38,MISS Leonard 11' Turnaround Fadeaway Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,39,4,0,1,10:22 PM,7:36,,,Jokic REBOUND (Off:0 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,40,1,105,1,10:22 PM,7:21,,,Gordon 12' Turnaround Fadeaway Bank Jump Shot (4 PTS),19 - 6,-13,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,41,1,79,1,10:23 PM,7:04,Leonard 5' Pullup Jump Shot (2 PTS) (Harden 2 AST),,,19 - 8,-11,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,43,6,1,1,10:23 PM,6:52,Mann P.FOUL (P1.T1) (S.Wright),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,45,8,0,1,10:23 PM,6:52,SUB: Westbrook FOR Harden,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,47,1,52,1,10:23 PM,6:43,,,Gordon 2' Alley Oop Dunk (6 PTS) (Jokic 3 AST),21 - 8,-13,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,49,2,44,1,10:23 PM,6:26,MISS Zubac 3' Reverse Layup,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,51,1,97,1,10:24 PM,6:20,Westbrook Tip Layup Shot (2 PTS),,,21 - 10,-11,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,50,4,0,1,10:24 PM,6:20,Westbrook REBOUND (Off:1 Def:0),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,52,2,78,1,10:24 PM,6:07,,,MISS Jokic 10' Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,53,4,0,1,10:24 PM,6:06,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301215,54,6,3,1,10:24 PM,6:06,Zubac L.B.FOUL (P1.T2) (D.Richardson),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,56,8,0,1,10:24 PM,6:06,,,SUB: Jackson FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,58,1,63,1,10:24 PM,6:01,,,Porter Jr. 15' Fadeaway Jumper (5 PTS) (Jackson 1 AST),23 - 10,-13,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,60,1,101,1,10:25 PM,5:43,Leonard 8' Driving Floating Jump Shot (4 PTS) (Westbrook 1 AST),,,23 - 12,-11,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,62,1,99,1,10:25 PM,5:25,,,Jokic 2' Cutting Finger Roll Layup Shot (8 PTS) (Caldwell-Pope 2 AST),25 - 12,-13,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,64,2,5,1,10:25 PM,5:11,MISS Zubac 4' Layup,,Porter Jr. BLOCK (1 BLK),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1
+0022301215,66,4,0,1,10:25 PM,5:08,,,Porter Jr. REBOUND (Off:1 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,67,5,2,1,10:25 PM,5:04,Zubac STEAL (1 STL),,Jokic Lost Ball Turnover (P1.T1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,69,1,1,1,10:25 PM,4:54,George 26' 3PT Jump Shot (3 PTS) (Leonard 2 AST),,,25 - 15,-10,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,71,6,1,1,10:26 PM,4:40,Westbrook P.FOUL (P1.T3) (S.Wright),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,73,8,0,1,10:26 PM,4:40,SUB: Theis FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,74,8,0,1,10:26 PM,4:40,SUB: Powell FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,77,2,57,1,10:26 PM,4:29,,,MISS Jokic 8' Driving Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,78,4,0,1,10:26 PM,4:27,Westbrook REBOUND (Off:1 Def:1),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,79,1,103,1,10:26 PM,4:23,Westbrook 11' Running Pull-Up Jump Shot (4 PTS),,,25 - 17,-8,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,80,1,1,1,10:27 PM,4:11,,,Porter Jr. 29' 3PT Jump Shot (8 PTS) (Jokic 4 AST),28 - 17,-11,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,82,2,1,1,10:27 PM,3:53,MISS Westbrook 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,83,4,0,1,10:27 PM,3:51,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,84,1,79,1,10:27 PM,3:44,,,Porter Jr. 27' 3PT Pullup Jump Shot (11 PTS) (Caldwell-Pope 3 AST),31 - 17,-14,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,86,9,1,1,10:27 PM,3:44,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,87,8,0,1,10:30 PM,3:44,,,SUB: Watson FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,89,2,1,1,10:31 PM,3:32,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,90,4,0,1,10:31 PM,3:29,,,Watson REBOUND (Off:0 Def:1),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,91,6,4,1,10:31 PM,3:15,,,Watson OFF.Foul (P1) (R.Acosta),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,93,5,37,1,10:31 PM,3:15,,,Watson Offensive Foul Turnover (P1.T2),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301215,94,2,86,1,10:31 PM,3:01,MISS Leonard 11' Turnaround Fadeaway Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,96,4,0,1,10:31 PM,3:01,,,Porter Jr. REBOUND (Off:1 Def:2),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,95,2,6,1,10:32 PM,2:51,Theis BLOCK (1 BLK),,MISS Jokic 4' Driving Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1
+0022301215,98,4,0,1,10:32 PM,2:51,,,Jokic REBOUND (Off:1 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,99,2,5,1,10:32 PM,2:49,George BLOCK (1 BLK),,MISS Jokic 3' Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1
+0022301215,101,4,0,1,10:32 PM,2:49,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,103,8,0,1,10:32 PM,2:49,SUB: Brown FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,104,8,0,1,10:32 PM,2:49,,,SUB: Braun FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,107,6,4,1,10:32 PM,2:47,,,Porter Jr. OFF.Foul (P1) (S.Wright),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,109,5,37,1,10:32 PM,2:47,,,Porter Jr. Offensive Foul Turnover (P1.T3),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301215,110,8,0,1,10:32 PM,2:47,,,SUB: Strawther FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,112,1,79,1,10:33 PM,2:35,Leonard 12' Pullup Jump Shot (6 PTS) (Powell 1 AST),,,31 - 19,-12,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,114,2,98,1,10:33 PM,2:15,,,MISS Jokic 4' Cutting Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,115,4,0,1,10:33 PM,2:13,Brown REBOUND (Off:0 Def:1),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,116,2,1,1,10:33 PM,2:04,MISS Powell 25' 3PT Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,117,4,0,1,10:33 PM,2:02,Theis REBOUND (Off:1 Def:0),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,118,2,1,1,10:33 PM,1:58,MISS Leonard 26' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,119,4,0,1,10:33 PM,1:55,Theis REBOUND (Off:2 Def:0),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,120,2,1,1,10:33 PM,1:53,MISS Theis 24' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,121,4,0,1,10:33 PM,1:51,,,Braun REBOUND (Off:0 Def:1),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,122,1,1,1,10:33 PM,1:43,,,Jackson 24' 3PT Jump Shot (3 PTS) (Strawther 1 AST),34 - 19,-15,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,124,2,1,1,10:34 PM,1:24,MISS Theis 7' Jump Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,125,4,0,1,10:34 PM,1:22,,,Jokic REBOUND (Off:1 Def:3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,126,2,1,1,10:34 PM,1:17,,,MISS Jackson 26' 3PT Jump Shot,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,127,4,0,1,10:34 PM,1:14,Theis REBOUND (Off:2 Def:1),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,128,6,2,1,10:34 PM,1:10,,,Strawther S.FOUL (P1.T1) (R.Acosta),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,130,3,11,1,10:35 PM,1:10,Powell Free Throw 1 of 2 (1 PTS),,,34 - 20,-14,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,131,8,0,1,10:35 PM,1:10,,,SUB: Jordan FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,133,3,12,1,10:35 PM,1:10,Powell Free Throw 2 of 2 (2 PTS),,,34 - 21,-13,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,134,2,3,1,10:35 PM,0:51,Theis BLOCK (2 BLK),,MISS Jordan 7' Hook Shot,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1
+0022301215,135,4,0,1,10:35 PM,0:50,,,Jordan REBOUND (Off:1 Def:0),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,149,2,72,1,10:35 PM,0:49,Westbrook BLOCK (1 BLK),,MISS Jordan 3' Putback Layup,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1
+0022301215,151,4,0,1,10:35 PM,0:48,Westbrook REBOUND (Off:1 Def:2),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,138,5,1,1,10:36 PM,0:39,Westbrook Bad Pass Turnover (P1.T2),,Jackson STEAL (1 STL),,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,140,1,50,1,10:36 PM,0:36,,,Braun 6' Running Dunk (2 PTS) (Watson 1 AST),36 - 21,-15,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,142,2,80,1,10:36 PM,0:27,MISS Westbrook 27' 3PT Step Back Jump Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,143,4,0,1,10:36 PM,0:23,,,Braun REBOUND (Off:0 Def:2),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,144,5,45,1,10:36 PM,0:02,,,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301215,145,2,79,1,10:36 PM,0:00,MISS Powell 30' 3PT Pullup Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,146,4,0,1,10:36 PM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,147,13,0,1,10:37 PM,0:00,,End of 1st Period (10:37 PM EST),,36 - 21,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301215,158,12,0,2,10:40 PM,12:00,,Start of 2nd Period (10:40 PM EST),,36 - 21,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,159,2,79,2,10:40 PM,11:47,,,MISS Murray 27' 3PT Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022301215,160,4,0,2,10:40 PM,11:44,Theis REBOUND (Off:2 Def:2),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022301215,161,1,1,2,10:40 PM,11:37,Theis 26' 3PT Jump Shot (3 PTS) (Harden 3 AST),,,36 - 24,-12,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,163,2,101,2,10:41 PM,11:14,,,MISS Murray 4' Driving Floating Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,164,4,0,2,10:41 PM,11:12,,,Jordan REBOUND (Off:2 Def:0),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,165,2,97,2,10:41 PM,11:12,,,MISS Jordan Tip Layup Shot,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,166,4,0,2,10:41 PM,11:11,,,Jordan REBOUND (Off:3 Def:0),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,167,2,97,2,10:41 PM,11:11,,,MISS Jordan Tip Layup Shot,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,168,4,0,2,10:41 PM,11:11,Powell REBOUND (Off:0 Def:1),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,169,2,6,2,10:41 PM,11:03,MISS George 1' Driving Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,170,4,0,2,10:41 PM,11:00,,,Jordan REBOUND (Off:3 Def:1),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,171,6,2,2,10:41 PM,10:57,Brown S.FOUL (P1.T1) (S.Wright),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,173,3,11,2,10:42 PM,10:57,,,Watson Free Throw 1 of 2 (1 PTS),37 - 24,-13,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,174,3,12,2,10:42 PM,10:57,,,Watson Free Throw 2 of 2 (2 PTS),38 - 24,-14,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022301215,175,2,6,2,10:42 PM,10:41,MISS Powell 5' Driving Layup,,Braun BLOCK (1 BLK),,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1
+0022301215,180,4,0,2,10:42 PM,10:38,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,177,10,0,2,10:43 PM,10:38,Jump Ball Powell vs. Braun: Tip to Theis,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0
+0022301215,181,1,78,2,10:43 PM,10:34,Theis 10' Floating Jump Shot (5 PTS) (Harden 4 AST),,,38 - 26,-12,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,183,2,1,2,10:43 PM,10:15,,,MISS Strawther 29' 3PT Jump Shot,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,184,4,0,2,10:43 PM,10:12,Theis REBOUND (Off:2 Def:3),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,185,1,1,2,10:43 PM,10:02,Theis 26' 3PT Jump Shot (8 PTS) (Brown 1 AST),,,38 - 29,-9,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,187,9,1,2,10:43 PM,10:01,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,188,5,39,2,10:47 PM,9:50,,,Strawther Step Out of Bounds Turnover (P1.T5),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301215,189,1,98,2,10:47 PM,9:40,George 4' Cutting Layup Shot (5 PTS) (Harden 5 AST),,,38 - 31,-7,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,191,2,1,2,10:47 PM,9:23,,,MISS Strawther 29' 3PT Jump Shot,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,192,4,0,2,10:48 PM,9:22,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,194,1,52,2,10:48 PM,9:14,,,Jordan 1' Alley Oop Dunk (2 PTS) (Murray 1 AST),40 - 31,-9,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,196,5,1,2,10:48 PM,8:53,Harden Bad Pass Turnover (P1.T3),,Watson STEAL (1 STL),,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,198,1,41,2,10:48 PM,8:49,,,Braun 3' Running Layup (4 PTS) (Watson 2 AST),42 - 31,-11,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,200,1,80,2,10:48 PM,8:35,Powell 24' 3PT Step Back Jump Shot (5 PTS) (Harden 6 AST),,,42 - 34,-8,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,202,2,1,2,10:49 PM,8:21,,,MISS Watson 27' 3PT Jump Shot,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,203,4,0,2,10:49 PM,8:18,George REBOUND (Off:0 Def:1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,204,1,41,2,10:49 PM,8:15,Harden 3' Running Layup (4 PTS),,,42 - 36,-6,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,206,6,2,2,10:49 PM,8:15,,,Strawther S.FOUL (P2.T1) (R.Acosta),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,208,8,0,2,10:49 PM,8:15,,,SUB: Caldwell-Pope FOR Strawther,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,210,3,10,2,10:49 PM,8:15,Harden Free Throw 1 of 1 (5 PTS),,,42 - 37,-5,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,212,1,79,2,10:50 PM,8:01,,,Braun 17' Pullup Jump Shot (6 PTS) (Murray 2 AST),44 - 37,-7,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,214,6,2,2,10:50 PM,7:42,,,Braun S.FOUL (P1.T2) (D.Richardson),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,216,3,11,2,10:51 PM,7:42,Powell Free Throw 1 of 2 (6 PTS),,,44 - 38,-6,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,217,8,0,2,10:51 PM,7:42,,,SUB: Jokic FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,218,8,0,2,10:51 PM,7:42,,,SUB: Porter Jr. FOR Watson,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,219,8,0,2,10:51 PM,7:42,,,SUB: Jackson FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,223,3,12,2,10:51 PM,7:42,Powell Free Throw 2 of 2 (7 PTS),,,44 - 39,-5,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,224,2,1,2,10:51 PM,7:30,,,MISS Caldwell-Pope 27' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,225,4,0,2,10:51 PM,7:27,Theis REBOUND (Off:2 Def:4),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,226,1,41,2,10:52 PM,7:21,Powell 3' Running Layup (9 PTS),,,44 - 41,-3,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,227,1,101,2,10:52 PM,7:04,,,Jackson 11' Driving Floating Jump Shot (5 PTS) (Jokic 5 AST),46 - 41,-5,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,229,6,2,2,10:52 PM,6:55,,,Braun S.FOUL (P2.T3) (R.Acosta),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,231,3,11,2,10:52 PM,6:55,George Free Throw 1 of 2 (6 PTS),,,46 - 42,-4,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,232,8,0,2,10:52 PM,6:55,,,SUB: Gordon FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,234,3,12,2,10:53 PM,6:55,George Free Throw 2 of 2 (7 PTS),,,46 - 43,-3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,235,2,78,2,10:53 PM,6:36,,,MISS Jokic 7' Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,236,4,0,2,10:53 PM,6:34,Theis REBOUND (Off:2 Def:5),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,237,1,1,2,10:53 PM,6:25,Brown 26' 3PT Jump Shot (3 PTS) (Harden 7 AST),,,46 - 46,TIE,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,239,9,1,2,10:54 PM,6:23,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,240,2,79,2,10:57 PM,6:10,,,MISS Jackson 14' Pullup Jump Shot,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,241,4,0,2,10:57 PM,6:08,George REBOUND (Off:0 Def:2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,242,2,101,2,10:57 PM,5:50,MISS Harden 5' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,243,4,0,2,10:57 PM,5:48,,,Jokic REBOUND (Off:1 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,244,6,2,2,10:58 PM,5:44,Theis S.FOUL (P1.T2) (D.Richardson),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,246,3,11,2,10:58 PM,5:44,,,Jackson Free Throw 1 of 2 (6 PTS),47 - 46,-1,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,247,8,0,2,10:58 PM,5:44,SUB: Zubac FOR Theis,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,248,8,0,2,10:58 PM,5:44,SUB: Leonard FOR Brown,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,251,3,12,2,10:59 PM,5:44,,,Jackson Free Throw 2 of 2 (7 PTS),48 - 46,-2,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,252,6,2,2,10:59 PM,5:30,,,Jackson S.FOUL (P1.T4) (S.Wright),,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,254,3,11,2,11:00 PM,5:30,MISS Zubac Free Throw 1 of 2,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,255,4,1,2,11:00 PM,5:30,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,256,3,12,2,11:00 PM,5:30,MISS Zubac Free Throw 2 of 2,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,257,4,0,2,11:00 PM,5:27,,,Jokic REBOUND (Off:1 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,258,2,47,2,11:00 PM,5:08,,,MISS Jokic 11' Turnaround Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,259,4,0,2,11:00 PM,5:05,George REBOUND (Off:0 Def:3),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,260,2,75,2,11:00 PM,4:57,MISS George 2' Driving Finger Roll Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,261,4,0,2,11:00 PM,4:54,Zubac REBOUND (Off:1 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,262,2,97,2,11:00 PM,4:54,MISS Zubac Tip Layup Shot,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,263,4,0,2,11:00 PM,4:53,,,Gordon REBOUND (Off:0 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,264,5,2,2,11:01 PM,4:46,Harden STEAL (1 STL),,Porter Jr. Lost Ball Turnover (P2.T6),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,266,1,1,2,11:01 PM,4:39,George 25' 3PT Jump Shot (10 PTS) (Leonard 3 AST),,,48 - 49,1,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,268,5,1,2,11:01 PM,4:21,Harden STEAL (2 STL),,Jokic Bad Pass Turnover (P2.T7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,270,1,78,2,11:01 PM,3:59,Powell 8' Floating Jump Shot (11 PTS) (Harden 8 AST),,,48 - 51,3,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,272,9,1,2,11:01 PM,3:59,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,273,8,0,2,11:03 PM,3:59,SUB: Mann FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,274,8,0,2,11:03 PM,3:59,,,SUB: Murray FOR Jackson,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,277,2,58,2,11:03 PM,3:40,,,MISS Gordon 14' Turnaround Hook Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,278,4,0,2,11:03 PM,3:34,,,Porter Jr. REBOUND (Off:2 Def:2),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,279,2,58,2,11:04 PM,3:30,,,MISS Jokic 9' Turnaround Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,280,4,0,2,11:04 PM,3:28,Zubac REBOUND (Off:1 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,281,6,2,2,11:04 PM,3:25,,,Porter Jr. S.FOUL (P2.PN) (R.Acosta),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,283,3,11,2,11:05 PM,3:25,Harden Free Throw 1 of 2 (6 PTS),,,48 - 52,4,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,284,3,12,2,11:05 PM,3:25,Harden Free Throw 2 of 2 (7 PTS),,,48 - 53,5,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,285,2,78,2,11:05 PM,3:12,,,MISS Jokic 8' Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,286,4,0,2,11:06 PM,3:08,Zubac REBOUND (Off:1 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,287,2,80,2,11:06 PM,2:59,MISS Leonard 13' Step Back Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,288,4,0,2,11:06 PM,2:54,Zubac REBOUND (Off:2 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,289,1,97,2,11:06 PM,2:54,Zubac Tip Layup Shot (4 PTS),,,48 - 55,7,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,290,2,1,2,11:06 PM,2:31,,,MISS Jokic 27' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,291,4,0,2,11:06 PM,2:28,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,292,2,63,2,11:06 PM,2:23,MISS Leonard 13' Fadeaway Jumper,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,293,4,0,2,11:06 PM,2:19,,,Porter Jr. REBOUND (Off:2 Def:3),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,294,5,2,2,11:07 PM,2:08,Zubac STEAL (2 STL),,Jokic Lost Ball Turnover (P3.T8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,296,1,41,2,11:07 PM,2:03,Powell 12' Running Layup (13 PTS),,,48 - 57,9,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,297,1,3,2,11:07 PM,1:45,,,Jokic 8' Hook Shot (10 PTS) (Murray 3 AST),50 - 57,7,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,299,5,1,2,11:07 PM,1:29,Harden Bad Pass Turnover (P2.T4),,Gordon STEAL (1 STL),,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,301,2,2,2,11:07 PM,1:26,,,MISS Porter Jr. 24' 3PT Running Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,302,4,0,2,11:07 PM,1:23,,,Jokic REBOUND (Off:2 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,303,1,3,2,11:07 PM,1:22,,,Jokic 2' Hook Shot (12 PTS),52 - 57,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,304,1,1,2,11:08 PM,1:04,Harden 27' 3PT Jump Shot (10 PTS) (Leonard 4 AST),,,52 - 60,8,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,306,1,6,2,11:08 PM,0:49,,,Murray 3' Driving Layup (5 PTS),54 - 60,6,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,307,6,2,2,11:08 PM,0:49,Zubac S.FOUL (P2.T3) (R.Acosta),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,309,8,0,2,11:08 PM,0:49,SUB: Theis FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,310,8,0,2,11:08 PM,0:49,,,SUB: Watson FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,313,3,10,2,11:09 PM,0:49,,,Murray Free Throw 1 of 1 (6 PTS),55 - 60,5,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,314,5,4,2,11:09 PM,0:38,Theis Traveling Turnover (P1.T5),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022301215,315,8,0,2,11:09 PM,0:38,,,SUB: Porter Jr. FOR Watson,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,317,1,6,2,11:09 PM,0:31,,,Murray 2' Driving Layup (8 PTS) (Jokic 6 AST),57 - 60,3,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,319,6,2,2,11:10 PM,0:07,,,Murray S.FOUL (P1.PN) (R.Acosta),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,321,3,11,2,11:11 PM,0:07,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,322,4,1,2,11:11 PM,0:07,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,323,8,0,2,11:11 PM,0:07,SUB: George FOR Powell,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,325,3,12,2,11:11 PM,0:07,Harden Free Throw 2 of 2 (11 PTS),,,57 - 61,4,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,326,2,79,2,11:11 PM,0:02,,,MISS Murray 23' Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,327,4,0,2,11:11 PM,0:01,,,Jokic REBOUND (Off:3 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,328,13,0,2,11:11 PM,0:00,,End of 2nd Period (11:11 PM EST),,57 - 61,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301215,331,12,0,3,11:27 PM,12:00,,Start of 3rd Period (11:27 PM EST),,57 - 61,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,332,1,1,3,11:27 PM,11:44,,,Jokic 15' Jump Shot (14 PTS),59 - 61,2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,333,6,1,3,11:27 PM,11:30,,,Jokic P.FOUL (P1.T1) (R.Acosta),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,335,5,1,3,11:28 PM,11:24,Harden Bad Pass Turnover (P3.T6),,Jokic STEAL (1 STL),,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,338,1,101,3,11:28 PM,11:16,,,Jokic 4' Driving Floating Jump Shot (16 PTS) (Murray 4 AST),61 - 61,TIE,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,340,1,86,3,11:28 PM,10:52,George 18' Turnaround Fadeaway (12 PTS),,,61 - 63,2,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,341,2,80,3,11:29 PM,10:33,,,MISS Jokic 27' 3PT Step Back Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,342,4,0,3,11:29 PM,10:31,George REBOUND (Off:0 Def:4),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,343,2,103,3,11:29 PM,10:26,MISS George 27' 3PT Running Pull-Up Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,344,4,0,3,11:29 PM,10:24,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301215,346,2,6,3,11:29 PM,10:08,,,MISS Gordon 5' Driving Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,348,4,0,3,11:29 PM,10:07,,,Gordon REBOUND (Off:1 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,375,2,97,3,11:29 PM,10:07,,,MISS Gordon 1' Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,376,4,0,3,11:29 PM,10:04,Zubac REBOUND (Off:2 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,349,2,103,3,11:29 PM,10:02,MISS Harden 26' 3PT Running Pull-Up Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,350,4,0,3,11:29 PM,9:59,,,Porter Jr. REBOUND (Off:2 Def:4),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,351,2,6,3,11:30 PM,9:44,,,MISS Jokic 5' Driving Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,352,4,0,3,11:30 PM,9:43,,,Jokic REBOUND (Off:4 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,353,1,97,3,11:30 PM,9:41,,,Jokic 1' Tip Layup Shot (18 PTS),63 - 63,TIE,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,354,1,3,3,11:30 PM,9:21,Zubac 7' Hook Shot (6 PTS),,,63 - 65,2,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,355,1,102,3,11:30 PM,9:04,,,Murray 5' Driving Floating Bank Jump Shot (10 PTS) (Jokic 7 AST),65 - 65,TIE,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,358,1,9,3,11:31 PM,8:42,George 4' Driving Dunk (14 PTS) (Harden 9 AST),,,65 - 67,2,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,360,1,1,3,11:31 PM,8:28,,,Porter Jr. 27' 3PT Jump Shot (14 PTS) (Murray 5 AST),68 - 67,-1,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,362,6,2,3,11:32 PM,8:13,,,Murray S.FOUL (P2.T2) (D.Richardson),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,364,3,11,3,11:32 PM,8:13,MISS Zubac Free Throw 1 of 2,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,365,4,1,3,11:32 PM,8:13,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,366,3,12,3,11:32 PM,8:13,MISS Zubac Free Throw 2 of 2,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,367,4,0,3,11:32 PM,8:08,Leonard REBOUND (Off:1 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,368,5,45,3,11:32 PM,8:03,George Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022301215,369,1,102,3,11:33 PM,7:46,,,Porter Jr. 4' Driving Floating Bank Jump Shot (16 PTS) (Jokic 8 AST),70 - 67,-3,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,371,2,79,3,11:33 PM,7:35,MISS Harden 13' Pullup Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,372,4,0,3,11:33 PM,7:35,,,Jokic REBOUND (Off:4 Def:6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,373,1,80,3,11:33 PM,7:18,,,Murray 16' Step Back Jump Shot (12 PTS),72 - 67,-5,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,374,9,1,3,11:34 PM,7:18,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,377,1,79,3,11:37 PM,7:08,Leonard 29' 3PT Pullup Jump Shot (9 PTS),,,72 - 70,-2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,378,1,85,3,11:37 PM,6:45,,,Murray 5' Turnaround Bank Shot (14 PTS),74 - 70,-4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,379,1,3,3,11:38 PM,6:31,Zubac 4' Hook Shot (8 PTS) (Leonard 5 AST),,,74 - 72,-2,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,381,1,63,3,11:38 PM,6:04,,,Murray 15' Fadeaway Jumper (16 PTS),76 - 72,-4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,382,2,79,3,11:38 PM,5:51,MISS George 20' Pullup Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,383,4,0,3,11:38 PM,5:51,,,Gordon REBOUND (Off:1 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,384,2,1,3,11:39 PM,5:32,,,MISS Jokic 21' Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,385,4,0,3,11:39 PM,5:30,Mann REBOUND (Off:0 Def:1),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,386,1,79,3,11:39 PM,5:18,Harden 5' Pullup Jump Shot (13 PTS),,,76 - 74,-2,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,387,2,86,3,11:39 PM,4:54,,,MISS Jokic 13' Turnaround Fadeaway Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,388,4,0,3,11:39 PM,4:51,Leonard REBOUND (Off:1 Def:2),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,389,2,6,3,11:39 PM,4:43,MISS Mann 5' Driving Layup,,Murray BLOCK (1 BLK),,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1
+0022301215,391,4,0,3,11:39 PM,4:40,,,Jokic REBOUND (Off:4 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,392,2,63,3,11:40 PM,4:35,,,MISS Murray 14' Fadeaway Jumper,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,393,4,0,3,11:40 PM,4:32,George REBOUND (Off:0 Def:5),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,394,5,2,3,11:40 PM,4:25,Leonard Lost Ball Turnover (P2.T8),,Murray STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,396,2,103,3,11:40 PM,4:22,,,MISS Murray 28' 3PT Running Pull-Up Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,397,4,0,3,11:40 PM,4:21,,,Porter Jr. REBOUND (Off:3 Def:4),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,398,1,107,3,11:40 PM,4:21,,,Porter Jr. Tip Dunk Shot (18 PTS),78 - 74,-4,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,399,6,1,3,11:40 PM,4:02,,,Caldwell-Pope P.FOUL (P1.T3) (S.Wright),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,401,8,0,3,11:40 PM,4:02,SUB: Theis FOR Harden,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,402,8,0,3,11:40 PM,4:02,SUB: Westbrook FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,403,8,0,3,11:40 PM,4:02,SUB: Brown FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,404,8,0,3,11:40 PM,4:02,,,SUB: Jackson FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,409,1,47,3,11:41 PM,3:47,George 26' 3PT Turnaround Jump Shot (17 PTS),,,78 - 77,-1,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,410,2,1,3,11:41 PM,3:21,,,MISS Jokic 27' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,411,4,0,3,11:41 PM,3:16,Westbrook REBOUND (Off:1 Def:3),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,412,2,1,3,11:41 PM,3:12,MISS Theis 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,413,4,0,3,11:41 PM,3:09,,,Porter Jr. REBOUND (Off:3 Def:5),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,415,6,1,3,11:42 PM,3:05,Brown P.FOUL (P2.T1) (D.Richardson),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,417,8,0,3,11:42 PM,3:05,,,SUB: Braun FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,418,8,0,3,11:42 PM,3:05,,,SUB: Watson FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,421,8,0,3,11:42 PM,3:05,SUB: Powell FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,423,2,98,3,11:42 PM,2:56,,,MISS Jokic 3' Cutting Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,424,4,0,3,11:42 PM,2:54,Westbrook REBOUND (Off:1 Def:4),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,425,2,1,3,11:42 PM,2:50,MISS Brown 3PT Jump Shot,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,426,4,0,3,11:42 PM,2:49,Westbrook REBOUND (Off:2 Def:4),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,436,2,97,3,11:42 PM,2:49,MISS Westbrook 2' Tip Layup Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,437,4,0,3,11:43 PM,2:47,Westbrook REBOUND (Off:3 Def:4),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,429,2,79,3,11:43 PM,2:42,MISS Westbrook 16' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,430,4,0,3,11:43 PM,2:39,,,Watson REBOUND (Off:0 Def:2),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,431,5,1,3,11:43 PM,2:29,Powell STEAL (1 STL),,Jokic Bad Pass Turnover (P4.T9),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,433,1,41,3,11:43 PM,2:25,Leonard 1' Running Layup (11 PTS) (Powell 2 AST),,,78 - 79,1,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,435,9,1,3,11:43 PM,2:25,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,438,8,0,3,11:46 PM,2:25,,,SUB: Strawther FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,440,6,1,3,11:46 PM,2:13,Theis P.FOUL (P2.T2) (R.Acosta),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,442,2,79,3,11:47 PM,1:58,,,MISS Jackson 21' Pullup Jump Shot,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,443,4,0,3,11:47 PM,1:55,Powell REBOUND (Off:0 Def:2),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,444,2,102,3,11:47 PM,1:47,MISS Powell 6' Driving Floating Bank Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,445,4,0,3,11:47 PM,1:46,Theis REBOUND (Off:3 Def:5),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,481,2,97,3,11:47 PM,1:45,MISS Theis 1' Tip Layup Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,482,4,0,3,11:47 PM,1:44,,,Strawther REBOUND (Off:0 Def:1),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,446,2,1,3,11:47 PM,1:37,,,MISS Jokic 27' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,447,4,0,3,11:47 PM,1:35,Theis REBOUND (Off:3 Def:6),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,448,2,79,3,11:48 PM,1:22,MISS Leonard 28' 3PT Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,449,4,0,3,11:48 PM,1:20,,,Braun REBOUND (Off:0 Def:3),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,450,6,1,3,11:48 PM,1:20,Brown P.FOUL (P3.T3) (S.Wright),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,452,8,0,3,11:48 PM,1:20,,,SUB: Jordan FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,454,1,79,3,11:48 PM,1:08,,,Jackson 25' 3PT Pullup Jump Shot (10 PTS) (Strawther 2 AST),81 - 79,-2,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,455,2,78,3,11:48 PM,0:54,MISS Theis 12' Floating Jump Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,456,4,0,3,11:49 PM,0:52,,,Jordan REBOUND (Off:3 Def:2),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,458,5,2,3,11:49 PM,0:44,Leonard STEAL (1 STL),,Jackson Lost Ball Turnover (P2.T10),,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,460,2,6,3,11:49 PM,0:29,MISS Brown 4' Driving Layup,,Jordan BLOCK (1 BLK),,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,1
+0022301215,462,4,0,3,11:49 PM,0:25,,,Watson REBOUND (Off:0 Def:3),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,463,6,2,3,11:49 PM,0:07,Brown S.FOUL (P4.PN) (S.Wright),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,465,3,11,3,11:50 PM,0:07,,,MISS Jackson Free Throw 1 of 2,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,466,4,1,3,11:50 PM,0:07,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,467,8,0,3,11:50 PM,0:07,,,SUB: Gordon FOR Strawther,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,468,8,0,3,11:50 PM,0:07,,,SUB: Caldwell-Pope FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,471,3,12,3,11:51 PM,0:07,,,Jackson Free Throw 2 of 2 (11 PTS),82 - 79,-3,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,472,2,101,3,11:51 PM,0:01,MISS Powell 17' Driving Floating Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,473,4,0,3,11:51 PM,0:01,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,474,13,0,3,11:51 PM,0:00,,End of 3rd Period (11:51 PM EST),,82 - 79,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301215,483,12,0,4,11:54 PM,12:00,,Start of 4th Period (11:54 PM EST),,82 - 79,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,484,2,63,4,11:55 PM,11:39,MISS George 20' Fadeaway Jumper,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022301215,485,4,0,4,11:55 PM,11:35,Theis REBOUND (Off:4 Def:6),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022301215,486,2,101,4,11:55 PM,11:26,MISS Powell 8' Driving Floating Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,487,4,0,4,11:55 PM,11:24,Westbrook REBOUND (Off:4 Def:4),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,488,1,72,4,11:55 PM,11:23,Westbrook 1' Putback Layup (6 PTS),,,82 - 81,-1,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,489,2,6,4,11:55 PM,11:11,Theis BLOCK (3 BLK),,MISS Jackson 3' Driving Layup,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1
+0022301215,491,4,0,4,11:55 PM,11:08,Brown REBOUND (Off:0 Def:2),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,492,6,2,4,11:55 PM,11:08,,,Strawther S.FOUL (P3.T1) (D.Richardson),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,494,3,11,4,11:56 PM,11:08,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,495,4,1,4,11:56 PM,11:08,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,496,3,12,4,11:56 PM,11:08,Westbrook Free Throw 2 of 2 (7 PTS),,,82 - 82,TIE,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,497,2,1,4,11:56 PM,10:56,,,MISS Braun 24' 3PT Jump Shot,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,498,4,0,4,11:56 PM,10:53,Powell REBOUND (Off:0 Def:3),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,499,2,101,4,11:57 PM,10:31,MISS George 5' Driving Floating Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,500,4,0,4,11:57 PM,10:28,,,Braun REBOUND (Off:0 Def:4),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,501,2,100,4,11:57 PM,10:24,,,MISS Watson 2' Running Alley Oop Layup Shot,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,503,4,0,4,11:57 PM,10:20,Brown REBOUND (Off:0 Def:3),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,504,1,41,4,11:57 PM,10:17,Westbrook 2' Running Layup (9 PTS),,,82 - 84,2,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,505,6,1,4,11:57 PM,10:08,George P.FOUL (P1.T1) (S.Wright),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,507,1,79,4,11:58 PM,9:58,,,Jackson 26' 3PT Pullup Jump Shot (14 PTS) (Watson 3 AST),85 - 84,-1,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,509,1,79,4,11:58 PM,9:35,George 28' 3PT Pullup Jump Shot (20 PTS),,,85 - 87,2,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,510,1,52,4,11:58 PM,9:17,,,Jordan 1' Alley Oop Dunk (4 PTS) (Jackson 2 AST),87 - 87,TIE,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,512,1,79,4,11:59 PM,8:59,George 26' 3PT Pullup Jump Shot (23 PTS),,,87 - 90,3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,513,2,1,4,11:59 PM,8:44,,,MISS Watson 3PT Jump Shot,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,514,4,0,4,11:59 PM,8:38,Brown REBOUND (Off:0 Def:4),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,515,6,1,4,11:59 PM,8:35,,,Strawther P.FOUL (P4.T2) (S.Wright),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,517,2,1,4,12:00 AM,8:23,MISS Brown 26' 3PT Jump Shot,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,518,4,0,4,12:00 AM,8:22,Theis REBOUND (Off:5 Def:6),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,519,2,9,4,12:00 AM,8:16,MISS Powell 3' Driving Dunk,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,520,4,0,4,12:00 AM,8:10,George REBOUND (Off:1 Def:5),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,521,2,6,4,12:00 AM,8:03,MISS George 2' Driving Layup,,Watson BLOCK (1 BLK),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022301215,523,4,0,4,12:00 AM,7:59,,,Jackson REBOUND (Off:0 Def:1),,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,524,1,41,4,12:00 AM,7:57,,,Braun 2' Running Layup (8 PTS) (Jackson 3 AST),89 - 90,1,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,526,9,1,4,12:00 AM,7:57,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,527,8,0,4,12:03 AM,7:57,SUB: Leonard FOR Brown,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,528,8,0,4,12:03 AM,7:57,,,SUB: Jokic FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,529,8,0,4,12:03 AM,7:57,,,SUB: Porter Jr. FOR Strawther,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,533,2,79,4,12:04 AM,7:43,MISS George 16' Pullup Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,534,4,0,4,12:04 AM,7:41,,,Jokic REBOUND (Off:4 Def:8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,535,2,41,4,12:04 AM,7:38,Leonard BLOCK (1 BLK),,MISS Jackson 2' Running Layup,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+0022301215,537,4,0,4,12:04 AM,7:36,,,Braun REBOUND (Off:1 Def:4),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,646,2,97,4,12:04 AM,7:36,Westbrook BLOCK (2 BLK),,MISS Braun 3' Tip Layup Shot,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0
+0022301215,648,4,0,4,12:04 AM,7:36,Powell REBOUND (Off:0 Def:4),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,538,1,76,4,12:04 AM,7:29,Powell 2' Running Finger Roll Layup (15 PTS),,,89 - 92,3,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,539,2,86,4,12:04 AM,7:03,,,MISS Jackson 20' Turnaround Fadeaway Shot,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,540,4,0,4,12:04 AM,7:02,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,541,6,3,4,12:05 AM,7:02,,,Braun L.B.FOUL (P3.T3) (R.Acosta),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,543,8,0,4,12:05 AM,7:02,SUB: Harden FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,544,8,0,4,12:05 AM,7:02,SUB: Zubac FOR Theis,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,545,8,0,4,12:05 AM,7:02,,,SUB: Caldwell-Pope FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,546,8,0,4,12:05 AM,7:02,,,SUB: Gordon FOR Jackson,,,5,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,547,8,0,4,12:05 AM,7:02,,,SUB: Murray FOR Watson,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,553,6,1,4,12:05 AM,6:51,,,Gordon P.FOUL (P1.T4) (D.Richardson),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,555,5,45,4,12:06 AM,6:42,Harden Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022301215,556,6,1,4,12:06 AM,6:28,Zubac P.FOUL (P3.T2) (S.Wright),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,558,2,57,4,12:06 AM,6:18,,,MISS Jokic 8' Driving Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,559,4,0,4,12:07 AM,6:17,,,Jokic REBOUND (Off:5 Def:8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,560,6,2,4,12:07 AM,6:17,Leonard S.FOUL (P1.T3) (D.Richardson),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,562,3,11,4,12:07 AM,6:17,,,Jokic Free Throw 1 of 2 (19 PTS),90 - 92,2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,563,3,12,4,12:07 AM,6:17,,,Jokic Free Throw 2 of 2 (20 PTS),91 - 92,1,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,564,5,4,4,12:08 AM,6:06,Powell Traveling Turnover (P1.T10),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022301215,565,2,1,4,12:08 AM,5:55,,,MISS Gordon 18' Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,566,4,0,4,12:08 AM,5:51,Zubac REBOUND (Off:2 Def:5),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,567,5,1,4,12:08 AM,5:37,George Bad Pass Turnover (P2.T11),,Gordon STEAL (2 STL),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,649,2,41,4,12:08 AM,5:34,Harden BLOCK (1 BLK),,MISS Gordon 8' Running Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0
+0022301215,651,4,0,4,12:08 AM,5:33,,,Gordon REBOUND (Off:2 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,569,2,3,4,12:09 AM,5:17,,,MISS Jokic 5' Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,570,4,0,4,12:09 AM,5:14,Zubac REBOUND (Off:2 Def:6),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,571,1,80,4,12:09 AM,5:01,Harden 26' 3PT Step Back Jump Shot (16 PTS),,,91 - 95,4,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,572,1,52,4,12:09 AM,4:45,,,Gordon 1' Alley Oop Dunk (8 PTS) (Jokic 9 AST),93 - 95,2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,574,2,1,4,12:09 AM,4:25,MISS George 30' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,575,4,0,4,12:09 AM,4:22,,,Jokic REBOUND (Off:5 Def:9),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,576,2,1,4,12:10 AM,4:10,,,MISS Jokic 26' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,577,4,0,4,12:10 AM,4:08,George REBOUND (Off:1 Def:6),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,578,1,1,4,12:10 AM,4:02,Leonard 3' Jump Shot (13 PTS) (Harden 10 AST),,,93 - 97,4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,580,5,1,4,12:10 AM,3:40,Harden STEAL (3 STL),,Murray Bad Pass Turnover (P1.T11),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,582,1,50,4,12:10 AM,3:36,Leonard 2' Running Dunk (15 PTS) (Harden 11 AST),,,93 - 99,6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022301215,584,9,1,4,12:10 AM,3:36,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,585,2,58,4,12:14 AM,3:23,,,MISS Jokic 7' Turnaround Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,586,4,0,4,12:14 AM,3:20,Leonard REBOUND (Off:1 Def:3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,587,2,63,4,12:14 AM,3:01,MISS Leonard 9' Fadeaway Jumper,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,588,4,0,4,12:14 AM,2:58,,,Porter Jr. REBOUND (Off:3 Def:6),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,589,1,78,4,12:14 AM,2:51,,,Jokic 3' Floating Jump Shot (22 PTS) (Murray 6 AST),95 - 99,4,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,591,1,101,4,12:15 AM,2:27,Harden 10' Driving Floating Jump Shot (18 PTS),,,95 - 101,6,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,592,1,101,4,12:15 AM,2:10,,,Murray 7' Driving Floating Jump Shot (18 PTS),97 - 101,4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,593,1,63,4,12:15 AM,1:48,Leonard 12' Fadeaway Jumper (17 PTS),,,97 - 103,6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,594,6,1,4,12:16 AM,1:33,Leonard P.FOUL (P2.T4) (S.Wright),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301215,597,2,98,4,12:17 AM,1:21,Zubac BLOCK (1 BLK),,MISS Jokic 4' Cutting Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0022301215,599,4,0,4,12:17 AM,1:21,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,601,2,63,4,12:17 AM,1:16,,,MISS Jokic 20' Fadeaway Jumper,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022301215,602,4,0,4,12:17 AM,1:14,George REBOUND (Off:1 Def:7),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022301215,603,2,86,4,12:17 AM,0:55,MISS Leonard 15' Turnaround Fadeaway Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,604,4,0,4,12:17 AM,0:53,,,Jokic REBOUND (Off:5 Def:10),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,605,2,2,4,12:17 AM,0:47,,,MISS Caldwell-Pope 3PT Running Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,606,4,0,4,12:17 AM,0:45,Zubac REBOUND (Off:2 Def:7),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,607,6,28,4,12:18 AM,0:45,,,Jokic Personal Take Foul (P2.PN) (R.Acosta),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,609,3,11,4,12:18 AM,0:45,Zubac Free Throw 1 of 2 (9 PTS),,,97 - 104,7,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,610,3,12,4,12:18 AM,0:45,Zubac Free Throw 2 of 2 (10 PTS),,,97 - 105,8,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,611,9,1,4,12:18 AM,0:45,,,Nuggets Timeout: Regular (Reg.6 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,612,2,1,4,12:20 AM,0:38,,,MISS Murray 27' 3PT Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,613,4,0,4,12:20 AM,0:38,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,615,6,28,4,12:20 AM,0:38,,,Gordon Personal Take Foul (P2.PN) (R.Acosta),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,617,3,11,4,12:21 AM,0:38,Harden Free Throw 1 of 2 (19 PTS),,,97 - 106,9,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,618,3,12,4,12:21 AM,0:38,Harden Free Throw 2 of 2 (20 PTS),,,97 - 107,10,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,619,9,1,4,12:21 AM,0:38,,,Nuggets Timeout: Regular (Reg.7 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,620,1,6,4,12:23 AM,0:32,,,Murray 3' Driving Layup (20 PTS) (Jokic 10 AST),99 - 107,8,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301215,622,9,1,4,12:23 AM,0:32,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301215,623,8,0,4,12:24 AM,0:32,SUB: Mann FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022301215,625,8,0,4,12:24 AM,0:32,,,SUB: Watson FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,626,8,0,4,12:24 AM,0:32,,,SUB: Braun FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,629,6,28,4,12:24 AM,0:30,,,Murray Personal Take Foul (P3.PN) (R.Acosta),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,631,3,11,4,12:25 AM,0:30,George Free Throw 1 of 2 (24 PTS),,,99 - 108,9,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,632,8,0,4,12:25 AM,0:30,,,SUB: Jokic FOR Watson,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,633,8,0,4,12:25 AM,0:30,,,SUB: Porter Jr. FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301215,636,3,12,4,12:25 AM,0:30,George Free Throw 2 of 2 (25 PTS),,,99 - 109,10,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,637,1,79,4,12:25 AM,0:23,,,Murray 28' 3PT Pullup Jump Shot (23 PTS),102 - 109,7,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,638,6,28,4,12:26 AM,0:21,,,Murray Personal Take Foul (P4.PN) (R.Acosta),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022301215,640,3,11,4,12:26 AM,0:21,Powell Free Throw 1 of 2 (16 PTS),,,102 - 110,8,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,641,3,12,4,12:26 AM,0:21,Powell Free Throw 2 of 2 (17 PTS),,,102 - 111,9,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,642,2,79,4,12:26 AM,0:14,,,MISS Murray 25' 3PT Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301215,643,4,0,4,12:27 AM,0:10,Powell REBOUND (Off:0 Def:5),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022301215,644,13,0,4,12:27 AM,0:00,,End of 4th Period (12:27 AM EST),,102 - 111,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

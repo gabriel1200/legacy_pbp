@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300735,2,12,0,1,7:43 PM,12:00,,Start of 1st Period (7:43 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,4,10,0,1,7:43 PM,12:00,Jump Ball Claxton vs. Allen: Tip to Simmons,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1
+0022300735,7,2,57,1,7:44 PM,11:45,MISS Claxton 6' Driving Hook Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,8,4,0,1,7:44 PM,11:42,,,Strus REBOUND (Off:0 Def:1),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,9,1,2,1,7:44 PM,11:39,,,Mitchell 25' 3PT Running Jump Shot (3 PTS) (Strus 1 AST),3 - 0,-3,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,11,1,1,1,7:44 PM,11:22,Bridges 24' 3PT Jump Shot (3 PTS) (Wilson 1 AST),,,3 - 3,TIE,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,14,1,80,1,7:44 PM,10:58,,,Mitchell 20' Step Back Jump Shot (5 PTS),5 - 3,-2,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,15,1,9,1,7:44 PM,10:51,Simmons Driving Dunk (2 PTS),,,5 - 5,TIE,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,16,2,6,1,7:45 PM,10:38,,,MISS Mitchell 2' Driving Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,18,1,97,1,7:45 PM,10:34,,,Allen Tip Layup Shot (2 PTS),7 - 5,-2,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,17,4,0,1,7:45 PM,10:34,,,Allen REBOUND (Off:1 Def:0),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,19,6,1,1,7:45 PM,10:32,,,Strus P.FOUL (P1.T1) (A.Nagy),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,21,2,63,1,7:45 PM,10:11,MISS Thomas 14' Fadeaway Jumper,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,22,4,0,1,7:45 PM,10:10,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,23,6,3,1,7:46 PM,10:10,,,Garland L.B.FOUL (P1.T2) (K.Scott),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,25,2,1,1,7:46 PM,10:00,MISS Bridges 26' 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,26,4,0,1,7:46 PM,9:57,,,Allen REBOUND (Off:1 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,27,1,5,1,7:46 PM,9:50,,,Mobley 4' Layup (2 PTS) (Mitchell 1 AST),9 - 5,-4,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,29,2,75,1,7:47 PM,9:30,MISS Thomas 4' Driving Finger Roll Layup,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,30,4,0,1,7:47 PM,9:29,Claxton REBOUND (Off:1 Def:0),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,31,2,72,1,7:47 PM,9:28,MISS Claxton 1' Putback Layup,,Allen BLOCK (1 BLK),,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,33,4,0,1,7:47 PM,9:25,,,Mobley REBOUND (Off:0 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,34,5,39,1,7:47 PM,9:24,,,Strus Step Out of Bounds Turnover (P1.T1),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300735,35,1,1,1,7:47 PM,9:07,Wilson 26' 3PT Jump Shot (3 PTS) (Bridges 1 AST),,,9 - 8,-1,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,37,1,1,1,7:47 PM,8:55,,,Mitchell 31' 3PT Jump Shot (8 PTS) (Garland 1 AST),12 - 8,-4,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,39,5,1,1,7:48 PM,8:41,Bridges Bad Pass Turnover (P1.T1),,Mitchell STEAL (1 STL),,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,41,1,50,1,7:48 PM,8:38,,,Mitchell Running Dunk (10 PTS),14 - 8,-6,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,42,9,1,1,7:48 PM,8:38,NETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,43,2,102,1,7:51 PM,8:15,MISS Bridges 17' Driving Floating Bank Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,44,4,0,1,7:51 PM,8:11,,,Allen REBOUND (Off:1 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,45,2,103,1,7:51 PM,8:08,,,MISS Mitchell 26' 3PT Running Pull-Up Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,46,4,0,1,7:51 PM,8:04,Wilson REBOUND (Off:0 Def:1),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,47,2,1,1,7:51 PM,7:48,MISS Thomas 27' 3PT Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,48,4,0,1,7:51 PM,7:44,,,Mobley REBOUND (Off:0 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,49,2,80,1,7:52 PM,7:31,,,MISS Garland 28' 3PT Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,50,4,0,1,7:52 PM,7:27,Claxton REBOUND (Off:1 Def:1),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,51,2,79,1,7:52 PM,7:20,MISS Thomas 16' Pullup Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,52,4,0,1,7:52 PM,7:18,Thomas REBOUND (Off:1 Def:0),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,53,1,97,1,7:52 PM,7:17,Thomas 11' Tip Layup Shot (2 PTS),,,14 - 10,-4,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,54,2,1,1,7:52 PM,6:55,,,MISS Allen 27' 3PT Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,55,4,0,1,7:52 PM,6:52,Thomas REBOUND (Off:1 Def:1),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,56,1,101,1,7:53 PM,6:39,Thomas 10' Driving Floating Jump Shot (4 PTS) (Wilson 2 AST),,,14 - 12,-2,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,58,2,75,1,7:53 PM,6:23,,,MISS Garland 4' Driving Finger Roll Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,59,4,0,1,7:53 PM,6:23,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,61,8,0,1,7:53 PM,6:23,SUB: Smith Jr. FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,62,8,0,1,7:53 PM,6:23,,,SUB: Wade FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,65,2,1,1,7:53 PM,6:19,,,MISS Strus 3PT Jump Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,66,4,0,1,7:53 PM,6:18,Wilson REBOUND (Off:0 Def:2),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,67,6,4,1,7:53 PM,6:11,Claxton OFF.Foul (P1) (B.Nansel),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,69,5,37,1,7:53 PM,6:11,Claxton Offensive Foul Turnover (P1.T2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022300735,70,6,1,1,7:54 PM,5:59,Wilson P.FOUL (P1.T1) (K.Scott),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,72,8,0,1,7:54 PM,5:59,,,SUB: LeVert FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,74,1,1,1,7:54 PM,5:51,,,Wade 3PT Jump Shot (3 PTS) (Allen 1 AST),17 - 12,-5,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,76,2,80,1,7:55 PM,5:34,MISS Bridges 17' Step Back Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,77,4,0,1,7:55 PM,5:31,,,Strus REBOUND (Off:0 Def:2),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,78,6,1,1,7:55 PM,5:22,Claxton P.FOUL (P2.T2) (K.Scott),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,80,8,0,1,7:55 PM,5:22,SUB: Watford FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,82,2,57,1,7:56 PM,5:09,,,MISS Allen 7' Driving Hook Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,83,4,0,1,7:56 PM,5:05,,,Strus REBOUND (Off:1 Def:2),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,84,2,97,1,7:56 PM,5:05,,,MISS Strus Tip Layup Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,85,4,0,1,7:56 PM,5:04,Thomas REBOUND (Off:1 Def:2),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,86,1,106,1,7:56 PM,5:03,Claxton Running Alley Oop Dunk Shot (2 PTS) (Smith Jr. 1 AST),,,17 - 14,-3,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,88,1,1,1,7:56 PM,4:40,,,Mitchell 26' 3PT Jump Shot (13 PTS) (LeVert 1 AST),20 - 14,-6,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,90,2,63,1,7:56 PM,4:21,MISS Watford 10' Fadeaway Jumper,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,91,4,0,1,7:57 PM,4:19,,,Wade REBOUND (Off:0 Def:1),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,92,5,1,1,7:57 PM,4:06,Wilson STEAL (1 STL),,Mitchell Bad Pass Turnover (P1.T2),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,94,1,41,1,7:57 PM,4:03,Watford 2' Running Layup (2 PTS),,,20 - 16,-4,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,95,9,1,1,7:57 PM,4:03,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,96,8,0,1,7:57 PM,4:03,SUB: Clowney FOR Wilson,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,97,8,0,1,7:57 PM,4:03,SUB: K. Johnson FOR Thomas,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,98,8,0,1,7:57 PM,4:03,SUB: Bridges FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,99,8,0,1,7:57 PM,4:03,,,SUB: Okoro FOR Strus,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,104,1,1,1,8:00 PM,3:41,,,Wade 3PT Jump Shot (6 PTS) (LeVert 2 AST),23 - 16,-7,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,106,1,1,1,8:00 PM,3:26,Bridges 18' Jump Shot (5 PTS) (Smith Jr. 2 AST),,,23 - 18,-5,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,108,2,79,1,8:01 PM,3:08,,,MISS LeVert 25' 3PT Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,109,4,0,1,8:01 PM,3:05,,,Allen REBOUND (Off:2 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,110,1,1,1,8:01 PM,3:04,,,Wade 26' 3PT Jump Shot (9 PTS) (Allen 2 AST),26 - 18,-8,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,112,2,79,1,8:01 PM,2:45,MISS Bridges 26' 3PT Pullup Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,113,4,0,1,8:01 PM,2:42,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,114,6,1,1,8:01 PM,2:36,Watford P.FOUL (P1.T3) (A.Nagy),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,116,8,0,1,8:02 PM,2:36,,,SUB: Niang FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,118,6,1,1,8:02 PM,2:34,Clowney P.FOUL (P1.T4) (K.Scott),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,120,8,0,1,8:02 PM,2:34,,,SUB: Mobley FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,121,8,0,1,8:02 PM,2:34,,,SUB: Garland FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,124,6,1,1,8:02 PM,2:27,K. Johnson P.FOUL (P1.PN) (A.Nagy),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,126,3,11,1,8:03 PM,2:27,,,Mobley Free Throw 1 of 2 (3 PTS),27 - 18,-9,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,127,3,12,1,8:03 PM,2:27,,,Mobley Free Throw 2 of 2 (4 PTS),28 - 18,-10,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,128,2,78,1,8:03 PM,2:05,MISS Watford 9' Floating Jump Shot,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,129,4,0,1,8:04 PM,1:59,Clowney REBOUND (Off:1 Def:0),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,130,1,72,1,8:04 PM,1:59,Clowney Putback Layup (2 PTS),,,28 - 20,-8,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,131,5,1,1,8:04 PM,1:35,K. Johnson STEAL (1 STL),,Mobley Bad Pass Turnover (P1.T3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,133,2,2,1,8:04 PM,1:30,MISS Bridges 25' 3PT Running Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,134,4,0,1,8:04 PM,1:27,,,Mobley REBOUND (Off:0 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,135,1,41,1,8:04 PM,1:21,,,Garland 1' Running Layup (2 PTS) (LeVert 3 AST),30 - 20,-10,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,137,6,1,1,8:04 PM,1:07,,,LeVert P.FOUL (P1.T3) (B.Nansel),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,139,8,0,1,8:05 PM,1:07,SUB: Thomas FOR K. Johnson,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,141,5,40,1,8:05 PM,0:59,Bridges Out of Bounds Lost Ball Turnover (P2.T3),,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022300735,142,1,71,1,8:05 PM,0:41,,,Mobley 2' Finger Roll Layup (6 PTS) (Garland 2 AST),32 - 20,-12,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,144,2,5,1,8:06 PM,0:33,MISS Smith Jr. 5' Layup,,Mobley BLOCK (1 BLK),,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,146,4,0,1,8:06 PM,0:30,Smith Jr. REBOUND (Off:1 Def:0),,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,147,6,2,1,8:06 PM,0:29,,,Mobley S.FOUL (P1.PN) (K.Scott),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,149,3,11,1,8:06 PM,0:29,MISS Bridges Free Throw 1 of 2,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,150,4,1,1,8:06 PM,0:29,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,151,8,0,1,8:06 PM,0:29,,,SUB: Mitchell FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,153,3,12,1,8:06 PM,0:29,Bridges Free Throw 2 of 2 (6 PTS),,,32 - 21,-11,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,154,2,58,1,8:07 PM,0:08,Watford BLOCK (1 BLK),,MISS Mobley 3' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1
+0022300735,156,4,0,1,8:07 PM,0:05,Smith Jr. REBOUND (Off:1 Def:1),,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,158,8,0,1,8:07 PM,0:01,,,SUB: Okoro FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,159,8,0,1,8:07 PM,0:01,,,SUB: Wade FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,162,2,1,1,8:07 PM,0:00,MISS Clowney 9' Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,163,4,0,1,8:07 PM,0:00,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,164,13,0,1,8:08 PM,0:00,,End of 1st Period (8:08 PM EST),,32 - 21,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,171,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,32 - 21,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,173,5,40,2,8:11 PM,11:42,,,Garland Out of Bounds Lost Ball Turnover (P1.T4),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300735,174,2,79,2,8:11 PM,11:25,MISS Thomas 10' Pullup Jump Shot,,Okoro BLOCK (1 BLK),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,176,4,0,2,8:11 PM,11:23,,,Mobley REBOUND (Off:0 Def:4),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,177,2,101,2,8:11 PM,11:08,,,MISS Okoro 5' Driving Floating Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,179,4,0,2,8:11 PM,11:05,Wilson REBOUND (Off:0 Def:3),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,180,1,41,2,8:11 PM,11:03,Bridges 2' Running Layup (8 PTS) (Simmons 1 AST),,,32 - 23,-9,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,182,5,2,2,8:12 PM,10:37,Simmons STEAL (1 STL),,Garland Lost Ball Turnover (P2.T5),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,184,1,58,2,8:12 PM,10:29,Bridges 6' Turnaround Hook Shot (10 PTS),,,32 - 25,-7,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,185,2,78,2,8:12 PM,10:13,,,MISS Niang 7' Floating Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,186,4,0,2,8:12 PM,10:10,Clowney REBOUND (Off:1 Def:1),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,187,1,75,2,8:13 PM,9:56,Simmons 3' Driving Finger Roll Layup (4 PTS) (Bridges 2 AST),,,32 - 27,-5,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,189,1,80,2,8:13 PM,9:30,,,Garland 20' Step Back Jump Shot (4 PTS),34 - 27,-7,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,190,5,40,2,8:13 PM,9:18,Thomas Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022300735,191,1,47,2,8:13 PM,9:08,,,Mobley 6' Turnaround Jump Shot (8 PTS) (Niang 1 AST),36 - 27,-9,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,193,1,108,2,8:14 PM,8:54,Bridges 2' Cutting Dunk Shot (12 PTS) (Simmons 2 AST),,,36 - 29,-7,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,195,1,1,2,8:14 PM,8:37,,,Okoro 25' 3PT Jump Shot (3 PTS) (Mobley 1 AST),39 - 29,-10,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,197,2,101,2,8:14 PM,8:25,MISS Simmons 9' Driving Floating Jump Shot,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,198,4,0,2,8:14 PM,8:22,,,Mobley REBOUND (Off:0 Def:5),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,199,1,1,2,8:14 PM,8:14,,,Niang 3PT Jump Shot (3 PTS) (Garland 3 AST),42 - 29,-13,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,201,2,79,2,8:15 PM,7:58,MISS Bridges 27' 3PT Pullup Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,202,4,0,2,8:15 PM,7:54,,,Okoro REBOUND (Off:0 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,203,5,45,2,8:15 PM,7:52,,,Okoro Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300735,204,8,0,2,8:15 PM,7:52,SUB: Claxton FOR Clowney,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,205,8,0,2,8:15 PM,7:52,,,SUB: Merrill FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,208,1,78,2,8:15 PM,7:40,Simmons 11' Floating Jump Shot (6 PTS) (Thomas 1 AST),,,42 - 31,-11,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,210,2,79,2,8:16 PM,7:20,,,MISS Merrill 25' 3PT Pullup Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,211,4,0,2,8:16 PM,7:19,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,213,8,0,2,8:16 PM,7:19,,,SUB: Mitchell FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,214,8,0,2,8:16 PM,7:19,,,SUB: Allen FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,217,5,2,2,8:16 PM,7:05,Claxton Lost Ball Turnover (P2.T5),,Niang STEAL (1 STL),,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,219,6,2,2,8:16 PM,6:58,Bridges S.FOUL (P1.T1) (B.Nansel),,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,221,9,1,2,8:16 PM,6:58,NETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,222,8,0,2,8:17 PM,6:58,SUB: Smith Jr. FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,224,3,11,2,8:20 PM,6:58,,,Allen Free Throw 1 of 2 (3 PTS),43 - 31,-12,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,225,3,12,2,8:20 PM,6:58,,,Allen Free Throw 2 of 2 (4 PTS),44 - 31,-13,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,226,1,98,2,8:20 PM,6:44,Wilson 2' Cutting Layup Shot (5 PTS) (Smith Jr. 3 AST),,,44 - 33,-11,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,228,2,98,2,8:20 PM,6:18,Claxton BLOCK (1 BLK),,MISS Okoro 4' Cutting Layup Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022300735,230,4,0,2,8:20 PM,6:16,Smith Jr. REBOUND (Off:1 Def:2),,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,231,2,41,2,8:20 PM,6:14,MISS Thomas 3' Running Layup,,Mitchell BLOCK (1 BLK),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,233,4,0,2,8:20 PM,6:14,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,235,8,0,2,8:20 PM,6:14,,,SUB: Wade FOR Niang,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,236,8,0,2,8:20 PM,6:14,,,SUB: Strus FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,239,1,1,2,8:21 PM,6:01,Bridges 24' 3PT Jump Shot (15 PTS) (Wilson 3 AST),,,44 - 36,-8,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,241,2,1,2,8:21 PM,5:47,,,MISS Mitchell 26' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,242,4,0,2,8:21 PM,5:44,Thomas REBOUND (Off:1 Def:3),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,243,2,79,2,8:21 PM,5:37,MISS Thomas 15' Pullup Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,244,4,0,2,8:21 PM,5:34,Bridges REBOUND (Off:1 Def:0),,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,245,2,75,2,8:22 PM,5:28,MISS Smith Jr. 6' Driving Finger Roll Layup,,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,246,4,0,2,8:22 PM,5:27,,,Allen REBOUND (Off:2 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,247,1,2,2,8:22 PM,5:24,,,Merrill 26' 3PT Running Jump Shot (3 PTS) (Mitchell 2 AST),47 - 36,-11,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,249,9,1,2,8:22 PM,5:21,NETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,250,2,3,2,8:25 PM,5:07,MISS Claxton 5' Hook Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,251,4,0,2,8:25 PM,5:03,Smith Jr. REBOUND (Off:2 Def:2),,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,252,1,97,2,8:25 PM,5:03,Smith Jr. Tip Layup Shot (2 PTS),,,47 - 38,-9,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,253,5,2,2,8:25 PM,4:57,Smith Jr. STEAL (1 STL),,Mitchell Lost Ball Turnover (P2.T7),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,255,2,98,2,8:25 PM,4:53,MISS Bridges 3' Cutting Layup Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,256,4,0,2,8:25 PM,4:50,,,Mitchell REBOUND (Off:0 Def:1),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,257,1,106,2,8:25 PM,4:48,,,Allen 1' Running Alley Oop Dunk Shot (6 PTS) (Strus 2 AST),49 - 38,-11,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,259,6,1,2,8:26 PM,4:32,,,Wade P.FOUL (P1.T1) (K.Scott),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,261,8,0,2,8:26 PM,4:32,SUB: Watford FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,263,6,2,2,8:26 PM,4:24,,,Allen S.FOUL (P1.T2) (K.Scott),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,265,3,13,2,8:27 PM,4:24,Thomas Free Throw 1 of 3 (5 PTS),,,49 - 39,-10,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,266,3,14,2,8:27 PM,4:24,Thomas Free Throw 2 of 3 (6 PTS),,,49 - 40,-9,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,267,8,0,2,8:27 PM,4:24,SUB: K. Johnson FOR Wilson,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,269,3,15,2,8:27 PM,4:24,Thomas Free Throw 3 of 3 (7 PTS),,,49 - 41,-8,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,270,6,2,2,8:28 PM,4:10,Watford S.FOUL (P2.T2) (B.Nansel),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,272,3,11,2,8:28 PM,4:10,,,Allen Free Throw 1 of 2 (7 PTS),50 - 41,-9,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,273,3,12,2,8:28 PM,4:10,,,Allen Free Throw 2 of 2 (8 PTS),51 - 41,-10,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,274,2,101,2,8:29 PM,3:45,MISS Thomas 6' Driving Floating Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,275,4,0,2,8:29 PM,3:43,Claxton REBOUND (Off:2 Def:1),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,276,1,72,2,8:29 PM,3:43,Claxton 2' Putback Layup (4 PTS),,,51 - 43,-8,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,277,2,1,2,8:29 PM,3:24,,,MISS Merrill 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,278,4,0,2,8:29 PM,3:22,Claxton REBOUND (Off:2 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,279,2,6,2,8:29 PM,3:16,MISS Smith Jr. 3' Driving Layup,,Wade BLOCK (1 BLK),,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,281,4,0,2,8:29 PM,3:13,,,Strus REBOUND (Off:1 Def:3),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,282,6,1,2,8:29 PM,3:08,Watford P.FOUL (P3.T3) (K.Scott),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,284,8,0,2,8:30 PM,3:08,SUB: Wilson FOR Thomas,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,285,8,0,2,8:30 PM,3:08,,,SUB: LeVert FOR Merrill,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,286,8,0,2,8:30 PM,3:08,,,SUB: Okoro FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,290,2,80,2,8:30 PM,2:54,,,MISS Mitchell 28' 3PT Step Back Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,291,4,0,2,8:30 PM,2:50,Claxton REBOUND (Off:2 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,292,1,6,2,8:31 PM,2:41,Watford 2' Driving Layup (4 PTS) (Claxton 1 AST),,,51 - 45,-6,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,294,1,6,2,8:31 PM,2:31,,,Mitchell 2' Driving Layup (15 PTS),53 - 45,-8,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,295,1,1,2,8:31 PM,2:20,Wilson 24' 3PT Jump Shot (8 PTS) (Smith Jr. 4 AST),,,53 - 48,-5,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,297,6,1,2,8:31 PM,2:09,Claxton P.FOUL (P3.T4) (K.Scott),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,301,8,0,2,8:31 PM,2:09,SUB: Bridges FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,302,1,101,2,8:32 PM,2:00,,,Strus 5' Driving Floating Jump Shot (2 PTS) (LeVert 4 AST),55 - 48,-7,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,304,2,6,2,8:32 PM,1:46,MISS Watford 7' Driving Layup,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,305,4,0,2,8:32 PM,1:44,,,Mitchell REBOUND (Off:0 Def:2),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,306,1,41,2,8:32 PM,1:42,,,LeVert 1' Running Layup (2 PTS) (Mitchell 3 AST),57 - 48,-9,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,308,2,58,2,8:32 PM,1:19,MISS Claxton 7' Turnaround Hook Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,309,4,0,2,8:32 PM,1:19,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,311,8,0,2,8:33 PM,1:19,SUB: Clowney FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,313,1,1,2,8:33 PM,1:14,Bridges 3PT Jump Shot (18 PTS) (Clowney 1 AST),,,57 - 51,-6,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,315,5,2,2,8:33 PM,0:56,K. Johnson STEAL (2 STL),,Mitchell Lost Ball Turnover (P3.T8),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,319,6,1,2,8:33 PM,0:56,,,Mitchell P.FOUL (P1.T3) (B.Nansel),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,321,2,75,2,8:34 PM,0:35,MISS Wilson 7' Driving Finger Roll Layup,,Allen BLOCK (2 BLK),,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,323,4,0,2,8:34 PM,0:32,K. Johnson REBOUND (Off:1 Def:0),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,324,2,97,2,8:34 PM,0:31,MISS K. Johnson 3' Tip Layup Shot,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,325,4,0,2,8:34 PM,0:29,,,Okoro REBOUND (Off:0 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,326,1,50,2,8:34 PM,0:29,,,Strus 1' Running Dunk (4 PTS) (Okoro 1 AST),59 - 51,-8,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,328,5,1,2,8:35 PM,0:08,Bridges Bad Pass Turnover (P3.T6),,Strus STEAL (1 STL),,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,330,13,0,2,8:35 PM,0:00,,End of 2nd Period (8:35 PM EST),,59 - 51,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,341,12,0,3,8:50 PM,12:00,,Start of 3rd Period (8:50 PM EST),,59 - 51,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,342,6,2,3,8:50 PM,11:46,Wilson S.FOUL (P2.T1) (A.Nagy),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,348,18,2,3,8:53 PM,11:46,,Instant Replay3rd Period (8:53 PM EST),,59 - 51,-8,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300735,349,6,16,3,8:54 PM,11:46,,"Double Technical - Simmons, Allen (K.Scott)",,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,351,3,11,3,8:55 PM,11:46,,,Mobley Free Throw 1 of 2 (9 PTS),60 - 51,-9,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,352,3,12,3,8:55 PM,11:46,,,Mobley Free Throw 2 of 2 (10 PTS),61 - 51,-10,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,353,2,78,3,8:55 PM,11:31,MISS Claxton 9' Floating Jump Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,354,4,0,3,8:55 PM,11:28,,,Mobley REBOUND (Off:0 Def:6),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,355,1,79,3,8:55 PM,11:18,,,Mitchell 29' 3PT Pullup Jump Shot (18 PTS) (Mobley 2 AST),64 - 51,-13,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,356,2,1,3,8:56 PM,10:58,MISS Bridges 26' 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,357,4,0,3,8:56 PM,10:56,,,Strus REBOUND (Off:1 Def:4),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,359,6,2,3,8:56 PM,10:46,Simmons S.FOUL (P1.T2) (K.Scott),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,361,3,11,3,8:56 PM,10:46,,,Allen Free Throw 1 of 2 (9 PTS),65 - 51,-14,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022300735,362,3,12,3,8:57 PM,10:46,,,Allen Free Throw 2 of 2 (10 PTS),66 - 51,-15,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,363,2,98,3,8:57 PM,10:29,MISS Bridges 3' Cutting Layup Shot,,Mitchell BLOCK (2 BLK),,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,365,4,0,3,8:57 PM,10:26,,,Mitchell REBOUND (Off:0 Def:3),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,366,1,41,3,8:57 PM,10:25,,,Garland 2' Running Layup (6 PTS) (Mitchell 4 AST),68 - 51,-17,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,368,9,1,3,8:57 PM,10:25,NETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,369,2,63,3,9:00 PM,10:06,MISS Bridges 8' Fadeaway Jumper,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,370,4,0,3,9:00 PM,10:04,,,Allen REBOUND (Off:2 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,371,1,101,3,9:01 PM,9:51,,,Mobley 7' Driving Floating Jump Shot (12 PTS),70 - 51,-19,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,372,2,80,3,9:01 PM,9:35,MISS Thomas 15' Step Back Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,373,4,0,3,9:01 PM,9:32,,,Mobley REBOUND (Off:0 Def:7),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,374,1,98,3,9:01 PM,9:24,,,Strus 2' Cutting Layup Shot (6 PTS),72 - 51,-21,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,375,2,101,3,9:01 PM,8:58,MISS Wilson 7' Driving Floating Jump Shot,,Mobley BLOCK (2 BLK),,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,377,4,0,3,9:01 PM,8:58,,,Mobley REBOUND (Off:0 Def:8),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,378,6,2,3,9:02 PM,8:48,Claxton S.FOUL (P4.T3) (A.Nagy),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,380,3,11,3,9:02 PM,8:48,,,Mitchell Free Throw 1 of 2 (19 PTS),73 - 51,-22,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,381,8,0,3,9:02 PM,8:48,SUB: Clowney FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,383,3,12,3,9:03 PM,8:48,,,Mitchell Free Throw 2 of 2 (20 PTS),74 - 51,-23,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,385,6,1,3,9:03 PM,8:34,,,Garland P.FOUL (P2.T1) (B.Nansel),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,387,2,1,3,9:04 PM,8:31,MISS Bridges 26' 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,388,4,0,3,9:04 PM,8:25,,,Allen REBOUND (Off:2 Def:5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,389,1,2,3,9:04 PM,8:20,,,Mitchell 12' Running Jump Shot (22 PTS),76 - 51,-25,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,391,5,1,3,9:04 PM,8:15,Simmons Bad Pass Turnover (P1.T7),,Garland STEAL (1 STL),,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,393,1,5,3,9:04 PM,8:11,,,Garland 2' Layup (8 PTS),78 - 51,-27,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,394,2,1,3,9:04 PM,7:56,MISS Clowney 24' 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,395,4,0,3,9:04 PM,7:52,,,Allen REBOUND (Off:2 Def:6),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,397,8,0,3,9:05 PM,7:47,SUB: Smith Jr. FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,399,1,3,3,9:05 PM,7:41,,,Allen 5' Hook Shot (12 PTS) (Garland 4 AST),80 - 51,-29,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,401,2,79,3,9:05 PM,7:17,MISS Smith Jr. 20' Pullup Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,402,4,0,3,9:05 PM,7:15,,,Mitchell REBOUND (Off:0 Def:4),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,403,6,1,3,9:06 PM,7:09,Smith Jr. P.FOUL (P1.T4) (A.Nagy),,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,405,8,0,3,9:06 PM,7:09,,,SUB: Wade FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,407,2,1,3,9:06 PM,6:59,,,MISS Wade 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,408,4,0,3,9:06 PM,6:56,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,409,6,3,3,9:06 PM,6:56,,,Strus L.B.FOUL (P2.T2) (K.Scott),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,411,1,79,3,9:07 PM,6:39,Thomas 14' Pullup Jump Shot (9 PTS),,,80 - 53,-27,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,412,1,75,3,9:07 PM,6:23,,,Garland 3' Driving Finger Roll Layup (10 PTS),82 - 53,-29,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,413,5,2,3,9:07 PM,6:13,Wilson Lost Ball Turnover (P1.T8),,Mitchell STEAL (2 STL),,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,415,6,1,3,9:07 PM,6:10,Smith Jr. P.FOUL (P2.PN) (A.Nagy),,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,417,3,11,3,9:08 PM,6:10,,,Allen Free Throw 1 of 2 (13 PTS),83 - 53,-30,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,418,3,12,3,9:08 PM,6:10,,,Allen Free Throw 2 of 2 (14 PTS),84 - 53,-31,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,419,1,80,3,9:08 PM,5:47,Thomas 25' 3PT Step Back Jump Shot (12 PTS),,,84 - 56,-28,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,427,5,1,3,9:09 PM,5:27,Smith Jr. STEAL (2 STL),,Mitchell Bad Pass Turnover (P4.T9),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,423,1,1,3,9:09 PM,5:17,Bridges 25' 3PT Jump Shot (21 PTS) (Smith Jr. 5 AST),,,84 - 59,-25,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,425,6,2,3,9:09 PM,4:50,Thomas S.FOUL (P1.PN) (K.Scott),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,429,3,11,3,9:10 PM,4:50,,,Garland Free Throw 1 of 2 (11 PTS),85 - 59,-26,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,430,8,0,3,9:10 PM,4:50,,,SUB: LeVert FOR Strus,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,432,3,12,3,9:10 PM,4:50,,,Garland Free Throw 2 of 2 (12 PTS),86 - 59,-27,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,433,2,6,3,9:11 PM,4:42,MISS Thomas 3' Driving Layup,,Wade BLOCK (2 BLK),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,435,4,0,3,9:11 PM,4:39,,,Mitchell REBOUND (Off:0 Def:5),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,436,6,4,3,9:11 PM,4:35,,,Allen OFF.Foul (P2) (A.Nagy),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,438,5,37,3,9:11 PM,4:35,,,Allen Offensive Foul Turnover (P1.T10),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300735,439,8,0,3,9:11 PM,4:35,SUB: Watford FOR Thomas,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,440,8,0,3,9:11 PM,4:35,,,SUB: Okoro FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,443,1,63,3,9:11 PM,4:18,Bridges 14' Fadeaway Jumper (23 PTS) (Watford 1 AST),,,86 - 61,-25,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,444,2,1,3,9:12 PM,4:02,,,MISS Mitchell 27' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,445,4,0,3,9:12 PM,4:00,Watford REBOUND (Off:0 Def:1),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,446,5,1,3,9:12 PM,3:56,Watford Bad Pass Turnover (P1.T9),,Mitchell STEAL (3 STL),,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,448,1,41,3,9:12 PM,3:52,,,Mitchell 1' Running Layup (24 PTS),88 - 61,-27,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,449,2,1,3,9:12 PM,3:37,MISS Clowney 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,450,4,0,3,9:12 PM,3:35,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,451,2,52,3,9:12 PM,3:29,,,MISS Allen 1' Alley Oop Dunk,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,452,4,0,3,9:12 PM,3:27,Bridges REBOUND (Off:1 Def:1),,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,453,1,41,3,9:12 PM,3:23,Clowney 2' Running Layup (4 PTS) (Bridges 3 AST),,,88 - 63,-25,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,455,5,1,3,9:13 PM,3:04,Smith Jr. STEAL (3 STL),,LeVert Bad Pass Turnover (P1.T11),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,457,2,74,3,9:13 PM,2:59,MISS Watford 2' Running Reverse Layup,,Mitchell BLOCK (3 BLK),,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,459,4,0,3,9:13 PM,2:57,,,Allen REBOUND (Off:2 Def:7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,461,5,45,3,9:13 PM,2:57,,,Allen Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300735,462,9,1,3,9:13 PM,2:57,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,463,8,0,3,9:14 PM,2:57,,,SUB: Niang FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,464,8,0,3,9:14 PM,2:57,,,SUB: Mobley FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,465,8,0,3,9:14 PM,2:57,,,SUB: Garland FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,469,1,98,3,9:16 PM,2:44,Clowney 1' Cutting Layup Shot (6 PTS) (Smith Jr. 6 AST),,,88 - 65,-23,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,471,5,2,3,9:16 PM,2:29,Smith Jr. STEAL (4 STL),,Mobley Lost Ball Turnover (P2.T13),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,473,6,2,3,9:16 PM,2:26,,,Mobley S.FOUL (P2.T3) (A.Nagy),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,475,3,11,3,9:17 PM,2:26,Watford Free Throw 1 of 2 (5 PTS),,,88 - 66,-22,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,476,8,0,3,9:17 PM,2:26,SUB: Claxton FOR Clowney,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,478,3,12,3,9:17 PM,2:26,Watford Free Throw 2 of 2 (6 PTS),,,88 - 67,-21,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,479,5,1,3,9:18 PM,2:04,Smith Jr. STEAL (5 STL),,Okoro Bad Pass Turnover (P2.T14),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,481,2,1,3,9:18 PM,1:49,MISS Wilson 28' 3PT Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,482,4,0,3,9:18 PM,1:46,,,Mobley REBOUND (Off:0 Def:9),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,483,2,80,3,9:18 PM,1:27,,,MISS Niang 24' 3PT Step Back Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,484,4,0,3,9:18 PM,1:25,,,Okoro REBOUND (Off:1 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,485,2,1,3,9:18 PM,1:22,,,MISS Garland 34' 3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,486,4,0,3,9:18 PM,1:20,Bridges REBOUND (Off:1 Def:2),,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,487,2,79,3,9:18 PM,1:14,MISS Bridges 27' 3PT Pullup Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,488,4,0,3,9:18 PM,1:11,,,Mobley REBOUND (Off:0 Def:10),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,489,2,57,3,9:19 PM,1:00,,,MISS Mobley 2' Driving Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,490,4,0,3,9:19 PM,0:57,Claxton REBOUND (Off:2 Def:4),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,491,1,6,3,9:19 PM,0:53,Smith Jr. 4' Driving Layup (4 PTS),,,88 - 69,-19,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,492,2,79,3,9:19 PM,0:35,,,MISS Garland 30' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,493,4,0,3,9:19 PM,0:32,Claxton REBOUND (Off:2 Def:5),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,494,2,6,3,9:20 PM,0:11,MISS Wilson 3' Driving Layup,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,495,4,0,3,9:20 PM,0:09,,,Niang REBOUND (Off:0 Def:1),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,496,1,6,3,9:20 PM,0:00,,,Garland 6' Driving Layup (14 PTS),90 - 69,-21,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,497,13,0,3,9:20 PM,0:00,,End of 3rd Period (9:20 PM EST),,90 - 69,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,498,18,0,3,9:20 PM,0:00,,Instant Replay3rd Period (9:20 PM EST),,90 - 69,-21,0,496,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300735,503,12,0,4,9:23 PM,12:00,,Start of 4th Period (9:23 PM EST),,90 - 69,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,504,6,1,4,9:23 PM,11:49,,,Niang P.FOUL (P1.T1) (B.Nansel),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,506,6,1,4,9:23 PM,11:46,,,Okoro P.FOUL (P1.T2) (B.Nansel),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,508,2,79,4,9:24 PM,11:33,MISS Claxton 15' Pullup Jump Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,509,4,0,4,9:24 PM,11:30,,,LeVert REBOUND (Off:0 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,510,2,80,4,9:24 PM,11:18,,,MISS Niang 24' 3PT Step Back Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,511,4,0,4,9:24 PM,11:15,Watford REBOUND (Off:0 Def:2),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,512,1,79,4,9:24 PM,11:07,Thomas 15' Pullup Jump Shot (14 PTS),,,90 - 71,-19,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,513,2,63,4,9:24 PM,10:51,,,MISS LeVert 11' Fadeaway Jumper,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,514,4,0,4,9:24 PM,10:48,Watford REBOUND (Off:0 Def:3),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,515,2,2,4,9:25 PM,10:43,MISS Thomas 26' 3PT Running Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,516,4,0,4,9:25 PM,10:41,,,Mobley REBOUND (Off:0 Def:11),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,517,2,2,4,9:25 PM,10:36,,,MISS Okoro 24' 3PT Running Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,518,4,0,4,9:25 PM,10:30,Simmons REBOUND (Off:0 Def:1),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,519,5,1,4,9:25 PM,10:29,Simmons Bad Pass Turnover (P2.T10),,LeVert STEAL (1 STL),,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,521,1,7,4,9:25 PM,10:27,,,LeVert 1' Dunk (4 PTS),92 - 71,-21,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,523,2,5,4,9:25 PM,10:11,MISS Claxton 7' Layup,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,524,4,0,4,9:25 PM,10:11,,,Mobley REBOUND (Off:0 Def:12),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,525,1,1,4,9:25 PM,10:04,,,Okoro 3PT Jump Shot (6 PTS) (Garland 5 AST),95 - 71,-24,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,527,9,1,4,9:25 PM,10:03,NETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,529,8,0,4,9:27 PM,10:03,SUB: Bridges FOR Wilson,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,531,2,6,4,9:28 PM,9:50,MISS Thomas 4' Driving Layup,,Okoro BLOCK (2 BLK),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,533,4,0,4,9:28 PM,9:48,,,LeVert REBOUND (Off:0 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,534,1,50,4,9:28 PM,9:46,,,Mobley 1' Running Dunk (14 PTS) (LeVert 5 AST),97 - 71,-26,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,536,1,52,4,9:29 PM,9:38,Claxton 1' Alley Oop Dunk (6 PTS) (Bridges 4 AST),,,97 - 73,-24,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,538,2,57,4,9:29 PM,9:19,,,MISS Mobley 5' Driving Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,539,4,0,4,9:29 PM,9:17,Watford REBOUND (Off:0 Def:4),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,540,1,41,4,9:29 PM,9:14,Watford 2' Running Layup (8 PTS),,,97 - 75,-22,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,547,2,6,4,9:29 PM,9:00,,,MISS LeVert 7' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,548,4,0,4,9:29 PM,8:57,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,542,5,4,4,9:29 PM,8:57,,,LeVert Traveling Turnover (P2.T15),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300735,543,2,1,4,9:30 PM,8:44,MISS Bridges 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,544,4,0,4,9:30 PM,8:41,,,Okoro REBOUND (Off:1 Def:4),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,545,1,1,4,9:30 PM,8:32,,,Niang 28' 3PT Jump Shot (6 PTS) (Garland 6 AST),100 - 75,-25,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,549,1,79,4,9:30 PM,8:20,Bridges 27' 3PT Pullup Jump Shot (26 PTS),,,100 - 78,-22,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,550,2,1,4,9:31 PM,7:51,Watford BLOCK (2 BLK),,MISS LeVert 28' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1
+0022300735,552,4,0,4,9:31 PM,7:46,,,Okoro REBOUND (Off:2 Def:4),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,553,1,72,4,9:31 PM,7:45,,,Okoro 1' Putback Layup (8 PTS),102 - 78,-24,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,554,1,1,4,9:31 PM,7:36,Thomas 3PT Jump Shot (17 PTS) (Bridges 5 AST),,,102 - 81,-21,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,556,1,1,4,9:31 PM,7:14,,,Niang 3PT Jump Shot (9 PTS) (Garland 7 AST),105 - 81,-24,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,558,6,1,4,9:32 PM,7:00,,,Mobley P.FOUL (P3.T3) (A.Nagy),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,560,8,0,4,9:32 PM,7:00,SUB: Smith Jr. FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,561,8,0,4,9:32 PM,7:00,SUB: Clowney FOR Thomas,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,562,8,0,4,9:32 PM,7:00,SUB: Wilson FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,563,8,0,4,9:32 PM,7:00,SUB: K. Johnson FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022300735,564,8,0,4,9:32 PM,7:00,,,SUB: Merrill FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,565,8,0,4,9:32 PM,7:00,,,SUB: Allen FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,566,8,0,4,9:32 PM,7:00,,,SUB: Mitchell FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,574,2,1,4,9:32 PM,6:51,MISS Watford 26' 3PT Jump Shot,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,575,4,0,4,9:32 PM,6:48,Clowney REBOUND (Off:2 Def:1),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,576,5,45,4,9:32 PM,6:48,Clowney Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022300735,577,2,1,4,9:33 PM,6:36,,,MISS Merrill 27' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,578,4,0,4,9:33 PM,6:35,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,580,2,6,4,9:33 PM,6:25,MISS Watford 4' Driving Layup,,Okoro BLOCK (3 BLK),,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,582,4,0,4,9:33 PM,6:24,Watford REBOUND (Off:1 Def:4),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,583,1,72,4,9:33 PM,6:24,Watford 1' Putback Layup (10 PTS),,,105 - 83,-22,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,584,6,2,4,9:33 PM,6:24,,,Okoro S.FOUL (P2.T4) (B.Nansel),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,586,3,10,4,9:33 PM,6:24,Watford Free Throw 1 of 1 (11 PTS),,,105 - 84,-21,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,587,1,57,4,9:34 PM,6:05,,,Niang 5' Driving Hook Shot (11 PTS),107 - 84,-23,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,588,5,1,4,9:34 PM,5:48,K. Johnson Bad Pass Turnover (P1.T12),,Merrill STEAL (1 STL),,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,590,2,1,4,9:34 PM,5:35,,,MISS Mitchell 29' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,591,4,0,4,9:34 PM,5:32,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,592,6,3,4,9:34 PM,5:32,,,Okoro L.B.FOUL (P3.PN) (K.Scott),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,594,3,11,4,9:35 PM,5:32,MISS Wilson Free Throw 1 of 2,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022300735,595,4,1,4,9:35 PM,5:32,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,596,3,12,4,9:35 PM,5:32,MISS Wilson Free Throw 2 of 2,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,597,4,0,4,9:35 PM,5:30,,,Niang REBOUND (Off:0 Def:2),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,598,1,6,4,9:35 PM,5:21,,,Mitchell 5' Driving Layup (26 PTS),109 - 84,-25,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,599,6,2,4,9:35 PM,5:21,K. Johnson S.FOUL (P2.T1) (B.Nansel),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300735,601,8,0,4,9:36 PM,5:21,,,SUB: Wade FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,603,3,10,4,9:36 PM,5:21,,,Mitchell Free Throw 1 of 1 (27 PTS),110 - 84,-26,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,604,6,2,4,9:36 PM,5:12,,,Wade S.FOUL (P2.PN) (K.Scott),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,606,3,11,4,9:37 PM,5:12,Watford Free Throw 1 of 2 (12 PTS),,,110 - 85,-25,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,607,3,12,4,9:37 PM,5:12,Watford Free Throw 2 of 2 (13 PTS),,,110 - 86,-24,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,608,2,80,4,9:37 PM,4:47,,,MISS Mitchell 28' 3PT Step Back Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,609,4,0,4,9:37 PM,4:44,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,611,1,1,4,9:38 PM,4:36,K. Johnson 3PT Jump Shot (3 PTS) (Smith Jr. 7 AST),,,110 - 89,-21,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,613,2,1,4,9:38 PM,4:20,,,MISS Merrill 29' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,614,4,0,4,9:38 PM,4:17,Watford REBOUND (Off:1 Def:5),,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,615,1,41,4,9:38 PM,4:12,Watford 3' Running Layup (15 PTS),,,110 - 91,-19,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,616,2,1,4,9:38 PM,3:49,,,MISS Niang 3PT Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,617,4,0,4,9:38 PM,3:47,,,Niang REBOUND (Off:1 Def:2),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,618,2,80,4,9:39 PM,3:35,,,MISS Mitchell 21' Step Back Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,619,4,0,4,9:39 PM,3:33,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,621,2,79,4,9:39 PM,3:18,MISS K. Johnson 24' Pullup Jump Shot,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,622,4,0,4,9:39 PM,3:14,,,Allen REBOUND (Off:2 Def:8),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,623,9,1,4,9:39 PM,3:11,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300735,624,8,0,4,9:39 PM,3:11,,,SUB: Jones FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,625,8,0,4,9:39 PM,3:11,,,SUB: Porter Jr. FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300735,628,1,79,4,9:42 PM,2:57,,,Merrill 26' 3PT Pullup Jump Shot (6 PTS) (Jones 1 AST),113 - 91,-22,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,630,2,101,4,9:43 PM,2:37,MISS Wilson 5' Driving Floating Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,631,4,0,4,9:43 PM,2:30,K. Johnson REBOUND (Off:2 Def:0),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,632,2,1,4,9:43 PM,2:26,MISS Watford 3PT Jump Shot,,,,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,633,4,0,4,9:43 PM,2:23,,,Jones REBOUND (Off:0 Def:1),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,634,5,10,4,9:43 PM,2:16,,,Cavaliers Turnover: 8 Second Violation (T#16),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300735,635,2,44,4,9:43 PM,2:05,MISS Smith Jr. 3' Reverse Layup,,,,,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,637,4,0,4,9:43 PM,2:05,Clowney REBOUND (Off:3 Def:1),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,638,6,1,4,9:44 PM,2:05,,,Merrill P.FOUL (P1.PN) (A.Nagy),,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022300735,640,3,11,4,9:44 PM,2:05,Clowney Free Throw 1 of 2 (7 PTS),,,113 - 92,-21,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,641,3,12,4,9:44 PM,2:05,Clowney Free Throw 2 of 2 (8 PTS),,,113 - 93,-20,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022300735,642,2,101,4,9:45 PM,1:42,,,MISS Porter Jr. 7' Driving Floating Jump Shot,,,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,643,4,0,4,9:45 PM,1:40,,,Porter Jr. REBOUND (Off:1 Def:0),,,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,644,1,58,4,9:45 PM,1:32,,,Niang 7' Turnaround Hook Shot (13 PTS),115 - 93,-22,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,645,1,80,4,9:45 PM,1:10,Smith Jr. 16' Step Back Jump Shot (6 PTS) (Watford 2 AST),,,115 - 95,-20,4,1628372,Dennis Smith Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022300735,646,1,1,4,9:46 PM,0:50,,,Merrill 27' 3PT Jump Shot (9 PTS) (Jones 2 AST),118 - 95,-23,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300735,648,2,6,4,9:46 PM,0:40,MISS Watford 5' Driving Layup,,Jones BLOCK (1 BLK),,,4,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300735,650,4,0,4,9:46 PM,0:33,,,Porter Jr. REBOUND (Off:1 Def:1),,,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300735,651,5,11,4,9:46 PM,0:15,,,Cavaliers Turnover: Shot Clock (T#17),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300735,652,13,0,4,9:47 PM,0:00,,End of 4th Period (9:47 PM EST),,118 - 95,-23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,441 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300214,2,12,0,1,3:41 PM,12:00,,Start of 1st Period (3:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,4,10,0,1,3:41 PM,12:00,Jump Ball Turner vs. Hartenstein: Tip to DiVincenzo,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1
+0042300214,7,1,9,1,3:41 PM,11:37,,,Hartenstein 1' Driving Dunk (2 PTS) (Brunson 1 AST),2 - 0,-2,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,9,2,79,1,3:42 PM,11:16,MISS Nesmith 27' 3PT Pullup Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,10,4,0,1,3:42 PM,11:12,,,Brunson REBOUND (Off:0 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,11,2,6,1,3:42 PM,11:05,,,MISS Hart 2' Driving Layup,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,12,4,0,1,3:42 PM,11:03,,,Achiuwa REBOUND (Off:1 Def:0),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,13,6,2,1,3:42 PM,10:59,Siakam S.FOUL (P1.T1) (T.Brothers),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,15,3,11,1,3:43 PM,10:59,,,MISS Achiuwa Free Throw 1 of 2,,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,16,4,1,1,3:43 PM,10:59,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,17,3,12,1,3:43 PM,10:59,,,MISS Achiuwa Free Throw 2 of 2,,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,18,4,0,1,3:43 PM,10:58,Haliburton REBOUND (Off:0 Def:1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,19,1,41,1,3:43 PM,10:53,Nembhard 3' Running Layup (2 PTS),,,2 - 2,TIE,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,20,2,1,1,3:43 PM,10:31,,,MISS DiVincenzo 27' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,21,4,0,1,3:43 PM,10:28,Nesmith REBOUND (Off:0 Def:1),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,22,1,103,1,3:43 PM,10:24,Haliburton 30' 3PT Running Pull-Up Jump Shot (3 PTS),,,2 - 5,3,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,23,2,101,1,3:44 PM,9:56,,,MISS DiVincenzo 9' Driving Floating Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,24,4,0,1,3:44 PM,9:54,,,Brunson REBOUND (Off:1 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,25,6,1,1,3:44 PM,9:54,Nesmith P.FOUL (P1.T2) (E.Malloy),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,27,2,80,1,3:44 PM,9:50,,,MISS Brunson 25' 3PT Step Back Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,28,4,0,1,3:44 PM,9:47,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,30,2,80,1,3:45 PM,9:38,,,MISS Brunson 17' Step Back Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,31,4,0,1,3:45 PM,9:34,Haliburton REBOUND (Off:0 Def:2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,32,5,2,1,3:45 PM,9:21,Turner Lost Ball Turnover (P1.T1),,Brunson STEAL (1 STL),,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,34,1,98,1,3:45 PM,9:06,,,Achiuwa 1' Cutting Layup Shot (2 PTS) (DiVincenzo 1 AST),4 - 5,1,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,36,1,78,1,3:45 PM,8:55,Siakam 11' Floating Jump Shot (2 PTS) (Nembhard 1 AST),,,4 - 7,3,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,38,2,80,1,3:46 PM,8:29,,,MISS Hart 12' Step Back Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,39,4,0,1,3:46 PM,8:26,Haliburton REBOUND (Off:0 Def:3),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,40,2,1,1,3:46 PM,8:16,MISS Nembhard 28' 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,41,4,0,1,3:46 PM,8:12,,,Hart REBOUND (Off:0 Def:1),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,42,2,1,1,3:46 PM,7:54,,,MISS DiVincenzo 28' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,43,4,0,1,3:47 PM,7:51,Haliburton REBOUND (Off:0 Def:4),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,44,1,1,1,3:47 PM,7:43,Haliburton 28' 3PT Jump Shot (6 PTS) (Nesmith 1 AST),,,4 - 10,6,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,46,9,1,1,3:47 PM,7:31,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,47,8,0,1,3:50 PM,7:31,SUB: Sheppard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,49,2,108,1,3:51 PM,7:18,Turner BLOCK (1 BLK),,MISS Achiuwa 2' Cutting Dunk Shot,,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042300214,50,4,0,1,3:51 PM,7:17,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,52,2,1,1,3:51 PM,6:58,MISS Haliburton 26' 3PT Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,53,4,0,1,3:51 PM,6:53,,,Hartenstein REBOUND (Off:0 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,54,2,79,1,3:52 PM,6:41,,,MISS Brunson 18' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,55,4,0,1,3:52 PM,6:39,Turner REBOUND (Off:0 Def:1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,57,8,0,1,3:52 PM,6:34,SUB: Toppin FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,58,8,0,1,3:52 PM,6:34,SUB: McConnell FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,61,2,1,1,3:52 PM,6:16,MISS Sheppard 24' 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,62,4,0,1,3:53 PM,6:11,,,Hartenstein REBOUND (Off:0 Def:2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,63,5,1,1,3:53 PM,6:01,McConnell STEAL (1 STL),,Brunson Bad Pass Turnover (P1.T1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,65,1,50,1,3:53 PM,5:58,Haliburton 2' Running Dunk (8 PTS) (McConnell 1 AST),,,4 - 12,8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,67,2,79,1,3:53 PM,5:38,,,MISS Brunson 28' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,68,4,0,1,3:53 PM,5:34,Sheppard REBOUND (Off:0 Def:1),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,69,1,74,1,3:53 PM,5:30,McConnell 3' Running Reverse Layup (2 PTS) (Turner 1 AST),,,4 - 14,10,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,71,1,108,1,3:54 PM,5:11,,,Achiuwa Cutting Dunk Shot (4 PTS) (DiVincenzo 2 AST),6 - 14,8,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,73,1,63,1,3:54 PM,4:43,Turner 28' 3PT Fadeaway Jumper (3 PTS),,,6 - 17,11,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,74,2,3,1,3:54 PM,4:22,Turner BLOCK (2 BLK),,MISS Hartenstein 3' Hook Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042300214,76,4,0,1,3:54 PM,4:19,Sheppard REBOUND (Off:0 Def:2),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,77,2,103,1,3:54 PM,4:15,MISS Haliburton 26' 3PT Running Pull-Up Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,78,4,0,1,3:55 PM,4:11,Turner REBOUND (Off:1 Def:1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,79,1,72,1,3:55 PM,4:11,Turner 1' Putback Layup (5 PTS),,,6 - 19,13,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,80,2,6,1,3:55 PM,4:01,,,MISS Hart 4' Driving Layup,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,82,4,0,1,3:55 PM,4:01,,,Achiuwa REBOUND (Off:2 Def:0),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,83,1,72,1,3:55 PM,3:59,,,Achiuwa 2' Putback Layup (6 PTS),8 - 19,11,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,84,1,6,1,3:55 PM,3:48,McConnell 3' Driving Layup (4 PTS),,,8 - 21,13,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,85,6,2,1,3:55 PM,3:48,,,Brunson S.FOUL (P1.T1) (E.Malloy),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,87,8,0,1,3:55 PM,3:48,,,SUB: McBride FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,88,8,0,1,3:55 PM,3:48,,,SUB: Sims FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,91,3,10,1,3:56 PM,3:48,McConnell Free Throw 1 of 1 (5 PTS),,,8 - 22,14,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,92,5,10,1,3:56 PM,3:40,,,Knicks Turnover: 8 Second Violation (T#2),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300214,93,1,6,1,3:56 PM,3:30,McConnell 2' Driving Layup (7 PTS),,,8 - 24,16,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,94,6,1,1,3:57 PM,3:19,McConnell P.FOUL (P1.T3) (T.Brothers),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,97,8,0,1,3:57 PM,3:19,SUB: Siakam FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,99,1,1,1,3:58 PM,3:06,,,DiVincenzo 3PT Jump Shot (3 PTS) (Hart 1 AST),11 - 24,13,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,101,1,101,1,3:58 PM,2:53,Toppin 9' Driving Floating Jump Shot (2 PTS) (McConnell 2 AST),,,11 - 26,15,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,103,2,6,1,3:58 PM,2:43,,,MISS DiVincenzo 2' Driving Layup,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,104,4,0,1,3:58 PM,2:41,Haliburton REBOUND (Off:0 Def:5),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,105,1,1,1,3:58 PM,2:34,Sheppard 24' 3PT Jump Shot (3 PTS) (Toppin 1 AST),,,11 - 29,18,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,107,2,79,1,3:58 PM,2:23,,,MISS Brunson 26' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,108,4,0,1,3:58 PM,2:20,Siakam REBOUND (Off:0 Def:1),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,109,1,1,1,3:59 PM,2:14,Toppin 27' 3PT Jump Shot (5 PTS) (Siakam 1 AST),,,11 - 32,21,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,111,5,1,1,3:59 PM,2:07,McConnell STEAL (2 STL),,Hart Bad Pass Turnover (P1.T3),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,113,2,1,1,3:59 PM,2:04,MISS Siakam 16' Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,114,4,0,1,3:59 PM,2:01,,,DiVincenzo REBOUND (Off:0 Def:1),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,115,2,79,1,3:59 PM,1:43,,,MISS DiVincenzo 28' 3PT Pullup Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,116,4,0,1,3:59 PM,1:40,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,117,1,52,1,3:59 PM,1:34,Toppin 1' Alley Oop Dunk (7 PTS) (McConnell 3 AST),,,11 - 34,23,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,119,9,1,1,3:59 PM,1:27,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,120,8,0,1,4:02 PM,1:27,SUB: Nembhard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,121,8,0,1,4:02 PM,1:27,,,SUB: Burks FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,124,1,6,1,4:03 PM,1:20,,,Hart 2' Driving Layup (2 PTS) (Brunson 2 AST),13 - 34,21,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,126,2,1,1,4:04 PM,0:58,MISS Toppin 26' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,127,4,0,1,4:04 PM,0:56,,,Burks REBOUND (Off:0 Def:1),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,128,2,1,1,4:04 PM,0:49,,,MISS McBride 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,129,4,0,1,4:04 PM,0:46,Siakam REBOUND (Off:0 Def:2),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,130,2,1,1,4:04 PM,0:33,MISS Sheppard 28' 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,131,4,0,1,4:04 PM,0:30,,,Sims REBOUND (Off:0 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,132,6,2,1,4:04 PM,0:26,Nembhard S.FOUL (P1.T4) (E.Malloy),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,134,9,1,1,4:05 PM,0:26,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,135,18,6,1,4:05 PM,0:26,,Instant Replay1st Period (4:05 PM EST),,13 - 34,21,0,132,Dwayne Morton,,,,,0,0,,,,,,1,0,,,,,,1
+0042300214,136,3,11,1,4:07 PM,0:26,,,Brunson Free Throw 1 of 2 (1 PTS),14 - 34,20,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,137,3,12,1,4:07 PM,0:26,,,MISS Brunson Free Throw 2 of 2,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,138,4,0,1,4:07 PM,0:25,Sheppard REBOUND (Off:0 Def:3),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,139,2,101,1,4:07 PM,0:07,MISS McConnell 4' Driving Floating Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,140,4,0,1,4:07 PM,0:04,,,Hart REBOUND (Off:0 Def:2),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,141,2,98,1,4:07 PM,0:01,,,MISS McBride 4' Cutting Layup Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,142,4,0,1,4:07 PM,0:01,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,143,13,0,1,4:07 PM,0:00,,End of 1st Period (4:07 PM EST),,14 - 34,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,150,12,0,2,4:11 PM,12:00,,Start of 2nd Period (4:11 PM EST),,14 - 34,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,151,6,1,2,4:11 PM,11:44,,,Hartenstein P.FOUL (P1.T1) (E.Malloy),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,153,5,4,2,4:12 PM,11:40,McConnell Traveling Turnover (P1.T2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300214,154,6,1,2,4:12 PM,11:34,McConnell P.FOUL (P2.T1) (T.Brothers),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,156,1,75,2,4:13 PM,11:28,,,Brunson 3' Driving Finger Roll Layup (3 PTS),16 - 34,18,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,157,6,1,2,4:13 PM,11:21,,,Burks P.FOUL (P1.T2) (T.Brothers),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,159,2,75,2,4:13 PM,11:09,MISS McConnell 3' Driving Finger Roll Layup,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,160,4,0,2,4:13 PM,11:05,Jackson REBOUND (Off:1 Def:0),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,161,1,72,2,4:13 PM,11:05,Jackson 2' Putback Layup (2 PTS),,,16 - 36,20,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,162,1,1,2,4:14 PM,10:46,,,McBride 26' 3PT Jump Shot (3 PTS) (Brunson 3 AST),19 - 36,17,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,164,1,85,2,4:14 PM,10:31,Siakam 12' Turnaround Bank Shot (4 PTS),,,19 - 38,19,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,165,5,4,2,4:14 PM,10:15,,,Hart Traveling Turnover (P2.T4),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042300214,166,8,0,2,4:14 PM,10:15,,,SUB: DiVincenzo FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,168,1,3,2,4:15 PM,10:06,Siakam 6' Hook Shot (6 PTS) (McConnell 4 AST),,,19 - 40,21,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,170,9,1,2,4:15 PM,9:56,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,171,2,80,2,4:19 PM,9:42,,,MISS Hart 25' 3PT Step Back Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,172,4,0,2,4:19 PM,9:37,McConnell REBOUND (Off:0 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,173,2,1,2,4:19 PM,9:27,MISS Nesmith 24' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,174,4,0,2,4:19 PM,9:23,Jackson REBOUND (Off:2 Def:0),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,175,2,107,2,4:19 PM,9:23,MISS Jackson Tip Dunk Shot,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,176,4,0,2,4:19 PM,9:22,Nesmith REBOUND (Off:1 Def:1),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,177,2,63,2,4:19 PM,9:13,MISS McConnell 7' Fadeaway Jumper,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,178,4,0,2,4:19 PM,9:12,Jackson REBOUND (Off:3 Def:0),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,179,6,2,2,4:19 PM,9:12,,,Hart S.FOUL (P1.T3) (B.Taylor),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,181,3,11,2,4:20 PM,9:12,Jackson Free Throw 1 of 2 (3 PTS),,,19 - 41,22,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,182,3,12,2,4:20 PM,9:12,Jackson Free Throw 2 of 2 (4 PTS),,,19 - 42,23,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,183,2,80,2,4:20 PM,8:58,,,MISS McBride 26' 3PT Step Back Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,184,4,0,2,4:20 PM,8:55,Sheppard REBOUND (Off:0 Def:4),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,185,2,1,2,4:20 PM,8:48,MISS Nesmith 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,186,4,0,2,4:20 PM,8:45,McConnell REBOUND (Off:1 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,187,2,5,2,4:20 PM,8:42,MISS McConnell 3' Layup,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,188,4,0,2,4:21 PM,8:40,,,Hartenstein REBOUND (Off:0 Def:3),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,189,2,2,2,4:21 PM,8:35,,,MISS Burks 25' 3PT Running Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,190,4,0,2,4:21 PM,8:32,Nesmith REBOUND (Off:1 Def:2),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,191,1,76,2,4:21 PM,8:28,Siakam 3' Running Finger Roll Layup (8 PTS),,,19 - 44,25,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,192,5,1,2,4:21 PM,8:13,Jackson STEAL (1 STL),,Hartenstein Bad Pass Turnover (P1.T5),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,194,1,1,2,4:21 PM,8:06,McConnell 26' 3PT Jump Shot (10 PTS) (Siakam 2 AST),,,19 - 47,28,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,196,1,75,2,4:21 PM,7:45,,,Burks 1' Driving Finger Roll Layup (2 PTS) (McBride 1 AST),21 - 47,26,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,198,5,4,2,4:22 PM,7:31,McConnell Traveling Turnover (P2.T3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300214,199,8,0,2,4:22 PM,7:31,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,200,8,0,2,4:22 PM,7:31,SUB: Turner FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,201,8,0,2,4:22 PM,7:31,,,SUB: Achiuwa FOR McBride,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,202,8,0,2,4:22 PM,7:31,,,SUB: Brunson FOR Hart,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,207,2,6,2,4:22 PM,7:09,,,MISS Brunson 6' Driving Layup,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,208,4,0,2,4:23 PM,7:06,,,Achiuwa REBOUND (Off:3 Def:0),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,209,2,6,2,4:23 PM,7:01,Turner BLOCK (3 BLK),,MISS DiVincenzo 3' Driving Layup,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042300214,211,4,0,2,4:23 PM,6:58,,,Achiuwa REBOUND (Off:4 Def:0),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,212,2,1,2,4:23 PM,6:55,Nesmith BLOCK (1 BLK),,MISS DiVincenzo 24' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1
+0042300214,214,4,0,2,4:23 PM,6:53,,,Brunson REBOUND (Off:2 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0042300214,230,5,39,2,4:23 PM,6:53,,,Brunson Step Out of Bounds Turnover (P2.T6),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042300214,216,8,0,2,4:23 PM,6:53,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,218,2,101,2,4:23 PM,6:34,MISS Haliburton 8' Driving Floating Jump Shot,,DiVincenzo BLOCK (1 BLK),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1
+0042300214,220,4,0,2,4:23 PM,6:32,,,Hartenstein REBOUND (Off:0 Def:4),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,221,1,6,2,4:24 PM,6:25,,,Hartenstein 4' Driving Layup (4 PTS) (DiVincenzo 3 AST),23 - 47,24,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,223,2,1,2,4:24 PM,6:19,MISS Sheppard 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,224,4,0,2,4:24 PM,6:15,,,DiVincenzo REBOUND (Off:0 Def:2),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,225,1,41,2,4:24 PM,6:12,,,Brunson 2' Running Layup (5 PTS) (DiVincenzo 4 AST),25 - 47,22,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,227,9,1,2,4:24 PM,6:11,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,228,8,0,2,4:27 PM,6:11,SUB: Nembhard FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,231,1,1,2,4:28 PM,5:57,Turner 16' Jump Shot (7 PTS) (Nembhard 2 AST),,,25 - 49,24,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,233,1,75,2,4:28 PM,5:31,,,Brunson 3' Driving Finger Roll Layup (7 PTS),27 - 49,22,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,234,1,1,2,4:28 PM,5:17,Toppin 3PT Jump Shot (10 PTS) (Nembhard 3 AST),,,27 - 52,25,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,236,2,80,2,4:29 PM,4:57,,,MISS Brunson 12' Step Back Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,237,4,0,2,4:29 PM,4:54,Toppin REBOUND (Off:0 Def:1),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,238,1,1,2,4:29 PM,4:43,Nembhard 28' 3PT Jump Shot (5 PTS) (Haliburton 1 AST),,,27 - 55,28,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,240,6,1,2,4:29 PM,4:24,Nesmith P.FOUL (P2.T2) (T.Brothers),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,242,2,58,2,4:30 PM,4:18,,,MISS DiVincenzo 8' Turnaround Hook Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,243,4,0,2,4:30 PM,4:14,,,DiVincenzo REBOUND (Off:1 Def:2),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,244,1,97,2,4:30 PM,4:14,,,DiVincenzo Tip Layup Shot (5 PTS),29 - 55,26,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,245,1,1,2,4:30 PM,3:55,Turner 26' 3PT Jump Shot (10 PTS) (Nembhard 4 AST),,,29 - 58,29,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,247,6,1,2,4:30 PM,3:39,Nembhard P.FOUL (P2.T3) (E.Malloy),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,249,8,0,2,4:31 PM,3:39,,,SUB: Hart FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,251,1,101,2,4:31 PM,3:32,,,Burks 12' Driving Floating Jump Shot (4 PTS),31 - 58,27,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,252,6,2,2,4:31 PM,3:32,Haliburton S.FOUL (P1.T4) (T.Brothers),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,254,3,10,2,4:32 PM,3:32,,,Burks Free Throw 1 of 1 (5 PTS),32 - 58,26,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,255,2,98,2,4:32 PM,3:17,MISS Toppin 3' Cutting Layup Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,256,4,0,2,4:32 PM,3:14,,,DiVincenzo REBOUND (Off:1 Def:3),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,257,5,1,2,4:32 PM,3:11,Toppin STEAL (1 STL),,DiVincenzo Bad Pass Turnover (P1.T7),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,259,5,1,2,4:32 PM,3:06,Nembhard Bad Pass Turnover (P1.T4),,DiVincenzo STEAL (1 STL),,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,261,6,2,2,4:33 PM,2:54,Haliburton S.FOUL (P2.PN) (B.Taylor),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,263,3,11,2,4:33 PM,2:54,,,Burks Free Throw 1 of 2 (6 PTS),33 - 58,25,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,264,8,0,2,4:33 PM,2:54,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,266,3,12,2,4:34 PM,2:54,,,Burks Free Throw 2 of 2 (7 PTS),34 - 58,24,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,267,1,6,2,4:34 PM,2:41,Nembhard 4' Driving Layup (7 PTS) (Turner 2 AST),,,34 - 60,26,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,269,6,2,2,4:34 PM,2:28,Siakam S.FOUL (P2.PN) (T.Brothers),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,271,3,11,2,4:35 PM,2:28,,,MISS Brunson Free Throw 1 of 2,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,272,4,1,2,4:35 PM,2:28,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,273,3,12,2,4:35 PM,2:28,,,Brunson Free Throw 2 of 2 (8 PTS),35 - 60,25,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,274,6,4,2,4:35 PM,2:20,Turner OFF.Foul (P1) (T.Brothers),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,276,5,37,2,4:35 PM,2:20,Turner Offensive Foul Turnover (P2.T5),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300214,277,1,79,2,4:36 PM,2:04,,,Burks 14' Pullup Jump Shot (9 PTS) (Hart 2 AST),37 - 60,23,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,278,2,79,2,4:36 PM,1:43,MISS Haliburton 29' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,279,4,0,2,4:36 PM,1:39,Nesmith REBOUND (Off:2 Def:2),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,280,1,72,2,4:36 PM,1:38,Nesmith 3' Putback Layup (2 PTS),,,37 - 62,25,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,282,2,6,2,4:36 PM,1:28,,,MISS DiVincenzo 1' Driving Layup,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,283,4,0,2,4:36 PM,1:26,Turner REBOUND (Off:1 Def:2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,284,6,1,2,4:37 PM,1:21,,,Burks P.FOUL (P2.T4) (E.Malloy),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,286,1,63,2,4:37 PM,1:13,Siakam 14' Fadeaway Jumper (10 PTS),,,37 - 64,27,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,287,2,79,2,4:37 PM,0:52,,,MISS Burks 13' Pullup Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,288,4,0,2,4:37 PM,0:48,,,Achiuwa REBOUND (Off:5 Def:0),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,289,2,97,2,4:37 PM,0:48,,,MISS Achiuwa Tip Layup Shot,,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,290,4,0,2,4:37 PM,0:48,Nesmith REBOUND (Off:2 Def:3),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,291,1,75,2,4:38 PM,0:32,Haliburton 4' Driving Finger Roll Layup (10 PTS),,,37 - 66,29,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,292,1,5,2,4:38 PM,0:15,,,Brunson 3' Layup (10 PTS),39 - 66,27,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,293,1,80,2,4:38 PM,0:05,Haliburton 29' 3PT Step Back Jump Shot (13 PTS),,,39 - 69,30,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,294,6,2,2,4:38 PM,0:00,Siakam S.FOUL (P3.PN) (B.Taylor),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,296,3,11,2,4:39 PM,0:00,,,Burks Free Throw 1 of 2 (10 PTS),40 - 69,29,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,297,3,12,2,4:40 PM,0:00,,,Burks Free Throw 2 of 2 (11 PTS),41 - 69,28,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,298,13,0,2,4:40 PM,0:00,,End of 2nd Period (4:40 PM EST),,41 - 69,28,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,303,12,0,3,4:56 PM,12:00,,Start of 3rd Period (4:56 PM EST),,41 - 69,28,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,304,1,63,3,4:56 PM,11:42,Nembhard 9' Fadeaway Jumper (9 PTS),,,41 - 71,30,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,305,2,1,3,4:57 PM,11:23,,,MISS McBride 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,306,4,0,3,4:57 PM,11:20,Turner REBOUND (Off:1 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,307,1,6,3,4:57 PM,11:04,Nesmith 4' Driving Layup (4 PTS) (Haliburton 2 AST),,,41 - 73,32,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,309,5,1,3,4:57 PM,10:48,Turner STEAL (1 STL),,Hartenstein Bad Pass Turnover (P2.T8),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,311,5,2,3,4:57 PM,10:41,Nesmith Lost Ball Turnover (P1.T6),,McBride STEAL (1 STL),,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,313,1,6,3,4:57 PM,10:29,,,McBride 3' Driving Layup (5 PTS) (Brunson 4 AST),43 - 73,30,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,315,6,26,3,4:58 PM,10:20,Nembhard Offensive Charge Foul (P3) (B.Taylor),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,317,5,37,3,4:58 PM,10:20,Nembhard Offensive Foul Turnover (P2.T7),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300214,318,1,6,3,4:58 PM,9:57,,,Brunson 7' Driving Layup (12 PTS),45 - 73,28,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,319,1,5,3,4:58 PM,9:44,Siakam 8' Layup (12 PTS) (Haliburton 3 AST),,,45 - 75,30,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,321,2,1,3,4:59 PM,9:26,,,MISS Hart 3PT Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,322,4,0,3,4:59 PM,9:24,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,324,5,1,3,4:59 PM,9:23,Siakam STEAL (1 STL),,McBride Bad Pass Turnover (P1.T9),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,326,1,50,3,4:59 PM,9:20,Siakam 1' Running Dunk (14 PTS),,,45 - 77,32,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,327,9,1,3,4:59 PM,9:19,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,328,2,1,3,5:03 PM,8:56,,,MISS McBride 24' 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,329,4,0,3,5:03 PM,8:52,Nesmith REBOUND (Off:2 Def:4),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,330,2,1,3,5:04 PM,8:45,MISS Nesmith 25' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,331,4,0,3,5:04 PM,8:42,Siakam REBOUND (Off:1 Def:2),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,332,2,1,3,5:04 PM,8:41,MISS Haliburton 28' 3PT Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,333,4,0,3,5:04 PM,8:37,,,Hart REBOUND (Off:0 Def:3),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,334,2,76,3,5:04 PM,8:34,,,MISS Brunson 4' Running Finger Roll Layup,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,335,4,0,3,5:04 PM,8:32,Nesmith REBOUND (Off:2 Def:5),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,336,6,1,3,5:04 PM,8:17,,,McBride P.FOUL (P1.T1) (E.Malloy),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,338,8,0,3,5:04 PM,8:17,,,SUB: Achiuwa FOR Hart,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,340,2,79,3,5:05 PM,8:10,MISS Siakam 16' Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,341,4,0,3,5:05 PM,8:08,,,Achiuwa REBOUND (Off:5 Def:1),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,342,2,101,3,5:05 PM,8:01,,,MISS Brunson 8' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,343,4,0,3,5:05 PM,7:58,Nesmith REBOUND (Off:2 Def:6),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,344,1,2,3,5:05 PM,7:53,Haliburton 25' 3PT Running Jump Shot (16 PTS) (Nembhard 5 AST),,,45 - 80,35,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,346,1,9,3,5:05 PM,7:43,,,Achiuwa 1' Driving Dunk (8 PTS) (Brunson 5 AST),47 - 80,33,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,348,2,1,3,5:05 PM,7:27,MISS Haliburton 27' 3PT Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,349,4,0,3,5:05 PM,7:24,,,Hartenstein REBOUND (Off:0 Def:5),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,350,2,2,3,5:05 PM,7:20,,,MISS Brunson 25' 3PT Running Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,351,4,0,3,5:05 PM,7:17,Haliburton REBOUND (Off:0 Def:6),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,352,1,101,3,5:06 PM,7:08,Haliburton 17' Driving Floating Jump Shot (18 PTS),,,47 - 82,35,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,353,1,75,3,5:06 PM,6:54,,,Brunson 3' Driving Finger Roll Layup (14 PTS),49 - 82,33,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,354,6,2,3,5:06 PM,6:54,Nesmith S.FOUL (P3.T1) (T.Brothers),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,356,8,0,3,5:06 PM,6:54,SUB: McConnell FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,357,8,0,3,5:06 PM,6:54,,,SUB: Burks FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,360,3,10,3,5:06 PM,6:54,,,MISS Brunson Free Throw 1 of 1,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,361,4,0,3,5:06 PM,6:53,Siakam REBOUND (Off:1 Def:3),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,362,2,80,3,5:07 PM,6:38,MISS Haliburton 26' 3PT Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,363,4,0,3,5:07 PM,6:34,,,McBride REBOUND (Off:0 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,364,1,75,3,5:07 PM,6:23,,,DiVincenzo 3' Driving Finger Roll Layup (7 PTS) (Burks 1 AST),51 - 82,31,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,366,9,1,3,5:07 PM,6:22,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,367,8,0,3,5:10 PM,6:22,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,369,1,108,3,5:11 PM,6:07,Haliburton 2' Cutting Dunk Shot (20 PTS) (McConnell 5 AST),,,51 - 84,33,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,371,2,1,3,5:11 PM,5:52,,,MISS Brunson 27' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,372,4,0,3,5:11 PM,5:48,,,McBride REBOUND (Off:1 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,373,6,4,3,5:11 PM,5:41,,,DiVincenzo OFF.Foul (P1) (T.Brothers),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,375,5,37,3,5:11 PM,5:41,,,DiVincenzo Offensive Foul Turnover (P2.T10),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042300214,376,1,6,3,5:12 PM,5:28,McConnell 1' Driving Layup (12 PTS),,,51 - 86,35,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,377,1,79,3,5:12 PM,5:09,,,McBride 16' Pullup Jump Shot (7 PTS) (Burks 2 AST),53 - 86,33,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,379,1,1,3,5:12 PM,4:59,Turner 27' 3PT Jump Shot (13 PTS) (Haliburton 4 AST),,,53 - 89,36,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,381,6,2,3,5:13 PM,4:45,Turner S.FOUL (P2.T2) (B.Taylor),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,383,3,11,3,5:13 PM,4:45,,,Brunson Free Throw 1 of 2 (15 PTS),54 - 89,35,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,384,3,12,3,5:13 PM,4:45,,,Brunson Free Throw 2 of 2 (16 PTS),55 - 89,34,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0042300214,385,2,79,3,5:14 PM,4:24,MISS Toppin 17' Pullup Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,386,4,0,3,5:14 PM,4:20,Turner REBOUND (Off:2 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,387,5,2,3,5:14 PM,4:19,Turner Lost Ball Turnover (P3.T8),,Brunson STEAL (2 STL),,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,389,2,2,3,5:14 PM,4:14,,,MISS McBride 26' 3PT Running Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,390,4,0,3,5:14 PM,4:09,Nembhard REBOUND (Off:0 Def:1),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,391,1,1,3,5:14 PM,4:02,McConnell 3PT Jump Shot (15 PTS) (Haliburton 5 AST),,,55 - 92,37,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,393,6,2,3,5:14 PM,3:50,McConnell S.FOUL (P3.T3) (T.Brothers),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,395,3,11,3,5:15 PM,3:50,,,Brunson Free Throw 1 of 2 (17 PTS),56 - 92,36,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,396,8,0,3,5:15 PM,3:50,SUB: Sheppard FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,398,3,12,3,5:15 PM,3:50,,,Brunson Free Throw 2 of 2 (18 PTS),57 - 92,35,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,399,2,63,3,5:16 PM,3:27,MISS Toppin 8' Fadeaway Jumper,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,400,4,0,3,5:16 PM,3:23,,,Burks REBOUND (Off:0 Def:2),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,404,2,1,3,5:16 PM,3:13,,,MISS McBride 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,405,4,0,3,5:16 PM,3:11,Sheppard REBOUND (Off:0 Def:5),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,406,1,106,3,5:16 PM,3:09,Toppin 2' Running Alley Oop Dunk Shot (12 PTS) (McConnell 6 AST),,,57 - 94,37,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,408,2,79,3,5:16 PM,2:54,Toppin BLOCK (1 BLK),,MISS Burks 27' 3PT Pullup Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1
+0042300214,410,4,0,3,5:16 PM,2:52,,,Burks REBOUND (Off:1 Def:2),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,411,2,79,3,5:16 PM,2:50,,,MISS Burks 16' Pullup Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,412,4,0,3,5:16 PM,2:48,McConnell REBOUND (Off:1 Def:3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,413,2,6,3,5:16 PM,2:43,MISS Toppin 2' Driving Layup,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,415,4,0,3,5:16 PM,2:42,,,DiVincenzo REBOUND (Off:1 Def:4),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,416,1,1,3,5:17 PM,2:35,,,Burks 27' 3PT Jump Shot (14 PTS) (McBride 2 AST),60 - 94,34,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,418,9,1,3,5:17 PM,2:32,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,419,8,0,3,5:18 PM,2:32,SUB: Nesmith FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,420,8,0,3,5:18 PM,2:32,SUB: Jackson FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,421,8,0,3,5:18 PM,2:32,,,SUB: Milton FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,425,2,79,3,5:18 PM,2:19,MISS McConnell 12' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300214,426,4,0,3,5:18 PM,2:15,,,Burks REBOUND (Off:1 Def:3),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,427,2,1,3,5:19 PM,2:09,,,MISS DiVincenzo 27' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,428,4,0,3,5:19 PM,2:05,,,McBride REBOUND (Off:2 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,429,2,79,3,5:19 PM,2:03,,,MISS Milton 27' 3PT Pullup Jump Shot,,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,430,4,0,3,5:19 PM,1:59,,,Burks REBOUND (Off:2 Def:3),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,431,6,2,3,5:19 PM,1:59,McConnell S.FOUL (P4.T4) (T.Brothers),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,433,3,13,3,5:19 PM,1:59,,,Burks Free Throw 1 of 3 (15 PTS),61 - 94,33,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,434,3,14,3,5:19 PM,1:59,,,Burks Free Throw 2 of 3 (16 PTS),62 - 94,32,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,435,3,15,3,5:19 PM,1:59,,,MISS Burks Free Throw 3 of 3,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,436,4,0,3,5:19 PM,1:57,Nesmith REBOUND (Off:2 Def:7),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,437,1,99,3,5:20 PM,1:47,Sheppard 2' Cutting Finger Roll Layup Shot (5 PTS) (Toppin 2 AST),,,62 - 96,34,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,439,6,2,3,5:20 PM,1:47,,,DiVincenzo S.FOUL (P2.T2) (T.Brothers),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,441,3,10,3,5:20 PM,1:47,Sheppard Free Throw 1 of 1 (6 PTS),,,62 - 97,35,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,442,2,63,3,5:21 PM,1:27,,,MISS Achiuwa 9' Fadeaway Jumper,,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,443,4,0,3,5:21 PM,1:27,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,445,2,1,3,5:21 PM,1:13,,,MISS McBride 26' 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,446,4,0,3,5:21 PM,1:09,Nesmith REBOUND (Off:2 Def:8),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,447,1,6,3,5:22 PM,0:55,Nesmith 6' Driving Layup (6 PTS) (McConnell 7 AST),,,62 - 99,37,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,449,6,2,3,5:22 PM,0:44,Nesmith S.FOUL (P4.PN) (T.Brothers),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,451,3,11,3,5:23 PM,0:44,,,Burks Free Throw 1 of 2 (17 PTS),63 - 99,36,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,454,3,12,3,5:23 PM,0:44,,,MISS Burks Free Throw 2 of 2,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,452,8,0,3,5:23 PM,0:44,,,SUB: Jeffries FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,455,4,0,3,5:23 PM,0:41,Nesmith REBOUND (Off:2 Def:9),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,456,1,79,3,5:23 PM,0:22,Nesmith 13' Pullup Jump Shot (8 PTS),,,63 - 101,38,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,457,2,1,3,5:23 PM,0:16,,,MISS Jeffries 3PT Jump Shot,,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,458,4,0,3,5:24 PM,0:12,Nesmith REBOUND (Off:2 Def:10),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,459,2,1,3,5:24 PM,0:01,MISS Sheppard 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,460,4,0,3,5:24 PM,0:01,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,461,13,0,3,5:24 PM,0:00,,End of 3rd Period (5:24 PM EST),,63 - 101,38,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,466,12,0,4,5:28 PM,12:00,,Start of 4th Period (5:28 PM EST),,63 - 101,38,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,467,2,1,4,5:28 PM,11:47,,,MISS Burks 27' 3PT Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,468,4,0,4,5:28 PM,11:42,Sheppard REBOUND (Off:0 Def:6),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,469,6,1,4,5:28 PM,11:34,,,Jeffries P.FOUL (P1.T1) (E.Malloy),,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,471,2,79,4,5:29 PM,11:30,MISS Jackson 16' Pullup Jump Shot,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,472,4,0,4,5:29 PM,11:27,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,474,2,102,4,5:29 PM,11:13,,,MISS McBride 10' Driving Floating Bank Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,475,4,0,4,5:29 PM,11:09,Jackson REBOUND (Off:3 Def:1),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,476,1,50,4,5:29 PM,11:06,Toppin 1' Running Dunk (14 PTS) (McConnell 8 AST),,,63 - 103,40,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,478,2,79,4,5:29 PM,10:49,,,MISS Burks 25' 3PT Pullup Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,479,4,0,4,5:29 PM,10:45,Sheppard REBOUND (Off:0 Def:7),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,480,1,43,4,5:30 PM,10:38,Jackson 1' Alley Oop Layup (6 PTS) (McConnell 9 AST),,,63 - 105,42,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,482,6,2,4,5:30 PM,10:26,Sheppard S.FOUL (P1.T1) (T.Brothers),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,484,3,11,4,5:30 PM,10:26,,,Sims Free Throw 1 of 2 (1 PTS),64 - 105,41,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,485,8,0,4,5:30 PM,10:26,SUB: Smith FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,487,8,0,4,5:30 PM,10:26,SUB: Brown FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,489,3,12,4,5:31 PM,10:26,,,Sims Free Throw 2 of 2 (2 PTS),65 - 105,40,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,490,2,79,4,5:31 PM,10:15,MISS McConnell 7' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,491,4,0,4,5:31 PM,10:12,,,Jeffries REBOUND (Off:0 Def:1),,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,492,2,1,4,5:31 PM,10:02,,,MISS McBride 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,493,4,0,4,5:31 PM,9:56,Brown REBOUND (Off:0 Def:1),,,,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,494,1,1,4,5:32 PM,9:40,Smith 27' 3PT Jump Shot (3 PTS) (McConnell 10 AST),,,65 - 108,43,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,496,1,1,4,5:32 PM,9:25,,,Burks 29' 3PT Jump Shot (20 PTS) (McBride 3 AST),68 - 108,40,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,498,9,1,4,5:32 PM,9:18,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,499,8,0,4,5:35 PM,9:18,SUB: Walker FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300214,501,8,0,4,5:35 PM,9:18,,,SUB: Diakite FOR Burks,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042300214,505,2,1,4,5:36 PM,9:11,MISS McDermott 25' 3PT Jump Shot,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,506,4,0,4,5:36 PM,9:07,,,McBride REBOUND (Off:2 Def:2),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,507,1,80,4,5:36 PM,9:00,,,McBride 26' 3PT Step Back Jump Shot (10 PTS),71 - 108,37,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,508,5,1,4,5:36 PM,8:46,McDermott Bad Pass Turnover (P1.T9),,Diakite STEAL (1 STL),,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,510,6,2,4,5:37 PM,8:39,Jackson S.FOUL (P1.T2) (T.Brothers),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,512,3,11,4,5:37 PM,8:39,,,Milton Free Throw 1 of 2 (1 PTS),72 - 108,36,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,513,3,12,4,5:37 PM,8:39,,,MISS Milton Free Throw 2 of 2,,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,514,4,0,4,5:37 PM,8:36,,,Sims REBOUND (Off:1 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,515,2,1,4,5:37 PM,8:28,,,MISS Milton 25' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,516,4,0,4,5:37 PM,8:24,Brown REBOUND (Off:0 Def:2),,,,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,517,2,101,4,5:37 PM,8:17,MISS Brown 6' Driving Floating Jump Shot,,,,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,518,4,0,4,5:37 PM,8:15,,,Sims REBOUND (Off:1 Def:2),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,519,2,75,4,5:38 PM,8:04,Smith BLOCK (1 BLK),,MISS Milton 3' Driving Finger Roll Layup,,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1
+0042300214,521,4,0,4,5:38 PM,8:00,,,Sims REBOUND (Off:2 Def:2),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,522,1,107,4,5:38 PM,8:00,,,Sims Tip Dunk Shot (4 PTS),74 - 108,34,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,523,6,4,4,5:38 PM,7:51,Jackson OFF.Foul (P2) (E.Malloy),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,525,5,37,4,5:38 PM,7:51,Jackson Offensive Foul Turnover (P1.T10),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300214,526,1,79,4,5:38 PM,7:36,,,McBride 26' 3PT Pullup Jump Shot (13 PTS),77 - 108,31,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,527,6,1,4,5:39 PM,7:24,,,McBride P.FOUL (P2.T2) (T.Brothers),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,529,1,6,4,5:39 PM,7:16,Smith 5' Driving Layup (5 PTS) (Walker 1 AST),,,77 - 110,33,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,531,7,2,4,5:39 PM,7:16,,,Diakite Violation:Defensive Goaltending (E.Malloy),,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042300214,532,5,1,4,5:39 PM,7:04,Jackson STEAL (2 STL),,McBride Bad Pass Turnover (P2.T11),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,534,2,106,4,5:39 PM,6:59,MISS Jackson 4' Running Alley Oop Dunk Shot,,Diakite BLOCK (1 BLK),,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,1
+0042300214,536,4,0,4,5:40 PM,6:56,,,Jeffries REBOUND (Off:0 Def:2),,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,537,2,41,4,5:40 PM,6:53,Brown BLOCK (1 BLK),,MISS Diakite 4' Running Layup,,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,1
+0042300214,539,4,0,4,5:40 PM,6:53,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,542,6,2,4,5:40 PM,6:51,McDermott S.FOUL (P1.T3) (T.Brothers),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,544,3,11,4,5:40 PM,6:51,,,Diakite Free Throw 1 of 2 (1 PTS),78 - 110,32,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,545,3,12,4,5:41 PM,6:51,,,Diakite Free Throw 2 of 2 (2 PTS),79 - 110,31,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,546,5,45,4,5:41 PM,6:41,Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300214,547,2,80,4,5:41 PM,6:22,,,MISS McBride 19' Step Back Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,548,4,0,4,5:41 PM,6:17,,,Sims REBOUND (Off:3 Def:2),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,549,2,1,4,5:41 PM,6:10,,,MISS Jeffries 26' 3PT Jump Shot,,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,550,4,0,4,5:41 PM,6:06,Smith REBOUND (Off:0 Def:1),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,551,2,1,4,5:42 PM,5:58,MISS Walker 18' Jump Shot,,,,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,552,4,0,4,5:42 PM,5:54,,,McBride REBOUND (Off:2 Def:3),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,553,2,1,4,5:42 PM,5:48,,,MISS Diakite 26' 3PT Jump Shot,,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,554,4,0,4,5:42 PM,5:48,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300214,555,6,3,4,5:42 PM,5:47,McDermott L.B.FOUL (P2.T4) (B.Taylor),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,557,2,6,4,5:42 PM,5:42,,,MISS Milton 6' Driving Layup,,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,558,4,0,4,5:42 PM,5:39,Smith REBOUND (Off:0 Def:2),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,559,6,2,4,5:43 PM,5:29,,,McBride S.FOUL (P3.T3) (B.Taylor),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,561,3,11,4,5:43 PM,5:29,MISS Walker Free Throw 1 of 2,,,,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,562,4,1,4,5:43 PM,5:29,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,563,3,12,4,5:43 PM,5:29,Walker Free Throw 2 of 2 (1 PTS),,,79 - 111,32,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,564,6,2,4,5:43 PM,5:11,Jackson S.FOUL (P3.PN) (E.Malloy),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,566,3,11,4,5:44 PM,5:11,,,McBride Free Throw 1 of 2 (14 PTS),80 - 111,31,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,567,3,12,4,5:44 PM,5:11,,,MISS McBride Free Throw 2 of 2,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,568,4,0,4,5:44 PM,5:10,Walker REBOUND (Off:0 Def:1),,,,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,569,1,102,4,5:44 PM,5:03,Walker 11' Driving Floating Bank Jump Shot (3 PTS),,,80 - 113,33,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,570,2,101,4,5:45 PM,4:44,,,MISS Jeffries 7' Driving Floating Jump Shot,,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,571,4,0,4,5:45 PM,4:42,,,Jeffries REBOUND (Off:1 Def:2),,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,572,1,97,4,5:45 PM,4:42,,,Jeffries Tip Layup Shot (2 PTS),82 - 113,31,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,575,6,6,4,5:45 PM,4:27,,,Diakite AWAY.FROM.PLAY.FOUL (P1.T4) (B.Taylor),,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300214,577,6,11,4,5:46 PM,4:27,,,Diakite T.FOUL (P1.T4) (T.Brothers),,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042300214,578,3,16,4,5:46 PM,4:27,Smith Free Throw Technical (6 PTS),,,82 - 114,32,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,579,3,10,4,5:46 PM,4:27,Smith Free Throw 1 of 1 (7 PTS),,,82 - 115,33,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,580,5,1,4,5:47 PM,4:18,Brown Bad Pass Turnover (P1.T12),,Sims STEAL (1 STL),,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,582,2,41,4,5:47 PM,4:12,,,MISS Jeffries 3' Running Layup,,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,583,4,0,4,5:47 PM,4:10,Smith REBOUND (Off:0 Def:3),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,584,5,2,4,5:47 PM,3:57,Walker Lost Ball Turnover (P2.T13),,Jeffries STEAL (1 STL),,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,587,5,2,4,5:47 PM,3:47,Walker STEAL (1 STL),,Diakite Lost Ball Turnover (P1.T12),,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,589,1,52,4,5:48 PM,3:34,Jackson 2' Alley Oop Dunk (8 PTS) (Walker 2 AST),,,82 - 117,35,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,591,1,79,4,5:48 PM,3:17,,,McBride 20' Pullup Jump Shot (16 PTS) (Milton 1 AST),84 - 117,33,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,593,1,80,4,5:48 PM,2:52,Walker 22' Step Back Jump Shot (5 PTS) (McDermott 1 AST),,,84 - 119,35,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,595,1,1,4,5:49 PM,2:31,,,Jeffries 3PT Jump Shot (5 PTS) (McBride 4 AST),87 - 119,32,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,597,5,1,4,5:49 PM,2:16,Walker Bad Pass Turnover (P3.T14),,Sims STEAL (2 STL),,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042300214,599,6,2,4,5:49 PM,2:11,Walker S.FOUL (P1.PN) (T.Brothers),,,,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042300214,601,9,1,4,5:49 PM,2:11,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300214,602,3,11,4,5:53 PM,2:11,,,Milton Free Throw 1 of 2 (2 PTS),88 - 119,31,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,603,3,12,4,5:53 PM,2:11,,,Milton Free Throw 2 of 2 (3 PTS),89 - 119,30,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,604,2,47,4,5:54 PM,1:55,MISS Brown 13' Turnaround Jump Shot,,,,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,605,4,0,4,5:54 PM,1:51,,,Sims REBOUND (Off:3 Def:3),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,606,2,63,4,5:54 PM,1:43,,,MISS Milton 10' Fadeaway Jumper,,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,607,4,0,4,5:54 PM,1:40,Jackson REBOUND (Off:3 Def:2),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,608,2,5,4,5:54 PM,1:29,MISS Jackson 3' Layup,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,609,4,0,4,5:54 PM,1:26,,,Diakite REBOUND (Off:0 Def:1),,,5,1629603,Mamadi Diakite,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,610,5,1,4,5:54 PM,1:19,Smith STEAL (1 STL),,McBride Bad Pass Turnover (P3.T13),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,612,1,50,4,5:54 PM,1:16,Jackson Running Dunk (10 PTS) (Smith 1 AST),,,89 - 121,32,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300214,614,2,1,4,5:55 PM,0:57,,,MISS Jeffries 26' 3PT Jump Shot,,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,615,4,0,4,5:55 PM,0:54,Jackson REBOUND (Off:3 Def:3),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,616,2,86,4,5:55 PM,0:30,MISS Walker 20' Turnaround Fadeaway Shot,,,,,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300214,617,4,0,4,5:55 PM,0:27,,,Milton REBOUND (Off:0 Def:1),,,5,1629003,Shake Milton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042300214,618,5,11,4,5:56 PM,0:04,,,Knicks Turnover: Shot Clock (T#14),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300214,619,13,0,4,5:56 PM,0:00,,End of 4th Period (5:56 PM EST),,89 - 121,32,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,423 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022101116,2,12,0,1,6:11 PM,12:00,,Start of 1st Period (6:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,4,10,0,1,6:11 PM,12:00,Jump Ball Williams III vs. Towns: Tip to Vanderbilt,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022101116,7,2,86,1,6:11 PM,11:45,,,MISS Towns 13' Turnaround Fadeaway Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,8,4,0,1,6:11 PM,11:43,,,Vanderbilt REBOUND (Off:1 Def:0),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,9,2,79,1,6:11 PM,11:36,,,MISS Russell 19' Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,10,4,0,1,6:12 PM,11:32,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,12,2,1,1,6:12 PM,11:16,MISS Smart 24' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,13,4,0,1,6:12 PM,11:13,,,Towns REBOUND (Off:0 Def:1),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,14,2,79,1,6:12 PM,11:07,,,MISS Edwards 25' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,15,4,0,1,6:12 PM,11:04,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,16,2,41,1,6:12 PM,11:00,MISS Smart 2' Running Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,17,4,0,1,6:12 PM,10:55,Brown REBOUND (Off:1 Def:0),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,18,1,97,1,6:12 PM,10:55,Brown Tip Layup Shot (2 PTS),,,0 - 2,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,19,1,108,1,6:12 PM,10:51,,,Vanderbilt 1' Cutting Dunk Shot (2 PTS) (Russell 1 AST),2 - 2,TIE,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,21,1,6,1,6:13 PM,10:41,Smart 1' Driving Layup (2 PTS),,,2 - 4,2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,22,2,6,1,6:13 PM,10:25,Williams III BLOCK (1 BLK),,MISS Towns 5' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,1
+0022101116,24,4,0,1,6:13 PM,10:23,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,26,1,9,1,6:13 PM,10:19,,,Towns 2' Driving Dunk (2 PTS),4 - 4,TIE,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,27,2,1,1,6:14 PM,10:01,MISS Smart 26' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,28,4,0,1,6:14 PM,9:58,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,30,5,45,1,6:14 PM,9:52,,,Edwards Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,31,1,98,1,6:14 PM,9:47,Brown 3' Cutting Layup Shot (4 PTS) (Smart 1 AST),,,4 - 6,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,33,1,7,1,6:14 PM,9:32,,,Vanderbilt Dunk (4 PTS) (Edwards 1 AST),6 - 6,TIE,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,35,1,1,1,6:14 PM,9:20,Brown 26' 3PT Jump Shot (7 PTS) (Smart 2 AST),,,6 - 9,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,37,1,98,1,6:15 PM,9:03,,,Vanderbilt 1' Cutting Layup Shot (6 PTS) (Towns 1 AST),8 - 9,1,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,39,7,5,1,6:15 PM,8:54,,,Vanderbilt Violation:Kicked Ball (G.Petraitis),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0022101116,40,2,1,1,6:15 PM,8:50,MISS Brown 26' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,41,4,0,1,6:15 PM,8:47,,,Towns REBOUND (Off:0 Def:2),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,42,2,41,1,6:15 PM,8:43,,,MISS Vanderbilt 1' Running Layup,,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,43,4,0,1,6:15 PM,8:41,Brown REBOUND (Off:1 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,44,2,1,1,6:15 PM,8:33,MISS Smart 26' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,45,4,0,1,6:15 PM,8:31,,,Edwards REBOUND (Off:0 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,46,6,28,1,6:16 PM,8:31,Smart Personal Take Foul (P1.T1) (J.Sterling),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,48,2,78,1,6:16 PM,8:23,,,MISS Vanderbilt 12' Floating Jump Shot,,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,49,4,0,1,6:16 PM,8:21,Brown REBOUND (Off:1 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,50,1,5,1,6:16 PM,8:13,Tatum 2' Layup (2 PTS) (Smart 3 AST),,,8 - 11,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,52,2,6,1,6:16 PM,8:00,Tatum BLOCK (1 BLK),,MISS Towns 5' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1
+0022101116,54,4,0,1,6:16 PM,7:58,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,56,5,45,1,6:17 PM,7:48,Brown Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022101116,57,5,1,1,6:17 PM,7:39,Smart STEAL (1 STL),,Russell Bad Pass Turnover (P1.T2),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,59,1,50,1,6:17 PM,7:35,Smart 2' Running Dunk (4 PTS),,,8 - 13,5,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,60,2,1,1,6:17 PM,7:28,,,MISS Russell 24' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,61,4,0,1,6:17 PM,7:26,Brown REBOUND (Off:1 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,62,2,47,1,6:17 PM,7:19,MISS Tatum 11' Turnaround Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,63,4,0,1,6:17 PM,7:18,Williams III REBOUND (Off:1 Def:0),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,64,1,107,1,6:17 PM,7:18,Williams III Tip Dunk Shot (2 PTS),,,8 - 15,7,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,65,9,1,1,6:18 PM,7:11,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,67,1,1,1,6:21 PM,7:01,,,Towns 27' 3PT Jump Shot (5 PTS) (Russell 2 AST),11 - 15,4,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,69,5,1,1,6:21 PM,6:41,Smart Bad Pass Turnover (P1.T2),,Russell STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,71,2,1,1,6:21 PM,6:36,,,MISS Russell 25' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,72,4,0,1,6:21 PM,6:33,Brown REBOUND (Off:1 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,73,5,1,1,6:21 PM,6:16,Tatum Bad Pass Turnover (P1.T3),,Beverley STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,75,2,1,1,6:22 PM,6:11,,,MISS Beverley 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,76,4,0,1,6:22 PM,6:06,Williams III REBOUND (Off:1 Def:1),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,77,1,80,1,6:22 PM,5:58,Tatum 25' 3PT Step Back Jump Shot (5 PTS),,,11 - 18,7,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,78,1,58,1,6:22 PM,5:39,,,Towns 7' Turnaround Hook Shot (7 PTS),13 - 18,5,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,79,2,79,1,6:22 PM,5:16,MISS Brown 22' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,80,4,0,1,6:23 PM,5:13,,,Vanderbilt REBOUND (Off:1 Def:1),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,81,1,101,1,6:23 PM,5:05,,,Russell 6' Driving Floating Jump Shot (2 PTS),15 - 18,3,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,82,7,2,1,6:23 PM,5:05,Williams III Violation:Defensive Goaltending (J.Sterling),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022101116,83,2,1,1,6:23 PM,4:51,MISS Smart 24' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,84,4,0,1,6:23 PM,4:47,Williams III REBOUND (Off:2 Def:1),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,85,1,87,1,6:23 PM,4:45,Williams III 3' Putback Dunk (4 PTS),,,15 - 20,5,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,86,6,2,1,6:23 PM,4:45,,,Vanderbilt S.FOUL (P1.T1) (J.Sterling),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,88,8,0,1,6:24 PM,4:45,SUB: White FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,89,8,0,1,6:24 PM,4:45,,,SUB: McLaughlin FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,92,3,10,1,6:24 PM,4:45,Williams III Free Throw 1 of 1 (5 PTS),,,15 - 21,6,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,93,6,2,1,6:24 PM,4:33,Williams S.FOUL (P1.T2) (J.Sterling),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,96,3,11,1,6:25 PM,4:33,,,Towns Free Throw 1 of 2 (8 PTS),16 - 21,5,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,97,8,0,1,6:25 PM,4:33,,,SUB: Prince FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,99,3,12,1,6:25 PM,4:33,,,MISS Towns Free Throw 2 of 2,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,100,4,0,1,6:25 PM,4:33,Williams III REBOUND (Off:2 Def:2),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,101,2,79,1,6:26 PM,4:12,MISS Brown 19' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,102,4,0,1,6:26 PM,4:08,,,Towns REBOUND (Off:0 Def:3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,103,1,6,1,6:26 PM,4:02,,,Towns 1' Driving Layup (10 PTS) (McLaughlin 1 AST),18 - 21,3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,105,5,1,1,6:26 PM,3:47,White Bad Pass Turnover (P1.T4),,McLaughlin STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,107,1,41,1,6:26 PM,3:45,,,McLaughlin 1' Running Layup (2 PTS),20 - 21,1,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,108,9,1,1,6:26 PM,3:45,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,109,8,0,1,6:28 PM,3:45,,,SUB: Nowell FOR Beverley,,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,111,1,1,1,6:29 PM,3:33,Smart 3PT Jump Shot (7 PTS) (Brown 1 AST),,,20 - 24,4,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,113,6,1,1,6:30 PM,3:15,Williams III P.FOUL (P1.T3) (B.Taylor),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,115,8,0,1,6:30 PM,3:15,SUB: Theis FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,117,2,6,1,6:30 PM,3:09,Williams BLOCK (1 BLK),,MISS Edwards 4' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0022101116,119,4,0,1,6:30 PM,3:07,Williams REBOUND (Off:0 Def:1),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,120,2,41,1,6:30 PM,3:05,MISS Brown 7' Running Layup,,McLaughlin BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022101116,122,4,0,1,6:30 PM,3:03,,,Edwards REBOUND (Off:0 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,123,2,1,1,6:31 PM,2:43,,,MISS Prince 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,124,4,0,1,6:31 PM,2:40,Williams REBOUND (Off:0 Def:2),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,125,5,1,1,6:31 PM,2:33,Smart Bad Pass Turnover (P2.T5),,Towns STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,127,5,1,1,6:31 PM,2:31,Smart STEAL (2 STL),,Towns Bad Pass Turnover (P1.T3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,129,1,50,1,6:31 PM,2:27,Brown 1' Running Dunk (9 PTS) (Smart 4 AST),,,20 - 26,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,131,6,1,1,6:31 PM,2:23,Smart P.FOUL (P2.T4) (J.Sterling),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,133,8,0,1,6:31 PM,2:23,SUB: Pritchard FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,134,8,0,1,6:31 PM,2:23,,,SUB: Russell FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,137,1,9,1,6:32 PM,2:14,,,Towns 2' Driving Dunk (12 PTS) (Russell 3 AST),22 - 26,4,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,139,7,1,1,6:32 PM,2:11,,,Timberwolves Violation: Delay of game Violation,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101116,140,1,1,1,6:32 PM,1:54,Theis 14' Jump Shot (2 PTS) (White 1 AST),,,22 - 28,6,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,142,1,63,1,6:32 PM,1:44,,,Nowell 11' Fadeaway Jumper (2 PTS),24 - 28,4,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,143,6,2,1,6:32 PM,1:44,Theis S.FOUL (P1.PN) (G.Petraitis),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,145,8,0,1,6:33 PM,1:44,SUB: Tatum FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,147,3,10,1,6:33 PM,1:44,,,Nowell Free Throw 1 of 1 (3 PTS),25 - 28,3,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,148,1,1,1,6:33 PM,1:34,Pritchard 24' 3PT Jump Shot (3 PTS) (Tatum 1 AST),,,25 - 31,6,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,150,1,1,1,6:34 PM,1:13,,,Prince 26' 3PT Jump Shot (3 PTS) (Towns 2 AST),28 - 31,3,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,152,5,1,1,6:34 PM,0:59,Tatum Bad Pass Turnover (P2.T6),,Russell STEAL (2 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,154,2,1,1,6:34 PM,0:55,,,MISS Prince 26' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,155,4,0,1,6:34 PM,0:52,Theis REBOUND (Off:0 Def:1),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,156,1,1,1,6:34 PM,0:40,Pritchard 29' 3PT Jump Shot (6 PTS) (Tatum 2 AST),,,28 - 34,6,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,158,5,1,1,6:34 PM,0:32,Theis STEAL (1 STL),,Russell Bad Pass Turnover (P2.T4),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,160,2,79,1,6:35 PM,0:12,MISS Tatum 27' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,161,4,0,1,6:35 PM,0:09,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,163,6,1,1,6:35 PM,0:04,,,Towns P.FOUL (P1.T2) (J.Sterling),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,165,5,45,1,6:36 PM,0:04,White Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022101116,166,1,63,1,6:36 PM,0:01,,,Nowell 13' Fadeaway Jumper (5 PTS),30 - 34,4,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,167,18,0,1,6:36 PM,0:00,,Instant Replay1st Period (6:36 PM EST),,30 - 34,4,0,166,Ron Harper,,,,,0,0,,,,,,1,0,,,,,,0
+0022101116,168,13,0,1,6:36 PM,0:00,,End of 1st Period (6:36 PM EST),,30 - 34,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101116,173,12,0,2,6:39 PM,12:00,,Start of 2nd Period (6:39 PM EST),,30 - 34,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,174,1,1,2,6:39 PM,11:40,White 3PT Jump Shot (3 PTS) (Tatum 3 AST),,,30 - 37,7,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,176,5,1,2,6:39 PM,11:28,White STEAL (1 STL),,McLaughlin Bad Pass Turnover (P1.T5),,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,178,1,41,2,6:39 PM,11:24,White 2' Running Layup (5 PTS) (Pritchard 1 AST),,,30 - 39,9,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,180,6,2,2,6:40 PM,11:24,,,Reid S.FOUL (P1.T1) (G.Petraitis),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,182,3,10,2,6:40 PM,11:24,White Free Throw 1 of 1 (6 PTS),,,30 - 40,10,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,183,2,78,2,6:40 PM,11:01,,,MISS McLaughlin 3' Floating Jump Shot,,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,185,1,97,2,6:40 PM,10:56,,,Reid Tip Layup Shot (2 PTS),32 - 40,8,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,184,4,0,2,6:40 PM,10:56,,,Reid REBOUND (Off:1 Def:0),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,186,6,2,2,6:41 PM,10:45,,,Russell S.FOUL (P1.T2) (B.Taylor),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,188,3,11,2,6:41 PM,10:45,White Free Throw 1 of 2 (7 PTS),,,32 - 41,9,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,189,3,12,2,6:41 PM,10:45,White Free Throw 2 of 2 (8 PTS),,,32 - 42,10,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,190,2,6,2,6:42 PM,10:27,,,MISS Nowell 3' Driving Layup,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,191,4,0,2,6:42 PM,10:24,Theis REBOUND (Off:0 Def:2),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,192,5,2,2,6:42 PM,10:20,White Lost Ball Turnover (P3.T8),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,194,6,3,2,6:42 PM,10:20,White L.B.FOUL (P1.T1) (G.Petraitis),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,196,6,4,2,6:42 PM,10:10,,,Reid OFF.Foul (P2) (G.Petraitis),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,198,5,37,2,6:42 PM,10:10,,,Reid Offensive Foul Turnover (P1.T6),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,199,8,0,2,6:43 PM,10:10,,,SUB: Edwards FOR McLaughlin,,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,201,2,1,2,6:43 PM,9:59,MISS Tatum 17' Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,202,4,0,2,6:43 PM,9:56,,,Prince REBOUND (Off:0 Def:1),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,203,5,1,2,6:43 PM,9:45,Tatum STEAL (1 STL),,Edwards Bad Pass Turnover (P2.T7),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,205,1,1,2,6:44 PM,9:38,Pritchard 26' 3PT Jump Shot (9 PTS) (White 2 AST),,,32 - 45,13,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,207,9,1,2,6:44 PM,9:36,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,208,2,6,2,6:47 PM,9:18,,,MISS Reid 1' Driving Layup,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,209,4,0,2,6:47 PM,9:15,Nesmith REBOUND (Off:0 Def:1),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,210,1,63,2,6:47 PM,9:05,Tatum 16' Fadeaway Jumper (7 PTS),,,32 - 47,15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,211,6,1,2,6:47 PM,8:56,Nesmith P.FOUL (P1.T2) (G.Petraitis),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,213,6,2,2,6:48 PM,8:51,Theis S.FOUL (P2.T3) (J.Sterling),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,215,3,11,2,6:48 PM,8:51,,,Russell Free Throw 1 of 2 (3 PTS),33 - 47,14,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,216,3,12,2,6:48 PM,8:51,,,Russell Free Throw 2 of 2 (4 PTS),34 - 47,13,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,217,2,1,2,6:49 PM,8:38,MISS Theis 26' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,218,4,0,2,6:49 PM,8:33,Pritchard REBOUND (Off:1 Def:0),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,219,1,5,2,6:49 PM,8:32,Nesmith 3' Layup (2 PTS) (Pritchard 2 AST),,,34 - 49,15,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,220,2,6,2,6:49 PM,8:20,Pritchard BLOCK (1 BLK),,MISS Russell 8' Driving Layup,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1
+0022101116,222,4,0,2,6:49 PM,8:18,Pritchard REBOUND (Off:1 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,223,6,2,2,6:49 PM,8:16,,,Reid S.FOUL (P3.T3) (G.Petraitis),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,225,3,11,2,6:49 PM,8:16,MISS Nesmith Free Throw 1 of 2,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,226,4,1,2,6:49 PM,8:16,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,227,6,11,2,6:50 PM,8:16,,,Reid T.FOUL (P3.T3) (G.Petraitis),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,228,3,16,2,6:50 PM,8:16,Tatum Free Throw Technical (8 PTS),,,34 - 50,16,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,229,8,0,2,6:50 PM,8:16,,,SUB: Vanderbilt FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,230,8,0,2,6:50 PM,8:16,,,SUB: Beverley FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,231,8,0,2,6:50 PM,8:16,,,SUB: Towns FOR Prince,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,235,3,12,2,6:50 PM,8:16,Nesmith Free Throw 2 of 2 (3 PTS),,,34 - 51,17,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,236,2,1,2,6:51 PM,8:05,,,MISS Towns 26' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,237,4,0,2,6:51 PM,8:02,Nesmith REBOUND (Off:0 Def:2),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,238,2,80,2,6:51 PM,7:57,MISS Tatum 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,239,4,0,2,6:51 PM,7:54,Theis REBOUND (Off:1 Def:2),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,240,2,7,2,6:51 PM,7:53,MISS Theis 2' Dunk,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,241,4,0,2,6:51 PM,7:50,,,Beverley REBOUND (Off:0 Def:1),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,242,5,1,2,6:51 PM,7:45,Nesmith STEAL (1 STL),,Beverley Bad Pass Turnover (P1.T8),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,244,2,2,2,6:51 PM,7:42,MISS Pritchard 26' 3PT Running Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,245,4,0,2,6:51 PM,7:39,,,Beverley REBOUND (Off:0 Def:2),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,246,2,63,2,6:51 PM,7:17,,,MISS Towns 6' Fadeaway Jumper,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,247,4,0,2,6:51 PM,7:14,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,248,2,75,2,6:52 PM,7:08,MISS Theis 3' Driving Finger Roll Layup,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,249,4,0,2,6:52 PM,7:06,,,Edwards REBOUND (Off:0 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,250,1,6,2,6:52 PM,6:59,,,Edwards 2' Driving Layup (2 PTS),36 - 51,15,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,251,6,2,2,6:52 PM,6:59,Theis S.FOUL (P3.T4) (G.Petraitis),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,253,8,0,2,6:52 PM,6:59,SUB: Brown FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,254,8,0,2,6:52 PM,6:59,SUB: Williams FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,255,8,0,2,6:52 PM,6:59,SUB: Williams III FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,259,3,10,2,6:52 PM,6:59,,,Edwards Free Throw 1 of 1 (3 PTS),37 - 51,14,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,260,1,6,2,6:53 PM,6:46,White 3' Driving Layup (10 PTS),,,37 - 53,16,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,262,6,4,2,6:53 PM,6:23,,,Towns OFF.Foul (P2) (J.Sterling),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,264,5,37,2,6:53 PM,6:23,,,Towns Offensive Foul Turnover (P2.T9),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,265,6,1,2,6:54 PM,6:13,,,Beverley P.FOUL (P1.T4) (B.Taylor),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,267,2,1,2,6:54 PM,6:02,MISS Williams 27' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,268,4,0,2,6:54 PM,5:59,,,Vanderbilt REBOUND (Off:1 Def:2),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,269,6,1,2,6:54 PM,5:50,Williams P.FOUL (P2.PN) (B.Taylor),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,271,3,11,2,6:55 PM,5:50,,,MISS Towns Free Throw 1 of 2,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,272,4,1,2,6:55 PM,5:50,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,273,3,12,2,6:55 PM,5:50,,,Towns Free Throw 2 of 2 (13 PTS),38 - 53,15,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,274,6,1,2,6:56 PM,5:38,,,Beverley P.FOUL (P2.PN) (B.Taylor),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,276,3,11,2,6:56 PM,5:38,Brown Free Throw 1 of 2 (10 PTS),,,38 - 54,16,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,277,3,12,2,6:56 PM,5:38,Brown Free Throw 2 of 2 (11 PTS),,,38 - 55,17,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,278,2,73,2,6:56 PM,5:26,,,MISS Towns 1' Driving Reverse Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,279,4,0,2,6:57 PM,5:24,,,Vanderbilt REBOUND (Off:2 Def:2),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,280,6,2,2,6:57 PM,5:22,Williams III S.FOUL (P2.PN) (B.Taylor),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,282,3,11,2,6:57 PM,5:22,,,MISS Vanderbilt Free Throw 1 of 2,,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,283,4,1,2,6:57 PM,5:22,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,284,8,0,2,6:57 PM,5:22,SUB: Smart FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,286,3,12,2,6:57 PM,5:22,,,Vanderbilt Free Throw 2 of 2 (7 PTS),39 - 55,16,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,287,6,1,2,6:58 PM,5:04,,,Towns P.FOUL (P3.PN) (J.Sterling),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,289,3,11,2,6:58 PM,5:04,Williams Free Throw 1 of 2 (1 PTS),,,39 - 56,17,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,290,3,12,2,6:59 PM,5:04,Williams Free Throw 2 of 2 (2 PTS),,,39 - 57,18,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,291,1,102,2,6:59 PM,4:41,,,Beverley 7' Driving Floating Bank Jump Shot (2 PTS) (Towns 3 AST),41 - 57,16,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,293,2,6,2,6:59 PM,4:32,MISS Williams III 4' Driving Layup,,Nowell BLOCK (1 BLK),,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022101116,295,4,0,2,6:59 PM,4:25,,,Towns REBOUND (Off:0 Def:4),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,296,1,1,2,6:59 PM,4:18,,,Nowell 24' 3PT Jump Shot (8 PTS) (Edwards 2 AST),44 - 57,13,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,298,2,1,2,7:00 PM,3:59,MISS Williams 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,299,4,0,2,7:00 PM,3:57,,,Beverley REBOUND (Off:0 Def:3),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,300,2,101,2,7:00 PM,3:48,,,MISS Beverley 8' Driving Floating Jump Shot,,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,301,4,0,2,7:00 PM,3:46,Brown REBOUND (Off:1 Def:5),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,302,2,1,2,7:00 PM,3:36,MISS White 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,303,4,0,2,7:00 PM,3:33,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,305,8,0,2,7:00 PM,3:33,SUB: Tatum FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,307,8,0,2,7:00 PM,3:33,,,SUB: Prince FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,309,1,6,2,7:01 PM,3:28,Tatum 3' Driving Layup (10 PTS) (Smart 5 AST),,,44 - 59,15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,311,2,6,2,7:01 PM,3:12,,,MISS Prince 6' Driving Layup,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,312,4,0,2,7:01 PM,3:10,Tatum REBOUND (Off:0 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,313,1,6,2,7:01 PM,2:59,Tatum 3' Driving Layup (12 PTS),,,44 - 61,17,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,314,2,1,2,7:01 PM,2:46,,,MISS Nowell 3PT Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,315,4,0,2,7:01 PM,2:43,Smart REBOUND (Off:0 Def:2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,316,1,98,2,7:02 PM,2:34,Brown 3' Cutting Layup Shot (13 PTS) (Smart 6 AST),,,44 - 63,19,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,318,1,1,2,7:02 PM,2:13,,,Nowell 25' 3PT Jump Shot (11 PTS) (Edwards 3 AST),47 - 63,16,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,320,2,108,2,7:02 PM,1:54,MISS Williams 2' Cutting Dunk Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,321,4,0,2,7:02 PM,1:52,Williams III REBOUND (Off:3 Def:2),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,322,1,72,2,7:02 PM,1:51,Williams III 3' Putback Layup (7 PTS),,,47 - 65,18,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,323,2,79,2,7:03 PM,1:34,,,MISS Edwards 24' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,324,4,0,2,7:03 PM,1:32,Williams III REBOUND (Off:3 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,325,2,80,2,7:03 PM,1:20,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,326,4,0,2,7:03 PM,1:17,Williams III REBOUND (Off:4 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,327,6,1,2,7:03 PM,1:11,,,Prince P.FOUL (P1.PN) (B.Taylor),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,329,9,1,2,7:03 PM,1:11,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,330,8,0,2,7:06 PM,1:11,SUB: White FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,331,8,0,2,7:06 PM,1:11,SUB: Theis FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,332,8,0,2,7:06 PM,1:11,,,SUB: Russell FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,336,3,11,2,7:06 PM,1:11,Brown Free Throw 1 of 2 (14 PTS),,,47 - 66,19,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,337,3,12,2,7:07 PM,1:11,Brown Free Throw 2 of 2 (15 PTS),,,47 - 67,20,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,338,2,1,2,7:07 PM,0:58,,,MISS Beverley 24' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,339,4,0,2,7:07 PM,0:56,Tatum REBOUND (Off:0 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,340,1,63,2,7:07 PM,0:43,Brown 16' Fadeaway Jumper (17 PTS) (Tatum 4 AST),,,47 - 69,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,341,2,1,2,7:07 PM,0:33,,,MISS Towns 25' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,342,4,0,2,7:07 PM,0:30,Brown REBOUND (Off:1 Def:6),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,343,1,80,2,7:08 PM,0:14,Tatum 27' 3PT Step Back Jump Shot (15 PTS),,,47 - 72,25,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,345,1,57,2,7:08 PM,0:01,,,Beverley 10' Driving Hook Shot (4 PTS) (Edwards 4 AST),49 - 72,23,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,347,18,0,2,7:08 PM,0:00,,Instant Replay2nd Period (7:08 PM EST),,49 - 72,23,0,345,Terry Porter,,,,,0,0,,,,,,1,0,,,,,,0
+0022101116,348,13,0,2,7:08 PM,0:00,,End of 2nd Period (7:08 PM EST),,49 - 72,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101116,355,12,0,3,7:24 PM,12:00,,Start of 3rd Period (7:24 PM EST),,49 - 72,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,356,5,1,3,7:24 PM,11:47,Smart Bad Pass Turnover (P3.T9),,Edwards STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,358,1,74,3,7:24 PM,11:43,,,Vanderbilt 1' Running Reverse Layup (9 PTS) (Edwards 5 AST),51 - 72,21,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,360,1,5,3,7:24 PM,11:26,Williams III 2' Layup (9 PTS) (Brown 2 AST),,,51 - 74,23,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,362,2,79,3,7:24 PM,11:16,,,MISS Russell 27' 3PT Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,363,4,0,3,7:24 PM,11:14,Brown REBOUND (Off:1 Def:7),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,364,1,75,3,7:25 PM,10:56,Tatum 3' Driving Finger Roll Layup (17 PTS),,,51 - 76,25,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,366,2,101,3,7:25 PM,10:30,,,MISS Edwards 8' Driving Floating Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,367,4,0,3,7:25 PM,10:26,Tatum REBOUND (Off:0 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,368,1,41,3,7:25 PM,10:22,Tatum Running Layup (19 PTS),,,51 - 78,27,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,369,9,1,3,7:25 PM,10:22,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,370,1,1,3,7:29 PM,10:11,,,Edwards 27' 3PT Jump Shot (6 PTS) (Towns 4 AST),54 - 78,24,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,373,5,4,3,7:29 PM,9:49,Tatum Traveling Turnover (P3.T10),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,374,1,1,3,7:29 PM,9:33,,,Beverley 3PT Jump Shot (7 PTS) (Russell 4 AST),57 - 78,21,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,376,2,1,3,7:30 PM,9:20,MISS Tatum 25' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,377,4,0,3,7:30 PM,9:18,,,Edwards REBOUND (Off:0 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,378,1,79,3,7:30 PM,9:08,,,Edwards 27' 3PT Pullup Jump Shot (9 PTS),60 - 78,18,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,379,6,1,3,7:30 PM,8:53,,,Vanderbilt P.FOUL (P2.T1) (B.Taylor),,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,381,2,79,3,7:31 PM,8:43,MISS Brown 24' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,382,4,0,3,7:31 PM,8:40,,,Edwards REBOUND (Off:0 Def:5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,383,2,103,3,7:31 PM,8:36,,,MISS Edwards 27' 3PT Running Pull-Up Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,384,4,0,3,7:31 PM,8:33,Brown REBOUND (Off:1 Def:8),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,385,2,1,3,7:31 PM,8:22,MISS Smart 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,386,4,0,3,7:31 PM,8:19,Williams III REBOUND (Off:5 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,387,1,72,3,7:31 PM,8:18,Williams III Putback Layup (11 PTS),,,60 - 80,20,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,388,6,1,3,7:31 PM,8:11,Williams P.FOUL (P3.T1) (J.Sterling),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,390,6,6,3,7:32 PM,8:09,Williams AWAY.FROM.PLAY.FOUL (P4.T2) (G.Petraitis),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,392,8,0,3,7:32 PM,8:09,SUB: White FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,394,1,79,3,7:32 PM,7:56,,,Edwards 26' 3PT Pullup Jump Shot (12 PTS),63 - 80,17,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,395,6,1,3,7:33 PM,7:35,,,Edwards P.FOUL (P1.T2) (B.Taylor),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,397,1,1,3,7:33 PM,7:28,Tatum 24' 3PT Jump Shot (22 PTS) (White 3 AST),,,63 - 83,20,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,399,5,2,3,7:33 PM,7:08,Williams III STEAL (1 STL),,Edwards Lost Ball Turnover (P3.T10),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,401,1,50,3,7:33 PM,7:04,Brown 1' Running Dunk (19 PTS),,,63 - 85,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,403,6,26,3,7:34 PM,6:39,,,Edwards Offensive Charge Foul (P2) (B.Taylor),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,405,5,37,3,7:34 PM,6:39,,,Edwards Offensive Foul Turnover (P4.T11),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,406,2,101,3,7:34 PM,6:26,MISS Tatum 4' Driving Floating Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,407,4,0,3,7:35 PM,6:24,Williams III REBOUND (Off:6 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,408,1,72,3,7:35 PM,6:23,Williams III Putback Layup (13 PTS),,,63 - 87,24,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,410,1,7,3,7:35 PM,6:11,,,Vanderbilt 2' Dunk (11 PTS) (Towns 5 AST),65 - 87,22,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,412,1,47,3,7:35 PM,6:02,Brown 7' Turnaround Jump Shot (21 PTS),,,65 - 89,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,413,6,1,3,7:35 PM,5:54,White P.FOUL (P2.T3) (J.Sterling),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,415,8,0,3,7:35 PM,5:54,,,SUB: McLaughlin FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,416,8,0,3,7:35 PM,5:54,,,SUB: Prince FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,419,1,101,3,7:36 PM,5:39,,,McLaughlin 11' Driving Floating Jump Shot (4 PTS) (Beverley 1 AST),67 - 89,22,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,421,1,75,3,7:36 PM,5:17,Brown 1' Driving Finger Roll Layup (23 PTS),,,67 - 91,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,422,2,1,3,7:36 PM,5:01,,,MISS Beverley 26' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,423,4,0,3,7:37 PM,4:59,Williams III REBOUND (Off:6 Def:4),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,424,2,6,3,7:37 PM,4:46,MISS Brown 4' Driving Layup,,Prince BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022101116,426,4,0,3,7:37 PM,4:43,,,Beverley REBOUND (Off:0 Def:4),,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,427,8,0,3,7:37 PM,4:35,,,SUB: Nowell FOR Beverley,,,5,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,429,10,0,3,7:38 PM,4:31,Jump Ball Smart vs. Towns: Tip to Prince,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022101116,432,1,79,3,7:38 PM,4:26,,,Prince 19' Pullup Jump Shot (5 PTS),69 - 91,22,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,433,2,80,3,7:38 PM,4:04,MISS Tatum 28' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,434,4,0,3,7:38 PM,4:02,,,Nowell REBOUND (Off:0 Def:1),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,435,1,1,3,7:38 PM,3:53,,,Edwards 25' 3PT Jump Shot (15 PTS) (Nowell 1 AST),72 - 91,19,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,437,1,1,3,7:39 PM,3:27,White 27' 3PT Jump Shot (13 PTS) (Smart 7 AST),,,72 - 94,22,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,439,1,58,3,7:39 PM,3:04,,,Towns 11' Turnaround Hook Shot (15 PTS) (McLaughlin 2 AST),74 - 94,20,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,441,6,1,3,7:39 PM,2:46,,,McLaughlin P.FOUL (P1.T3) (B.Taylor),,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,443,9,1,3,7:40 PM,2:46,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,444,8,0,3,7:42 PM,2:46,SUB: Theis FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,445,8,0,3,7:42 PM,2:46,SUB: Nesmith FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,448,1,80,3,7:43 PM,2:34,Tatum 26' 3PT Step Back Jump Shot (25 PTS),,,74 - 97,23,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,449,6,1,3,7:43 PM,2:18,Smart P.FOUL (P3.T4) (J.Sterling),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,451,8,0,3,7:43 PM,2:18,,,SUB: Russell FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,453,2,1,3,7:44 PM,2:09,,,MISS Prince 27' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,454,4,0,3,7:44 PM,2:06,Tatum REBOUND (Off:0 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,455,1,50,3,7:44 PM,1:59,Tatum 1' Running Dunk (27 PTS),,,74 - 99,25,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,456,2,50,3,7:44 PM,1:54,Nesmith BLOCK (1 BLK),,MISS Prince 2' Running Dunk,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,1
+0022101116,458,4,0,3,7:44 PM,1:52,Smart REBOUND (Off:0 Def:3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,459,1,106,3,7:44 PM,1:45,Theis 1' Running Alley Oop Dunk Shot (4 PTS) (White 4 AST),,,74 - 101,27,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,461,2,79,3,7:44 PM,1:24,,,MISS Nowell 17' Pullup Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,462,4,0,3,7:45 PM,1:21,Theis REBOUND (Off:1 Def:3),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,463,6,1,3,7:45 PM,1:06,,,McLaughlin P.FOUL (P2.T4) (J.Sterling),,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,465,8,0,3,7:45 PM,1:06,,,SUB: Reid FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,467,5,1,3,7:45 PM,0:57,Smart Bad Pass Turnover (P4.T11),,Prince STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,469,1,50,3,7:45 PM,0:55,,,Prince 3' Running Dunk (7 PTS),76 - 101,25,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,470,6,18,3,7:46 PM,0:55,,,Timberwolves Delay,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,1
+0022101116,471,3,16,3,7:46 PM,0:55,Tatum Free Throw Technical (28 PTS),,,76 - 102,26,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,472,2,1,3,7:47 PM,0:38,MISS Nesmith 26' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,473,4,0,3,7:47 PM,0:34,,,Reid REBOUND (Off:1 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,474,1,101,3,7:47 PM,0:29,,,McLaughlin 8' Driving Floating Jump Shot (6 PTS),78 - 102,24,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,475,1,79,3,7:47 PM,0:10,Tatum 25' 3PT Pullup Jump Shot (31 PTS),,,78 - 105,27,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,476,6,2,3,7:47 PM,0:10,,,Russell S.FOUL (P2.PN) (B.Taylor),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,478,3,10,3,7:48 PM,0:10,Tatum Free Throw 1 of 1 (32 PTS),,,78 - 106,28,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,479,1,79,3,7:48 PM,0:01,,,Nowell 14' Pullup Jump Shot (13 PTS) (Russell 5 AST),80 - 106,26,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,481,13,0,3,7:48 PM,0:00,,End of 3rd Period (7:48 PM EST),,80 - 106,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101116,488,12,0,4,7:51 PM,12:00,,Start of 4th Period (7:51 PM EST),,80 - 106,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,489,1,1,4,7:51 PM,11:49,,,Reid 27' 3PT Jump Shot (5 PTS) (Nowell 2 AST),83 - 106,23,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,491,2,1,4,7:51 PM,11:31,MISS Nesmith 26' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,492,4,0,4,7:51 PM,11:28,,,Russell REBOUND (Off:0 Def:1),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,493,1,79,4,7:51 PM,11:20,,,Edwards 13' Pullup Jump Shot (17 PTS) (Russell 6 AST),85 - 106,21,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,495,2,101,4,7:52 PM,11:03,MISS Brown 5' Driving Floating Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,496,4,0,4,7:52 PM,11:00,Theis REBOUND (Off:2 Def:3),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,498,2,1,4,7:52 PM,10:54,MISS White 24' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,499,4,0,4,7:52 PM,10:51,,,Nowell REBOUND (Off:0 Def:2),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,500,6,28,4,7:52 PM,10:50,Nesmith Personal Take Foul (P2.T1) (J.Sterling),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,502,6,1,4,7:53 PM,10:37,Nesmith P.FOUL (P3.T2) (J.Sterling),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,504,2,73,4,7:53 PM,10:26,,,MISS Edwards 4' Driving Reverse Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,505,4,0,4,7:53 PM,10:24,Theis REBOUND (Off:2 Def:4),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,506,6,2,4,7:53 PM,10:21,,,Reid S.FOUL (P4.T1) (J.Sterling),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,508,3,11,4,7:54 PM,10:21,Nesmith Free Throw 1 of 2 (4 PTS),,,85 - 107,22,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,509,3,12,4,7:54 PM,10:21,MISS Nesmith Free Throw 2 of 2,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,510,4,0,4,7:54 PM,10:21,,,Prince REBOUND (Off:0 Def:2),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,511,6,2,4,7:54 PM,10:10,Theis S.FOUL (P4.T3) (J.Sterling),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,513,3,11,4,7:55 PM,10:10,,,Reid Free Throw 1 of 2 (6 PTS),86 - 107,21,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,514,3,12,4,7:55 PM,10:10,,,MISS Reid Free Throw 2 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,515,4,0,4,7:55 PM,10:10,Nesmith REBOUND (Off:0 Def:3),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,516,1,79,4,7:55 PM,9:55,Brown 25' 3PT Pullup Jump Shot (26 PTS),,,86 - 110,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,517,1,1,4,7:56 PM,9:38,,,Prince 24' 3PT Jump Shot (10 PTS) (Reid 1 AST),89 - 110,21,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,519,2,1,4,7:56 PM,9:22,MISS Pritchard 25' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,520,4,0,4,7:56 PM,9:19,,,Reid REBOUND (Off:1 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,521,2,103,4,7:56 PM,9:13,,,MISS Edwards 27' 3PT Running Pull-Up Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,522,4,0,4,7:56 PM,9:10,Brown REBOUND (Off:1 Def:9),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,523,1,73,4,7:56 PM,8:57,Nesmith 1' Driving Reverse Layup (6 PTS) (White 5 AST),,,89 - 112,23,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,525,1,73,4,7:57 PM,8:32,,,Edwards 2' Driving Reverse Layup (19 PTS),91 - 112,21,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,526,5,6,4,7:57 PM,8:08,White Double Dribble Turnover (P4.T12),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022101116,527,1,63,4,7:58 PM,7:56,,,Edwards 13' Fadeaway Jumper (21 PTS),93 - 112,19,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,528,9,1,4,7:58 PM,7:54,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,529,8,0,4,8:00 PM,7:54,SUB: Tatum FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,530,8,0,4,8:00 PM,7:54,,,SUB: Towns FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,533,1,1,4,8:01 PM,7:35,Pritchard 21' Jump Shot (11 PTS) (Tatum 5 AST),,,93 - 114,21,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,535,5,39,4,8:01 PM,7:19,,,Edwards Step Out of Bounds Turnover (P5.T12),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,536,1,1,4,8:02 PM,7:05,Brown 26' 3PT Jump Shot (29 PTS) (Tatum 6 AST),,,93 - 117,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,538,6,4,4,8:02 PM,6:52,,,Towns OFF.Foul (P4) (B.Taylor),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,540,5,37,4,8:02 PM,6:52,,,Towns Offensive Foul Turnover (P3.T13),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,541,6,4,4,8:02 PM,6:40,Theis OFF.Foul (P5) (B.Taylor),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,543,5,37,4,8:02 PM,6:40,Theis Offensive Foul Turnover (P1.T13),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022101116,544,8,0,4,8:03 PM,6:40,SUB: Williams FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,546,1,9,4,8:03 PM,6:28,,,Towns 2' Driving Dunk (17 PTS) (Edwards 6 AST),95 - 117,22,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,548,2,63,4,8:04 PM,5:59,MISS Brown 20' Fadeaway Jumper,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,549,4,0,4,8:04 PM,5:56,,,Prince REBOUND (Off:0 Def:3),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,550,2,1,4,8:04 PM,5:43,,,MISS Prince 26' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,551,4,0,4,8:04 PM,5:40,White REBOUND (Off:0 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,552,1,5,4,8:04 PM,5:32,Brown 2' Layup (31 PTS) (White 6 AST),,,95 - 119,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,554,1,6,4,8:04 PM,5:17,,,Towns 2' Driving Layup (19 PTS),97 - 119,22,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,555,2,80,4,8:05 PM,4:53,MISS Tatum 28' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,556,4,0,4,8:05 PM,4:49,,,Prince REBOUND (Off:0 Def:4),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,557,1,1,4,8:05 PM,4:44,,,Edwards 24' 3PT Jump Shot (24 PTS),100 - 119,19,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,559,6,2,4,8:05 PM,4:18,,,Nowell S.FOUL (P1.T2) (J.Sterling),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,561,3,11,4,8:06 PM,4:18,White Free Throw 1 of 2 (14 PTS),,,100 - 120,20,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,562,8,0,4,8:06 PM,4:18,SUB: Smart FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,564,3,12,4,8:06 PM,4:18,White Free Throw 2 of 2 (15 PTS),,,100 - 121,21,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,565,9,1,4,8:06 PM,4:18,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101116,566,8,0,4,8:08 PM,4:18,SUB: Pritchard FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,567,8,0,4,8:08 PM,4:18,,,SUB: McLaughlin FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,568,8,0,4,8:08 PM,4:18,,,SUB: Bolmaro FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1630195,Leandro Bolmaro,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,569,8,0,4,8:08 PM,4:18,,,SUB: Layman FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,570,8,0,4,8:08 PM,4:18,,,SUB: Knight FOR Prince,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,571,8,0,4,8:08 PM,4:18,,,SUB: Okogie FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629006,Josh Okogie,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022101116,578,2,1,4,8:09 PM,4:05,,,MISS Layman 28' 3PT Jump Shot,,,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,579,4,0,4,8:09 PM,4:02,Williams REBOUND (Off:0 Def:3),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,580,6,2,4,8:10 PM,3:49,,,Layman S.FOUL (P1.T3) (J.Sterling),,,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022101116,582,3,11,4,8:10 PM,3:49,Tatum Free Throw 1 of 2 (33 PTS),,,100 - 122,22,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,584,8,0,4,8:10 PM,3:49,SUB: Hauser FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,585,8,0,4,8:10 PM,3:49,SUB: Kornet FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,589,3,12,4,8:10 PM,3:49,Tatum Free Throw 2 of 2 (34 PTS),,,100 - 123,23,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,590,6,28,4,8:10 PM,3:44,Tatum Personal Take Foul (P1.T4) (B.Taylor),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022101116,593,8,0,4,8:11 PM,3:44,SUB: Nesmith FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022101116,595,1,6,4,8:11 PM,3:28,,,Knight 3' Driving Layup (2 PTS),102 - 123,21,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,596,2,6,4,8:11 PM,3:15,MISS Pritchard 2' Driving Layup,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,597,4,0,4,8:11 PM,3:14,,,Knight REBOUND (Off:0 Def:1),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,598,2,6,4,8:11 PM,3:10,,,MISS Okogie 3' Driving Layup,,,5,1629006,Josh Okogie,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,599,4,0,4,8:11 PM,3:09,,,Knight REBOUND (Off:1 Def:1),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,602,1,1,4,8:12 PM,2:56,,,Okogie 27' 3PT Jump Shot (3 PTS) (Layman 1 AST),105 - 123,18,5,1629006,Josh Okogie,1610612750.0,Minnesota,Timberwolves,MIN,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,604,1,98,4,8:12 PM,2:31,Williams 1' Cutting Layup Shot (4 PTS) (Nesmith 1 AST),,,105 - 125,20,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,606,1,1,4,8:12 PM,2:17,,,Knight 27' 3PT Jump Shot (5 PTS) (Bolmaro 1 AST),108 - 125,17,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,5,1630195,Leandro Bolmaro,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,608,1,1,4,8:13 PM,1:51,Hauser 25' 3PT Jump Shot (3 PTS) (Pritchard 3 AST),,,108 - 128,20,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,610,2,101,4,8:13 PM,1:36,,,MISS Layman 7' Driving Floating Jump Shot,,,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,611,4,0,4,8:13 PM,1:34,Nesmith REBOUND (Off:0 Def:4),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,612,1,1,4,8:13 PM,1:16,Hauser 3PT Jump Shot (6 PTS) (Pritchard 4 AST),,,108 - 131,23,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,614,5,39,4,8:14 PM,1:04,,,Layman Step Out of Bounds Turnover (P1.T14),,,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022101116,615,1,80,4,8:14 PM,0:46,Williams 24' 3PT Step Back Jump Shot (7 PTS) (Pritchard 5 AST),,,108 - 134,26,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022101116,617,1,79,4,8:14 PM,0:36,,,Bolmaro 14' Pullup Jump Shot (2 PTS),110 - 134,24,5,1630195,Leandro Bolmaro,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,618,2,44,4,8:15 PM,0:21,MISS Kornet 1' Reverse Layup,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022101116,619,4,0,4,8:15 PM,0:19,,,Bolmaro REBOUND (Off:0 Def:1),,,5,1630195,Leandro Bolmaro,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022101116,620,1,50,4,8:15 PM,0:16,,,Layman 2' Running Dunk (2 PTS) (Bolmaro 2 AST),112 - 134,22,5,1627774,Jake Layman,1610612750.0,Minnesota,Timberwolves,MIN,5,1630195,Leandro Bolmaro,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022101116,622,13,0,4,8:15 PM,0:00,,End of 4th Period (8:15 PM EST),,112 - 134,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,440 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300828,2,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,4,10,0,1,7:41 PM,12:00,Jump Ball Hartenstein vs. Duren: Tip to Cunningham,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1
+0022300828,7,5,39,1,7:42 PM,11:46,,,Fontecchio Step Out of Bounds Turnover (P1.T1),,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,8,2,101,1,7:42 PM,11:28,MISS Hart 8' Driving Floating Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,9,4,0,1,7:42 PM,11:26,Achiuwa REBOUND (Off:1 Def:0),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,10,1,72,1,7:42 PM,11:24,Achiuwa 1' Putback Layup (2 PTS),,,0 - 2,2,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,11,1,1,1,7:42 PM,11:11,,,Cunningham 27' 3PT Jump Shot (3 PTS) (Ivey 1 AST),3 - 2,-1,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,13,1,79,1,7:43 PM,10:51,Brunson 10' Pullup Jump Shot (2 PTS) (Hartenstein 1 AST),,,3 - 4,1,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,15,1,85,1,7:43 PM,10:40,,,Thompson 9' Turnaround Bank Shot (2 PTS) (Cunningham 1 AST),5 - 4,-1,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,18,5,45,1,7:43 PM,10:22,Brunson Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300828,19,6,2,1,7:44 PM,10:08,DiVincenzo S.FOUL (P1.T1) (J.DeRosa),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,21,3,11,1,7:44 PM,10:08,,,MISS Thompson Free Throw 1 of 2,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,22,4,1,1,7:44 PM,10:08,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,23,3,12,1,7:44 PM,10:08,,,MISS Thompson Free Throw 2 of 2,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,24,4,0,1,7:44 PM,10:06,Achiuwa REBOUND (Off:1 Def:1),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,25,6,1,1,7:45 PM,10:02,,,Thompson P.FOUL (P1.T1) (S.Mehta),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,27,2,1,1,7:45 PM,9:54,MISS DiVincenzo 26' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,28,4,0,1,7:45 PM,9:52,,,Thompson REBOUND (Off:0 Def:1),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,29,1,6,1,7:45 PM,9:38,,,Fontecchio 2' Driving Layup (2 PTS) (Ivey 2 AST),7 - 4,-3,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,31,1,6,1,7:46 PM,9:21,Brunson 2' Driving Layup (4 PTS),,,7 - 6,-1,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,32,1,79,1,7:46 PM,9:09,,,Cunningham 24' 3PT Pullup Jump Shot (6 PTS),10 - 6,-4,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,33,2,1,1,7:46 PM,8:43,MISS DiVincenzo 27' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,34,4,0,1,7:46 PM,8:41,,,Ivey REBOUND (Off:0 Def:1),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,35,2,41,1,7:46 PM,8:36,,,MISS Ivey 1' Running Layup,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,36,4,0,1,7:46 PM,8:34,,,Duren REBOUND (Off:1 Def:0),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,37,2,97,1,7:46 PM,8:34,,,MISS Duren Tip Layup Shot,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,38,4,0,1,7:46 PM,8:32,Hartenstein REBOUND (Off:0 Def:1),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,39,6,2,1,7:47 PM,8:23,,,Fontecchio S.FOUL (P1.T2) (J.Williams),,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,41,3,11,1,7:47 PM,8:23,Hartenstein Free Throw 1 of 2 (1 PTS),,,10 - 7,-3,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,42,3,12,1,7:47 PM,8:23,Hartenstein Free Throw 2 of 2 (2 PTS),,,10 - 8,-2,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,43,2,101,1,7:48 PM,8:03,,,MISS Ivey 10' Driving Floating Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,44,4,0,1,7:48 PM,8:01,,,Ivey REBOUND (Off:1 Def:1),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,45,1,72,1,7:48 PM,7:59,,,Ivey 1' Putback Layup (2 PTS),12 - 8,-4,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,46,2,1,1,7:48 PM,7:47,MISS Brunson 25' 3PT Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,47,4,0,1,7:48 PM,7:45,,,Fontecchio REBOUND (Off:0 Def:1),,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,48,1,101,1,7:48 PM,7:36,,,Cunningham 11' Driving Floating Jump Shot (8 PTS),14 - 8,-6,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,49,9,1,1,7:48 PM,7:28,KNICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,50,1,79,1,7:52 PM,7:17,Brunson 13' Pullup Jump Shot (6 PTS) (DiVincenzo 1 AST),,,14 - 10,-4,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,52,2,6,1,7:52 PM,7:02,Achiuwa BLOCK (1 BLK),,MISS Duren 4' Driving Layup,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,1
+0022300828,54,4,0,1,7:52 PM,7:01,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,56,5,1,1,7:52 PM,6:40,Hartenstein Bad Pass Turnover (P1.T2),,Ivey STEAL (1 STL),,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,58,2,103,1,7:52 PM,6:35,,,MISS Ivey 25' 3PT Running Pull-Up Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,59,4,0,1,7:52 PM,6:33,,,Duren REBOUND (Off:2 Def:0),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,60,1,1,1,7:52 PM,6:31,,,Ivey 25' 3PT Jump Shot (5 PTS) (Thompson 1 AST),17 - 10,-7,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,62,1,79,1,7:53 PM,6:05,Brunson 28' 3PT Pullup Jump Shot (9 PTS),,,17 - 13,-4,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,63,2,6,1,7:53 PM,5:51,,,MISS Ivey 1' Driving Layup,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,64,4,0,1,7:53 PM,5:49,,,Cunningham REBOUND (Off:1 Def:0),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,65,2,1,1,7:53 PM,5:39,,,MISS Thompson 26' 3PT Jump Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,66,4,0,1,7:53 PM,5:36,Hartenstein REBOUND (Off:0 Def:2),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,67,1,2,1,7:53 PM,5:30,Brunson 26' 3PT Running Jump Shot (12 PTS) (DiVincenzo 2 AST),,,17 - 16,-1,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,69,6,2,1,7:54 PM,5:22,Brunson S.FOUL (P1.T2) (J.DeRosa),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,71,3,11,1,7:54 PM,5:22,,,Ivey Free Throw 1 of 2 (6 PTS),18 - 16,-2,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,72,8,0,1,7:54 PM,5:22,SUB: Sims FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,74,3,12,1,7:55 PM,5:22,,,Ivey Free Throw 2 of 2 (7 PTS),19 - 16,-3,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,75,2,79,1,7:55 PM,5:12,MISS Brunson 25' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,76,4,0,1,7:55 PM,5:10,,,Duren REBOUND (Off:2 Def:1),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,77,2,1,1,7:55 PM,5:04,,,MISS Ivey 28' 3PT Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,78,4,0,1,7:55 PM,5:03,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,80,8,0,1,7:55 PM,5:03,,,SUB: Grimes FOR Ivey,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,82,2,5,1,7:56 PM,4:50,MISS Sims 4' Layup,,Duren BLOCK (1 BLK),,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,1
+0022300828,84,4,0,1,7:56 PM,4:49,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,86,2,101,1,7:56 PM,4:45,MISS Brunson 9' Driving Floating Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,87,4,0,1,7:56 PM,4:43,Sims REBOUND (Off:1 Def:0),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,88,2,1,1,7:56 PM,4:36,MISS Hart 26' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,89,4,0,1,7:56 PM,4:34,Achiuwa REBOUND (Off:2 Def:1),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,90,2,101,1,7:56 PM,4:31,MISS Hart 5' Driving Floating Jump Shot,,Grimes BLOCK (1 BLK),,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,1
+0022300828,92,4,0,1,7:56 PM,4:30,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,94,1,75,1,7:57 PM,4:25,DiVincenzo 2' Driving Finger Roll Layup (2 PTS) (Brunson 1 AST),,,19 - 18,-1,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,96,2,78,1,7:57 PM,4:12,,,MISS Duren 3' Floating Jump Shot,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,97,4,0,1,7:57 PM,4:10,Achiuwa REBOUND (Off:2 Def:2),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,98,2,41,1,7:57 PM,4:05,MISS Hart Running Layup,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,99,4,0,1,7:57 PM,4:03,Sims REBOUND (Off:2 Def:0),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,100,1,44,1,7:57 PM,4:02,Hart 1' Reverse Layup (2 PTS) (Sims 1 AST),,,19 - 20,1,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,102,9,1,1,7:57 PM,4:02,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,111,8,0,1,7:57 PM,4:02,,,SUB: Wiseman FOR Duren,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,113,5,1,1,8:00 PM,3:50,DiVincenzo STEAL (1 STL),,Cunningham Bad Pass Turnover (P1.T2),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,115,1,6,1,8:00 PM,3:38,Hart 2' Driving Layup (4 PTS) (DiVincenzo 3 AST),,,19 - 22,3,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,117,1,6,1,8:01 PM,3:27,,,Cunningham 1' Driving Layup (10 PTS),21 - 22,1,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,118,2,1,1,8:01 PM,3:02,MISS Hart 16' Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,119,4,0,1,8:01 PM,3:00,,,Wiseman REBOUND (Off:0 Def:1),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,120,1,7,1,8:01 PM,2:50,,,Wiseman 1' Dunk (2 PTS) (Cunningham 2 AST),23 - 22,-1,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,122,9,1,1,8:01 PM,2:40,KNICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,123,8,0,1,8:01 PM,2:40,SUB: Burks FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,124,8,0,1,8:01 PM,2:40,,,SUB: Fournier FOR Cunningham,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,125,8,0,1,8:01 PM,2:40,,,SUB: Flynn FOR Thompson,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,129,7,1,1,8:03 PM,2:40,KNICKS Violation: Delay of game Violation,,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300828,130,2,6,1,8:04 PM,2:26,MISS Hart 2' Driving Layup,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,131,4,0,1,8:04 PM,2:24,Achiuwa REBOUND (Off:3 Def:2),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,132,2,97,1,8:04 PM,2:24,MISS Achiuwa Tip Layup Shot,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,133,4,0,1,8:04 PM,2:23,Sims REBOUND (Off:3 Def:0),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,134,1,1,1,8:04 PM,2:22,Burks 25' 3PT Jump Shot (3 PTS) (Sims 2 AST),,,23 - 25,2,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,136,6,4,1,8:04 PM,2:04,,,Wiseman OFF.Foul (P1) (S.Mehta),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,138,5,37,1,8:04 PM,2:04,,,Wiseman Offensive Foul Turnover (P1.T3),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,139,8,0,1,8:04 PM,2:04,SUB: Bogdanovic FOR Hart,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,141,8,0,1,8:04 PM,2:04,,,SUB: Evbuomwan FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,143,1,80,1,8:05 PM,1:47,Brunson 12' Step Back Jump Shot (14 PTS),,,23 - 27,4,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,144,2,1,1,8:05 PM,1:27,,,MISS Flynn 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,145,4,0,1,8:05 PM,1:25,Achiuwa REBOUND (Off:3 Def:3),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,146,5,4,1,8:06 PM,1:17,Achiuwa Traveling Turnover (P1.T3),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300828,147,5,1,1,8:06 PM,0:59,Burks STEAL (1 STL),,Fournier Bad Pass Turnover (P1.T4),,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,149,1,101,1,8:06 PM,0:54,Burks 13' Driving Floating Jump Shot (5 PTS) (Brunson 2 AST),,,23 - 29,6,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,151,6,2,1,8:06 PM,0:54,,,Flynn S.FOUL (P1.T3) (J.DeRosa),,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,153,3,10,1,8:07 PM,0:54,MISS Burks Free Throw 1 of 1,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,154,4,0,1,8:07 PM,0:52,,,Wiseman REBOUND (Off:0 Def:2),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,155,1,101,1,8:07 PM,0:30,,,Evbuomwan 5' Driving Floating Jump Shot (2 PTS) (Grimes 1 AST),25 - 29,4,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,157,2,6,1,8:07 PM,0:14,MISS Brunson 3' Driving Layup,,Grimes BLOCK (2 BLK),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,1
+0022300828,159,4,0,1,8:07 PM,0:12,,,Flynn REBOUND (Off:0 Def:1),,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,160,1,101,1,8:08 PM,0:01,,,Flynn 6' Driving Floating Jump Shot (2 PTS),27 - 29,2,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,161,13,0,1,8:08 PM,0:00,,End of 1st Period (8:08 PM EST),,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,162,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,163,5,2,2,8:11 PM,11:38,Bogdanovic Lost Ball Turnover (P1.T4),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,164,6,3,2,8:11 PM,11:38,Bogdanovic L.B.FOUL (P1.T1) (S.Mehta),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,166,5,4,2,8:11 PM,11:33,,,Grimes Traveling Turnover (P1.T5),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,167,1,1,2,8:11 PM,11:22,Bogdanovic 27' 3PT Jump Shot (3 PTS) (Brunson 3 AST),,,27 - 32,5,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,169,2,1,2,8:12 PM,11:06,,,MISS Grimes 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,170,4,0,2,8:12 PM,11:03,Sims REBOUND (Off:3 Def:1),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,171,1,6,2,8:12 PM,10:53,Burks 1' Driving Layup (7 PTS),,,27 - 34,7,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,172,2,75,2,8:12 PM,10:39,,,MISS Wiseman 2' Driving Finger Roll Layup,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,173,4,0,2,8:12 PM,10:37,Achiuwa REBOUND (Off:3 Def:4),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,174,6,26,2,8:12 PM,10:32,Achiuwa Offensive Charge Foul (P1) (S.Mehta),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,176,5,37,2,8:12 PM,10:32,Achiuwa Offensive Foul Turnover (P2.T5),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300828,177,8,0,2,8:12 PM,10:32,SUB: McBride FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,178,8,0,2,8:12 PM,10:32,SUB: Hart FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,189,8,0,2,8:12 PM,10:32,SUB: Hartenstein FOR Sims,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,183,2,6,2,8:13 PM,10:25,,,MISS Grimes 2' Driving Layup,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,184,4,0,2,8:13 PM,10:23,,,Wiseman REBOUND (Off:1 Def:2),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,185,2,97,2,8:13 PM,10:23,,,MISS Wiseman Tip Layup Shot,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,186,4,0,2,8:13 PM,10:21,Hartenstein REBOUND (Off:0 Def:3),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,187,2,1,2,8:13 PM,10:15,MISS Bogdanovic 3PT Jump Shot,,Grimes BLOCK (3 BLK),,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,1
+0022300828,190,4,0,2,8:13 PM,10:14,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,192,2,79,2,8:13 PM,10:09,MISS Burks 12' Pullup Jump Shot,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,193,4,0,2,8:13 PM,10:07,Hartenstein REBOUND (Off:1 Def:3),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,194,2,1,2,8:14 PM,10:05,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,195,4,0,2,8:14 PM,10:03,,,Wiseman REBOUND (Off:1 Def:3),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,196,2,1,2,8:14 PM,9:46,,,MISS Grimes 25' 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,197,4,0,2,8:14 PM,9:44,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,198,1,50,2,8:14 PM,9:41,Bogdanovic 1' Running Dunk (5 PTS) (Hart 1 AST),,,27 - 36,9,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,200,5,2,2,8:14 PM,9:24,Hart STEAL (1 STL),,Grimes Lost Ball Turnover (P2.T6),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,202,2,2,2,8:14 PM,9:18,MISS Burks 24' 3PT Running Jump Shot,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,203,4,0,2,8:14 PM,9:16,Hart REBOUND (Off:1 Def:1),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,204,1,47,2,8:14 PM,9:06,Hart 5' Turnaround Jump Shot (6 PTS) (Hartenstein 2 AST),,,27 - 38,11,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,206,9,1,2,8:15 PM,9:04,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,207,8,0,2,8:15 PM,9:04,,,SUB: Ivey FOR Grimes,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,209,6,2,2,8:18 PM,8:43,Hartenstein S.FOUL (P1.T2) (S.Mehta),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0022300828,211,3,11,2,8:18 PM,8:43,,,Ivey Free Throw 1 of 2 (8 PTS),28 - 38,10,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022300828,212,8,0,2,8:18 PM,8:43,,,SUB: Thompson FOR Evbuomwan,,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,214,3,12,2,8:19 PM,8:43,,,Ivey Free Throw 2 of 2 (9 PTS),29 - 38,9,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022300828,215,1,80,2,8:19 PM,8:32,Bogdanovic 26' 3PT Step Back Jump Shot (8 PTS) (Burks 1 AST),,,29 - 41,12,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,217,1,6,2,8:19 PM,8:18,,,Fournier 1' Driving Layup (2 PTS) (Flynn 1 AST),31 - 41,10,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,219,2,1,2,8:19 PM,8:00,MISS McBride 3PT Jump Shot,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,220,4,0,2,8:19 PM,7:58,,,Thompson REBOUND (Off:0 Def:2),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,221,1,80,2,8:20 PM,7:51,,,Flynn 25' 3PT Step Back Jump Shot (5 PTS),34 - 41,7,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,222,2,101,2,8:20 PM,7:33,MISS Burks 14' Driving Floating Jump Shot,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,223,4,0,2,8:20 PM,7:31,Burks REBOUND (Off:1 Def:0),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,224,2,72,2,8:20 PM,7:31,MISS Burks Putback Layup,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,225,4,0,2,8:20 PM,7:29,Hartenstein REBOUND (Off:2 Def:3),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,226,2,97,2,8:20 PM,7:29,MISS Hartenstein Tip Layup Shot,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,227,4,0,2,8:20 PM,7:27,,,Thompson REBOUND (Off:0 Def:3),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,228,5,40,2,8:20 PM,7:13,,,Ivey Out of Bounds Lost Ball Turnover (P1.T7),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,229,8,0,2,8:20 PM,7:13,,,SUB: Cunningham FOR Flynn,,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,231,1,79,2,8:21 PM,6:59,McBride 9' Pullup Jump Shot (2 PTS),,,34 - 43,9,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,232,5,39,2,8:21 PM,6:50,,,Cunningham Step Out of Bounds Turnover (P2.T8),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,233,8,0,2,8:21 PM,6:50,,,SUB: Fontecchio FOR Wiseman,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,234,8,0,2,8:21 PM,6:50,,,SUB: Duren FOR Fournier,,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,237,2,79,2,8:22 PM,6:32,MISS Bogdanovic 27' 3PT Pullup Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,238,4,0,2,8:22 PM,6:29,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,240,1,79,2,8:22 PM,6:14,Hart 25' 3PT Pullup Jump Shot (9 PTS) (Hartenstein 3 AST),,,34 - 46,12,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,242,6,2,2,8:22 PM,6:05,Hartenstein S.FOUL (P2.T3) (J.DeRosa),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,244,3,11,2,8:23 PM,6:05,,,Duren Free Throw 1 of 2 (1 PTS),35 - 46,11,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,245,8,0,2,8:23 PM,6:05,SUB: DiVincenzo FOR Burks,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,247,3,12,2,8:23 PM,6:05,,,Duren Free Throw 2 of 2 (2 PTS),36 - 46,10,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,248,6,2,2,8:24 PM,5:50,,,Thompson S.FOUL (P2.T1) (J.DeRosa),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,250,3,11,2,8:24 PM,5:50,Hart Free Throw 1 of 2 (10 PTS),,,36 - 47,11,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022300828,251,3,12,2,8:24 PM,5:50,Hart Free Throw 2 of 2 (11 PTS),,,36 - 48,12,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,252,1,1,2,8:25 PM,5:38,,,Fontecchio 3PT Jump Shot (5 PTS) (Duren 1 AST),39 - 48,9,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,254,1,7,2,8:25 PM,5:11,Hartenstein 1' Dunk (4 PTS) (Bogdanovic 1 AST),,,39 - 50,11,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,256,1,79,2,8:25 PM,4:59,,,Cunningham 14' Pullup Jump Shot (12 PTS) (Duren 2 AST),41 - 50,9,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,258,5,1,2,8:25 PM,4:53,Hart Bad Pass Turnover (P1.T6),,Thompson STEAL (1 STL),,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,260,5,45,2,8:25 PM,4:45,,,Thompson Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,261,8,0,2,8:25 PM,4:45,SUB: Brunson FOR McBride,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,263,2,79,2,8:26 PM,4:33,MISS Hart 25' 3PT Pullup Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,264,4,0,2,8:26 PM,4:31,,,Duren REBOUND (Off:2 Def:2),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,265,2,6,2,8:26 PM,4:15,,,MISS Duren 5' Driving Layup,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,266,4,0,2,8:26 PM,4:13,Hart REBOUND (Off:1 Def:2),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,267,2,101,2,8:26 PM,4:07,MISS Brunson 7' Driving Floating Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,268,4,0,2,8:26 PM,4:06,,,Cunningham REBOUND (Off:1 Def:1),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,269,1,50,2,8:27 PM,4:02,,,Thompson 1' Running Dunk (4 PTS) (Cunningham 3 AST),43 - 50,7,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,271,9,1,2,8:27 PM,3:54,KNICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,272,8,0,2,8:27 PM,3:54,SUB: Achiuwa FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,274,2,6,2,8:30 PM,3:43,MISS Achiuwa 3' Driving Layup,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,275,4,0,2,8:30 PM,3:41,,,Fontecchio REBOUND (Off:0 Def:2),,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,276,6,2,2,8:30 PM,3:26,Bogdanovic S.FOUL (P2.T4) (S.Mehta),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,278,3,13,2,8:31 PM,3:26,,,Cunningham Free Throw 1 of 3 (13 PTS),44 - 50,6,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,279,3,14,2,8:31 PM,3:26,,,Cunningham Free Throw 2 of 3 (14 PTS),45 - 50,5,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022300828,280,3,15,2,8:31 PM,3:26,,,Cunningham Free Throw 3 of 3 (15 PTS),46 - 50,4,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,281,2,5,2,8:32 PM,3:02,MISS Achiuwa 1' Layup,,Cunningham BLOCK (1 BLK),,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1
+0022300828,283,4,0,2,8:32 PM,3:00,,,Thompson REBOUND (Off:0 Def:4),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,284,1,41,2,8:32 PM,2:59,,,Fontecchio 1' Running Layup (7 PTS) (Thompson 2 AST),48 - 50,2,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,286,2,75,2,8:32 PM,2:37,MISS Brunson 1' Driving Finger Roll Layup,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,287,4,0,2,8:32 PM,2:36,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,289,8,0,2,8:32 PM,2:36,SUB: Sims FOR Bogdanovic,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,496,5,1,2,8:32 PM,2:32,DiVincenzo Bad Pass Turnover (P1.T7),,Thompson STEAL (2 STL),,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,514,5,1,2,8:32 PM,2:29,Brunson STEAL (1 STL),,Thompson Bad Pass Turnover (P2.T10),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,291,1,1,2,8:33 PM,2:24,DiVincenzo 3PT Jump Shot (5 PTS) (Achiuwa 1 AST),,,48 - 53,5,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,293,1,80,2,8:33 PM,2:13,,,Cunningham 25' 3PT Step Back Jump Shot (18 PTS),51 - 53,2,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,294,2,47,2,8:33 PM,1:55,MISS Brunson 10' Turnaround Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,295,4,0,2,8:33 PM,1:53,,,Duren REBOUND (Off:2 Def:3),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,296,6,1,2,8:33 PM,1:52,Achiuwa P.FOUL (P2.PN) (S.Mehta),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,298,3,11,2,8:34 PM,1:52,,,Cunningham Free Throw 1 of 2 (19 PTS),52 - 53,1,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,299,3,12,2,8:34 PM,1:52,,,Cunningham Free Throw 2 of 2 (20 PTS),53 - 53,TIE,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,300,1,1,2,8:34 PM,1:36,DiVincenzo 27' 3PT Jump Shot (8 PTS) (Brunson 4 AST),,,53 - 56,3,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,302,1,52,2,8:34 PM,1:18,,,Duren Alley Oop Dunk (4 PTS) (Cunningham 4 AST),55 - 56,1,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,304,2,1,2,8:35 PM,1:03,MISS DiVincenzo 25' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,305,4,0,2,8:35 PM,1:01,Sims REBOUND (Off:4 Def:1),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,306,1,101,2,8:35 PM,0:57,Brunson 6' Driving Floating Jump Shot (16 PTS) (Hart 2 AST),,,55 - 58,3,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,308,6,2,2,8:35 PM,0:57,,,Duren S.FOUL (P1.T2) (S.Mehta),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,310,3,10,2,8:35 PM,0:57,Brunson Free Throw 1 of 1 (17 PTS),,,55 - 59,4,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,311,2,1,2,8:36 PM,0:40,,,MISS Fontecchio 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,312,4,0,2,8:36 PM,0:37,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,313,2,101,2,8:36 PM,0:30,MISS Brunson 12' Driving Floating Jump Shot,,Cunningham BLOCK (2 BLK),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1
+0022300828,315,4,0,2,8:36 PM,0:28,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,317,1,1,2,8:36 PM,0:21,Hart 26' 3PT Jump Shot (14 PTS) (Brunson 5 AST),,,55 - 62,7,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,319,1,1,2,8:37 PM,0:03,,,Fontecchio 26' 3PT Jump Shot (10 PTS) (Cunningham 5 AST),58 - 62,4,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,321,5,1,2,8:37 PM,0:00,Sims Bad Pass Turnover (P1.T8),,Duren STEAL (1 STL),,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,323,2,6,2,8:37 PM,0:00,,,MISS Duren 1' Driving Layup,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,324,4,0,2,8:37 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,325,13,0,2,8:37 PM,0:00,,End of 2nd Period (8:37 PM EST),,58 - 62,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,328,12,0,3,8:52 PM,12:00,,Start of 3rd Period (8:52 PM EST),,58 - 62,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,329,1,98,3,8:53 PM,11:39,DiVincenzo 1' Cutting Layup Shot (10 PTS) (Brunson 6 AST),,,58 - 64,6,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,331,2,1,3,8:53 PM,11:21,,,MISS Fontecchio 25' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,332,4,0,3,8:53 PM,11:19,Achiuwa REBOUND (Off:3 Def:5),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,333,1,5,3,8:53 PM,11:08,Hartenstein 1' Layup (6 PTS) (Brunson 7 AST),,,58 - 66,8,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,335,6,2,3,8:53 PM,11:00,Brunson S.FOUL (P2.T1) (J.Williams),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,337,3,11,3,8:54 PM,11:00,,,Cunningham Free Throw 1 of 2 (21 PTS),59 - 66,7,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,338,3,12,3,8:54 PM,11:00,,,MISS Cunningham Free Throw 2 of 2,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,339,4,0,3,8:54 PM,10:58,Achiuwa REBOUND (Off:3 Def:6),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,340,2,1,3,8:55 PM,10:42,MISS Brunson 25' 3PT Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,341,4,0,3,8:55 PM,10:40,,,Duren REBOUND (Off:2 Def:4),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,342,2,41,3,8:55 PM,10:35,Hart BLOCK (1 BLK),,MISS Ivey 1' Running Layup,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1
+0022300828,344,4,0,3,8:55 PM,10:33,Hartenstein REBOUND (Off:2 Def:4),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,345,1,1,3,8:55 PM,10:27,DiVincenzo 25' 3PT Jump Shot (13 PTS) (Hart 3 AST),,,59 - 69,10,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,347,1,79,3,8:55 PM,10:09,,,Cunningham 18' Pullup Jump Shot (23 PTS),61 - 69,8,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,348,2,78,3,8:55 PM,9:47,MISS Hartenstein 10' Floating Jump Shot,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,349,4,0,3,8:55 PM,9:45,,,Cunningham REBOUND (Off:1 Def:2),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,350,2,1,3,8:56 PM,9:37,,,MISS Cunningham 26' 3PT Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,351,4,0,3,8:56 PM,9:35,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,352,6,2,3,8:56 PM,9:31,,,Cunningham S.FOUL (P1.T1) (J.Williams),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,354,3,11,3,8:56 PM,9:31,Brunson Free Throw 1 of 2 (18 PTS),,,61 - 70,9,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,355,3,12,3,8:56 PM,9:31,MISS Brunson Free Throw 2 of 2,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,356,4,0,3,8:56 PM,9:29,,,Duren REBOUND (Off:2 Def:5),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,357,5,1,3,8:57 PM,9:19,Achiuwa STEAL (1 STL),,Cunningham Bad Pass Turnover (P3.T11),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,359,2,2,3,8:57 PM,9:12,MISS DiVincenzo 27' 3PT Running Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,360,4,0,3,8:57 PM,9:10,,,Duren REBOUND (Off:2 Def:6),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,361,1,76,3,8:57 PM,9:04,,,Cunningham 4' Running Finger Roll Layup (25 PTS) (Duren 3 AST),63 - 70,7,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,363,6,2,3,8:57 PM,8:42,,,Ivey S.FOUL (P1.T2) (J.DeRosa),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,365,3,11,3,8:58 PM,8:42,Brunson Free Throw 1 of 2 (19 PTS),,,63 - 71,8,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,366,3,12,3,8:58 PM,8:42,Brunson Free Throw 2 of 2 (20 PTS),,,63 - 72,9,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,367,6,2,3,8:59 PM,8:34,Brunson S.FOUL (P3.T2) (J.DeRosa),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,369,3,11,3,8:59 PM,8:34,,,Ivey Free Throw 1 of 2 (10 PTS),64 - 72,8,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,370,3,12,3,9:00 PM,8:34,,,Ivey Free Throw 2 of 2 (11 PTS),65 - 72,7,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,371,1,1,3,9:00 PM,8:13,DiVincenzo 25' 3PT Jump Shot (16 PTS) (Brunson 8 AST),,,65 - 75,10,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,373,6,18,3,9:00 PM,8:09,KNICKS Delay,,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300828,374,3,16,3,9:01 PM,8:09,,,Cunningham Free Throw Technical (26 PTS),66 - 75,9,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,375,2,101,3,9:01 PM,8:00,,,MISS Fontecchio 9' Driving Floating Jump Shot,,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,376,4,0,3,9:01 PM,7:58,,,Duren REBOUND (Off:3 Def:6),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,377,1,72,3,9:01 PM,7:55,,,Duren 2' Putback Layup (6 PTS),68 - 75,7,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,378,2,3,3,9:01 PM,7:32,MISS Hartenstein 2' Hook Shot,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,379,4,0,3,9:01 PM,7:29,,,Duren REBOUND (Off:3 Def:7),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,380,1,2,3,9:02 PM,7:27,,,Ivey 2' Running Jump Shot (13 PTS),70 - 75,5,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,381,6,2,3,9:02 PM,7:27,Hart S.FOUL (P1.T3) (J.Williams),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,383,3,10,3,9:02 PM,7:27,,,Ivey Free Throw 1 of 1 (14 PTS),71 - 75,4,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,384,1,80,3,9:03 PM,7:14,Brunson 26' 3PT Step Back Jump Shot (23 PTS),,,71 - 78,7,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,385,5,39,3,9:03 PM,6:59,,,Cunningham Step Out of Bounds Turnover (P4.T12),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,386,9,1,3,9:03 PM,6:59,KNICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,388,6,11,3,9:03 PM,6:59,,,Cunningham T.FOUL (P1.T2) (S.Mehta),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0022300828,389,3,16,3,9:06 PM,6:59,Brunson Free Throw Technical (24 PTS),,,71 - 79,8,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,390,1,1,3,9:07 PM,6:46,Hart 3PT Jump Shot (17 PTS) (Brunson 9 AST),,,71 - 82,11,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,392,2,1,3,9:07 PM,6:28,,,MISS Thompson 3PT Jump Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,393,4,0,3,9:07 PM,6:26,Brunson REBOUND (Off:0 Def:1),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,394,2,2,3,9:07 PM,6:19,MISS Brunson 28' 3PT Running Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,395,4,0,3,9:07 PM,6:17,,,Duren REBOUND (Off:3 Def:8),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,397,1,102,3,9:07 PM,5:58,,,Fontecchio 5' Driving Floating Bank Jump Shot (12 PTS) (Duren 4 AST),73 - 82,9,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,399,2,1,3,9:08 PM,5:46,MISS DiVincenzo 24' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,400,4,0,3,9:08 PM,5:44,,,Duren REBOUND (Off:3 Def:9),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,401,2,1,3,9:08 PM,5:36,,,MISS Ivey 25' 3PT Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,402,4,0,3,9:08 PM,5:34,Hart REBOUND (Off:1 Def:3),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,403,1,78,3,9:08 PM,5:14,Brunson 2' Floating Jump Shot (26 PTS) (Hart 4 AST),,,73 - 84,11,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,405,2,6,3,9:08 PM,4:57,,,MISS Cunningham 1' Driving Layup,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,406,4,0,3,9:09 PM,4:55,Hart REBOUND (Off:1 Def:4),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,407,1,101,3,9:09 PM,4:47,DiVincenzo 3' Driving Floating Jump Shot (18 PTS) (Hartenstein 4 AST),,,73 - 86,13,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,409,1,1,3,9:09 PM,4:20,,,Cunningham 26' 3PT Jump Shot (29 PTS) (Ivey 3 AST),76 - 86,10,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,411,2,1,3,9:09 PM,4:01,MISS Achiuwa 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,412,4,0,3,9:09 PM,3:59,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,414,6,3,3,9:10 PM,3:59,Hart L.B.FOUL (P2.T4) (J.DeRosa),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,416,8,0,3,9:10 PM,3:59,SUB: Sims FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,417,8,0,3,9:10 PM,3:59,,,SUB: Fournier FOR Thompson,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,418,8,0,3,9:10 PM,3:59,,,SUB: Grimes FOR Ivey,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,422,2,102,3,9:10 PM,3:44,,,MISS Cunningham 6' Driving Floating Bank Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,423,4,0,3,9:10 PM,3:42,,,Duren REBOUND (Off:4 Def:9),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,424,2,97,3,9:10 PM,3:41,,,MISS Duren Tip Layup Shot,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,425,4,0,3,9:10 PM,3:40,,,Cunningham REBOUND (Off:2 Def:2),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,426,6,2,3,9:10 PM,3:39,Achiuwa S.FOUL (P3.PN) (J.DeRosa),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,428,3,11,3,9:11 PM,3:39,,,Duren Free Throw 1 of 2 (7 PTS),77 - 86,9,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,429,3,12,3,9:11 PM,3:39,,,MISS Duren Free Throw 2 of 2,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,430,4,0,3,9:11 PM,3:37,Sims REBOUND (Off:4 Def:2),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,431,1,7,3,9:11 PM,3:22,Sims Dunk (2 PTS) (Hart 5 AST),,,77 - 88,11,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,433,1,80,3,9:12 PM,3:06,,,Cunningham 3PT Step Back Jump Shot (32 PTS),80 - 88,8,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,435,9,1,3,9:12 PM,2:58,,,Pistons Timeout: Regular (Reg.3 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,436,8,0,3,9:12 PM,2:58,SUB: Burks FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,437,8,0,3,9:12 PM,2:58,,,SUB: Wiseman FOR Duren,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,440,6,2,3,9:15 PM,2:45,,,Grimes S.FOUL (P1.T3) (J.Williams),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,442,3,11,3,9:16 PM,2:45,Brunson Free Throw 1 of 2 (27 PTS),,,80 - 89,9,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,443,3,12,3,9:16 PM,2:45,Brunson Free Throw 2 of 2 (28 PTS),,,80 - 90,10,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,444,2,1,3,9:16 PM,2:32,Achiuwa BLOCK (2 BLK),,MISS Fontecchio 24' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,1
+0022300828,446,4,0,3,9:16 PM,2:31,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,448,8,0,3,9:16 PM,2:31,SUB: Bogdanovic FOR Hart,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,450,1,79,3,9:17 PM,2:24,,,Fournier 21' Pullup Jump Shot (4 PTS) (Wiseman 1 AST),82 - 90,8,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,452,2,79,3,9:17 PM,2:09,MISS Brunson 15' Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,453,4,0,3,9:17 PM,2:07,,,Wiseman REBOUND (Off:1 Def:4),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,454,2,79,3,9:17 PM,1:55,,,MISS Cunningham 10' Pullup Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,455,4,0,3,9:17 PM,1:53,Achiuwa REBOUND (Off:3 Def:7),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,456,1,103,3,9:17 PM,1:46,Bogdanovic 17' Running Pull-Up Jump Shot (10 PTS) (Brunson 10 AST),,,82 - 92,10,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,458,5,1,3,9:18 PM,1:32,Achiuwa STEAL (2 STL),,Fournier Bad Pass Turnover (P2.T13),,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,460,2,2,3,9:18 PM,1:26,MISS Burks 3PT Running Jump Shot,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,461,4,0,3,9:18 PM,1:24,,,Fontecchio REBOUND (Off:0 Def:3),,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,462,1,5,3,9:18 PM,1:16,,,Wiseman 2' Layup (4 PTS) (Cunningham 6 AST),84 - 92,8,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,464,5,2,3,9:18 PM,0:51,Burks Lost Ball Turnover (P1.T9),,Wiseman STEAL (1 STL),,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,466,2,79,3,9:19 PM,0:34,,,MISS Cunningham 26' 3PT Pullup Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,467,4,0,3,9:19 PM,0:32,Bogdanovic REBOUND (Off:0 Def:1),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,468,5,40,3,9:19 PM,0:10,Brunson Out of Bounds Lost Ball Turnover (P2.T10),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300828,469,8,0,3,9:19 PM,0:10,SUB: McBride FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,471,2,6,3,9:20 PM,0:02,,,MISS Cunningham 2' Driving Layup,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,472,4,0,3,9:20 PM,0:01,Bogdanovic REBOUND (Off:0 Def:2),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,473,13,0,3,9:20 PM,0:00,,End of 3rd Period (9:20 PM EST),,84 - 92,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,480,12,0,4,9:22 PM,12:00,,Start of 4th Period (9:22 PM EST),,84 - 92,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,481,1,1,4,9:23 PM,11:42,,,Grimes 25' 3PT Jump Shot (3 PTS) (Flynn 2 AST),87 - 92,5,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,483,5,2,4,9:23 PM,11:30,Burks Lost Ball Turnover (P2.T11),,Grimes STEAL (1 STL),,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,485,6,1,4,9:23 PM,11:30,Burks P.FOUL (P1.T1) (J.Williams),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,487,1,6,4,9:24 PM,11:14,,,Flynn Driving Layup (7 PTS),89 - 92,3,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,488,2,47,4,9:24 PM,10:56,MISS Bogdanovic 9' Turnaround Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,489,4,0,4,9:24 PM,10:55,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,491,2,6,4,9:25 PM,10:41,,,MISS Flynn 2' Driving Layup,,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,492,4,0,4,9:25 PM,10:39,Bogdanovic REBOUND (Off:0 Def:3),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,495,1,80,4,9:25 PM,10:18,Hart 15' Step Back Jump Shot (19 PTS),,,89 - 94,5,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,498,2,80,4,9:25 PM,9:52,,,MISS Grimes 24' 3PT Step Back Jump Shot,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,499,4,0,4,9:25 PM,9:50,Bogdanovic REBOUND (Off:0 Def:4),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,500,2,6,4,9:26 PM,9:40,MISS Burks 4' Driving Layup,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,501,4,0,4,9:26 PM,9:38,,,Flynn REBOUND (Off:0 Def:2),,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,502,2,41,4,9:26 PM,9:34,,,MISS Flynn 2' Running Layup,,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,503,4,0,4,9:26 PM,9:33,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,505,8,0,4,9:26 PM,9:33,SUB: Brunson FOR Burks,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,506,8,0,4,9:26 PM,9:33,,,SUB: Thompson FOR Evbuomwan,,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,509,2,63,4,9:26 PM,9:31,,,MISS Fournier 3PT Fadeaway Jumper,,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,510,4,0,4,9:26 PM,9:29,Bogdanovic REBOUND (Off:0 Def:5),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,511,6,2,4,9:26 PM,9:14,,,Fournier S.FOUL (P1.T1) (J.DeRosa),,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,513,6,11,4,9:27 PM,9:14,,,Fournier T.FOUL (P1.T1) (J.DeRosa),,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,516,3,16,4,9:27 PM,9:14,Brunson Free Throw Technical (29 PTS),,,89 - 95,6,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,517,3,11,4,9:28 PM,9:14,Brunson Free Throw 1 of 2 (30 PTS),,,89 - 96,7,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,518,3,12,4,9:28 PM,9:14,Brunson Free Throw 2 of 2 (31 PTS),,,89 - 97,8,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,519,2,1,4,9:28 PM,8:55,,,MISS Fournier 3PT Jump Shot,,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,520,4,0,4,9:28 PM,8:53,,,Wiseman REBOUND (Off:2 Def:4),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,521,6,2,4,9:28 PM,8:49,McBride S.FOUL (P1.T2) (J.DeRosa),,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,523,3,11,4,9:29 PM,8:49,,,MISS Flynn Free Throw 1 of 2,,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022300828,524,4,1,4,9:29 PM,8:49,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,525,3,12,4,9:29 PM,8:49,,,Flynn Free Throw 2 of 2 (8 PTS),90 - 97,7,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022300828,526,5,2,4,9:29 PM,8:30,Brunson Lost Ball Turnover (P3.T12),,Fournier STEAL (1 STL),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,528,5,15,4,9:29 PM,8:25,,,Thompson Offensive Goaltending Turnover (P3.T14),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022300828,529,2,1,4,9:30 PM,8:05,MISS Bogdanovic 3PT Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,530,4,0,4,9:30 PM,8:03,,,Flynn REBOUND (Off:0 Def:3),,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,531,1,1,4,9:30 PM,7:40,,,Grimes 27' 3PT Jump Shot (6 PTS) (Fournier 1 AST),93 - 97,4,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,533,6,2,4,9:31 PM,7:30,,,Grimes S.FOUL (P2.T2) (S.Mehta),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,535,3,11,4,9:31 PM,7:30,Hart Free Throw 1 of 2 (20 PTS),,,93 - 98,5,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,536,8,0,4,9:31 PM,7:30,SUB: DiVincenzo FOR McBride,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,537,8,0,4,9:31 PM,7:30,,,SUB: Duren FOR Wiseman,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,538,8,0,4,9:31 PM,7:30,,,SUB: Cunningham FOR Flynn,,,5,1630201,Malachi Flynn,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,542,3,12,4,9:31 PM,7:30,MISS Hart Free Throw 2 of 2,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,543,4,0,4,9:31 PM,7:28,,,Duren REBOUND (Off:4 Def:10),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,544,1,1,4,9:32 PM,7:15,,,Fournier 26' 3PT Jump Shot (7 PTS) (Cunningham 7 AST),96 - 98,2,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,546,1,1,4,9:32 PM,6:53,Bogdanovic 3PT Jump Shot (13 PTS) (Hart 6 AST),,,96 - 101,5,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,548,2,86,4,9:32 PM,6:36,,,MISS Cunningham 13' Turnaround Fadeaway Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,549,4,0,4,9:32 PM,6:34,Bogdanovic REBOUND (Off:0 Def:6),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,550,6,1,4,9:33 PM,6:17,,,Fournier P.FOUL (P2.T3) (J.DeRosa),,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,552,9,1,4,9:33 PM,6:17,KNICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,553,2,79,4,9:36 PM,6:12,MISS Brunson 26' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,554,4,0,4,9:36 PM,6:10,,,Cunningham REBOUND (Off:2 Def:3),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,555,1,5,4,9:36 PM,5:47,,,Duren Layup (9 PTS) (Grimes 2 AST),98 - 101,3,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,557,5,1,4,9:37 PM,5:29,Brunson Bad Pass Turnover (P4.T13),,Fournier STEAL (2 STL),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,559,6,2,4,9:37 PM,5:23,Bogdanovic S.FOUL (P3.T3) (J.DeRosa),,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022300828,561,3,13,4,9:37 PM,5:23,,,Grimes Free Throw 1 of 3 (7 PTS),99 - 101,2,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,562,3,14,4,9:37 PM,5:23,,,Grimes Free Throw 2 of 3 (8 PTS),100 - 101,1,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,563,8,0,4,9:37 PM,5:23,SUB: Hartenstein FOR Sims,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,565,3,15,4,9:37 PM,5:23,,,Grimes Free Throw 3 of 3 (9 PTS),101 - 101,TIE,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,566,2,1,4,9:38 PM,5:12,MISS Bogdanovic 3PT Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,567,4,0,4,9:38 PM,5:10,,,Duren REBOUND (Off:4 Def:11),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,568,5,1,4,9:38 PM,4:55,DiVincenzo STEAL (2 STL),,Cunningham Bad Pass Turnover (P5.T15),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,570,1,2,4,9:39 PM,4:50,DiVincenzo 25' 3PT Running Jump Shot (21 PTS) (Brunson 11 AST),,,101 - 104,3,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,572,2,79,4,9:39 PM,4:31,,,MISS Grimes 16' Pullup Jump Shot,,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,573,4,0,4,9:39 PM,4:30,,,Duren REBOUND (Off:5 Def:11),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,574,1,72,4,9:39 PM,4:30,,,Duren Putback Layup (11 PTS),103 - 104,1,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,575,2,80,4,9:39 PM,4:14,MISS Brunson 25' 3PT Step Back Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,576,4,0,4,9:39 PM,4:12,Hartenstein REBOUND (Off:3 Def:4),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,577,6,1,4,9:39 PM,4:12,,,Fournier P.FOUL (P3.T4) (S.Mehta),,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,579,8,0,4,9:39 PM,4:12,SUB: Achiuwa FOR Bogdanovic,,,,,4,202711,Bojan Bogdanovic,1610612752.0,New York,Knicks,NYK,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300828,581,8,0,4,9:39 PM,4:12,,,SUB: Fontecchio FOR Fournier,,,5,203095,Evan Fournier,1610612765.0,Detroit,Pistons,DET,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022300828,583,2,6,4,9:40 PM,4:02,MISS Achiuwa 2' Driving Layup,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,584,4,0,4,9:40 PM,4:00,,,Grimes REBOUND (Off:0 Def:1),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,585,1,1,4,9:40 PM,3:49,,,Grimes 25' 3PT Jump Shot (12 PTS) (Thompson 3 AST),106 - 104,-2,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,587,2,101,4,9:41 PM,3:22,MISS Hart 6' Driving Floating Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,588,4,0,4,9:41 PM,3:21,Achiuwa REBOUND (Off:4 Def:7),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,589,1,72,4,9:41 PM,3:21,Achiuwa 1' Putback Layup (4 PTS),,,106 - 106,TIE,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,590,2,101,4,9:41 PM,3:01,,,MISS Cunningham 9' Driving Floating Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,591,4,0,4,9:41 PM,2:59,DiVincenzo REBOUND (Off:0 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,592,1,41,4,9:41 PM,2:55,Brunson 4' Running Layup (33 PTS) (DiVincenzo 4 AST),,,106 - 108,2,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,594,2,80,4,9:42 PM,2:34,,,MISS Cunningham 21' Step Back Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,595,4,0,4,9:42 PM,2:32,Hart REBOUND (Off:1 Def:5),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,596,1,79,4,9:42 PM,2:22,Brunson 15' Pullup Jump Shot (35 PTS),,,106 - 110,4,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,597,1,1,4,9:42 PM,2:00,,,Thompson 24' 3PT Jump Shot (7 PTS) (Cunningham 8 AST),109 - 110,1,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,599,2,79,4,9:43 PM,1:45,MISS Brunson 25' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,600,4,0,4,9:43 PM,1:43,,,Grimes REBOUND (Off:0 Def:2),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,601,2,52,4,9:43 PM,1:24,Hartenstein BLOCK (1 BLK),,MISS Duren 2' Alley Oop Dunk,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022300828,603,4,0,4,9:43 PM,1:22,Hart REBOUND (Off:1 Def:6),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,604,2,79,4,9:43 PM,1:00,MISS Hart 14' Pullup Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,605,4,0,4,9:43 PM,0:58,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300828,607,9,1,4,9:44 PM,0:58,,,Pistons Timeout: Regular (Reg.4 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300828,608,1,6,4,9:47 PM,0:37,,,Grimes 1' Driving Layup (14 PTS) (Fontecchio 1 AST),111 - 110,-1,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,610,2,80,4,9:47 PM,0:20,MISS Brunson 25' 3PT Step Back Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,611,4,0,4,9:47 PM,0:17,,,Grimes REBOUND (Off:0 Def:3),,,5,1629656,Quentin Grimes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022300828,612,5,2,4,9:47 PM,0:12,Hart STEAL (2 STL),,Fontecchio Lost Ball Turnover (P2.T16),,,5,1631323,Simone Fontecchio,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,614,5,1,4,9:48 PM,0:08,DiVincenzo Bad Pass Turnover (P2.T14),,Thompson STEAL (3 STL),,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022300828,616,5,2,4,9:48 PM,0:04,Brunson STEAL (2 STL),,Thompson Lost Ball Turnover (P4.T17),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,618,1,5,4,9:48 PM,0:02,Hart 1' Layup (22 PTS) (Brunson 12 AST),,,111 - 112,1,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300828,620,6,2,4,9:48 PM,0:02,,,Duren S.FOUL (P2.PN) (S.Mehta),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,622,3,10,4,9:48 PM,0:02,MISS Hart Free Throw 1 of 1,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,623,4,0,4,9:48 PM,0:01,Hartenstein REBOUND (Off:4 Def:4),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,624,6,1,4,9:48 PM,0:01,,,Thompson P.FOUL (P3.PN) (J.DeRosa),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300828,626,3,11,4,9:49 PM,0:01,Hart Free Throw 1 of 2 (23 PTS),,,111 - 113,2,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,627,3,12,4,9:49 PM,0:01,MISS Hart Free Throw 2 of 2,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,628,4,0,4,9:49 PM,0:01,Hart REBOUND (Off:2 Def:6),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300828,629,13,0,4,9:49 PM,0:00,,End of 4th Period (9:49 PM EST),,111 - 113,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

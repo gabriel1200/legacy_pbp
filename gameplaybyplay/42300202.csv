@@ -1,0 +1,424 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300202,2,12,0,1,7:14 PM,12:00,,Start of 1st Period (7:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,4,10,0,1,7:14 PM,12:00,Jump Ball Horford vs. Mobley: Tip to Okoro,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042300202,7,2,1,1,7:14 PM,11:52,,,MISS Strus 27' 3PT Jump Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,8,4,0,1,7:14 PM,11:51,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,9,6,2,1,7:15 PM,11:33,,,Okoro S.FOUL (P1.T1) (J.Goble),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,11,3,11,1,7:15 PM,11:33,Tatum Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,12,3,12,1,7:15 PM,11:33,Tatum Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,13,1,6,1,7:16 PM,11:10,,,Mitchell 3' Driving Layup (2 PTS),2 - 2,TIE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,14,2,6,1,7:16 PM,11:00,MISS Brown 4' Driving Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,15,4,0,1,7:16 PM,10:58,Horford REBOUND (Off:1 Def:0),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,16,6,2,1,7:16 PM,10:51,,,Mobley S.FOUL (P1.T2) (B.Kennedy),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,18,3,11,1,7:17 PM,10:51,Tatum Free Throw 1 of 2 (3 PTS),,,2 - 3,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,19,3,12,1,7:17 PM,10:51,Tatum Free Throw 2 of 2 (4 PTS),,,2 - 4,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,20,2,73,1,7:17 PM,10:30,,,MISS Mitchell 3' Driving Reverse Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,21,4,0,1,7:17 PM,10:29,Holiday REBOUND (Off:0 Def:1),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,22,2,2,1,7:17 PM,10:23,MISS Horford 26' 3PT Running Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,23,4,0,1,7:17 PM,10:22,,,Garland REBOUND (Off:0 Def:1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,24,2,101,1,7:17 PM,10:13,,,MISS Garland 2' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,25,4,0,1,7:17 PM,10:12,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,27,1,1,1,7:18 PM,9:57,Horford 26' 3PT Jump Shot (3 PTS) (Tatum 1 AST),,,2 - 7,5,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,29,5,39,1,7:18 PM,9:37,,,Okoro Step Out of Bounds Turnover (P1.T1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042300202,30,1,6,1,7:19 PM,9:22,Horford 2' Driving Layup (5 PTS) (White 1 AST),,,2 - 9,7,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,32,1,1,1,7:19 PM,9:06,,,Okoro 25' 3PT Jump Shot (3 PTS) (Garland 1 AST),5 - 9,4,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,34,1,101,1,7:19 PM,8:45,Brown 7' Driving Floating Jump Shot (2 PTS) (White 2 AST),,,5 - 11,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,36,2,1,1,7:20 PM,8:31,,,MISS Mitchell 27' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,37,4,0,1,7:20 PM,8:29,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,39,1,1,1,7:20 PM,8:13,White 25' 3PT Jump Shot (3 PTS) (Holiday 1 AST),,,5 - 14,9,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,41,9,1,1,7:20 PM,8:11,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,42,6,1,1,7:24 PM,7:58,Brown P.FOUL (P1.T1) (J.Goble),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,44,2,1,1,7:24 PM,7:54,,,MISS Strus 28' 3PT Jump Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,45,4,0,1,7:24 PM,7:52,Tatum REBOUND (Off:0 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,46,5,1,1,7:25 PM,7:41,White Bad Pass Turnover (P1.T1),,Mobley STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,48,1,41,1,7:25 PM,7:37,,,Okoro 3' Running Layup (5 PTS) (Mobley 1 AST),7 - 14,7,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,50,2,79,1,7:25 PM,7:20,MISS Tatum 27' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,51,4,0,1,7:25 PM,7:19,,,Mitchell REBOUND (Off:0 Def:1),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,52,1,6,1,7:25 PM,7:04,,,Garland 2' Driving Layup (2 PTS),9 - 14,5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,53,2,63,1,7:25 PM,6:55,MISS Holiday 8' Fadeaway Jumper,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,54,4,0,1,7:25 PM,6:54,,,Garland REBOUND (Off:0 Def:2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,55,5,1,1,7:26 PM,6:44,Holiday STEAL (1 STL),,Garland Bad Pass Turnover (P1.T2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,57,2,1,1,7:26 PM,6:34,MISS Holiday 27' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,58,4,0,1,7:26 PM,6:31,,,Garland REBOUND (Off:0 Def:3),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,61,2,63,1,7:26 PM,6:19,,,MISS Mobley 13' Fadeaway Jumper,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,62,4,0,1,7:26 PM,6:17,Tatum REBOUND (Off:0 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,63,1,6,1,7:26 PM,6:04,Brown 2' Driving Layup (4 PTS) (Horford 1 AST),,,9 - 16,7,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,65,1,7,1,7:27 PM,5:43,,,Mobley 2' Dunk (2 PTS) (Strus 1 AST),11 - 16,5,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,67,2,1,1,7:27 PM,5:26,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,68,4,0,1,7:27 PM,5:25,,,Mobley REBOUND (Off:0 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,69,1,57,1,7:27 PM,5:15,,,Mobley 2' Driving Hook Shot (4 PTS),13 - 16,3,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,70,9,1,1,7:27 PM,5:14,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,71,8,0,1,7:30 PM,5:14,SUB: Hauser FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,72,8,0,1,7:30 PM,5:14,SUB: Kornet FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,73,8,0,1,7:30 PM,5:14,,,SUB: LeVert FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,74,8,0,1,7:30 PM,5:14,,,SUB: Niang FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,79,1,79,1,7:31 PM,4:55,Hauser 16' Pullup Jump Shot (2 PTS) (Tatum 2 AST),,,13 - 18,5,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,81,1,6,1,7:31 PM,4:35,,,Strus 5' Driving Layup (2 PTS) (Mobley 2 AST),15 - 18,3,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,83,6,2,1,7:32 PM,4:19,,,Niang S.FOUL (P1.T3) (B.Kennedy),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,85,3,11,1,7:32 PM,4:19,MISS Tatum Free Throw 1 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,86,4,1,1,7:32 PM,4:19,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,87,3,12,1,7:32 PM,4:19,Tatum Free Throw 2 of 2 (5 PTS),,,15 - 19,4,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300202,88,1,108,1,7:33 PM,4:03,,,Mobley 2' Cutting Dunk Shot (6 PTS) (LeVert 1 AST),17 - 19,2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,90,2,79,1,7:33 PM,3:54,MISS White 27' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,91,4,0,1,7:33 PM,3:53,,,Niang REBOUND (Off:0 Def:1),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,92,1,47,1,7:33 PM,3:42,,,Mobley 7' Turnaround Jump Shot (8 PTS) (Mitchell 1 AST),19 - 19,TIE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,94,1,102,1,7:33 PM,3:23,Brown 12' Driving Floating Bank Jump Shot (6 PTS),,,19 - 21,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,95,1,108,1,7:34 PM,3:07,,,LeVert 2' Cutting Dunk Shot (2 PTS) (Mobley 3 AST),21 - 21,TIE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,97,2,6,1,7:34 PM,2:54,MISS Tatum 3' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,98,4,0,1,7:34 PM,2:51,Kornet REBOUND (Off:1 Def:0),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,99,2,9,1,7:34 PM,2:48,MISS Brown 3' Driving Dunk,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,100,4,0,1,7:34 PM,2:47,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,101,6,2,1,7:34 PM,2:44,White S.FOUL (P1.T2) (J.Goble),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,103,3,11,1,7:35 PM,2:44,,,LeVert Free Throw 1 of 2 (3 PTS),22 - 21,-1,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,104,8,0,1,7:35 PM,2:44,SUB: Holiday FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,105,8,0,1,7:35 PM,2:44,SUB: Pritchard FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,106,8,0,1,7:35 PM,2:44,,,SUB: Garland FOR Strus,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,110,3,12,1,7:35 PM,2:44,,,LeVert Free Throw 2 of 2 (4 PTS),23 - 21,-2,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,111,2,1,1,7:35 PM,2:31,MISS Pritchard 28' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,112,4,0,1,7:35 PM,2:28,,,Mobley REBOUND (Off:0 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,113,2,1,1,7:36 PM,2:17,,,MISS Mobley 13' Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,114,4,0,1,7:36 PM,2:16,Tatum REBOUND (Off:0 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,115,2,41,1,7:36 PM,2:09,MISS Tatum 2' Running Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,116,4,0,1,7:36 PM,2:08,,,Garland REBOUND (Off:0 Def:4),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,117,2,6,1,7:36 PM,1:52,,,MISS LeVert 4' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,118,4,0,1,7:36 PM,1:51,,,LeVert REBOUND (Off:1 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,119,1,97,1,7:36 PM,1:51,,,LeVert Tip Layup Shot (6 PTS),25 - 21,-4,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,120,2,79,1,7:36 PM,1:35,MISS Holiday 14' Pullup Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,121,4,0,1,7:36 PM,1:34,,,Mitchell REBOUND (Off:0 Def:2),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,122,1,1,1,7:36 PM,1:25,,,Mobley 26' 3PT Jump Shot (11 PTS) (Mitchell 2 AST),28 - 21,-7,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,124,2,79,1,7:37 PM,1:06,MISS Hauser 27' 3PT Pullup Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,125,4,0,1,7:37 PM,1:05,,,Mobley REBOUND (Off:0 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,126,1,98,1,7:37 PM,0:58,,,LeVert 3' Cutting Layup Shot (8 PTS) (Mobley 4 AST),30 - 21,-9,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,128,2,6,1,7:37 PM,0:44,MISS Holiday 2' Driving Layup,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,129,4,0,1,7:37 PM,0:42,,,Garland REBOUND (Off:0 Def:5),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,130,2,1,1,7:37 PM,0:34,,,MISS Mobley 28' 3PT Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,131,4,0,1,7:37 PM,0:32,Tatum REBOUND (Off:0 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,132,1,80,1,7:38 PM,0:12,Tatum 25' 3PT Step Back Jump Shot (8 PTS),,,30 - 24,-6,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,133,6,28,1,7:38 PM,0:02,Holiday Personal Take Foul (P1.T3) (B.Kennedy),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,135,8,0,1,7:38 PM,0:02,SUB: Horford FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,137,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,30 - 24,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,144,12,0,2,7:42 PM,12:00,,Start of 2nd Period (7:42 PM EST),,30 - 24,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,145,2,80,2,7:43 PM,11:39,MISS Pritchard 11' Step Back Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300202,146,4,0,2,7:43 PM,11:37,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,147,6,3,2,7:43 PM,11:37,,,Niang L.B.FOUL (P2.T1) (N.Buchert),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0042300202,149,1,6,2,7:43 PM,11:29,Pritchard 1' Driving Layup (2 PTS),,,30 - 26,-4,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,150,2,86,2,7:43 PM,11:07,,,MISS LeVert 10' Turnaround Fadeaway Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,151,4,0,2,7:43 PM,11:06,Tillman REBOUND (Off:0 Def:1),,,,,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,152,1,6,2,7:44 PM,10:57,Holiday 2' Driving Layup (2 PTS),,,30 - 28,-2,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,153,2,63,2,7:44 PM,10:28,,,MISS Morris Sr. 19' Fadeaway Jumper,,,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,154,4,0,2,7:44 PM,10:27,,,Strus REBOUND (Off:1 Def:0),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0042300202,155,6,1,2,7:44 PM,10:27,Horford P.FOUL (P1.T1) (N.Buchert),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,157,5,1,2,7:44 PM,10:20,Pritchard STEAL (1 STL),,LeVert Bad Pass Turnover (P1.T3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,159,1,41,2,7:45 PM,10:16,Pritchard 2' Running Layup (4 PTS) (Tatum 3 AST),,,30 - 30,TIE,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,161,9,1,2,7:45 PM,10:15,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,162,1,79,2,7:48 PM,10:01,,,Garland 28' 3PT Pullup Jump Shot (5 PTS),33 - 30,-3,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,163,1,101,2,7:49 PM,9:44,Tatum 8' Driving Floating Jump Shot (10 PTS),,,33 - 32,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,164,2,6,2,7:49 PM,9:26,,,MISS Niang 4' Driving Layup,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,165,4,0,2,7:49 PM,9:23,,,Niang REBOUND (Off:1 Def:1),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,166,10,0,2,7:50 PM,9:20, ,,,,,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,3,1610612738,,,,,,1
+0042300202,169,5,2,2,7:50 PM,9:18,Tillman STEAL (1 STL),,Niang Lost Ball Turnover (P1.T4),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,171,1,1,2,7:50 PM,9:02,Horford 24' 3PT Jump Shot (8 PTS) (Pritchard 1 AST),,,33 - 35,2,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,173,2,6,2,7:51 PM,8:36,,,MISS LeVert 5' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,174,4,0,2,7:51 PM,8:35,Tillman REBOUND (Off:0 Def:2),,,,,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,175,1,50,2,7:51 PM,8:30,Holiday 2' Running Dunk (4 PTS) (Tatum 4 AST),,,33 - 37,4,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,177,1,5,2,7:51 PM,8:14,,,Niang 3' Layup (2 PTS),35 - 37,2,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,179,1,79,2,7:51 PM,8:03,Tatum 30' 3PT Pullup Jump Shot (13 PTS) (Pritchard 2 AST),,,35 - 40,5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,180,1,6,2,7:51 PM,7:49,,,LeVert 3' Driving Layup (10 PTS),37 - 40,3,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,181,2,80,2,7:52 PM,7:28,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,182,4,0,2,7:52 PM,7:26,Pritchard REBOUND (Off:1 Def:0),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,183,1,72,2,7:52 PM,7:24,Pritchard 2' Putback Layup (6 PTS),,,37 - 42,5,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,184,9,1,2,7:52 PM,7:22,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,186,8,0,2,7:55 PM,7:22,SUB: Brown FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,187,8,0,2,7:55 PM,7:22,SUB: White FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,188,8,0,2,7:55 PM,7:22,,,SUB: Mobley FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,189,8,0,2,7:55 PM,7:22,,,SUB: Mitchell FOR Niang,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,194,2,86,2,7:56 PM,7:04,,,MISS Mitchell 17' Turnaround Fadeaway Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,195,4,0,2,7:56 PM,7:03,White REBOUND (Off:0 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,196,2,80,2,7:56 PM,6:41,MISS White 27' 3PT Step Back Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,197,4,0,2,7:56 PM,6:40,,,Mitchell REBOUND (Off:0 Def:3),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,198,1,76,2,7:56 PM,6:35,,,Morris Sr. 3' Running Finger Roll Layup (2 PTS) (Mitchell 3 AST),39 - 42,3,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,203,1,78,2,7:57 PM,6:13,White 8' Floating Jump Shot (5 PTS) (Tillman 1 AST),,,39 - 44,5,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,205,2,80,2,7:57 PM,5:53,,,MISS LeVert 27' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,206,4,0,2,7:57 PM,5:52,,,LeVert REBOUND (Off:2 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,207,1,72,2,7:57 PM,5:51,,,LeVert 3' Putback Layup (12 PTS),41 - 44,3,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,208,1,57,2,7:57 PM,5:36,Brown 2' Driving Hook Shot (8 PTS),,,41 - 46,5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,209,2,73,2,7:58 PM,5:28,,,MISS Mitchell 4' Driving Reverse Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,210,4,0,2,7:58 PM,5:27,,,Mobley REBOUND (Off:1 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,211,2,97,2,7:58 PM,5:27,,,MISS Mobley Tip Layup Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,212,4,0,2,7:58 PM,5:26,Brown REBOUND (Off:0 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,213,2,80,2,7:58 PM,5:19,MISS Brown 27' 3PT Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,214,4,0,2,7:58 PM,5:17,,,Mitchell REBOUND (Off:0 Def:4),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,215,1,74,2,7:58 PM,5:11,,,Strus 4' Running Reverse Layup (4 PTS) (Mitchell 4 AST),43 - 46,3,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,217,1,1,2,7:58 PM,4:53,Horford 26' 3PT Jump Shot (11 PTS) (Pritchard 3 AST),,,43 - 49,6,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,221,2,101,2,7:59 PM,4:27,,,MISS LeVert 7' Driving Floating Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,222,4,0,2,7:59 PM,4:27,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,223,5,4,2,7:59 PM,4:27,,,LeVert Traveling Turnover (P2.T5),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042300202,224,8,0,2,7:59 PM,4:27,SUB: Tatum FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,225,8,0,2,7:59 PM,4:27,SUB: Holiday FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,226,8,0,2,7:59 PM,4:27,SUB: Kornet FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,227,8,0,2,7:59 PM,4:27,,,SUB: Okoro FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,232,6,2,2,7:59 PM,4:16,,,Mobley S.FOUL (P2.T2) (B.Kennedy),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,234,3,11,2,8:00 PM,4:16,Tatum Free Throw 1 of 2 (14 PTS),,,43 - 50,7,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,235,8,0,2,8:00 PM,4:16,,,SUB: Garland FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,237,3,12,2,8:00 PM,4:16,Tatum Free Throw 2 of 2 (15 PTS),,,43 - 51,8,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,238,1,79,2,8:00 PM,3:53,,,Mitchell 22' Pullup Jump Shot (4 PTS),45 - 51,6,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,239,2,101,2,8:01 PM,3:40,MISS White 11' Driving Floating Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,240,4,0,2,8:01 PM,3:39,,,Mobley REBOUND (Off:1 Def:4),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,241,1,74,2,8:01 PM,3:32,,,Okoro 3' Running Reverse Layup (7 PTS) (Mobley 5 AST),47 - 51,4,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,243,2,101,2,8:01 PM,3:08,MISS Tatum 10' Driving Floating Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,244,4,0,2,8:01 PM,3:07,Kornet REBOUND (Off:2 Def:0),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,276,2,107,2,8:01 PM,3:07,MISS Kornet 3' Tip Dunk Shot,,Mobley BLOCK (1 BLK),,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042300202,278,4,0,2,8:01 PM,3:06,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,245,2,1,2,8:01 PM,2:52,,,MISS Garland 24' 3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,246,4,0,2,8:01 PM,2:50,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,248,2,86,2,8:02 PM,2:28,MISS Tatum 14' Turnaround Fadeaway Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,249,4,0,2,8:02 PM,2:27,,,Mobley REBOUND (Off:1 Def:5),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,251,8,0,2,8:02 PM,2:16,SUB: Horford FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,253,6,4,2,8:03 PM,2:10,,,Okoro OFF.Foul (P2) (J.Goble),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,255,5,37,2,8:03 PM,2:10,,,Okoro Offensive Foul Turnover (P2.T6),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042300202,256,2,1,2,8:03 PM,1:54,MISS Tatum 28' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,257,4,0,2,8:03 PM,1:52,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,259,6,1,2,8:04 PM,1:49,Tatum P.FOUL (P1.T2) (J.Goble),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,261,2,79,2,8:04 PM,1:41,,,MISS Strus 27' 3PT Pullup Jump Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,262,4,0,2,8:04 PM,1:37,White REBOUND (Off:0 Def:3),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,263,2,101,2,8:04 PM,1:28,MISS Brown 6' Driving Floating Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,264,4,0,2,8:04 PM,1:27,,,Mobley REBOUND (Off:1 Def:6),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,265,6,1,2,8:05 PM,1:13,White P.FOUL (P2.PN) (B.Kennedy),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,267,3,11,2,8:05 PM,1:13,,,Mobley Free Throw 1 of 2 (12 PTS),48 - 51,3,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,268,3,12,2,8:05 PM,1:13,,,Mobley Free Throw 2 of 2 (13 PTS),49 - 51,2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,269,6,2,2,8:06 PM,0:57,,,Mitchell S.FOUL (P1.T3) (N.Buchert),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,271,3,11,2,8:06 PM,0:57,MISS Tatum Free Throw 1 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,272,4,1,2,8:06 PM,0:57,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,273,3,12,2,8:06 PM,0:57,Tatum Free Throw 2 of 2 (16 PTS),,,49 - 52,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,274,1,98,2,8:07 PM,0:42,,,Mobley 3' Cutting Layup Shot (15 PTS) (Mitchell 5 AST),51 - 52,1,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,280,1,9,2,8:07 PM,0:33,Brown 2' Driving Dunk (10 PTS) (White 3 AST),,,51 - 54,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,282,6,2,2,8:08 PM,0:14,Holiday S.FOUL (P2.PN) (N.Buchert),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,284,3,11,2,8:08 PM,0:14,,,Mitchell Free Throw 1 of 2 (5 PTS),52 - 54,2,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,287,3,12,2,8:08 PM,0:14,,,Mitchell Free Throw 2 of 2 (6 PTS),53 - 54,1,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,285,8,0,2,8:08 PM,0:14,,,SUB: LeVert FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,288,5,2,2,8:09 PM,0:03,Brown Lost Ball Turnover (P1.T2),,Okoro STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,290,6,1,2,8:09 PM,0:02,Brown P.FOUL (P2.PN) (J.Goble),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,292,3,11,2,8:10 PM,0:02,,,Okoro Free Throw 1 of 2 (8 PTS),54 - 54,TIE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,293,3,12,2,8:10 PM,0:02,,,MISS Okoro Free Throw 2 of 2,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,294,4,0,2,8:10 PM,0:02,Tatum REBOUND (Off:0 Def:6),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300202,295,13,0,2,8:10 PM,0:00,,End of 2nd Period (8:10 PM EST),,54 - 54,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,298,12,0,3,8:26 PM,12:00,,Start of 3rd Period (8:26 PM EST),,54 - 54,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,299,2,1,3,8:26 PM,11:44,MISS Horford 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,300,4,0,3,8:26 PM,11:42,,,Strus REBOUND (Off:1 Def:1),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,301,1,80,3,8:26 PM,11:25,,,Mitchell 27' 3PT Step Back Jump Shot (9 PTS),57 - 54,-3,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,302,1,1,3,8:27 PM,11:13,White 20' Jump Shot (7 PTS) (Brown 1 AST),,,57 - 56,-1,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,304,1,79,3,8:27 PM,10:58,,,Garland 27' 3PT Pullup Jump Shot (8 PTS),60 - 56,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,305,6,2,3,8:27 PM,10:47,,,Garland S.FOUL (P1.T1) (J.Goble),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,307,3,11,3,8:28 PM,10:47,MISS White Free Throw 1 of 2,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,308,4,1,3,8:28 PM,10:47,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,309,3,12,3,8:28 PM,10:47,White Free Throw 2 of 2 (8 PTS),,,60 - 57,-3,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,310,2,80,3,8:28 PM,10:37,,,MISS Strus 3PT Step Back Jump Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,311,4,0,3,8:28 PM,10:35,Brown REBOUND (Off:0 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,312,2,96,3,8:28 PM,10:16,MISS Horford 9' Turnaround Bank Hook Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,313,4,0,3,8:28 PM,10:14,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,314,6,3,3,8:29 PM,10:14,,,Okoro L.B.FOUL (P3.T2) (J.Goble),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,316,2,102,3,8:29 PM,10:04,MISS Tatum 4' Driving Floating Bank Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,317,4,0,3,8:29 PM,10:02,,,Mobley REBOUND (Off:1 Def:7),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,318,1,50,3,8:29 PM,9:57,,,Okoro 1' Running Dunk (10 PTS) (Garland 2 AST),62 - 57,-5,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,320,9,1,3,8:29 PM,9:54,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,321,2,6,3,8:33 PM,9:32,MISS Brown 5' Driving Layup,,Mobley BLOCK (2 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042300202,322,4,0,3,8:33 PM,9:30,,,Mobley REBOUND (Off:1 Def:8),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,323,1,52,3,8:33 PM,9:23,,,Mobley 1' Alley Oop Dunk (17 PTS) (Mitchell 6 AST),64 - 57,-7,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,325,1,75,3,8:34 PM,9:02,Tatum 4' Driving Finger Roll Layup (18 PTS) (White 4 AST),,,64 - 59,-5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,327,6,2,3,8:34 PM,9:02,,,Garland S.FOUL (P2.T3) (N.Buchert),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,329,3,10,3,8:34 PM,9:02,Tatum Free Throw 1 of 1 (19 PTS),,,64 - 60,-4,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,331,2,79,3,8:35 PM,8:42,White BLOCK (1 BLK),,MISS Garland 10' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042300202,332,4,0,3,8:35 PM,8:41,Brown REBOUND (Off:0 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,334,1,6,3,8:35 PM,8:29,Brown 3' Driving Layup (12 PTS) (Tatum 5 AST),,,64 - 62,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,336,6,2,3,8:35 PM,8:29,,,Strus S.FOUL (P1.T4) (B.Kennedy),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,338,3,10,3,8:35 PM,8:29,Brown Free Throw 1 of 1 (13 PTS),,,64 - 63,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,339,2,80,3,8:36 PM,8:12,,,MISS Mitchell 19' Step Back Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,340,4,0,3,8:36 PM,8:10,Tatum REBOUND (Off:0 Def:7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,341,2,1,3,8:36 PM,7:59,MISS Horford 24' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,342,4,0,3,8:36 PM,7:58,,,Garland REBOUND (Off:0 Def:6),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,343,1,79,3,8:36 PM,7:40,,,Garland 29' 3PT Pullup Jump Shot (11 PTS),67 - 63,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,344,2,1,3,8:36 PM,7:23,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,345,4,0,3,8:36 PM,7:22,,,Mitchell REBOUND (Off:0 Def:5),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,346,1,79,3,8:37 PM,7:14,,,Mitchell 27' 3PT Pullup Jump Shot (12 PTS),70 - 63,-7,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,347,2,1,3,8:37 PM,6:55,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,348,4,0,3,8:37 PM,6:54,,,Mitchell REBOUND (Off:0 Def:6),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,349,2,80,3,8:37 PM,6:44,,,MISS Mitchell 25' 3PT Step Back Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,350,4,0,3,8:37 PM,6:41,Brown REBOUND (Off:0 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,351,1,74,3,8:37 PM,6:34,Tatum 2' Running Reverse Layup (21 PTS) (White 5 AST),,,70 - 65,-5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,353,1,79,3,8:38 PM,6:17,,,Mobley 11' Pullup Jump Shot (19 PTS),72 - 65,-7,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,354,2,1,3,8:38 PM,6:01,MISS Horford 26' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,355,4,0,3,8:38 PM,6:00,,,Garland REBOUND (Off:0 Def:7),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,356,1,98,3,8:38 PM,5:44,,,Okoro 1' Cutting Layup Shot (12 PTS) (Garland 3 AST),74 - 65,-9,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,358,9,1,3,8:38 PM,5:44,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,359,8,0,3,8:41 PM,5:44,SUB: Pritchard FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,360,8,0,3,8:41 PM,5:44,SUB: Hauser FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,361,8,0,3,8:41 PM,5:44,SUB: Kornet FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,365,6,2,3,8:42 PM,5:23,,,Mobley S.FOUL (P3.PN) (N.Buchert),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,367,3,11,3,8:43 PM,5:23,MISS Kornet Free Throw 1 of 2,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,368,4,1,3,8:43 PM,5:23,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,369,3,12,3,8:43 PM,5:23,Kornet Free Throw 2 of 2 (1 PTS),,,74 - 66,-8,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300202,370,1,79,3,8:43 PM,5:11,,,Garland 26' 3PT Pullup Jump Shot (14 PTS),77 - 66,-11,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,371,6,2,3,8:43 PM,4:56,,,Mobley S.FOUL (P4.PN) (B.Kennedy),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,373,3,11,3,8:44 PM,4:56,Kornet Free Throw 1 of 2 (2 PTS),,,77 - 67,-10,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,374,8,0,3,8:44 PM,4:56,,,SUB: LeVert FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,375,8,0,3,8:44 PM,4:56,,,SUB: Thompson FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,378,3,12,3,8:44 PM,4:56,Kornet Free Throw 2 of 2 (3 PTS),,,77 - 68,-9,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,379,5,45,3,8:44 PM,4:42,,,Okoro Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042300202,380,2,79,3,8:45 PM,4:32,MISS White 28' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,381,4,0,3,8:45 PM,4:30,,,LeVert REBOUND (Off:2 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,382,1,79,3,8:45 PM,4:13,,,Mitchell 9' Pullup Jump Shot (14 PTS),79 - 68,-11,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,384,6,2,3,8:45 PM,4:13,Hauser S.FOUL (P1.T1) (N.Buchert),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,386,8,0,3,8:45 PM,4:13,,,SUB: Morris Sr. FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,388,3,10,3,8:46 PM,4:13,,,MISS Mitchell Free Throw 1 of 1,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,389,4,0,3,8:46 PM,4:13,Hauser REBOUND (Off:0 Def:1),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,390,1,6,3,8:46 PM,4:06,Pritchard 4' Driving Layup (8 PTS) (Tatum 6 AST),,,79 - 70,-9,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,406,5,1,3,8:46 PM,3:53,Tatum STEAL (1 STL),,Mitchell Bad Pass Turnover (P1.T8),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,394,2,41,3,8:46 PM,3:48,MISS Tatum 7' Running Layup,,Thompson BLOCK (1 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042300202,395,4,0,3,8:46 PM,3:46,,,Thompson REBOUND (Off:0 Def:1),,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,396,1,63,3,8:46 PM,3:32,,,LeVert 14' Fadeaway Jumper (14 PTS),81 - 70,-11,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,397,2,1,3,8:46 PM,3:14,MISS White 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,398,4,0,3,8:47 PM,3:12,,,Strus REBOUND (Off:1 Def:2),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,399,2,78,3,8:47 PM,3:03,,,MISS Thompson 4' Floating Jump Shot,,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,400,4,0,3,8:47 PM,3:00,White REBOUND (Off:0 Def:4),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,401,6,1,3,8:47 PM,2:59,,,Strus P.FOUL (P2.PN) (J.Goble),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,403,3,11,3,8:47 PM,2:59,White Free Throw 1 of 2 (9 PTS),,,81 - 71,-10,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,404,8,0,3,8:47 PM,2:59,SUB: Holiday FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,408,3,12,3,8:48 PM,2:59,White Free Throw 2 of 2 (10 PTS),,,81 - 72,-9,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,410,6,2,3,8:48 PM,2:48,White S.FOUL (P3.T2) (N.Buchert),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,412,3,13,3,8:49 PM,2:48,,,Mitchell Free Throw 1 of 3 (15 PTS),82 - 72,-10,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,413,3,14,3,8:49 PM,2:48,,,MISS Mitchell Free Throw 2 of 3,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,414,4,1,3,8:49 PM,2:48,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,415,8,0,3,8:49 PM,2:48,SUB: Hauser FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,417,3,15,3,8:49 PM,2:48,,,Mitchell Free Throw 3 of 3 (16 PTS),83 - 72,-11,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,418,5,2,3,8:50 PM,2:33,Tatum Lost Ball Turnover (P1.T3),,Morris Sr. STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,420,7,5,3,8:50 PM,2:22,Kornet Violation:Kicked Ball (N.Buchert),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0042300202,421,1,80,3,8:50 PM,2:12,,,Mitchell 28' 3PT Step Back Jump Shot (19 PTS),86 - 72,-14,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,422,1,6,3,8:51 PM,1:51,Tatum 3' Driving Layup (23 PTS) (Pritchard 4 AST),,,86 - 74,-12,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,424,2,80,3,8:51 PM,1:34,,,MISS LeVert 27' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,425,4,0,3,8:51 PM,1:32,,,Thompson REBOUND (Off:1 Def:1),,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,426,2,63,3,8:51 PM,1:24,,,MISS Mitchell 18' Fadeaway Jumper,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,427,4,0,3,8:51 PM,1:21,,,Strus REBOUND (Off:2 Def:2),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0042300202,428,6,1,3,8:51 PM,1:21,Hauser P.FOUL (P2.T3) (J.Goble),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,430,8,0,3,8:51 PM,1:21,SUB: Brown FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,431,8,0,3,8:51 PM,1:21,,,SUB: Garland FOR Strus,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,434,2,63,3,8:52 PM,1:09,,,MISS LeVert 14' Fadeaway Jumper,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,435,4,0,3,8:52 PM,1:04,Kornet REBOUND (Off:2 Def:1),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,436,6,2,3,8:52 PM,0:57,,,Morris Sr. S.FOUL (P1.PN) (J.Goble),,,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,438,3,11,3,8:53 PM,0:57,Brown Free Throw 1 of 2 (14 PTS),,,86 - 75,-11,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,439,8,0,3,8:53 PM,0:57,SUB: Tillman FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,441,3,12,3,8:53 PM,0:57,Brown Free Throw 2 of 2 (15 PTS),,,86 - 76,-10,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,442,2,80,3,8:54 PM,0:37,,,MISS Mitchell 19' Step Back Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,443,4,0,3,8:54 PM,0:35,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,444,6,3,3,8:54 PM,0:35,Tatum L.B.FOUL (P2.PN) (J.Goble),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,446,3,11,3,8:54 PM,0:35,,,MISS Thompson Free Throw 1 of 2,,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,447,4,1,3,8:54 PM,0:35,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,450,3,12,3,8:54 PM,0:35,,,Thompson Free Throw 2 of 2 (1 PTS),87 - 76,-11,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,448,8,0,3,8:54 PM,0:35,,,SUB: Okoro FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,451,2,1,3,8:54 PM,0:28,MISS Holiday 28' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,452,4,0,3,8:55 PM,0:26,Pritchard REBOUND (Off:2 Def:0),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,453,1,6,3,8:55 PM,0:13,Pritchard 2' Driving Layup (10 PTS),,,87 - 78,-9,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,454,1,79,3,8:55 PM,0:00,,,Mitchell 28' 3PT Pullup Jump Shot (22 PTS),90 - 78,-12,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,455,18,0,3,8:55 PM,0:00,,Instant Replay3rd Period (8:55 PM EST),,90 - 78,-12,0,454,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300202,456,13,0,3,8:55 PM,0:00,,End of 3rd Period (8:55 PM EST),,90 - 78,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,463,12,0,4,8:59 PM,12:00,,Start of 4th Period (8:59 PM EST),,90 - 78,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,464,1,98,4,8:59 PM,11:46,,,Strus 2' Cutting Layup Shot (6 PTS) (Thompson 1 AST),92 - 78,-14,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,466,6,2,4,9:00 PM,11:30,,,Mitchell S.FOUL (P2.T1) (J.Goble),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,468,3,11,4,9:00 PM,11:30,Brown Free Throw 1 of 2 (16 PTS),,,92 - 79,-13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,469,3,12,4,9:00 PM,11:30,Brown Free Throw 2 of 2 (17 PTS),,,92 - 80,-12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,470,1,66,4,9:01 PM,11:13,,,Mitchell 28' 3PT Jump Bank Shot (25 PTS) (Thompson 2 AST),95 - 80,-15,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,472,6,1,4,9:01 PM,11:01,,,Strus P.FOUL (P3.T2) (N.Buchert),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,474,2,1,4,9:01 PM,10:52,MISS Pritchard 30' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,475,4,0,4,9:01 PM,10:50,Holiday REBOUND (Off:1 Def:1),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,476,1,1,4,9:02 PM,10:47,Pritchard 26' 3PT Jump Shot (13 PTS) (Holiday 2 AST),,,95 - 83,-12,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,478,2,80,4,9:02 PM,10:34,,,MISS LeVert 28' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,479,4,0,4,9:02 PM,10:32,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,481,8,0,4,9:02 PM,10:32,,,SUB: Mobley FOR Thompson,,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,484,2,1,4,9:03 PM,10:17,MISS Brown 28' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,485,4,0,4,9:03 PM,10:14,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,486,6,3,4,9:03 PM,10:14,Horford L.B.FOUL (P2.T1) (B.Kennedy),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,488,1,6,4,9:03 PM,9:58,,,Mitchell 2' Driving Layup (27 PTS),97 - 83,-14,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,489,2,1,4,9:04 PM,9:35,MISS Pritchard 28' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,490,4,0,4,9:04 PM,9:33,,,LeVert REBOUND (Off:2 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,491,1,57,4,9:04 PM,9:25,,,Mitchell 3' Driving Hook Shot (29 PTS),99 - 83,-16,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,492,9,1,4,9:04 PM,9:25,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,493,8,0,4,9:07 PM,9:25,SUB: White FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,494,8,0,4,9:07 PM,9:25,SUB: Tatum FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,497,2,86,4,9:08 PM,9:04,MISS Tatum 17' Turnaround Fadeaway Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,498,4,0,4,9:08 PM,9:02,,,Mobley REBOUND (Off:1 Def:9),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,499,1,1,4,9:08 PM,8:47,,,Strus 27' 3PT Jump Shot (9 PTS) (LeVert 2 AST),102 - 83,-19,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,501,1,79,4,9:08 PM,8:26,Brown 13' Pullup Jump Shot (19 PTS),,,102 - 85,-17,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,502,2,98,4,9:09 PM,8:04,Horford BLOCK (1 BLK),,MISS Mobley 3' Cutting Layup Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042300202,504,4,0,4,9:09 PM,8:03,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,506,2,80,4,9:09 PM,7:59,,,MISS Strus 3PT Step Back Jump Shot,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,507,4,0,4,9:09 PM,7:57,Horford REBOUND (Off:1 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,508,2,2,4,9:09 PM,7:53,MISS White 27' 3PT Running Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,509,4,0,4,9:09 PM,7:51,,,Strus REBOUND (Off:2 Def:3),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,510,9,1,4,9:10 PM,7:39,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,511,6,4,4,9:13 PM,7:39,,,LeVert OFF.Foul (P1) (N.Buchert),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,513,5,37,4,9:13 PM,7:39,,,LeVert Offensive Foul Turnover (P3.T9),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042300202,514,2,1,4,9:14 PM,7:26,MISS Brown 24' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,515,4,0,4,9:14 PM,7:25,,,LeVert REBOUND (Off:2 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,553,5,2,4,9:14 PM,7:10,Holiday STEAL (2 STL),,Garland Lost Ball Turnover (P2.T10),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,519,1,41,4,9:14 PM,7:03,Tatum 3' Running Layup (25 PTS) (Holiday 3 AST),,,102 - 87,-15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,521,1,1,4,9:15 PM,6:40,,,Strus 3PT Jump Shot (12 PTS) (LeVert 3 AST),105 - 87,-18,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,523,6,4,4,9:15 PM,6:30,Horford OFF.Foul (P3) (N.Buchert),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,525,5,37,4,9:15 PM,6:30,Horford Offensive Foul Turnover (P1.T4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300202,526,1,79,4,9:16 PM,6:06,,,LeVert 13' Pullup Jump Shot (16 PTS) (Mitchell 7 AST),107 - 87,-20,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,528,9,1,4,9:16 PM,6:06,CELTICS Timeout: Regular (Full 5 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,529,8,0,4,9:17 PM,6:06,SUB: Pritchard FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,531,2,79,4,9:17 PM,5:50,MISS Brown 24' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,532,4,0,4,9:17 PM,5:47,,,Mitchell REBOUND (Off:0 Def:7),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,533,1,96,4,9:18 PM,5:24,,,Mobley 4' Turnaround Bank Hook Shot (21 PTS) (Garland 4 AST),109 - 87,-22,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,535,2,1,4,9:18 PM,5:11,MISS Brown 28' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,536,4,0,4,9:18 PM,5:10,,,Strus REBOUND (Off:2 Def:4),,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,537,1,6,4,9:18 PM,4:58,,,LeVert 1' Driving Layup (18 PTS),111 - 87,-24,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,538,6,14,4,9:18 PM,4:58,Tatum FLAGRANT.FOUL.TYPE1 (P3.T2) (N.Buchert),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042300202,540,18,1,4,9:19 PM,4:58,,Instant Replay4th Period (9:19 PM EST),,111 - 87,-24,0,538,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300202,541,8,0,4,9:20 PM,4:58,SUB: Brissett FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,542,8,0,4,9:20 PM,4:58,SUB: Walsh FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1641775,Jordan Walsh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,543,8,0,4,9:20 PM,4:58,SUB: Springer FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630531,Jaden Springer,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,544,8,0,4,9:20 PM,4:58,SUB: Mykhailiuk FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,545,8,0,4,9:20 PM,4:58,SUB: Queta FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300202,551,3,18,4,9:20 PM,4:58,,,MISS LeVert Free Throw Flagrant 1 of 2,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,552,4,1,4,9:20 PM,4:58,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,555,3,19,4,9:20 PM,4:58,,,LeVert Free Throw Flagrant 2 of 2 (19 PTS),112 - 87,-25,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,556,2,3,4,9:21 PM,4:48,,,MISS Mobley 7' Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,557,4,0,4,9:21 PM,4:47,Walsh REBOUND (Off:0 Def:1),,,,,4,1641775,Jordan Walsh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,558,5,4,4,9:21 PM,4:33,Brissett Traveling Turnover (P1.T5),,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300202,559,2,73,4,9:22 PM,4:21,,,MISS Mitchell 5' Driving Reverse Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,560,4,0,4,9:22 PM,4:20,Queta REBOUND (Off:0 Def:1),,,,,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,561,5,2,4,9:22 PM,4:09,Springer Lost Ball Turnover (P1.T6),,Garland STEAL (1 STL),,,4,1630531,Jaden Springer,1610612738.0,Boston,Celtics,BOS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,563,1,41,4,9:22 PM,4:06,,,LeVert 1' Running Layup (21 PTS) (Mitchell 8 AST),114 - 87,-27,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,565,6,28,4,9:22 PM,3:55,,,LeVert Personal Take Foul (P2.T3) (J.Goble),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,567,8,0,4,9:22 PM,3:55,,,SUB: Okoro FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,569,8,0,4,9:23 PM,3:55,,,SUB: Thompson FOR Strus,,,5,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,571,8,0,4,9:23 PM,3:55,,,SUB: Niang FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,572,8,0,4,9:23 PM,3:55,,,SUB: Morris Sr. FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,577,1,5,4,9:23 PM,3:43,Springer 3' Layup (2 PTS),,,114 - 89,-25,4,1630531,Jaden Springer,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,578,1,79,4,9:24 PM,3:24,,,Niang 14' Pullup Jump Shot (4 PTS),116 - 89,-27,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,579,6,1,4,9:24 PM,3:12,,,Okoro P.FOUL (P4.T4) (N.Buchert),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300202,581,8,0,4,9:24 PM,3:12,,,SUB: Merrill FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,583,2,80,4,9:24 PM,3:02,MISS Mykhailiuk 28' 3PT Step Back Jump Shot,,,,,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,584,4,0,4,9:24 PM,3:00,,,Merrill REBOUND (Off:0 Def:1),,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,585,2,79,4,9:24 PM,2:50,,,MISS Merrill 28' 3PT Pullup Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,586,4,0,4,9:25 PM,2:48,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,588,2,58,4,9:25 PM,2:25,MISS Queta 6' Turnaround Hook Shot,,,,,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,589,4,0,4,9:25 PM,2:24,,,Thompson REBOUND (Off:1 Def:2),,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,590,2,6,4,9:25 PM,2:11,Springer BLOCK (1 BLK),,MISS Okoro 4' Driving Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630531,Jaden Springer,1610612738.0,Boston,Celtics,BOS,1
+0042300202,592,4,0,4,9:25 PM,2:10,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,594,8,0,4,9:25 PM,2:10,,,SUB: Jones FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042300202,596,2,79,4,9:26 PM,2:05,,,MISS Niang 27' 3PT Pullup Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,597,4,0,4,9:26 PM,2:03,Brissett REBOUND (Off:0 Def:1),,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,598,2,102,4,9:26 PM,1:52,MISS Brissett 5' Driving Floating Bank Jump Shot,,,,,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,599,4,0,4,9:26 PM,1:50,,,Niang REBOUND (Off:1 Def:2),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,600,1,79,4,9:26 PM,1:41,,,Morris Sr. 16' Pullup Jump Shot (4 PTS) (Niang 1 AST),118 - 89,-29,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042300202,602,5,45,4,9:26 PM,1:32,Mykhailiuk Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300202,603,2,1,4,9:26 PM,1:24,,,MISS Morris Sr. 28' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,604,4,0,4,9:26 PM,1:22,Mykhailiuk REBOUND (Off:0 Def:1),,,,,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,605,1,73,4,9:27 PM,1:03,Walsh 2' Driving Reverse Layup (2 PTS),,,118 - 91,-27,4,1641775,Jordan Walsh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300202,606,2,93,4,9:27 PM,0:40,,,MISS Thompson 13' Driving Bank Hook Shot,,,5,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042300202,607,4,0,4,9:27 PM,0:39,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300202,608,5,11,4,9:27 PM,0:39,,,Cavaliers Turnover: Shot Clock (T#11),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300202,609,1,1,4,9:28 PM,0:28,Brissett 27' 3PT Jump Shot (3 PTS) (Springer 1 AST),,,118 - 94,-24,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,4,1630531,Jaden Springer,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300202,611,5,11,4,9:28 PM,0:03,,,Cavaliers Turnover: Shot Clock (T#12),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300202,612,13,0,4,9:28 PM,0:00,,End of 4th Period (9:28 PM EST),,118 - 94,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

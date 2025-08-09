@@ -1,0 +1,478 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300226,2,12,0,1,8:14 PM,12:00,,Start of 1st Period (8:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,4,10,0,1,8:14 PM,12:00,Jump Ball Gafford vs. Holmgren: Tip to Gilgeous-Alexander,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042300226,7,1,108,1,8:14 PM,11:54,,,Jal. Williams 2' Cutting Dunk Shot (2 PTS) (Gilgeous-Alexander 1 AST),2 - 0,-2,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,9,6,2,1,8:15 PM,11:41,,,Dort S.FOUL (P1.T1) (T.Brothers),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,11,3,11,1,8:15 PM,11:41,Doncic Free Throw 1 of 2 (1 PTS),,,2 - 1,-1,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,12,3,12,1,8:15 PM,11:41,Doncic Free Throw 2 of 2 (2 PTS),,,2 - 2,TIE,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,13,5,11,1,8:16 PM,11:17,,,Thunder Turnover: Shot Clock (T#1),,,3,1610612760,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300226,14,5,2,1,8:16 PM,11:01,Jones Jr. Lost Ball Turnover (P1.T1),,Holmgren STEAL (1 STL),,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,16,1,5,1,8:16 PM,10:49,,,Dort 1' Layup (2 PTS) (Joe 1 AST),4 - 2,-2,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,18,6,2,1,8:16 PM,10:49,Washington S.FOUL (P1.T1) (T.Brothers),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,20,3,10,1,8:17 PM,10:49,,,Dort Free Throw 1 of 1 (3 PTS),5 - 2,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,21,2,6,1,8:17 PM,10:34,MISS Gafford 1' Driving Layup,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,22,4,0,1,8:17 PM,10:32,Gafford REBOUND (Off:1 Def:0),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,23,1,87,1,8:17 PM,10:32,Gafford 1' Putback Dunk (2 PTS),,,5 - 4,-1,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,24,1,1,1,8:17 PM,10:14,,,Holmgren 25' 3PT Jump Shot (3 PTS) (Dort 1 AST),8 - 4,-4,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,26,5,1,1,8:18 PM,10:02,Doncic Bad Pass Turnover (P1.T2),,Jal. Williams STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,28,1,50,1,8:18 PM,9:58,,,Jal. Williams 1' Running Dunk (4 PTS),10 - 4,-6,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,29,5,2,1,8:18 PM,9:41,Doncic Lost Ball Turnover (P2.T3),,Dort STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,31,6,1,1,8:18 PM,9:38,Washington P.FOUL (P2.T2) (J.Tiven),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,33,1,1,1,8:19 PM,9:22,,,Dort 25' 3PT Jump Shot (6 PTS) (Jal. Williams 1 AST),13 - 4,-9,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,37,9,1,1,8:19 PM,9:22,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,38,18,5,1,8:19 PM,9:22,,Instant Replay1st Period (8:19 PM EST),,13 - 4,-9,0,35,Eric Riley,,,,,0,0,,,,,,1,0,,,,,,1
+0042300226,39,6,2,1,8:23 PM,9:13,,,Holmgren S.FOUL (P1.T2) (M.Ervin),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,41,3,11,1,8:23 PM,9:13,Jones Jr. Free Throw 1 of 2 (1 PTS),,,13 - 5,-8,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,42,8,0,1,8:23 PM,9:13,SUB: Green FOR Washington,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,44,3,12,1,8:24 PM,9:13,Jones Jr. Free Throw 2 of 2 (2 PTS),,,13 - 6,-7,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,45,1,1,1,8:24 PM,8:49,,,Dort 25' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 2 AST),16 - 6,-10,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,47,2,78,1,8:24 PM,8:31,MISS Jones Jr. 7' Floating Jump Shot,,Gilgeous-Alexander BLOCK (1 BLK),,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042300226,49,4,0,1,8:24 PM,8:29,,,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,50,2,1,1,8:25 PM,8:15,,,MISS Holmgren 26' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,51,4,0,1,8:25 PM,8:13,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,52,1,80,1,8:25 PM,8:06,Doncic 26' 3PT Step Back Jump Shot (5 PTS),,,16 - 9,-7,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,53,2,79,1,8:25 PM,7:51,,,MISS Gilgeous-Alexander 19' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,54,4,0,1,8:25 PM,7:49,Green REBOUND (Off:0 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,55,5,1,1,8:25 PM,7:41,Doncic Bad Pass Turnover (P3.T4),,Dort STEAL (2 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,57,2,2,1,8:25 PM,7:35,,,MISS Jal. Williams 3PT Running Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,58,4,0,1,8:25 PM,7:32,Gafford REBOUND (Off:1 Def:1),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,59,1,79,1,8:26 PM,7:20,Irving 5' Pullup Jump Shot (2 PTS),,,16 - 11,-5,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,60,2,63,1,8:26 PM,6:56,,,MISS Jal. Williams 14' Fadeaway Jumper,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,61,4,0,1,8:26 PM,6:55,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,62,1,80,1,8:26 PM,6:43,Doncic 26' 3PT Step Back Jump Shot (8 PTS),,,16 - 14,-2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,63,1,86,1,8:27 PM,6:25,,,Gilgeous-Alexander 13' Turnaround Fadeaway (2 PTS),18 - 14,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,64,6,1,1,8:27 PM,6:14,,,Jal. Williams P.FOUL (P1.T3) (T.Brothers),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,66,8,0,1,8:27 PM,6:14,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,67,8,0,1,8:27 PM,6:14,,,SUB: Giddey FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,68,8,0,1,8:27 PM,6:14,,,SUB: Jay. Williams FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,72,1,86,1,8:27 PM,5:59,Green 10' Turnaround Fadeaway (2 PTS),,,18 - 16,-2,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,73,2,79,1,8:28 PM,5:43,,,MISS Dort 25' 3PT Pullup Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,74,4,0,1,8:28 PM,5:43,,,Jal. Williams REBOUND (Off:1 Def:0),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,75,2,1,1,8:28 PM,5:34,,,MISS Joe 20' Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,76,4,0,1,8:28 PM,5:32,Lively II REBOUND (Off:0 Def:1),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,77,2,1,1,8:28 PM,5:23,MISS Green 3PT Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,78,4,0,1,8:28 PM,5:19,,,Joe REBOUND (Off:0 Def:1),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,79,1,103,1,8:28 PM,5:15,,,Joe 11' Running Pull-Up Jump Shot (2 PTS),20 - 16,-4,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,80,2,3,1,8:28 PM,5:00,MISS Lively II 7' Hook Shot,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,81,4,0,1,8:28 PM,4:59,,,Joe REBOUND (Off:0 Def:2),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,82,2,1,1,8:28 PM,4:52,,,MISS Jay. Williams 26' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,83,4,0,1,8:29 PM,4:49,Jones Jr. REBOUND (Off:0 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,84,6,2,1,8:29 PM,4:31,,,Giddey S.FOUL (P1.T4) (M.Ervin),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,86,3,11,1,8:29 PM,4:31,MISS Green Free Throw 1 of 2,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,87,4,1,1,8:29 PM,4:31,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,88,8,0,1,8:29 PM,4:31,SUB: Hardy FOR Doncic,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,89,8,0,1,8:29 PM,4:31,,,SUB: Wiggins FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,90,8,0,1,8:29 PM,4:31,,,SUB: Wallace FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,94,3,12,1,8:30 PM,4:31,Green Free Throw 2 of 2 (3 PTS),,,20 - 17,-3,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,95,2,101,1,8:30 PM,4:13,,,MISS Wallace 9' Driving Floating Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,96,4,0,1,8:30 PM,4:11,Lively II REBOUND (Off:0 Def:2),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,97,1,108,1,8:30 PM,4:02,Lively II 1' Cutting Dunk Shot (2 PTS) (Hardy 1 AST),,,20 - 19,-1,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,99,2,1,1,8:31 PM,3:42,,,MISS Giddey 25' 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,100,4,0,1,8:31 PM,3:40,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,102,2,101,1,8:31 PM,3:36,MISS Hardy 4' Driving Floating Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,103,4,0,1,8:31 PM,3:35,Hardy REBOUND (Off:1 Def:0),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,104,5,40,1,8:31 PM,3:24,Jones Jr. Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,105,9,1,1,8:31 PM,3:24,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,106,8,0,1,8:32 PM,3:24,SUB: Hardaway Jr. FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,107,8,0,1,8:32 PM,3:24,,,SUB: Gilgeous-Alexander FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,110,1,80,1,8:35 PM,3:06,,,Gilgeous-Alexander 3PT Step Back Jump Shot (5 PTS) (Jay. Williams 1 AST),23 - 19,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,112,2,79,1,8:35 PM,2:51,MISS Irving 25' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,113,4,0,1,8:35 PM,2:48,,,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,114,2,63,1,8:36 PM,2:40,,,MISS Gilgeous-Alexander 9' Fadeaway Jumper,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,115,4,0,1,8:36 PM,2:38,Lively II REBOUND (Off:0 Def:3),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,116,2,1,1,8:36 PM,2:29,MISS Hardy 25' 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,117,4,0,1,8:36 PM,2:27,Hardaway Jr. REBOUND (Off:1 Def:0),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,118,1,52,1,8:36 PM,2:20,Lively II 1' Alley Oop Dunk (4 PTS) (Hardy 2 AST),,,23 - 21,-2,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,120,1,79,1,8:36 PM,1:58,,,Gilgeous-Alexander 13' Pullup Jump Shot (7 PTS) (Giddey 1 AST),25 - 21,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,122,2,1,1,8:37 PM,1:39,MISS Hardaway Jr. 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,123,4,0,1,8:37 PM,1:37,,,Jay. Williams REBOUND (Off:0 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,124,6,1,1,8:37 PM,1:32,Hardy P.FOUL (P1.T3) (M.Ervin),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,126,8,0,1,8:37 PM,1:32,SUB: Doncic FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,127,8,0,1,8:37 PM,1:32,,,SUB: Holmgren FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,130,2,1,1,8:37 PM,1:21,,,MISS Giddey 24' 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,131,4,0,1,8:37 PM,1:21,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,132,6,3,1,8:37 PM,1:21,Hardaway Jr. L.B.FOUL (P1.PN) (J.Tiven),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,134,3,11,1,8:38 PM,1:21,,,Holmgren Free Throw 1 of 2 (4 PTS),26 - 21,-5,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,135,8,0,1,8:38 PM,1:21,,,SUB: Dort FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,137,3,12,1,8:38 PM,1:21,,,Holmgren Free Throw 2 of 2 (5 PTS),27 - 21,-6,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,138,5,2,1,8:39 PM,1:07,Lively II Lost Ball Turnover (P1.T6),,Holmgren STEAL (2 STL),,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,140,2,1,1,8:39 PM,0:59,,,MISS Dort 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,141,4,0,1,8:39 PM,0:56,Lively II REBOUND (Off:0 Def:4),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,142,2,78,1,8:39 PM,0:32,MISS Hardy 23' Floating Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,144,4,0,1,8:39 PM,0:30,,,Giddey REBOUND (Off:0 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,145,10,0,1,8:40 PM,0:21,Jump Ball Green vs. Giddey: Tip to Lively II,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0
+0042300226,148,5,2,1,8:40 PM,0:21,Green STEAL (1 STL),,Giddey Lost Ball Turnover (P1.T2),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,150,1,6,1,8:40 PM,0:04,Hardy 2' Driving Layup (2 PTS) (Doncic 1 AST),,,27 - 23,-4,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,152,6,2,1,8:40 PM,0:04,,,Holmgren S.FOUL (P2.PN) (T.Brothers),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,154,8,0,1,8:40 PM,0:04,SUB: Jones Jr. FOR Doncic,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,155,8,0,1,8:40 PM,0:04,,,SUB: Joe FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,156,8,0,1,8:40 PM,0:04,,,SUB: Jal. Williams FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,160,3,10,1,8:41 PM,0:04,MISS Hardy Free Throw 1 of 1,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,161,4,0,1,8:41 PM,0:03,,,Jal. Williams REBOUND (Off:1 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,162,1,79,1,8:41 PM,0:00,,,Jal. Williams 40' 3PT Pullup Jump Shot (7 PTS),30 - 23,-7,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,163,18,0,1,8:41 PM,0:00,,Instant Replay1st Period (8:41 PM EST),,30 - 23,-7,0,162,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300226,164,13,0,1,8:42 PM,0:00,,End of 1st Period (8:42 PM EST),,30 - 23,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,175,12,0,2,8:45 PM,12:00,,Start of 2nd Period (8:45 PM EST),,30 - 23,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,176,2,1,2,8:45 PM,11:39,MISS Jones Jr. 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042300226,177,4,0,2,8:45 PM,11:36,,,Dort REBOUND (Off:0 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0042300226,178,6,1,2,8:45 PM,11:32,Jones Jr. P.FOUL (P1.T1) (T.Brothers),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0042300226,180,8,0,2,8:45 PM,11:32,,,SUB: Joe FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,182,2,1,2,8:46 PM,11:18,Hardaway Jr. BLOCK (1 BLK),,MISS Joe 26' 3PT Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1
+0042300226,184,4,0,2,8:46 PM,11:15,Gafford REBOUND (Off:1 Def:2),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,185,1,80,2,8:46 PM,11:07,Doncic 14' Step Back Jump Shot (10 PTS),,,30 - 25,-5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,186,2,73,2,8:46 PM,10:47,,,MISS Dort 1' Driving Reverse Layup,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,187,4,0,2,8:46 PM,10:45,,,K. Williams REBOUND (Off:1 Def:0),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,188,1,72,2,8:46 PM,10:44,,,K. Williams 1' Putback Layup (2 PTS),32 - 25,-7,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,189,1,47,2,8:47 PM,10:31,Hardaway Jr. 4' Turnaround Jump Shot (2 PTS) (Doncic 2 AST),,,32 - 27,-5,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,191,2,101,2,8:47 PM,10:13,,,MISS Gilgeous-Alexander 9' Driving Floating Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,192,4,0,2,8:47 PM,10:12,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,194,6,11,2,8:47 PM,10:12,Doncic T.FOUL (P0.T1) (M.Ervin),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,195,3,16,2,8:48 PM,10:12,,,Gilgeous-Alexander Free Throw Technical (8 PTS),33 - 27,-6,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,196,2,1,2,8:48 PM,10:03,,,MISS Dort 25' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,197,4,0,2,8:48 PM,9:59,,,Joe REBOUND (Off:1 Def:2),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,198,6,1,2,8:48 PM,9:57,Jones Jr. P.FOUL (P2.T2) (J.Tiven),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,200,2,80,2,8:49 PM,9:48,,,MISS Gilgeous-Alexander 18' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,201,4,0,2,8:49 PM,9:46,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,203,8,0,2,8:49 PM,9:46,SUB: Irving FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,204,8,0,2,8:49 PM,9:46,,,SUB: Wallace FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,208,1,6,2,8:50 PM,9:39,,,Gilgeous-Alexander 2' Driving Layup (10 PTS),35 - 27,-8,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,209,5,45,2,8:50 PM,9:28,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,210,6,2,2,8:50 PM,9:17,Washington S.FOUL (P3.T3) (T.Brothers),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,212,3,11,2,8:51 PM,9:17,,,MISS Gilgeous-Alexander Free Throw 1 of 2,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,213,4,1,2,8:51 PM,9:17,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,214,8,0,2,8:51 PM,9:17,SUB: Green FOR Washington,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,216,3,12,2,8:51 PM,9:17,,,Gilgeous-Alexander Free Throw 2 of 2 (11 PTS),36 - 27,-9,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0042300226,217,2,1,2,8:52 PM,8:54,MISS Jones Jr. 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,218,4,0,2,8:52 PM,8:51,,,Dort REBOUND (Off:0 Def:2),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,219,1,63,2,8:52 PM,8:43,,,Gilgeous-Alexander 15' Fadeaway Jumper (13 PTS),38 - 27,-11,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,220,6,2,2,8:52 PM,8:43,Green S.FOUL (P1.T4) (J.Tiven),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,222,3,10,2,8:52 PM,8:43,,,MISS Gilgeous-Alexander Free Throw 1 of 1,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,223,4,0,2,8:52 PM,8:40,Gafford REBOUND (Off:1 Def:3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,224,6,2,2,8:53 PM,8:30,,,Holmgren S.FOUL (P3.T1) (J.Tiven),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,226,3,11,2,8:53 PM,8:30,MISS Gafford Free Throw 1 of 2,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,227,4,1,2,8:53 PM,8:30,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,228,8,0,2,8:53 PM,8:30,,,SUB: Jay. Williams FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,229,8,0,2,8:53 PM,8:30,,,SUB: Giddey FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,232,3,12,2,8:54 PM,8:30,Gafford Free Throw 2 of 2 (3 PTS),,,38 - 28,-10,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,233,2,1,2,8:54 PM,8:09,Gafford BLOCK (1 BLK),,MISS Dort 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1
+0042300226,235,4,0,2,8:54 PM,8:09,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,237,8,0,2,8:54 PM,8:09,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,239,2,102,2,8:54 PM,8:05,,,MISS Dort 9' Driving Floating Bank Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,240,4,0,2,8:54 PM,8:03,,,Giddey REBOUND (Off:1 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,241,2,1,2,8:54 PM,7:57,,,MISS Jay. Williams 25' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,242,4,0,2,8:54 PM,7:54,,,Giddey REBOUND (Off:2 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,243,2,80,2,8:55 PM,7:43,,,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,244,4,0,2,8:55 PM,7:40,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,245,1,41,2,8:55 PM,7:36,Irving 2' Running Layup (4 PTS),,,38 - 30,-8,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,246,5,2,2,8:55 PM,7:22,Doncic STEAL (1 STL),,Dort Lost Ball Turnover (P1.T3),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,248,1,6,2,8:55 PM,7:14,Doncic 2' Driving Layup (12 PTS),,,38 - 32,-6,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,249,9,1,2,8:55 PM,7:14,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,250,8,0,2,8:58 PM,7:14,,,SUB: Jal. Williams FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,251,8,0,2,8:58 PM,7:14,,,SUB: Joe FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,254,2,73,2,8:59 PM,6:56,,,MISS Joe 1' Driving Reverse Layup,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,255,4,0,2,8:59 PM,6:54,Green REBOUND (Off:0 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,256,1,52,2,8:59 PM,6:48,Jones Jr. 1' Alley Oop Dunk (4 PTS) (Doncic 3 AST),,,38 - 34,-4,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,258,2,6,2,9:00 PM,6:32,,,MISS Jal. Williams 3' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,259,4,0,2,9:00 PM,6:32,Lively II REBOUND (Off:0 Def:5),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,261,8,0,2,9:00 PM,6:25,,,SUB: Holmgren FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,262,8,0,2,9:00 PM,6:25,,,SUB: Gilgeous-Alexander FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,265,2,80,2,9:00 PM,6:15,MISS Doncic 25' 3PT Step Back Jump Shot,,Gilgeous-Alexander BLOCK (2 BLK),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042300226,267,4,0,2,9:00 PM,6:12,,,Dort REBOUND (Off:0 Def:3),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,270,5,15,2,9:00 PM,6:08,,,Holmgren Offensive Goaltending Turnover (P1.T4),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042300226,271,6,1,2,9:01 PM,5:53,,,Dort P.FOUL (P2.T2) (M.Ervin),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,273,8,0,2,9:01 PM,5:53,SUB: Hardy FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,276,1,1,2,9:01 PM,5:48,Green 25' 3PT Jump Shot (6 PTS) (Lively II 1 AST),,,38 - 37,-1,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,278,1,73,2,9:02 PM,5:37,,,Gilgeous-Alexander 2' Driving Reverse Layup (15 PTS),40 - 37,-3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,279,1,6,2,9:02 PM,5:18,Jones Jr. 4' Driving Layup (6 PTS),,,40 - 39,-1,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,280,2,1,2,9:02 PM,5:07,,,MISS Holmgren 26' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,281,4,0,2,9:02 PM,5:05,Doncic REBOUND (Off:0 Def:3),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,282,6,1,2,9:02 PM,5:00,,,Dort P.FOUL (P3.T3) (M.Ervin),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,284,18,3,2,9:03 PM,5:00,,Instant Replay2nd Period (9:03 PM EST),,40 - 39,-1,0,282,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300226,285,1,1,2,9:04 PM,4:54,Doncic 26' 3PT Jump Shot (15 PTS) (Lively II 2 AST),,,40 - 42,2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,287,6,2,2,9:05 PM,4:43,Doncic S.FOUL (P1.PN) (M.Ervin),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,289,9,1,2,9:05 PM,4:43,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,290,18,4,2,9:05 PM,4:43,,Instant Replay2nd Period (9:05 PM EST),,40 - 42,2,0,287,Eric Leckner,,,,,0,0,,,,,,1,0,,,,,,1
+0042300226,291,8,0,2,9:06 PM,4:43,SUB: Irving FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,292,8,0,2,9:06 PM,4:43,,,SUB: Wallace FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,295,3,11,2,9:09 PM,4:43,,,MISS Gilgeous-Alexander Free Throw 1 of 2,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,296,4,1,2,9:09 PM,4:43,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,297,3,12,2,9:09 PM,4:43,,,Gilgeous-Alexander Free Throw 2 of 2 (16 PTS),41 - 42,1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,298,6,26,2,9:09 PM,4:32,Doncic Offensive Charge Foul (P2) (T.Brothers),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,300,5,37,2,9:09 PM,4:32,Doncic Offensive Foul Turnover (P4.T8),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,301,2,1,2,9:10 PM,4:16,,,MISS Holmgren 26' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,302,4,0,2,9:10 PM,4:15,Doncic REBOUND (Off:0 Def:4),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,303,2,93,2,9:10 PM,4:06,MISS Irving 4' Driving Bank Hook Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,304,4,0,2,9:10 PM,4:02,,,Jal. Williams REBOUND (Off:1 Def:2),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,305,1,7,2,9:10 PM,3:54,,,Holmgren 1' Dunk (7 PTS) (Gilgeous-Alexander 3 AST),43 - 42,-1,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,307,5,1,2,9:10 PM,3:40,Irving Bad Pass Turnover (P2.T9),,Joe STEAL (1 STL),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,309,1,50,2,9:10 PM,3:36,,,Jal. Williams 1' Running Dunk (9 PTS) (Joe 2 AST),45 - 42,-3,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,311,5,4,2,9:11 PM,3:19,Doncic Traveling Turnover (P5.T10),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,312,8,0,2,9:11 PM,3:19,SUB: Green FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,313,8,0,2,9:11 PM,3:19,SUB: Gafford FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,316,1,1,2,9:11 PM,3:05,,,Wallace 3PT Jump Shot (3 PTS) (Holmgren 1 AST),48 - 42,-6,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,318,1,52,2,9:11 PM,2:52,Gafford 2' Alley Oop Dunk (5 PTS) (Hardy 3 AST),,,48 - 44,-4,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,320,1,78,2,9:12 PM,2:37,,,Gilgeous-Alexander 9' Floating Jump Shot (18 PTS),50 - 44,-6,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,335,5,2,2,9:12 PM,2:24,Gafford Lost Ball Turnover (P1.T11),,Wallace STEAL (1 STL),,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,324,1,2,2,9:12 PM,2:19,,,Joe 3PT Running Jump Shot (5 PTS) (Jal. Williams 2 AST),53 - 44,-9,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,326,1,1,2,9:12 PM,1:59,Hardy 3PT Jump Shot (5 PTS) (Green 1 AST),,,53 - 47,-6,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,328,1,80,2,9:12 PM,1:41,,,Gilgeous-Alexander 3PT Step Back Jump Shot (21 PTS) (Wallace 1 AST),56 - 47,-9,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,330,2,1,2,9:13 PM,1:23,MISS Hardy 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,331,4,0,2,9:13 PM,1:21,,,Holmgren REBOUND (Off:0 Def:1),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,332,1,101,2,9:13 PM,1:14,,,Holmgren 7' Driving Floating Jump Shot (9 PTS),58 - 47,-11,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,333,6,1,2,9:13 PM,1:00,,,Wallace P.FOUL (P1.T4) (M.Ervin),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,337,8,0,2,9:13 PM,1:00,,,SUB: Jay. Williams FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,339,2,1,2,9:14 PM,0:48,MISS Gafford 19' Jump Shot,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,340,4,0,2,9:14 PM,0:46,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,341,5,11,2,9:14 PM,0:46,MAVERICKS Turnover: Shot Clock (T#12),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300226,342,1,1,2,9:14 PM,0:33,,,Jay. Williams 3PT Jump Shot (3 PTS) (Jal. Williams 3 AST),61 - 47,-14,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,345,2,6,2,9:15 PM,0:17,MISS Irving 1' Driving Layup,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,346,4,0,2,9:15 PM,0:15,Gafford REBOUND (Off:3 Def:3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,347,2,97,2,9:15 PM,0:15,MISS Gafford Tip Layup Shot,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,348,4,0,2,9:15 PM,0:15,Gafford REBOUND (Off:3 Def:3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,349,6,2,2,9:15 PM,0:15,,,Wallace S.FOUL (P2.PN) (T.Brothers),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,351,3,11,2,9:16 PM,0:15,MISS Gafford Free Throw 1 of 2,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,352,4,1,2,9:16 PM,0:15,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,353,8,0,2,9:16 PM,0:15,SUB: Jones Jr. FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,355,3,12,2,9:16 PM,0:15,Gafford Free Throw 2 of 2 (6 PTS),,,61 - 48,-13,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,356,1,80,2,9:16 PM,0:01,,,Joe 26' 3PT Step Back Jump Shot (8 PTS) (Gilgeous-Alexander 4 AST),64 - 48,-16,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,358,13,0,2,9:16 PM,0:00,,End of 2nd Period (9:16 PM EST),,64 - 48,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,365,12,0,3,9:33 PM,12:00,,Start of 3rd Period (9:33 PM EST),,64 - 48,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,366,1,1,3,9:33 PM,11:45,Jones Jr. 24' 3PT Jump Shot (9 PTS) (Irving 1 AST),,,64 - 51,-13,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,368,1,108,3,9:34 PM,11:20,,,Holmgren 1' Cutting Dunk Shot (11 PTS) (Gilgeous-Alexander 5 AST),66 - 51,-15,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,370,1,6,3,9:34 PM,11:07,Jones Jr. 2' Driving Layup (11 PTS) (Doncic 4 AST),,,66 - 53,-13,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,372,1,98,3,9:34 PM,10:51,,,Jal. Williams 2' Cutting Layup Shot (11 PTS) (Gilgeous-Alexander 6 AST),68 - 53,-15,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,374,2,6,3,9:34 PM,10:41,MISS Irving 5' Driving Layup,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,375,4,0,3,9:34 PM,10:38,Gafford REBOUND (Off:4 Def:3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,376,1,97,3,9:34 PM,10:38,Gafford Tip Layup Shot (8 PTS),,,68 - 55,-13,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,377,2,101,3,9:35 PM,10:26,,,MISS Gilgeous-Alexander 10' Driving Floating Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,378,4,0,3,9:35 PM,10:24,Doncic REBOUND (Off:0 Def:5),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,379,1,1,3,9:35 PM,10:15,Jones Jr. 26' 3PT Jump Shot (14 PTS) (Doncic 5 AST),,,68 - 58,-10,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,381,1,1,3,9:35 PM,9:49,,,Jal. Williams 25' 3PT Jump Shot (14 PTS) (Joe 3 AST),71 - 58,-13,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,383,2,79,3,9:35 PM,9:37,MISS Washington 25' 3PT Pullup Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,384,4,0,3,9:35 PM,9:33,,,Jal. Williams REBOUND (Off:1 Def:3),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,385,6,2,3,9:36 PM,9:30,Jones Jr. S.FOUL (P3.T1) (M.Ervin),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,387,3,11,3,9:36 PM,9:30,,,Jal. Williams Free Throw 1 of 2 (15 PTS),72 - 58,-14,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,388,8,0,3,9:36 PM,9:30,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,390,3,12,3,9:36 PM,9:30,,,Jal. Williams Free Throw 2 of 2 (16 PTS),73 - 58,-15,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,391,5,40,3,9:37 PM,9:20,Irving Out of Bounds Lost Ball Turnover (P3.T13),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,392,1,52,3,9:37 PM,8:57,,,Holmgren 1' Alley Oop Dunk (13 PTS) (Jal. Williams 4 AST),75 - 58,-17,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,394,1,75,3,9:37 PM,8:41,Irving 2' Driving Finger Roll Layup (6 PTS) (Lively II 3 AST),,,75 - 60,-15,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,396,1,1,3,9:38 PM,8:25,,,Holmgren 11' Jump Shot (15 PTS) (Gilgeous-Alexander 7 AST),77 - 60,-17,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,398,1,6,3,9:38 PM,8:13,Doncic 3' Driving Layup (17 PTS),,,77 - 62,-15,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,399,6,2,3,9:38 PM,8:13,,,Dort S.FOUL (P4.T1) (M.Ervin),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,401,3,10,3,9:38 PM,8:13,Doncic Free Throw 1 of 1 (18 PTS),,,77 - 63,-14,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,402,6,1,3,9:38 PM,8:10,Irving P.FOUL (P1.T2) (M.Ervin),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,404,2,101,3,9:39 PM,7:55,,,MISS Gilgeous-Alexander 7' Driving Floating Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,405,4,0,3,9:39 PM,7:53,Doncic REBOUND (Off:0 Def:6),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,406,6,4,3,9:39 PM,7:49,Doncic OFF.Foul (P3) (T.Brothers),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,408,5,37,3,9:39 PM,7:49,Doncic Offensive Foul Turnover (P6.T14),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,409,8,0,3,9:39 PM,7:49,,,SUB: Jay. Williams FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,410,8,0,3,9:39 PM,7:49,,,SUB: Wallace FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,413,5,1,3,9:40 PM,7:37,Lively II STEAL (1 STL),,Wallace Bad Pass Turnover (P1.T5),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,415,2,41,3,9:40 PM,7:33,MISS Jones Jr. 3' Running Layup,,Wallace BLOCK (1 BLK),,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042300226,417,4,0,3,9:40 PM,7:31,Jones Jr. REBOUND (Off:1 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,418,1,1,3,9:40 PM,7:29,Irving 25' 3PT Jump Shot (9 PTS) (Jones Jr. 1 AST),,,77 - 66,-11,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,420,5,1,3,9:40 PM,7:15,Doncic STEAL (2 STL),,Wallace Bad Pass Turnover (P2.T6),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,422,1,80,3,9:40 PM,7:09,Doncic 28' 3PT Step Back Jump Shot (21 PTS),,,77 - 69,-8,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,423,2,1,3,9:41 PM,6:51,Lively II BLOCK (1 BLK),,MISS Wallace 3PT Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+0042300226,425,4,0,3,9:41 PM,6:48,Washington REBOUND (Off:0 Def:1),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,426,6,2,3,9:41 PM,6:44,,,Jay. Williams S.FOUL (P1.T2) (M.Ervin),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,428,9,1,3,9:41 PM,6:44,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,429,3,11,3,9:45 PM,6:44,Doncic Free Throw 1 of 2 (22 PTS),,,77 - 70,-7,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,430,3,12,3,9:45 PM,6:44,Doncic Free Throw 2 of 2 (23 PTS),,,77 - 71,-6,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,431,2,79,3,9:45 PM,6:31,,,MISS Jal. Williams 17' Pullup Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,432,4,0,3,9:45 PM,6:29,Lively II REBOUND (Off:0 Def:6),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,433,5,1,3,9:45 PM,6:20,Doncic Bad Pass Turnover (P7.T15),,Jal. Williams STEAL (2 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,435,6,1,3,9:46 PM,6:20,Lively II P.FOUL (P1.T3) (T.Brothers),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,437,2,63,3,9:46 PM,6:09,,,MISS Gilgeous-Alexander 12' Fadeaway Jumper,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,438,4,0,3,9:46 PM,6:07,Lively II REBOUND (Off:0 Def:7),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,439,1,79,3,9:46 PM,6:00,Irving 13' Pullup Jump Shot (11 PTS),,,77 - 73,-4,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,440,2,1,3,9:46 PM,5:45,,,MISS Wallace 25' 3PT Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,441,4,0,3,9:46 PM,5:42,,,Jal. Williams REBOUND (Off:2 Def:3),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,442,2,101,3,9:47 PM,5:32,,,MISS Gilgeous-Alexander 8' Driving Floating Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,443,4,0,3,9:47 PM,5:30,Lively II REBOUND (Off:0 Def:8),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,444,8,0,3,9:47 PM,5:18,,,SUB: Dort FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,445,8,0,3,9:47 PM,5:18,,,SUB: Wiggins FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,448,10,0,3,9:47 PM,5:11,Jump Ball Lively II vs. Jay. Williams: Tip to Wallace,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0
+0042300226,451,5,1,3,9:47 PM,5:11,Irving Bad Pass Turnover (P4.T16),,Jay. Williams STEAL (1 STL),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,453,5,39,3,9:48 PM,5:06,,,Dort Step Out of Bounds Turnover (P2.T7),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042300226,454,2,6,3,9:48 PM,4:49,MISS Irving 4' Driving Layup,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,455,4,0,3,9:48 PM,4:47,Lively II REBOUND (Off:1 Def:8),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,457,8,0,3,9:48 PM,4:44,SUB: Green FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,459,2,1,3,9:49 PM,4:42,MISS Irving 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,460,4,0,3,9:49 PM,4:38,,,Wiggins REBOUND (Off:0 Def:1),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,461,6,17,3,9:49 PM,4:28,MAVERICKS T.Foul (Def. 3 Sec Lively II ) (M.Ervin),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,462,3,16,3,9:49 PM,4:28,,,Jal. Williams Free Throw Technical (17 PTS),78 - 73,-5,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,463,2,79,3,9:50 PM,4:18,,,MISS Wiggins 17' Pullup Jump Shot,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,464,4,0,3,9:50 PM,4:15,Washington REBOUND (Off:0 Def:2),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,465,2,1,3,9:50 PM,4:04,MISS Green 3PT Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,466,4,0,3,9:50 PM,4:03,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,467,6,3,3,9:50 PM,4:03,Irving L.B.FOUL (P2.T4) (T.Brothers),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,469,6,1,3,9:51 PM,3:58,Irving P.FOUL (P3.PN) (J.Tiven),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,471,3,11,3,9:51 PM,3:58,,,MISS Jay. Williams Free Throw 1 of 2,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,472,4,1,3,9:51 PM,3:58,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,473,8,0,3,9:51 PM,3:58,SUB: Hardy FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,475,3,12,3,9:51 PM,3:58,,,Jay. Williams Free Throw 2 of 2 (4 PTS),79 - 73,-6,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,476,6,1,3,9:52 PM,3:49,,,Wallace P.FOUL (P3.T3) (T.Brothers),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,478,8,0,3,9:52 PM,3:49,SUB: Gafford FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,479,8,0,3,9:52 PM,3:49,,,SUB: Giddey FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,482,5,1,3,9:52 PM,3:42,Hardy Bad Pass Turnover (P1.T17),,Dort STEAL (3 STL),,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,484,6,2,3,9:52 PM,3:39,Hardy S.FOUL (P2.PN) (T.Brothers),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0042300226,487,9,1,3,9:52 PM,3:39,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,488,18,5,3,9:52 PM,3:39,,Instant Replay3rd Period (9:52 PM EST),,79 - 73,-6,0,484,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300226,489,8,0,3,9:55 PM,3:39,,,SUB: Gilgeous-Alexander FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,491,3,11,3,9:56 PM,3:39,,,Dort Free Throw 1 of 2 (10 PTS),80 - 73,-7,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,492,3,12,3,9:57 PM,3:39,,,Dort Free Throw 2 of 2 (11 PTS),81 - 73,-8,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,493,6,1,3,9:57 PM,3:29,,,Gilgeous-Alexander P.FOUL (P1.T4) (T.Brothers),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,495,8,0,3,9:57 PM,3:29,SUB: Irving FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,496,8,0,3,9:57 PM,3:29,SUB: Jones Jr. FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,497,8,0,3,9:57 PM,3:29,,,SUB: Holmgren FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,501,2,1,3,9:57 PM,3:14,MISS Doncic 15' Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,502,4,0,3,9:58 PM,3:12,,,Wiggins REBOUND (Off:0 Def:2),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,503,2,1,3,9:58 PM,2:51,,,MISS Holmgren 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,504,4,0,3,9:58 PM,2:50,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,505,5,11,3,9:58 PM,2:50,,,Thunder Turnover: Shot Clock (T#8),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,506,2,80,3,9:58 PM,2:39,MISS Doncic 29' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,507,4,0,3,9:58 PM,2:37,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,509,1,79,3,9:59 PM,2:30,Irving 25' 3PT Pullup Jump Shot (14 PTS) (Gafford 1 AST),,,81 - 76,-5,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,511,1,102,3,9:59 PM,2:13,,,Gilgeous-Alexander 8' Driving Floating Bank Jump Shot (23 PTS),83 - 76,-7,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,512,2,79,3,9:59 PM,1:55,MISS Irving 26' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,513,4,0,3,9:59 PM,1:55,,,Holmgren REBOUND (Off:0 Def:2),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,514,1,80,3,10:00 PM,1:47,,,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (26 PTS),86 - 76,-10,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,515,1,3,3,10:00 PM,1:34,Gafford 3' Hook Shot (10 PTS) (Irving 2 AST),,,86 - 78,-8,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,517,1,80,3,10:00 PM,1:20,,,Gilgeous-Alexander 16' Step Back Jump Shot (28 PTS),88 - 78,-10,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,518,2,102,3,10:00 PM,1:07,MISS Irving 7' Driving Floating Bank Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,519,4,0,3,10:00 PM,1:04,,,Wiggins REBOUND (Off:0 Def:3),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,520,2,1,3,10:00 PM,0:57,,,MISS Wiggins 3PT Jump Shot,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,521,4,0,3,10:00 PM,0:55,,,Giddey REBOUND (Off:3 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,522,1,72,3,10:00 PM,0:54,,,Giddey 1' Putback Layup (2 PTS),90 - 78,-12,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,523,9,1,3,10:01 PM,0:45,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,524,18,7,3,10:01 PM,0:45,,Instant Replay3rd Period (10:01 PM EST),,90 - 78,-12,0,509,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300226,525,8,0,3,10:02 PM,0:45,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,526,8,0,3,10:02 PM,0:45,,,SUB: Jal. Williams FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,527,8,0,3,10:02 PM,0:45,,,SUB: Joe FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,531,6,1,3,10:03 PM,0:40,,,Dort P.FOUL (P5.PN) (M.Ervin),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,533,3,11,3,10:03 PM,0:40,Doncic Free Throw 1 of 2 (24 PTS),,,90 - 79,-11,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,534,8,0,3,10:03 PM,0:40,,,SUB: Wallace FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,536,3,12,3,10:03 PM,0:40,Doncic Free Throw 2 of 2 (25 PTS),,,90 - 80,-10,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,537,5,2,3,10:04 PM,0:23,Jones Jr. STEAL (1 STL),,Holmgren Lost Ball Turnover (P2.T9),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,539,1,1,3,10:04 PM,0:04,Jones Jr. 3PT Jump Shot (17 PTS) (Washington 1 AST),,,90 - 83,-7,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,541,2,1,3,10:04 PM,0:00,,,MISS Wallace 47' 3PT Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,542,4,0,3,10:04 PM,0:00,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,543,13,0,3,10:04 PM,0:00,,End of 3rd Period (10:04 PM EST),,90 - 83,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,544,12,0,4,10:08 PM,12:00,,Start of 4th Period (10:08 PM EST),,90 - 83,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,545,2,6,4,10:08 PM,11:48,Jones Jr. BLOCK (1 BLK),,MISS Jal. Williams 7' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0
+0042300226,547,4,0,4,10:08 PM,11:45,Doncic REBOUND (Off:0 Def:7),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042300226,548,2,101,4,10:09 PM,11:32,MISS Doncic 7' Driving Floating Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,549,4,0,4,10:09 PM,11:29,,,Gilgeous-Alexander REBOUND (Off:0 Def:3),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,550,2,1,4,10:09 PM,11:21,,,MISS Holmgren 25' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,551,4,0,4,10:09 PM,11:19,Doncic REBOUND (Off:0 Def:8),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,552,2,58,4,10:09 PM,11:09,MISS Washington 5' Turnaround Hook Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,553,4,0,4,10:09 PM,11:06,,,Jal. Williams REBOUND (Off:2 Def:4),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,554,1,52,4,10:09 PM,10:54,,,Holmgren 1' Alley Oop Dunk (17 PTS) (Jal. Williams 5 AST),92 - 83,-9,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,556,1,1,4,10:09 PM,10:37,Jones Jr. 3PT Jump Shot (20 PTS) (Doncic 6 AST),,,92 - 86,-6,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,558,1,6,4,10:10 PM,10:22,,,Jal. Williams 2' Driving Layup (19 PTS),94 - 86,-8,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,559,1,79,4,10:10 PM,10:14,Irving 18' Pullup Jump Shot (16 PTS) (Doncic 7 AST),,,94 - 88,-6,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,561,2,101,4,10:10 PM,9:53,,,MISS Gilgeous-Alexander 9' Driving Floating Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,562,4,0,4,10:10 PM,9:51,Lively II REBOUND (Off:1 Def:9),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,563,2,80,4,10:10 PM,9:45,MISS Irving 25' 3PT Step Back Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,564,4,0,4,10:10 PM,9:44,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,565,6,3,4,10:10 PM,9:44,Lively II L.B.FOUL (P2.T1) (T.Brothers),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,567,6,1,4,10:11 PM,9:31,Doncic P.FOUL (P4.T2) (T.Brothers),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,569,2,86,4,10:11 PM,9:17,,,MISS Jal. Williams 16' Turnaround Fadeaway Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,570,4,0,4,10:12 PM,9:15,Doncic REBOUND (Off:0 Def:9),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,571,1,80,4,10:12 PM,9:09,Doncic 18' Step Back Jump Shot (27 PTS),,,94 - 90,-4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,572,5,45,4,10:12 PM,8:58,,,Holmgren Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042300226,573,2,1,4,10:12 PM,8:47,MISS Washington 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,574,4,0,4,10:12 PM,8:45,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,575,6,3,4,10:12 PM,8:45,Lively II L.B.FOUL (P3.T3) (T.Brothers),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,577,8,0,4,10:12 PM,8:45,,,SUB: Jay. Williams FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,579,2,1,4,10:13 PM,8:33,,,MISS Wallace 24' 3PT Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,580,4,0,4,10:13 PM,8:30,Lively II REBOUND (Off:1 Def:10),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,581,2,80,4,10:13 PM,8:17,MISS Irving 12' Step Back Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,582,4,0,4,10:13 PM,8:15,,,Jal. Williams REBOUND (Off:2 Def:5),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,583,1,1,4,10:13 PM,8:05,,,Joe 3PT Jump Shot (11 PTS) (Jal. Williams 6 AST),97 - 90,-7,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,585,1,98,4,10:14 PM,7:48,Lively II 1' Cutting Layup Shot (6 PTS) (Doncic 8 AST),,,97 - 92,-5,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,587,2,1,4,10:14 PM,7:40,,,MISS Wallace 26' 3PT Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,588,4,0,4,10:14 PM,7:39,Washington REBOUND (Off:0 Def:3),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,589,2,101,4,10:14 PM,7:27,MISS Doncic 12' Driving Floating Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,590,4,0,4,10:14 PM,7:25,Lively II REBOUND (Off:2 Def:10),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,591,1,1,4,10:14 PM,7:23,Irving 26' 3PT Jump Shot (19 PTS) (Washington 2 AST),,,97 - 95,-2,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,593,9,1,4,10:14 PM,7:22,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,594,8,0,4,10:16 PM,7:22,,,SUB: Dort FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,595,8,0,4,10:16 PM,7:22,,,SUB: Holmgren FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,598,2,1,4,10:18 PM,7:04,,,MISS Dort 24' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,599,4,0,4,10:18 PM,7:00,Lively II REBOUND (Off:2 Def:11),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,600,2,101,4,10:18 PM,6:46,MISS Irving 8' Driving Floating Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,601,4,0,4,10:18 PM,6:45,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,602,6,3,4,10:18 PM,6:45,,,Wallace L.B.FOUL (P4.T1) (T.Brothers),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,604,2,6,4,10:19 PM,6:33,MISS Jones Jr. 1' Driving Layup,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,605,4,0,4,10:19 PM,6:30,Lively II REBOUND (Off:3 Def:11),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,606,1,107,4,10:19 PM,6:30,Lively II Tip Dunk Shot (8 PTS),,,97 - 97,TIE,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,607,1,73,4,10:19 PM,6:10,,,Wallace 2' Driving Reverse Layup (5 PTS),99 - 97,-2,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,608,2,1,4,10:19 PM,5:55,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,609,4,0,4,10:19 PM,5:54,,,Jal. Williams REBOUND (Off:2 Def:6),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,610,1,52,4,10:20 PM,5:36,,,Holmgren Alley Oop Dunk (19 PTS) (Jal. Williams 7 AST),101 - 97,-4,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,612,6,2,4,10:20 PM,5:19,,,Gilgeous-Alexander S.FOUL (P2.T2) (J.Tiven),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,614,3,11,4,10:21 PM,5:19,Washington Free Throw 1 of 2 (1 PTS),,,101 - 98,-3,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,617,3,12,4,10:21 PM,5:19,MISS Washington Free Throw 2 of 2,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,615,8,0,4,10:21 PM,5:19,,,SUB: Jay. Williams FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,618,4,0,4,10:21 PM,5:17,,,Jay. Williams REBOUND (Off:0 Def:2),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,619,1,9,4,10:21 PM,5:08,,,Jay. Williams 1' Driving Dunk (6 PTS) (Jal. Williams 8 AST),103 - 98,-5,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,621,1,98,4,10:21 PM,4:56,Lively II 2' Cutting Layup Shot (10 PTS) (Irving 3 AST),,,103 - 100,-3,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,623,6,2,4,10:21 PM,4:56,,,Holmgren S.FOUL (P4.T3) (M.Ervin),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,625,8,0,4,10:22 PM,4:56,SUB: Green FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,626,8,0,4,10:22 PM,4:56,SUB: Hardaway Jr. FOR Doncic,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,629,3,10,4,10:22 PM,4:56,Lively II Free Throw 1 of 1 (11 PTS),,,103 - 101,-2,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,630,1,79,4,10:22 PM,4:44,,,Gilgeous-Alexander 18' Pullup Jump Shot (30 PTS),105 - 101,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,631,9,1,4,10:22 PM,4:43,MAVERICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,632,8,0,4,10:25 PM,4:43,SUB: Irving FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,633,8,0,4,10:25 PM,4:43,SUB: Doncic FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300226,636,2,63,4,10:26 PM,4:23,MISS Irving 12' Fadeaway Jumper,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,637,4,0,4,10:26 PM,4:22,Lively II REBOUND (Off:4 Def:11),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,638,6,2,4,10:26 PM,4:21,,,Holmgren S.FOUL (P5.T4) (M.Ervin),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,640,3,11,4,10:27 PM,4:21,Lively II Free Throw 1 of 2 (12 PTS),,,105 - 102,-3,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,641,3,12,4,10:27 PM,4:21,MISS Lively II Free Throw 2 of 2,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,642,4,0,4,10:27 PM,4:18,Washington REBOUND (Off:1 Def:3),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,643,1,1,4,10:27 PM,4:11,Washington 3PT Jump Shot (4 PTS) (Doncic 9 AST),,,105 - 105,TIE,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,645,2,1,4,10:28 PM,3:51,,,MISS Jay. Williams 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,646,4,0,4,10:28 PM,3:48,Irving REBOUND (Off:0 Def:2),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,647,1,80,4,10:28 PM,3:39,Doncic 19' Step Back Jump Shot (29 PTS),,,105 - 107,2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,648,9,1,4,10:28 PM,3:39,,,Thunder Timeout: Regular (Reg.5 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,649,1,1,4,10:30 PM,3:31,,,Jal. Williams 25' 3PT Jump Shot (22 PTS) (Jay. Williams 2 AST),108 - 107,-1,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,651,2,6,4,10:30 PM,3:06,MISS Doncic 5' Driving Layup,,Jay. Williams BLOCK (1 BLK),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042300226,653,4,0,4,10:30 PM,3:03,Jones Jr. REBOUND (Off:2 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,654,1,79,4,10:30 PM,3:02,Irving 26' 3PT Pullup Jump Shot (22 PTS) (Jones Jr. 2 AST),,,108 - 110,2,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,656,1,80,4,10:30 PM,2:47,,,Gilgeous-Alexander 11' Step Back Jump Shot (32 PTS),110 - 110,TIE,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,657,6,4,4,10:31 PM,2:27,Lively II OFF.Foul (P4) (T.Brothers),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,659,5,37,4,10:31 PM,2:27,Lively II Offensive Foul Turnover (P2.T18),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300226,660,2,63,4,10:31 PM,2:13,,,MISS Gilgeous-Alexander 10' Fadeaway Jumper,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,661,4,0,4,10:31 PM,2:10,Washington REBOUND (Off:1 Def:4),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,662,1,1,4,10:32 PM,2:01,Washington 25' 3PT Jump Shot (7 PTS) (Doncic 10 AST),,,110 - 113,3,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300226,664,2,6,4,10:32 PM,1:45,,,MISS Jal. Williams 4' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,665,4,0,4,10:32 PM,1:45,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,667,2,1,4,10:32 PM,1:36,,,MISS Holmgren 25' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,668,4,0,4,10:32 PM,1:34,Doncic REBOUND (Off:0 Def:10),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,669,2,1,4,10:33 PM,1:14,MISS Irving 3PT Jump Shot,,Jal. Williams BLOCK (1 BLK),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042300226,671,4,0,4,10:33 PM,1:11,Jones Jr. REBOUND (Off:3 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,672,1,86,4,10:33 PM,1:11,Jones Jr. 12' Turnaround Fadeaway (22 PTS),,,110 - 115,5,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,673,1,80,4,10:33 PM,1:05,,,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (35 PTS),113 - 115,2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,674,2,1,4,10:33 PM,0:44,MISS Washington 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,675,4,0,4,10:33 PM,0:41,,,Jal. Williams REBOUND (Off:2 Def:7),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,676,6,1,4,10:34 PM,0:27,Washington P.FOUL (P4.T4) (J.Tiven),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,678,8,0,4,10:34 PM,0:27,,,SUB: Joe FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,680,6,6,4,10:34 PM,0:27,Washington AWAY.FROM.PLAY.FOUL (P5.PN) (M.Ervin),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042300226,682,3,10,4,10:35 PM,0:27,,,Gilgeous-Alexander Free Throw 1 of 1 (36 PTS),114 - 115,1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,683,9,1,4,10:35 PM,0:27,,,Thunder Timeout: Regular (Reg.6 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,684,1,52,4,10:37 PM,0:20,,,Holmgren 1' Alley Oop Dunk (21 PTS) (Gilgeous-Alexander 8 AST),116 - 115,-1,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042300226,686,6,2,4,10:38 PM,0:02,,,Gilgeous-Alexander S.FOUL (P3.PN) (J.Tiven),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300226,688,9,1,4,10:38 PM,0:02,,,Thunder Timeout: Regular (Reg.7 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300226,689,18,4,4,10:38 PM,0:02,,Instant Replay4th Period (10:38 PM EST),,116 - 115,-1,0,686,Antonio McDyess,,,,,0,0,,,,,,1,0,,,,,,1
+0042300226,690,8,0,4,10:39 PM,0:02,,,SUB: Jay. Williams FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042300226,692,3,13,4,10:40 PM,0:02,Washington Free Throw 1 of 3 (8 PTS),,,116 - 116,TIE,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,693,3,14,4,10:40 PM,0:02,Washington Free Throw 2 of 3 (9 PTS),,,116 - 117,1,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,694,3,15,4,10:40 PM,0:02,MISS Washington Free Throw 3 of 3,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300226,695,4,0,4,10:40 PM,0:01,,,Holmgren REBOUND (Off:0 Def:3),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,696,2,1,4,10:41 PM,0:00,,,MISS Jal. Williams 64' 3PT Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042300226,697,4,0,4,10:41 PM,0:00,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300226,698,13,0,4,10:41 PM,0:00,,End of 4th Period (10:41 PM EST),,116 - 117,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

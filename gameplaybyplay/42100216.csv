@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100216,2,12,0,1,7:48 PM,12:00,,Start of 1st Period (7:48 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,4,10,0,1,7:48 PM,12:00,Jump Ball Lopez vs. Horford: Tip to Williams,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0042100216,7,1,1,1,7:48 PM,11:41,,,Brown 27' 3PT Jump Shot (3 PTS),3 - 0,-3,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,8,2,79,1,7:48 PM,11:22,MISS Allen 27' 3PT Pullup Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,9,4,0,1,7:48 PM,11:19,,,Horford REBOUND (Off:0 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,10,2,1,1,7:49 PM,11:11,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,11,4,0,1,7:49 PM,11:08,G. Antetokounmpo REBOUND (Off:0 Def:1),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,12,6,2,1,7:49 PM,11:05,,,Horford S.FOUL (P1.T1) (E.Lewis),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,14,3,11,1,7:49 PM,11:05,G. Antetokounmpo Free Throw 1 of 2 (1 PTS),,,3 - 1,-2,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,15,3,12,1,7:50 PM,11:05,G. Antetokounmpo Free Throw 2 of 2 (2 PTS),,,3 - 2,-1,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,16,1,1,1,7:50 PM,10:55,,,Smart 27' 3PT Jump Shot (3 PTS) (Williams 1 AST),6 - 2,-4,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,18,2,79,1,7:50 PM,10:41,MISS Allen 28' 3PT Pullup Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,19,4,0,1,7:50 PM,10:38,,,Williams REBOUND (Off:0 Def:1),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,20,5,1,1,7:50 PM,10:28,Holiday STEAL (1 STL),,Tatum Bad Pass Turnover (P1.T1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,22,6,2,1,7:50 PM,10:25,,,Williams S.FOUL (P1.T2) (B.Taylor),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,24,3,11,1,7:51 PM,10:25,G. Antetokounmpo Free Throw 1 of 2 (3 PTS),,,6 - 3,-3,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,25,3,12,1,7:52 PM,10:25,G. Antetokounmpo Free Throw 2 of 2 (4 PTS),,,6 - 4,-2,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,26,2,1,1,7:52 PM,10:07,,,MISS Brown 27' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,27,4,0,1,7:52 PM,10:02,Matthews REBOUND (Off:0 Def:1),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,28,2,73,1,7:52 PM,9:57,MISS Allen 4' Driving Reverse Layup,,Horford BLOCK (1 BLK),,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042100216,30,4,0,1,7:52 PM,9:57,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,33,6,26,1,7:53 PM,9:53,G. Antetokounmpo Offensive Charge Foul (P1) (T.Maddox),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,35,5,37,1,7:53 PM,9:53,G. Antetokounmpo Offensive Foul Turnover (P1.T1),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100216,36,2,1,1,7:53 PM,9:40,,,MISS Horford 26' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,37,4,0,1,7:53 PM,9:37,Lopez REBOUND (Off:0 Def:1),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,38,2,79,1,7:54 PM,9:28,MISS Holiday 28' 3PT Pullup Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,39,4,0,1,7:54 PM,9:26,,,Tatum REBOUND (Off:0 Def:1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,40,1,1,1,7:54 PM,9:12,,,Tatum 25' 3PT Jump Shot (3 PTS) (Smart 1 AST),9 - 4,-5,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,42,6,2,1,7:54 PM,8:53,,,Brown S.FOUL (P1.T3) (T.Maddox),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,44,3,11,1,7:55 PM,8:53,G. Antetokounmpo Free Throw 1 of 2 (5 PTS),,,9 - 5,-4,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,45,3,12,1,7:55 PM,8:53,G. Antetokounmpo Free Throw 2 of 2 (6 PTS),,,9 - 6,-3,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,46,1,1,1,7:56 PM,8:36,,,Smart 27' 3PT Jump Shot (6 PTS) (Brown 1 AST),12 - 6,-6,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,48,2,57,1,7:56 PM,8:13,MISS Holiday 2' Driving Hook Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,49,4,0,1,7:56 PM,8:09,,,Horford REBOUND (Off:0 Def:2),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,50,1,1,1,7:56 PM,8:06,,,Tatum 28' 3PT Jump Shot (6 PTS) (Brown 2 AST),15 - 6,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,52,1,79,1,7:56 PM,7:51,G. Antetokounmpo 18' Pullup Jump Shot (8 PTS),,,15 - 8,-7,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,53,6,4,1,7:57 PM,7:45,,,Williams OFF.Foul (P2) (B.Taylor),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,55,5,37,1,7:57 PM,7:45,,,Williams Offensive Foul Turnover (P1.T2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042100216,56,8,0,1,7:57 PM,7:45,SUB: Connaughton FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,57,8,0,1,7:57 PM,7:45,,,SUB: White FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,60,1,58,1,7:57 PM,7:26,Lopez 1' Turnaround Hook Shot (2 PTS) (G. Antetokounmpo 1 AST),,,15 - 10,-5,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,62,2,79,1,7:58 PM,7:11,,,MISS Tatum 22' Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,63,4,0,1,7:58 PM,7:08,,,Smart REBOUND (Off:1 Def:0),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,64,2,1,1,7:58 PM,7:03,,,MISS White 26' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,65,4,0,1,7:58 PM,6:59,Matthews REBOUND (Off:0 Def:2),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,66,1,6,1,7:58 PM,6:50,Connaughton 4' Driving Layup (2 PTS) (Holiday 1 AST),,,15 - 12,-3,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,68,5,2,1,7:58 PM,6:35,Lopez STEAL (1 STL),,Brown Lost Ball Turnover (P1.T3),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,70,1,6,1,7:58 PM,6:24,G. Antetokounmpo 3' Driving Layup (10 PTS),,,15 - 14,-1,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,71,9,1,1,7:59 PM,6:24,,,Celtics Timeout: Regular (Reg.1 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,72,8,0,1,8:01 PM,6:24,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,74,1,6,1,8:03 PM,6:06,,,White 9' Driving Layup (2 PTS),17 - 14,-3,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,76,1,79,1,8:03 PM,5:57,G. Antetokounmpo 27' 3PT Pullup Jump Shot (13 PTS),,,17 - 17,TIE,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,77,2,101,1,8:03 PM,5:47,Holiday BLOCK (1 BLK),,MISS Tatum 12' Driving Floating Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100216,79,4,0,1,8:03 PM,5:47,Portis REBOUND (Off:0 Def:1),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,81,1,103,1,8:03 PM,5:42,Holiday 26' 3PT Running Pull-Up Jump Shot (3 PTS),,,17 - 20,3,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,82,2,1,1,8:03 PM,5:24,,,MISS Tatum 21' Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,83,4,0,1,8:03 PM,5:21,Connaughton REBOUND (Off:0 Def:1),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,84,1,3,1,8:04 PM,5:12,G. Antetokounmpo 10' Hook Shot (15 PTS),,,17 - 22,5,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,85,1,79,1,8:04 PM,4:53,,,Smart 26' 3PT Pullup Jump Shot (9 PTS) (Horford 1 AST),20 - 22,2,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,87,2,79,1,8:04 PM,4:39,MISS G. Antetokounmpo 16' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,88,4,0,1,8:04 PM,4:37,,,Brown REBOUND (Off:0 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,89,2,101,1,8:04 PM,4:31,,,MISS Brown 7' Driving Floating Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,90,4,0,1,8:04 PM,4:28,Connaughton REBOUND (Off:0 Def:2),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,91,2,1,1,8:05 PM,4:15,MISS Portis 27' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,92,4,0,1,8:05 PM,4:15,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,95,8,0,1,8:05 PM,4:15,SUB: Hill FOR Matthews,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,96,8,0,1,8:05 PM,4:15,SUB: Lopez FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,97,8,0,1,8:05 PM,4:15,,,SUB: Theis FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,101,2,79,1,8:05 PM,4:01,,,MISS Smart 26' 3PT Pullup Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,102,4,0,1,8:05 PM,3:58,Lopez REBOUND (Off:0 Def:2),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,103,5,1,1,8:06 PM,3:42,Holiday Bad Pass Turnover (P1.T2),,White STEAL (1 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,105,6,1,1,8:06 PM,3:36,Hill P.FOUL (P1.T1) (T.Maddox),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,107,8,0,1,8:06 PM,3:36,,,SUB: Pritchard FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,109,5,2,1,8:06 PM,3:25,Holiday STEAL (2 STL),,Brown Lost Ball Turnover (P2.T4),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,111,1,101,1,8:07 PM,3:08,Lopez 7' Driving Floating Jump Shot (4 PTS),,,20 - 24,4,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,112,6,1,1,8:07 PM,2:45,Holiday P.FOUL (P1.T2) (E.Lewis),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,114,9,1,1,8:07 PM,2:45,BUCKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,115,8,0,1,8:10 PM,2:45,SUB: Allen FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,116,8,0,1,8:10 PM,2:45,SUB: G. Antetokounmpo FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,117,8,0,1,8:10 PM,2:45,,,SUB: Tatum FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,118,8,0,1,8:10 PM,2:45,,,SUB: Horford FOR Theis,,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,123,1,1,1,8:11 PM,2:31,,,Smart 3PT Jump Shot (12 PTS) (Horford 2 AST),23 - 24,1,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,125,2,86,1,8:11 PM,2:10,MISS G. Antetokounmpo 10' Turnaround Fadeaway Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,126,4,0,1,8:12 PM,2:06,,,Tatum REBOUND (Off:0 Def:2),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,127,1,74,1,8:12 PM,2:03,,,Smart 2' Running Reverse Layup (14 PTS) (Tatum 1 AST),25 - 24,-1,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,129,2,3,1,8:12 PM,1:45,MISS Portis 3' Hook Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,130,4,0,1,8:12 PM,1:42,,,Tatum REBOUND (Off:0 Def:3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,132,2,1,1,8:12 PM,1:26,,,MISS Pritchard 27' 3PT Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,133,4,0,1,8:13 PM,1:23,G. Antetokounmpo REBOUND (Off:0 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,134,6,1,1,8:13 PM,1:09,,,White P.FOUL (P1.T4) (T.Maddox),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,136,2,78,1,8:13 PM,0:59,MISS G. Antetokounmpo 9' Floating Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,137,4,0,1,8:13 PM,0:58,G. Antetokounmpo REBOUND (Off:1 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,138,1,87,1,8:13 PM,0:58,G. Antetokounmpo Putback Dunk (17 PTS),,,25 - 26,1,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,139,1,79,1,8:14 PM,0:45,,,Tatum 26' 3PT Pullup Jump Shot (9 PTS),28 - 26,-2,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,140,2,1,1,8:14 PM,0:33,MISS Portis 28' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,141,4,0,1,8:14 PM,0:30,,,Smart REBOUND (Off:1 Def:1),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,142,2,1,1,8:14 PM,0:10,,,MISS Smart 27' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,143,4,0,1,8:14 PM,0:07,Connaughton REBOUND (Off:0 Def:3),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,144,2,6,1,8:14 PM,0:00,MISS Hill 5' Driving Layup,,Pritchard BLOCK (1 BLK),,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1
+0042100216,146,4,0,1,8:14 PM,0:00,,,Horford REBOUND (Off:0 Def:3),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,147,13,0,1,8:15 PM,0:00,,End of 1st Period (8:15 PM EST),,28 - 26,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100216,158,12,0,2,8:18 PM,12:00,,Start of 2nd Period (8:18 PM EST),,28 - 26,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,159,2,1,2,8:19 PM,11:38,MISS Connaughton 26' 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,160,4,0,2,8:19 PM,11:38,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,161,7,1,2,8:19 PM,11:38,BUCKS Violation: Delay of game Violation,,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100216,162,1,6,2,8:20 PM,11:22,,,Tatum 3' Driving Layup (11 PTS) (Brown 3 AST),30 - 26,-4,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,164,1,108,2,8:20 PM,11:13,Lopez 3' Cutting Dunk Shot (6 PTS) (Allen 1 AST),,,30 - 28,-2,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,166,1,101,2,8:20 PM,10:52,,,Theis 7' Driving Floating Jump Shot (2 PTS) (Tatum 2 AST),32 - 28,-4,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,168,6,4,2,8:21 PM,10:45,Lopez OFF.Foul (P1) (B.Taylor),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,170,5,37,2,8:21 PM,10:45,Lopez Offensive Foul Turnover (P1.T3),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100216,171,8,0,2,8:21 PM,10:45,SUB: Matthews FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,173,2,98,2,8:21 PM,10:32,,,MISS Brown 3' Cutting Layup Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,174,4,0,2,8:21 PM,10:30,Lopez REBOUND (Off:0 Def:3),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,175,1,79,2,8:21 PM,10:16,Holiday 18' Pullup Jump Shot (5 PTS),,,32 - 30,-2,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,177,1,79,2,8:22 PM,10:04,,,Tatum 26' 3PT Pullup Jump Shot (14 PTS),35 - 30,-5,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,178,2,6,2,8:22 PM,9:50,MISS G. Antetokounmpo 5' Driving Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,179,4,0,2,8:22 PM,9:46,G. Antetokounmpo REBOUND (Off:2 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,180,2,97,2,8:22 PM,9:46,MISS G. Antetokounmpo Tip Layup Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,181,4,0,2,8:22 PM,9:45,,,White REBOUND (Off:0 Def:1),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,182,1,1,2,8:22 PM,9:34,,,Brown 24' 3PT Jump Shot (6 PTS) (Tatum 3 AST),38 - 30,-8,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,184,9,1,2,8:22 PM,9:26,BUCKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,185,2,63,2,8:26 PM,9:10,MISS Holiday 15' Fadeaway Jumper,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,186,4,0,2,8:26 PM,9:07,,,Williams REBOUND (Off:0 Def:2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,187,2,1,2,8:26 PM,8:53,,,MISS Theis 25' 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,188,4,0,2,8:27 PM,8:50,G. Antetokounmpo REBOUND (Off:2 Def:3),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,189,2,79,2,8:27 PM,8:41,MISS G. Antetokounmpo 16' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,190,4,0,2,8:27 PM,8:39,,,Theis REBOUND (Off:0 Def:1),,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,191,1,93,2,8:27 PM,8:32,,,Tatum 7' Driving Bank Hook Shot (16 PTS),40 - 30,-10,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,192,2,1,2,8:27 PM,8:17,MISS Lopez 27' 3PT Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,193,4,0,2,8:27 PM,8:15,,,Tatum REBOUND (Off:0 Def:4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,194,2,1,2,8:27 PM,8:03,,,MISS Tatum 27' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,195,4,0,2,8:27 PM,8:01,G. Antetokounmpo REBOUND (Off:2 Def:4),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,196,6,28,2,8:27 PM,8:01,,,Theis Personal Take Foul (P1.T1) (E.Lewis),,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,198,5,1,2,8:28 PM,7:59,Allen Bad Pass Turnover (P1.T4),,Williams STEAL (1 STL),,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,200,6,28,2,8:28 PM,7:59,G. Antetokounmpo Personal Take Foul (P2.T1) (E.Lewis),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,202,18,0,2,8:28 PM,7:59,,Instant Replay2nd Period (8:28 PM EST),,40 - 30,-10,0,200,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100216,203,8,0,2,8:29 PM,7:59,SUB: Portis FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,204,8,0,2,8:29 PM,7:59,SUB: Connaughton FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,205,8,0,2,8:29 PM,7:59,,,SUB: Smart FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,209,2,79,2,8:30 PM,7:44,,,MISS Tatum 27' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,210,4,0,2,8:30 PM,7:42,Portis REBOUND (Off:0 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,211,2,6,2,8:30 PM,7:31,MISS Matthews 6' Driving Layup,,Brown BLOCK (1 BLK),,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042100216,213,4,0,2,8:30 PM,7:26,Portis REBOUND (Off:1 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,214,1,1,2,8:30 PM,7:25,Holiday 27' 3PT Jump Shot (8 PTS) (Connaughton 1 AST),,,40 - 33,-7,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,216,2,6,2,8:30 PM,7:06,,,MISS Tatum 7' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,217,4,0,2,8:30 PM,7:03,Matthews REBOUND (Off:0 Def:3),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,218,1,41,2,8:30 PM,7:02,G. Antetokounmpo 2' Running Layup (19 PTS),,,40 - 35,-5,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,219,6,2,2,8:30 PM,7:02,,,Smart S.FOUL (P1.T2) (B.Taylor),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,221,9,1,2,8:31 PM,7:02,,,Celtics Timeout: Regular (Reg.2 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,222,18,6,2,8:31 PM,7:02,,Instant Replay2nd Period (8:31 PM EST),,40 - 35,-5,0,219,Vinny Del Negro,,,,,0,0,,,,,,1,0,,,,,,0
+0042100216,223,8,0,2,8:34 PM,7:02,,,SUB: Horford FOR Theis,,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,225,3,10,2,8:35 PM,7:02,MISS G. Antetokounmpo Free Throw 1 of 1,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,226,4,0,2,8:35 PM,6:59,,,Horford REBOUND (Off:0 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,227,6,1,2,8:35 PM,6:45,Matthews P.FOUL (P1.T2) (B.Taylor),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,230,1,6,2,8:36 PM,6:37,,,Tatum 1' Driving Layup (18 PTS) (Smart 2 AST),42 - 35,-7,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,232,6,2,2,8:36 PM,6:37,Matthews S.FOUL (P2.T3) (B.Taylor),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,234,3,10,2,8:36 PM,6:37,,,MISS Tatum Free Throw 1 of 1,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,235,4,0,2,8:37 PM,6:32,Portis REBOUND (Off:1 Def:3),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,236,2,1,2,8:37 PM,6:24,MISS Holiday 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,237,4,0,2,8:37 PM,6:20,,,Smart REBOUND (Off:1 Def:2),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,238,2,80,2,8:37 PM,6:16,,,MISS Smart 26' 3PT Step Back Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,239,4,0,2,8:37 PM,6:13,Holiday REBOUND (Off:0 Def:1),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,240,1,108,2,8:37 PM,6:07,G. Antetokounmpo 2' Cutting Dunk Shot (21 PTS) (Matthews 1 AST),,,42 - 37,-5,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,242,2,63,2,8:37 PM,5:50,,,MISS Tatum 12' Fadeaway Jumper,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,243,4,0,2,8:37 PM,5:47,G. Antetokounmpo REBOUND (Off:2 Def:5),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,244,2,2,2,8:37 PM,5:41,MISS Matthews 24' 3PT Running Jump Shot,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,245,4,0,2,8:37 PM,5:37,,,Williams REBOUND (Off:0 Def:3),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,246,2,79,2,8:38 PM,5:25,,,MISS Brown 16' Pullup Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,247,4,0,2,8:38 PM,5:23,Portis REBOUND (Off:1 Def:4),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,248,1,99,2,8:38 PM,5:15,Holiday 1' Cutting Finger Roll Layup Shot (10 PTS) (G. Antetokounmpo 2 AST),,,42 - 39,-3,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,250,2,1,2,8:38 PM,4:49,,,MISS Williams 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,251,4,0,2,8:38 PM,4:46,G. Antetokounmpo REBOUND (Off:2 Def:6),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,252,2,79,2,8:38 PM,4:35,MISS G. Antetokounmpo 20' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,258,4,0,2,8:38 PM,4:32,,,Tatum REBOUND (Off:0 Def:5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,274,5,2,2,8:39 PM,4:31,G. Antetokounmpo STEAL (1 STL),,Tatum Lost Ball Turnover (P2.T5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,253,8,0,2,8:39 PM,4:31,SUB: Allen FOR Matthews,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,255,10,0,2,8:40 PM,4:31,Jump Ball G. Antetokounmpo vs. Tatum: Tip to Connaughton,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100216,260,2,79,2,8:41 PM,4:12,MISS Allen 25' 3PT Pullup Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,261,4,0,2,8:41 PM,4:12,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,263,8,0,2,8:41 PM,4:12,,,SUB: White FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,265,2,80,2,8:41 PM,4:06,MISS Holiday 26' 3PT Step Back Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,266,4,0,2,8:41 PM,4:05,Allen REBOUND (Off:1 Def:0),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,268,2,98,2,8:43 PM,3:59,MISS G. Antetokounmpo 9' Cutting Layup Shot,,Horford BLOCK (2 BLK),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042100216,273,4,0,2,8:43 PM,3:55,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,270,10,0,2,8:43 PM,3:55,Jump Ball G. Antetokounmpo vs. Horford: Tip to Allen,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100216,276,2,57,2,8:44 PM,3:49,MISS G. Antetokounmpo 6' Driving Hook Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,277,4,0,2,8:44 PM,3:49,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,278,5,11,2,8:44 PM,3:49,BUCKS Turnover: Shot Clock (T#5),,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100216,279,8,0,2,8:44 PM,3:49,SUB: Lopez FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,281,2,75,2,8:44 PM,3:25,,,MISS Tatum 3' Driving Finger Roll Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,282,4,0,2,8:44 PM,3:23,Holiday REBOUND (Off:0 Def:2),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,283,2,80,2,8:44 PM,3:12,MISS Holiday 26' 3PT Step Back Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,284,4,0,2,8:44 PM,3:12,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,286,1,1,2,8:45 PM,2:58,,,White 29' 3PT Jump Shot (5 PTS) (Horford 3 AST),45 - 39,-6,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,288,1,63,2,8:45 PM,2:31,Holiday 15' Fadeaway Jumper (12 PTS),,,45 - 41,-4,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,289,2,1,2,8:46 PM,2:21,,,MISS Horford 13' Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,290,4,0,2,8:46 PM,2:17,Portis REBOUND (Off:1 Def:5),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,291,2,80,2,8:46 PM,1:59,MISS Lopez 26' 3PT Step Back Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,292,4,0,2,8:46 PM,1:59,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,293,6,3,2,8:46 PM,1:59,Portis L.B.FOUL (P1.T4) (B.Taylor),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,295,6,2,2,8:47 PM,1:46,Allen S.FOUL (P1.PN) (E.Lewis),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,297,3,11,2,8:47 PM,1:46,,,Brown Free Throw 1 of 2 (7 PTS),46 - 41,-5,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,298,8,0,2,8:47 PM,1:46,SUB: Hill FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,299,8,0,2,8:47 PM,1:46,SUB: G. Antetokounmpo FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,302,3,12,2,8:47 PM,1:46,,,Brown Free Throw 2 of 2 (8 PTS),47 - 41,-6,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,303,2,101,2,8:48 PM,1:31,MISS Allen 2' Driving Floating Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,304,4,0,2,8:48 PM,1:28,,,Brown REBOUND (Off:0 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,305,2,80,2,8:48 PM,1:19,,,MISS Tatum 27' 3PT Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,306,4,0,2,8:48 PM,1:16,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,308,8,0,2,8:48 PM,1:16,SUB: Matthews FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,310,1,47,2,8:49 PM,1:08,,,White 14' Turnaround Jump Shot (7 PTS),49 - 41,-8,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,311,5,45,2,8:49 PM,1:00,G. Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100216,312,8,0,2,8:49 PM,1:00,SUB: Holiday FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,314,2,1,2,8:49 PM,0:45,,,MISS Brown 28' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,315,4,0,2,8:50 PM,0:43,,,White REBOUND (Off:1 Def:1),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,316,5,4,2,8:50 PM,0:40,,,Horford Traveling Turnover (P1.T6),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042100216,317,1,44,2,8:50 PM,0:34,Matthews 1' Reverse Layup (2 PTS) (G. Antetokounmpo 3 AST),,,49 - 43,-6,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,319,1,6,2,8:50 PM,0:27,,,Smart 2' Driving Layup (16 PTS),51 - 43,-8,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,320,6,26,2,8:50 PM,0:22,G. Antetokounmpo Offensive Charge Foul (P3) (E.Lewis),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,322,5,37,2,8:50 PM,0:22,G. Antetokounmpo Offensive Foul Turnover (P3.T7),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100216,323,8,0,2,8:51 PM,0:22,SUB: Lopez FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,325,6,2,2,8:51 PM,0:05,Connaughton S.FOUL (P1.PN) (B.Taylor),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,327,3,11,2,8:52 PM,0:05,,,White Free Throw 1 of 2 (8 PTS),52 - 43,-9,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,328,8,0,2,8:52 PM,0:05,SUB: Allen FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,329,8,0,2,8:52 PM,0:05,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,332,3,12,2,8:52 PM,0:05,,,White Free Throw 2 of 2 (9 PTS),53 - 43,-10,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,333,13,0,2,8:52 PM,0:00,,End of 2nd Period (8:52 PM EST),,53 - 43,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100216,340,12,0,3,9:08 PM,12:00,,Start of 3rd Period (9:08 PM EST),,53 - 43,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,341,1,86,3,9:08 PM,11:43,Holiday 8' Turnaround Fadeaway (14 PTS),,,53 - 45,-8,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,342,2,1,3,9:08 PM,11:21,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,343,4,0,3,9:08 PM,11:18,Allen REBOUND (Off:1 Def:1),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,344,2,80,3,9:09 PM,11:07,MISS Holiday 14' Step Back Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,345,4,0,3,9:09 PM,11:05,,,Tatum REBOUND (Off:0 Def:6),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,346,6,2,3,9:09 PM,10:56,Allen S.FOUL (P2.T1) (E.Lewis),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,348,3,11,3,9:09 PM,10:56,,,Williams Free Throw 1 of 2 (1 PTS),54 - 45,-9,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,349,3,12,3,9:09 PM,10:56,,,MISS Williams Free Throw 2 of 2,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,350,4,0,3,9:09 PM,10:53,G. Antetokounmpo REBOUND (Off:2 Def:7),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,351,2,5,3,9:10 PM,10:36,MISS G. Antetokounmpo 5' Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,352,4,0,3,9:10 PM,10:33,,,Williams REBOUND (Off:0 Def:4),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,353,2,73,3,9:10 PM,10:21,G. Antetokounmpo BLOCK (1 BLK),,MISS Smart 5' Driving Reverse Layup,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100216,355,4,0,3,9:10 PM,10:17,,,Brown REBOUND (Off:1 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,356,2,57,3,9:10 PM,10:15,,,MISS Brown 5' Driving Hook Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,357,4,0,3,9:10 PM,10:12,Allen REBOUND (Off:1 Def:2),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,358,2,41,3,9:10 PM,10:08,MISS G. Antetokounmpo 8' Running Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,359,4,0,3,9:10 PM,10:06,,,Horford REBOUND (Off:0 Def:5),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,360,2,6,3,9:11 PM,9:57,,,MISS Williams 3' Driving Layup,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,361,4,0,3,9:11 PM,9:50,,,Horford REBOUND (Off:1 Def:5),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,362,1,97,3,9:11 PM,9:50,,,Horford Tip Layup Shot (2 PTS),56 - 45,-11,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,363,2,79,3,9:11 PM,9:42,MISS Holiday 28' 3PT Pullup Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,364,4,0,3,9:11 PM,9:40,,,Tatum REBOUND (Off:0 Def:7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,365,1,79,3,9:11 PM,9:35,,,Tatum 27' 3PT Pullup Jump Shot (21 PTS) (Brown 4 AST),59 - 45,-14,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,367,1,6,3,9:11 PM,9:20,Allen 2' Driving Layup (2 PTS),,,59 - 47,-12,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,368,6,2,3,9:11 PM,9:20,,,Williams S.FOUL (P3.T1) (E.Lewis),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,370,3,10,3,9:12 PM,9:20,Allen Free Throw 1 of 1 (3 PTS),,,59 - 48,-11,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,371,2,1,3,9:12 PM,8:56,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,372,4,0,3,9:12 PM,8:55,,,Smart REBOUND (Off:2 Def:2),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,373,2,107,3,9:12 PM,8:55,,,MISS Smart Tip Dunk Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,374,4,0,3,9:12 PM,8:54,,,Brown REBOUND (Off:2 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,375,1,105,3,9:12 PM,8:38,,,Tatum 1' Turnaround Fadeaway Bank Jump Shot (23 PTS),61 - 48,-13,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,376,10,0,3,9:13 PM,8:22,Jump Ball Matthews vs. Horford: Tip to Tatum,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0
+0042100216,379,5,2,3,9:13 PM,8:22,Matthews Lost Ball Turnover (P1.T8),,Horford STEAL (1 STL),,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,381,1,103,3,9:13 PM,8:16,,,Brown 19' Running Pull-Up Jump Shot (10 PTS) (Tatum 4 AST),63 - 48,-15,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,383,9,1,3,9:14 PM,8:08,BUCKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,384,8,0,3,9:16 PM,8:08,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,386,2,3,3,9:18 PM,7:56,MISS Portis 7' Hook Shot,,Tatum BLOCK (1 BLK),,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1
+0042100216,388,4,0,3,9:18 PM,7:54,,,Brown REBOUND (Off:2 Def:3),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,389,1,41,3,9:18 PM,7:54,,,Brown 2' Running Layup (12 PTS),65 - 48,-17,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,390,6,2,3,9:18 PM,7:54,G. Antetokounmpo S.FOUL (P4.T2) (T.Maddox),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,392,3,10,3,9:18 PM,7:54,,,MISS Brown Free Throw 1 of 1,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,393,4,0,3,9:18 PM,7:51,Matthews REBOUND (Off:0 Def:4),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,394,2,6,3,9:18 PM,7:41,MISS G. Antetokounmpo 3' Driving Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,396,1,107,3,9:18 PM,7:35,Portis Tip Dunk Shot (2 PTS),,,65 - 50,-15,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,395,4,0,3,9:18 PM,7:35,Portis REBOUND (Off:2 Def:5),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,397,1,1,3,9:19 PM,7:20,,,Brown 32' 3PT Jump Shot (15 PTS) (Smart 3 AST),68 - 50,-18,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,399,1,6,3,9:19 PM,7:02,Matthews Driving Layup (4 PTS) (G. Antetokounmpo 4 AST),,,68 - 52,-16,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,400,2,79,3,9:19 PM,6:34,,,MISS Williams 16' Pullup Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,401,4,0,3,9:19 PM,6:31,Portis REBOUND (Off:2 Def:6),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,402,2,57,3,9:20 PM,6:23,MISS G. Antetokounmpo 8' Driving Hook Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,403,4,0,3,9:20 PM,6:21,,,Smart REBOUND (Off:2 Def:3),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,404,2,79,3,9:20 PM,6:12,,,MISS Tatum 27' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,405,4,0,3,9:20 PM,6:08,Portis REBOUND (Off:2 Def:7),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,406,2,41,3,9:20 PM,6:02,MISS G. Antetokounmpo 4' Running Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,407,4,0,3,9:20 PM,6:02,G. Antetokounmpo REBOUND (Off:3 Def:7),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,408,1,97,3,9:20 PM,5:57,G. Antetokounmpo Tip Layup Shot (23 PTS),,,68 - 54,-14,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,409,2,79,3,9:20 PM,5:45,,,MISS Brown 28' 3PT Pullup Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,410,4,0,3,9:20 PM,5:43,G. Antetokounmpo REBOUND (Off:3 Def:8),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,411,1,1,3,9:20 PM,5:36,Portis 19' Jump Shot (4 PTS) (G. Antetokounmpo 5 AST),,,68 - 56,-12,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,413,9,1,3,9:21 PM,5:36,,,Celtics Timeout: Regular (Reg.3 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,415,8,0,3,9:24 PM,5:36,SUB: Hill FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,416,8,0,3,9:24 PM,5:36,SUB: Connaughton FOR Matthews,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,417,8,0,3,9:24 PM,5:36,,,SUB: White FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,421,6,2,3,9:25 PM,5:20,Portis S.FOUL (P2.T3) (E.Lewis),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,423,3,11,3,9:25 PM,5:20,,,Brown Free Throw 1 of 2 (16 PTS),69 - 56,-13,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,424,3,12,3,9:25 PM,5:20,,,Brown Free Throw 2 of 2 (17 PTS),70 - 56,-14,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,425,2,6,3,9:26 PM,5:02,MISS Hill 3' Driving Layup,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,426,4,0,3,9:26 PM,4:59,,,Horford REBOUND (Off:1 Def:6),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,427,2,1,3,9:26 PM,4:44,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,428,4,0,3,9:26 PM,4:41,Portis REBOUND (Off:2 Def:8),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,429,1,1,3,9:26 PM,4:33,Connaughton 27' 3PT Jump Shot (5 PTS) (Holiday 2 AST),,,70 - 59,-11,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,431,2,79,3,9:26 PM,4:13,,,MISS White 27' 3PT Pullup Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,432,4,0,3,9:26 PM,4:10,,,Horford REBOUND (Off:2 Def:6),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,433,2,1,3,9:27 PM,3:58,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,434,4,0,3,9:27 PM,3:56,G. Antetokounmpo REBOUND (Off:3 Def:9),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,435,2,79,3,9:27 PM,3:49,MISS Portis 14' Pullup Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,436,4,0,3,9:27 PM,3:47,,,Horford REBOUND (Off:2 Def:7),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,437,2,79,3,9:27 PM,3:31,,,MISS Tatum 25' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,438,4,0,3,9:27 PM,3:29,G. Antetokounmpo REBOUND (Off:3 Def:10),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,439,1,6,3,9:27 PM,3:24,G. Antetokounmpo 1' Driving Layup (25 PTS),,,70 - 61,-9,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,440,6,2,3,9:27 PM,3:24,,,White S.FOUL (P2.T2) (E.Lewis),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,442,8,0,3,9:28 PM,3:24,SUB: Allen FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,443,8,0,3,9:28 PM,3:24,,,SUB: Williams FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,446,3,10,3,9:28 PM,3:24,G. Antetokounmpo Free Throw 1 of 1 (26 PTS),,,70 - 62,-8,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,447,1,1,3,9:29 PM,3:06,,,Smart 26' 3PT Jump Shot (19 PTS) (White 1 AST),73 - 62,-11,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,449,1,3,3,9:29 PM,2:54,G. Antetokounmpo 14' Hook Shot (28 PTS),,,73 - 64,-9,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,450,6,4,3,9:29 PM,2:40,,,Tatum OFF.Foul (P1) (E.Lewis),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,452,5,37,3,9:29 PM,2:40,,,Tatum Offensive Foul Turnover (P3.T7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042100216,453,8,0,3,9:29 PM,2:40,SUB: Holiday FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,454,8,0,3,9:29 PM,2:40,SUB: Lopez FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,457,8,0,3,9:30 PM,2:40,,,SUB: Theis FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,459,2,52,3,9:30 PM,2:30,MISS Lopez 2' Alley Oop Dunk,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,460,4,0,3,9:30 PM,2:28,,,Theis REBOUND (Off:0 Def:2),,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,461,1,78,3,9:30 PM,2:19,,,Tatum 6' Floating Jump Shot (25 PTS),75 - 64,-11,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,462,2,1,3,9:30 PM,2:09,MISS Allen 26' 3PT Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,463,4,0,3,9:30 PM,2:07,,,Tatum REBOUND (Off:0 Def:8),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,464,6,1,3,9:30 PM,2:01,Allen P.FOUL (P3.T4) (E.Lewis),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,466,8,0,3,9:31 PM,2:01,SUB: Hill FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,468,5,2,3,9:31 PM,1:47,Holiday STEAL (3 STL),,Tatum Lost Ball Turnover (P4.T8),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,470,2,103,3,9:31 PM,1:41,MISS Holiday 27' 3PT Running Pull-Up Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,471,4,0,3,9:31 PM,1:39,,,Williams REBOUND (Off:0 Def:5),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,472,1,1,3,9:31 PM,1:20,,,Theis 5' Jump Shot (4 PTS) (Smart 4 AST),77 - 64,-13,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,474,1,102,3,9:32 PM,1:03,Connaughton 4' Driving Floating Bank Jump Shot (7 PTS) (Holiday 3 AST),,,77 - 66,-11,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,476,1,102,3,9:32 PM,0:48,,,Tatum 3' Driving Floating Bank Jump Shot (27 PTS),79 - 66,-13,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,477,6,2,3,9:32 PM,0:48,Hill S.FOUL (P2.PN) (B.Taylor),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,479,8,0,3,9:32 PM,0:48,SUB: G. Antetokounmpo FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,481,3,10,3,9:33 PM,0:48,,,Tatum Free Throw 1 of 1 (28 PTS),80 - 66,-14,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,482,1,6,3,9:33 PM,0:33,G. Antetokounmpo 1' Driving Layup (30 PTS),,,80 - 68,-12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,483,2,6,3,9:33 PM,0:28,,,MISS Smart 5' Driving Layup,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,485,4,0,3,9:33 PM,0:28,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,486,1,79,3,9:34 PM,0:12,,,Tatum 23' Pullup Jump Shot (30 PTS),82 - 68,-14,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,619,18,1,3,9:34 PM,0:12,,Instant Replay3rd Period (9:34 PM EST),,82 - 68,-14,0,486,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100216,487,6,2,3,9:34 PM,0:06,,,Tatum S.FOUL (P2.T3) (E.Lewis),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,489,3,11,3,9:35 PM,0:06,G. Antetokounmpo Free Throw 1 of 2 (31 PTS),,,82 - 69,-13,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,490,8,0,3,9:35 PM,0:06,SUB: Matthews FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,491,8,0,3,9:35 PM,0:06,,,SUB: Brown FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,492,8,0,3,9:35 PM,0:06,,,SUB: Horford FOR Theis,,,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,496,3,12,3,9:35 PM,0:06,G. Antetokounmpo Free Throw 2 of 2 (32 PTS),,,82 - 70,-12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,497,2,1,3,9:35 PM,0:00,,,MISS White 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,498,4,0,3,9:35 PM,0:00,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,499,13,0,3,9:37 PM,0:00,,End of 3rd Period (9:37 PM EST),,82 - 70,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100216,506,12,0,4,9:39 PM,12:00,,Start of 4th Period (9:39 PM EST),,82 - 70,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,507,2,101,4,9:40 PM,11:35,,,MISS White 12' Driving Floating Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,508,4,0,4,9:40 PM,11:33,G. Antetokounmpo REBOUND (Off:3 Def:11),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,509,5,2,4,9:40 PM,11:31,G. Antetokounmpo Lost Ball Turnover (P4.T9),,White STEAL (2 STL),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,511,1,6,4,9:40 PM,11:25,,,Brown 1' Driving Layup (19 PTS) (Pritchard 1 AST),84 - 70,-14,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,513,2,108,4,9:40 PM,11:08,MISS G. Antetokounmpo 1' Cutting Dunk Shot,,Horford BLOCK (3 BLK),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0
+0042100216,515,4,0,4,9:40 PM,11:08,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,516,6,3,4,9:40 PM,11:08,,,Brown L.B.FOUL (P2.T1) (T.Maddox),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0042100216,518,1,108,4,9:41 PM,10:57,G. Antetokounmpo 2' Cutting Dunk Shot (34 PTS) (Connaughton 2 AST),,,84 - 72,-12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,520,6,2,4,9:41 PM,10:57,,,Pritchard S.FOUL (P1.T2) (E.Lewis),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,522,3,10,4,9:41 PM,10:57,G. Antetokounmpo Free Throw 1 of 1 (35 PTS),,,84 - 73,-11,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,523,2,79,4,9:42 PM,10:32,,,MISS Brown 17' Pullup Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,524,4,0,4,9:42 PM,10:29,G. Antetokounmpo REBOUND (Off:3 Def:12),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,525,6,2,4,9:42 PM,10:16,,,Williams S.FOUL (P4.T3) (B.Taylor),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,528,9,1,4,9:42 PM,10:16,BUCKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,529,18,5,4,9:42 PM,10:16,,Instant Replay4th Period (9:42 PM EST),,84 - 73,-11,0,525,,,,,,0,0,,,,,,1,0,,,,,,1
+0042100216,530,3,11,4,9:46 PM,10:16,G. Antetokounmpo Free Throw 1 of 2 (36 PTS),,,84 - 74,-10,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,531,3,12,4,9:47 PM,10:16,G. Antetokounmpo Free Throw 2 of 2 (37 PTS),,,84 - 75,-9,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,532,2,101,4,9:47 PM,9:57,,,MISS White 5' Driving Floating Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,533,4,0,4,9:47 PM,9:55,G. Antetokounmpo REBOUND (Off:3 Def:13),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,534,1,1,4,9:47 PM,9:47,Connaughton 3PT Jump Shot (10 PTS) (Matthews 2 AST),,,84 - 78,-6,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,536,2,6,4,9:47 PM,9:37,Holiday BLOCK (2 BLK),,MISS Brown 4' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100216,538,4,0,4,9:47 PM,9:37,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,540,8,0,4,9:47 PM,9:37,,,SUB: Smart FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,541,8,0,4,9:47 PM,9:37,,,SUB: Tatum FOR Pritchard,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,544,2,101,4,9:48 PM,9:18,MISS Matthews 6' Driving Floating Jump Shot,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,546,4,0,4,9:48 PM,9:17,Hill REBOUND (Off:1 Def:0),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,547,2,72,4,9:48 PM,9:16,MISS Hill Putback Layup,,Horford BLOCK (4 BLK),,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042100216,549,4,0,4,9:48 PM,9:15,,,Horford REBOUND (Off:2 Def:8),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,550,6,2,4,9:48 PM,8:56,Hill S.FOUL (P3.T1) (T.Maddox),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,552,3,11,4,9:49 PM,8:56,,,Tatum Free Throw 1 of 2 (31 PTS),85 - 78,-7,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,555,3,12,4,9:49 PM,8:56,,,MISS Tatum Free Throw 2 of 2,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,553,8,0,4,9:49 PM,8:56,SUB: Portis FOR Matthews,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,556,4,0,4,9:49 PM,8:53,G. Antetokounmpo REBOUND (Off:3 Def:14),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,557,1,79,4,9:49 PM,8:42,G. Antetokounmpo 28' 3PT Pullup Jump Shot (40 PTS),,,85 - 81,-4,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,559,1,63,4,9:51 PM,8:14,,,Tatum 16' Fadeaway Jumper (33 PTS) (Smart 5 AST),87 - 81,-6,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,561,1,73,4,9:51 PM,7:48,Connaughton 4' Driving Reverse Layup (12 PTS) (G. Antetokounmpo 6 AST),,,87 - 83,-4,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,562,1,79,4,9:51 PM,7:19,,,Tatum 27' 3PT Pullup Jump Shot (36 PTS),90 - 83,-7,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,563,5,1,4,9:52 PM,7:06,G. Antetokounmpo Bad Pass Turnover (P5.T10),,Williams STEAL (2 STL),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,565,6,1,4,9:52 PM,7:06,Hill P.FOUL (P4.T2) (B.Taylor),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,567,8,0,4,9:52 PM,7:06,,,SUB: White FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,569,8,0,4,9:52 PM,7:06,SUB: Matthews FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,571,1,86,4,9:53 PM,6:47,,,Tatum 7' Turnaround Fadeaway (38 PTS) (Smart 6 AST),92 - 83,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,573,1,7,4,9:53 PM,6:32,G. Antetokounmpo 3' Dunk (42 PTS) (Holiday 4 AST),,,92 - 85,-7,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042100216,575,2,6,4,9:53 PM,6:10,,,MISS Tatum 3' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,576,4,0,4,9:53 PM,6:08,G. Antetokounmpo REBOUND (Off:3 Def:15),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,577,6,28,4,9:53 PM,6:08,,,White Personal Take Foul (P3.T4) (E.Lewis),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,579,1,44,4,9:54 PM,6:00,Connaughton 3' Reverse Layup (14 PTS),,,92 - 87,-5,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,580,1,1,4,9:54 PM,5:40,,,Tatum 27' 3PT Jump Shot (41 PTS) (White 2 AST),95 - 87,-8,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,582,2,1,4,9:54 PM,5:30,MISS Portis 26' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,583,4,0,4,9:54 PM,5:28,,,Tatum REBOUND (Off:0 Def:9),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,584,9,1,4,9:54 PM,5:23,,,Celtics Timeout: Regular (Reg.4 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,585,1,1,4,9:58 PM,5:12,,,Brown 26' 3PT Jump Shot (22 PTS) (Smart 7 AST),98 - 87,-11,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100216,587,10,0,4,9:59 PM,4:45,Jump Ball G. Antetokounmpo vs. Horford: Tip to Connaughton,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1
+0042100216,590,2,86,4,9:59 PM,4:43,MISS Connaughton 21' Turnaround Fadeaway Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,591,4,0,4,9:59 PM,4:43,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,593,1,80,4,10:00 PM,4:20,,,Smart 22' Step Back Jump Shot (21 PTS),100 - 87,-13,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,595,2,1,4,10:00 PM,4:15,MISS Matthews 24' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,596,4,0,4,10:00 PM,4:12,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,597,6,3,4,10:00 PM,4:12,Portis L.B.FOUL (P3.T3) (B.Taylor),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,599,8,0,4,10:00 PM,4:12,SUB: Hill FOR Matthews,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,601,2,1,4,10:01 PM,4:00,,,MISS Smart 29' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,602,4,0,4,10:01 PM,3:57,G. Antetokounmpo REBOUND (Off:3 Def:16),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,603,5,4,4,10:01 PM,3:53,G. Antetokounmpo Traveling Turnover (P6.T11),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042100216,604,2,1,4,10:02 PM,3:31,,,MISS White 26' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,605,4,0,4,10:02 PM,3:28,Connaughton REBOUND (Off:0 Def:4),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,606,6,2,4,10:02 PM,3:25,,,Smart S.FOUL (P2.PN) (B.Taylor),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,608,3,11,4,10:02 PM,3:25,G. Antetokounmpo Free Throw 1 of 2 (43 PTS),,,100 - 88,-12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,609,9,1,4,10:03 PM,3:25,,,Celtics Timeout: Regular (Reg.5 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,610,3,12,4,10:05 PM,3:25,G. Antetokounmpo Free Throw 2 of 2 (44 PTS),,,100 - 89,-11,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,611,2,98,4,10:05 PM,3:04,,,MISS Smart 2' Cutting Layup Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,612,4,0,4,10:05 PM,3:02,G. Antetokounmpo REBOUND (Off:3 Def:17),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,613,9,1,4,10:05 PM,3:02,BUCKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,614,2,1,4,10:07 PM,2:50,MISS G. Antetokounmpo 25' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,615,4,0,4,10:07 PM,2:49,,,White REBOUND (Off:1 Def:2),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,616,6,1,4,10:07 PM,2:49,Hill P.FOUL (P5.T4) (E.Lewis),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,618,1,6,4,10:08 PM,2:38,,,Tatum 1' Driving Layup (43 PTS),102 - 89,-13,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,620,6,2,4,10:08 PM,2:38,Connaughton S.FOUL (P2.PN) (E.Lewis),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,622,3,10,4,10:08 PM,2:38,,,Tatum Free Throw 1 of 1 (44 PTS),103 - 89,-14,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,623,1,80,4,10:08 PM,2:29,Holiday 26' 3PT Step Back Jump Shot (17 PTS),,,103 - 92,-11,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,624,2,80,4,10:09 PM,2:05,,,MISS Tatum 27' 3PT Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,625,4,0,4,10:09 PM,2:02,,,White REBOUND (Off:2 Def:2),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042100216,626,6,1,4,10:09 PM,1:54,Portis P.FOUL (P4.PN) (E.Lewis),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,628,3,11,4,10:09 PM,1:54,,,Tatum Free Throw 1 of 2 (45 PTS),104 - 92,-12,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,629,3,12,4,10:10 PM,1:54,,,Tatum Free Throw 2 of 2 (46 PTS),105 - 92,-13,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,630,2,1,4,10:10 PM,1:39,MISS Holiday 25' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,631,4,0,4,10:10 PM,1:36,,,White REBOUND (Off:2 Def:3),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,632,6,2,4,10:10 PM,1:24,Connaughton S.FOUL (P3.PN) (T.Maddox),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,634,3,11,4,10:11 PM,1:24,,,MISS Brown Free Throw 1 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,635,4,1,4,10:11 PM,1:24,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,652,3,12,4,10:11 PM,1:24,,,MISS Brown Free Throw 2 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,636,8,0,4,10:11 PM,1:24,SUB: Carter FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,637,8,0,4,10:11 PM,1:24,SUB: Vildoza FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,638,8,0,4,10:11 PM,1:24,SUB: Nwora FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,639,8,0,4,10:11 PM,1:24,SUB: T. Antetokounmpo FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,640,8,0,4,10:11 PM,1:24,SUB: Tucker FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1629730,Rayjon Tucker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042100216,641,8,0,4,10:11 PM,1:24,,,SUB: Pritchard FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,642,8,0,4,10:11 PM,1:24,,,SUB: Williams FOR Smart,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,643,8,0,4,10:11 PM,1:24,,,SUB: Theis FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,653,4,0,4,10:11 PM,1:17,T. Antetokounmpo REBOUND (Off:0 Def:1),,,,,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,654,6,2,4,10:11 PM,1:17,,,Williams S.FOUL (P5.PN) (T.Maddox),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042100216,656,3,11,4,10:12 PM,1:17,MISS T. Antetokounmpo Free Throw 1 of 2,,,,,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,657,4,1,4,10:12 PM,1:17,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,658,8,0,4,10:12 PM,1:17,,,SUB: Nesmith FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,659,8,0,4,10:12 PM,1:17,,,SUB: Stauskas FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,203917,Nik Stauskas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100216,662,3,12,4,10:12 PM,1:17,T. Antetokounmpo Free Throw 2 of 2 (1 PTS),,,105 - 93,-12,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,663,2,79,4,10:12 PM,0:59,,,MISS Pritchard 17' Pullup Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,664,4,0,4,10:12 PM,0:56,Carter REBOUND (Off:0 Def:1),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,665,1,63,4,10:12 PM,0:50,Carter 10' Fadeaway Jumper (2 PTS),,,105 - 95,-10,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,666,6,18,4,10:13 PM,0:50,BUCKS Delay,,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100216,667,3,16,4,10:13 PM,0:50,,,MISS Williams Free Throw Technical,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042100216,668,4,1,4,10:13 PM,0:50,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,669,6,2,4,10:14 PM,0:32,Tucker S.FOUL (P1.PN) (T.Maddox),,,,,4,1629730,Rayjon Tucker,1610612749.0,Milwaukee,Bucks,MIL,5,203917,Nik Stauskas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,671,3,11,4,10:14 PM,0:32,,,Stauskas Free Throw 1 of 2 (1 PTS),106 - 95,-11,5,203917,Nik Stauskas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,672,3,12,4,10:14 PM,0:32,,,Stauskas Free Throw 2 of 2 (2 PTS),107 - 95,-12,5,203917,Nik Stauskas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,673,2,80,4,10:15 PM,0:17,MISS Nwora 26' 3PT Step Back Jump Shot,,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,674,4,0,4,10:15 PM,0:13,,,Nesmith REBOUND (Off:0 Def:1),,,5,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,675,6,1,4,10:15 PM,0:06,Tucker P.FOUL (P2.PN) (T.Maddox),,,,,4,1629730,Rayjon Tucker,1610612749.0,Milwaukee,Bucks,MIL,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100216,677,3,11,4,10:15 PM,0:06,,,MISS Williams Free Throw 1 of 2,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,678,4,1,4,10:15 PM,0:06,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,679,3,12,4,10:15 PM,0:06,,,Williams Free Throw 2 of 2 (2 PTS),108 - 95,-13,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100216,680,2,79,4,10:16 PM,0:00,MISS Vildoza 28' 3PT Pullup Jump Shot,,,,,4,1630492,Luca Vildoza,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042100216,681,4,0,4,10:16 PM,0:00,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100216,682,13,0,4,10:16 PM,0:00,,End of 4th Period (10:16 PM EST),,108 - 95,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

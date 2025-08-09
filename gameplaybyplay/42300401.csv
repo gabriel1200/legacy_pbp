@@ -1,0 +1,430 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300401,2,12,0,1,8:40 PM,12:00,,Start of 1st Period (8:40 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,4,10,0,1,8:40 PM,12:00,Jump Ball Horford vs. Gafford: Tip to Brown,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042300401,7,1,9,1,8:40 PM,11:35,Horford 1' Driving Dunk (2 PTS) (Tatum 1 AST),,,0 - 2,2,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,9,1,1,1,8:40 PM,11:16,,,Jones Jr. 27' 3PT Jump Shot (3 PTS) (Gafford 1 AST),3 - 2,-1,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,11,1,79,1,8:41 PM,11:08,Holiday 27' 3PT Pullup Jump Shot (3 PTS) (White 1 AST),,,3 - 5,2,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,13,1,63,1,8:41 PM,10:45,,,Doncic 12' Fadeaway Jumper (2 PTS),5 - 5,TIE,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,14,2,1,1,8:41 PM,10:23,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,15,4,0,1,8:41 PM,10:21,Tatum REBOUND (Off:1 Def:0),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,16,2,1,1,8:41 PM,10:18,MISS White 27' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,17,4,0,1,8:41 PM,10:16,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300401,19,2,1,1,8:42 PM,10:03,MISS White 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,20,4,0,1,8:42 PM,10:02,Horford REBOUND (Off:1 Def:0),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,21,2,1,1,8:42 PM,9:58,MISS Brown 28' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,22,4,0,1,8:42 PM,9:57,Brown REBOUND (Off:1 Def:0),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,23,2,1,1,8:42 PM,9:49,MISS Horford 26' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,24,4,0,1,8:42 PM,9:47,,,Doncic REBOUND (Off:0 Def:1),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,25,6,1,1,8:42 PM,9:46,Tatum P.FOUL (P1.T1) (J.Tiven),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,27,2,63,1,8:43 PM,9:33,,,MISS Doncic 9' Fadeaway Jumper,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,28,4,0,1,8:43 PM,9:32,,,Gafford REBOUND (Off:1 Def:0),,,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,29,1,97,1,8:43 PM,9:32,,,Gafford Tip Layup Shot (2 PTS),7 - 5,-2,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,30,5,2,1,8:43 PM,9:19,Tatum Lost Ball Turnover (P1.T1),,Gafford STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,32,1,50,1,8:43 PM,9:13,,,Washington 2' Running Dunk (2 PTS) (Doncic 1 AST),9 - 5,-4,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,34,1,1,1,8:43 PM,9:04,Horford 24' 3PT Jump Shot (5 PTS) (Tatum 2 AST),,,9 - 8,-1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,36,5,2,1,8:44 PM,8:49,Brown STEAL (1 STL),,Doncic Lost Ball Turnover (P1.T1),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,38,1,50,1,8:44 PM,8:45,Brown 2' Running Dunk (2 PTS) (Horford 1 AST),,,9 - 10,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,40,2,63,1,8:44 PM,8:27,Horford BLOCK (1 BLK),,MISS Irving 10' Fadeaway Jumper,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042300401,41,4,0,1,8:44 PM,8:25,Holiday REBOUND (Off:0 Def:1),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,42,1,5,1,8:44 PM,8:15,Holiday 2' Layup (5 PTS) (Brown 1 AST),,,9 - 12,3,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,44,2,80,1,8:45 PM,7:57,,,MISS Doncic 26' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,45,4,0,1,8:45 PM,7:56,Tatum REBOUND (Off:1 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,46,2,1,1,8:45 PM,7:40,MISS Horford 24' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,47,4,0,1,8:45 PM,7:39,,,Jones Jr. REBOUND (Off:0 Def:1),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,48,1,63,1,8:45 PM,7:33,,,Irving 13' Fadeaway Jumper (2 PTS),11 - 12,1,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,49,5,1,1,8:45 PM,7:17,Tatum Bad Pass Turnover (P2.T2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,51,6,3,1,8:45 PM,7:17,Brown L.B.FOUL (P1.T2) (J.Tiven),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,53,8,0,1,8:45 PM,7:17,SUB: Porzingis FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,54,8,0,1,8:45 PM,7:17,,,SUB: Lively II FOR Gafford,,,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,57,1,79,1,8:46 PM,7:09,,,Irving 16' Pullup Jump Shot (4 PTS) (Lively II 1 AST),13 - 12,-1,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,60,9,1,1,8:46 PM,6:58,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,62,6,2,1,8:50 PM,6:55,,,Washington S.FOUL (P1.T1) (Z.Zarba),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,64,3,11,1,8:50 PM,6:55,Brown Free Throw 1 of 2 (3 PTS),,,13 - 13,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,65,3,12,1,8:51 PM,6:55,Brown Free Throw 2 of 2 (4 PTS),,,13 - 14,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,66,1,101,1,8:51 PM,6:38,,,Doncic 3' Driving Floating Jump Shot (4 PTS),15 - 14,-1,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,67,1,1,1,8:51 PM,6:19,White 26' 3PT Jump Shot (3 PTS) (Tatum 3 AST),,,15 - 17,2,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,69,2,1,1,8:51 PM,6:04,,,MISS Jones Jr. 27' 3PT Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,70,4,0,1,8:51 PM,6:03,Holiday REBOUND (Off:0 Def:2),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,71,1,1,1,8:52 PM,5:55,White 26' 3PT Jump Shot (6 PTS) (Holiday 1 AST),,,15 - 20,5,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,73,2,44,1,8:52 PM,5:41,,,MISS Jones Jr. 5' Reverse Layup,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,74,4,0,1,8:52 PM,5:40,Porzingis REBOUND (Off:0 Def:1),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,75,6,2,1,8:52 PM,5:24,,,Doncic S.FOUL (P1.T2) (C.Kirkland),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,77,3,11,1,8:53 PM,5:24,Porzingis Free Throw 1 of 2 (1 PTS),,,15 - 21,6,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,78,8,0,1,8:53 PM,5:24,SUB: Hauser FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,79,8,0,1,8:53 PM,5:24,,,SUB: Hardy FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,80,8,0,1,8:53 PM,5:24,,,SUB: Green FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,84,3,12,1,8:53 PM,5:24,Porzingis Free Throw 2 of 2 (2 PTS),,,15 - 22,7,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,85,1,80,1,8:53 PM,5:11,,,Doncic 27' 3PT Step Back Jump Shot (7 PTS),18 - 22,4,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,86,1,1,1,8:54 PM,4:54,Porzingis 13' Jump Shot (4 PTS),,,18 - 24,6,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,87,5,2,1,8:54 PM,4:38,Brown STEAL (2 STL),,Doncic Lost Ball Turnover (P2.T2),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,89,5,1,1,8:54 PM,4:28,White Bad Pass Turnover (P1.T3),,Lively II STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,91,2,41,1,8:54 PM,4:22,,,MISS Washington 5' Running Layup,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,92,4,0,1,8:54 PM,4:21,Tatum REBOUND (Off:1 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,93,6,1,1,8:54 PM,4:17,,,Washington P.FOUL (P2.T3) (C.Kirkland),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,95,8,0,1,8:55 PM,4:17,,,SUB: Kleber FOR Washington,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,97,2,1,1,8:55 PM,4:09,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,98,4,0,1,8:55 PM,4:08,,,Doncic REBOUND (Off:0 Def:2),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,99,2,80,1,8:55 PM,3:56,,,MISS Doncic 27' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,100,4,0,1,8:55 PM,3:55,Porzingis REBOUND (Off:0 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,101,5,45,1,8:55 PM,3:42,Brown Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300401,102,2,101,1,8:56 PM,3:28,,,MISS Green 12' Driving Floating Jump Shot,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,103,4,0,1,8:56 PM,3:27,,,Green REBOUND (Off:1 Def:0),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,104,2,1,1,8:56 PM,3:26,,,MISS Doncic 26' 3PT Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,105,4,0,1,8:56 PM,3:25,Hauser REBOUND (Off:0 Def:1),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,106,2,6,1,8:56 PM,3:16,MISS Tatum 5' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,107,4,0,1,8:56 PM,3:15,,,Hardy REBOUND (Off:0 Def:1),,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,108,2,101,1,8:56 PM,3:10,,,MISS Hardy 5' Driving Floating Jump Shot,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,109,4,0,1,8:56 PM,3:09,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300401,111,8,0,1,8:56 PM,3:09,,,SUB: Irving FOR Doncic,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,113,1,9,1,8:57 PM,2:52,Porzingis 2' Driving Dunk (6 PTS),,,18 - 26,8,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,114,2,6,1,8:57 PM,2:36,,,MISS Hardy 6' Driving Layup,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,116,4,0,1,8:57 PM,2:34,Brown REBOUND (Off:1 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,117,1,1,1,8:57 PM,2:21,Porzingis 16' Jump Shot (8 PTS),,,18 - 28,10,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,118,9,1,1,8:58 PM,2:20,,,Mavericks Timeout: Regular (Reg.1 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,119,8,0,1,9:00 PM,2:20,SUB: Holiday FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,120,8,0,1,9:00 PM,2:20,SUB: Pritchard FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,121,8,0,1,9:00 PM,2:20,,,SUB: Gafford FOR Lively II,,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,125,1,105,1,9:01 PM,1:58,,,Hardy 13' Turnaround Fadeaway Bank Jump Shot (2 PTS),20 - 28,8,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,126,1,79,1,9:02 PM,1:37,Tatum 27' 3PT Pullup Jump Shot (3 PTS),,,20 - 31,11,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,127,2,80,1,9:02 PM,1:17,,,MISS Irving 24' 3PT Step Back Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,128,4,0,1,9:02 PM,1:15,Tatum REBOUND (Off:1 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,129,1,2,1,9:02 PM,1:09,Porzingis 29' 3PT Running Jump Shot (11 PTS) (Pritchard 1 AST),,,20 - 34,14,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,131,2,79,1,9:03 PM,0:58,Porzingis BLOCK (1 BLK),,MISS Irving 14' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1
+0042300401,133,4,0,1,9:03 PM,0:57,Porzingis REBOUND (Off:0 Def:3),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,134,1,2,1,9:03 PM,0:51,Hauser 3PT Running Jump Shot (3 PTS) (Holiday 2 AST),,,20 - 37,17,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,136,2,1,1,9:03 PM,0:39,,,MISS Hardy 27' 3PT Jump Shot,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,137,4,0,1,9:03 PM,0:35,Pritchard REBOUND (Off:0 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,138,5,2,1,9:03 PM,0:13,Tatum Lost Ball Turnover (P3.T5),,Irving STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,140,2,50,1,9:03 PM,0:09,Porzingis BLOCK (2 BLK),,MISS Green 4' Running Dunk,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1
+0042300401,142,4,0,1,9:03 PM,0:06,Hauser REBOUND (Off:0 Def:2),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,143,2,79,1,9:03 PM,0:03,MISS Pritchard 33' 3PT Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,144,4,0,1,9:04 PM,0:02,Holiday REBOUND (Off:1 Def:2),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,145,2,3,1,9:04 PM,0:00,MISS Holiday 8' Hook Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,146,4,0,1,9:04 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,147,13,0,1,9:04 PM,0:00,,End of 1st Period (9:04 PM EST),,20 - 37,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300401,158,12,0,2,9:07 PM,12:00,,Start of 2nd Period (9:07 PM EST),,20 - 37,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,159,2,6,2,9:08 PM,11:39,,,MISS Irving 4' Driving Layup,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,160,4,0,2,9:08 PM,11:38,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,162,1,57,2,9:08 PM,11:29,,,Irving 5' Driving Hook Shot (6 PTS),22 - 37,15,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,163,2,1,2,9:08 PM,11:10,MISS Pritchard 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,164,4,0,2,9:08 PM,11:09,Pritchard REBOUND (Off:1 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,166,1,79,2,9:09 PM,10:56,Brown 8' Pullup Jump Shot (6 PTS),,,22 - 39,17,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,167,1,3,2,9:09 PM,10:40,,,Gafford 4' Hook Shot (4 PTS),24 - 39,15,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,169,1,1,2,9:09 PM,10:30,Hauser 3PT Jump Shot (6 PTS) (Holiday 3 AST),,,24 - 42,18,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,171,6,2,2,9:09 PM,10:19,Hauser S.FOUL (P1.T1) (C.Kirkland),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,173,3,11,2,9:10 PM,10:19,,,Washington Free Throw 1 of 2 (3 PTS),25 - 42,17,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,174,3,12,2,9:10 PM,10:19,,,Washington Free Throw 2 of 2 (4 PTS),26 - 42,16,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042300401,175,1,9,2,9:10 PM,10:07,Brown 2' Driving Dunk (8 PTS),,,26 - 44,18,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,176,2,79,2,9:11 PM,9:57,,,MISS Irving 28' 3PT Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,177,4,0,2,9:11 PM,9:55,Horford REBOUND (Off:1 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,178,2,1,2,9:11 PM,9:40,MISS Pritchard 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,179,4,0,2,9:11 PM,9:39,,,Washington REBOUND (Off:0 Def:1),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,180,2,6,2,9:11 PM,9:30,,,MISS Irving 4' Driving Layup,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,181,4,0,2,9:11 PM,9:26,Brown REBOUND (Off:1 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,184,6,1,2,9:11 PM,9:20,,,Irving P.FOUL (P1.T1) (Z.Zarba),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,186,8,0,2,9:11 PM,9:20,,,SUB: Lively II FOR Gafford,,,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,188,8,0,2,9:12 PM,9:20,SUB: Porzingis FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,190,2,1,2,9:12 PM,9:02,MISS Pritchard 30' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,191,4,0,2,9:12 PM,9:00,,,Lively II REBOUND (Off:0 Def:1),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,192,6,2,2,9:12 PM,8:49,Pritchard S.FOUL (P1.T2) (Z.Zarba),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,194,3,11,2,9:13 PM,8:49,,,MISS Doncic Free Throw 1 of 2,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,195,4,1,2,9:13 PM,8:49,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,196,8,0,2,9:13 PM,8:49,SUB: White FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,197,8,0,2,9:13 PM,8:49,SUB: Tatum FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,198,8,0,2,9:13 PM,8:49,,,SUB: Green FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,202,3,12,2,9:13 PM,8:49,,,Doncic Free Throw 2 of 2 (8 PTS),27 - 44,17,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,203,2,98,2,9:14 PM,8:27,MISS Porzingis 4' Cutting Layup Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,204,4,0,2,9:14 PM,8:26,,,Lively II REBOUND (Off:0 Def:2),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,205,6,1,2,9:14 PM,8:16,Porzingis P.FOUL (P1.T3) (J.Tiven),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,207,5,40,2,9:15 PM,8:03,,,Lively II Out of Bounds Lost Ball Turnover (P1.T3),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300401,208,2,79,2,9:15 PM,7:48,MISS Tatum 27' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,209,4,0,2,9:15 PM,7:46,,,Washington REBOUND (Off:0 Def:2),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,210,2,1,2,9:15 PM,7:32,,,MISS Washington 28' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,211,4,0,2,9:15 PM,7:31,Horford REBOUND (Off:1 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,212,1,47,2,9:15 PM,7:10,Porzingis 15' Turnaround Jump Shot (13 PTS),,,27 - 46,19,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,213,2,80,2,9:16 PM,6:57,,,MISS Doncic 27' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,214,4,0,2,9:16 PM,6:55,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,215,1,79,2,9:16 PM,6:30,Porzingis 19' Pullup Jump Shot (15 PTS),,,27 - 48,21,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,216,9,1,2,9:16 PM,6:29,,,Mavericks Timeout: Regular (Reg.2 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,217,8,0,2,9:19 PM,6:29,SUB: Holiday FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,218,8,0,2,9:19 PM,6:29,,,SUB: Kleber FOR Lively II,,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,219,8,0,2,9:19 PM,6:29,,,SUB: Irving FOR Green,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,224,1,101,2,9:20 PM,6:11,,,Jones Jr. 6' Driving Floating Jump Shot (5 PTS) (Irving 1 AST),29 - 48,19,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,226,2,1,2,9:21 PM,5:55,MISS Holiday 27' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,227,4,0,2,9:21 PM,5:54,,,Washington REBOUND (Off:0 Def:3),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,228,6,1,2,9:21 PM,5:36,Holiday P.FOUL (P1.T4) (Z.Zarba),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,230,2,6,2,9:21 PM,5:26,,,MISS Doncic 5' Driving Layup,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,231,4,0,2,9:21 PM,5:25,Tatum REBOUND (Off:1 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,232,1,1,2,9:22 PM,5:15,Brown 3PT Jump Shot (11 PTS) (Horford 2 AST),,,29 - 51,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,234,5,2,2,9:22 PM,5:05,Brown STEAL (3 STL),,Doncic Lost Ball Turnover (P3.T4),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,236,1,9,2,9:22 PM,5:01,Brown 1' Driving Dunk (13 PTS),,,29 - 53,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,237,6,4,2,9:22 PM,4:49,,,Kleber OFF.Foul (P1) (C.Kirkland),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,239,5,37,2,9:22 PM,4:49,,,Kleber Offensive Foul Turnover (P1.T5),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300401,240,1,7,2,9:23 PM,4:33,White 2' Dunk (8 PTS) (Holiday 4 AST),,,29 - 55,26,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,242,5,45,2,9:23 PM,4:19,,,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300401,243,1,79,2,9:23 PM,4:11,Tatum 27' 3PT Pullup Jump Shot (6 PTS) (White 2 AST),,,29 - 58,29,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,244,1,75,2,9:23 PM,3:59,,,Doncic 2' Driving Finger Roll Layup (10 PTS),31 - 58,27,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,247,8,0,2,9:24 PM,3:44,,,SUB: Green FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,250,2,47,2,9:25 PM,3:34,MISS Tatum 7' Turnaround Jump Shot,,Kleber BLOCK (1 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1
+0042300401,252,4,0,2,9:25 PM,3:33,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,253,5,11,2,9:25 PM,3:33,CELTICS Turnover: Shot Clock (T#6),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300401,254,2,1,2,9:25 PM,3:16,,,MISS Washington 27' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,255,4,0,2,9:25 PM,3:15,Holiday REBOUND (Off:1 Def:3),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,256,2,1,2,9:25 PM,3:05,MISS White 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,257,4,0,2,9:25 PM,3:03,,,Washington REBOUND (Off:0 Def:4),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,258,6,1,2,9:25 PM,3:02,Holiday P.FOUL (P2.PN) (C.Kirkland),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,260,3,11,2,9:26 PM,3:02,,,MISS Washington Free Throw 1 of 2,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,261,4,1,2,9:26 PM,3:02,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,262,3,12,2,9:26 PM,3:02,,,MISS Washington Free Throw 2 of 2,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,263,4,0,2,9:26 PM,3:02,Tatum REBOUND (Off:1 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,264,5,1,2,9:26 PM,2:56,Tatum Bad Pass Turnover (P4.T7),,Irving STEAL (2 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,266,1,63,2,9:26 PM,2:50,,,Doncic 6' Fadeaway Jumper (12 PTS),33 - 58,25,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,267,9,1,2,9:27 PM,2:50,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,268,8,0,2,9:29 PM,2:50,SUB: Porzingis FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,270,1,9,2,9:30 PM,2:32,Tatum 2' Driving Dunk (8 PTS) (White 3 AST),,,33 - 60,27,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,276,2,3,2,9:31 PM,2:08,,,MISS Doncic 7' Hook Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,277,4,0,2,9:31 PM,2:08,,,Washington REBOUND (Off:1 Def:4),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,272,1,87,2,9:31 PM,2:06,,,Washington 3' Putback Dunk (6 PTS),35 - 60,25,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,274,1,1,2,9:31 PM,1:48,Porzingis 26' 3PT Jump Shot (18 PTS) (White 4 AST),,,35 - 63,28,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,278,1,6,2,9:32 PM,1:25,,,Kleber 6' Driving Layup (2 PTS) (Irving 2 AST),37 - 63,26,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,280,6,2,2,9:32 PM,1:18,,,Kleber S.FOUL (P2.T2) (C.Kirkland),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,282,3,11,2,9:32 PM,1:18,MISS Brown Free Throw 1 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,283,4,1,2,9:32 PM,1:18,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,286,3,12,2,9:32 PM,1:18,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,287,4,0,2,9:32 PM,1:18,,,Doncic REBOUND (Off:0 Def:3),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,284,8,0,2,9:32 PM,1:18,,,SUB: Jones Jr. FOR Washington,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,288,1,79,2,9:33 PM,0:55,,,Doncic 15' Pullup Jump Shot (14 PTS),39 - 63,24,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,289,2,79,2,9:33 PM,0:33,MISS Tatum 27' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,290,4,0,2,9:33 PM,0:33,,,Irving REBOUND (Off:0 Def:1),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,291,1,80,2,9:34 PM,0:09,,,Doncic 27' 3PT Step Back Jump Shot (17 PTS),42 - 63,21,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,292,2,80,2,9:34 PM,0:01,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,293,4,0,2,9:34 PM,0:00,,,Doncic REBOUND (Off:0 Def:4),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,294,13,0,2,9:34 PM,0:00,,End of 2nd Period (9:34 PM EST),,42 - 63,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300401,301,12,0,3,9:50 PM,12:00,,Start of 3rd Period (9:50 PM EST),,42 - 63,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,302,1,6,3,9:50 PM,11:41,,,Doncic 2' Driving Layup (19 PTS),44 - 63,19,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,303,1,1,3,9:51 PM,11:22,White 27' 3PT Jump Shot (11 PTS) (Tatum 4 AST),,,44 - 66,22,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,305,2,79,3,9:51 PM,11:00,,,MISS Irving 15' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,306,4,0,3,9:51 PM,10:59,,,Gafford REBOUND (Off:2 Def:0),,,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,307,1,97,3,9:51 PM,10:59,,,Gafford Tip Layup Shot (6 PTS),46 - 66,20,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,308,2,1,3,9:51 PM,10:48,MISS White 27' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,309,4,0,3,9:51 PM,10:46,,,Jones Jr. REBOUND (Off:0 Def:2),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,310,2,102,3,9:52 PM,10:27,,,MISS Doncic 4' Driving Floating Bank Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,311,4,0,3,9:52 PM,10:26,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,312,2,1,3,9:52 PM,10:16,MISS Brown 24' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,313,4,0,3,9:52 PM,10:15,,,Washington REBOUND (Off:1 Def:5),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,314,1,101,3,9:52 PM,10:06,,,Irving 10' Driving Floating Jump Shot (8 PTS),48 - 66,18,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,315,5,2,3,9:52 PM,9:47,Tatum Lost Ball Turnover (P5.T8),,Doncic STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,317,2,1,3,9:52 PM,9:40,,,MISS Irving 31' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,318,4,0,3,9:52 PM,9:37,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,320,2,1,3,9:53 PM,9:22,MISS Horford 16' Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,321,4,0,3,9:53 PM,9:20,,,Doncic REBOUND (Off:0 Def:5),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,322,2,103,3,9:53 PM,9:11,,,MISS Irving 10' Running Pull-Up Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,323,4,0,3,9:53 PM,9:08,Holiday REBOUND (Off:1 Def:4),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,324,2,1,3,9:53 PM,9:01,MISS White 24' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,325,4,0,3,9:53 PM,8:59,,,Doncic REBOUND (Off:0 Def:6),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,326,2,80,3,9:53 PM,8:48,Horford BLOCK (2 BLK),,MISS Doncic 26' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042300401,327,4,0,3,9:53 PM,8:46,Brown REBOUND (Off:1 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,329,6,26,3,9:53 PM,8:44,Brown Offensive Charge Foul (P2) (Z.Zarba),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,331,5,37,3,9:53 PM,8:44,Brown Offensive Foul Turnover (P2.T9),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300401,332,8,0,3,9:54 PM,8:44,,,SUB: Lively II FOR Gafford,,,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,334,5,2,3,9:54 PM,8:27,Holiday STEAL (1 STL),,Irving Lost Ball Turnover (P2.T7),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,336,2,103,3,9:54 PM,8:23,MISS Holiday 26' 3PT Running Pull-Up Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,337,4,0,3,9:54 PM,8:22,White REBOUND (Off:1 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,338,6,2,3,9:54 PM,8:22,,,Lively II S.FOUL (P1.T1) (C.Kirkland),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,340,3,11,3,9:55 PM,8:22,White Free Throw 1 of 2 (12 PTS),,,48 - 67,19,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,341,3,12,3,9:55 PM,8:22,White Free Throw 2 of 2 (13 PTS),,,48 - 68,20,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042300401,342,1,6,3,9:55 PM,8:10,,,Irving 2' Driving Layup (10 PTS),50 - 68,18,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,344,5,45,3,9:56 PM,7:50,Tatum Out of Bounds - Bad Pass Turnover Turnover (P6.T10),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300401,345,1,6,3,9:56 PM,7:44,,,Washington 2' Driving Layup (8 PTS),52 - 68,16,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,346,9,1,3,9:56 PM,7:43,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,347,2,79,3,10:00 PM,7:19,MISS White 20' Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,348,4,0,3,10:00 PM,7:17,,,Doncic REBOUND (Off:0 Def:7),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,349,1,6,3,10:00 PM,7:07,,,Doncic 3' Driving Layup (21 PTS),54 - 68,14,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,350,6,2,3,10:01 PM,6:54,,,Jones Jr. S.FOUL (P1.T2) (J.Tiven),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,352,3,11,3,10:01 PM,6:54,Holiday Free Throw 1 of 2 (6 PTS),,,54 - 69,15,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,355,3,12,3,10:01 PM,6:54,Holiday Free Throw 2 of 2 (7 PTS),,,54 - 70,16,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,365,8,0,3,10:01 PM,6:54,SUB: Porzingis FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,356,2,6,3,10:02 PM,6:41,,,MISS Washington 4' Driving Layup,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,357,4,0,3,10:02 PM,6:40,,,Washington REBOUND (Off:2 Def:5),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,360,6,2,3,10:02 PM,6:40,White S.FOUL (P1.T1) (J.Tiven),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,362,3,11,3,10:02 PM,6:40,,,Washington Free Throw 1 of 2 (9 PTS),55 - 70,15,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,363,3,12,3,10:03 PM,6:40,,,Washington Free Throw 2 of 2 (10 PTS),56 - 70,14,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,364,6,1,3,10:03 PM,6:29,,,Lively II P.FOUL (P2.T3) (C.Kirkland),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,368,1,6,3,10:03 PM,6:22,Tatum 3' Driving Layup (10 PTS),,,56 - 72,16,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,369,1,80,3,10:03 PM,6:13,,,Doncic 28' 3PT Step Back Jump Shot (24 PTS),59 - 72,13,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,370,2,1,3,10:04 PM,5:48,MISS Brown 29' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,371,4,0,3,10:04 PM,5:46,,,Doncic REBOUND (Off:0 Def:8),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,372,2,41,3,10:04 PM,5:38,Tatum BLOCK (1 BLK),,MISS Jones Jr. 2' Running Layup,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1
+0042300401,374,4,0,3,10:04 PM,5:36,,,Lively II REBOUND (Off:1 Def:2),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,375,2,1,3,10:04 PM,5:35,,,MISS Irving 26' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,376,4,0,3,10:04 PM,5:34,Holiday REBOUND (Off:1 Def:5),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,377,6,1,3,10:04 PM,5:33,,,Lively II P.FOUL (P3.T4) (C.Kirkland),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,379,8,0,3,10:04 PM,5:33,,,SUB: Kleber FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,381,5,2,3,10:05 PM,5:12,Porzingis Lost Ball Turnover (P1.T11),,Doncic STEAL (2 STL),,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,383,1,63,3,10:05 PM,5:00,,,Irving 10' Fadeaway Jumper (12 PTS),61 - 72,11,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,384,2,1,3,10:05 PM,4:40,MISS Holiday 24' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,385,4,0,3,10:05 PM,4:39,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300401,386,6,3,3,10:05 PM,4:39,White L.B.FOUL (P2.T2) (Z.Zarba),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,388,8,0,3,10:05 PM,4:39,SUB: Hauser FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,390,1,79,3,10:06 PM,4:28,,,Doncic 28' 3PT Pullup Jump Shot (27 PTS),64 - 72,8,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,391,9,1,3,10:06 PM,4:27,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,392,2,6,3,10:10 PM,4:08,MISS Tatum 5' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,393,4,0,3,10:10 PM,4:07,,,Lively II REBOUND (Off:1 Def:3),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,394,5,4,3,10:10 PM,4:05,,,Lively II Traveling Turnover (P2.T8),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300401,395,6,2,3,10:10 PM,3:55,,,Lively II S.FOUL (P4.PN) (J.Tiven),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,397,3,11,3,10:11 PM,3:55,Brown Free Throw 1 of 2 (14 PTS),,,64 - 73,9,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,398,3,12,3,10:11 PM,3:55,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,399,4,0,3,10:11 PM,3:55,,,Doncic REBOUND (Off:0 Def:9),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,400,5,4,3,10:12 PM,3:35,,,Irving Traveling Turnover (P3.T9),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,401,2,1,3,10:12 PM,3:20,MISS Porzingis 27' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,402,4,0,3,10:12 PM,3:18,Tatum REBOUND (Off:2 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,403,1,108,3,10:12 PM,3:15,Porzingis 3' Cutting Dunk Shot (20 PTS) (Tatum 5 AST),,,64 - 75,11,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,405,2,79,3,10:12 PM,3:01,,,MISS Irving 25' 3PT Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,406,4,0,3,10:12 PM,3:00,Porzingis REBOUND (Off:0 Def:4),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,407,6,2,3,10:13 PM,2:44,,,Lively II S.FOUL (P5.PN) (J.Tiven),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,409,3,11,3,10:13 PM,2:44,Brown Free Throw 1 of 2 (15 PTS),,,64 - 76,12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,458,8,0,3,10:13 PM,2:44,SUB: Horford FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,459,8,0,3,10:13 PM,2:44,,,SUB: Hardaway Jr. FOR Lively II,,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,460,8,0,3,10:13 PM,2:44,,,SUB: Jones Jr. FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,416,3,12,3,10:14 PM,2:44,Brown Free Throw 2 of 2 (16 PTS),,,64 - 77,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,452,2,52,3,10:14 PM,2:34,Brown BLOCK (1 BLK),,MISS Jones Jr. 2' Alley Oop Dunk,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042300401,454,4,0,3,10:14 PM,2:33,,,Jones Jr. REBOUND (Off:1 Def:2),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,417,2,7,3,10:14 PM,2:26,Brown BLOCK (2 BLK),,MISS Jones Jr. 5' Dunk,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042300401,419,4,0,3,10:14 PM,2:24,Tatum REBOUND (Off:2 Def:6),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,420,2,2,3,10:14 PM,2:22,MISS Horford 26' 3PT Running Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,421,4,0,3,10:14 PM,2:19,,,Doncic REBOUND (Off:0 Def:10),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,422,2,80,3,10:14 PM,2:11,,,MISS Doncic 28' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,423,4,0,3,10:14 PM,2:09,Hauser REBOUND (Off:0 Def:3),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,424,1,1,3,10:14 PM,1:52,Tatum 26' 3PT Jump Shot (13 PTS) (Holiday 5 AST),,,64 - 80,16,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,426,9,1,3,10:15 PM,1:51,,,Mavericks Timeout: Regular (Reg.3 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,427,2,1,3,10:16 PM,1:39,,,MISS Doncic 26' 3PT Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,428,4,0,3,10:17 PM,1:37,Brown REBOUND (Off:1 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,430,8,0,3,10:17 PM,1:20,,,SUB: Gafford FOR Washington,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,432,8,0,3,10:17 PM,1:20,,,SUB: Irving FOR Doncic,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,434,1,1,3,10:17 PM,1:13,Horford 3PT Jump Shot (8 PTS) (Brown 2 AST),,,64 - 83,19,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,436,2,6,3,10:18 PM,1:00,Brown BLOCK (3 BLK),,MISS Irving 3' Driving Layup,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042300401,438,4,0,3,10:18 PM,0:59,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,440,2,98,3,10:18 PM,0:51,,,MISS Irving 3' Cutting Layup Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,441,4,0,3,10:18 PM,0:50,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,443,1,79,3,10:19 PM,0:34,Brown 27' 3PT Pullup Jump Shot (19 PTS),,,64 - 86,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,444,2,63,3,10:19 PM,0:15,,,MISS Hardaway Jr. 16' Fadeaway Jumper,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,445,4,0,3,10:19 PM,0:14,,,Gafford REBOUND (Off:3 Def:0),,,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,446,6,2,3,10:19 PM,0:14,Hauser S.FOUL (P2.T3) (Z.Zarba),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,448,3,11,3,10:20 PM,0:14,,,Gafford Free Throw 1 of 2 (7 PTS),65 - 86,21,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,449,8,0,3,10:20 PM,0:14,,,SUB: Green FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,451,3,12,3,10:20 PM,0:14,,,Gafford Free Throw 2 of 2 (8 PTS),66 - 86,20,5,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,455,2,6,3,10:21 PM,0:02,MISS Brown 6' Driving Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,456,4,0,3,10:21 PM,0:00,,,Jones Jr. REBOUND (Off:1 Def:3),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,457,13,0,3,10:21 PM,0:00,,End of 3rd Period (10:21 PM EST),,66 - 86,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300401,476,12,0,4,10:24 PM,12:00,,Start of 4th Period (10:24 PM EST),,66 - 86,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,477,1,6,4,10:25 PM,11:39,Brown 3' Driving Layup (21 PTS) (White 5 AST),,,66 - 88,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,479,2,108,4,10:25 PM,11:18,Porzingis BLOCK (3 BLK),,MISS Jones Jr. 4' Cutting Dunk Shot,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1
+0042300401,481,4,0,4,10:25 PM,11:16,,,Jones Jr. REBOUND (Off:2 Def:3),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,482,1,6,4,10:25 PM,11:11,,,Washington 1' Driving Layup (12 PTS) (Kleber 1 AST),68 - 88,20,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,483,6,1,4,10:25 PM,11:00,,,Irving P.FOUL (P2.T1) (Z.Zarba),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,486,2,80,4,10:26 PM,10:48,MISS Tatum 28' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,487,4,0,4,10:26 PM,10:46,,,Irving REBOUND (Off:0 Def:2),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,488,1,6,4,10:26 PM,10:37,,,Doncic 4' Driving Layup (29 PTS),70 - 88,18,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,489,6,2,4,10:26 PM,10:37,Brown S.FOUL (P3.T1) (J.Tiven),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,491,3,10,4,10:26 PM,10:37,,,MISS Doncic Free Throw 1 of 1,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,492,4,0,4,10:26 PM,10:37,Porzingis REBOUND (Off:0 Def:5),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,494,8,0,4,10:27 PM,10:27,SUB: Holiday FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,496,5,1,4,10:27 PM,10:14,White Bad Pass Turnover (P2.T12),,Jones Jr. STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,498,2,41,4,10:27 PM,10:08,,,MISS Jones Jr. 2' Running Layup,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,499,4,0,4,10:27 PM,10:06,Porzingis REBOUND (Off:0 Def:6),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,500,2,79,4,10:28 PM,9:57,MISS Porzingis 14' Pullup Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,501,4,0,4,10:28 PM,9:55,,,Jones Jr. REBOUND (Off:2 Def:4),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,502,6,2,4,10:28 PM,9:39,White S.FOUL (P3.T2) (J.Tiven),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,504,3,11,4,10:28 PM,9:39,,,Doncic Free Throw 1 of 2 (30 PTS),71 - 88,17,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,507,3,12,4,10:28 PM,9:39,,,MISS Doncic Free Throw 2 of 2,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,505,8,0,4,10:28 PM,9:39,,,SUB: Lively II FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,508,4,0,4,10:28 PM,9:37,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,510,2,80,4,10:29 PM,9:30,,,MISS Doncic 27' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,511,4,0,4,10:29 PM,9:29,Holiday REBOUND (Off:1 Def:6),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,512,1,73,4,10:29 PM,9:18,Holiday 2' Driving Reverse Layup (9 PTS),,,71 - 90,19,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,514,2,1,4,10:30 PM,9:09,,,MISS Washington 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,515,4,0,4,10:30 PM,9:08,Tatum REBOUND (Off:2 Def:7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,516,2,1,4,10:30 PM,8:54,MISS Porzingis 16' Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,517,4,0,4,10:30 PM,8:52,,,Irving REBOUND (Off:0 Def:3),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,518,5,2,4,10:30 PM,8:38,White STEAL (1 STL),,Doncic Lost Ball Turnover (P4.T10),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,520,1,41,4,10:30 PM,8:34,White 2' Running Layup (15 PTS),,,71 - 92,21,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,521,9,1,4,10:31 PM,8:34,,,Mavericks Timeout: Regular (Reg.4 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,522,8,0,4,10:33 PM,8:34,SUB: Horford FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,523,8,0,4,10:33 PM,8:34,,,SUB: Green FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,526,2,63,4,10:34 PM,8:17,,,MISS Doncic 14' Fadeaway Jumper,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,527,4,0,4,10:34 PM,8:15,Tatum REBOUND (Off:2 Def:8),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,528,2,78,4,10:35 PM,7:57,MISS Holiday 6' Floating Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,529,4,0,4,10:35 PM,7:56,,,Lively II REBOUND (Off:1 Def:4),,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,530,2,101,4,10:35 PM,7:34,,,MISS Washington 8' Driving Floating Jump Shot,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,531,4,0,4,10:35 PM,7:33,,,Washington REBOUND (Off:3 Def:5),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,532,1,72,4,10:35 PM,7:30,,,Washington 3' Putback Layup (14 PTS),73 - 92,19,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,533,1,80,4,10:36 PM,7:03,Tatum 19' Step Back Jump Shot (15 PTS),,,73 - 94,21,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,534,1,108,4,10:36 PM,6:51,,,Lively II 2' Cutting Dunk Shot (2 PTS) (Washington 1 AST),75 - 94,19,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,536,2,80,4,10:36 PM,6:27,MISS Tatum 21' Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,537,4,0,4,10:36 PM,6:26,Holiday REBOUND (Off:2 Def:6),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,538,2,98,4,10:36 PM,6:25,MISS Tatum 4' Cutting Layup Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,539,4,0,4,10:36 PM,6:24,Horford REBOUND (Off:2 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,540,1,97,4,10:36 PM,6:24,Horford Tip Layup Shot (10 PTS),,,75 - 96,21,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,541,6,2,4,10:37 PM,6:09,Holiday S.FOUL (P3.T3) (Z.Zarba),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,543,3,11,4,10:37 PM,6:09,,,MISS Lively II Free Throw 1 of 2,,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042300401,544,4,1,4,10:37 PM,6:09,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,547,3,12,4,10:37 PM,6:09,,,MISS Lively II Free Throw 2 of 2,,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,548,4,0,4,10:37 PM,6:09,Horford REBOUND (Off:2 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,545,8,0,4,10:37 PM,6:09,SUB: Brown FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,549,1,1,4,10:38 PM,5:49,Holiday 24' 3PT Jump Shot (12 PTS) (Horford 3 AST),,,75 - 99,24,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,551,2,101,4,10:38 PM,5:29,,,MISS Doncic 8' Driving Floating Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,552,4,0,4,10:38 PM,5:28,Horford REBOUND (Off:2 Def:5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,553,6,2,4,10:38 PM,5:17,,,Washington S.FOUL (P3.T2) (C.Kirkland),,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,555,3,13,4,10:39 PM,5:17,Brown Free Throw 1 of 3 (22 PTS),,,75 - 100,25,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,556,3,14,4,10:39 PM,5:17,MISS Brown Free Throw 2 of 3,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,557,4,1,4,10:39 PM,5:17,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,562,3,15,4,10:39 PM,5:17,MISS Brown Free Throw 3 of 3,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,563,4,0,4,10:39 PM,5:17,,,Green REBOUND (Off:1 Def:1),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,558,8,0,4,10:39 PM,5:17,,,SUB: Hardy FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,559,8,0,4,10:39 PM,5:17,,,SUB: Exum FOR Doncic,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,564,2,80,4,10:39 PM,5:01,,,MISS Hardy 25' 3PT Step Back Jump Shot,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,565,4,0,4,10:39 PM,4:59,Brown REBOUND (Off:1 Def:5),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,566,9,1,4,10:39 PM,4:58,CELTICS Timeout: Regular (Full 5 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300401,567,8,0,4,10:42 PM,4:58,,,SUB: Powell FOR Lively II,,,5,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,568,8,0,4,10:42 PM,4:58,,,SUB: Hardaway Jr. FOR Washington,,,5,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300401,571,2,63,4,10:43 PM,4:42,MISS Tatum 19' Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,572,4,0,4,10:43 PM,4:41,,,Green REBOUND (Off:1 Def:2),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,573,1,1,4,10:44 PM,4:26,,,Hardy 27' 3PT Jump Shot (5 PTS) (Exum 1 AST),78 - 100,22,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,575,6,1,4,10:44 PM,4:08,,,Hardy P.FOUL (P1.T3) (Z.Zarba),,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,577,8,0,4,10:44 PM,4:08,SUB: Pritchard FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,580,2,63,4,10:45 PM,3:53,MISS Pritchard 21' Fadeaway Jumper,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,581,4,0,4,10:45 PM,3:52,,,Hardy REBOUND (Off:0 Def:2),,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,582,1,41,4,10:45 PM,3:45,,,Hardy 2' Running Layup (7 PTS),80 - 100,20,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,583,6,2,4,10:46 PM,3:19,,,Powell S.FOUL (P1.T4) (J.Tiven),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300401,585,3,11,4,10:46 PM,3:19,Tatum Free Throw 1 of 2 (16 PTS),,,80 - 101,21,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,590,3,12,4,10:46 PM,3:19,MISS Tatum Free Throw 2 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,591,4,0,4,10:46 PM,3:19,,,Exum REBOUND (Off:0 Def:1),,,5,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,586,8,0,4,10:46 PM,3:19,SUB: Kornet FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,587,8,0,4,10:46 PM,3:19,SUB: Hauser FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,592,2,1,4,10:46 PM,3:09,,,MISS Hardaway Jr. 25' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,593,4,0,4,10:47 PM,3:08,Tatum REBOUND (Off:2 Def:9),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,594,2,79,4,10:47 PM,2:47,MISS Pritchard 17' Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,595,4,0,4,10:47 PM,2:46,,,Hardy REBOUND (Off:0 Def:3),,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,596,6,2,4,10:47 PM,2:40,Kornet S.FOUL (P1.T4) (C.Kirkland),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,598,3,11,4,10:48 PM,2:40,,,Hardy Free Throw 1 of 2 (8 PTS),81 - 101,20,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,599,8,0,4,10:48 PM,2:40,SUB: Brissett FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1629052,Oshae Brissett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,600,8,0,4,10:48 PM,2:40,SUB: Mykhailiuk FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300401,603,3,12,4,10:48 PM,2:40,,,Hardy Free Throw 2 of 2 (9 PTS),82 - 101,19,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,604,1,102,4,10:48 PM,2:22,Mykhailiuk 9' Driving Floating Bank Jump Shot (2 PTS) (Hauser 1 AST),,,82 - 103,21,4,1629004,Svi Mykhailiuk,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,606,5,1,4,10:48 PM,2:14,Kornet STEAL (1 STL),,Exum Bad Pass Turnover (P1.T11),,,5,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,608,2,101,4,10:49 PM,2:03,MISS Hauser 7' Driving Floating Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,609,4,0,4,10:49 PM,2:02,Kornet REBOUND (Off:1 Def:0),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,610,1,97,4,10:49 PM,2:02,Kornet 4' Tip Layup Shot (2 PTS),,,82 - 105,23,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,611,6,1,4,10:49 PM,1:49,Pritchard P.FOUL (P2.PN) (C.Kirkland),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300401,613,3,11,4,10:49 PM,1:49,,,Hardy Free Throw 1 of 2 (10 PTS),83 - 105,22,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,614,3,12,4,10:50 PM,1:49,,,Hardy Free Throw 2 of 2 (11 PTS),84 - 105,21,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,615,1,79,4,10:50 PM,1:36,Hauser 21' Pullup Jump Shot (8 PTS) (Pritchard 2 AST),,,84 - 107,23,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300401,617,1,63,4,10:50 PM,1:26,,,Hardy 9' Fadeaway Jumper (13 PTS),86 - 107,21,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,618,5,1,4,10:50 PM,1:04,Pritchard Bad Pass Turnover (P1.T13),,Hardaway Jr. STEAL (1 STL),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,620,1,1,4,10:51 PM,0:58,,,Green 24' 3PT Jump Shot (3 PTS) (Hardy 1 AST),89 - 107,18,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300401,622,2,79,4,10:51 PM,0:40,MISS Pritchard 28' 3PT Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,623,4,0,4,10:51 PM,0:38,,,Exum REBOUND (Off:0 Def:2),,,5,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,624,2,6,4,10:51 PM,0:30,,,MISS Green 3' Driving Layup,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300401,625,4,0,4,10:51 PM,0:28,Hauser REBOUND (Off:0 Def:4),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300401,626,5,11,4,10:52 PM,0:06,CELTICS Turnover: Shot Clock (T#14),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300401,627,13,0,4,10:52 PM,0:00,,End of 4th Period (10:52 PM EST),,89 - 107,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

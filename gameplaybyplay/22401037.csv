@@ -1,0 +1,447 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022401037,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,4,10,0,1,7:11 PM,12:00,Jump Ball Turner vs. Gobert: Tip to Randle,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022401037,7,2,79,1,7:12 PM,11:38,,,MISS Edwards 25' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,8,4,0,1,7:12 PM,11:35,Nesmith REBOUND (Off:0 Def:1),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,9,2,79,1,7:12 PM,11:22,MISS Turner 19' Pullup Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,10,4,0,1,7:12 PM,11:20,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,11,2,1,1,7:12 PM,11:10,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,12,4,0,1,7:12 PM,11:07,Nesmith REBOUND (Off:0 Def:2),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,13,2,1,1,7:12 PM,10:56,MISS Turner 20' Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,14,4,0,1,7:12 PM,10:53,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,16,1,47,1,7:13 PM,10:40,Siakam 20' Turnaround Jump Shot (2 PTS),,,0 - 2,2,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,17,2,6,1,7:13 PM,10:27,Haliburton BLOCK (1 BLK),,MISS McDaniels 6' Driving Layup,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1
+0022401037,19,4,0,1,7:13 PM,10:25,Turner REBOUND (Off:0 Def:1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,20,6,2,1,7:13 PM,10:22,,,Edwards S.FOUL (P1.T1) (B.Nansel),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,22,3,11,1,7:14 PM,10:22,Siakam Free Throw 1 of 2 (3 PTS),,,0 - 3,3,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,23,3,12,1,7:14 PM,10:22,Siakam Free Throw 2 of 2 (4 PTS),,,0 - 4,4,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,24,1,6,1,7:14 PM,10:05,,,McDaniels 4' Driving Layup (2 PTS) (Edwards 1 AST),2 - 4,2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,26,7,1,1,7:14 PM,10:02,,,Timberwolves Violation: Delay of game Violation,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0022401037,27,2,75,1,7:15 PM,9:41,MISS Nembhard 5' Driving Finger Roll Layup,,Conley BLOCK (1 BLK),,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022401037,29,4,0,1,7:15 PM,9:38,,,Gobert REBOUND (Off:0 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,30,2,41,1,7:15 PM,9:34,Turner BLOCK (1 BLK),,MISS McDaniels 4' Running Layup,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022401037,32,4,0,1,7:15 PM,9:31,Haliburton REBOUND (Off:0 Def:1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,33,2,2,1,7:15 PM,9:26,MISS Nembhard 21' Running Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,34,4,0,1,7:15 PM,9:23,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,35,2,1,1,7:15 PM,9:14,,,MISS Edwards 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,36,4,0,1,7:15 PM,9:11,Nembhard REBOUND (Off:0 Def:1),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,37,6,1,1,7:15 PM,9:11,,,McDaniels P.FOUL (P1.T2) (J.Williams),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,39,2,1,1,7:16 PM,9:05,MISS Nembhard 26' 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,40,4,0,1,7:16 PM,9:01,,,Gobert REBOUND (Off:0 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,41,1,6,1,7:16 PM,8:52,,,Edwards 3' Driving Layup (2 PTS),4 - 4,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,42,2,1,1,7:16 PM,8:45,MISS Siakam 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,43,4,0,1,7:16 PM,8:43,,,Gobert REBOUND (Off:0 Def:4),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,44,2,6,1,7:16 PM,8:31,,,MISS Randle 3' Driving Layup,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,45,4,0,1,7:16 PM,8:29,Turner REBOUND (Off:0 Def:2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,46,2,1,1,7:16 PM,8:23,MISS Haliburton 26' 3PT Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,47,4,0,1,7:17 PM,8:20,,,Edwards REBOUND (Off:0 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,48,5,1,1,7:17 PM,8:14,Turner STEAL (1 STL),,Edwards Bad Pass Turnover (P1.T1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,50,1,2,1,7:17 PM,8:09,Nesmith 24' 3PT Running Jump Shot (3 PTS) (Haliburton 1 AST),,,4 - 7,3,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,52,2,79,1,7:17 PM,7:50,,,MISS McDaniels 14' Pullup Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,53,4,0,1,7:17 PM,7:47,Haliburton REBOUND (Off:0 Def:2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,54,1,76,1,7:17 PM,7:41,Haliburton 2' Running Finger Roll Layup (2 PTS),,,4 - 9,5,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,55,1,79,1,7:17 PM,7:24,,,Conley 28' 3PT Pullup Jump Shot (3 PTS) (Gobert 1 AST),7 - 9,2,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,57,1,101,1,7:18 PM,7:11,Haliburton 12' Driving Floating Jump Shot (4 PTS) (Siakam 1 AST),,,7 - 11,4,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,59,2,1,1,7:18 PM,6:52,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,60,4,0,1,7:18 PM,6:49,Turner REBOUND (Off:0 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,61,1,41,1,7:18 PM,6:44,Nesmith 3' Running Layup (5 PTS) (Siakam 2 AST),,,7 - 13,6,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,63,1,99,1,7:18 PM,6:30,,,Gobert 2' Cutting Finger Roll Layup Shot (2 PTS) (Conley 1 AST),9 - 13,4,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,65,2,86,1,7:19 PM,6:19,MISS Siakam 14' Turnaround Fadeaway Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,66,4,0,1,7:19 PM,6:17,,,Gobert REBOUND (Off:0 Def:5),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,67,2,6,1,7:19 PM,6:12,Turner BLOCK (2 BLK),,MISS Gobert 3' Driving Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022401037,69,4,0,1,7:19 PM,6:11,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,71,9,1,1,7:19 PM,6:11,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,72,8,0,1,7:21 PM,6:11,SUB: Toppin FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,73,8,0,1,7:21 PM,6:11,SUB: Mathurin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,74,8,0,1,7:21 PM,6:11,,,SUB: DiVincenzo FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,75,8,0,1,7:21 PM,6:11,,,SUB: Reid FOR Randle,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,80,5,4,1,7:22 PM,6:06,,,Edwards Traveling Turnover (P2.T2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,81,1,6,1,7:22 PM,5:55,Turner 4' Driving Layup (2 PTS) (Haliburton 2 AST),,,9 - 15,6,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,83,2,1,1,7:23 PM,5:34,,,MISS Edwards 26' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,84,4,0,1,7:23 PM,5:31,Turner REBOUND (Off:0 Def:4),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,85,1,6,1,7:23 PM,5:22,Toppin 6' Driving Layup (2 PTS),,,9 - 17,8,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,86,1,79,1,7:23 PM,5:05,,,Reid 26' 3PT Pullup Jump Shot (3 PTS) (Gobert 2 AST),12 - 17,5,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,88,2,1,1,7:24 PM,4:45,MISS Mathurin 24' 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,89,4,0,1,7:24 PM,4:43,,,Gobert REBOUND (Off:0 Def:6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,90,1,51,1,7:24 PM,4:30,,,Gobert 3' Reverse Dunk (4 PTS) (McDaniels 1 AST),14 - 17,3,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,92,2,101,1,7:24 PM,4:07,MISS Turner 6' Driving Floating Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,93,4,0,1,7:24 PM,4:06,,,Gobert REBOUND (Off:0 Def:7),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,94,2,79,1,7:24 PM,3:58,,,MISS DiVincenzo 29' 3PT Pullup Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,95,4,0,1,7:24 PM,3:55,Turner REBOUND (Off:0 Def:5),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,96,5,2,1,7:25 PM,3:44,Turner Lost Ball Turnover (P1.T1),,Edwards STEAL (1 STL),,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,98,1,101,1,7:25 PM,3:40,,,Edwards 3' Driving Floating Jump Shot (4 PTS),16 - 17,1,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,99,6,2,1,7:25 PM,3:40,Mathurin S.FOUL (P1.T1) (M.Kogut),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,101,8,0,1,7:25 PM,3:40,SUB: Bryant FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,102,8,0,1,7:25 PM,3:40,SUB: McConnell FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,103,8,0,1,7:25 PM,3:40,,,SUB: Alexander-Walker FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,104,8,0,1,7:25 PM,3:40,,,SUB: Randle FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,109,8,0,1,7:25 PM,3:40,SUB: Sheppard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,110,8,0,1,7:25 PM,3:40,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,113,3,10,1,7:26 PM,3:40,,,MISS Edwards Free Throw 1 of 1,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,114,4,0,1,7:26 PM,3:39,Bryant REBOUND (Off:0 Def:1),,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,115,1,6,1,7:26 PM,3:29,Mathurin 5' Driving Layup (2 PTS) (McConnell 1 AST),,,16 - 19,3,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,117,6,2,1,7:26 PM,3:29,,,DiVincenzo S.FOUL (P1.T3) (M.Kogut),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,119,8,0,1,7:26 PM,3:29,SUB: Toppin FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,121,3,10,1,7:27 PM,3:29,Mathurin Free Throw 1 of 1 (3 PTS),,,16 - 20,4,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,122,7,5,1,7:27 PM,3:20,Sheppard Violation:Kicked Ball (J.Williams),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0022401037,123,2,75,1,7:27 PM,3:12,,,MISS Edwards 6' Driving Finger Roll Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,124,4,0,1,7:27 PM,3:09,Sheppard REBOUND (Off:0 Def:1),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,125,1,79,1,7:27 PM,2:57,McConnell 9' Pullup Jump Shot (2 PTS) (Toppin 1 AST),,,16 - 22,6,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,127,2,79,1,7:28 PM,2:48,,,MISS Alexander-Walker 26' 3PT Pullup Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,128,4,0,1,7:28 PM,2:46,Mathurin REBOUND (Off:0 Def:1),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,129,2,1,1,7:28 PM,2:35,MISS Siakam 25' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,130,4,0,1,7:28 PM,2:31,,,Edwards REBOUND (Off:0 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,131,1,47,1,7:28 PM,2:19,,,Randle 8' Turnaround Jump Shot (2 PTS) (DiVincenzo 1 AST),18 - 22,4,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,133,1,1,1,7:28 PM,2:05,Toppin 24' 3PT Jump Shot (5 PTS) (Siakam 3 AST),,,18 - 25,7,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,135,6,2,1,7:29 PM,1:50,Siakam S.FOUL (P1.T2) (M.Kogut),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,137,9,1,1,7:29 PM,1:50,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,138,8,0,1,7:31 PM,1:50,,,SUB: Clark FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,140,3,11,1,7:32 PM,1:50,,,Randle Free Throw 1 of 2 (3 PTS),19 - 25,6,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,141,3,12,1,7:32 PM,1:50,,,MISS Randle Free Throw 2 of 2,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,142,4,0,1,7:32 PM,1:48,,,Randle REBOUND (Off:1 Def:0),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,143,1,1,1,7:32 PM,1:45,,,Alexander-Walker 25' 3PT Jump Shot (3 PTS) (Clark 1 AST),22 - 25,3,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,145,6,4,1,7:33 PM,1:32,Mathurin OFF.Foul (P2) (B.Nansel),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,147,5,37,1,7:33 PM,1:32,Mathurin Offensive Foul Turnover (P1.T2),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022401037,148,8,0,1,7:33 PM,1:32,SUB: Nesmith FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,153,5,45,1,7:34 PM,1:20,,,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,151,9,7,1,7:34 PM,1:20,PACERS Timeout: Coach Challenge (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,152,18,5,1,7:34 PM,1:20,,Instant Replay1st Period (7:34 PM EST),,22 - 25,3,0,150,,,,,,0,0,,,,,,1,0,,,,,,1
+0022401037,154,2,63,1,7:36 PM,1:14,MISS McConnell 9' Fadeaway Jumper,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,155,4,0,1,7:36 PM,1:09,,,Randle REBOUND (Off:1 Def:1),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,156,2,101,1,7:36 PM,1:00,,,MISS DiVincenzo 9' Driving Floating Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,157,4,0,1,7:36 PM,0:58,Siakam REBOUND (Off:0 Def:1),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,158,5,39,1,7:36 PM,0:54,Sheppard Step Out of Bounds Turnover (P1.T3),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022401037,159,2,1,1,7:36 PM,0:43,,,MISS Reid 28' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,160,4,0,1,7:36 PM,0:39,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022401037,162,2,1,1,7:37 PM,0:30,MISS Toppin 25' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,163,4,0,1,7:37 PM,0:27,,,Randle REBOUND (Off:1 Def:2),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,164,6,1,1,7:37 PM,0:20,Nesmith P.FOUL (P1.PN) (B.Nansel),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,166,3,11,1,7:37 PM,0:20,,,MISS Reid Free Throw 1 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,167,4,1,1,7:37 PM,0:20,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,168,8,0,1,7:37 PM,0:20,SUB: Haliburton FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,170,3,12,1,7:38 PM,0:20,,,Reid Free Throw 2 of 2 (4 PTS),23 - 25,2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,171,2,1,1,7:38 PM,0:03,MISS Toppin 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,172,4,0,1,7:38 PM,0:00,,,DiVincenzo REBOUND (Off:0 Def:1),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,173,13,0,1,7:38 PM,0:00,,End of 1st Period (7:38 PM EST),,23 - 25,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022401037,184,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,23 - 25,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,185,1,79,2,7:41 PM,11:47,McConnell 12' Pullup Jump Shot (4 PTS) (Mathurin 1 AST),,,23 - 27,4,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,187,2,1,2,7:41 PM,11:24,,,MISS Reid 29' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,188,4,0,2,7:41 PM,11:22,Mathurin REBOUND (Off:0 Def:2),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,189,2,79,2,7:42 PM,11:07,MISS McConnell 10' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,190,4,0,2,7:42 PM,11:04,,,Reid REBOUND (Off:0 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,191,1,43,2,7:42 PM,10:49,,,Gobert 1' Alley Oop Layup (6 PTS) (DiVincenzo 2 AST),25 - 27,2,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,193,5,2,2,7:42 PM,10:39,Mathurin Lost Ball Turnover (P2.T4),,Alexander-Walker STEAL (1 STL),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,195,2,2,2,7:42 PM,10:34,,,MISS DiVincenzo 27' 3PT Running Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,196,4,0,2,7:42 PM,10:32,Mathurin REBOUND (Off:0 Def:3),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,197,2,79,2,7:42 PM,10:23,MISS Siakam 10' Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,198,4,0,2,7:42 PM,10:20,,,DiVincenzo REBOUND (Off:0 Def:2),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,199,1,41,2,7:42 PM,10:16,,,Conley 2' Running Layup (5 PTS),27 - 27,TIE,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,200,9,1,2,7:43 PM,10:06,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,201,8,0,2,7:45 PM,10:06,,,SUB: Clark FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,203,1,79,2,7:46 PM,9:53,McConnell 17' Pullup Jump Shot (6 PTS) (Mathurin 2 AST),,,27 - 29,2,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,207,2,101,2,7:47 PM,9:25,,,MISS Reid 12' Driving Floating Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,208,4,0,2,7:47 PM,9:22,Siakam REBOUND (Off:0 Def:2),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,209,1,79,2,7:47 PM,9:13,Mathurin 21' Pullup Jump Shot (5 PTS) (Sheppard 1 AST),,,27 - 31,4,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,211,2,1,2,7:47 PM,8:57,,,MISS Alexander-Walker 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,212,4,0,2,7:47 PM,8:54,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,213,6,1,2,7:48 PM,8:45,,,Clark P.FOUL (P1.T1) (B.Nansel),,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,215,18,7,2,7:48 PM,8:45,,Instant Replay2nd Period (7:48 PM EST),,27 - 31,4,0,209,Dell Curry,,,,,0,0,,,,,,1,0,,,,,,0
+0022401037,217,8,0,2,7:48 PM,8:45,SUB: Nembhard FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,218,8,0,2,7:48 PM,8:45,,,SUB: Edwards FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,221,2,79,2,7:49 PM,8:43,MISS Mathurin 26' 3PT Pullup Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,222,4,0,2,7:49 PM,8:38,,,Gobert REBOUND (Off:0 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,225,5,1,2,7:49 PM,8:23,Bryant STEAL (1 STL),,Conley Bad Pass Turnover (P1.T4),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,227,6,2,2,7:49 PM,8:20,,,Reid S.FOUL (P1.T2) (M.Kogut),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,230,8,0,2,7:50 PM,8:20,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,231,8,0,2,7:50 PM,8:20,,,SUB: Randle FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,234,3,11,2,7:51 PM,8:20,Mathurin Free Throw 1 of 2 (6 PTS),,,27 - 32,5,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,237,3,12,2,7:51 PM,8:20,Mathurin Free Throw 2 of 2 (7 PTS),,,27 - 33,6,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,235,8,0,2,7:51 PM,8:20,,,SUB: McDaniels FOR Clark,,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,238,5,1,2,7:51 PM,8:20,McConnell STEAL (1 STL),,Gobert Bad Pass Turnover (P1.T5),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,240,2,98,2,7:51 PM,8:17,MISS Bryant 3' Cutting Layup Shot,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,241,4,0,2,7:51 PM,8:16,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022401037,242,5,4,2,7:51 PM,8:16,Bryant Traveling Turnover (P1.T5),,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022401037,243,2,1,2,7:52 PM,8:01,,,MISS Edwards 26' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,244,4,0,2,7:52 PM,7:59,McConnell REBOUND (Off:0 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,245,2,101,2,7:52 PM,7:50,MISS Mathurin 12' Driving Floating Jump Shot,,McDaniels BLOCK (1 BLK),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022401037,247,4,0,2,7:52 PM,7:47,Mathurin REBOUND (Off:1 Def:3),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,248,1,72,2,7:52 PM,7:47,Mathurin 4' Putback Layup (9 PTS),,,27 - 35,8,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,249,1,99,2,7:52 PM,7:33,,,Edwards 2' Cutting Finger Roll Layup Shot (6 PTS) (Randle 1 AST),29 - 35,6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,251,2,1,2,7:53 PM,7:14,MISS Bryant 25' 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,252,4,0,2,7:53 PM,7:12,,,Randle REBOUND (Off:1 Def:3),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,253,1,101,2,7:53 PM,7:05,,,Conley 12' Driving Floating Jump Shot (7 PTS) (Randle 2 AST),31 - 35,4,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,255,9,1,2,7:53 PM,6:56,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,256,8,0,2,7:55 PM,6:56,SUB: Turner FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,257,8,0,2,7:55 PM,6:56,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,261,1,1,2,7:57 PM,6:47,Toppin 24' 3PT Jump Shot (8 PTS) (Haliburton 3 AST),,,31 - 38,7,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,263,2,79,2,7:57 PM,6:28,,,MISS Conley 27' 3PT Pullup Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,264,4,0,2,7:57 PM,6:27,,,Gobert REBOUND (Off:1 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,265,2,97,2,7:57 PM,6:26,,,MISS Gobert Tip Layup Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,266,4,0,2,7:57 PM,6:25,,,Gobert REBOUND (Off:2 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,267,2,72,2,7:57 PM,6:24,,,MISS Gobert 3' Putback Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,268,4,0,2,7:57 PM,6:23,,,Gobert REBOUND (Off:3 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,269,1,97,2,7:57 PM,6:23,,,Gobert Tip Layup Shot (8 PTS),33 - 38,5,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,270,1,1,2,7:57 PM,6:11,Toppin 27' 3PT Jump Shot (11 PTS) (Haliburton 4 AST),,,33 - 41,8,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,272,5,45,2,7:58 PM,5:50,,,Conley Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,273,8,0,2,7:58 PM,5:50,,,SUB: DiVincenzo FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,275,2,6,2,7:58 PM,5:40,MISS Mathurin 2' Driving Layup,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,276,4,0,2,7:58 PM,5:37,,,Gobert REBOUND (Off:3 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,277,1,108,2,7:58 PM,5:31,,,Edwards 1' Cutting Dunk Shot (8 PTS) (DiVincenzo 3 AST),35 - 41,6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,279,2,80,2,7:58 PM,5:16,MISS Haliburton 20' Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,280,4,0,2,7:59 PM,5:13,,,Randle REBOUND (Off:1 Def:4),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,281,2,1,2,7:59 PM,5:07,,,MISS DiVincenzo 26' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,282,4,0,2,7:59 PM,5:02,,,DiVincenzo REBOUND (Off:1 Def:2),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,283,2,75,2,7:59 PM,4:51,,,MISS DiVincenzo 4' Driving Finger Roll Layup,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,284,4,0,2,7:59 PM,4:49,,,Gobert REBOUND (Off:4 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,285,2,87,2,7:59 PM,4:49,Turner BLOCK (3 BLK),,MISS Gobert 1' Putback Dunk,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022401037,287,4,0,2,7:59 PM,4:46,Haliburton REBOUND (Off:0 Def:3),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,288,1,75,2,7:59 PM,4:40,Haliburton 4' Driving Finger Roll Layup (6 PTS),,,35 - 43,8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,289,1,75,2,7:59 PM,4:22,,,Edwards 4' Driving Finger Roll Layup (10 PTS),37 - 43,6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,290,6,1,2,7:59 PM,4:16,,,DiVincenzo P.FOUL (P2.T3) (M.Kogut),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,292,8,0,2,8:00 PM,4:16,SUB: Nesmith FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,293,8,0,2,8:00 PM,4:16,,,SUB: Alexander-Walker FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,296,6,4,2,8:00 PM,4:10,Turner OFF.Foul (P1) (M.Kogut),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,298,5,37,2,8:00 PM,4:10,Turner Offensive Foul Turnover (P2.T6),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022401037,299,2,6,2,8:01 PM,3:54,,,MISS Randle 4' Driving Layup,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,300,4,0,2,8:01 PM,3:51,Nesmith REBOUND (Off:0 Def:3),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,301,1,75,2,8:01 PM,3:37,Haliburton 6' Driving Finger Roll Layup (8 PTS) (Nesmith 1 AST),,,37 - 45,8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,303,9,1,2,8:01 PM,3:36,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,304,6,11,2,8:01 PM,3:36,,,Randle T.FOUL (P0.T3) (M.Kogut),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,305,8,0,2,8:02 PM,3:36,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,307,3,16,2,8:03 PM,3:36,Haliburton Free Throw Technical (9 PTS),,,37 - 46,9,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0022401037,308,8,0,2,8:03 PM,3:36,SUB: Toppin FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,311,5,1,2,8:03 PM,3:30,Nembhard STEAL (1 STL),,Alexander-Walker Bad Pass Turnover (P1.T7),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,313,1,58,2,8:03 PM,3:19,Siakam 6' Turnaround Hook Shot (6 PTS) (Haliburton 5 AST),,,37 - 48,11,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,318,2,6,2,8:04 PM,2:58,,,MISS Alexander-Walker 4' Driving Layup,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,319,4,0,2,8:04 PM,2:56,Nesmith REBOUND (Off:0 Def:4),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,320,6,1,2,8:04 PM,2:56,,,Randle P.FOUL (P1.T4) (J.Williams),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,322,1,101,2,8:04 PM,2:49,Nesmith 6' Driving Floating Jump Shot (7 PTS) (Haliburton 6 AST),,,37 - 50,13,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,324,1,79,2,8:05 PM,2:35,,,McDaniels 5' Pullup Jump Shot (4 PTS),39 - 50,11,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,325,1,79,2,8:05 PM,2:13,Nesmith 15' Pullup Jump Shot (9 PTS) (Nembhard 1 AST),,,39 - 52,13,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,327,1,73,2,8:05 PM,1:50,,,Randle 3' Driving Reverse Layup (5 PTS),41 - 52,11,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,328,6,2,2,8:05 PM,1:50,Toppin S.FOUL (P1.T1) (J.Williams),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,330,8,0,2,8:05 PM,1:50,,,SUB: Gobert FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,332,8,0,2,8:06 PM,1:50,SUB: Turner FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,334,3,10,2,8:06 PM,1:50,,,MISS Randle Free Throw 1 of 1,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,335,4,0,2,8:06 PM,1:48,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022401037,337,2,80,2,8:06 PM,1:41,MISS Haliburton 19' Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,338,4,0,2,8:06 PM,1:39,,,DiVincenzo REBOUND (Off:1 Def:3),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,339,1,103,2,8:06 PM,1:36,,,DiVincenzo 27' 3PT Running Pull-Up Jump Shot (3 PTS),44 - 52,8,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,340,2,79,2,8:07 PM,1:18,MISS Siakam 15' Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,341,4,0,2,8:07 PM,1:15,,,DiVincenzo REBOUND (Off:1 Def:4),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,342,2,103,2,8:07 PM,1:11,,,MISS DiVincenzo 25' 3PT Running Pull-Up Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,343,4,0,2,8:07 PM,1:08,Siakam REBOUND (Off:0 Def:3),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,344,1,79,2,8:07 PM,0:52,Nembhard 11' Pullup Jump Shot (2 PTS),,,44 - 54,10,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,345,1,6,2,8:08 PM,0:35,,,Edwards 5' Driving Layup (12 PTS),46 - 54,8,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,347,2,66,2,8:08 PM,0:12,MISS Turner 31' 3PT Jump Bank Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,348,4,0,2,8:08 PM,0:08,,,DiVincenzo REBOUND (Off:1 Def:5),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,349,1,41,2,8:08 PM,0:02,,,DiVincenzo 4' Running Layup (5 PTS),48 - 54,6,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,350,13,0,2,8:09 PM,0:00,,End of 2nd Period (8:09 PM EST),,48 - 54,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022401037,353,12,0,3,8:24 PM,12:00,,Start of 3rd Period (8:24 PM EST),,48 - 54,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,354,1,102,3,8:24 PM,11:46,Haliburton 12' Driving Floating Bank Jump Shot (11 PTS) (Turner 1 AST),,,48 - 56,8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,355,5,1,3,8:24 PM,11:29,Turner STEAL (2 STL),,Randle Bad Pass Turnover (P1.T8),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,358,2,80,3,8:25 PM,11:15,MISS Haliburton 24' 3PT Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,359,4,0,3,8:25 PM,11:14,,,McDaniels REBOUND (Off:0 Def:1),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,360,2,101,3,8:25 PM,11:07,,,MISS McDaniels 6' Driving Floating Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,361,4,0,3,8:25 PM,11:05,Turner REBOUND (Off:0 Def:6),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,362,1,1,3,8:25 PM,10:58,Haliburton 27' 3PT Jump Shot (14 PTS) (Nembhard 2 AST),,,48 - 59,11,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,364,9,1,3,8:25 PM,10:55,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,365,2,101,3,8:28 PM,10:40,,,MISS Conley 11' Driving Floating Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,366,4,0,3,8:28 PM,10:36,Turner REBOUND (Off:0 Def:7),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,367,1,80,3,8:28 PM,10:27,Haliburton 25' 3PT Step Back Jump Shot (17 PTS),,,48 - 62,14,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,368,1,6,3,8:29 PM,10:07,,,McDaniels 3' Driving Layup (6 PTS) (Conley 2 AST),50 - 62,12,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,370,1,1,3,8:29 PM,9:48,Nesmith 26' 3PT Jump Shot (12 PTS) (Haliburton 7 AST),,,50 - 65,15,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,372,6,2,3,8:29 PM,9:36,Siakam S.FOUL (P2.T1) (B.Nansel),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,374,3,11,3,8:30 PM,9:36,,,Randle Free Throw 1 of 2 (6 PTS),51 - 65,14,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,375,3,12,3,8:30 PM,9:36,,,Randle Free Throw 2 of 2 (7 PTS),52 - 65,13,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,376,2,1,3,8:30 PM,9:30,MISS Turner 25' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,377,4,0,3,8:30 PM,9:25,,,Conley REBOUND (Off:0 Def:2),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,378,2,79,3,8:30 PM,9:19,,,MISS Edwards 24' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,379,4,0,3,8:30 PM,9:17,,,Gobert REBOUND (Off:5 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,380,1,72,3,8:30 PM,9:16,,,Gobert 3' Putback Layup (10 PTS),54 - 65,11,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,381,2,1,3,8:31 PM,8:59,MISS Turner 26' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,382,4,0,3,8:31 PM,8:57,,,Randle REBOUND (Off:1 Def:5),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,383,1,80,3,8:31 PM,8:43,,,Edwards 24' 3PT Step Back Jump Shot (15 PTS),57 - 65,8,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,384,9,1,3,8:31 PM,8:40,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,385,1,6,3,8:34 PM,8:31,Siakam 2' Driving Layup (8 PTS) (Nembhard 3 AST),,,57 - 67,10,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,387,2,79,3,8:34 PM,8:09,,,MISS Edwards 25' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,388,4,0,3,8:35 PM,8:06,Turner REBOUND (Off:0 Def:8),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,389,1,78,3,8:35 PM,7:57,Turner 11' Floating Jump Shot (4 PTS) (Nembhard 4 AST),,,57 - 69,12,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,391,5,45,3,8:35 PM,7:49,,,Randle Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,392,5,1,3,8:35 PM,7:39,Nembhard Bad Pass Turnover (P1.T7),,Conley STEAL (1 STL),,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,394,5,1,3,8:35 PM,7:30,Haliburton STEAL (1 STL),,McDaniels Bad Pass Turnover (P1.T10),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,396,2,41,3,8:35 PM,7:25,MISS Siakam 2' Running Layup,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,397,4,0,3,8:35 PM,7:23,Nesmith REBOUND (Off:1 Def:4),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,400,2,80,3,8:36 PM,7:11,MISS Nesmith 16' Step Back Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,401,4,0,3,8:36 PM,7:08,,,Conley REBOUND (Off:0 Def:3),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,403,8,0,3,8:36 PM,7:03,,,SUB: DiVincenzo FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,404,8,0,3,8:36 PM,7:03,,,SUB: Alexander-Walker FOR Randle,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,405,8,0,3,8:36 PM,7:03,,,SUB: Reid FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,409,2,6,3,8:36 PM,6:55,,,MISS Edwards 3' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,410,4,0,3,8:36 PM,6:53,Nembhard REBOUND (Off:0 Def:2),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,411,1,1,3,8:37 PM,6:44,Nesmith 3PT Jump Shot (15 PTS) (Haliburton 8 AST),,,57 - 72,15,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,413,9,1,3,8:37 PM,6:34,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,414,5,1,3,8:39 PM,6:30,Nembhard STEAL (2 STL),,Alexander-Walker Bad Pass Turnover (P2.T11),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,416,1,41,3,8:39 PM,6:27,Nembhard 2' Running Layup (4 PTS) (Haliburton 9 AST),,,57 - 74,17,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,419,5,45,3,8:39 PM,6:12,,,Gobert Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,420,2,58,3,8:39 PM,6:04,MISS Siakam 9' Turnaround Hook Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,421,4,0,3,8:39 PM,6:01,,,Reid REBOUND (Off:0 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,422,2,1,3,8:40 PM,5:50,,,MISS DiVincenzo 30' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,423,4,0,3,8:40 PM,5:48,Siakam REBOUND (Off:0 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,424,1,79,3,8:40 PM,5:37,Haliburton 28' 3PT Pullup Jump Shot (20 PTS) (Siakam 4 AST),,,57 - 77,20,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,425,2,79,3,8:40 PM,5:19,,,MISS Edwards 28' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,426,4,0,3,8:40 PM,5:16,,,Alexander-Walker REBOUND (Off:1 Def:0),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,427,1,101,3,8:40 PM,5:13,,,Reid 10' Driving Floating Jump Shot (6 PTS) (Alexander-Walker 1 AST),59 - 77,18,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,429,2,6,3,8:40 PM,5:02,MISS Nesmith 4' Driving Layup,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,430,4,0,3,8:40 PM,5:01,,,DiVincenzo REBOUND (Off:1 Def:6),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,431,1,106,3,8:40 PM,4:56,,,Gobert 2' Running Alley Oop Dunk Shot (12 PTS) (Edwards 2 AST),61 - 77,16,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,433,5,45,3,8:41 PM,4:44,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022401037,434,8,0,3,8:41 PM,4:44,SUB: Toppin FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,435,8,0,3,8:41 PM,4:44,SUB: Mathurin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,436,8,0,3,8:41 PM,4:44,,,SUB: Clark FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,440,1,73,3,8:41 PM,4:31,,,Reid 2' Driving Reverse Layup (8 PTS) (Edwards 3 AST),63 - 77,14,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,441,1,80,3,8:42 PM,4:15,Haliburton 22' Step Back Jump Shot (22 PTS),,,63 - 79,16,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,442,1,6,3,8:42 PM,3:56,,,Reid 3' Driving Layup (10 PTS),65 - 79,14,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,443,2,80,3,8:42 PM,3:42,MISS Haliburton 28' 3PT Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,444,4,0,3,8:42 PM,3:39,,,DiVincenzo REBOUND (Off:1 Def:7),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,445,2,58,3,8:42 PM,3:31,,,MISS Reid 7' Turnaround Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,446,4,0,3,8:42 PM,3:29,Haliburton REBOUND (Off:0 Def:4),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,447,1,1,3,8:43 PM,3:12,Turner 3PT Jump Shot (7 PTS) (Nembhard 5 AST),,,65 - 82,17,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,449,6,2,3,8:43 PM,2:57,Toppin S.FOUL (P2.T2) (B.Nansel),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,451,7,1,3,8:43 PM,2:57,PACERS Violation: Delay of game Violation,,,,,2,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
+0022401037,452,18,7,3,8:43 PM,2:57,,Instant Replay3rd Period (8:43 PM EST),,65 - 82,17,0,441,Lamond Murray,,,,,0,0,,,,,,1,0,,,,,,0
+0022401037,454,3,11,3,8:44 PM,2:57,,,Edwards Free Throw 1 of 2 (16 PTS),66 - 82,16,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,455,8,0,3,8:44 PM,2:57,SUB: Siakam FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,456,8,0,3,8:44 PM,2:57,SUB: McConnell FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,459,3,12,3,8:44 PM,2:57,,,Edwards Free Throw 2 of 2 (17 PTS),67 - 82,15,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,460,1,1,3,8:45 PM,2:42,Toppin 27' 3PT Jump Shot (14 PTS) (McConnell 2 AST),,,67 - 85,18,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,462,1,73,3,8:45 PM,2:30,,,DiVincenzo 3' Driving Reverse Layup (7 PTS) (Alexander-Walker 2 AST),69 - 85,16,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,463,1,1,3,8:45 PM,2:15,Toppin 3PT Jump Shot (17 PTS) (McConnell 3 AST),,,69 - 88,19,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,465,2,79,3,8:45 PM,1:59,,,MISS Edwards 26' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,466,4,0,3,8:45 PM,1:57,McConnell REBOUND (Off:0 Def:3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,467,6,1,3,8:46 PM,1:49,,,DiVincenzo P.FOUL (P3.T1) (B.Nansel),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,469,2,63,3,8:46 PM,1:35,MISS Nembhard 17' Fadeaway Jumper,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,470,4,0,3,8:46 PM,1:32,,,Reid REBOUND (Off:0 Def:3),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,471,2,79,3,8:46 PM,1:25,,,MISS Edwards 26' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,472,4,0,3,8:46 PM,1:22,McConnell REBOUND (Off:0 Def:4),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,473,2,86,3,8:47 PM,1:14,MISS McConnell 5' Turnaround Fadeaway Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,474,4,0,3,8:47 PM,1:11,Mathurin REBOUND (Off:2 Def:3),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,475,6,2,3,8:47 PM,1:11,,,Edwards S.FOUL (P2.PN) (M.Kogut),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,477,3,11,3,8:47 PM,1:11,Mathurin Free Throw 1 of 2 (10 PTS),,,69 - 89,20,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,479,8,0,3,8:47 PM,1:11,SUB: Sheppard FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,480,8,0,3,8:47 PM,1:11,,,SUB: Randle FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,483,3,12,3,8:48 PM,1:11,Mathurin Free Throw 2 of 2 (11 PTS),,,69 - 90,21,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,484,6,1,3,8:48 PM,1:06,Mathurin P.FOUL (P3.T3) (J.Williams),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,486,1,101,3,8:48 PM,0:56,,,DiVincenzo 4' Driving Floating Jump Shot (9 PTS),71 - 90,19,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,487,2,1,3,8:49 PM,0:49,MISS Sheppard 24' 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,488,4,0,3,8:49 PM,0:45,Siakam REBOUND (Off:1 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,489,2,101,3,8:49 PM,0:44,MISS Siakam 3' Driving Floating Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,490,4,0,3,8:49 PM,0:42,Siakam REBOUND (Off:2 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,491,1,72,3,8:49 PM,0:42,Siakam 4' Putback Layup (10 PTS),,,71 - 92,21,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,492,1,98,3,8:49 PM,0:32,,,Randle 2' Cutting Layup Shot (9 PTS) (DiVincenzo 4 AST),73 - 92,19,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,494,1,1,3,8:49 PM,0:11,Toppin 27' 3PT Jump Shot (20 PTS) (McConnell 4 AST),,,73 - 95,22,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,496,2,79,3,8:50 PM,0:03,,,MISS DiVincenzo 24' 3PT Pullup Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,497,4,0,3,8:50 PM,0:03,Mathurin REBOUND (Off:2 Def:4),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,498,13,0,3,8:50 PM,0:00,,End of 3rd Period (8:50 PM EST),,73 - 95,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022401037,506,12,0,4,8:53 PM,12:00,,Start of 4th Period (8:53 PM EST),,73 - 95,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,507,1,96,4,8:53 PM,11:41,,,Reid 6' Turnaround Bank Hook Shot (12 PTS),75 - 95,20,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,508,2,1,4,8:53 PM,11:17,MISS Bryant 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,509,4,0,4,8:53 PM,11:15,,,Alexander-Walker REBOUND (Off:1 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,510,5,1,4,8:53 PM,11:04,Mathurin STEAL (1 STL),,Reid Bad Pass Turnover (P1.T13),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,512,2,103,4,8:54 PM,11:00,MISS Mathurin 27' 3PT Running Pull-Up Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,513,4,0,4,8:54 PM,10:57,,,Clark REBOUND (Off:0 Def:1),,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,514,1,76,4,8:54 PM,10:52,,,Reid 3' Running Finger Roll Layup (14 PTS) (Conley 3 AST),77 - 95,18,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,516,2,79,4,8:54 PM,10:27,MISS McConnell 5' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,517,4,0,4,8:54 PM,10:25,,,Conley REBOUND (Off:0 Def:4),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,518,2,2,4,8:54 PM,10:20,,,MISS Clark 24' 3PT Running Jump Shot,,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,519,4,0,4,8:54 PM,10:17,Sheppard REBOUND (Off:0 Def:2),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,520,2,1,4,8:54 PM,10:06,MISS Bryant 26' 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,521,4,0,4,8:54 PM,10:03,,,Gobert REBOUND (Off:5 Def:10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,522,6,1,4,8:55 PM,9:47,Sheppard P.FOUL (P1.T1) (B.Nansel),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,524,2,102,4,8:55 PM,9:38,,,MISS Clark 11' Driving Floating Bank Jump Shot,,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,525,4,0,4,8:55 PM,9:37,,,Clark REBOUND (Off:1 Def:1),,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,526,1,97,4,8:55 PM,9:36,,,Clark Tip Layup Shot (2 PTS),79 - 95,16,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,528,6,4,4,8:56 PM,9:18,Mathurin OFF.Foul (P4) (B.Nansel),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,530,5,37,4,8:56 PM,9:18,Mathurin Offensive Foul Turnover (P3.T9),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022401037,531,8,0,4,8:56 PM,9:18,SUB: Turner FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,533,1,1,4,8:56 PM,9:05,,,Alexander-Walker 3PT Jump Shot (6 PTS) (Reid 1 AST),82 - 95,13,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,535,9,1,4,8:56 PM,9:03,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,536,1,79,4,9:00 PM,8:42,McConnell 13' Pullup Jump Shot (8 PTS),,,82 - 97,15,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,537,2,1,4,9:00 PM,8:23,,,MISS Alexander-Walker 24' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,538,4,0,4,9:00 PM,8:20,Toppin REBOUND (Off:0 Def:1),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,539,2,1,4,9:00 PM,8:11,MISS Turner 26' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,540,4,0,4,9:00 PM,8:08,McConnell REBOUND (Off:1 Def:4),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,541,1,101,4,9:00 PM,8:01,McConnell 3' Driving Floating Jump Shot (10 PTS),,,82 - 99,17,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,542,1,1,4,9:01 PM,7:43,,,Reid 28' 3PT Jump Shot (17 PTS) (Conley 4 AST),85 - 99,14,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,544,2,73,4,9:01 PM,7:20,MISS McConnell 2' Driving Reverse Layup,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,545,4,0,4,9:01 PM,7:18,Sheppard REBOUND (Off:1 Def:2),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,546,1,97,4,9:01 PM,7:18,Sheppard Tip Layup Shot (2 PTS),,,85 - 101,16,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,547,1,44,4,9:01 PM,7:04,,,Clark 4' Reverse Layup (4 PTS) (Conley 5 AST),87 - 101,14,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,549,5,1,4,9:01 PM,6:57,Sheppard Bad Pass Turnover (P2.T10),,Clark STEAL (1 STL),,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,550,6,1,4,9:02 PM,6:57,Mathurin P.FOUL (P5.T2) (M.Kogut),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022401037,552,8,0,4,9:02 PM,6:57,SUB: Nesmith FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,553,8,0,4,9:02 PM,6:57,SUB: Haliburton FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,554,8,0,4,9:02 PM,6:57,,,SUB: Edwards FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,558,2,79,4,9:02 PM,6:43,,,MISS Alexander-Walker 15' Pullup Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,559,4,0,4,9:02 PM,6:40,Turner REBOUND (Off:0 Def:9),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,561,6,2,4,9:03 PM,6:31,,,Clark S.FOUL (P2.T1) (J.Williams),,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,563,3,11,4,9:03 PM,6:31,Haliburton Free Throw 1 of 2 (23 PTS),,,87 - 102,15,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,564,8,0,4,9:03 PM,6:31,SUB: Nembhard FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,566,3,12,4,9:03 PM,6:31,Haliburton Free Throw 2 of 2 (24 PTS),,,87 - 103,16,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0022401037,567,2,80,4,9:04 PM,6:17,,,MISS Edwards 26' 3PT Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,568,4,0,4,9:04 PM,6:13,Nesmith REBOUND (Off:1 Def:5),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,570,2,80,4,9:04 PM,5:53,MISS Toppin 25' 3PT Step Back Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,571,4,0,4,9:04 PM,5:51,,,Gobert REBOUND (Off:5 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,572,5,4,4,9:04 PM,5:39,,,Alexander-Walker Traveling Turnover (P3.T14),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,573,8,0,4,9:04 PM,5:39,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,575,1,101,4,9:05 PM,5:25,Siakam 9' Driving Floating Jump Shot (12 PTS) (Haliburton 10 AST),,,87 - 105,18,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,577,1,1,4,9:05 PM,5:11,,,Reid 28' 3PT Jump Shot (20 PTS) (Gobert 3 AST),90 - 105,15,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,579,2,86,4,9:06 PM,4:43,MISS Haliburton 13' Turnaround Fadeaway Shot,,Clark BLOCK (1 BLK),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022401037,581,4,0,4,9:06 PM,4:41,Nesmith REBOUND (Off:2 Def:5),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,582,1,97,4,9:06 PM,4:40,Nesmith 4' Tip Layup Shot (17 PTS),,,90 - 107,17,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,583,5,40,4,9:06 PM,4:33,,,Edwards Out of Bounds Lost Ball Turnover (P3.T15),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,584,8,0,4,9:06 PM,4:33,,,SUB: DiVincenzo FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,586,2,79,4,9:06 PM,4:24,MISS Haliburton 27' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,587,4,0,4,9:06 PM,4:21,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,589,9,1,4,9:06 PM,4:21,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,590,2,1,4,9:09 PM,4:09,,,MISS Reid 27' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,591,4,0,4,9:09 PM,4:07,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,593,5,1,4,9:10 PM,3:55,Nembhard Bad Pass Turnover (P2.T11),,Clark STEAL (2 STL),,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,595,1,76,4,9:10 PM,3:51,,,Clark 1' Running Finger Roll Layup (6 PTS),92 - 107,15,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,596,2,1,4,9:10 PM,3:35,MISS Siakam 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,597,4,0,4,9:10 PM,3:33,,,DiVincenzo REBOUND (Off:1 Def:8),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,598,2,6,4,9:10 PM,3:26,Turner BLOCK (4 BLK),,MISS DiVincenzo 9' Driving Layup,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022401037,600,4,0,4,9:10 PM,3:23,Nembhard REBOUND (Off:0 Def:3),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,601,1,106,4,9:10 PM,3:20,Siakam 2' Running Alley Oop Dunk Shot (14 PTS) (Haliburton 11 AST),,,92 - 109,17,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,603,1,108,4,9:11 PM,3:03,,,Gobert 2' Cutting Dunk Shot (14 PTS) (Edwards 4 AST),94 - 109,15,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,605,1,9,4,9:11 PM,2:55,Nembhard 1' Driving Dunk (6 PTS),,,94 - 111,17,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,606,1,7,4,9:11 PM,2:40,,,Gobert 1' Dunk (16 PTS) (Reid 2 AST),96 - 111,15,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,608,6,28,4,9:11 PM,2:30,,,Reid Personal Take Foul (P2.T2) (B.Nansel),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,610,8,0,4,9:11 PM,2:30,SUB: Sheppard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,611,8,0,4,9:11 PM,2:30,SUB: Bryant FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,612,8,0,4,9:11 PM,2:30,,,SUB: Garza FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,613,8,0,4,9:11 PM,2:30,,,SUB: Shannon Jr. FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630545,Terrence Shannon Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,614,8,0,4,9:11 PM,2:30,,,SUB: Dillingham FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1642265,Rob Dillingham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,615,8,0,4,9:11 PM,2:30,,,SUB: Minott FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,622,1,86,4,9:12 PM,2:21,Bryant 14' Turnaround Fadeaway (2 PTS),,,96 - 113,17,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,624,5,1,4,9:12 PM,2:05,Bryant STEAL (2 STL),,Minott Bad Pass Turnover (P1.T16),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022401037,626,2,105,4,9:13 PM,1:52,MISS Siakam 12' Turnaround Fadeaway Bank Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,627,4,0,4,9:13 PM,1:50,Bryant REBOUND (Off:1 Def:1),,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,628,6,2,4,9:13 PM,1:50,,,Minott S.FOUL (P1.T3) (B.Nansel),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,630,3,11,4,9:13 PM,1:50,Bryant Free Throw 1 of 2 (3 PTS),,,96 - 114,18,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0022401037,631,8,0,4,9:13 PM,1:50,SUB: Walker FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,632,8,0,4,9:13 PM,1:50,,,SUB: Hyland FOR Clark,,,5,1641740,Jaylen Clark,1610612750.0,Minnesota,Timberwolves,MIN,5,1630538,Bones Hyland,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022401037,635,3,12,4,9:14 PM,1:50,Bryant Free Throw 2 of 2 (4 PTS),,,96 - 115,19,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,636,1,9,4,9:14 PM,1:37,,,Minott 1' Driving Dunk (2 PTS),98 - 115,17,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022401037,637,9,1,4,9:14 PM,1:37,PACERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022401037,638,8,0,4,9:15 PM,1:37,SUB: Jackson FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1631245,Quenton Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,639,8,0,4,9:15 PM,1:37,SUB: Furphy FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1642277,Johnny Furphy,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022401037,642,1,102,4,9:16 PM,1:21,Walker 14' Driving Floating Bank Jump Shot (2 PTS),,,98 - 117,19,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,643,1,1,4,9:16 PM,1:08,,,Minott 25' 3PT Jump Shot (5 PTS) (Shannon Jr. 1 AST),101 - 117,16,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,5,1630545,Terrence Shannon Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,645,6,2,4,9:17 PM,0:52,,,Minott S.FOUL (P2.PN) (M.Kogut),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022401037,647,3,11,4,9:17 PM,0:52,Bryant Free Throw 1 of 2 (5 PTS),,,101 - 118,17,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,648,3,12,4,9:17 PM,0:52,Bryant Free Throw 2 of 2 (6 PTS),,,101 - 119,18,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022401037,649,1,78,4,9:17 PM,0:39,,,Garza 9' Floating Jump Shot (2 PTS) (Hyland 1 AST),103 - 119,16,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,5,1630538,Bones Hyland,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022401037,651,5,11,4,9:18 PM,0:15,PACERS Turnover: Shot Clock (T#12),,,,,2,1610612754,,,,,,0,0,,,,,,1,0,,,,,,1
+0022401037,652,5,45,4,9:18 PM,0:08,,,Shannon Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,5,1630545,Terrence Shannon Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022401037,653,13,0,4,9:19 PM,0:00,,End of 4th Period (9:19 PM EST),,103 - 119,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

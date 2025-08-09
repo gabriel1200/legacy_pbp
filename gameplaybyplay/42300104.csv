@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300104,2,12,0,1,7:37 PM,12:00,,Start of 1st Period (7:37 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,4,10,0,1,7:37 PM,12:00,Jump Ball Adebayo vs. Porzingis: Tip to White,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042300104,7,6,2,1,7:37 PM,11:44,Adebayo S.FOUL (P1.T1) (C.Kirkland),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,9,3,11,1,7:37 PM,11:44,,,Holiday Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,10,3,12,1,7:38 PM,11:44,,,Holiday Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,11,1,1,1,7:38 PM,11:27,Jovic 26' 3PT Jump Shot (3 PTS) (Herro 1 AST),,,2 - 3,1,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,13,5,1,1,7:38 PM,11:08,Jaquez Jr. STEAL (1 STL),,Brown Bad Pass Turnover (P1.T1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,15,2,41,1,7:38 PM,11:05,MISS Jaquez Jr. 2' Running Layup,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,16,4,0,1,7:38 PM,11:02,Martin REBOUND (Off:1 Def:0),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,17,2,1,1,7:38 PM,10:58,MISS Martin 27' 3PT Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,18,4,0,1,7:38 PM,10:56,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,19,2,2,1,7:38 PM,10:50,,,MISS Holiday 26' 3PT Running Jump Shot,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,20,4,0,1,7:39 PM,10:47,Martin REBOUND (Off:1 Def:1),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,21,2,79,1,7:39 PM,10:40,MISS Herro 27' 3PT Pullup Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,22,4,0,1,7:39 PM,10:37,,,Holiday REBOUND (Off:0 Def:2),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,23,1,58,1,7:39 PM,10:31,,,Brown 7' Turnaround Hook Shot (2 PTS) (Holiday 1 AST),4 - 3,-1,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,25,2,86,1,7:39 PM,10:15,MISS Adebayo 12' Turnaround Fadeaway Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,26,4,0,1,7:39 PM,10:15,,,Tatum REBOUND (Off:0 Def:1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,27,1,1,1,7:39 PM,10:02,,,White 25' 3PT Jump Shot (3 PTS) (Tatum 1 AST),7 - 3,-4,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,29,5,1,1,7:39 PM,9:52,Martin Bad Pass Turnover (P1.T1),,Holiday STEAL (1 STL),,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,31,2,76,1,7:40 PM,9:47,,,MISS Brown 4' Running Finger Roll Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,32,4,0,1,7:40 PM,9:45,Adebayo REBOUND (Off:0 Def:1),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,33,1,103,1,7:40 PM,9:41,Herro 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Adebayo 1 AST),,,7 - 6,-1,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,34,1,73,1,7:40 PM,9:17,,,Holiday 3' Driving Reverse Layup (4 PTS),9 - 6,-3,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,35,1,6,1,7:40 PM,9:04,Herro 5' Driving Layup (5 PTS),,,9 - 8,-1,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,36,6,2,1,7:41 PM,8:49,Herro S.FOUL (P1.T2) (J.Goble),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,38,3,11,1,7:41 PM,8:49,,,Porzingis Free Throw 1 of 2 (1 PTS),10 - 8,-2,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,39,3,12,1,7:41 PM,8:49,,,Porzingis Free Throw 2 of 2 (2 PTS),11 - 8,-3,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,40,1,6,1,7:41 PM,8:41,Jaquez Jr. 3' Driving Layup (2 PTS) (Herro 2 AST),,,11 - 10,-1,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,42,2,1,1,7:42 PM,8:31,,,MISS Holiday 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,43,4,0,1,7:42 PM,8:28,,,White REBOUND (Off:1 Def:0),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,44,1,58,1,7:42 PM,8:24,,,White 8' Turnaround Hook Shot (5 PTS),13 - 10,-3,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,45,2,1,1,7:42 PM,8:10,MISS Martin 24' 3PT Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,46,4,0,1,7:42 PM,8:07,,,Brown REBOUND (Off:0 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,47,2,1,1,7:42 PM,8:02,,,MISS Porzingis 28' 3PT Jump Shot,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,48,4,0,1,7:42 PM,7:59,Martin REBOUND (Off:1 Def:2),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,49,6,1,1,7:42 PM,7:54,,,Tatum P.FOUL (P1.T1) (M.Ervin),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,52,1,6,1,7:43 PM,7:41,Herro 4' Driving Layup (7 PTS) (Adebayo 2 AST),,,13 - 12,-1,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,53,6,2,1,7:43 PM,7:26,Jovic S.FOUL (P1.T3) (C.Kirkland),,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,56,3,11,1,7:44 PM,7:26,,,Porzingis Free Throw 1 of 2 (3 PTS),14 - 12,-2,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,57,3,12,1,7:44 PM,7:26,,,Porzingis Free Throw 2 of 2 (4 PTS),15 - 12,-3,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,58,2,1,1,7:44 PM,7:18,MISS Jovic 26' 3PT Jump Shot,,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,59,4,0,1,7:44 PM,7:16,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,60,6,3,1,7:44 PM,7:16,,,Porzingis L.B.FOUL (P1.T2) (C.Kirkland),,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,62,2,1,1,7:45 PM,7:09,MISS Jovic 26' 3PT Jump Shot,,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,63,4,0,1,7:45 PM,7:05,,,Porzingis REBOUND (Off:0 Def:1),,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,64,2,86,1,7:45 PM,6:55,,,MISS Porzingis 7' Turnaround Fadeaway Shot,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,65,4,0,1,7:45 PM,6:53,Jovic REBOUND (Off:0 Def:1),,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,66,2,3,1,7:45 PM,6:42,MISS Adebayo 5' Hook Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,67,4,0,1,7:45 PM,6:40,,,Tatum REBOUND (Off:0 Def:2),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,68,2,1,1,7:45 PM,6:28,,,MISS White 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,69,4,0,1,7:45 PM,6:24,Jaquez Jr. REBOUND (Off:0 Def:1),,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,70,5,45,1,7:46 PM,6:13,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,71,9,1,1,7:46 PM,6:13,HEAT Timeout: Regular (Full 1 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,72,8,0,1,7:46 PM,6:13,SUB: Highsmith FOR Jaquez Jr.,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,73,8,0,1,7:46 PM,6:13,SUB: Love FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,74,8,0,1,7:46 PM,6:13,,,SUB: Pritchard FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,75,8,0,1,7:46 PM,6:13,,,SUB: Horford FOR Holiday,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,80,1,1,1,7:50 PM,5:56,,,White 28' 3PT Jump Shot (8 PTS) (Brown 1 AST),18 - 12,-6,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,82,2,1,1,7:50 PM,5:37,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,83,4,0,1,7:50 PM,5:34,,,Porzingis REBOUND (Off:0 Def:2),,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,84,1,76,1,7:50 PM,5:29,,,White 5' Running Finger Roll Layup (10 PTS),20 - 12,-8,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,85,1,101,1,7:50 PM,5:13,Herro 8' Driving Floating Jump Shot (9 PTS),,,20 - 14,-6,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,86,1,1,1,7:51 PM,4:59,,,White 29' 3PT Jump Shot (13 PTS) (Pritchard 1 AST),23 - 14,-9,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,88,9,1,1,7:51 PM,4:58,HEAT Timeout: Regular (Full 2 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,89,8,0,1,7:52 PM,4:58,,,SUB: Hauser FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,91,5,4,1,7:55 PM,4:46,Herro Traveling Turnover (P1.T3),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,92,6,2,1,7:55 PM,4:29,Highsmith S.FOUL (P1.T4) (C.Kirkland),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,94,3,11,1,7:56 PM,4:29,,,Brown Free Throw 1 of 2 (3 PTS),24 - 14,-10,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,99,3,12,1,7:56 PM,4:29,,,MISS Brown Free Throw 2 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,95,8,0,1,7:56 PM,4:29,SUB: Wright FOR Jovic,,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,96,8,0,1,7:56 PM,4:29,SUB: Adebayo FOR Love,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,100,4,0,1,7:56 PM,4:27,,,Brown REBOUND (Off:1 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,101,5,2,1,7:56 PM,4:25,Martin STEAL (1 STL),,Brown Lost Ball Turnover (P2.T2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,104,2,63,1,7:57 PM,4:09,MISS Adebayo 7' Fadeaway Jumper,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,105,4,0,1,7:57 PM,4:07,,,Horford REBOUND (Off:0 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,106,2,41,1,7:57 PM,4:02,Highsmith BLOCK (1 BLK),,MISS Brown 6' Running Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1
+0042300104,108,4,0,1,7:57 PM,4:01,,,Brown REBOUND (Off:2 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,109,1,72,1,7:57 PM,4:00,,,Brown 4' Putback Layup (5 PTS),26 - 14,-12,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,110,2,79,1,7:57 PM,3:47,MISS Herro 18' Pullup Jump Shot,,White BLOCK (1 BLK),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042300104,111,4,0,1,7:57 PM,3:47,,,Brown REBOUND (Off:2 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,112,1,2,1,7:57 PM,3:39,,,White 27' 3PT Running Jump Shot (16 PTS) (Brown 2 AST),29 - 14,-15,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,114,1,73,1,7:57 PM,3:25,Martin 3' Driving Reverse Layup (2 PTS),,,29 - 16,-13,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,115,2,1,1,7:58 PM,3:10,,,MISS Hauser 26' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,116,4,0,1,7:58 PM,3:06,,,Pritchard REBOUND (Off:1 Def:0),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,117,2,6,1,7:58 PM,3:01,,,MISS Brown 5' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,118,4,0,1,7:58 PM,2:58,Adebayo REBOUND (Off:0 Def:2),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,119,1,79,1,7:58 PM,2:51,Adebayo 10' Pullup Jump Shot (2 PTS),,,29 - 18,-11,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,120,2,79,1,7:58 PM,2:33,,,MISS White 11' Pullup Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,121,4,0,1,7:58 PM,2:30,Wright REBOUND (Off:0 Def:1),,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,122,2,1,1,7:59 PM,2:21,MISS Highsmith 25' 3PT Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,123,4,0,1,7:59 PM,2:20,,,Hauser REBOUND (Off:0 Def:1),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,124,9,1,1,7:59 PM,2:20,,,Celtics Timeout: Regular (Reg.1 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,125,8,0,1,8:00 PM,2:20,SUB: Jaquez Jr. FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,126,8,0,1,8:00 PM,2:20,SUB: Mills FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,127,8,0,1,8:00 PM,2:20,,,SUB: Holiday FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,128,8,0,1,8:00 PM,2:20,,,SUB: Tatum FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,133,6,2,1,8:01 PM,1:58,Jaquez Jr. S.FOUL (P1.PN) (M.Ervin),,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,136,3,11,1,8:01 PM,1:58,,,Tatum Free Throw 1 of 2 (1 PTS),30 - 18,-12,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,137,3,12,1,8:01 PM,1:58,,,Tatum Free Throw 2 of 2 (2 PTS),31 - 18,-13,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,138,1,108,1,8:02 PM,1:37,Jaquez Jr. 2' Cutting Dunk Shot (4 PTS) (Wright 1 AST),,,31 - 20,-11,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,140,1,79,1,8:02 PM,1:21,,,Tatum 27' 3PT Pullup Jump Shot (5 PTS),34 - 20,-14,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,141,1,1,1,8:02 PM,1:03,Adebayo 15' Jump Shot (4 PTS) (Jaquez Jr. 1 AST),,,34 - 22,-12,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,143,2,101,1,8:03 PM,0:39,,,MISS Pritchard 7' Driving Floating Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,144,4,0,1,8:03 PM,0:38,,,Pritchard REBOUND (Off:2 Def:0),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,145,2,97,1,8:03 PM,0:38,,,MISS Pritchard Tip Layup Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,146,4,0,1,8:03 PM,0:37,Wright REBOUND (Off:0 Def:2),,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,147,6,1,1,8:03 PM,0:19,,,Holiday P.FOUL (P1.T3) (C.Kirkland),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,149,8,0,1,8:03 PM,0:19,SUB: Herro FOR Wright,,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,151,8,0,1,8:04 PM,0:19,,,SUB: White FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,153,1,52,1,8:04 PM,0:10,Adebayo 3' Alley Oop Dunk (6 PTS) (Herro 3 AST),,,34 - 24,-10,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,155,2,79,1,8:04 PM,0:00,,,MISS Tatum 20' Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,156,4,0,1,8:04 PM,0:00,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,157,13,0,1,8:05 PM,0:00,,End of 1st Period (8:05 PM EST),,34 - 24,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,164,12,0,2,8:08 PM,12:00,,Start of 2nd Period (8:08 PM EST),,34 - 24,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,165,2,47,2,8:08 PM,11:43,MISS Jaquez Jr. 7' Turnaround Jump Shot,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,166,4,0,2,8:08 PM,11:39,,,Porzingis REBOUND (Off:0 Def:3),,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,167,2,63,2,8:09 PM,11:29,,,MISS Tatum 12' Fadeaway Jumper,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,168,4,0,2,8:09 PM,11:26,Adebayo REBOUND (Off:0 Def:3),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,169,2,79,2,8:09 PM,11:20,MISS Adebayo 13' Pullup Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,170,4,0,2,8:09 PM,11:16,,,Tatum REBOUND (Off:0 Def:3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,171,1,1,2,8:09 PM,11:03,,,Porzingis 26' 3PT Jump Shot (7 PTS) (Tatum 2 AST),37 - 24,-13,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,173,2,78,2,8:09 PM,10:44,MISS Highsmith 7' Floating Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,174,4,0,2,8:09 PM,10:41,,,Holiday REBOUND (Off:0 Def:3),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,175,1,6,2,8:10 PM,10:30,,,Holiday 7' Driving Layup (6 PTS),39 - 24,-15,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,176,2,79,2,8:10 PM,10:14,MISS Mills 16' Pullup Jump Shot,,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,177,4,0,2,8:10 PM,10:13,,,Tatum REBOUND (Off:0 Def:4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,178,2,1,2,8:10 PM,10:02,,,MISS Porzingis 29' 3PT Jump Shot,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,179,4,0,2,8:10 PM,9:58,Jaquez Jr. REBOUND (Off:0 Def:2),,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,180,6,1,2,8:10 PM,9:44,,,Pritchard P.FOUL (P1.T1) (M.Ervin),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,182,8,0,2,8:10 PM,9:44,SUB: Herro FOR Mills,,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,183,8,0,2,8:10 PM,9:44,,,SUB: White FOR Pritchard,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,186,5,4,2,8:11 PM,9:41,Herro Traveling Turnover (P2.T4),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,187,2,6,2,8:11 PM,9:31,Wright BLOCK (1 BLK),,MISS Tatum 5' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,1
+0042300104,189,4,0,2,8:11 PM,9:31,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,190,2,101,2,8:12 PM,9:18,MISS Wright 7' Driving Floating Jump Shot,,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,191,4,0,2,8:12 PM,9:17,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,193,6,3,2,8:12 PM,9:17,Adebayo L.B.FOUL (P2.T1) (C.Kirkland),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,195,2,101,2,8:12 PM,9:01,,,MISS White 6' Driving Floating Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,196,4,0,2,8:12 PM,8:59,Adebayo REBOUND (Off:0 Def:4),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,197,2,1,2,8:12 PM,8:52,MISS Jaquez Jr. 24' 3PT Jump Shot,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,198,4,0,2,8:12 PM,8:48,,,Hauser REBOUND (Off:0 Def:2),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,199,5,40,2,8:13 PM,8:43,,,Tatum Out of Bounds Lost Ball Turnover (P1.T3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,200,1,101,2,8:13 PM,8:34,Highsmith 7' Driving Floating Jump Shot (2 PTS),,,39 - 26,-13,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,201,6,2,2,8:13 PM,8:34,,,Tatum S.FOUL (P2.T2) (J.Goble),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,203,8,0,2,8:13 PM,8:34,,,SUB: Brown FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,205,3,10,2,8:13 PM,8:34,Highsmith Free Throw 1 of 1 (3 PTS),,,39 - 27,-12,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,206,2,80,2,8:14 PM,8:21,,,MISS White 26' 3PT Step Back Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,207,4,0,2,8:14 PM,8:17,Highsmith REBOUND (Off:0 Def:1),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,208,5,45,2,8:14 PM,8:14,Highsmith Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,209,2,1,2,8:14 PM,7:49,,,MISS Porzingis 11' Jump Shot,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,210,4,0,2,8:14 PM,7:47,Adebayo REBOUND (Off:0 Def:5),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,211,1,101,2,8:14 PM,7:41,Adebayo 7' Driving Floating Jump Shot (8 PTS),,,39 - 29,-10,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,212,6,1,2,8:15 PM,7:26,Highsmith P.FOUL (P2.T2) (J.Goble),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,214,8,0,2,8:15 PM,7:26,SUB: Martin FOR Highsmith,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,216,2,86,2,8:15 PM,7:15,,,MISS Brown 10' Turnaround Fadeaway Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,217,4,0,2,8:15 PM,7:11,Wright REBOUND (Off:0 Def:3),,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,219,8,0,2,8:16 PM,7:01,SUB: Jovic FOR Jaquez Jr.,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,220,8,0,2,8:16 PM,7:01,,,SUB: Horford FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,223,2,6,2,8:16 PM,6:52,MISS Herro 7' Driving Layup,,White BLOCK (2 BLK),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042300104,225,4,0,2,8:16 PM,6:49,Wright REBOUND (Off:1 Def:3),,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,226,5,11,2,8:16 PM,6:49,HEAT Turnover: Shot Clock (T#6),,,,,2,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300104,227,9,1,2,8:16 PM,6:49,HEAT Timeout: Regular (Full 3 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,228,8,0,2,8:17 PM,6:49,SUB: D. Robinson FOR Jovic,,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,229,8,0,2,8:17 PM,6:49,,,SUB: Pritchard FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,232,1,66,2,8:20 PM,6:26,,,Holiday 8' Jump Bank Shot (8 PTS),41 - 29,-12,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,233,2,79,2,8:21 PM,6:10,MISS Herro 3PT Pullup Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,234,4,0,2,8:21 PM,6:05,,,Horford REBOUND (Off:0 Def:2),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,235,2,57,2,8:21 PM,5:56,,,MISS Brown 3' Driving Hook Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,236,4,0,2,8:21 PM,5:56,Adebayo REBOUND (Off:0 Def:6),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,237,1,6,2,8:21 PM,5:47,Adebayo 3' Driving Layup (10 PTS) (D. Robinson 1 AST),,,41 - 31,-10,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,239,6,1,2,8:21 PM,5:40,Martin P.FOUL (P1.T3) (M.Ervin),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,241,2,1,2,8:22 PM,5:34,,,MISS Pritchard 25' 3PT Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,242,4,0,2,8:22 PM,5:31,Adebayo REBOUND (Off:0 Def:7),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,243,2,79,2,8:22 PM,5:13,MISS Martin 14' Pullup Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,244,4,0,2,8:22 PM,5:12,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,246,8,0,2,8:22 PM,5:12,,,SUB: Tatum FOR Holiday,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,248,1,79,2,8:23 PM,4:50,,,White 29' 3PT Pullup Jump Shot (19 PTS),44 - 31,-13,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,249,2,1,2,8:23 PM,4:36,MISS D. Robinson 27' 3PT Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,250,4,0,2,8:23 PM,4:34,,,Tatum REBOUND (Off:0 Def:5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,251,5,40,2,8:23 PM,4:18,,,Pritchard Out of Bounds Lost Ball Turnover (P1.T4),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,252,8,0,2,8:23 PM,4:18,SUB: Highsmith FOR Wright,,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,254,5,1,2,8:24 PM,4:04,Herro Bad Pass Turnover (P3.T7),,Horford STEAL (1 STL),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,256,1,103,2,8:24 PM,3:58,,,White 28' 3PT Running Pull-Up Jump Shot (22 PTS) (Tatum 3 AST),47 - 31,-16,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,258,9,1,2,8:24 PM,3:57,HEAT Timeout: Regular (Full 4 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,259,8,0,2,8:26 PM,3:57,SUB: Jaquez Jr. FOR D. Robinson,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,261,8,0,2,8:26 PM,3:57,,,SUB: Porzingis FOR Pritchard,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,263,2,1,2,8:28 PM,3:41,MISS Adebayo 16' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,264,4,0,2,8:28 PM,3:38,,,Brown REBOUND (Off:2 Def:3),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,265,2,1,2,8:28 PM,3:16,,,MISS White 29' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,266,4,0,2,8:28 PM,3:13,Highsmith REBOUND (Off:0 Def:2),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,267,2,1,2,8:28 PM,3:05,MISS Jaquez Jr. 24' 3PT Jump Shot,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,268,4,0,2,8:29 PM,3:04,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,270,6,1,2,8:29 PM,2:57,Martin P.FOUL (P2.T4) (C.Kirkland),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,272,6,4,2,8:29 PM,2:57,,,Horford OFF.Foul (P1) (M.Ervin),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,274,5,37,2,8:29 PM,2:57,,,Horford Offensive Foul Turnover (P1.T5),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,275,2,1,2,8:30 PM,2:44,MISS Highsmith 25' 3PT Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,276,4,0,2,8:30 PM,2:41,,,Tatum REBOUND (Off:0 Def:6),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,277,2,6,2,8:30 PM,2:30,Jaquez Jr. BLOCK (1 BLK),,MISS Brown 6' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,1
+0042300104,279,4,0,2,8:30 PM,2:29,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,281,6,28,2,8:30 PM,2:27,,,White Personal Take Foul (P1.T3) (M.Ervin),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,283,8,0,2,8:30 PM,2:27,,,SUB: Holiday FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,285,2,80,2,8:31 PM,2:17,MISS Herro 14' Step Back Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,286,4,0,2,8:31 PM,2:13,,,Tatum REBOUND (Off:0 Def:7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,287,2,1,2,8:31 PM,1:53,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,288,4,0,2,8:31 PM,1:51,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,289,6,3,2,8:31 PM,1:51,Highsmith L.B.FOUL (P3.PN) (J.Goble),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,291,3,11,2,8:32 PM,1:51,,,MISS Brown Free Throw 1 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,292,4,1,2,8:32 PM,1:51,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,293,8,0,2,8:32 PM,1:51,SUB: Jovic FOR Highsmith,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,295,3,12,2,8:32 PM,1:51,,,Brown Free Throw 2 of 2 (6 PTS),48 - 31,-17,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,296,2,6,2,8:33 PM,1:33,MISS Jaquez Jr. 5' Driving Layup,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,297,4,0,2,8:33 PM,1:30,Adebayo REBOUND (Off:1 Def:7),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,298,1,97,2,8:33 PM,1:30,Adebayo Tip Layup Shot (12 PTS),,,48 - 33,-15,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,299,2,75,2,8:33 PM,1:21,,,MISS Brown 4' Driving Finger Roll Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,300,4,0,2,8:33 PM,1:19,Adebayo REBOUND (Off:1 Def:8),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,301,1,2,2,8:33 PM,1:14,Martin 24' 3PT Running Jump Shot (5 PTS) (Jaquez Jr. 2 AST),,,48 - 36,-12,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,303,1,80,2,8:33 PM,0:50,,,Tatum 27' 3PT Step Back Jump Shot (8 PTS),51 - 36,-15,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,304,2,73,2,8:34 PM,0:28,MISS Martin 3' Driving Reverse Layup,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,305,4,0,2,8:34 PM,0:26,,,White REBOUND (Off:1 Def:1),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,306,1,50,2,8:34 PM,0:21,,,Horford 3' Running Dunk (2 PTS) (Holiday 2 AST),53 - 36,-17,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,308,7,2,2,8:34 PM,0:21,Jaquez Jr. Violation:Defensive Goaltending (M.Ervin),,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,309,2,1,2,8:35 PM,0:00,MISS Adebayo 26' 3PT Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,310,4,0,2,8:35 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,311,13,0,2,8:35 PM,0:00,,End of 2nd Period (8:35 PM EST),,53 - 36,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,312,12,0,3,8:52 PM,12:00,,Start of 3rd Period (8:52 PM EST),,53 - 36,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,313,2,1,3,8:52 PM,11:40,MISS Adebayo 17' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,314,4,0,3,8:52 PM,11:36,,,Tatum REBOUND (Off:0 Def:8),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,315,2,80,3,8:52 PM,11:25,,,MISS White 26' 3PT Step Back Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,316,4,0,3,8:53 PM,11:23,,,Holiday REBOUND (Off:1 Def:3),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,317,1,5,3,8:53 PM,11:20,,,Brown 2' Layup (8 PTS) (Holiday 3 AST),55 - 36,-19,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,319,5,40,3,8:53 PM,11:06,Herro Out of Bounds Lost Ball Turnover (P4.T8),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,320,1,1,3,8:53 PM,10:50,,,Brown 25' 3PT Jump Shot (11 PTS) (Tatum 4 AST),58 - 36,-22,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,322,2,79,3,8:53 PM,10:36,MISS Jaquez Jr. 13' Pullup Jump Shot,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,323,4,0,3,8:53 PM,10:36,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,324,6,3,3,8:53 PM,10:36,,,Tatum L.B.FOUL (P3.T1) (J.Goble),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,326,9,1,3,8:54 PM,10:36,,,Celtics Timeout: Regular (Reg.2 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,327,18,4,3,8:54 PM,10:36,,Instant Replay3rd Period (8:54 PM EST),,58 - 36,-22,0,324,Anthony Peeler,,,,,0,0,,,,,,1,0,,,,,,1
+0042300104,328,2,1,3,8:58 PM,10:31,MISS Herro 26' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,329,4,0,3,8:58 PM,10:28,,,Horford REBOUND (Off:0 Def:3),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,330,2,1,3,8:58 PM,10:21,,,MISS Tatum 25' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,331,4,0,3,8:58 PM,10:16,Jovic REBOUND (Off:0 Def:2),,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,332,5,45,3,8:58 PM,10:11,Jaquez Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,333,2,80,3,8:58 PM,9:52,,,MISS Tatum 25' 3PT Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,334,4,0,3,8:58 PM,9:48,Herro REBOUND (Off:0 Def:1),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,335,2,1,3,8:58 PM,9:41,MISS Jovic 26' 3PT Jump Shot,,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,336,4,0,3,8:59 PM,9:38,,,Horford REBOUND (Off:0 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,337,5,2,3,8:59 PM,9:32,Martin STEAL (2 STL),,Brown Lost Ball Turnover (P3.T6),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,339,1,58,3,8:59 PM,9:25,Jaquez Jr. 8' Turnaround Hook Shot (6 PTS),,,58 - 38,-20,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,340,5,2,3,8:59 PM,9:04,Jovic STEAL (1 STL),,White Lost Ball Turnover (P1.T7),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,342,6,4,3,8:59 PM,8:50,Adebayo OFF.Foul (P3) (C.Kirkland),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,344,5,37,3,8:59 PM,8:50,Adebayo Offensive Foul Turnover (P2.T10),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,345,8,0,3,9:00 PM,8:50,SUB: Highsmith FOR Jaquez Jr.,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,347,2,3,3,9:00 PM,8:26,,,MISS Holiday 7' Hook Shot,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,348,4,0,3,9:00 PM,8:24,Adebayo REBOUND (Off:1 Def:9),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,349,1,1,3,9:00 PM,8:07,Herro 26' 3PT Jump Shot (12 PTS) (Adebayo 3 AST),,,58 - 41,-17,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,351,5,4,3,9:01 PM,7:49,,,Brown Traveling Turnover (P4.T8),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,352,6,1,3,9:01 PM,7:38,,,White P.FOUL (P2.T2) (M.Ervin),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,354,5,11,3,9:02 PM,7:24,HEAT Turnover: Shot Clock (T#11),,,,,2,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300104,355,1,80,3,9:02 PM,7:04,,,Tatum 17' Step Back Jump Shot (10 PTS),60 - 41,-19,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,356,2,1,3,9:03 PM,6:53,MISS Herro 28' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,357,4,0,3,9:03 PM,6:50,,,Tatum REBOUND (Off:0 Def:9),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,358,1,108,3,9:03 PM,6:39,,,White 3' Cutting Dunk Shot (24 PTS) (Holiday 4 AST),62 - 41,-21,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,360,6,1,3,9:03 PM,6:31,,,Brown P.FOUL (P1.T3) (J.Goble),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,362,2,1,3,9:04 PM,6:18,MISS Highsmith 27' 3PT Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,363,4,0,3,9:04 PM,6:17,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,364,6,3,3,9:04 PM,6:17,,,Horford L.B.FOUL (P2.T4) (C.Kirkland),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,366,1,47,3,9:04 PM,6:08,Adebayo 7' Turnaround Jump Shot (14 PTS) (Martin 1 AST),,,62 - 43,-19,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,367,1,108,3,9:04 PM,5:55,,,White 3' Cutting Dunk Shot (26 PTS) (Holiday 5 AST),64 - 43,-21,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,369,2,6,3,9:05 PM,5:36,MISS Martin 9' Driving Layup,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,370,4,0,3,9:05 PM,5:34,Jovic REBOUND (Off:1 Def:2),,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,371,2,1,3,9:05 PM,5:32,MISS Martin 3PT Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,372,4,0,3,9:05 PM,5:32,,,Holiday REBOUND (Off:1 Def:4),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,373,1,50,3,9:05 PM,5:25,,,Brown 4' Running Dunk (13 PTS) (White 1 AST),66 - 43,-23,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,375,9,1,3,9:05 PM,5:25,HEAT Timeout: Regular (Full 5 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,377,8,0,3,9:08 PM,5:25,SUB: Mills FOR Jovic,,,,,4,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,378,8,0,3,9:08 PM,5:25,SUB: Wright FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,381,2,1,3,9:09 PM,5:13,MISS Adebayo 27' 3PT Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,382,4,0,3,9:09 PM,5:09,Mills REBOUND (Off:1 Def:0),,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,383,1,72,3,9:09 PM,5:07,Mills 4' Putback Layup (2 PTS),,,66 - 45,-21,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,384,2,1,3,9:09 PM,4:56,,,MISS White 26' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,385,4,0,3,9:09 PM,4:53,,,Horford REBOUND (Off:1 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,386,6,1,3,9:09 PM,4:53,Highsmith P.FOUL (P4.T1) (C.Kirkland),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,388,1,1,3,9:10 PM,4:47,,,White 26' 3PT Jump Shot (29 PTS) (Tatum 5 AST),69 - 45,-24,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,390,2,79,3,9:10 PM,4:35,MISS Adebayo 7' Pullup Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,391,4,0,3,9:10 PM,4:32,,,Tatum REBOUND (Off:0 Def:10),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,392,2,80,3,9:10 PM,4:17,,,MISS Tatum 24' 3PT Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,393,4,0,3,9:10 PM,4:14,Adebayo REBOUND (Off:1 Def:10),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,394,2,58,3,9:10 PM,3:59,MISS Highsmith 7' Turnaround Hook Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,395,4,0,3,9:10 PM,3:56,,,Horford REBOUND (Off:1 Def:5),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,396,1,41,3,9:11 PM,3:51,,,White 3' Running Layup (31 PTS),71 - 45,-26,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,397,1,79,3,9:11 PM,3:39,Mills 18' Pullup Jump Shot (4 PTS),,,71 - 47,-24,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,398,6,2,3,9:11 PM,3:16,Highsmith S.FOUL (P5.T2) (J.Goble),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,400,3,11,3,9:12 PM,3:16,,,Tatum Free Throw 1 of 2 (11 PTS),72 - 47,-25,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,401,8,0,3,9:12 PM,3:16,SUB: Jaquez Jr. FOR Highsmith,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,402,8,0,3,9:12 PM,3:16,,,SUB: Hauser FOR Holiday,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,403,8,0,3,9:12 PM,3:16,,,SUB: Kornet FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,404,8,0,3,9:12 PM,3:16,,,SUB: Pritchard FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,409,3,12,3,9:12 PM,3:16,,,Tatum Free Throw 2 of 2 (12 PTS),73 - 47,-26,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,410,2,75,3,9:12 PM,3:07,MISS Mills 4' Driving Finger Roll Layup,,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,411,4,0,3,9:12 PM,3:06,,,Kornet REBOUND (Off:0 Def:1),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,412,1,101,3,9:12 PM,3:00,,,White 9' Driving Floating Jump Shot (33 PTS),75 - 47,-28,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,413,1,57,3,9:13 PM,2:44,Jaquez Jr. 8' Driving Hook Shot (8 PTS),,,75 - 49,-26,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,414,6,2,3,9:13 PM,2:44,,,Hauser S.FOUL (P1.PN) (J.Goble),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,416,3,10,3,9:13 PM,2:44,Jaquez Jr. Free Throw 1 of 1 (9 PTS),,,75 - 50,-25,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,417,6,2,3,9:13 PM,2:34,Adebayo S.FOUL (P4.T3) (C.Kirkland),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,419,3,11,3,9:14 PM,2:34,,,Tatum Free Throw 1 of 2 (13 PTS),76 - 50,-26,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,420,3,12,3,9:14 PM,2:34,,,Tatum Free Throw 2 of 2 (14 PTS),77 - 50,-27,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,421,1,1,3,9:14 PM,2:23,Mills 27' 3PT Jump Shot (7 PTS) (Adebayo 4 AST),,,77 - 53,-24,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,423,2,80,3,9:15 PM,1:58,,,MISS Tatum 18' Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,424,4,0,3,9:15 PM,1:55,Herro REBOUND (Off:0 Def:2),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,458,5,2,3,9:15 PM,1:49,Adebayo Lost Ball Turnover (P3.T12),,Pritchard STEAL (1 STL),,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,428,1,76,3,9:15 PM,1:43,,,Tatum 6' Running Finger Roll Layup (16 PTS) (Pritchard 2 AST),79 - 53,-26,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,430,2,5,3,9:15 PM,1:19,MISS Adebayo 6' Layup,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,432,4,0,3,9:15 PM,1:19,Adebayo REBOUND (Off:2 Def:10),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,433,1,72,3,9:15 PM,1:19,Adebayo 5' Putback Layup (16 PTS),,,79 - 55,-24,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,434,6,2,3,9:15 PM,1:19,,,Kornet S.FOUL (P1.PN) (J.Goble),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,437,8,0,3,9:16 PM,1:19,SUB: Martin FOR Jaquez Jr.,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,439,3,10,3,9:16 PM,1:19,Adebayo Free Throw 1 of 1 (17 PTS),,,79 - 56,-23,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,440,2,6,3,9:16 PM,0:57,,,MISS Tatum 5' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,441,4,0,3,9:16 PM,0:55,,,Kornet REBOUND (Off:1 Def:1),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,442,2,97,3,9:16 PM,0:55,,,MISS Kornet Tip Layup Shot,,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,443,4,0,3,9:16 PM,0:55,,,Kornet REBOUND (Off:2 Def:1),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,444,1,97,3,9:16 PM,0:55,,,Kornet Tip Layup Shot (2 PTS),81 - 56,-25,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,445,7,1,3,9:17 PM,0:55,,,Celtics Violation: Delay of game Violation,,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300104,446,2,102,3,9:17 PM,0:39,MISS Herro 7' Driving Floating Bank Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,447,4,0,3,9:17 PM,0:38,,,White REBOUND (Off:1 Def:2),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,448,2,103,3,9:17 PM,0:33,,,MISS White 27' 3PT Running Pull-Up Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,450,4,0,3,9:17 PM,0:29,,,Kornet REBOUND (Off:3 Def:1),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,451,2,1,3,9:17 PM,0:27,,,MISS Hauser 26' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,452,4,0,3,9:17 PM,0:25,Herro REBOUND (Off:0 Def:3),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,453,1,1,3,9:17 PM,0:19,Adebayo 26' 3PT Jump Shot (20 PTS) (Herro 4 AST),,,81 - 59,-22,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,456,2,80,3,9:18 PM,0:00,,,MISS Tatum 27' 3PT Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,457,4,0,3,9:18 PM,0:00,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,460,13,0,3,9:18 PM,0:00,,End of 3rd Period (9:18 PM EST),,81 - 59,-22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,469,12,0,4,9:22 PM,12:00,,Start of 4th Period (9:22 PM EST),,81 - 59,-22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,470,6,4,4,9:22 PM,11:50,,,Brown OFF.Foul (P2) (M.Ervin),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,472,5,37,4,9:22 PM,11:50,,,Brown Offensive Foul Turnover (P5.T9),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,473,6,2,4,9:22 PM,11:40,,,Horford S.FOUL (P3.T1) (M.Ervin),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,475,3,13,4,9:23 PM,11:40,MISS Mills Free Throw 1 of 3,,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,476,4,1,4,9:23 PM,11:40,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,477,3,14,4,9:23 PM,11:40,Mills Free Throw 2 of 3 (8 PTS),,,81 - 60,-21,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,478,3,15,4,9:23 PM,11:40,Mills Free Throw 3 of 3 (9 PTS),,,81 - 61,-20,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,479,2,1,4,9:24 PM,11:25,,,MISS Holiday 26' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,480,4,0,4,9:24 PM,11:22,Love REBOUND (Off:0 Def:1),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,481,2,2,4,9:24 PM,11:17,MISS Mills 26' 3PT Running Jump Shot,,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,482,4,0,4,9:24 PM,11:14,,,Horford REBOUND (Off:1 Def:6),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,483,1,75,4,9:24 PM,10:58,,,Brown 5' Driving Finger Roll Layup (15 PTS),83 - 61,-22,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,484,1,1,4,9:24 PM,10:39,Martin 25' 3PT Jump Shot (8 PTS) (Love 1 AST),,,83 - 64,-19,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,486,6,1,4,9:25 PM,10:23,Martin P.FOUL (P3.T1) (J.Goble),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,488,1,1,4,9:25 PM,10:11,,,Horford 25' 3PT Jump Shot (5 PTS) (Pritchard 3 AST),86 - 64,-22,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,490,2,1,4,9:25 PM,9:55,MISS Love 26' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,491,4,0,4,9:26 PM,9:52,,,Hauser REBOUND (Off:0 Def:3),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,492,2,63,4,9:26 PM,9:36,,,MISS Holiday 14' Fadeaway Jumper,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,493,4,0,4,9:26 PM,9:35,Love REBOUND (Off:0 Def:2),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,494,1,6,4,9:26 PM,9:23,Wright 6' Driving Layup (2 PTS),,,86 - 66,-20,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,496,8,0,4,9:27 PM,9:06,,,SUB: White FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,498,2,6,4,9:27 PM,9:02,,,MISS Pritchard 5' Driving Layup,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,499,4,0,4,9:27 PM,9:00,Love REBOUND (Off:0 Def:3),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,500,1,63,4,9:27 PM,8:51,Herro 13' Fadeaway Jumper (14 PTS),,,86 - 68,-18,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,501,2,58,4,9:27 PM,8:31,,,MISS Brown 6' Turnaround Hook Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,502,4,0,4,9:27 PM,8:27,Love REBOUND (Off:0 Def:4),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,503,5,2,4,9:27 PM,8:24,Love Lost Ball Turnover (P1.T13),,Brown STEAL (1 STL),,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,505,2,41,4,9:28 PM,8:20,,,MISS Brown 6' Running Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,506,4,0,4,9:28 PM,8:20,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,507,6,3,4,9:28 PM,8:20,,,Horford L.B.FOUL (P4.T2) (C.Kirkland),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,509,8,0,4,9:28 PM,8:20,,,SUB: Tatum FOR Pritchard,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042300104,511,6,1,4,9:28 PM,8:07,,,White P.FOUL (P3.T3) (C.Kirkland),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,513,1,79,4,9:29 PM,8:02,Herro 15' Pullup Jump Shot (16 PTS) (Mills 1 AST),,,86 - 70,-16,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,515,6,2,4,9:29 PM,8:02,,,Holiday S.FOUL (P2.T4) (J.Goble),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,517,3,10,4,9:29 PM,8:02,Herro Free Throw 1 of 1 (17 PTS),,,86 - 71,-15,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,518,1,1,4,9:29 PM,7:46,,,Holiday 3PT Jump Shot (11 PTS) (Horford 1 AST),89 - 71,-18,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,526,5,40,4,9:30 PM,7:28,Herro Out of Bounds Lost Ball Turnover (P5.T14),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042300104,523,1,9,4,9:30 PM,7:19,,,Tatum 4' Driving Dunk (18 PTS) (White 2 AST),91 - 71,-20,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,525,9,1,4,9:30 PM,7:19,HEAT Timeout: Regular (Full 6 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,527,8,0,4,9:30 PM,7:19,SUB: Adebayo FOR Love,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042300104,529,2,1,4,9:34 PM,7:06,MISS Mills 26' 3PT Jump Shot,,White BLOCK (3 BLK),,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042300104,531,4,0,4,9:34 PM,7:06,,,White REBOUND (Off:1 Def:3),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,533,5,40,4,9:35 PM,6:52,,,Brown Out of Bounds Lost Ball Turnover (P6.T10),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,534,1,79,4,9:35 PM,6:43,Martin 26' 3PT Pullup Jump Shot (11 PTS),,,91 - 74,-17,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,535,2,6,4,9:35 PM,6:18,,,MISS White 5' Driving Layup,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,536,4,0,4,9:35 PM,6:16,Adebayo REBOUND (Off:2 Def:11),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,537,1,79,4,9:36 PM,6:02,Herro 18' Pullup Jump Shot (19 PTS),,,91 - 76,-15,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,538,2,79,4,9:36 PM,5:36,,,MISS White 19' Pullup Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,539,4,0,4,9:36 PM,5:32,,,Holiday REBOUND (Off:2 Def:4),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,540,2,1,4,9:36 PM,5:31,,,MISS Brown 25' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,541,4,0,4,9:36 PM,5:27,Martin REBOUND (Off:1 Def:3),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,542,1,76,4,9:36 PM,5:22,Adebayo 6' Running Finger Roll Layup (22 PTS),,,91 - 78,-13,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,543,9,1,4,9:36 PM,5:21,,,Celtics Timeout: Regular (Reg.3 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,544,6,1,4,9:40 PM,5:04,Mills P.FOUL (P1.T2) (M.Ervin),,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,547,18,2,4,9:42 PM,5:04,,Instant Replay4th Period (9:42 PM EST),,91 - 78,-13,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300104,550,6,11,4,9:43 PM,5:04,,,Horford T.FOUL (P4.T4) (J.Goble),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042300104,552,3,16,4,9:44 PM,5:04,MISS Herro Free Throw Technical,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,553,4,1,4,9:44 PM,5:04,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,548,6,14,4,9:45 PM,5:04,Adebayo FLAGRANT.FOUL.TYPE1 (P5.T3) (J.Goble),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,551,3,18,4,9:47 PM,5:04,,,Tatum Free Throw Flagrant 1 of 2 (19 PTS),92 - 78,-14,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,554,3,19,4,9:47 PM,5:04,,,Tatum Free Throw Flagrant 2 of 2 (20 PTS),93 - 78,-15,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,555,2,1,4,9:47 PM,4:53,,,MISS Brown 26' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,556,4,0,4,9:47 PM,4:50,Martin REBOUND (Off:1 Def:4),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,557,2,6,4,9:47 PM,4:35,MISS Martin 5' Driving Layup,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,558,4,0,4,9:47 PM,4:32,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300104,560,1,75,4,9:48 PM,4:15,,,White 8' Driving Finger Roll Layup (35 PTS),95 - 78,-17,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,561,2,80,4,9:48 PM,3:52,MISS Herro 13' Step Back Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,562,4,0,4,9:48 PM,3:49,,,Horford REBOUND (Off:1 Def:7),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,563,2,79,4,9:49 PM,3:29,,,MISS White 27' 3PT Pullup Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,564,4,0,4,9:49 PM,3:29,Herro REBOUND (Off:0 Def:4),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,565,5,2,4,9:49 PM,3:14,Mills Lost Ball Turnover (P1.T15),,Brown STEAL (2 STL),,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,567,9,1,4,9:49 PM,3:12,,,Celtics Timeout: Regular (Reg.4 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,568,1,79,4,9:51 PM,3:03,,,Brown 19' Pullup Jump Shot (17 PTS) (Holiday 6 AST),97 - 78,-19,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,569,2,1,4,9:51 PM,2:48,MISS Mills 26' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,570,4,0,4,9:51 PM,2:46,Adebayo REBOUND (Off:3 Def:11),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,571,2,97,4,9:51 PM,2:46,MISS Adebayo Tip Layup Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,572,4,0,4,9:51 PM,2:46,Adebayo REBOUND (Off:4 Def:11),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,573,6,2,4,9:51 PM,2:46,,,Holiday S.FOUL (P3.PN) (M.Ervin),,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,575,3,11,4,9:52 PM,2:46,MISS Adebayo Free Throw 1 of 2,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,576,4,1,4,9:52 PM,2:46,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300104,577,3,12,4,9:52 PM,2:46,Adebayo Free Throw 2 of 2 (23 PTS),,,97 - 79,-18,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,579,2,101,4,9:52 PM,2:25,,,MISS Holiday 12' Driving Floating Jump Shot,,,5,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,580,4,0,4,9:52 PM,2:23,Adebayo REBOUND (Off:4 Def:12),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,581,6,1,4,9:53 PM,2:16,,,Brown P.FOUL (P3.PN) (M.Ervin),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042300104,583,3,11,4,9:53 PM,2:16,Martin Free Throw 1 of 2 (12 PTS),,,97 - 80,-17,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,584,3,12,4,9:54 PM,2:16,Martin Free Throw 2 of 2 (13 PTS),,,97 - 81,-16,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,585,1,9,4,9:54 PM,1:58,,,Horford 3' Driving Dunk (7 PTS) (White 3 AST),99 - 81,-18,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,587,1,75,4,9:54 PM,1:45,Adebayo 6' Driving Finger Roll Layup (25 PTS) (Martin 2 AST),,,99 - 83,-16,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,589,6,1,4,9:55 PM,1:36,Wright P.FOUL (P1.T4) (C.Kirkland),,,,,4,1626153,Delon Wright,1610612748.0,Miami,Heat,MIA,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042300104,591,2,80,4,9:55 PM,1:22,,,MISS Horford 24' 3PT Step Back Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,592,4,0,4,9:55 PM,1:19,Adebayo REBOUND (Off:4 Def:13),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,593,1,73,4,9:55 PM,1:10,Martin 5' Driving Reverse Layup (15 PTS) (Adebayo 5 AST),,,99 - 85,-14,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042300104,595,1,1,4,9:56 PM,0:50,,,White 26' 3PT Jump Shot (38 PTS) (Horford 2 AST),102 - 85,-17,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042300104,597,1,79,4,9:56 PM,0:40,Martin 26' 3PT Pullup Jump Shot (18 PTS),,,102 - 88,-14,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,598,5,11,4,9:56 PM,0:15,,,Celtics Turnover: Shot Clock (T#11),,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300104,599,2,80,4,9:57 PM,0:06,MISS Martin 25' 3PT Step Back Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042300104,600,4,0,4,9:57 PM,0:02,,,Tatum REBOUND (Off:0 Def:11),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042300104,601,13,0,4,9:57 PM,0:00,,End of 4th Period (9:57 PM EST),,102 - 88,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

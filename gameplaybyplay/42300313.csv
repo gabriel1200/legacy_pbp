@@ -1,0 +1,424 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300313,2,12,0,1,8:06 PM,12:00,,Start of 1st Period (8:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,4,10,0,1,8:06 PM,12:00,Jump Ball Gafford vs. Gobert: Tip to Washington,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1
+0042300313,7,5,39,1,8:07 PM,11:40,Irving Step Out of Bounds Turnover (P1.T1),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,8,2,9,1,8:07 PM,11:21,Gafford BLOCK (1 BLK),,MISS Towns 3' Driving Dunk,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1
+0042300313,9,4,0,1,8:07 PM,11:18,Washington REBOUND (Off:0 Def:1),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,11,5,40,1,8:07 PM,11:09,Gafford Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,13,1,98,1,8:08 PM,10:45,,,Conley 2' Cutting Layup Shot (2 PTS) (Gobert 1 AST),2 - 0,-2,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,15,1,1,1,8:09 PM,10:32,Washington 24' 3PT Jump Shot (3 PTS) (Gafford 1 AST),,,2 - 3,1,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,17,1,1,1,8:09 PM,10:16,,,Conley 25' 3PT Jump Shot (5 PTS) (Gobert 2 AST),5 - 3,-2,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,19,1,1,1,8:09 PM,9:55,Jones Jr. 3PT Jump Shot (3 PTS) (Washington 1 AST),,,5 - 6,1,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,21,5,1,1,8:09 PM,9:43,Doncic STEAL (1 STL),,Edwards Bad Pass Turnover (P1.T1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,23,6,1,1,8:09 PM,9:42,,,McDaniels P.FOUL (P1.T1) (T.Brothers),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,25,1,80,1,8:10 PM,9:27,Doncic 26' 3PT Step Back Jump Shot (3 PTS),,,5 - 9,4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,26,2,79,1,8:10 PM,9:11,,,MISS Edwards 26' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,27,4,0,1,8:10 PM,9:10,Washington REBOUND (Off:0 Def:2),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,28,2,103,1,8:10 PM,9:04,MISS Doncic 33' 3PT Running Pull-Up Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,29,4,0,1,8:11 PM,9:00,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,30,2,1,1,8:11 PM,8:54,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,31,4,0,1,8:11 PM,8:51,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,32,2,1,1,8:11 PM,8:44,MISS Washington 24' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,33,4,0,1,8:11 PM,8:41,Jones Jr. REBOUND (Off:1 Def:0),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,34,2,1,1,8:11 PM,8:39,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,35,4,0,1,8:11 PM,8:39,,,Towns REBOUND (Off:0 Def:1),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,36,6,2,1,8:11 PM,8:28,Gafford S.FOUL (P1.T1) (C.Blair),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,38,3,11,1,8:11 PM,8:28,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,39,4,1,1,8:11 PM,8:28,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,40,8,0,1,8:11 PM,8:28,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,42,3,12,1,8:12 PM,8:28,,,Edwards Free Throw 2 of 2 (1 PTS),6 - 9,3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,43,6,2,1,8:12 PM,8:08,,,Conley S.FOUL (P1.T2) (B.Taylor),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,45,3,11,1,8:13 PM,8:08,Irving Free Throw 1 of 2 (1 PTS),,,6 - 10,4,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,46,3,12,1,8:13 PM,8:08,Irving Free Throw 2 of 2 (2 PTS),,,6 - 11,5,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,47,1,101,1,8:14 PM,7:44,,,Edwards 10' Driving Floating Jump Shot (3 PTS),8 - 11,3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,48,2,1,1,8:14 PM,7:36,MISS Washington 26' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,49,4,0,1,8:14 PM,7:33,Lively II REBOUND (Off:1 Def:0),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,50,5,2,1,8:14 PM,7:29,Irving Lost Ball Turnover (P2.T3),,Conley STEAL (1 STL),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,52,2,78,1,8:14 PM,7:24,,,MISS Towns 8' Floating Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,53,4,0,1,8:14 PM,7:22,Washington REBOUND (Off:0 Def:3),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,54,2,76,1,8:14 PM,7:17,MISS Irving 4' Running Finger Roll Layup,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,55,4,0,1,8:14 PM,7:15,Lively II REBOUND (Off:2 Def:0),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,56,1,75,1,8:14 PM,7:10,Washington 2' Driving Finger Roll Layup (5 PTS) (Irving 1 AST),,,8 - 13,5,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,58,1,63,1,8:14 PM,6:53,,,Edwards 11' Fadeaway Jumper (5 PTS) (Conley 1 AST),10 - 13,3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,60,1,7,1,8:15 PM,6:35,Lively II 1' Dunk (2 PTS) (Jones Jr. 1 AST),,,10 - 15,5,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,62,1,1,1,8:15 PM,6:14,,,McDaniels 3PT Jump Shot (3 PTS) (Towns 1 AST),13 - 15,2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,64,7,5,1,8:15 PM,6:01,,,McDaniels Violation:Kicked Ball (B.Taylor),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0042300313,65,9,1,1,8:15 PM,6:01,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,66,8,0,1,8:15 PM,6:01,SUB: Green FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,68,1,108,1,8:19 PM,5:54,Lively II 1' Cutting Dunk Shot (4 PTS) (Doncic 1 AST),,,13 - 17,4,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,70,2,101,1,8:20 PM,5:35,Lively II BLOCK (1 BLK),,MISS Edwards 6' Driving Floating Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+0042300313,72,4,0,1,8:20 PM,5:33,Lively II REBOUND (Off:2 Def:1),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,73,1,52,1,8:20 PM,5:28,Lively II 1' Alley Oop Dunk (6 PTS) (Doncic 2 AST),,,13 - 19,6,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,75,6,2,1,8:20 PM,5:07,Green S.FOUL (P1.T2) (T.Brothers),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,77,3,11,1,8:20 PM,5:07,,,Edwards Free Throw 1 of 2 (6 PTS),14 - 19,5,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0042300313,78,8,0,1,8:20 PM,5:07,SUB: Hardy FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,79,8,0,1,8:20 PM,5:07,,,SUB: Reid FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,80,8,0,1,8:20 PM,5:07,,,SUB: Alexander-Walker FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,84,3,12,1,8:21 PM,5:07,,,Edwards Free Throw 2 of 2 (7 PTS),15 - 19,4,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,85,2,6,1,8:21 PM,4:45,MISS Hardy 4' Driving Layup,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,86,4,0,1,8:21 PM,4:44,,,Edwards REBOUND (Off:0 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,87,1,103,1,8:21 PM,4:39,,,McDaniels 10' Running Pull-Up Jump Shot (5 PTS) (Edwards 1 AST),17 - 19,2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,89,1,80,1,8:22 PM,4:26,Doncic 14' Step Back Jump Shot (5 PTS),,,17 - 21,4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,90,1,79,1,8:22 PM,4:12,,,McDaniels 10' Pullup Jump Shot (7 PTS) (Reid 1 AST),19 - 21,2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,92,6,1,1,8:22 PM,4:04,,,Gobert P.FOUL (P1.T3) (C.Blair),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,94,8,0,1,8:22 PM,4:04,SUB: Jones Jr. FOR Washington,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,96,2,86,1,8:22 PM,3:56,MISS Doncic 14' Turnaround Fadeaway Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,97,4,0,1,8:23 PM,3:53,,,Alexander-Walker REBOUND (Off:0 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,98,2,79,1,8:23 PM,3:42,,,MISS Edwards 14' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,99,4,0,1,8:23 PM,3:40,Hardy REBOUND (Off:0 Def:1),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,100,6,2,1,8:23 PM,3:36,,,Alexander-Walker S.FOUL (P1.T4) (B.Taylor),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,102,3,11,1,8:23 PM,3:36,Hardy Free Throw 1 of 2 (1 PTS),,,19 - 22,3,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042300313,103,3,12,1,8:24 PM,3:36,Hardy Free Throw 2 of 2 (2 PTS),,,19 - 23,4,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,105,6,2,1,8:24 PM,3:17,Lively II S.FOUL (P1.T3) (B.Taylor),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,107,3,11,1,8:25 PM,3:17,,,Reid Free Throw 1 of 2 (1 PTS),20 - 23,3,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,108,8,0,1,8:25 PM,3:17,SUB: Gafford FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,110,3,12,1,8:25 PM,3:17,,,Reid Free Throw 2 of 2 (2 PTS),21 - 23,2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,111,1,80,1,8:25 PM,3:08,Doncic 28' 3PT Step Back Jump Shot (8 PTS),,,21 - 26,5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,112,6,1,1,8:26 PM,2:56,Hardy P.FOUL (P1.T4) (T.Brothers),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,114,9,1,1,8:26 PM,2:56,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,115,8,0,1,8:27 PM,2:56,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,117,2,1,1,8:30 PM,2:46,,,MISS Alexander-Walker 24' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,118,4,0,1,8:30 PM,2:43,,,Reid REBOUND (Off:1 Def:0),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,119,2,1,1,8:30 PM,2:38,,,MISS Reid 25' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,120,4,0,1,8:30 PM,2:36,Hardy REBOUND (Off:0 Def:2),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,121,2,80,1,8:30 PM,2:17,MISS Doncic 26' 3PT Step Back Jump Shot,,Anderson BLOCK (1 BLK),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300313,123,4,0,1,8:30 PM,2:14,,,Edwards REBOUND (Off:0 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,124,1,101,1,8:30 PM,2:08,,,Anderson 10' Driving Floating Jump Shot (2 PTS) (Edwards 2 AST),23 - 26,3,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,126,6,4,1,8:30 PM,1:57,Gafford OFF.Foul (P2) (C.Blair),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,128,5,37,1,8:30 PM,1:57,Gafford Offensive Foul Turnover (P2.T4),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,129,8,0,1,8:31 PM,1:57,SUB: Irving FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,130,8,0,1,8:31 PM,1:57,,,SUB: Towns FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,133,2,1,1,8:31 PM,1:46,,,MISS Towns 27' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,134,4,0,1,8:31 PM,1:43,Green REBOUND (Off:0 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,135,1,1,1,8:31 PM,1:31,Irving 24' 3PT Jump Shot (5 PTS) (Green 1 AST),,,23 - 29,6,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,137,2,57,1,8:32 PM,1:07,,,MISS Reid 7' Driving Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,138,4,0,1,8:32 PM,1:07,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,140,6,1,1,8:32 PM,0:52,,,Reid P.FOUL (P1.PN) (T.Brothers),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,142,3,11,1,8:33 PM,0:52,Jones Jr. Free Throw 1 of 2 (4 PTS),,,23 - 30,7,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,143,8,0,1,8:33 PM,0:52,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,145,3,12,1,8:33 PM,0:52,Jones Jr. Free Throw 2 of 2 (5 PTS),,,23 - 31,8,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,146,5,1,1,8:33 PM,0:39,Doncic STEAL (2 STL),,Anderson Bad Pass Turnover (P1.T2),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,148,5,2,1,8:34 PM,0:35,Doncic Lost Ball Turnover (P1.T5),,Edwards STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,150,1,50,1,8:34 PM,0:32,,,Edwards 1' Running Dunk (9 PTS) (Anderson 1 AST),25 - 31,6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,152,1,75,1,8:34 PM,0:20,Irving 3' Driving Finger Roll Layup (7 PTS) (Lively II 1 AST),,,25 - 33,8,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,154,1,1,1,8:34 PM,0:00,,,Alexander-Walker 3PT Jump Shot (3 PTS) (Edwards 3 AST),28 - 33,5,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,156,13,0,1,8:34 PM,0:00,,End of 1st Period (8:34 PM EST),,28 - 33,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,165,12,0,2,8:38 PM,12:00,,Start of 2nd Period (8:38 PM EST),,28 - 33,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,166,6,2,2,8:38 PM,11:45,Lively II S.FOUL (P2.T1) (T.Brothers),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,168,9,1,2,8:39 PM,11:45,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,170,18,6,2,8:39 PM,11:45,,Instant Replay2nd Period (8:39 PM EST),,28 - 33,5,0,166,Ron Harper,,,,,0,0,,,,,,1,0,,,,,,1
+0042300313,171,3,11,2,8:43 PM,11:45,,,MISS Towns Free Throw 1 of 2,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,172,4,1,2,8:43 PM,11:45,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,173,3,12,2,8:43 PM,11:45,,,Towns Free Throw 2 of 2 (1 PTS),29 - 33,4,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,174,2,1,2,8:43 PM,11:32,MISS Irving 24' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,175,4,0,2,8:43 PM,11:29,Washington REBOUND (Off:1 Def:3),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,176,1,80,2,8:43 PM,11:15,Hardy 14' Step Back Jump Shot (4 PTS) (Exum 1 AST),,,29 - 35,6,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,178,1,6,2,8:44 PM,10:54,,,Reid 4' Driving Layup (4 PTS) (Conley 2 AST),31 - 35,4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,179,6,4,2,8:44 PM,10:36,Hardy OFF.Foul (P2) (T.Brothers),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,181,5,37,2,8:44 PM,10:36,Hardy Offensive Foul Turnover (P1.T6),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,182,8,0,2,8:44 PM,10:36,SUB: Jones Jr. FOR Exum,,,,,4,203957,Danté Exum,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,183,8,0,2,8:44 PM,10:36,,,SUB: Edwards FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,187,2,63,2,8:45 PM,10:23,,,MISS Towns 11' Fadeaway Jumper,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,188,4,0,2,8:45 PM,10:21,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,189,6,3,2,8:45 PM,10:21,Hardy L.B.FOUL (P3.T2) (C.Blair),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,191,8,0,2,8:45 PM,10:21,SUB: Green FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,193,2,1,2,8:46 PM,10:15,,,MISS Edwards 13' Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,194,4,0,2,8:46 PM,10:14,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,195,6,3,2,8:46 PM,10:14,,,Towns L.B.FOUL (P1.T1) (T.Brothers),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,197,1,1,2,8:46 PM,10:01,Green 26' 3PT Jump Shot (3 PTS) (Lively II 2 AST),,,31 - 38,7,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,199,1,75,2,8:47 PM,9:37,,,Reid 1' Driving Finger Roll Layup (6 PTS) (Edwards 4 AST),33 - 38,5,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,201,1,1,2,8:47 PM,9:23,Jones Jr. 24' 3PT Jump Shot (8 PTS) (Green 2 AST),,,33 - 41,8,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,204,6,4,2,8:47 PM,9:14,,,Anderson OFF.Foul (P1) (T.Brothers),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,206,5,37,2,8:47 PM,9:14,,,Anderson Offensive Foul Turnover (P2.T3),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042300313,207,6,11,2,8:47 PM,9:14,,,Anderson T.FOUL (P1.T1) (T.Brothers),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0042300313,208,3,16,2,8:48 PM,9:14,MISS Irving Free Throw Technical,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,209,4,1,2,8:48 PM,9:14,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,210,1,79,2,8:48 PM,9:02,Irving 14' Pullup Jump Shot (9 PTS),,,33 - 43,10,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,211,2,101,2,8:49 PM,8:37,,,MISS Conley 14' Driving Floating Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,212,4,0,2,8:49 PM,8:35,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,216,8,0,2,8:50 PM,8:35,SUB: Doncic FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,217,8,0,2,8:50 PM,8:35,SUB: Gafford FOR Washington,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,218,8,0,2,8:50 PM,8:35,,,SUB: McDaniels FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,226,2,1,2,8:54 PM,8:22,,,MISS Conley 27' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,227,4,0,2,8:54 PM,8:20,Gafford REBOUND (Off:0 Def:1),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,228,2,1,2,8:55 PM,8:05,MISS Irving 24' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,229,4,0,2,8:55 PM,8:02,,,Edwards REBOUND (Off:0 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,230,6,1,2,8:55 PM,7:52,Jones Jr. P.FOUL (P1.T3) (B.Taylor),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,232,8,0,2,8:55 PM,7:52,,,SUB: Gobert FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,234,2,79,2,8:55 PM,7:45,,,MISS Edwards 27' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,235,4,0,2,8:55 PM,7:43,,,Conley REBOUND (Off:1 Def:0),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,236,2,1,2,8:55 PM,7:40,,,MISS Reid 25' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,237,4,0,2,8:55 PM,7:36,,,Gobert REBOUND (Off:1 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,238,1,72,2,8:55 PM,7:35,,,Gobert 1' Putback Layup (2 PTS),35 - 43,8,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,239,6,1,2,8:56 PM,7:19,,,Gobert P.FOUL (P2.T2) (T.Brothers),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,241,8,0,2,8:56 PM,7:19,SUB: Washington FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,243,2,79,2,8:56 PM,7:08,MISS Doncic 28' 3PT Pullup Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,244,4,0,2,8:56 PM,7:06,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,247,1,1,2,8:57 PM,6:51,,,McDaniels 3PT Jump Shot (10 PTS) (Reid 2 AST),38 - 43,5,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,249,1,1,2,8:57 PM,6:36,Jones Jr. 3PT Jump Shot (11 PTS) (Doncic 3 AST),,,38 - 46,8,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,251,2,6,2,8:57 PM,6:15,,,MISS McDaniels 4' Driving Layup,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,252,4,0,2,8:57 PM,6:12,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,253,1,101,2,8:58 PM,6:03,Washington 6' Driving Floating Jump Shot (7 PTS) (Jones Jr. 2 AST),,,38 - 48,10,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,255,6,1,2,8:58 PM,5:53,Jones Jr. P.FOUL (P2.T4) (T.Brothers),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,257,8,0,2,8:58 PM,5:53,SUB: Green FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,258,8,0,2,8:58 PM,5:53,,,SUB: Towns FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,261,2,1,2,8:58 PM,5:44,,,MISS Towns 26' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,262,4,0,2,8:58 PM,5:40,Doncic REBOUND (Off:0 Def:3),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,263,6,2,2,8:59 PM,5:31,,,McDaniels S.FOUL (P2.T3) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,265,3,11,2,8:59 PM,5:31,Doncic Free Throw 1 of 2 (9 PTS),,,38 - 49,11,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,266,3,12,2,8:59 PM,5:31,Doncic Free Throw 2 of 2 (10 PTS),,,38 - 50,12,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,267,2,86,2,9:00 PM,5:08,,,MISS Edwards 14' Turnaround Fadeaway Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,268,4,0,2,9:00 PM,5:05,,,McDaniels REBOUND (Off:1 Def:0),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,269,2,1,2,9:00 PM,4:59,,,MISS Towns 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,270,4,0,2,9:00 PM,4:57,,,Edwards REBOUND (Off:1 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,271,2,97,2,9:00 PM,4:56,,,MISS Edwards Tip Layup Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,272,4,0,2,9:00 PM,4:56,,,Edwards REBOUND (Off:2 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,273,1,97,2,9:00 PM,4:55,,,Edwards Tip Layup Shot (11 PTS),40 - 50,10,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,274,2,75,2,9:00 PM,4:45,MISS Irving 5' Driving Finger Roll Layup,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,275,4,0,2,9:00 PM,4:41,,,Edwards REBOUND (Off:2 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,276,6,26,2,9:00 PM,4:39,,,Edwards Offensive Charge Foul (P1) (C.Blair),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,278,5,37,2,9:00 PM,4:39,,,Edwards Offensive Foul Turnover (P2.T4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042300313,279,9,1,2,9:01 PM,4:39,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,280,18,4,2,9:01 PM,4:39,,Instant Replay2nd Period (9:01 PM EST),,40 - 50,10,0,276,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300313,281,8,0,2,9:01 PM,4:39,SUB: Powell FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,283,1,101,2,9:05 PM,4:19,Irving 4' Driving Floating Jump Shot (11 PTS),,,40 - 52,12,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,285,1,108,2,9:05 PM,4:03,,,Gobert 1' Cutting Dunk Shot (4 PTS) (Towns 2 AST),42 - 52,10,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,287,2,1,2,9:05 PM,3:43,MISS Doncic 28' 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,288,4,0,2,9:05 PM,3:41,Green REBOUND (Off:1 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,290,2,98,2,9:05 PM,3:38,MISS Powell 2' Cutting Layup Shot,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,291,4,0,2,9:05 PM,3:37,,,Towns REBOUND (Off:0 Def:2),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,292,2,1,2,9:05 PM,3:26,,,MISS Towns 28' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,293,4,0,2,9:06 PM,3:23,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,294,2,1,2,9:06 PM,3:11,MISS Washington 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,295,4,0,2,9:06 PM,3:08,Doncic REBOUND (Off:1 Def:3),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,296,2,101,2,9:06 PM,3:01,MISS Washington 11' Driving Floating Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,297,4,0,2,9:06 PM,2:59,,,Towns REBOUND (Off:0 Def:3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,298,5,1,2,9:06 PM,2:44,Powell STEAL (1 STL),,Edwards Bad Pass Turnover (P3.T5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,300,2,63,2,9:06 PM,2:25,MISS Doncic 14' Fadeaway Jumper,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,301,4,0,2,9:07 PM,2:20,,,Towns REBOUND (Off:0 Def:4),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,302,6,2,2,9:07 PM,2:15,Powell S.FOUL (P1.PN) (T.Brothers),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,304,3,11,2,9:07 PM,2:15,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,305,4,1,2,9:07 PM,2:15,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,310,3,12,2,9:07 PM,2:15,,,Edwards Free Throw 2 of 2 (12 PTS),43 - 52,9,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,306,8,0,2,9:07 PM,2:15,SUB: Gafford FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,307,8,0,2,9:07 PM,2:15,,,SUB: Alexander-Walker FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,311,1,79,2,9:08 PM,2:05,Irving 27' 3PT Pullup Jump Shot (14 PTS),,,43 - 55,12,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,312,1,6,2,9:08 PM,1:44,,,Towns 3' Driving Layup (3 PTS) (Edwards 5 AST),45 - 55,10,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,314,5,4,2,9:08 PM,1:35,Gafford Traveling Turnover (P3.T7),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,315,1,6,2,9:09 PM,1:20,,,Towns 1' Driving Layup (5 PTS),47 - 55,8,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,317,1,47,2,9:09 PM,1:05,Doncic 12' Turnaround Jump Shot (12 PTS),,,47 - 57,10,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,318,1,98,2,9:09 PM,0:55,,,McDaniels 2' Cutting Layup Shot (12 PTS) (Towns 3 AST),49 - 57,8,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,320,1,1,2,9:09 PM,0:43,Doncic 27' 3PT Jump Shot (15 PTS) (Irving 2 AST),,,49 - 60,11,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,322,2,1,2,9:10 PM,0:29,,,MISS Towns 29' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,323,4,0,2,9:10 PM,0:27,,,Gobert REBOUND (Off:2 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,326,1,72,2,9:10 PM,0:26,,,Gobert Putback Layup (6 PTS),51 - 60,9,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,327,2,1,2,9:10 PM,0:03,MISS Doncic 28' 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,328,4,0,2,9:10 PM,0:00,,,Gobert REBOUND (Off:2 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,329,6,1,2,9:10 PM,0:00,Gafford P.FOUL (P3.PN) (B.Taylor),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,331,3,11,2,9:11 PM,0:00,,,Gobert Free Throw 1 of 2 (7 PTS),52 - 60,8,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,332,3,12,2,9:11 PM,0:00,,,MISS Gobert Free Throw 2 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,333,4,0,2,9:11 PM,0:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,334,13,0,2,9:11 PM,0:00,,End of 2nd Period (9:11 PM EST),,52 - 60,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,339,12,0,3,9:28 PM,12:00,,Start of 3rd Period (9:28 PM EST),,52 - 60,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,340,5,2,3,9:29 PM,11:38,Doncic STEAL (3 STL),,Gobert Lost Ball Turnover (P1.T6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,342,6,2,3,9:29 PM,11:32,,,Towns S.FOUL (P2.T1) (B.Taylor),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,344,3,11,3,9:29 PM,11:32,Washington Free Throw 1 of 2 (8 PTS),,,52 - 61,9,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,345,3,12,3,9:29 PM,11:32,Washington Free Throw 2 of 2 (9 PTS),,,52 - 62,10,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,347,1,80,3,9:30 PM,11:12,,,Conley 26' 3PT Step Back Jump Shot (8 PTS),55 - 62,7,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,348,6,2,3,9:30 PM,10:56,,,Conley S.FOUL (P2.T2) (T.Brothers),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,350,3,11,3,9:31 PM,10:56,Doncic Free Throw 1 of 2 (16 PTS),,,55 - 63,8,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,351,3,12,3,9:31 PM,10:56,Doncic Free Throw 2 of 2 (17 PTS),,,55 - 64,9,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,352,2,6,3,9:32 PM,10:40,Doncic BLOCK (1 BLK),,MISS Edwards 3' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1
+0042300313,354,4,0,3,9:32 PM,10:37,,,Towns REBOUND (Off:1 Def:4),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,355,1,87,3,9:32 PM,10:37,,,Towns 2' Putback Dunk (7 PTS),57 - 64,7,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,356,6,2,3,9:32 PM,10:17,,,Conley S.FOUL (P3.T3) (B.Taylor),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,358,3,11,3,9:33 PM,10:17,Washington Free Throw 1 of 2 (10 PTS),,,57 - 65,8,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,359,3,12,3,9:33 PM,10:17,Washington Free Throw 2 of 2 (11 PTS),,,57 - 66,9,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,360,1,1,3,9:33 PM,10:01,,,Conley 27' 3PT Jump Shot (11 PTS) (Edwards 6 AST),60 - 66,6,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,362,1,1,3,9:33 PM,9:47,Doncic 25' 3PT Jump Shot (20 PTS) (Irving 3 AST),,,60 - 69,9,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,364,6,2,3,9:34 PM,9:26,Washington S.FOUL (P1.T1) (T.Brothers),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,366,3,11,3,9:34 PM,9:26,,,Towns Free Throw 1 of 2 (8 PTS),61 - 69,8,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,367,3,12,3,9:35 PM,9:26,,,Towns Free Throw 2 of 2 (9 PTS),62 - 69,7,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,368,2,1,3,9:35 PM,9:03,MISS Doncic 19' Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,369,4,0,3,9:35 PM,8:59,,,Towns REBOUND (Off:1 Def:5),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,370,2,6,3,9:35 PM,8:51,,,MISS Edwards 3' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,371,4,0,3,9:35 PM,8:51,,,Gobert REBOUND (Off:3 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,372,1,97,3,9:35 PM,8:50,,,Gobert Tip Layup Shot (9 PTS),64 - 69,5,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,373,1,102,3,9:36 PM,8:36,Irving 12' Driving Floating Bank Jump Shot (16 PTS),,,64 - 71,7,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,374,6,2,3,9:36 PM,8:36,,,Conley S.FOUL (P4.T4) (T.Brothers),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,376,8,0,3,9:36 PM,8:36,SUB: Powell FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,377,8,0,3,9:36 PM,8:36,,,SUB: Alexander-Walker FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,380,3,10,3,9:36 PM,8:36,Irving Free Throw 1 of 1 (17 PTS),,,64 - 72,8,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,381,2,79,3,9:37 PM,8:22,,,MISS Edwards 13' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,382,4,0,3,9:37 PM,8:19,Washington REBOUND (Off:1 Def:4),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,383,6,1,3,9:37 PM,8:17,,,Gobert P.FOUL (P3.PN) (B.Taylor),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,385,3,11,3,9:38 PM,8:17,Powell Free Throw 1 of 2 (1 PTS),,,64 - 73,9,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,386,8,0,3,9:38 PM,8:17,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,388,3,12,3,9:38 PM,8:17,Powell Free Throw 2 of 2 (2 PTS),,,64 - 74,10,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,389,1,75,3,9:39 PM,7:59,,,Edwards 1' Driving Finger Roll Layup (14 PTS) (Alexander-Walker 1 AST),66 - 74,8,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,391,2,58,3,9:39 PM,7:52,MISS Powell 2' Turnaround Hook Shot,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,392,4,0,3,9:39 PM,7:50,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,393,6,3,3,9:39 PM,7:50,Powell L.B.FOUL (P2.T2) (B.Taylor),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,395,2,6,3,9:39 PM,7:39,,,MISS Towns 3' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,396,4,0,3,9:39 PM,7:37,Powell REBOUND (Off:0 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,397,5,4,3,9:40 PM,7:30,Irving Traveling Turnover (P3.T8),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,398,6,4,3,9:40 PM,7:30,,,Alexander-Walker OFF.Foul (P2) (B.Taylor),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,400,5,37,3,9:40 PM,7:30,,,Alexander-Walker Offensive Foul Turnover (P1.T7),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042300313,401,8,0,3,9:40 PM,7:30,SUB: Gafford FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,402,8,0,3,9:40 PM,7:30,SUB: Green FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,406,1,52,3,9:41 PM,7:23,Gafford 1' Alley Oop Dunk (2 PTS) (Doncic 4 AST),,,66 - 76,10,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,408,1,1,3,9:41 PM,7:05,,,McDaniels 26' 3PT Jump Shot (15 PTS) (Edwards 7 AST),69 - 76,7,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,410,2,101,3,9:41 PM,6:49,MISS Doncic 6' Driving Floating Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,411,4,0,3,9:41 PM,6:49,,,Towns REBOUND (Off:1 Def:6),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,412,1,6,3,9:41 PM,6:40,,,Edwards 2' Driving Layup (16 PTS),71 - 76,5,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,413,9,1,3,9:41 PM,6:40,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,414,8,0,3,9:41 PM,6:40,,,SUB: Gobert FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,416,6,1,3,9:45 PM,6:25,,,McDaniels P.FOUL (P3.PN) (T.Brothers),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,418,3,11,3,9:46 PM,6:25,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,419,4,1,3,9:46 PM,6:25,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,420,3,12,3,9:46 PM,6:25,Doncic Free Throw 2 of 2 (21 PTS),,,71 - 77,6,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,421,1,9,3,9:46 PM,6:15,,,Edwards 2' Driving Dunk (18 PTS) (Alexander-Walker 2 AST),73 - 77,4,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,423,2,1,3,9:47 PM,5:48,MISS Washington 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,424,4,0,3,9:47 PM,5:45,,,Edwards REBOUND (Off:2 Def:5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,426,8,0,3,9:47 PM,5:39,SUB: Jones Jr. FOR Washington,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,428,1,80,3,9:48 PM,5:25,,,Edwards 14' Step Back Jump Shot (20 PTS),75 - 77,2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,429,2,98,3,9:48 PM,5:01,MISS Gafford 2' Cutting Layup Shot,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,430,4,0,3,9:48 PM,4:59,,,Edwards REBOUND (Off:2 Def:6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,431,1,104,3,9:48 PM,4:51,,,Edwards 15' Step Back Bank Jump Shot (22 PTS),77 - 77,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,432,2,63,3,9:48 PM,4:36,MISS Irving 10' Fadeaway Jumper,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,433,4,0,3,9:48 PM,4:32,,,Gobert REBOUND (Off:3 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,434,2,80,3,9:49 PM,4:17,,,MISS Edwards 15' Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,435,4,0,3,9:49 PM,4:15,Irving REBOUND (Off:0 Def:2),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,436,5,45,3,9:49 PM,4:10,Jones Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,437,8,0,3,9:49 PM,4:10,SUB: Powell FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,439,9,1,3,9:49 PM,4:10,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,440,1,75,3,9:53 PM,3:54,,,Reid 3' Driving Finger Roll Layup (8 PTS) (Edwards 8 AST),79 - 77,-2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,442,1,63,3,9:53 PM,3:32,Irving 13' Fadeaway Jumper (19 PTS),,,79 - 79,TIE,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,443,5,1,3,9:54 PM,3:08,Doncic STEAL (4 STL),,Edwards Bad Pass Turnover (P4.T8),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,445,6,2,3,9:54 PM,3:04,,,Edwards S.FOUL (P2.PN) (B.Taylor),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,447,3,11,3,9:55 PM,3:04,Doncic Free Throw 1 of 2 (22 PTS),,,79 - 80,1,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,448,8,0,3,9:55 PM,3:04,SUB: Hardy FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,449,8,0,3,9:55 PM,3:04,SUB: Washington FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,452,3,12,3,9:55 PM,3:04,Doncic Free Throw 2 of 2 (23 PTS),,,79 - 81,2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,453,2,1,3,9:55 PM,2:49,,,MISS McDaniels 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,454,4,0,3,9:55 PM,2:46,Washington REBOUND (Off:1 Def:5),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,455,6,2,3,9:56 PM,2:31,,,Gobert S.FOUL (P4.PN) (C.Blair),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,457,3,11,3,9:56 PM,2:31,Hardy Free Throw 1 of 2 (5 PTS),,,79 - 82,3,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,458,8,0,3,9:56 PM,2:31,,,SUB: Towns FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,460,3,12,3,9:56 PM,2:31,MISS Hardy Free Throw 2 of 2,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,461,4,0,3,9:56 PM,2:28,,,Towns REBOUND (Off:1 Def:7),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,462,6,1,3,9:57 PM,2:16,Doncic P.FOUL (P1.T3) (C.Blair),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,464,2,1,3,9:57 PM,2:02,,,MISS Alexander-Walker 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,465,4,0,3,9:57 PM,1:56,Powell REBOUND (Off:0 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,466,6,1,3,9:58 PM,1:44,,,McDaniels P.FOUL (P4.PN) (B.Taylor),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,468,3,11,3,9:58 PM,1:44,Doncic Free Throw 1 of 2 (24 PTS),,,79 - 83,4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,469,8,0,3,9:58 PM,1:44,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,471,3,12,3,9:58 PM,1:44,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,472,4,0,3,9:58 PM,1:41,,,Towns REBOUND (Off:1 Def:8),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,473,1,102,3,9:59 PM,1:29,,,Towns 11' Driving Floating Bank Jump Shot (11 PTS),81 - 83,2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,474,6,2,3,9:59 PM,1:29,Washington S.FOUL (P2.T4) (B.Taylor),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,476,3,10,3,10:00 PM,1:29,,,Towns Free Throw 1 of 1 (12 PTS),82 - 83,1,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,477,2,1,3,10:00 PM,1:15,MISS Hardy 25' 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,478,4,0,3,10:00 PM,1:12,,,Reid REBOUND (Off:1 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,479,2,79,3,10:00 PM,1:01,,,MISS Edwards 13' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,480,4,0,3,10:00 PM,0:57,Doncic REBOUND (Off:1 Def:4),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,481,1,103,3,10:01 PM,0:52,Doncic 12' Running Pull-Up Jump Shot (26 PTS),,,82 - 85,3,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,482,1,1,3,10:01 PM,0:43,,,Reid 26' 3PT Jump Shot (11 PTS) (Anderson 2 AST),85 - 85,TIE,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,484,2,80,3,10:01 PM,0:33,MISS Doncic 27' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,485,4,0,3,10:01 PM,0:33,,,Alexander-Walker REBOUND (Off:0 Def:2),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,486,1,101,3,10:01 PM,0:09,,,Towns 11' Driving Floating Jump Shot (14 PTS),87 - 85,-2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,487,1,102,3,10:02 PM,0:01,Hardy Driving Floating Bank Jump Shot (7 PTS),,,87 - 87,TIE,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,488,13,0,3,10:02 PM,0:00,,End of 3rd Period (10:02 PM EST),,87 - 87,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,497,12,0,4,10:05 PM,12:00,,Start of 4th Period (10:05 PM EST),,87 - 87,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,498,1,6,4,10:06 PM,11:40,Irving 1' Driving Layup (21 PTS),,,87 - 89,2,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,499,1,1,4,10:06 PM,11:19,,,Conley 26' 3PT Jump Shot (14 PTS) (Alexander-Walker 3 AST),90 - 89,-1,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,501,2,6,4,10:06 PM,11:01,MISS Gafford 3' Driving Layup,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,502,4,0,4,10:06 PM,10:58,,,Towns REBOUND (Off:1 Def:9),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,503,1,78,4,10:07 PM,10:42,,,Anderson 10' Floating Jump Shot (4 PTS) (Conley 3 AST),92 - 89,-3,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,505,5,40,4,10:07 PM,10:27,Irving Out of Bounds Lost Ball Turnover (P4.T10),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,506,2,1,4,10:07 PM,10:07,,,MISS Alexander-Walker 27' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,507,4,0,4,10:08 PM,10:02,Gafford REBOUND (Off:0 Def:2),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,508,1,103,4,10:08 PM,9:57,Irving 26' 3PT Running Pull-Up Jump Shot (24 PTS),,,92 - 92,TIE,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,509,1,101,4,10:08 PM,9:35,,,Anderson 6' Driving Floating Jump Shot (6 PTS) (Conley 4 AST),94 - 92,-2,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,511,1,80,4,10:08 PM,9:20,Irving 14' Step Back Jump Shot (26 PTS),,,94 - 94,TIE,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,512,2,1,4,10:08 PM,9:06,,,MISS Towns 25' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,513,4,0,4,10:09 PM,9:04,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300313,515,8,0,4,10:09 PM,9:04,SUB: Doncic FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,516,8,0,4,10:09 PM,9:04,,,SUB: McDaniels FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,519,1,80,4,10:09 PM,8:47,Doncic 25' 3PT Step Back Jump Shot (29 PTS),,,94 - 97,3,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,522,1,102,4,10:09 PM,8:34,,,Conley 10' Driving Floating Bank Jump Shot (16 PTS),96 - 97,1,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,524,6,1,4,10:10 PM,8:25,,,Anderson P.FOUL (P2.T1) (C.Blair),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,526,8,0,4,10:10 PM,8:25,SUB: Jones Jr. FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,527,8,0,4,10:10 PM,8:25,,,SUB: Edwards FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,530,5,40,4,10:10 PM,8:17,Green Out of Bounds Lost Ball Turnover (P1.T11),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,531,1,108,4,10:10 PM,8:04,,,Reid 1' Cutting Dunk Shot (13 PTS) (Anderson 3 AST),98 - 97,-1,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,533,6,2,4,10:11 PM,7:47,,,McDaniels S.FOUL (P5.T2) (T.Brothers),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,535,3,11,4,10:11 PM,7:47,Irving Free Throw 1 of 2 (27 PTS),,,98 - 98,TIE,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,538,3,12,4,10:11 PM,7:47,MISS Irving Free Throw 2 of 2,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,536,8,0,4,10:11 PM,7:47,,,SUB: Conley FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,539,4,0,4,10:11 PM,7:44,,,Reid REBOUND (Off:1 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,540,1,6,4,10:12 PM,7:30,,,Anderson 3' Driving Layup (8 PTS),100 - 98,-2,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,541,2,75,4,10:12 PM,7:07,MISS Irving 2' Driving Finger Roll Layup,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,542,4,0,4,10:12 PM,7:06,Washington REBOUND (Off:2 Def:5),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,543,1,97,4,10:13 PM,7:06,Washington Tip Layup Shot (13 PTS),,,100 - 100,TIE,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,544,6,1,4,10:13 PM,6:56,Doncic P.FOUL (P2.T1) (B.Taylor),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,546,9,1,4,10:13 PM,6:56,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,547,8,0,4,10:13 PM,6:56,SUB: Gafford FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,549,2,1,4,10:17 PM,6:49,,,MISS Reid 26' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,550,4,0,4,10:17 PM,6:45,Washington REBOUND (Off:2 Def:6),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,551,2,101,4,10:17 PM,6:42,MISS Irving 9' Driving Floating Jump Shot,,Anderson BLOCK (2 BLK),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300313,552,4,0,4,10:17 PM,6:40,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,555,5,1,4,10:17 PM,6:25,Irving STEAL (1 STL),,Conley Bad Pass Turnover (P1.T9),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,557,1,86,4,10:18 PM,6:07,Doncic 17' Turnaround Fadeaway (31 PTS),,,100 - 102,2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,558,1,6,4,10:18 PM,5:54,,,Edwards 2' Driving Layup (24 PTS),102 - 102,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,559,2,6,4,10:18 PM,5:28,MISS Jones Jr. 4' Driving Layup,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,560,4,0,4,10:18 PM,5:26,,,Towns REBOUND (Off:1 Def:10),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,561,2,6,4,10:18 PM,5:20,Gafford BLOCK (2 BLK),,MISS Towns 4' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1
+0042300313,563,4,0,4,10:18 PM,5:19,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,565,1,78,4,10:19 PM,5:05,,,Anderson 20' Floating Jump Shot (10 PTS) (Edwards 9 AST),104 - 102,-2,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,567,1,75,4,10:20 PM,4:35,Irving 5' Driving Finger Roll Layup (29 PTS) (Washington 2 AST),,,104 - 104,TIE,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,568,9,1,4,10:20 PM,4:34,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,570,2,1,4,10:24 PM,4:16,,,MISS Reid 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,571,4,0,4,10:24 PM,4:12,,,Edwards REBOUND (Off:3 Def:6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,572,2,63,4,10:24 PM,3:59,,,MISS Anderson 14' Fadeaway Jumper,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,573,4,0,4,10:24 PM,3:56,Gafford REBOUND (Off:0 Def:3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,574,1,1,4,10:24 PM,3:38,Washington 3PT Jump Shot (16 PTS) (Irving 4 AST),,,104 - 107,3,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,576,6,2,4,10:25 PM,3:21,Gafford S.FOUL (P4.T2) (T.Brothers),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,578,3,11,4,10:25 PM,3:21,,,MISS Reid Free Throw 1 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,579,4,1,4,10:25 PM,3:21,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,580,9,1,4,10:26 PM,3:21,MAVERICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,581,8,0,4,10:26 PM,3:21,,,SUB: Gobert FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,583,3,12,4,10:27 PM,3:21,,,Reid Free Throw 2 of 2 (14 PTS),105 - 107,2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,584,5,4,4,10:28 PM,3:07,Doncic Traveling Turnover (P2.T12),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042300313,585,9,1,4,10:28 PM,3:07,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,586,8,0,4,10:28 PM,3:07,,,SUB: Towns FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,587,8,0,4,10:28 PM,3:07,,,SUB: McDaniels FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,590,2,79,4,10:30 PM,2:44,,,MISS Conley 25' 3PT Pullup Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,591,4,0,4,10:30 PM,2:40,Doncic REBOUND (Off:1 Def:5),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,592,1,86,4,10:30 PM,2:16,Doncic 11' Turnaround Fadeaway (33 PTS),,,105 - 109,4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,593,2,75,4,10:30 PM,2:00,,,MISS Edwards 3' Driving Finger Roll Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,594,4,0,4,10:30 PM,1:58,Jones Jr. REBOUND (Off:1 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,596,5,2,4,10:30 PM,1:54,Jones Jr. Lost Ball Turnover (P2.T13),,Edwards STEAL (2 STL),,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,598,10,0,4,10:31 PM,1:52,Jump Ball Doncic vs. Edwards: Tip to Jones Jr.,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0
+0042300313,601,5,2,4,10:31 PM,1:52,Doncic STEAL (5 STL),,Edwards Lost Ball Turnover (P5.T10),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,603,5,1,4,10:32 PM,1:31,Doncic Bad Pass Turnover (P3.T14),,McDaniels STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300313,605,2,80,4,10:32 PM,1:25,,,MISS Towns 27' 3PT Step Back Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,606,4,0,4,10:32 PM,1:21,Doncic REBOUND (Off:1 Def:6),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,607,1,80,4,10:32 PM,1:07,Irving 14' Step Back Jump Shot (31 PTS),,,105 - 111,6,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,608,6,1,4,10:32 PM,1:02,Irving P.FOUL (P1.T3) (T.Brothers),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300313,610,2,6,4,10:33 PM,0:56,Gafford BLOCK (3 BLK),,MISS Conley 6' Driving Layup,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1
+0042300313,612,4,0,4,10:33 PM,0:54,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,614,1,52,4,10:33 PM,0:34,Gafford 2' Alley Oop Dunk (4 PTS) (Doncic 5 AST),,,105 - 113,8,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042300313,616,6,2,4,10:34 PM,0:34,,,Gobert S.FOUL (P5.T3) (B.Taylor),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,618,3,10,4,10:34 PM,0:34,Gafford Free Throw 1 of 1 (5 PTS),,,105 - 114,9,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,619,9,1,4,10:35 PM,0:34,,,Timberwolves Timeout: Regular (Reg.6 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300313,620,8,0,4,10:36 PM,0:34,SUB: Green FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,621,8,0,4,10:36 PM,0:34,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300313,624,2,1,4,10:36 PM,0:33,,,MISS Towns 26' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,625,4,0,4,10:36 PM,0:30,Irving REBOUND (Off:0 Def:3),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,626,6,1,4,10:36 PM,0:27,,,Conley P.FOUL (P5.PN) (C.Blair),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042300313,628,3,11,4,10:37 PM,0:27,Irving Free Throw 1 of 2 (32 PTS),,,105 - 115,10,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,629,8,0,4,10:37 PM,0:27,SUB: Hardy FOR Doncic,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042300313,631,3,12,4,10:37 PM,0:27,Irving Free Throw 2 of 2 (33 PTS),,,105 - 116,11,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042300313,632,1,6,4,10:38 PM,0:15,,,Edwards 3' Driving Layup (26 PTS),107 - 116,9,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300313,633,13,0,4,10:38 PM,0:00,,End of 4th Period (10:38 PM EST),,107 - 116,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

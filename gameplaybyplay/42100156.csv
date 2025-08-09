@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100156,2,12,0,1,9:17 PM,12:00,,Start of 1st Period (9:17 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,4,10,0,1,9:17 PM,12:00,Jump Ball Towns vs. Jackson Jr.: Tip to Morant,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,7,5,2,1,9:17 PM,11:46,Russell STEAL (1 STL),,Bane Lost Ball Turnover (P1.T1),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,9,7,5,1,9:17 PM,11:36,,,Tillman Violation:Kicked Ball (M.Lindsay),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0042100156,10,1,80,1,9:18 PM,11:24,Towns 18' Step Back Jump Shot (2 PTS) (Edwards 1 AST),,,0 - 2,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,12,2,1,1,9:18 PM,11:12,,,MISS Bane 24' 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,13,4,0,1,9:18 PM,11:09,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,14,2,1,1,9:18 PM,11:01,MISS Towns 10' Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,15,4,0,1,9:18 PM,10:59,,,Bane REBOUND (Off:0 Def:1),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,16,5,1,1,9:18 PM,10:55,Vanderbilt STEAL (1 STL),,Bane Bad Pass Turnover (P2.T2),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,18,5,1,1,9:18 PM,10:50,Russell Bad Pass Turnover (P1.T1),,Morant STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,20,1,41,1,9:18 PM,10:45,,,Bane 3' Running Layup (2 PTS) (Morant 1 AST),2 - 2,TIE,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,22,2,1,1,9:19 PM,10:28,MISS Beverley 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,23,4,0,1,9:19 PM,10:24,,,Jackson Jr. REBOUND (Off:0 Def:1),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,24,2,79,1,9:19 PM,10:12,,,MISS Morant 6' Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,25,4,0,1,9:19 PM,10:10,Towns REBOUND (Off:0 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,26,2,78,1,9:19 PM,10:06,MISS Beverley 6' Floating Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,27,4,0,1,9:19 PM,10:06,,,Jackson Jr. REBOUND (Off:0 Def:2),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,28,2,75,1,9:19 PM,9:56,,,MISS Brooks 11' Driving Finger Roll Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,29,4,0,1,9:19 PM,9:53,Edwards REBOUND (Off:0 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,30,1,79,1,9:19 PM,9:41,Edwards 6' Pullup Jump Shot (2 PTS),,,2 - 4,2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,32,2,79,1,9:20 PM,9:19,,,MISS Morant 3PT Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,33,4,0,1,9:20 PM,9:16,Vanderbilt REBOUND (Off:0 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,34,6,1,1,9:20 PM,9:05,,,Jackson Jr. P.FOUL (P1.T1) (M.Lindsay),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,36,5,4,1,9:21 PM,8:59,Beverley Traveling Turnover (P1.T2),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042100156,37,1,1,1,9:22 PM,8:39,,,Jackson Jr. 3PT Jump Shot (3 PTS) (Morant 2 AST),5 - 4,-1,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,39,1,6,1,9:22 PM,8:23,Edwards 3' Driving Layup (4 PTS),,,5 - 6,1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,40,1,1,1,9:22 PM,7:59,,,Brooks 24' 3PT Jump Shot (3 PTS) (Morant 3 AST),8 - 6,-2,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,42,6,2,1,9:23 PM,7:45,,,Brooks S.FOUL (P1.T2) (S.Foster),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,44,3,11,1,9:23 PM,7:45,Edwards Free Throw 1 of 2 (5 PTS),,,8 - 7,-1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,45,3,12,1,9:23 PM,7:45,Edwards Free Throw 2 of 2 (6 PTS),,,8 - 8,TIE,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,46,1,78,1,9:23 PM,7:33,,,Bane 8' Floating Jump Shot (4 PTS) (Brooks 1 AST),10 - 8,-2,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,48,1,79,1,9:24 PM,7:09,Edwards 26' 3PT Pullup Jump Shot (9 PTS) (Russell 1 AST),,,10 - 11,1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,50,6,2,1,9:24 PM,6:59,Towns S.FOUL (P1.T1) (C.Kirkland),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,52,9,1,1,9:24 PM,6:59,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,62,8,0,1,9:28 PM,6:59,,,SUB: Anderson FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,53,3,11,1,9:28 PM,6:59,,,MISS Morant Free Throw 1 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,54,4,1,1,9:28 PM,6:59,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,55,3,12,1,9:28 PM,6:59,,,MISS Morant Free Throw 2 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,56,4,0,1,9:28 PM,6:57,Towns REBOUND (Off:0 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,57,5,1,1,9:28 PM,6:45,Edwards Bad Pass Turnover (P1.T3),,Anderson STEAL (1 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,59,2,101,1,9:29 PM,6:35,,,MISS Brooks 6' Driving Floating Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,61,1,97,1,9:29 PM,6:29,,,Brooks Tip Layup Shot (5 PTS),12 - 11,-1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,60,4,0,1,9:29 PM,6:29,,,Brooks REBOUND (Off:1 Def:0),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,64,2,5,1,9:29 PM,6:14,MISS Towns 5' Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,65,4,0,1,9:29 PM,6:11,Vanderbilt REBOUND (Off:1 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,66,2,107,1,9:29 PM,6:11,MISS Vanderbilt Tip Dunk Shot,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,67,4,0,1,9:29 PM,6:10,,,Tillman REBOUND (Off:0 Def:1),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,68,1,1,1,9:29 PM,6:08,,,Bane 24' 3PT Jump Shot (7 PTS) (Morant 4 AST),15 - 11,-4,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,71,2,1,1,9:30 PM,5:46,MISS Russell 25' 3PT Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,72,4,0,1,9:30 PM,5:43,,,Brooks REBOUND (Off:1 Def:1),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,73,6,1,1,9:30 PM,5:34,Beverley P.FOUL (P1.T2) (M.Lindsay),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,75,8,0,1,9:30 PM,5:34,SUB: McDaniels FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,76,8,0,1,9:30 PM,5:34,,,SUB: Clarke FOR Tillman,,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,79,1,1,1,9:30 PM,5:31,,,Brooks 24' 3PT Jump Shot (8 PTS) (Clarke 1 AST),18 - 11,-7,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,81,1,1,1,9:31 PM,5:18,McDaniels 3PT Jump Shot (3 PTS) (Russell 2 AST),,,18 - 14,-4,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,83,1,80,1,9:31 PM,5:06,,,Bane 24' 3PT Step Back Jump Shot (10 PTS) (Morant 5 AST),21 - 14,-7,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,85,2,1,1,9:31 PM,4:55,MISS Edwards 15' Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,86,4,0,1,9:31 PM,4:53,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,88,2,80,1,9:31 PM,4:38,,,MISS Brooks 25' 3PT Step Back Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,89,4,0,1,9:31 PM,4:34,,,Anderson REBOUND (Off:1 Def:0),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,90,2,5,1,9:31 PM,4:33,,,MISS Anderson 3' Layup,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,91,4,0,1,9:31 PM,4:30,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,92,1,1,1,9:32 PM,4:24,Towns 11' Jump Shot (4 PTS) (Edwards 2 AST),,,21 - 16,-5,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,94,1,80,1,9:32 PM,4:06,,,Bane 24' 3PT Step Back Jump Shot (13 PTS),24 - 16,-8,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,95,1,1,1,9:32 PM,3:52,McDaniels 3PT Jump Shot (6 PTS) (Russell 3 AST),,,24 - 19,-5,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,97,2,80,1,9:33 PM,3:23,,,MISS Morant 25' 3PT Step Back Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,98,4,0,1,9:33 PM,3:20,Edwards REBOUND (Off:0 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,99,1,1,1,9:33 PM,3:12,McDaniels 25' 3PT Jump Shot (9 PTS) (Edwards 3 AST),,,24 - 22,-2,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,101,9,1,1,9:33 PM,3:12,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,102,8,0,1,9:35 PM,3:12,SUB: Beasley FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,103,8,0,1,9:35 PM,3:12,,,SUB: Jones FOR Bane,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,106,5,1,1,9:37 PM,3:04,Russell STEAL (2 STL),,Morant Bad Pass Turnover (P1.T3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,109,2,1,1,9:37 PM,2:55,MISS Russell 24' 3PT Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,110,4,0,1,9:37 PM,2:52,,,Anderson REBOUND (Off:1 Def:1),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,111,5,1,1,9:37 PM,2:50,Russell STEAL (3 STL),,Anderson Bad Pass Turnover (P1.T4),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,114,2,5,1,9:37 PM,2:38,MISS Towns 4' Layup,,Anderson BLOCK (1 BLK),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,116,4,0,1,9:37 PM,2:35,,,Clarke REBOUND (Off:0 Def:1),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,117,1,73,1,9:38 PM,2:30,,,Brooks 2' Driving Reverse Layup (10 PTS) (Jones 1 AST),26 - 22,-4,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,119,1,6,1,9:38 PM,2:12,Edwards 5' Driving Layup (11 PTS),,,26 - 24,-2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,120,2,101,1,9:38 PM,1:59,,,MISS Brooks 11' Driving Floating Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,121,4,0,1,9:38 PM,1:57,Beasley REBOUND (Off:0 Def:1),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,122,1,79,1,9:38 PM,1:48,Edwards 19' Pullup Jump Shot (13 PTS),,,26 - 26,TIE,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,123,5,15,1,9:39 PM,1:23,,,Anderson Offensive Goaltending Turnover (P2.T5),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100156,124,8,0,1,9:39 PM,1:23,SUB: McLaughlin FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,125,8,0,1,9:39 PM,1:23,,,SUB: Jackson Jr. FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,126,8,0,1,9:39 PM,1:23,,,SUB: Bane FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,130,1,79,1,9:39 PM,1:09,Edwards 25' 3PT Pullup Jump Shot (16 PTS),,,26 - 29,3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,131,1,98,1,9:40 PM,0:47,,,Clarke 2' Cutting Layup Shot (2 PTS) (Jackson Jr. 1 AST),28 - 29,1,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,134,2,80,1,9:41 PM,0:27,MISS Towns 27' 3PT Step Back Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,135,4,0,1,9:41 PM,0:24,,,Bane REBOUND (Off:0 Def:2),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,136,6,1,1,9:41 PM,0:06,McLaughlin P.FOUL (P1.T3) (C.Kirkland),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,138,8,0,1,9:41 PM,0:06,SUB: Vanderbilt FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,140,2,75,1,9:42 PM,0:01,Edwards BLOCK (1 BLK),,MISS Morant 8' Driving Finger Roll Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042100156,142,4,0,1,9:42 PM,0:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,144,13,0,1,9:42 PM,0:00,,End of 1st Period (9:42 PM EST),,28 - 29,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100156,149,12,0,2,9:46 PM,12:00,,Start of 2nd Period (9:46 PM EST),,28 - 29,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,204,2,6,2,9:46 PM,11:47,MISS Monroe 2' Driving Layup,,Bane BLOCK (1 BLK),,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0
+0042100156,206,4,0,2,9:46 PM,11:46,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,152,2,1,2,9:46 PM,11:37,,,MISS Jackson Jr. 25' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,154,1,97,2,9:46 PM,11:32,,,Clarke Tip Layup Shot (4 PTS),30 - 29,-1,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,153,4,0,2,9:46 PM,11:32,,,Clarke REBOUND (Off:1 Def:1),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,155,2,1,2,9:46 PM,11:21,MISS Beasley 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,156,4,0,2,9:46 PM,11:20,,,Konchar REBOUND (Off:0 Def:1),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,157,1,78,2,9:46 PM,11:04,,,Jones 11' Floating Jump Shot (2 PTS),32 - 29,-3,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,158,5,45,2,9:47 PM,10:48,Monroe Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042100156,159,5,2,2,9:47 PM,10:27,Monroe STEAL (1 STL),,Clarke Lost Ball Turnover (P1.T6),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,161,1,50,2,9:47 PM,10:23,Beasley 3' Running Dunk (2 PTS),,,32 - 31,-1,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,162,1,58,2,9:48 PM,10:00,,,Clarke 8' Turnaround Hook Shot (6 PTS) (Jones 2 AST),34 - 31,-3,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,164,2,1,2,9:48 PM,9:42,MISS Beasley 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,165,4,0,2,9:48 PM,9:42,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,166,6,3,2,9:48 PM,9:42,,,Clarke L.B.FOUL (P1.T1) (C.Kirkland),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,168,2,79,2,9:49 PM,9:31,MISS Edwards 8' Pullup Jump Shot,,Jackson Jr. BLOCK (1 BLK),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,170,4,0,2,9:49 PM,9:28,Monroe REBOUND (Off:1 Def:0),,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,171,1,72,2,9:49 PM,9:27,Monroe 2' Putback Layup (2 PTS),,,34 - 33,-1,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,172,2,79,2,9:49 PM,9:09,,,MISS Bane 5' Pullup Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,173,4,0,2,9:49 PM,9:06,Beasley REBOUND (Off:0 Def:2),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,174,6,2,2,9:49 PM,8:53,,,Konchar S.FOUL (P1.T2) (S.Foster),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,176,3,11,2,9:50 PM,8:53,McDaniels Free Throw 1 of 2 (10 PTS),,,34 - 34,TIE,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,177,3,12,2,9:50 PM,8:53,MISS McDaniels Free Throw 2 of 2,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,178,4,0,2,9:50 PM,8:51,,,Konchar REBOUND (Off:0 Def:2),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,179,2,1,2,9:50 PM,8:38,,,MISS Jones 24' 3PT Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,180,4,0,2,9:50 PM,8:33,,,Jackson Jr. REBOUND (Off:1 Def:2),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,181,2,6,2,9:50 PM,8:30,,,MISS Jackson Jr. 8' Driving Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,182,4,0,2,9:50 PM,8:27,,,Jackson Jr. REBOUND (Off:2 Def:2),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,183,2,5,2,9:50 PM,8:27,,,MISS Jackson Jr. 3' Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,185,4,0,2,9:50 PM,8:25,Monroe REBOUND (Off:1 Def:1),,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,186,2,1,2,9:51 PM,8:20,MISS Edwards 25' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,187,4,0,2,9:51 PM,8:17,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,189,6,2,2,9:51 PM,7:58,Monroe S.FOUL (P1.T1) (M.Lindsay),,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,191,3,11,2,9:52 PM,7:58,,,Clarke Free Throw 1 of 2 (7 PTS),35 - 34,-1,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,192,8,0,2,9:52 PM,7:58,SUB: Beverley FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,194,3,12,2,9:52 PM,7:58,,,Clarke Free Throw 2 of 2 (8 PTS),36 - 34,-2,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,195,1,5,2,9:52 PM,7:38,Monroe 3' Layup (4 PTS),,,36 - 36,TIE,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,196,1,1,2,9:52 PM,7:26,,,Jackson Jr. 25' 3PT Jump Shot (6 PTS) (Jones 3 AST),39 - 36,-3,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,198,2,5,2,9:53 PM,7:08,MISS Monroe 2' Layup,,Jackson Jr. BLOCK (2 BLK),,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,200,4,0,2,9:53 PM,7:06,,,Konchar REBOUND (Off:0 Def:3),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,201,2,86,2,9:53 PM,6:47,,,MISS Jones 12' Turnaround Fadeaway Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,202,4,0,2,9:53 PM,6:46,McLaughlin REBOUND (Off:0 Def:1),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,203,9,1,2,9:53 PM,6:46,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,207,8,0,2,9:56 PM,6:46,SUB: Russell FOR Beasley,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,208,8,0,2,9:56 PM,6:46,SUB: Towns FOR Monroe,,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,209,8,0,2,9:56 PM,6:46,,,SUB: Brooks FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,210,8,0,2,9:56 PM,6:46,,,SUB: Tillman FOR Bane,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,211,8,0,2,9:56 PM,6:46,,,SUB: Morant FOR Konchar,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,217,6,4,2,9:57 PM,6:36,Towns OFF.Foul (P2) (C.Kirkland),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,219,5,37,2,9:57 PM,6:36,Towns Offensive Foul Turnover (P1.T5),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042100156,220,7,5,2,9:57 PM,6:33,Towns Violation:Kicked Ball (M.Lindsay),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0042100156,221,2,101,2,9:58 PM,6:16,,,MISS Brooks 9' Driving Floating Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,222,4,0,2,9:58 PM,6:13,Towns REBOUND (Off:0 Def:3),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,223,1,73,2,9:58 PM,6:08,McLaughlin 3' Driving Reverse Layup (2 PTS),,,39 - 38,-1,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,224,5,39,2,9:58 PM,5:53,,,Tillman Step Out of Bounds Turnover (P1.T7),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100156,225,2,79,2,9:59 PM,5:39,MISS Russell 18' Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,226,4,0,2,9:59 PM,5:37,,,Jackson Jr. REBOUND (Off:2 Def:3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,227,2,75,2,9:59 PM,5:20,,,MISS Brooks 7' Driving Finger Roll Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,228,4,0,2,9:59 PM,5:16,Beverley REBOUND (Off:0 Def:3),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,229,1,6,2,9:59 PM,5:11,Beverley 3' Driving Layup (2 PTS),,,39 - 40,1,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,230,6,2,2,9:59 PM,5:11,,,Tillman S.FOUL (P1.T3) (M.Lindsay),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,240,3,10,2,9:59 PM,5:11,Beverley Free Throw 1 of 1 (3 PTS),,,39 - 41,2,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,232,8,0,2,9:59 PM,5:10,SUB: Edwards FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,233,8,0,2,9:59 PM,5:10,,,SUB: Anderson FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,234,8,0,2,9:59 PM,5:10,,,SUB: Clarke FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,235,8,0,2,9:59 PM,5:10,,,SUB: Bane FOR Tillman,,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,241,2,9,2,10:00 PM,4:54,Edwards BLOCK (2 BLK),,MISS Clarke 2' Driving Dunk,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042100156,243,4,0,2,10:00 PM,4:50,,,Morant REBOUND (Off:1 Def:0),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,244,2,75,2,10:00 PM,4:50,,,MISS Morant 4' Driving Finger Roll Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,245,4,0,2,10:00 PM,4:48,,,Clarke REBOUND (Off:2 Def:1),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,246,1,97,2,10:00 PM,4:48,,,Clarke Tip Layup Shot (10 PTS),41 - 41,TIE,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,247,6,3,2,10:01 PM,4:30,,,Anderson L.B.FOUL (P1.T4) (C.Kirkland),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,249,1,79,2,10:01 PM,4:20,Edwards 25' 3PT Pullup Jump Shot (19 PTS),,,41 - 44,3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,250,2,79,2,10:02 PM,4:09,,,MISS Brooks 18' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,251,4,0,2,10:02 PM,4:06,Edwards REBOUND (Off:0 Def:3),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,252,6,26,2,10:02 PM,4:02,Edwards Offensive Charge Foul (P1) (S.Foster),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,254,5,37,2,10:02 PM,4:02,Edwards Offensive Foul Turnover (P2.T6),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042100156,255,6,1,2,10:02 PM,3:50,Edwards P.FOUL (P2.T2) (S.Foster),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,257,2,79,2,10:03 PM,3:40,,,MISS Brooks 11' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,258,4,0,2,10:03 PM,3:37,Towns REBOUND (Off:0 Def:4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,259,1,9,2,10:03 PM,3:32,Towns 2' Driving Dunk (6 PTS) (McLaughlin 1 AST),,,41 - 46,5,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,261,9,1,2,10:03 PM,3:32,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,262,8,0,2,10:04 PM,3:32,,,SUB: Jones FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,264,6,2,2,10:07 PM,3:17,Beverley S.FOUL (P2.T3) (C.Kirkland),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,266,3,11,2,10:08 PM,3:17,,,Morant Free Throw 1 of 2 (1 PTS),42 - 46,4,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,267,3,12,2,10:08 PM,3:17,,,Morant Free Throw 2 of 2 (2 PTS),43 - 46,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,268,2,5,2,10:08 PM,3:03,MISS Towns 4' Layup,,Clarke BLOCK (1 BLK),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,270,4,0,2,10:08 PM,3:00,,,Clarke REBOUND (Off:2 Def:2),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,271,1,6,2,10:08 PM,2:56,,,Morant 3' Driving Layup (4 PTS),45 - 46,1,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,272,6,1,2,10:09 PM,2:42,,,Bane P.FOUL (P1.PN) (C.Kirkland),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,274,3,11,2,10:09 PM,2:42,Towns Free Throw 1 of 2 (7 PTS),,,45 - 47,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,275,8,0,2,10:09 PM,2:42,SUB: McDaniels FOR McLaughlin,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,277,3,12,2,10:10 PM,2:42,Towns Free Throw 2 of 2 (8 PTS),,,45 - 48,3,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,278,5,2,2,10:10 PM,2:29,Towns STEAL (1 STL),,Morant Lost Ball Turnover (P2.T8),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,280,1,6,2,10:10 PM,2:22,Russell 3' Driving Layup (2 PTS) (Beverley 1 AST),,,45 - 50,5,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,282,2,1,2,10:10 PM,2:07,,,MISS Bane 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,283,4,0,2,10:10 PM,2:04,McDaniels REBOUND (Off:0 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,284,2,1,2,10:11 PM,1:53,MISS McDaniels 24' 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,285,4,0,2,10:11 PM,1:50,,,Clarke REBOUND (Off:2 Def:3),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,286,1,58,2,10:11 PM,1:43,,,Clarke 5' Turnaround Hook Shot (12 PTS) (Bane 1 AST),47 - 50,3,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,288,6,2,2,10:11 PM,1:24,,,Clarke S.FOUL (P2.PN) (M.Lindsay),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,290,3,11,2,10:12 PM,1:24,MISS Edwards Free Throw 1 of 2,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,291,4,1,2,10:12 PM,1:24,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,292,8,0,2,10:12 PM,1:24,,,SUB: Jackson Jr. FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,294,3,12,2,10:12 PM,1:24,Edwards Free Throw 2 of 2 (20 PTS),,,47 - 51,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,295,5,40,2,10:12 PM,1:08,,,Bane Out of Bounds Lost Ball Turnover (P3.T9),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100156,296,2,80,2,10:13 PM,0:56,MISS Edwards 24' 3PT Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,297,4,0,2,10:13 PM,0:53,,,Jackson Jr. REBOUND (Off:2 Def:4),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,298,1,79,2,10:13 PM,0:41,,,Bane 20' Pullup Jump Shot (15 PTS) (Clarke 2 AST),49 - 51,2,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,300,2,6,2,10:13 PM,0:30,MISS Towns 2' Driving Layup,,Morant BLOCK (1 BLK),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,302,4,0,2,10:13 PM,0:29,Towns REBOUND (Off:1 Def:4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,303,6,2,2,10:13 PM,0:29,,,Jackson Jr. S.FOUL (P2.PN) (S.Foster),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,305,3,11,2,10:14 PM,0:29,Towns Free Throw 1 of 2 (9 PTS),,,49 - 52,3,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,308,3,12,2,10:14 PM,0:29,MISS Towns Free Throw 2 of 2,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,306,8,0,2,10:14 PM,0:29,,,SUB: Jones FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,309,4,0,2,10:14 PM,0:27,,,Morant REBOUND (Off:1 Def:1),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,310,5,1,2,10:15 PM,0:05,Edwards STEAL (1 STL),,Jackson Jr. Bad Pass Turnover (P1.T10),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,312,2,1,2,10:15 PM,0:00,MISS Beverley 20' Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,313,4,0,2,10:15 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,314,13,0,2,10:15 PM,0:00,,End of 2nd Period (10:15 PM EST),,49 - 52,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100156,319,12,0,3,10:30 PM,12:00,,Start of 3rd Period (10:30 PM EST),,49 - 52,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,320,1,1,3,10:31 PM,11:48,Russell 25' 3PT Jump Shot (5 PTS) (Beverley 2 AST),,,49 - 55,6,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,322,2,98,3,10:31 PM,11:32,,,MISS Tillman 5' Cutting Layup Shot,,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,323,4,0,3,10:31 PM,11:30,Towns REBOUND (Off:1 Def:5),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,324,1,75,3,10:31 PM,11:20,Russell 4' Driving Finger Roll Layup (7 PTS) (Edwards 4 AST),,,49 - 57,8,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,327,2,79,3,10:32 PM,10:55,,,MISS Morant 26' 3PT Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,328,4,0,3,10:32 PM,10:54,,,Tillman REBOUND (Off:1 Def:1),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,329,5,11,3,10:32 PM,10:54,,,Grizzlies Turnover: Shot Clock (T#11),,,3,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100156,330,2,5,3,10:32 PM,10:41,MISS Vanderbilt 4' Layup,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,331,4,0,3,10:32 PM,10:38,,,Tillman REBOUND (Off:1 Def:2),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,332,1,75,3,10:33 PM,10:26,,,Brooks 3' Driving Finger Roll Layup (12 PTS),51 - 57,6,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,333,7,5,3,10:33 PM,10:17,,,Jackson Jr. Violation:Kicked Ball (C.Kirkland),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0042100156,334,2,5,3,10:33 PM,10:11,MISS Towns 4' Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,336,1,97,3,10:33 PM,10:07,Vanderbilt Tip Layup Shot (2 PTS),,,51 - 59,8,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,335,4,0,3,10:33 PM,10:07,Vanderbilt REBOUND (Off:2 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,338,1,108,3,10:34 PM,9:52,,,Tillman 2' Cutting Dunk Shot (2 PTS) (Morant 6 AST),53 - 59,6,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,340,6,2,3,10:34 PM,9:40,,,Jackson Jr. S.FOUL (P3.T1) (S.Foster),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,342,3,11,3,10:35 PM,9:40,Towns Free Throw 1 of 2 (10 PTS),,,53 - 60,7,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,343,3,12,3,10:35 PM,9:40,MISS Towns Free Throw 2 of 2,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,344,4,0,3,10:35 PM,9:38,,,Jackson Jr. REBOUND (Off:2 Def:5),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,345,2,6,3,10:35 PM,9:23,Vanderbilt BLOCK (1 BLK),,MISS Jackson Jr. 5' Driving Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042100156,347,4,0,3,10:35 PM,9:21,,,Brooks REBOUND (Off:2 Def:1),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,348,2,101,3,10:36 PM,9:19,,,MISS Brooks 8' Driving Floating Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,349,4,0,3,10:36 PM,9:16,Vanderbilt REBOUND (Off:2 Def:2),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,350,6,2,3,10:36 PM,9:04,,,Tillman S.FOUL (P2.T2) (S.Foster),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,352,3,11,3,10:36 PM,9:04,Edwards Free Throw 1 of 2 (21 PTS),,,53 - 61,8,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,354,3,12,3,10:36 PM,9:04,MISS Edwards Free Throw 2 of 2,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,353,9,1,3,10:37 PM,9:04,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,355,4,0,3,10:36 PM,9:02,,,Jackson Jr. REBOUND (Off:2 Def:6),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,357,2,79,3,10:41 PM,8:45,,,MISS Jackson Jr. 17' Pullup Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,358,4,0,3,10:41 PM,8:42,Russell REBOUND (Off:0 Def:1),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,359,1,3,3,10:41 PM,8:33,Towns 7' Hook Shot (12 PTS) (Beverley 3 AST),,,53 - 63,10,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,361,6,2,3,10:41 PM,8:33,,,Brooks S.FOUL (P2.T3) (M.Lindsay),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,363,8,0,3,10:42 PM,8:33,,,SUB: Clarke FOR Tillman,,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,365,3,10,3,10:42 PM,8:33,Towns Free Throw 1 of 1 (13 PTS),,,53 - 64,11,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,366,5,40,3,10:42 PM,8:23,,,Morant Out of Bounds Lost Ball Turnover (P3.T12),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100156,367,1,1,3,10:43 PM,8:08,Towns 21' Jump Shot (15 PTS) (Russell 4 AST),,,53 - 66,13,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,369,2,1,3,10:43 PM,7:50,,,MISS Jackson Jr. 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,370,4,0,3,10:43 PM,7:47,Towns REBOUND (Off:1 Def:6),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,371,2,1,3,10:43 PM,7:29,MISS Edwards 24' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,372,4,0,3,10:43 PM,7:26,,,Bane REBOUND (Off:0 Def:3),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,373,6,1,3,10:43 PM,7:23,Vanderbilt P.FOUL (P1.T1) (M.Lindsay),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,375,1,1,3,10:44 PM,7:16,,,Brooks 25' 3PT Jump Shot (15 PTS) (Clarke 3 AST),56 - 66,10,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,377,1,1,3,10:44 PM,6:58,Beverley 3PT Jump Shot (6 PTS) (Towns 1 AST),,,56 - 69,13,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,379,1,6,3,10:44 PM,6:47,,,Morant 2' Driving Layup (6 PTS),58 - 69,11,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,380,6,2,3,10:45 PM,6:47,Vanderbilt S.FOUL (P2.T2) (C.Kirkland),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,382,3,10,3,10:45 PM,6:47,,,Morant Free Throw 1 of 1 (7 PTS),59 - 69,10,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,383,2,79,3,10:45 PM,6:30,MISS Russell 21' Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,384,4,0,3,10:45 PM,6:27,,,Jackson Jr. REBOUND (Off:2 Def:7),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,385,1,6,3,10:46 PM,6:21,,,Morant 3' Driving Layup (9 PTS),61 - 69,8,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,386,6,2,3,10:46 PM,6:21,Vanderbilt S.FOUL (P3.T3) (S.Foster),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,388,8,0,3,10:46 PM,6:21,SUB: McDaniels FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,390,3,10,3,10:46 PM,6:21,,,MISS Morant Free Throw 1 of 1,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,391,4,0,3,10:46 PM,6:19,Edwards REBOUND (Off:0 Def:4),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,392,2,6,3,10:46 PM,6:08,MISS Edwards 3' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,393,4,0,3,10:46 PM,6:06,,,Clarke REBOUND (Off:2 Def:4),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,394,6,1,3,10:47 PM,6:05,Russell P.FOUL (P1.T4) (M.Lindsay),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,396,8,0,3,10:47 PM,6:05,,,SUB: Anderson FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,401,1,79,3,10:47 PM,5:48,,,Brooks 16' Pullup Jump Shot (17 PTS),63 - 69,6,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,402,5,1,3,10:47 PM,5:35,Russell Bad Pass Turnover (P2.T7),,Brooks STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,404,2,1,3,10:48 PM,5:22,,,MISS Morant 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,405,4,0,3,10:48 PM,5:20,Towns REBOUND (Off:1 Def:7),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,406,2,57,3,10:48 PM,5:09,MISS Towns 8' Driving Hook Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,407,4,0,3,10:48 PM,5:06,,,Anderson REBOUND (Off:1 Def:2),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,408,1,6,3,10:48 PM,4:58,,,Anderson 3' Driving Layup (2 PTS),65 - 69,4,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,409,9,1,3,10:48 PM,4:58,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,410,8,0,3,10:51 PM,4:58,SUB: McLaughlin FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,412,2,80,3,10:52 PM,4:42,MISS Edwards 16' Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,413,4,0,3,10:52 PM,4:39,,,Morant REBOUND (Off:1 Def:2),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,414,1,1,3,10:52 PM,4:33,,,Brooks 26' 3PT Jump Shot (20 PTS) (Morant 7 AST),68 - 69,1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,416,2,6,3,10:53 PM,4:13,MISS Towns 5' Driving Layup,,Clarke BLOCK (2 BLK),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,418,4,0,3,10:53 PM,4:11,,,Morant REBOUND (Off:1 Def:3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,419,5,1,3,10:53 PM,4:04,McLaughlin STEAL (1 STL),,Morant Bad Pass Turnover (P4.T13),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,421,1,1,3,10:53 PM,3:59,Beverley 3PT Jump Shot (9 PTS) (McLaughlin 2 AST),,,68 - 72,4,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,423,1,78,3,10:53 PM,3:32,,,Anderson 6' Floating Jump Shot (4 PTS),70 - 72,2,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,424,1,44,3,10:54 PM,3:18,McLaughlin 2' Reverse Layup (4 PTS) (Towns 2 AST),,,70 - 74,4,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,426,2,6,3,10:54 PM,3:10,,,MISS Brooks 3' Driving Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,427,4,0,3,10:54 PM,3:10,McDaniels REBOUND (Off:0 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,428,2,1,3,10:54 PM,3:03,MISS Beverley 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,429,4,0,3,10:54 PM,3:02,Edwards REBOUND (Off:1 Def:4),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,430,2,1,3,10:54 PM,3:00,MISS Edwards 5' Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,431,4,0,3,10:54 PM,2:59,,,Morant REBOUND (Off:1 Def:4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,432,6,28,3,10:54 PM,2:58,Beverley Personal Take Foul (P3.PN) (C.Kirkland),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,434,3,11,3,10:54 PM,2:58,,,Morant Free Throw 1 of 2 (10 PTS),71 - 74,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,435,8,0,3,10:54 PM,2:58,SUB: Beasley FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,436,8,0,3,10:54 PM,2:58,,,SUB: Jones FOR Bane,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,439,3,12,3,10:55 PM,2:58,,,Morant Free Throw 2 of 2 (11 PTS),72 - 74,2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,440,1,1,3,10:55 PM,2:43,McDaniels 3PT Jump Shot (13 PTS) (Towns 3 AST),,,72 - 77,5,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,442,2,78,3,10:55 PM,2:26,,,MISS Clarke 6' Floating Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,443,4,0,3,10:55 PM,2:24,McLaughlin REBOUND (Off:0 Def:2),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,444,6,28,3,10:55 PM,2:24,,,Brooks Personal Take Foul (P3.T4) (C.Kirkland),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,446,1,7,3,10:56 PM,2:12,McDaniels 1' Dunk (15 PTS),,,72 - 79,7,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,448,5,1,3,10:56 PM,1:56,Edwards STEAL (2 STL),,Morant Bad Pass Turnover (P5.T14),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,450,1,108,3,10:56 PM,1:51,McDaniels 2' Cutting Dunk Shot (17 PTS) (Beasley 1 AST),,,72 - 81,9,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,452,9,1,3,10:57 PM,1:51,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,453,8,0,3,10:58 PM,1:51,SUB: Monroe FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,454,8,0,3,10:58 PM,1:51,,,SUB: Jackson Jr. FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,455,8,0,3,10:58 PM,1:51,,,SUB: Konchar FOR Morant,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,456,8,0,3,10:58 PM,1:51,,,SUB: Bane FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,461,5,1,3,10:59 PM,1:38,Monroe STEAL (2 STL),,Bane Bad Pass Turnover (P4.T15),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,463,6,1,3,10:59 PM,1:35,,,Jones P.FOUL (P1.PN) (M.Lindsay),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,465,3,11,3,10:59 PM,1:35,McLaughlin Free Throw 1 of 2 (5 PTS),,,72 - 82,10,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,466,3,12,3,10:59 PM,1:35,MISS McLaughlin Free Throw 2 of 2,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,467,4,0,3,10:59 PM,1:33,,,Jackson Jr. REBOUND (Off:2 Def:8),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,468,2,6,3,11:00 PM,1:17,,,MISS Jackson Jr. 5' Driving Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,469,4,0,3,11:00 PM,1:16,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,471,1,6,3,11:00 PM,1:00,Edwards 3' Driving Layup (23 PTS) (Monroe 1 AST),,,72 - 84,12,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,473,2,6,3,11:00 PM,0:48,,,MISS Bane 3' Driving Layup,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,474,4,0,3,11:00 PM,0:47,,,Clarke REBOUND (Off:3 Def:4),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,475,6,2,3,11:01 PM,0:47,McDaniels S.FOUL (P1.PN) (S.Foster),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,477,3,11,3,11:01 PM,0:47,,,Clarke Free Throw 1 of 2 (13 PTS),73 - 84,11,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,478,3,12,3,11:01 PM,0:47,,,Clarke Free Throw 2 of 2 (14 PTS),74 - 84,10,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,479,2,5,3,11:02 PM,0:34,MISS Monroe 3' Layup,,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,480,4,0,3,11:02 PM,0:32,,,Konchar REBOUND (Off:0 Def:4),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,481,2,1,3,11:02 PM,0:13,,,MISS Konchar 24' 3PT Jump Shot,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,482,4,0,3,11:02 PM,0:10,McLaughlin REBOUND (Off:0 Def:3),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,483,2,6,3,11:02 PM,0:01,MISS Edwards 4' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,484,4,0,3,11:02 PM,0:00,,,Konchar REBOUND (Off:0 Def:5),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,485,13,0,3,11:02 PM,0:00,,End of 3rd Period (11:02 PM EST),,74 - 84,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100156,490,12,0,4,11:06 PM,12:00,,Start of 4th Period (11:06 PM EST),,74 - 84,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,491,2,101,4,11:06 PM,11:46,,,MISS Clarke 5' Driving Floating Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,492,4,0,4,11:06 PM,11:42,,,Jackson Jr. REBOUND (Off:3 Def:8),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,493,2,107,4,11:06 PM,11:42,,,MISS Jackson Jr. Tip Dunk Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,494,4,0,4,11:06 PM,11:42,Towns REBOUND (Off:1 Def:8),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,522,5,1,4,11:06 PM,11:42,Towns Bad Pass Turnover (P2.T8),,Konchar STEAL (1 STL),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,495,1,1,4,11:06 PM,11:36,,,Jackson Jr. 26' 3PT Jump Shot (9 PTS) (Jones 4 AST),77 - 84,7,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,496,2,1,4,11:07 PM,11:18,MISS Towns 24' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,497,4,0,4,11:07 PM,11:14,,,Bane REBOUND (Off:0 Def:4),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,498,1,1,4,11:07 PM,11:11,,,Jones 26' 3PT Jump Shot (5 PTS),80 - 84,4,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,499,2,1,4,11:07 PM,10:52,MISS Beasley 24' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,500,4,0,4,11:07 PM,10:51,,,Bane REBOUND (Off:0 Def:5),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,501,5,1,4,11:07 PM,10:39,Beverley STEAL (1 STL),,Jones Bad Pass Turnover (P1.T16),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,503,6,2,4,11:07 PM,10:32,,,Konchar S.FOUL (P2.T1) (S.Foster),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,505,3,11,4,11:08 PM,10:32,Beverley Free Throw 1 of 2 (10 PTS),,,80 - 85,5,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,506,3,12,4,11:08 PM,10:32,MISS Beverley Free Throw 2 of 2,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,507,4,0,4,11:08 PM,10:31,,,Konchar REBOUND (Off:0 Def:6),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,508,6,2,4,11:08 PM,10:20,Beverley S.FOUL (P4.T1) (S.Foster),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,510,3,11,4,11:09 PM,10:20,,,Clarke Free Throw 1 of 2 (15 PTS),81 - 85,4,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,511,3,12,4,11:09 PM,10:20,,,Clarke Free Throw 2 of 2 (16 PTS),82 - 85,3,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,512,1,6,4,11:09 PM,10:08,McLaughlin 3' Driving Layup (7 PTS),,,82 - 87,5,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,513,1,6,4,11:10 PM,9:55,,,Jackson Jr. 3' Driving Layup (11 PTS),84 - 87,3,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,514,1,108,4,11:10 PM,9:38,McDaniels 2' Cutting Dunk Shot (19 PTS) (McLaughlin 3 AST),,,84 - 89,5,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,516,2,1,4,11:10 PM,9:24,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,517,4,0,4,11:10 PM,9:20,McLaughlin REBOUND (Off:0 Def:4),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,518,1,108,4,11:10 PM,9:10,Towns 1' Cutting Dunk Shot (17 PTS) (McLaughlin 4 AST),,,84 - 91,7,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,520,9,1,4,11:10 PM,9:10,,,Grizzlies Timeout: Regular (Reg.5 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,524,8,0,4,11:14 PM,9:10,,,SUB: Brooks FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,525,8,0,4,11:14 PM,9:10,,,SUB: Morant FOR Konchar,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,528,1,6,4,11:15 PM,8:47,,,Bane 2' Driving Layup (17 PTS) (Brooks 2 AST),86 - 91,5,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,530,6,2,4,11:15 PM,8:31,,,Brooks S.FOUL (P4.T2) (C.Kirkland),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,532,3,11,4,11:16 PM,8:31,MISS Towns Free Throw 1 of 2,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,533,4,1,4,11:16 PM,8:31,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,534,3,12,4,11:16 PM,8:31,Towns Free Throw 2 of 2 (18 PTS),,,86 - 92,6,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,535,1,108,4,11:16 PM,8:13,,,Jackson Jr. 3' Cutting Dunk Shot (13 PTS) (Morant 8 AST),88 - 92,4,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,537,2,79,4,11:17 PM,7:57,MISS McLaughlin 24' 3PT Pullup Jump Shot,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,538,4,0,4,11:17 PM,7:54,,,Jackson Jr. REBOUND (Off:3 Def:9),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,539,6,2,4,11:17 PM,7:42,Beasley S.FOUL (P1.T2) (C.Kirkland),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,541,3,11,4,11:17 PM,7:42,,,Jackson Jr. Free Throw 1 of 2 (14 PTS),89 - 92,3,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,546,3,12,4,11:17 PM,7:42,,,MISS Jackson Jr. Free Throw 2 of 2,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,542,8,0,4,11:17 PM,7:42,SUB: Edwards FOR Beasley,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,543,8,0,4,11:17 PM,7:42,SUB: Russell FOR McLaughlin,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,547,4,0,4,11:17 PM,7:40,McDaniels REBOUND (Off:0 Def:3),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,548,2,80,4,11:18 PM,7:18,MISS Towns 19' Step Back Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,549,4,0,4,11:18 PM,7:16,McDaniels REBOUND (Off:1 Def:3),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,550,6,2,4,11:18 PM,7:16,,,Jackson Jr. S.FOUL (P4.T3) (C.Kirkland),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,552,3,11,4,11:19 PM,7:16,McDaniels Free Throw 1 of 2 (20 PTS),,,89 - 93,4,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,553,3,12,4,11:19 PM,7:16,McDaniels Free Throw 2 of 2 (21 PTS),,,89 - 94,5,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,554,1,78,4,11:19 PM,7:02,,,Jones 12' Floating Jump Shot (7 PTS) (Morant 9 AST),91 - 94,3,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,556,5,2,4,11:20 PM,6:44,Russell Lost Ball Turnover (P3.T9),,Jones STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,558,5,1,4,11:20 PM,6:41,Beverley STEAL (2 STL),,Jones Bad Pass Turnover (P2.T17),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,560,6,1,4,11:20 PM,6:26,,,Brooks P.FOUL (P5.T4) (S.Foster),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,562,8,0,4,11:20 PM,6:26,,,SUB: Clarke FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,564,9,1,4,11:21 PM,6:26,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,565,5,2,4,11:24 PM,6:15,Beverley Lost Ball Turnover (P2.T10),,Jackson Jr. STEAL (1 STL),,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,567,2,1,4,11:24 PM,6:10,,,MISS Bane 25' 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,568,4,0,4,11:24 PM,6:04,,,Bane REBOUND (Off:1 Def:5),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,569,1,1,4,11:24 PM,6:04,,,Bane 26' 3PT Jump Shot (20 PTS),94 - 94,TIE,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,570,1,79,4,11:25 PM,5:42,Edwards 24' 3PT Pullup Jump Shot (26 PTS),,,94 - 97,3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,571,6,4,4,11:25 PM,5:33,,,Bane OFF.Foul (P2) (C.Kirkland),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,573,5,37,4,11:25 PM,5:33,,,Bane Offensive Foul Turnover (P5.T18),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100156,574,5,1,4,11:25 PM,5:24,Russell Bad Pass Turnover (P4.T11),,Bane STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,576,1,1,4,11:26 PM,5:19,,,Brooks 25' 3PT Jump Shot (23 PTS) (Morant 10 AST),97 - 97,TIE,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,578,2,6,4,11:26 PM,4:59,MISS Edwards 2' Driving Layup,,Clarke BLOCK (3 BLK),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100156,580,4,0,4,11:26 PM,4:56,,,Clarke REBOUND (Off:3 Def:5),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,581,6,26,4,11:26 PM,4:53,,,Brooks Offensive Charge Foul (P6) (M.Lindsay),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,583,5,37,4,11:26 PM,4:53,,,Brooks Offensive Foul Turnover (P1.T19),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100156,584,8,0,4,11:26 PM,4:53,,,SUB: Jones FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,586,8,0,4,11:26 PM,4:53,SUB: McLaughlin FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,588,6,2,4,11:27 PM,4:37,,,Jackson Jr. S.FOUL (P5.PN) (C.Kirkland),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042100156,590,3,11,4,11:28 PM,4:37,Edwards Free Throw 1 of 2 (27 PTS),,,97 - 98,1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,591,3,12,4,11:28 PM,4:37,Edwards Free Throw 2 of 2 (28 PTS),,,97 - 99,2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,592,2,79,4,11:29 PM,4:13,,,MISS Jones 27' 3PT Pullup Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,593,4,0,4,11:29 PM,4:10,Towns REBOUND (Off:1 Def:9),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,594,2,80,4,11:29 PM,4:01,MISS Edwards 26' 3PT Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,595,4,0,4,11:29 PM,3:59,,,Jackson Jr. REBOUND (Off:3 Def:10),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,596,6,1,4,11:29 PM,3:54,Towns P.FOUL (P3.T3) (S.Foster),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,598,6,14,4,11:30 PM,3:46,Towns FLAGRANT.FOUL.TYPE1 (P4.T4) (C.Kirkland),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,600,18,1,4,11:30 PM,3:46,,Instant Replay4th Period (11:30 PM EST),,97 - 99,2,0,598,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100156,601,3,18,4,11:32 PM,3:46,,,Clarke Free Throw Flagrant 1 of 2 (17 PTS),98 - 99,1,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,602,3,19,4,11:32 PM,3:46,,,MISS Clarke Free Throw Flagrant 2 of 2,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,603,4,1,4,11:32 PM,3:46,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,605,2,47,4,11:33 PM,3:35,Towns BLOCK (1 BLK),,MISS Morant 7' Turnaround Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042100156,607,4,0,4,11:33 PM,3:31,,,Morant REBOUND (Off:2 Def:4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,608,2,5,4,11:33 PM,3:30,,,MISS Morant 2' Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,609,4,0,4,11:33 PM,3:29,,,Clarke REBOUND (Off:4 Def:5),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,610,2,5,4,11:33 PM,3:28,McDaniels BLOCK (1 BLK),,MISS Clarke 3' Layup,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042100156,612,4,0,4,11:33 PM,3:28,Beverley REBOUND (Off:0 Def:4),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,613,9,1,4,11:34 PM,3:25,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,614,2,47,4,11:35 PM,3:19,MISS Towns 19' Turnaround Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,615,4,0,4,11:35 PM,3:18,,,Clarke REBOUND (Off:4 Def:6),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,616,1,1,4,11:35 PM,3:03,,,Bane 24' 3PT Jump Shot (23 PTS) (Clarke 4 AST),101 - 99,-2,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,618,2,47,4,11:36 PM,2:49,MISS Edwards 7' Turnaround Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,619,4,0,4,11:36 PM,2:47,,,Morant REBOUND (Off:2 Def:5),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,620,2,1,4,11:36 PM,2:43,,,MISS Jones 3PT Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,621,4,0,4,11:36 PM,2:41,,,Clarke REBOUND (Off:5 Def:6),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,622,2,1,4,11:36 PM,2:36,,,MISS Jones 3PT Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,623,4,0,4,11:36 PM,2:33,,,Morant REBOUND (Off:3 Def:5),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,624,1,6,4,11:36 PM,2:25,,,Morant 3' Driving Layup (13 PTS),103 - 99,-4,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,625,2,1,4,11:36 PM,2:14,MISS Towns 27' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,626,4,0,4,11:36 PM,2:12,,,Jones REBOUND (Off:0 Def:1),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,627,2,1,4,11:37 PM,1:51,,,MISS Morant 28' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,628,4,0,4,11:37 PM,1:48,McLaughlin REBOUND (Off:0 Def:5),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,629,1,1,4,11:37 PM,1:34,McDaniels 25' 3PT Jump Shot (24 PTS) (Towns 4 AST),,,103 - 102,-1,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,631,1,1,4,11:37 PM,1:09,,,Jones 26' 3PT Jump Shot (10 PTS) (Morant 11 AST),106 - 102,-4,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,633,9,1,4,11:38 PM,1:09,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,635,1,6,4,11:40 PM,0:57,McLaughlin 2' Driving Layup (9 PTS) (Edwards 5 AST),,,106 - 104,-2,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042100156,637,1,7,4,11:40 PM,0:36,,,Jackson Jr. 1' Dunk (16 PTS) (Clarke 5 AST),108 - 104,-4,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100156,639,2,80,4,11:40 PM,0:26,MISS Beverley 24' 3PT Step Back Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,640,4,0,4,11:40 PM,0:24,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,642,9,1,4,11:41 PM,0:24,,,Grizzlies Timeout: Regular (Reg.6 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,643,8,0,4,11:42 PM,0:24,SUB: Vanderbilt FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,644,8,0,4,11:42 PM,0:24,,,SUB: Anderson FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,647,6,28,4,11:42 PM,0:20,Beverley Personal Take Foul (P5.PN) (S.Foster),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,649,3,11,4,11:43 PM,0:20,,,Morant Free Throw 1 of 2 (14 PTS),109 - 104,-5,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,650,8,0,4,11:43 PM,0:20,SUB: Monroe FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,651,8,0,4,11:43 PM,0:20,SUB: Towns FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,652,8,0,4,11:43 PM,0:20,,,SUB: Clarke FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,656,3,12,4,11:44 PM,0:20,,,Morant Free Throw 2 of 2 (15 PTS),110 - 104,-6,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,657,9,1,4,11:44 PM,0:20,TIMBERWOLVES Timeout: Regular (Full 7 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,658,8,0,4,11:44 PM,0:20,SUB: McDaniels FOR Monroe,,,,,4,202328,Greg Monroe,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,659,8,0,4,11:44 PM,0:20,,,SUB: Anderson FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,662,2,1,4,11:45 PM,0:18,MISS Edwards 24' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,663,4,0,4,11:45 PM,0:15,,,Jackson Jr. REBOUND (Off:3 Def:11),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,664,6,28,4,11:46 PM,0:15,Beverley Personal Take Foul (P6.PN) (C.Kirkland),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,666,8,0,4,11:46 PM,0:15,SUB: Beasley FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042100156,668,3,11,4,11:46 PM,0:15,,,Jackson Jr. Free Throw 1 of 2 (17 PTS),111 - 104,-7,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,669,3,12,4,11:47 PM,0:15,,,Jackson Jr. Free Throw 2 of 2 (18 PTS),112 - 104,-8,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,670,1,6,4,11:47 PM,0:09,Edwards 3' Driving Layup (30 PTS),,,112 - 106,-6,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,672,8,0,4,11:47 PM,0:08,,,SUB: Jones FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,674,6,28,4,11:47 PM,0:06,Edwards Personal Take Foul (P3.PN) (M.Lindsay),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100156,676,3,11,4,11:48 PM,0:06,,,Morant Free Throw 1 of 2 (16 PTS),113 - 106,-7,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,677,8,0,4,11:48 PM,0:06,,,SUB: Clarke FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100156,679,3,12,4,11:48 PM,0:06,,,Morant Free Throw 2 of 2 (17 PTS),114 - 106,-8,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100156,680,2,79,4,11:48 PM,0:01,MISS Edwards 26' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042100156,681,4,0,4,11:48 PM,0:01,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100156,682,13,0,4,11:49 PM,0:00,,End of 4th Period (11:49 PM EST),,114 - 106,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

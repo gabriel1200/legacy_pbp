@@ -1,0 +1,486 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300774,2,12,0,1,10:08 PM,12:00,,Start of 1st Period (10:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,4,10,0,1,10:08 PM,12:00,Jump Ball Nurkic vs. Sabonis: Tip to Beal,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,7,2,5,1,10:09 PM,11:37,MISS Nurkic 3' Layup,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,8,4,0,1,10:09 PM,11:35,,,Murray REBOUND (Off:0 Def:1),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,13,2,1,1,10:09 PM,11:16,,,MISS Sabonis 25' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,14,4,0,1,10:09 PM,11:12,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,16,2,102,1,10:10 PM,10:54,MISS Booker 14' Driving Floating Bank Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,17,4,0,1,10:10 PM,10:52,Nurkic REBOUND (Off:1 Def:0),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,18,2,72,1,10:10 PM,10:51,MISS Nurkic 3' Putback Layup,,Sabonis BLOCK (1 BLK),,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0022300774,20,4,0,1,10:10 PM,10:47,,,Huerter REBOUND (Off:0 Def:1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,21,1,2,1,10:10 PM,10:43,,,Fox 3PT Running Jump Shot (3 PTS) (Sabonis 1 AST),3 - 0,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,23,1,63,1,10:10 PM,10:21,Durant 15' Fadeaway Jumper (2 PTS),,,3 - 2,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,24,10,0,1,10:11 PM,10:08,Jump Ball Nurkic vs. Fox: Tip to Booker,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,27,5,2,1,10:11 PM,10:08,Nurkic STEAL (1 STL),,Fox Lost Ball Turnover (P1.T1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,29,6,1,1,10:11 PM,10:05,,,Huerter P.FOUL (P1.T1) (B.Forte),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,31,1,108,1,10:11 PM,10:01,Nurkic 1' Cutting Dunk Shot (2 PTS) (Allen 1 AST),,,3 - 4,1,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,33,2,101,1,10:11 PM,9:45,,,MISS Murray 6' Driving Floating Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,34,4,0,1,10:12 PM,9:43,Nurkic REBOUND (Off:1 Def:1),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,35,2,79,1,10:12 PM,9:35,MISS Booker 18' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,36,4,0,1,10:12 PM,9:32,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,37,1,2,1,10:12 PM,9:29,,,Huerter 27' 3PT Running Jump Shot (3 PTS) (Fox 1 AST),6 - 4,-2,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,39,1,1,1,10:12 PM,9:14,Beal 3PT Jump Shot (3 PTS) (Durant 1 AST),,,6 - 7,1,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,41,1,9,1,10:12 PM,8:57,,,Murray 1' Driving Dunk (2 PTS) (Sabonis 2 AST),8 - 7,-1,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,43,1,1,1,10:13 PM,8:38,Durant 25' 3PT Jump Shot (5 PTS) (Allen 2 AST),,,8 - 10,2,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,45,2,80,1,10:13 PM,8:17,,,MISS Murray 21' Step Back Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,46,4,0,1,10:13 PM,8:14,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,48,1,1,1,10:13 PM,8:08,Beal 17' Jump Shot (5 PTS) (Booker 1 AST),,,8 - 12,4,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,50,1,1,1,10:14 PM,7:54,,,Fox 24' 3PT Jump Shot (6 PTS) (Sabonis 3 AST),11 - 12,1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,52,1,63,1,10:14 PM,7:40,Booker 9' Fadeaway Jumper (2 PTS),,,11 - 14,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,53,5,40,1,10:14 PM,7:21,,,Sabonis Out of Bounds Lost Ball Turnover (P1.T2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022300774,54,8,0,1,10:14 PM,7:21,SUB: Gordon FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,56,1,98,1,10:15 PM,7:13,Gordon 1' Cutting Layup Shot (2 PTS) (Nurkic 1 AST),,,11 - 16,5,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,58,6,2,1,10:15 PM,7:13,,,Huerter S.FOUL (P2.T2) (D.Richardson),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,60,3,10,1,10:15 PM,7:13,Gordon Free Throw 1 of 1 (3 PTS),,,11 - 17,6,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,61,2,73,1,10:16 PM,7:02,,,MISS Barnes 2' Driving Reverse Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,62,4,0,1,10:16 PM,6:59,,,Sabonis REBOUND (Off:2 Def:0),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,63,2,97,1,10:16 PM,6:59,,,MISS Sabonis Tip Layup Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,64,4,0,1,10:16 PM,6:59,,,Sabonis REBOUND (Off:2 Def:0),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,65,1,72,1,10:16 PM,6:58,,,Sabonis 1' Putback Layup (2 PTS),13 - 17,4,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,66,1,1,1,10:16 PM,6:49,Gordon 3PT Jump Shot (6 PTS) (Booker 2 AST),,,13 - 20,7,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,68,1,79,1,10:16 PM,6:40,,,Fox 6' Pullup Jump Shot (8 PTS),15 - 20,5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,69,5,1,1,10:16 PM,6:29,Nurkic Bad Pass Turnover (P1.T1),,Fox STEAL (1 STL),,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,71,2,103,1,10:16 PM,6:25,,,MISS Murray 25' 3PT Running Pull-Up Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,72,4,0,1,10:16 PM,6:21,Durant REBOUND (Off:0 Def:1),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,73,5,1,1,10:16 PM,6:11,Durant Bad Pass Turnover (P1.T2),,Fox STEAL (2 STL),,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,75,1,50,1,10:16 PM,6:08,,,Fox 1' Running Dunk (10 PTS),17 - 20,3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,76,9,1,1,10:17 PM,6:08,SUNS Timeout: Regular (Full 1 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,77,1,6,1,10:20 PM,6:00,Allen 3' Driving Layup (2 PTS),,,17 - 22,5,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,78,1,1,1,10:20 PM,5:48,,,Huerter 25' 3PT Jump Shot (6 PTS) (Fox 2 AST),20 - 22,2,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,80,1,1,1,10:21 PM,5:38,Allen 26' 3PT Jump Shot (5 PTS) (Booker 3 AST),,,20 - 25,5,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,82,2,1,1,10:21 PM,5:23,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,83,4,0,1,10:21 PM,5:23,Nurkic REBOUND (Off:1 Def:2),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,84,6,1,1,10:21 PM,5:17,,,Murray P.FOUL (P1.T3) (D.Richardson),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,86,8,0,1,10:21 PM,5:17,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,87,8,0,1,10:21 PM,5:17,,,SUB: Monk FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,91,2,6,1,10:22 PM,5:07,MISS Gordon 6' Driving Layup,,Sabonis BLOCK (2 BLK),,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0022300774,93,4,0,1,10:22 PM,5:07,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,96,1,79,1,10:22 PM,5:00,Gordon 12' Pullup Jump Shot (8 PTS) (Nurkic 2 AST),,,20 - 27,7,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,97,2,1,1,10:22 PM,4:44,,,MISS Sabonis 24' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,98,4,0,1,10:22 PM,4:42,Allen REBOUND (Off:0 Def:1),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,99,1,6,1,10:23 PM,4:35,Allen 1' Driving Layup (7 PTS),,,20 - 29,9,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,100,1,79,1,10:23 PM,4:22,,,Monk 19' Pullup Jump Shot (2 PTS) (Sabonis 4 AST),22 - 29,7,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,102,2,79,1,10:23 PM,4:04,MISS Booker 20' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,103,4,0,1,10:23 PM,4:01,,,Sabonis REBOUND (Off:2 Def:1),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,104,1,58,1,10:23 PM,3:53,,,Sabonis 3' Turnaround Hook Shot (4 PTS),24 - 29,5,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,105,1,98,1,10:24 PM,3:36,Nurkic 1' Cutting Layup Shot (4 PTS) (Durant 2 AST),,,24 - 31,7,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,107,6,2,1,10:24 PM,3:36,,,Mitchell S.FOUL (P1.T4) (B.Forte),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,109,8,0,1,10:24 PM,3:36,SUB: O'Neale FOR Durant,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,111,3,10,1,10:24 PM,3:36,MISS Nurkic Free Throw 1 of 1,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,112,4,0,1,10:24 PM,3:32,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,113,6,2,1,10:24 PM,3:27,Allen S.FOUL (P1.T1) (B.Forte),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,115,3,11,1,10:25 PM,3:27,,,Sabonis Free Throw 1 of 2 (5 PTS),25 - 31,6,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,116,8,0,1,10:25 PM,3:27,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,118,3,12,1,10:25 PM,3:27,,,Sabonis Free Throw 2 of 2 (6 PTS),26 - 31,5,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,119,6,2,1,10:25 PM,3:11,,,Murray S.FOUL (P2.PN) (D.Richardson),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,121,3,11,1,10:26 PM,3:11,Booker Free Throw 1 of 2 (3 PTS),,,26 - 32,6,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,128,3,12,1,10:26 PM,3:11,MISS Booker Free Throw 2 of 2,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,122,8,0,1,10:26 PM,3:11,,,SUB: Ellis FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,124,9,1,1,10:26 PM,3:11,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,129,4,0,1,10:26 PM,3:08,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,130,1,101,1,10:30 PM,2:54,,,Monk 11' Driving Floating Jump Shot (4 PTS) (Sabonis 5 AST),28 - 32,4,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,132,2,1,1,10:30 PM,2:34,MISS Allen 27' 3PT Jump Shot,,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,133,4,0,1,10:30 PM,2:30,,,Ellis REBOUND (Off:0 Def:1),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,134,1,58,1,10:31 PM,2:20,,,Sabonis 5' Turnaround Hook Shot (8 PTS),30 - 32,2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,135,5,4,1,10:31 PM,2:10,Allen Traveling Turnover (P1.T3),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300774,136,8,0,1,10:31 PM,2:10,SUB: Okogie FOR Allen,,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,137,8,0,1,10:31 PM,2:10,,,SUB: Fox FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,138,8,0,1,10:31 PM,2:10,,,SUB: Huerter FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,142,5,40,1,10:31 PM,1:56,,,Monk Out of Bounds Lost Ball Turnover (P1.T3),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022300774,143,1,9,1,10:32 PM,1:41,Eubanks 1' Driving Dunk (2 PTS) (Gordon 1 AST),,,30 - 34,4,4,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,145,1,98,1,10:32 PM,1:27,,,Sabonis 1' Cutting Layup Shot (10 PTS) (Monk 1 AST),32 - 34,2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,147,6,2,1,10:32 PM,1:27,Booker S.FOUL (P1.T2) (B.Forte),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,149,3,10,1,10:33 PM,1:27,,,Sabonis Free Throw 1 of 1 (11 PTS),33 - 34,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,150,1,102,1,10:33 PM,1:06,Gordon 3' Driving Floating Bank Jump Shot (10 PTS) (O'Neale 1 AST),,,33 - 36,3,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,152,7,1,1,10:33 PM,1:06,SUNS Violation: Delay of game Violation,,,,,2,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300774,153,6,2,1,10:33 PM,0:54,O'Neale S.FOUL (P1.PN) (D.Richardson),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,155,3,11,1,10:34 PM,0:54,,,Sabonis Free Throw 1 of 2 (12 PTS),34 - 36,2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,156,3,12,1,10:34 PM,0:54,,,Sabonis Free Throw 2 of 2 (13 PTS),35 - 36,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,157,5,2,1,10:34 PM,0:46,Okogie Lost Ball Turnover (P1.T4),,Sabonis STEAL (1 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,159,1,50,1,10:35 PM,0:43,,,Fox 1' Running Dunk (12 PTS) (Sabonis 6 AST),37 - 36,-1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,161,6,1,1,10:35 PM,0:33,,,Ellis P.FOUL (P1.PN) (D.Richardson),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,163,3,11,1,10:35 PM,0:33,Booker Free Throw 1 of 2 (4 PTS),,,37 - 37,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,164,8,0,1,10:35 PM,0:33,,,SUB: Len FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,166,3,12,1,10:36 PM,0:33,Booker Free Throw 2 of 2 (5 PTS),,,37 - 38,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,167,1,63,1,10:36 PM,0:16,,,Huerter 10' Fadeaway Jumper (8 PTS),39 - 38,-1,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,169,8,0,1,10:36 PM,0:02,,,SUB: Edwards FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,171,2,63,1,10:37 PM,0:00,MISS O'Neale 21' Fadeaway Jumper,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,172,4,0,1,10:37 PM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,173,13,0,1,10:37 PM,0:00,,End of 1st Period (10:37 PM EST),,39 - 38,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300774,182,12,0,2,10:41 PM,12:00,,Start of 2nd Period (10:41 PM EST),,39 - 38,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,183,1,86,2,10:41 PM,11:43,,,Fox 7' Turnaround Fadeaway (14 PTS),41 - 38,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,184,1,86,2,10:41 PM,11:21,Durant 14' Turnaround Fadeaway (7 PTS) (Allen 3 AST),,,41 - 40,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,186,6,2,2,10:41 PM,11:08,Nurkic S.FOUL (P1.T1) (B.Forte),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,188,3,11,2,10:42 PM,11:08,,,Monk Free Throw 1 of 2 (5 PTS),42 - 40,-2,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022300774,189,3,12,2,10:42 PM,11:08,,,Monk Free Throw 2 of 2 (6 PTS),43 - 40,-3,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,190,2,1,2,10:42 PM,10:56,MISS O'Neale 26' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,191,4,0,2,10:42 PM,10:54,,,Edwards REBOUND (Off:0 Def:1),,,5,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,192,2,80,2,10:43 PM,10:47,,,MISS Fox 25' 3PT Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,193,4,0,2,10:43 PM,10:43,Nurkic REBOUND (Off:1 Def:3),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,194,6,1,2,10:43 PM,10:38,,,Edwards P.FOUL (P1.T1) (B.Forte),,,5,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,196,6,2,2,10:43 PM,10:30,,,Edwards S.FOUL (P2.T2) (C.Blair),,,5,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,198,3,11,2,10:44 PM,10:30,Durant Free Throw 1 of 2 (8 PTS),,,43 - 41,-2,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,199,3,12,2,10:44 PM,10:30,Durant Free Throw 2 of 2 (9 PTS),,,43 - 42,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,200,5,1,2,10:44 PM,10:11,O'Neale STEAL (1 STL),,Fox Bad Pass Turnover (P2.T4),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,202,1,63,2,10:44 PM,9:58,Durant 12' Fadeaway Jumper (11 PTS),,,43 - 44,1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,203,9,1,2,10:44 PM,9:55,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,204,8,0,2,10:48 PM,9:55,,,SUB: Barnes FOR Edwards,,,5,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,206,6,1,2,10:48 PM,9:43,Durant P.FOUL (P1.T2) (B.Forte),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,208,2,80,2,10:49 PM,9:30,,,MISS Monk 27' 3PT Step Back Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,209,4,0,2,10:49 PM,9:27,,,Len REBOUND (Off:1 Def:0),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,210,1,80,2,10:49 PM,9:23,,,Fox 24' 3PT Step Back Jump Shot (17 PTS) (Huerter 1 AST),46 - 44,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,212,5,1,2,10:49 PM,9:07,Allen Bad Pass Turnover (P2.T5),,Len STEAL (1 STL),,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,214,1,41,2,10:49 PM,9:02,,,Huerter 3' Running Layup (10 PTS) (Fox 3 AST),48 - 44,-4,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,216,2,1,2,10:50 PM,8:51,MISS Allen 26' 3PT Jump Shot,,Monk BLOCK (1 BLK),,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1
+0022300774,218,4,0,2,10:50 PM,8:51,,,Len REBOUND (Off:1 Def:1),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,219,6,1,2,10:50 PM,8:36,Nurkic P.FOUL (P2.T3) (C.Blair),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,221,2,1,2,10:50 PM,8:23,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,222,4,0,2,10:50 PM,8:18,Okogie REBOUND (Off:0 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,223,6,2,2,10:51 PM,8:10,,,Len S.FOUL (P1.T3) (C.Blair),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,225,3,11,2,10:51 PM,8:10,MISS O'Neale Free Throw 1 of 2,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,226,4,1,2,10:51 PM,8:10,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,227,8,0,2,10:51 PM,8:10,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,228,8,0,2,10:51 PM,8:10,,,SUB: Murray FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,229,8,0,2,10:51 PM,8:10,,,SUB: Mitchell FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,230,8,0,2,10:51 PM,8:10,,,SUB: Sabonis FOR Len,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,235,8,0,2,10:51 PM,8:10,SUB: Bol FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,237,3,12,2,10:52 PM,8:10,O'Neale Free Throw 2 of 2 (1 PTS),,,48 - 45,-3,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,238,1,98,2,10:52 PM,7:45,,,Sabonis 2' Cutting Layup Shot (15 PTS) (Murray 1 AST),50 - 45,-5,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,240,2,1,2,10:52 PM,7:34,MISS Bol 26' 3PT Jump Shot,,,,,4,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,241,4,0,2,10:52 PM,7:34,,,Barnes REBOUND (Off:0 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,242,1,50,2,10:52 PM,7:25,,,Monk 1' Running Dunk (8 PTS) (Mitchell 1 AST),52 - 45,-7,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,244,9,1,2,10:53 PM,7:24,SUNS Timeout: Regular (Full 2 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,245,8,0,2,10:55 PM,7:24,SUB: Booker FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,247,1,98,2,10:56 PM,7:03,Allen 2' Cutting Layup Shot (9 PTS) (Eubanks 1 AST),,,52 - 47,-5,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,249,1,102,2,10:57 PM,6:45,,,Monk 12' Driving Floating Bank Jump Shot (10 PTS) (Sabonis 7 AST),54 - 47,-7,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,251,2,79,2,10:57 PM,6:29,MISS Booker 18' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,252,4,0,2,10:57 PM,6:29,,,Sabonis REBOUND (Off:2 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,253,1,79,2,10:57 PM,6:13,,,Monk 19' Pullup Jump Shot (12 PTS),56 - 47,-9,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,254,5,1,2,10:57 PM,5:59,Booker Bad Pass Turnover (P1.T6),,Monk STEAL (1 STL),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,256,1,41,2,10:58 PM,5:54,,,Monk 2' Running Layup (14 PTS),58 - 47,-11,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,257,9,1,2,10:58 PM,5:53,SUNS Timeout: Regular (Full 3 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,258,8,0,2,10:59 PM,5:53,SUB: O'Neale FOR Allen,,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,259,8,0,2,10:59 PM,5:53,SUB: Nurkic FOR Bol,,,,,4,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,260,8,0,2,10:59 PM,5:53,SUB: Okogie FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,261,8,0,2,10:59 PM,5:53,SUB: Gordon FOR Durant,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,266,2,1,2,10:59 PM,5:41,MISS O'Neale 25' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,267,4,0,2,10:59 PM,5:38,Booker REBOUND (Off:1 Def:0),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,268,6,2,2,11:00 PM,5:26,,,Monk S.FOUL (P1.T4) (D.Richardson),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,270,3,11,2,11:00 PM,5:26,Okogie Free Throw 1 of 2 (1 PTS),,,58 - 48,-10,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,271,3,12,2,11:00 PM,5:26,Okogie Free Throw 2 of 2 (2 PTS),,,58 - 49,-9,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,272,2,1,2,11:01 PM,5:05,,,MISS Mitchell 25' 3PT Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,273,4,0,2,11:01 PM,5:01,Nurkic REBOUND (Off:1 Def:4),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,276,8,0,2,11:01 PM,4:55,,,SUB: Huerter FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,277,8,0,2,11:01 PM,4:55,,,SUB: Fox FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,280,2,1,2,11:02 PM,4:52,MISS Booker 19' Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,281,4,0,2,11:02 PM,4:50,Nurkic REBOUND (Off:2 Def:4),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,282,2,6,2,11:02 PM,4:44,MISS Gordon 1' Driving Layup,,Murray BLOCK (1 BLK),,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+0022300774,283,4,0,2,11:02 PM,4:42,,,Huerter REBOUND (Off:0 Def:2),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,284,6,2,2,11:02 PM,4:40,O'Neale S.FOUL (P2.T4) (B.Forte),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,286,3,11,2,11:02 PM,4:40,,,MISS Mitchell Free Throw 1 of 2,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,287,4,1,2,11:02 PM,4:40,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,288,3,12,2,11:02 PM,4:40,,,MISS Mitchell Free Throw 2 of 2,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,289,4,0,2,11:02 PM,4:38,O'Neale REBOUND (Off:0 Def:1),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,290,1,1,2,11:03 PM,4:19,Gordon 30' 3PT Jump Shot (13 PTS) (Booker 4 AST),,,58 - 52,-6,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,292,1,1,2,11:04 PM,3:49,,,Mitchell 3PT Jump Shot (3 PTS) (Sabonis 8 AST),61 - 52,-9,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,294,5,1,2,11:04 PM,3:31,Okogie Bad Pass Turnover (P2.T7),,Huerter STEAL (1 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,298,1,5,2,11:04 PM,3:20,,,Sabonis Layup (17 PTS),63 - 52,-11,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,299,1,79,2,11:04 PM,3:18,Gordon 27' 3PT Pullup Jump Shot (16 PTS),,,63 - 55,-8,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,300,2,102,2,11:04 PM,3:05,,,MISS Fox 7' Driving Floating Bank Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,301,4,0,2,11:04 PM,3:05,O'Neale REBOUND (Off:0 Def:2),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,302,6,31,2,11:04 PM,3:04,,,Fox Transition Take Foul (P1.PN) (D.Richardson),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,304,3,10,2,11:05 PM,3:04,MISS O'Neale Free Throw 1 of 1,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,305,4,0,2,11:05 PM,3:04,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,306,8,0,2,11:05 PM,3:04,SUB: Durant FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,307,8,0,2,11:05 PM,3:04,SUB: Allen FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,308,8,0,2,11:05 PM,3:04,,,SUB: Monk FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,312,2,1,2,11:05 PM,2:53,MISS Gordon 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,313,4,0,2,11:06 PM,2:50,Durant REBOUND (Off:1 Def:1),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,314,2,79,2,11:06 PM,2:48,MISS Booker 3PT Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,315,4,0,2,11:06 PM,2:43,,,Murray REBOUND (Off:0 Def:2),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,316,1,41,2,11:06 PM,2:39,,,Sabonis 1' Running Layup (19 PTS),65 - 55,-10,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,317,2,1,2,11:06 PM,2:27,MISS Gordon 26' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,318,4,0,2,11:06 PM,2:24,,,Monk REBOUND (Off:0 Def:2),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,319,5,1,2,11:06 PM,2:16,Booker STEAL (1 STL),,Fox Bad Pass Turnover (P3.T5),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,321,2,41,2,11:06 PM,2:11,MISS Gordon 2' Running Layup,,Sabonis BLOCK (3 BLK),,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0022300774,323,4,0,2,11:06 PM,2:08,Durant REBOUND (Off:2 Def:1),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,324,2,72,2,11:06 PM,2:08,MISS Durant 2' Putback Layup,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,325,4,0,2,11:06 PM,2:06,,,Murray REBOUND (Off:0 Def:3),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,326,2,103,2,11:06 PM,2:03,,,MISS Monk 25' 3PT Running Pull-Up Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,327,4,0,2,11:06 PM,1:58,O'Neale REBOUND (Off:0 Def:3),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,328,6,2,2,11:07 PM,1:47,,,Murray S.FOUL (P3.PN) (B.Forte),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,330,3,11,2,11:07 PM,1:47,Gordon Free Throw 1 of 2 (17 PTS),,,65 - 56,-9,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,331,8,0,2,11:07 PM,1:47,,,SUB: Barnes FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,333,3,12,2,11:08 PM,1:47,Gordon Free Throw 2 of 2 (18 PTS),,,65 - 57,-8,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,334,2,80,2,11:08 PM,1:29,,,MISS Fox 25' 3PT Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,335,4,0,2,11:08 PM,1:28,,,Sabonis REBOUND (Off:3 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,360,2,72,2,11:08 PM,1:26,Allen BLOCK (1 BLK),,MISS Sabonis 1' Putback Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,362,4,0,2,11:08 PM,1:25,,,Sabonis REBOUND (Off:4 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,336,6,1,2,11:08 PM,1:21,Booker P.FOUL (P2.PN) (B.Forte),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,339,3,11,2,11:08 PM,1:21,,,Monk Free Throw 1 of 2 (15 PTS),66 - 57,-9,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,340,3,12,2,11:09 PM,1:21,,,Monk Free Throw 2 of 2 (16 PTS),67 - 57,-10,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022300774,341,1,52,2,11:09 PM,1:08,Gordon 3' Alley Oop Dunk (20 PTS) (O'Neale 2 AST),,,67 - 59,-8,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,344,2,1,2,11:10 PM,0:42,,,MISS Barnes 24' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,345,4,0,2,11:10 PM,0:39,Durant REBOUND (Off:2 Def:2),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,346,1,6,2,11:10 PM,0:34,Allen 1' Driving Layup (11 PTS) (Durant 3 AST),,,67 - 61,-6,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,348,6,2,2,11:10 PM,0:34,,,Monk S.FOUL (P2.PN) (D.Richardson),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,350,3,10,2,11:10 PM,0:34,Allen Free Throw 1 of 1 (12 PTS),,,67 - 62,-5,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,351,2,79,2,11:11 PM,0:26,,,MISS Fox 10' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,352,4,0,2,11:11 PM,0:21,,,Fox REBOUND (Off:1 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,358,5,1,2,11:11 PM,0:20,Durant STEAL (1 STL),,Fox Bad Pass Turnover (P4.T6),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,353,1,50,2,11:11 PM,0:17,Durant 1' Running Dunk (13 PTS) (Booker 5 AST),,,67 - 64,-3,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,355,2,79,2,11:11 PM,0:01,,,MISS Monk 25' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,356,4,0,2,11:11 PM,0:01,Durant REBOUND (Off:2 Def:3),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,357,13,0,2,11:11 PM,0:00,,End of 2nd Period (11:11 PM EST),,67 - 64,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300774,369,12,0,3,11:28 PM,12:00,,Start of 3rd Period (11:28 PM EST),,67 - 64,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,370,2,63,3,11:29 PM,11:42,,,MISS Murray 16' Fadeaway Jumper,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,371,4,0,3,11:29 PM,11:38,Durant REBOUND (Off:2 Def:4),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,372,5,45,3,11:29 PM,11:25,Booker Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300774,373,2,1,3,11:29 PM,11:22,,,MISS Huerter 25' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,374,4,0,3,11:29 PM,11:19,Gordon REBOUND (Off:0 Def:1),,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,375,6,2,3,11:29 PM,11:13,,,Sabonis S.FOUL (P1.T1) (D.Richardson),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,377,3,11,3,11:30 PM,11:13,MISS Durant Free Throw 1 of 2,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,378,4,1,3,11:30 PM,11:13,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,379,3,12,3,11:30 PM,11:13,Durant Free Throw 2 of 2 (14 PTS),,,67 - 65,-2,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,380,1,1,3,11:30 PM,10:59,,,Barnes 3PT Jump Shot (3 PTS) (Sabonis 9 AST),70 - 65,-5,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,382,2,79,3,11:30 PM,10:46,MISS Booker 12' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,383,4,0,3,11:30 PM,10:44,,,Huerter REBOUND (Off:0 Def:3),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,384,5,1,3,11:30 PM,10:42,Booker STEAL (2 STL),,Huerter Bad Pass Turnover (P1.T7),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,386,2,79,3,11:30 PM,10:39,MISS Booker 14' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,387,4,0,3,11:31 PM,10:37,,,Sabonis REBOUND (Off:4 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,388,6,2,3,11:31 PM,10:33,Allen S.FOUL (P2.T1) (D.Richardson),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,390,3,11,3,11:31 PM,10:33,,,Fox Free Throw 1 of 2 (18 PTS),71 - 65,-6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,391,3,12,3,11:31 PM,10:33,,,Fox Free Throw 2 of 2 (19 PTS),72 - 65,-7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,392,2,1,3,11:32 PM,10:14,MISS Gordon 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,393,4,0,3,11:32 PM,10:10,,,Sabonis REBOUND (Off:4 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,394,1,98,3,11:32 PM,10:03,,,Murray 3' Cutting Layup Shot (4 PTS) (Sabonis 10 AST),74 - 65,-9,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,396,5,2,3,11:32 PM,9:50,Durant Lost Ball Turnover (P2.T9),,Murray STEAL (1 STL),,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,398,1,41,3,11:32 PM,9:45,,,Sabonis 2' Running Layup (21 PTS) (Fox 4 AST),76 - 65,-11,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,400,9,1,3,11:32 PM,9:45,SUNS Timeout: Regular (Full 4 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,401,1,63,3,11:36 PM,9:32,Durant 10' Fadeaway Jumper (16 PTS) (Booker 6 AST),,,76 - 67,-9,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,402,2,101,3,11:36 PM,9:22,,,MISS Fox 13' Driving Floating Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,403,4,0,3,11:36 PM,9:19,Nurkic REBOUND (Off:2 Def:5),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,404,6,1,3,11:36 PM,9:16,,,Fox P.FOUL (P2.T2) (B.Forte),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,406,6,1,3,11:36 PM,9:13,,,Murray P.FOUL (P4.T3) (B.Forte),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,408,8,0,3,11:37 PM,9:13,,,SUB: Ellis FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,410,1,98,3,11:37 PM,9:07,Nurkic 1' Cutting Layup Shot (6 PTS) (Allen 4 AST),,,76 - 69,-7,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,412,6,2,3,11:37 PM,9:07,,,Sabonis S.FOUL (P2.T4) (D.Richardson),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,414,3,10,3,11:37 PM,9:07,Nurkic Free Throw 1 of 1 (7 PTS),,,76 - 70,-6,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,415,6,1,3,11:38 PM,9:03,Nurkic P.FOUL (P3.T2) (C.Blair),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,417,1,6,3,11:38 PM,8:51,,,Barnes 2' Driving Layup (5 PTS) (Sabonis 11 AST),78 - 70,-8,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,419,1,79,3,11:38 PM,8:26,Durant 9' Pullup Jump Shot (18 PTS),,,78 - 72,-6,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,420,2,1,3,11:39 PM,8:12,,,MISS Barnes 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,421,4,0,3,11:39 PM,8:10,Nurkic REBOUND (Off:2 Def:6),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,422,2,103,3,11:39 PM,8:05,MISS Booker 25' 3PT Running Pull-Up Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,423,4,0,3,11:39 PM,8:01,,,Ellis REBOUND (Off:0 Def:2),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,424,2,98,3,11:39 PM,7:52,,,MISS Huerter 2' Cutting Layup Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,426,4,0,3,11:39 PM,7:49,Allen REBOUND (Off:0 Def:2),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,427,2,2,3,11:39 PM,7:47,MISS Gordon 25' 3PT Running Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,428,4,0,3,11:39 PM,7:44,,,Fox REBOUND (Off:1 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,429,2,103,3,11:39 PM,7:40,,,MISS Fox 18' Running Pull-Up Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,430,4,0,3,11:39 PM,7:37,Durant REBOUND (Off:2 Def:5),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,431,2,5,3,11:39 PM,7:23,MISS Nurkic 3' Layup,,Huerter BLOCK (1 BLK),,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1
+0022300774,433,4,0,3,11:39 PM,7:23,,,Barnes REBOUND (Off:0 Def:3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,434,2,1,3,11:40 PM,7:10,,,MISS Fox 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,435,4,0,3,11:40 PM,7:07,,,Fox REBOUND (Off:2 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,436,1,1,3,11:40 PM,7:06,,,Fox 26' 3PT Jump Shot (22 PTS),81 - 72,-9,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,437,2,63,3,11:40 PM,6:48,MISS Durant 9' Fadeaway Jumper,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,438,4,0,3,11:40 PM,6:45,,,Fox REBOUND (Off:2 Def:3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,439,6,2,3,11:40 PM,6:42,Gordon S.FOUL (P1.T3) (B.Forte),,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,441,3,11,3,11:41 PM,6:42,,,Fox Free Throw 1 of 2 (23 PTS),82 - 72,-10,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,442,8,0,3,11:41 PM,6:42,SUB: Okogie FOR Gordon,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,444,3,12,3,11:41 PM,6:42,,,Fox Free Throw 2 of 2 (24 PTS),83 - 72,-11,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,445,1,6,3,11:41 PM,6:22,Allen 2' Driving Layup (14 PTS) (Booker 7 AST),,,83 - 74,-9,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,447,2,1,3,11:42 PM,6:04,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,448,4,0,3,11:42 PM,6:02,Nurkic REBOUND (Off:2 Def:7),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,449,2,79,3,11:42 PM,5:52,MISS Durant 25' 3PT Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,450,4,0,3,11:42 PM,5:51,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,451,6,3,3,11:42 PM,5:51,,,Sabonis L.B.FOUL (P3.PN) (C.Blair),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,453,3,11,3,11:42 PM,5:51,Nurkic Free Throw 1 of 2 (8 PTS),,,83 - 75,-8,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,454,8,0,3,11:42 PM,5:51,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,455,8,0,3,11:42 PM,5:51,,,SUB: Monk FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,458,3,12,3,11:43 PM,5:51,Nurkic Free Throw 2 of 2 (9 PTS),,,83 - 76,-7,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,459,1,108,3,11:43 PM,5:38,,,Sabonis 1' Cutting Dunk Shot (23 PTS) (Monk 2 AST),85 - 76,-9,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,462,1,101,3,11:43 PM,5:16,Booker 10' Driving Floating Jump Shot (7 PTS),,,85 - 78,-7,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,463,6,2,3,11:43 PM,5:16,,,Ellis S.FOUL (P2.PN) (D.Richardson),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,465,8,0,3,11:44 PM,5:16,SUB: O'Neale FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,466,8,0,3,11:44 PM,5:16,,,SUB: Huerter FOR Ellis,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,469,3,10,3,11:44 PM,5:16,Booker Free Throw 1 of 1 (8 PTS),,,85 - 79,-6,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,470,1,73,3,11:44 PM,4:57,,,Monk 2' Driving Reverse Layup (18 PTS),87 - 79,-8,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,471,6,17,3,11:45 PM,4:37,,,Kings T.Foul (Def. 3 Sec Huerter ) (C.Blair),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022300774,472,3,16,3,11:45 PM,4:37,Booker Free Throw Technical (9 PTS),,,87 - 80,-7,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,473,1,1,3,11:46 PM,4:22,Allen 27' 3PT Jump Shot (17 PTS) (Okogie 1 AST),,,87 - 83,-4,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,475,5,1,3,11:46 PM,4:05,Okogie STEAL (1 STL),,Monk Bad Pass Turnover (P2.T8),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,477,6,2,3,11:46 PM,4:03,,,Barnes S.FOUL (P1.PN) (C.Blair),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,479,3,11,3,11:46 PM,4:03,Okogie Free Throw 1 of 2 (3 PTS),,,87 - 84,-3,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,480,8,0,3,11:46 PM,4:03,,,SUB: Fox FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,482,3,12,3,11:47 PM,4:03,Okogie Free Throw 2 of 2 (4 PTS),,,87 - 85,-2,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,483,2,1,3,11:47 PM,3:42,,,MISS Monk 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,484,4,0,3,11:47 PM,3:38,,,Sabonis REBOUND (Off:5 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,485,2,72,3,11:47 PM,3:37,O'Neale BLOCK (1 BLK),,MISS Sabonis 3' Putback Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,487,4,0,3,11:47 PM,3:36,Allen REBOUND (Off:0 Def:3),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,548,6,1,3,11:48 PM,3:32,,,Mitchell P.FOUL (P2.PN) (B.Forte),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0022300774,559,3,11,3,11:49 PM,3:32,Booker Free Throw 1 of 2 (10 PTS),,,87 - 86,-1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022300774,560,3,12,3,11:49 PM,3:32,Booker Free Throw 2 of 2 (11 PTS),,,87 - 87,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022300774,561,8,0,3,11:49 PM,3:32,SUB: Little FOR Allen,,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,562,8,0,3,11:49 PM,3:32,SUB: Gordon FOR Durant,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,563,8,0,3,11:49 PM,3:32,,,SUB: Murray FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,735,2,6,3,11:49 PM,3:18,,,MISS Monk 6' Driving Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022300774,736,4,0,3,11:49 PM,3:17,,,Sabonis REBOUND (Off:6 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022300774,509,2,72,3,11:49 PM,3:16,,,MISS Sabonis 1' Putback Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,510,4,0,3,11:49 PM,3:16,,,Sabonis REBOUND (Off:7 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,500,6,2,3,11:49 PM,3:16,O'Neale S.FOUL (P3.T4) (C.Blair),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,502,3,11,3,11:50 PM,3:16,,,Sabonis Free Throw 1 of 2 (24 PTS),88 - 87,-1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,503,3,12,3,11:50 PM,3:16,,,Sabonis Free Throw 2 of 2 (25 PTS),89 - 87,-2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,504,2,6,3,11:50 PM,3:03,MISS Okogie 2' Driving Layup,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,505,4,0,3,11:50 PM,2:59,,,Sabonis REBOUND (Off:7 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,506,6,2,3,11:50 PM,2:43,Booker S.FOUL (P3.PN) (D.Richardson),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,508,9,1,3,11:51 PM,2:43,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,511,8,0,3,11:54 PM,2:43,,,SUB: Len FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,513,3,11,3,11:54 PM,2:43,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,514,4,1,3,11:54 PM,2:43,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,515,3,12,3,11:54 PM,2:43,,,Fox Free Throw 2 of 2 (25 PTS),90 - 87,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,516,1,102,3,11:55 PM,2:30,Booker 4' Driving Floating Bank Jump Shot (13 PTS),,,90 - 89,-1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,517,5,1,3,11:55 PM,2:20,Booker STEAL (3 STL),,Fox Bad Pass Turnover (P5.T9),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,519,2,74,3,11:55 PM,2:14,MISS Booker 2' Running Reverse Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,520,4,0,3,11:55 PM,2:12,Okogie REBOUND (Off:1 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,598,2,97,3,11:55 PM,2:12,MISS Okogie 1' Tip Layup Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,599,4,0,3,11:55 PM,2:11,,,Len REBOUND (Off:1 Def:2),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,523,2,1,3,11:55 PM,1:59,,,MISS Mitchell 28' 3PT Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,524,4,0,3,11:55 PM,1:57,Little REBOUND (Off:0 Def:1),,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,525,2,6,3,11:55 PM,1:43,MISS Okogie 3' Driving Layup,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,526,4,0,3,11:55 PM,1:41,,,Monk REBOUND (Off:0 Def:3),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,527,5,1,3,11:56 PM,1:36,O'Neale STEAL (2 STL),,Monk Bad Pass Turnover (P3.T10),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,529,2,1,3,11:56 PM,1:28,MISS Little 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,530,4,0,3,11:56 PM,1:24,,,Murray REBOUND (Off:0 Def:4),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,531,1,86,3,11:56 PM,1:09,,,Fox 12' Turnaround Fadeaway (27 PTS),92 - 89,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,532,1,1,3,11:56 PM,0:54,Okogie 3PT Jump Shot (7 PTS) (O'Neale 3 AST),,,92 - 92,TIE,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,540,2,86,3,11:57 PM,0:34,,,MISS Fox 17' Turnaround Fadeaway Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,541,4,0,3,11:57 PM,0:31,Booker REBOUND (Off:1 Def:1),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,542,1,6,3,11:57 PM,0:24,Booker 1' Driving Layup (15 PTS),,,92 - 94,2,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,543,2,1,3,11:57 PM,0:03,,,MISS Murray 27' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,544,4,0,3,11:57 PM,0:01,Gordon REBOUND (Off:0 Def:2),,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,547,13,0,3,11:57 PM,0:00,,End of 3rd Period (11:57 PM EST),,92 - 94,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300774,558,12,0,4,12:01 AM,12:00,,Start of 4th Period (12:01 AM EST),,92 - 94,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,567,1,1,4,12:01 AM,11:38,Durant 25' 3PT Jump Shot (21 PTS) (Gordon 2 AST),,,92 - 97,5,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,569,2,101,4,12:02 AM,11:21,,,MISS Monk 10' Driving Floating Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,570,4,0,4,12:02 AM,11:17,Little REBOUND (Off:0 Def:2),,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,571,5,45,4,12:02 AM,11:08,Little Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300774,572,1,47,4,12:02 AM,11:00,,,Fox 12' Turnaround Jump Shot (29 PTS),94 - 97,3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,573,1,1,4,12:02 AM,10:41,Gordon 26' 3PT Jump Shot (23 PTS) (O'Neale 4 AST),,,94 - 100,6,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,575,2,79,4,12:03 AM,10:26,,,MISS Fox 19' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,576,4,0,4,12:03 AM,10:23,Durant REBOUND (Off:2 Def:6),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,577,1,79,4,12:03 AM,10:15,O'Neale 26' 3PT Pullup Jump Shot (4 PTS),,,94 - 103,9,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,578,9,1,4,12:03 AM,10:13,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,579,8,0,4,12:06 AM,10:13,,,SUB: Sabonis FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,581,5,1,4,12:07 AM,10:03,O'Neale STEAL (3 STL),,Monk Bad Pass Turnover (P4.T11),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,583,2,2,4,12:07 AM,9:58,MISS Gordon 25' 3PT Running Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,584,4,0,4,12:07 AM,9:53,,,Monk REBOUND (Off:0 Def:4),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,585,2,6,4,12:07 AM,9:38,,,MISS Sabonis 3' Driving Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,586,4,0,4,12:07 AM,9:38,,,Sabonis REBOUND (Off:8 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,587,1,97,4,12:07 AM,9:38,,,Sabonis Tip Layup Shot (27 PTS),96 - 103,7,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,588,6,2,4,12:07 AM,9:38,O'Neale S.FOUL (P4.T1) (B.Forte),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,590,3,10,4,12:08 AM,9:38,,,MISS Sabonis Free Throw 1 of 1,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,591,4,0,4,12:08 AM,9:36,O'Neale REBOUND (Off:0 Def:4),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,592,1,79,4,12:08 AM,9:17,Durant 19' Pullup Jump Shot (23 PTS) (Gordon 3 AST),,,96 - 105,9,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,594,2,6,4,12:08 AM,9:02,Little BLOCK (1 BLK),,MISS Fox 4' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,596,4,0,4,12:08 AM,9:02,,,Fox REBOUND (Off:3 Def:3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,597,1,72,4,12:08 AM,8:59,,,Fox 1' Putback Layup (31 PTS),98 - 105,7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,600,1,1,4,12:08 AM,8:41,Little 24' 3PT Jump Shot (3 PTS) (Durant 4 AST),,,98 - 108,10,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,602,2,5,4,12:09 AM,8:28,Gordon BLOCK (1 BLK),,MISS Sabonis 5' Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,604,4,0,4,12:09 AM,8:26,Gordon REBOUND (Off:0 Def:3),,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,605,2,73,4,12:09 AM,8:17,MISS Gordon 3' Driving Reverse Layup,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,606,4,0,4,12:09 AM,8:16,,,Sabonis REBOUND (Off:8 Def:6),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,607,1,41,4,12:09 AM,8:10,,,Murray 3' Running Layup (6 PTS) (Sabonis 12 AST),100 - 108,8,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,609,2,79,4,12:09 AM,7:51,MISS Durant 25' 3PT Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,610,4,0,4,12:09 AM,7:47,,,Sabonis REBOUND (Off:8 Def:7),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,611,2,58,4,12:10 AM,7:32,,,MISS Murray 8' Turnaround Hook Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,612,4,0,4,12:10 AM,7:28,Durant REBOUND (Off:2 Def:7),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,613,2,1,4,12:10 AM,7:07,MISS O'Neale 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,614,4,0,4,12:10 AM,7:04,,,Sabonis REBOUND (Off:8 Def:8),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,615,6,14,4,12:10 AM,7:03,Allen FLAGRANT.FOUL.TYPE1 (P3.T2) (C.Blair),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,617,18,1,4,12:11 AM,7:03,,Instant Replay4th Period (12:11 AM EST),,100 - 108,8,0,615,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300774,618,8,0,4,12:12 AM,7:03,SUB: Okogie FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,619,8,0,4,12:12 AM,7:03,SUB: Booker FOR Gordon,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,622,3,18,4,12:13 AM,7:03,,,MISS Fox Free Throw Flagrant 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,623,4,1,4,12:13 AM,7:03,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,624,3,19,4,12:13 AM,7:03,,,MISS Fox Free Throw Flagrant 2 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,625,4,1,4,12:13 AM,7:03,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,626,6,2,4,12:14 AM,6:54,Durant S.FOUL (P2.T3) (B.Forte),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022300774,628,3,11,4,12:14 AM,6:54,,,Fox Free Throw 1 of 2 (32 PTS),101 - 108,7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,629,3,12,4,12:14 AM,6:54,,,Fox Free Throw 2 of 2 (33 PTS),102 - 108,6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,630,2,79,4,12:15 AM,6:40,MISS Durant 15' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,631,4,0,4,12:15 AM,6:36,,,Sabonis REBOUND (Off:8 Def:9),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,632,1,80,4,12:15 AM,6:24,,,Barnes 17' Step Back Jump Shot (7 PTS) (Monk 3 AST),104 - 108,4,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,634,2,1,4,12:15 AM,6:07,MISS Durant 24' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,635,4,0,4,12:15 AM,6:03,,,Fox REBOUND (Off:3 Def:4),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,636,1,7,4,12:16 AM,5:51,,,Sabonis 1' Dunk (29 PTS) (Monk 4 AST),106 - 108,2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,638,2,79,4,12:16 AM,5:34,MISS Little 15' Pullup Jump Shot,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,639,4,0,4,12:16 AM,5:30,,,Fox REBOUND (Off:3 Def:5),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,640,2,6,4,12:16 AM,5:25,,,MISS Fox 2' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,641,4,0,4,12:16 AM,5:25,,,Sabonis REBOUND (Off:9 Def:9),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,642,1,97,4,12:16 AM,5:25,,,Sabonis Tip Layup Shot (31 PTS),108 - 108,TIE,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,643,9,1,4,12:16 AM,5:25,SUNS Timeout: Regular (Full 5 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,644,8,0,4,12:19 AM,5:25,SUB: O'Neale FOR Little,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,646,5,45,4,12:20 AM,5:15,Booker Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300774,647,1,9,4,12:20 AM,4:56,,,Sabonis 1' Driving Dunk (33 PTS) (Monk 5 AST),110 - 108,-2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,648,1,79,4,12:20 AM,4:38,Durant 16' Pullup Jump Shot (25 PTS),,,110 - 110,TIE,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,649,1,1,4,12:21 AM,4:18,,,Barnes 17' Jump Shot (9 PTS) (Monk 6 AST),112 - 110,-2,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,651,6,2,4,12:21 AM,4:06,,,Barnes S.FOUL (P2.T1) (D.Richardson),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,653,3,11,4,12:21 AM,4:06,Durant Free Throw 1 of 2 (26 PTS),,,112 - 111,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,654,8,0,4,12:21 AM,4:06,SUB: Nurkic FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,656,3,12,4,12:22 AM,4:06,MISS Durant Free Throw 2 of 2,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,657,4,0,4,12:22 AM,4:03,,,Murray REBOUND (Off:0 Def:5),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,658,2,101,4,12:22 AM,3:47,Nurkic BLOCK (1 BLK),,MISS Fox 11' Driving Floating Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,660,4,0,4,12:22 AM,3:44,,,Fox REBOUND (Off:4 Def:5),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,661,2,79,4,12:22 AM,3:42,,,MISS Barnes 30' 3PT Pullup Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,662,4,0,4,12:22 AM,3:39,Booker REBOUND (Off:1 Def:2),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,663,1,9,4,12:22 AM,3:31,O'Neale 1' Driving Dunk (6 PTS) (Booker 8 AST),,,112 - 113,1,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,665,1,75,4,12:23 AM,3:19,,,Monk 3' Driving Finger Roll Layup (20 PTS),114 - 113,-1,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,666,1,79,4,12:23 AM,3:06,Durant 17' Pullup Jump Shot (28 PTS),,,114 - 115,1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,667,1,43,4,12:23 AM,2:49,,,Monk 1' Alley Oop Layup (22 PTS) (Fox 5 AST),116 - 115,-1,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,669,1,79,4,12:23 AM,2:37,Booker 17' Pullup Jump Shot (17 PTS),,,116 - 117,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,670,5,2,4,12:24 AM,2:22,O'Neale STEAL (4 STL),,Fox Lost Ball Turnover (P6.T12),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,672,1,79,4,12:24 AM,2:16,Booker 11' Pullup Jump Shot (19 PTS) (O'Neale 5 AST),,,116 - 119,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,674,2,79,4,12:24 AM,2:03,,,MISS Monk 27' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,675,4,0,4,12:24 AM,2:01,,,Barnes REBOUND (Off:1 Def:3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,676,5,1,4,12:24 AM,1:55,Nurkic STEAL (2 STL),,Monk Bad Pass Turnover (P5.T13),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,678,2,1,4,12:24 AM,1:35,MISS Allen 3PT Jump Shot,,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,679,4,0,4,12:24 AM,1:31,,,Barnes REBOUND (Off:1 Def:4),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,680,2,6,4,12:24 AM,1:24,Nurkic BLOCK (2 BLK),,MISS Fox 4' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1
+0022300774,682,4,0,4,12:25 AM,1:22,Durant REBOUND (Off:2 Def:8),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,683,5,2,4,12:25 AM,1:15,Durant Lost Ball Turnover (P3.T12),,Fox STEAL (3 STL),,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,685,1,103,4,12:25 AM,1:09,,,Fox 9' Running Pull-Up Jump Shot (35 PTS),118 - 119,1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,686,1,1,4,12:25 AM,0:47,O'Neale 24' 3PT Jump Shot (9 PTS) (Booker 9 AST),,,118 - 122,4,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300774,688,1,79,4,12:26 AM,0:41,,,Fox 26' 3PT Pullup Jump Shot (38 PTS),121 - 122,1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,689,9,1,4,12:26 AM,0:41,SUNS Timeout: Regular (Full 6 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,691,8,0,4,12:27 AM,0:41,SUB: Gordon FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,692,8,0,4,12:27 AM,0:41,,,SUB: Mitchell FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,693,8,0,4,12:27 AM,0:41,,,SUB: Ellis FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,697,1,63,4,12:28 AM,0:33,Booker 22' Fadeaway Jumper (21 PTS),,,121 - 124,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,698,9,1,4,12:28 AM,0:32,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,699,8,0,4,12:29 AM,0:32,SUB: Okogie FOR Gordon,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,700,8,0,4,12:29 AM,0:32,,,SUB: Sabonis FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,701,8,0,4,12:29 AM,0:32,,,SUB: Monk FOR Ellis,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022300774,705,1,6,4,12:30 AM,0:24,,,Sabonis 2' Driving Layup (35 PTS) (Fox 6 AST),123 - 124,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022300774,707,6,28,4,12:30 AM,0:18,,,Fox Personal Take Foul (P3.T2) (D.Richardson),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,709,8,0,4,12:31 AM,0:18,SUB: Gordon FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,711,6,6,4,12:31 AM,0:18,,,Murray AWAY.FROM.PLAY.FOUL (P5.PN) (C.Blair),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0022300774,713,3,10,4,12:31 AM,0:18,Booker Free Throw 1 of 1 (22 PTS),,,123 - 125,2,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,714,6,1,4,12:32 AM,0:15,,,Sabonis P.FOUL (P4.PN) (D.Richardson),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,716,3,11,4,12:32 AM,0:15,Booker Free Throw 1 of 2 (23 PTS),,,123 - 126,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,719,3,12,4,12:32 AM,0:15,MISS Booker Free Throw 2 of 2,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,717,8,0,4,12:32 AM,0:15,SUB: Okogie FOR Gordon,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300774,720,4,0,4,12:32 AM,0:11,Allen REBOUND (Off:1 Def:3),,,,,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,721,6,28,4,12:33 AM,0:11,,,Fox Personal Take Foul (P4.PN) (D.Richardson),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,723,3,11,4,12:33 AM,0:11,Booker Free Throw 1 of 2 (24 PTS),,,123 - 127,4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,724,3,12,4,12:33 AM,0:11,Booker Free Throw 2 of 2 (25 PTS),,,123 - 128,5,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,725,1,75,4,12:34 AM,0:05,,,Fox 2' Driving Finger Roll Layup (40 PTS),125 - 128,3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,726,6,28,4,12:34 AM,0:03,,,Barnes Personal Take Foul (P3.PN) (D.Richardson),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300774,728,3,11,4,12:34 AM,0:03,Allen Free Throw 1 of 2 (18 PTS),,,125 - 129,4,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,729,3,12,4,12:34 AM,0:03,Allen Free Throw 2 of 2 (19 PTS),,,125 - 130,5,4,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,730,9,1,4,12:35 AM,0:03,,,Kings Timeout: Regular (Reg.6 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300774,731,2,1,4,12:36 AM,0:01,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022300774,732,4,0,4,12:36 AM,0:01,Durant REBOUND (Off:2 Def:9),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300774,733,13,0,4,12:36 AM,0:00,,End of 4th Period (12:36 AM EST),,125 - 130,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,456 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022400888,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,4,10,0,1,8:41 PM,12:00,Jump Ball Biyombo vs. Claxton: Tip to Fox,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,1
+0022400888,7,5,1,1,8:41 PM,11:37,Fox Bad Pass Turnover (P1.T1),,Claxton STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,9,2,2,1,8:41 PM,11:32,,,MISS C. Johnson 3PT Running Jump Shot,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,10,4,0,1,8:41 PM,11:28,Biyombo REBOUND (Off:0 Def:1),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,11,1,57,1,8:41 PM,11:19,Biyombo 10' Driving Hook Shot (2 PTS) (Fox 1 AST),,,0 - 2,2,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,13,2,80,1,8:42 PM,10:59,,,MISS Thomas 26' 3PT Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,14,4,0,1,8:42 PM,10:57,Fox REBOUND (Off:0 Def:1),,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,15,1,1,1,8:42 PM,10:42,Vassell 25' 3PT Jump Shot (3 PTS) (Barnes 1 AST),,,0 - 5,5,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,17,2,1,1,8:42 PM,10:29,,,MISS Williams 25' 3PT Jump Shot,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,18,4,0,1,8:42 PM,10:26,Biyombo REBOUND (Off:0 Def:2),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,19,1,86,1,8:43 PM,10:16,Vassell 14' Turnaround Fadeaway (5 PTS),,,0 - 7,7,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,20,1,101,1,8:43 PM,10:06,,,Russell 7' Driving Floating Jump Shot (2 PTS),2 - 7,5,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,21,1,1,1,8:43 PM,9:48,Barnes 3PT Jump Shot (3 PTS) (Fox 2 AST),,,2 - 10,8,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,23,5,1,1,8:43 PM,9:33,Biyombo STEAL (1 STL),,Russell Bad Pass Turnover (P1.T1),,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,25,5,1,1,8:43 PM,9:29,Barnes Bad Pass Turnover (P1.T2),,C. Johnson STEAL (1 STL),,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,27,2,79,1,8:43 PM,9:25,,,MISS Russell 24' 3PT Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,28,4,0,1,8:43 PM,9:22,Vassell REBOUND (Off:0 Def:1),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,29,5,45,1,8:44 PM,9:18,Vassell Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022400888,30,1,1,1,8:44 PM,9:03,,,C. Johnson 3PT Jump Shot (3 PTS) (Thomas 1 AST),5 - 10,5,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,32,1,1,1,8:44 PM,8:49,Vassell 26' 3PT Jump Shot (8 PTS) (Fox 3 AST),,,5 - 13,8,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,34,2,1,1,8:44 PM,8:34,,,MISS Russell 25' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,35,4,0,1,8:44 PM,8:31,Vassell REBOUND (Off:0 Def:2),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,36,2,1,1,8:45 PM,8:25,MISS Fox 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,37,4,0,1,8:45 PM,8:25,Biyombo REBOUND (Off:1 Def:2),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,158,2,97,1,8:45 PM,8:23,MISS Biyombo 1' Tip Layup Shot,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,159,4,0,1,8:45 PM,8:22,,,C. Johnson REBOUND (Off:0 Def:1),,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,38,2,1,1,8:45 PM,8:10,,,MISS Thomas 3PT Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,39,4,0,1,8:45 PM,8:07,,,Williams REBOUND (Off:1 Def:0),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,40,6,2,1,8:45 PM,8:07,Vassell S.FOUL (P1.T1) (N.Buchert),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,42,3,11,1,8:45 PM,8:07,,,Williams Free Throw 1 of 2 (1 PTS),6 - 13,7,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,43,8,0,1,8:45 PM,8:07,,,SUB: K. Johnson FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,45,3,12,1,8:46 PM,8:07,,,Williams Free Throw 2 of 2 (2 PTS),7 - 13,6,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,46,5,2,1,8:46 PM,7:54,Barnes Lost Ball Turnover (P2.T4),,K. Johnson STEAL (1 STL),,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,48,5,4,1,8:46 PM,7:48,,,Claxton Traveling Turnover (P1.T2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400888,49,7,5,1,8:47 PM,7:42,,,Williams Violation:Kicked Ball (N.Buchert),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022400888,50,2,80,1,8:47 PM,7:31,MISS Fox 27' 3PT Step Back Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,51,4,0,1,8:47 PM,7:28,,,K. Johnson REBOUND (Off:0 Def:1),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,52,2,1,1,8:47 PM,7:20,,,MISS K. Johnson 3PT Jump Shot,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,53,4,0,1,8:47 PM,7:16,Biyombo REBOUND (Off:1 Def:3),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,54,2,2,1,8:47 PM,7:11,MISS Barnes 3PT Running Jump Shot,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,55,4,0,1,8:47 PM,7:09,,,Williams REBOUND (Off:1 Def:1),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,56,1,101,1,8:48 PM,6:55,,,Russell 9' Driving Floating Jump Shot (4 PTS) (K. Johnson 1 AST),9 - 13,4,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,58,9,1,1,8:48 PM,6:54,SPURS Timeout: Regular (Full 1 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,59,8,0,1,8:50 PM,6:54,SUB: Castle FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,60,8,0,1,8:50 PM,6:54,SUB: Johnson FOR Barnes,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,61,8,0,1,8:50 PM,6:54,,,SUB: Martin FOR Russell,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,65,2,52,1,8:51 PM,6:36,MISS Biyombo 2' Alley Oop Dunk,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,66,4,0,1,8:51 PM,6:35,,,K. Johnson REBOUND (Off:0 Def:2),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,67,5,1,1,8:51 PM,6:20,Paul STEAL (1 STL),,C. Johnson Bad Pass Turnover (P1.T3),,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,69,1,106,1,8:51 PM,6:16,Johnson 2' Running Alley Oop Dunk Shot (2 PTS) (Paul 1 AST),,,9 - 15,6,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,71,2,96,1,8:52 PM,5:50,,,MISS Claxton 7' Turnaround Bank Hook Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,72,4,0,1,8:52 PM,5:48,Biyombo REBOUND (Off:1 Def:4),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,73,2,101,1,8:52 PM,5:42,MISS Castle 7' Driving Floating Jump Shot,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,74,4,0,1,8:52 PM,5:38,,,K. Johnson REBOUND (Off:0 Def:3),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,75,5,40,1,8:52 PM,5:35,,,Martin Out of Bounds Lost Ball Turnover (P1.T4),,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400888,76,1,1,1,8:52 PM,5:30,Johnson 26' 3PT Jump Shot (5 PTS) (Castle 1 AST),,,9 - 18,9,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,78,9,1,1,8:52 PM,5:28,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,79,1,44,1,8:56 PM,5:08,,,C. Johnson 2' Reverse Layup (5 PTS) (Martin 1 AST),11 - 18,7,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,81,5,1,1,8:56 PM,5:02,Johnson Bad Pass Turnover (P1.T5),,Claxton STEAL (2 STL),,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,83,1,50,1,8:56 PM,4:58,,,Martin 2' Running Dunk (2 PTS) (Williams 1 AST),13 - 18,5,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,85,2,1,1,8:56 PM,4:39,MISS Johnson 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,86,4,0,1,8:56 PM,4:37,,,Claxton REBOUND (Off:0 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,87,1,75,1,8:56 PM,4:29,,,K. Johnson 2' Driving Finger Roll Layup (2 PTS),15 - 18,3,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,88,6,2,1,8:56 PM,4:29,Biyombo S.FOUL (P1.T2) (S.Jelks),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,90,8,0,1,8:56 PM,4:29,SUB: Sochan FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,91,8,0,1,8:56 PM,4:29,,,SUB: Sharpe FOR C. Johnson,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,92,8,0,1,8:56 PM,4:29,,,SUB: Wilson FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,96,3,10,1,8:57 PM,4:29,,,K. Johnson Free Throw 1 of 1 (3 PTS),16 - 18,2,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,97,6,1,1,8:57 PM,4:20,,,Martin P.FOUL (P1.T1) (S.Jelks),,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,99,1,101,1,8:58 PM,4:10,Vassell 10' Driving Floating Jump Shot (10 PTS) (Sochan 1 AST),,,16 - 20,4,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,101,2,1,1,8:58 PM,3:59,,,MISS Martin 25' 3PT Jump Shot,,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,102,4,0,1,8:58 PM,3:58,Vassell REBOUND (Off:0 Def:3),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,103,6,2,1,8:58 PM,3:55,,,Williams S.FOUL (P1.T2) (N.Buchert),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,105,3,11,1,8:58 PM,3:55,Johnson Free Throw 1 of 2 (6 PTS),,,16 - 21,5,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,106,8,0,1,8:58 PM,3:55,SUB: Champagnie FOR Paul,,,,,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,107,8,0,1,8:58 PM,3:55,,,SUB: Watford FOR Williams,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,110,3,12,1,8:59 PM,3:55,Johnson Free Throw 2 of 2 (7 PTS),,,16 - 22,6,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,111,1,1,1,8:59 PM,3:39,,,Wilson 25' 3PT Jump Shot (3 PTS) (Watford 1 AST),19 - 22,3,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,113,5,45,1,8:59 PM,3:22,Castle Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022400888,114,2,1,1,9:00 PM,3:04,,,MISS Martin 27' 3PT Jump Shot,,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,115,4,0,1,9:00 PM,3:02,Vassell REBOUND (Off:0 Def:4),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,116,6,1,1,9:00 PM,3:02,,,Sharpe P.FOUL (P1.T3) (N.Buchert),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,118,6,1,1,9:00 PM,2:45,,,Watford P.FOUL (P1.T4) (D.Guthrie),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,120,8,0,1,9:00 PM,2:45,,,SUB: Thomas FOR K. Johnson,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,122,1,1,1,9:01 PM,2:37,Champagnie 3PT Jump Shot (3 PTS) (Castle 2 AST),,,19 - 25,6,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,124,5,45,1,9:01 PM,2:20,,,Watford Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400888,125,8,0,1,9:01 PM,2:20,SUB: Fox FOR Vassell,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,127,1,102,1,9:01 PM,2:07,Castle 6' Driving Floating Bank Jump Shot (2 PTS),,,19 - 27,8,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,128,2,1,1,9:02 PM,1:49,,,MISS Watford 26' 3PT Jump Shot,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,129,4,0,1,9:02 PM,1:45,,,Martin REBOUND (Off:1 Def:0),,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,130,6,2,1,9:02 PM,1:42,Castle S.FOUL (P1.T3) (D.Guthrie),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,132,3,11,1,9:02 PM,1:42,,,Thomas Free Throw 1 of 2 (1 PTS),20 - 27,7,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,133,3,12,1,9:03 PM,1:42,,,Thomas Free Throw 2 of 2 (2 PTS),21 - 27,6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,134,1,6,1,9:03 PM,1:30,Johnson 2' Driving Layup (9 PTS) (Castle 3 AST),,,21 - 29,8,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,136,1,75,1,9:03 PM,1:20,,,Watford 2' Driving Finger Roll Layup (2 PTS),23 - 29,6,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,137,2,75,1,9:03 PM,1:09,MISS Champagnie 3' Driving Finger Roll Layup,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,138,4,0,1,9:03 PM,1:09,,,Watford REBOUND (Off:0 Def:1),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,139,2,6,1,9:03 PM,1:01,,,MISS Wilson 3' Driving Layup,,,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,140,4,0,1,9:03 PM,0:58,Sochan REBOUND (Off:0 Def:1),,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,141,2,2,1,9:04 PM,0:55,MISS Champagnie 3PT Running Jump Shot,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,142,4,0,1,9:04 PM,0:53,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,144,1,75,1,9:04 PM,0:38,,,Thomas 1' Driving Finger Roll Layup (4 PTS),25 - 29,4,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,145,2,79,1,9:04 PM,0:29,MISS Castle 27' 3PT Pullup Jump Shot,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,146,4,0,1,9:04 PM,0:25,,,Sharpe REBOUND (Off:0 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,147,2,80,1,9:05 PM,0:06,,,MISS Thomas 26' 3PT Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,148,4,0,1,9:05 PM,0:04,Castle REBOUND (Off:0 Def:1),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,149,1,7,1,9:05 PM,0:01,Sochan 1' Dunk (2 PTS) (Champagnie 1 AST),,,25 - 31,6,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,151,2,1,1,9:05 PM,0:00,,,MISS Wilson 64' 3PT Jump Shot,,,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,152,4,0,1,9:05 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,153,13,0,1,9:05 PM,0:00,,End of 1st Period (9:05 PM EST),,25 - 31,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,156,12,0,2,9:08 PM,12:00,,Start of 2nd Period (9:08 PM EST),,25 - 31,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,160,6,1,2,9:08 PM,11:43,Sochan P.FOUL (P1.T1) (N.Buchert),,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,162,1,99,2,9:08 PM,11:34,,,Sharpe 2' Cutting Finger Roll Layup Shot (2 PTS) (Thomas 2 AST),27 - 31,4,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,164,5,4,2,9:09 PM,11:23,Champagnie Traveling Turnover (P1.T7),,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022400888,165,5,2,2,9:09 PM,11:08,Castle STEAL (1 STL),,Watford Lost Ball Turnover (P2.T6),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,167,2,2,2,9:09 PM,11:02,MISS Johnson 25' 3PT Running Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,168,4,0,2,9:09 PM,11:00,Champagnie REBOUND (Off:1 Def:0),,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,169,2,1,2,9:09 PM,10:58,MISS Castle 3PT Jump Shot,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,170,4,0,2,9:09 PM,10:53,,,Sharpe REBOUND (Off:0 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,171,1,2,2,9:09 PM,10:47,,,Thomas 3PT Running Jump Shot (7 PTS) (Watford 2 AST),30 - 31,1,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,173,2,80,2,9:10 PM,10:32,MISS Fox 18' Step Back Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,174,4,0,2,9:10 PM,10:32,,,Watford REBOUND (Off:0 Def:2),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,175,1,78,2,9:10 PM,10:13,,,Watford 3' Floating Jump Shot (4 PTS) (Thomas 3 AST),32 - 31,-1,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,177,5,1,2,9:10 PM,10:00,Johnson Bad Pass Turnover (P2.T8),,Watford STEAL (1 STL),,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,179,2,80,2,9:10 PM,9:50,,,MISS Thomas 25' 3PT Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,180,4,0,2,9:10 PM,9:45,,,Russell REBOUND (Off:1 Def:0),,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,181,1,1,2,9:11 PM,9:44,,,Watford 26' 3PT Jump Shot (7 PTS) (Wilson 1 AST),35 - 31,-4,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,183,9,1,2,9:11 PM,9:43,SPURS Timeout: Regular (Full 2 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,184,8,0,2,9:13 PM,9:43,SUB: Barnes FOR Johnson,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,186,1,102,2,9:14 PM,9:21,Castle 7' Driving Floating Bank Jump Shot (4 PTS) (Champagnie 2 AST),,,35 - 33,-2,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,188,6,2,2,9:14 PM,9:21,,,Sharpe S.FOUL (P2.T1) (D.Guthrie),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,190,8,0,2,9:14 PM,9:21,,,SUB: Claxton FOR Sharpe,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,192,3,10,2,9:15 PM,9:21,MISS Castle Free Throw 1 of 1,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,193,4,0,2,9:15 PM,9:17,,,Watford REBOUND (Off:0 Def:3),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,194,5,45,2,9:15 PM,9:02,,,Claxton Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400888,195,8,0,2,9:15 PM,9:02,SUB: Biyombo FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,196,8,0,2,9:15 PM,9:02,SUB: Paul FOR Sochan,,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,199,1,58,2,9:16 PM,8:50,Biyombo 8' Turnaround Hook Shot (4 PTS) (Castle 4 AST),,,35 - 35,TIE,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,200,1,6,2,9:16 PM,8:37,,,Thomas 1' Driving Layup (9 PTS) (Watford 3 AST),37 - 35,-2,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,202,2,1,2,9:16 PM,8:28,MISS Champagnie 24' 3PT Jump Shot,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,203,4,0,2,9:16 PM,8:24,,,Claxton REBOUND (Off:0 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,227,8,0,2,9:16 PM,8:19,,,SUB: C. Johnson FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,204,10,0,2,9:17 PM,8:19,Jump Ball Paul vs. Watford: Tip to Wilson,,,,,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,1
+0022400888,207,1,1,2,9:17 PM,8:13,,,Russell 25' 3PT Jump Shot (7 PTS) (C. Johnson 1 AST),40 - 35,-5,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,209,6,1,2,9:17 PM,7:54,,,Claxton P.FOUL (P1.T2) (N.Buchert),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,211,5,1,2,9:18 PM,7:47,Castle Bad Pass Turnover (P2.T9),,Russell STEAL (1 STL),,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,213,1,2,2,9:18 PM,7:43,,,Wilson 25' 3PT Running Jump Shot (6 PTS) (Russell 1 AST),43 - 35,-8,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,215,5,4,2,9:18 PM,7:27,Castle Traveling Turnover (P3.T10),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022400888,216,8,0,2,9:18 PM,7:27,SUB: Vassell FOR Champagnie,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,217,8,0,2,9:18 PM,7:27,,,SUB: Martin FOR Russell,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,218,8,0,2,9:18 PM,7:27,,,SUB: Williams FOR Watford,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,222,5,2,2,9:19 PM,7:11,Paul STEAL (2 STL),,Wilson Lost Ball Turnover (P1.T8),,,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,224,1,1,2,9:19 PM,7:04,Castle 26' 3PT Jump Shot (7 PTS) (Barnes 2 AST),,,43 - 38,-5,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,226,9,1,2,9:19 PM,7:04,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,230,1,101,2,9:22 PM,6:41,,,Martin 4' Driving Floating Jump Shot (4 PTS) (Claxton 1 AST),45 - 38,-7,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,232,1,3,2,9:22 PM,6:27,Biyombo 7' Hook Shot (6 PTS) (Paul 2 AST),,,45 - 40,-5,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,234,2,93,2,9:22 PM,6:16,,,MISS Claxton 5' Driving Bank Hook Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,235,4,0,2,9:23 PM,6:14,,,Williams REBOUND (Off:2 Def:1),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,236,2,6,2,9:23 PM,6:12,,,MISS Williams 2' Driving Layup,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,238,4,0,2,9:23 PM,6:12,,,Claxton REBOUND (Off:1 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,239,2,72,2,9:23 PM,6:11,Vassell BLOCK (1 BLK),,MISS Claxton Putback Layup,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1
+0022400888,241,4,0,2,9:23 PM,6:10,Vassell REBOUND (Off:0 Def:5),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,242,1,2,2,9:23 PM,6:04,Paul 26' 3PT Running Jump Shot (3 PTS) (Vassell 1 AST),,,45 - 43,-2,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,245,8,0,2,9:23 PM,5:48,SUB: Johnson FOR Castle,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,246,8,0,2,9:23 PM,5:48,,,SUB: K. Johnson FOR Wilson,,,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,249,1,79,2,9:24 PM,5:37,,,Claxton 14' Pullup Jump Shot (2 PTS),47 - 43,-4,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,250,2,80,2,9:24 PM,5:18,MISS Vassell 26' 3PT Step Back Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,251,4,0,2,9:24 PM,5:18,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,252,6,3,2,9:24 PM,5:18,,,C. Johnson L.B.FOUL (P1.T3) (D.Guthrie),,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,254,1,108,2,9:25 PM,5:05,Biyombo 1' Cutting Dunk Shot (8 PTS) (Paul 3 AST),,,47 - 45,-2,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,256,1,1,2,9:25 PM,4:45,,,Williams 3PT Jump Shot (5 PTS) (Claxton 2 AST),50 - 45,-5,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,258,1,101,2,9:25 PM,4:27,Barnes 7' Driving Floating Jump Shot (5 PTS) (Paul 4 AST),,,50 - 47,-3,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,260,6,2,2,9:25 PM,4:27,,,Martin S.FOUL (P2.T4) (S.Jelks),,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,262,3,10,2,9:26 PM,4:27,Barnes Free Throw 1 of 1 (6 PTS),,,50 - 48,-2,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,263,5,1,2,9:26 PM,4:13,Vassell STEAL (1 STL),,C. Johnson Bad Pass Turnover (P2.T9),,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,265,1,50,2,9:26 PM,4:11,Vassell 1' Running Dunk (12 PTS) (Paul 5 AST),,,50 - 50,TIE,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,267,6,2,2,9:26 PM,4:11,,,K. Johnson S.FOUL (P1.PN) (D.Guthrie),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,269,8,0,2,9:26 PM,4:11,,,SUB: Thomas FOR Williams,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,270,8,0,2,9:26 PM,4:11,,,SUB: Watford FOR Martin,,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,271,8,0,2,9:26 PM,4:11,,,SUB: Russell FOR K. Johnson,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,275,3,10,2,9:27 PM,4:11,Vassell Free Throw 1 of 1 (13 PTS),,,50 - 51,1,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,276,2,79,2,9:27 PM,3:49,,,MISS Thomas 25' 3PT Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,277,4,0,2,9:27 PM,3:49,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,279,5,1,2,9:28 PM,3:37,Biyombo Bad Pass Turnover (P1.T11),,Watford STEAL (2 STL),,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,281,2,2,2,9:28 PM,3:32,,,MISS Russell 26' 3PT Running Jump Shot,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,282,4,0,2,9:28 PM,3:29,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,283,2,101,2,9:28 PM,3:18,MISS Johnson 9' Driving Floating Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,284,4,0,2,9:28 PM,3:17,Johnson REBOUND (Off:1 Def:0),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,285,2,1,2,9:28 PM,3:14,MISS Barnes 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,286,4,0,2,9:28 PM,3:14,,,C. Johnson REBOUND (Off:0 Def:2),,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,287,6,2,2,9:28 PM,3:08,Johnson S.FOUL (P1.T2) (D.Guthrie),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,289,3,11,2,9:28 PM,3:08,,,Watford Free Throw 1 of 2 (8 PTS),51 - 51,TIE,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,292,3,12,2,9:28 PM,3:08,,,MISS Watford Free Throw 2 of 2,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,290,8,0,2,9:29 PM,3:08,SUB: Fox FOR Barnes,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,293,4,0,2,9:29 PM,3:05,Biyombo REBOUND (Off:1 Def:5),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,294,1,57,2,9:29 PM,2:48,Fox 9' Driving Hook Shot (2 PTS) (Paul 6 AST),,,51 - 53,2,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,296,1,43,2,9:29 PM,2:37,,,Claxton 1' Alley Oop Layup (4 PTS) (Russell 2 AST),53 - 53,TIE,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,298,1,58,2,9:30 PM,2:23,Biyombo 2' Turnaround Hook Shot (10 PTS),,,53 - 55,2,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,300,1,79,2,9:30 PM,2:05,,,Thomas 12' Pullup Jump Shot (11 PTS) (Claxton 3 AST),55 - 55,TIE,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,303,1,1,2,9:30 PM,1:52,Fox 3PT Jump Shot (5 PTS) (Biyombo 1 AST),,,55 - 58,3,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,305,2,9,2,9:31 PM,1:22,Biyombo BLOCK (1 BLK),,MISS C. Johnson 3' Driving Dunk,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,1
+0022400888,307,4,0,2,9:31 PM,1:20,,,Claxton REBOUND (Off:2 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,308,2,1,2,9:31 PM,1:20,,,MISS Russell 26' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,309,4,0,2,9:31 PM,1:18,Johnson REBOUND (Off:1 Def:1),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,310,2,101,2,9:31 PM,1:10,MISS Johnson 4' Driving Floating Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,311,4,0,2,9:31 PM,1:08,,,Claxton REBOUND (Off:2 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,312,2,76,2,9:31 PM,1:07,Biyombo BLOCK (2 BLK),,MISS Watford 2' Running Finger Roll Layup,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,1
+0022400888,313,4,0,2,9:31 PM,1:04,Fox REBOUND (Off:0 Def:2),,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,314,5,2,2,9:31 PM,0:56,Vassell Lost Ball Turnover (P2.T12),,Watford STEAL (3 STL),,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,316,6,2,2,9:31 PM,0:52,Paul S.FOUL (P1.T3) (S.Jelks),,,,,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,319,3,11,2,9:32 PM,0:52,,,Thomas Free Throw 1 of 2 (12 PTS),56 - 58,2,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,320,3,12,2,9:32 PM,0:52,,,Thomas Free Throw 2 of 2 (13 PTS),57 - 58,1,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,321,2,86,2,9:33 PM,0:29,MISS Vassell 11' Turnaround Fadeaway Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,322,4,0,2,9:33 PM,0:28,Johnson REBOUND (Off:2 Def:1),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,323,2,97,2,9:33 PM,0:28,MISS Johnson Tip Layup Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,324,4,0,2,9:33 PM,0:28,Johnson REBOUND (Off:3 Def:1),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,325,2,97,2,9:33 PM,0:28,MISS Johnson Tip Layup Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,326,4,0,2,9:33 PM,0:28,Johnson REBOUND (Off:4 Def:1),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,327,1,97,2,9:33 PM,0:28,Johnson Tip Layup Shot (11 PTS),,,57 - 60,3,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,328,2,101,2,9:33 PM,0:07,,,MISS Thomas 11' Driving Floating Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,329,4,0,2,9:33 PM,0:06,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,331,8,0,2,9:33 PM,0:06,SUB: Champagnie FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,333,8,0,2,9:34 PM,0:06,,,SUB: Martin FOR Russell,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,334,8,0,2,9:34 PM,0:06,,,SUB: K. Johnson FOR C. Johnson,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,335,8,0,2,9:34 PM,0:06,,,SUB: Wilson FOR Watford,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,336,8,0,2,9:34 PM,0:06,,,SUB: Williams FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,341,1,75,2,9:34 PM,0:00,Fox 1' Driving Finger Roll Layup (7 PTS),,,57 - 62,5,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,342,13,0,2,9:35 PM,0:00,,End of 2nd Period (9:35 PM EST),,57 - 62,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,353,12,0,3,9:50 PM,12:00,,Start of 3rd Period (9:50 PM EST),,57 - 62,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,354,5,1,3,9:50 PM,11:42,Vassell STEAL (2 STL),,Thomas Bad Pass Turnover (P1.T10),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,356,2,98,3,9:50 PM,11:29,MISS Biyombo 2' Cutting Layup Shot,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,358,4,0,3,9:50 PM,11:27,Vassell REBOUND (Off:1 Def:5),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,359,1,9,3,9:50 PM,11:25,Vassell Driving Dunk (15 PTS),,,57 - 64,7,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,360,6,2,3,9:51 PM,11:04,Biyombo S.FOUL (P2.T1) (N.Buchert),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,362,3,11,3,9:51 PM,11:04,,,C. Johnson Free Throw 1 of 2 (6 PTS),58 - 64,6,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,363,3,12,3,9:52 PM,11:04,,,C. Johnson Free Throw 2 of 2 (7 PTS),59 - 64,5,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,364,2,86,3,9:52 PM,10:51,MISS Fox 10' Turnaround Fadeaway Shot,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,365,4,0,3,9:52 PM,10:48,,,Claxton REBOUND (Off:2 Def:4),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,366,2,101,3,9:52 PM,10:38,,,MISS Thomas 8' Driving Floating Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,367,4,0,3,9:52 PM,10:36,Barnes REBOUND (Off:0 Def:2),,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,368,6,2,3,9:52 PM,10:31,,,Williams S.FOUL (P2.T1) (N.Buchert),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,370,3,11,3,9:53 PM,10:31,Biyombo Free Throw 1 of 2 (11 PTS),,,59 - 65,6,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,371,3,12,3,9:53 PM,10:31,MISS Biyombo Free Throw 2 of 2,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,372,4,0,3,9:53 PM,10:30,,,Claxton REBOUND (Off:2 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,373,2,1,3,9:53 PM,10:11,,,MISS Russell 25' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,375,4,0,3,9:53 PM,10:10,Biyombo REBOUND (Off:1 Def:6),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,376,5,45,3,9:54 PM,10:09,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022400888,377,2,6,3,9:54 PM,10:02,,,MISS Claxton 2' Driving Layup,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,378,4,0,3,9:54 PM,9:59,Vassell REBOUND (Off:1 Def:6),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,379,2,2,3,9:54 PM,9:53,MISS Barnes 3PT Running Jump Shot,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,380,4,0,3,9:54 PM,9:50,,,Thomas REBOUND (Off:0 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,381,2,2,3,9:54 PM,9:47,,,MISS Williams 25' 3PT Running Jump Shot,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,382,4,0,3,9:54 PM,9:44,Biyombo REBOUND (Off:1 Def:7),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,383,2,6,3,9:54 PM,9:31,MISS Fox 2' Driving Layup,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,385,2,97,3,9:54 PM,9:27,MISS Biyombo Tip Layup Shot,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,384,4,0,3,9:54 PM,9:27,Biyombo REBOUND (Off:2 Def:7),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,386,4,0,3,9:54 PM,9:24,Fox REBOUND (Off:1 Def:2),,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,387,1,72,3,9:54 PM,9:24,Fox Putback Layup (9 PTS),,,59 - 67,8,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,388,1,1,3,9:55 PM,9:10,,,Russell 26' 3PT Jump Shot (10 PTS) (Thomas 4 AST),62 - 67,5,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,390,9,1,3,9:55 PM,8:55,SPURS Timeout: Regular (Full 3 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,391,1,52,3,9:58 PM,8:49,Biyombo 1' Alley Oop Dunk (13 PTS) (Fox 4 AST),,,62 - 69,7,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,393,2,1,3,9:58 PM,8:20,,,MISS Williams 26' 3PT Jump Shot,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,394,4,0,3,9:58 PM,8:17,Biyombo REBOUND (Off:2 Def:8),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,395,7,5,3,9:59 PM,8:14,,,Williams Violation:Kicked Ball (S.Jelks),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022400888,396,1,101,3,9:59 PM,8:02,Paul 12' Driving Floating Jump Shot (5 PTS) (Biyombo 2 AST),,,62 - 71,9,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,397,2,75,3,9:59 PM,7:43,,,MISS Russell 2' Driving Finger Roll Layup,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,398,4,0,3,9:59 PM,7:42,Biyombo REBOUND (Off:2 Def:9),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,399,1,103,3,9:59 PM,7:39,Vassell 25' 3PT Running Pull-Up Jump Shot (18 PTS) (Paul 7 AST),,,62 - 74,12,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,401,9,1,3,10:00 PM,7:37,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,403,8,0,3,10:02 PM,7:37,,,SUB: Martin FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,404,8,0,3,10:02 PM,7:37,,,SUB: K. Johnson FOR Russell,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,407,2,1,3,10:03 PM,7:24,,,MISS C. Johnson 27' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,408,4,0,3,10:03 PM,7:20,Biyombo REBOUND (Off:2 Def:10),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,409,1,1,3,10:03 PM,7:03,Vassell 26' 3PT Jump Shot (21 PTS) (Barnes 3 AST),,,62 - 77,15,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,412,1,57,3,10:04 PM,6:35,,,Williams 4' Driving Hook Shot (7 PTS) (Martin 2 AST),64 - 77,13,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,414,2,79,3,10:04 PM,6:09,MISS Paul 17' Pullup Jump Shot,,,,,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,415,4,0,3,10:04 PM,6:07,,,K. Johnson REBOUND (Off:0 Def:4),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,416,6,2,3,10:04 PM,6:00,Biyombo S.FOUL (P3.T2) (S.Jelks),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,418,3,11,3,10:05 PM,6:00,,,MISS Claxton Free Throw 1 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,419,4,1,3,10:05 PM,6:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,426,3,12,3,10:05 PM,6:00,,,MISS Claxton Free Throw 2 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,420,8,0,3,10:05 PM,6:00,SUB: Sochan FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,421,8,0,3,10:05 PM,6:00,SUB: Castle FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,422,8,0,3,10:05 PM,6:00,SUB: Johnson FOR Barnes,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,427,4,0,3,10:05 PM,5:57,Vassell REBOUND (Off:1 Def:7),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,428,1,1,3,10:05 PM,5:41,Vassell 3PT Jump Shot (24 PTS) (Johnson 1 AST),,,64 - 80,16,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,430,2,1,3,10:06 PM,5:29,,,MISS Williams 3PT Jump Shot,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,431,4,0,3,10:06 PM,5:26,Johnson REBOUND (Off:4 Def:2),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,433,8,0,3,10:06 PM,5:19,,,SUB: Sharpe FOR Williams,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,434,8,0,3,10:06 PM,5:19,,,SUB: Wilson FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,437,1,1,3,10:06 PM,5:11,Paul 3PT Jump Shot (8 PTS) (Vassell 2 AST),,,64 - 83,19,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,439,2,79,3,10:07 PM,4:54,,,MISS Martin 26' 3PT Pullup Jump Shot,,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,440,4,0,3,10:07 PM,4:50,Vassell REBOUND (Off:1 Def:8),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,441,1,102,3,10:07 PM,4:45,Castle 4' Driving Floating Bank Jump Shot (9 PTS) (Vassell 3 AST),,,64 - 85,21,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,443,6,2,3,10:07 PM,4:45,,,Sharpe S.FOUL (P3.T2) (S.Jelks),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,445,9,1,3,10:07 PM,4:45,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,446,8,0,3,10:08 PM,4:45,SUB: Champagnie FOR Paul,,,,,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,447,8,0,3,10:08 PM,4:45,,,SUB: Watford FOR C. Johnson,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,450,3,10,3,10:09 PM,4:45,MISS Castle Free Throw 1 of 1,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,451,4,0,3,10:09 PM,4:41,Castle REBOUND (Off:1 Def:1),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,452,2,1,3,10:09 PM,4:29,MISS Castle 28' 3PT Jump Shot,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,453,4,0,3,10:09 PM,4:28,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,454,6,3,3,10:09 PM,4:28,Sochan L.B.FOUL (P2.T3) (D.Guthrie),,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,456,6,2,3,10:10 PM,4:09,Sochan S.FOUL (P3.T4) (S.Jelks),,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,458,3,11,3,10:10 PM,4:09,,,Wilson Free Throw 1 of 2 (7 PTS),65 - 85,20,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,459,3,12,3,10:10 PM,4:09,,,Wilson Free Throw 2 of 2 (8 PTS),66 - 85,19,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,460,2,47,3,10:11 PM,3:48,MISS Sochan 4' Turnaround Jump Shot,,Sharpe BLOCK (1 BLK),,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1
+0022400888,462,4,0,3,10:11 PM,3:45,,,K. Johnson REBOUND (Off:0 Def:5),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,463,6,2,3,10:11 PM,3:45,Vassell S.FOUL (P2.PN) (N.Buchert),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,465,3,11,3,10:11 PM,3:45,,,K. Johnson Free Throw 1 of 2 (4 PTS),67 - 85,18,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,466,3,12,3,10:12 PM,3:45,,,K. Johnson Free Throw 2 of 2 (5 PTS),68 - 85,17,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,467,1,1,3,10:12 PM,3:31,Vassell 25' 3PT Jump Shot (27 PTS) (Castle 5 AST),,,68 - 88,20,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,469,5,1,3,10:12 PM,3:10,Vassell STEAL (3 STL),,K. Johnson Bad Pass Turnover (P1.T11),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,471,1,103,3,10:12 PM,3:05,Vassell 26' 3PT Running Pull-Up Jump Shot (30 PTS),,,68 - 91,23,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,472,9,1,3,10:12 PM,3:05,,,Nets Timeout: Regular (Reg.5 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,473,8,0,3,10:14 PM,3:05,,,SUB: Thomas FOR Martin,,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,474,8,0,3,10:14 PM,3:05,,,SUB: Russell FOR K. Johnson,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,477,1,75,3,10:14 PM,2:50,,,Wilson 3' Driving Finger Roll Layup (10 PTS) (Thomas 5 AST),70 - 91,21,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,479,1,98,3,10:14 PM,2:28,Johnson 1' Cutting Layup Shot (13 PTS) (Vassell 4 AST),,,70 - 93,23,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,481,2,101,3,10:15 PM,2:02,,,MISS Watford 11' Driving Floating Jump Shot,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,482,4,0,3,10:15 PM,2:00,,,Sharpe REBOUND (Off:1 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,483,2,97,3,10:15 PM,2:00,,,MISS Sharpe Tip Layup Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,484,4,0,3,10:15 PM,1:58,Sochan REBOUND (Off:0 Def:2),,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,485,2,5,3,10:15 PM,1:49,MISS Sochan 2' Layup,,Russell BLOCK (1 BLK),,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,1
+0022400888,487,4,0,3,10:15 PM,1:49,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,489,8,0,3,10:15 PM,1:49,SUB: Fox FOR Vassell,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,491,1,7,3,10:16 PM,1:46,Castle 1' Dunk (11 PTS),,,70 - 95,25,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022400888,492,6,1,3,10:16 PM,1:44,Champagnie P.FOUL (P1.PN) (N.Buchert),,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,494,3,11,3,10:16 PM,1:44,,,Russell Free Throw 1 of 2 (11 PTS),71 - 95,24,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,495,3,12,3,10:16 PM,1:44,,,Russell Free Throw 2 of 2 (12 PTS),72 - 95,23,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,496,2,1,3,10:16 PM,1:31,MISS Sochan 3PT Jump Shot,,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,497,4,0,3,10:17 PM,1:26,,,Watford REBOUND (Off:0 Def:4),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,498,1,1,3,10:17 PM,1:12,,,Wilson 26' 3PT Jump Shot (13 PTS) (Watford 4 AST),75 - 95,20,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,500,1,73,3,10:17 PM,0:51,Castle 1' Driving Reverse Layup (13 PTS) (Sochan 2 AST),,,75 - 97,22,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,502,1,75,3,10:17 PM,0:43,,,Thomas 1' Driving Finger Roll Layup (15 PTS),77 - 97,20,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,503,6,2,3,10:18 PM,0:37,,,Sharpe S.FOUL (P4.T3) (N.Buchert),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,505,3,11,3,10:18 PM,0:37,MISS Castle Free Throw 1 of 2,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,506,4,1,3,10:18 PM,0:37,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,507,3,12,3,10:18 PM,0:37,MISS Castle Free Throw 2 of 2,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,508,4,0,3,10:19 PM,0:33,,,Watford REBOUND (Off:0 Def:5),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,509,1,1,3,10:19 PM,0:26,,,Thomas 27' 3PT Jump Shot (18 PTS) (Russell 3 AST),80 - 97,17,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,511,1,6,3,10:19 PM,0:06,Fox 3' Driving Layup (11 PTS) (Castle 6 AST),,,80 - 99,19,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,512,2,79,3,10:19 PM,0:00,Sochan BLOCK (1 BLK),,MISS Thomas 25' 3PT Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1
+0022400888,514,4,0,3,10:19 PM,0:00,,,Watford REBOUND (Off:1 Def:5),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,515,2,78,3,10:19 PM,0:00,,,MISS Watford 3' Floating Jump Shot,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,516,4,0,3,10:19 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,517,13,0,3,10:19 PM,0:00,,End of 3rd Period (10:19 PM EST),,80 - 99,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,521,12,0,4,10:22 PM,12:00,,Start of 4th Period (10:22 PM EST),,80 - 99,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,522,1,9,4,10:22 PM,11:38,Johnson 1' Driving Dunk (15 PTS) (Fox 5 AST),,,80 - 101,21,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,524,1,1,4,10:23 PM,11:18,,,Thomas 26' 3PT Jump Shot (21 PTS) (C. Johnson 2 AST),83 - 101,18,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,526,1,1,4,10:23 PM,11:06,Champagnie 25' 3PT Jump Shot (6 PTS) (Fox 6 AST),,,83 - 104,21,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,528,6,1,4,10:23 PM,10:50,Champagnie P.FOUL (P2.T1) (D.Guthrie),,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,530,2,1,4,10:23 PM,10:46,,,MISS C. Johnson 28' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,531,4,0,4,10:24 PM,10:42,Castle REBOUND (Off:1 Def:2),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,532,2,2,4,10:24 PM,10:39,MISS Champagnie 3PT Running Jump Shot,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,533,4,0,4,10:24 PM,10:34,,,Watford REBOUND (Off:1 Def:6),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,534,2,2,4,10:24 PM,10:31,,,MISS Thomas 27' 3PT Running Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,535,4,0,4,10:24 PM,10:28,Johnson REBOUND (Off:4 Def:3),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,536,1,52,4,10:24 PM,10:16,Castle 1' Alley Oop Dunk (15 PTS) (Sochan 3 AST),,,83 - 106,23,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,538,1,79,4,10:24 PM,10:02,,,Thomas 26' 3PT Pullup Jump Shot (24 PTS),86 - 106,20,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,539,9,1,4,10:25 PM,9:59,SPURS Timeout: Regular (Full 4 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,540,18,7,4,10:27 PM,9:59,,Instant Replay4th Period (10:27 PM EST),,86 - 106,20,0,538,,,,,,0,0,,,,,,1,0,,,,,,0
+0022400888,541,8,0,4,10:27 PM,9:59,,,SUB: Claxton FOR Sharpe,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,543,2,1,4,10:28 PM,9:39,MISS Johnson 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,544,4,0,4,10:28 PM,9:35,Castle REBOUND (Off:2 Def:2),,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,545,2,1,4,10:28 PM,9:31,MISS Johnson 25' 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,546,4,0,4,10:28 PM,9:30,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,548,6,3,4,10:28 PM,9:30,,,Watford L.B.FOUL (P2.T1) (D.Guthrie),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,550,1,80,4,10:28 PM,9:22,Fox 23' Step Back Jump Shot (13 PTS),,,86 - 108,22,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,551,1,1,4,10:29 PM,9:05,,,C. Johnson 24' 3PT Jump Shot (10 PTS) (Russell 4 AST),89 - 108,19,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,553,2,6,4,10:29 PM,8:52,MISS Castle 2' Driving Layup,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,554,4,0,4,10:29 PM,8:51,,,Watford REBOUND (Off:1 Def:7),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,555,2,2,4,10:29 PM,8:47,,,MISS Thomas 26' 3PT Running Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,556,4,0,4,10:29 PM,8:42,,,C. Johnson REBOUND (Off:1 Def:2),,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,557,2,1,4,10:29 PM,8:40,,,MISS Thomas 3PT Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,558,4,0,4,10:29 PM,8:37,,,Watford REBOUND (Off:2 Def:7),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,559,1,72,4,10:29 PM,8:36,,,Watford 1' Putback Layup (10 PTS),91 - 108,17,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,560,1,99,4,10:29 PM,8:20,Champagnie 1' Cutting Finger Roll Layup Shot (8 PTS) (Fox 7 AST),,,91 - 110,19,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,562,2,1,4,10:30 PM,8:11,,,MISS Russell 26' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,563,4,0,4,10:30 PM,8:11,,,Watford REBOUND (Off:3 Def:7),,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,564,1,108,4,10:30 PM,8:05,,,Claxton 1' Cutting Dunk Shot (6 PTS) (Thomas 6 AST),93 - 110,17,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,566,9,1,4,10:30 PM,8:05,SPURS Timeout: Regular (Full 5 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,567,8,0,4,10:32 PM,8:05,SUB: Barnes FOR Johnson,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,568,8,0,4,10:32 PM,8:05,SUB: Vassell FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,569,8,0,4,10:32 PM,8:05,,,SUB: Martin FOR Russell,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,570,8,0,4,10:32 PM,8:05,,,SUB: K. Johnson FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,575,2,1,4,10:33 PM,7:50,MISS Champagnie 24' 3PT Jump Shot,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,576,4,0,4,10:33 PM,7:48,,,K. Johnson REBOUND (Off:0 Def:6),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,577,1,74,4,10:33 PM,7:42,,,C. Johnson 2' Running Reverse Layup (12 PTS) (Watford 5 AST),95 - 110,15,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,578,1,79,4,10:33 PM,7:23,Vassell 17' Pullup Jump Shot (32 PTS),,,95 - 112,17,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,580,1,75,4,10:34 PM,7:00,,,Martin 2' Driving Finger Roll Layup (6 PTS) (C. Johnson 3 AST),97 - 112,15,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,582,1,80,4,10:34 PM,6:33,Barnes 25' 3PT Step Back Jump Shot (9 PTS),,,97 - 115,18,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,583,1,80,4,10:34 PM,6:21,,,C. Johnson 25' 3PT Step Back Jump Shot (15 PTS),100 - 115,15,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,584,1,9,4,10:35 PM,6:02,Castle 1' Driving Dunk (17 PTS),,,100 - 117,17,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,585,6,2,4,10:35 PM,5:51,Champagnie S.FOUL (P3.T2) (N.Buchert),,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,587,3,11,4,10:36 PM,5:51,,,Watford Free Throw 1 of 2 (11 PTS),101 - 117,16,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,588,8,0,4,10:36 PM,5:51,SUB: Biyombo FOR Sochan,,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,589,8,0,4,10:36 PM,5:51,SUB: Paul FOR Champagnie,,,,,4,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,590,8,0,4,10:36 PM,5:51,,,SUB: Wilson FOR C. Johnson,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,594,3,12,4,10:36 PM,5:51,,,Watford Free Throw 2 of 2 (12 PTS),102 - 117,15,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,595,6,28,4,10:36 PM,5:50,,,Wilson Personal Take Foul (P1.T2) (S.Jelks),,,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,597,8,0,4,10:37 PM,5:50,,,SUB: Williams FOR Watford,,,5,1630570,Trendon Watford,1610612751.0,Brooklyn,Nets,BKN,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,599,2,78,4,10:37 PM,5:36,MISS Castle 4' Floating Jump Shot,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,600,4,0,4,10:37 PM,5:35,Biyombo REBOUND (Off:3 Def:10),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,601,6,1,4,10:37 PM,5:35,,,Claxton P.FOUL (P2.T3) (D.Guthrie),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,603,5,11,4,10:38 PM,5:21,SPURS Turnover: Shot Clock (T#14),,,,,2,1610612759,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400888,604,5,2,4,10:38 PM,5:11,Castle STEAL (2 STL),,K. Johnson Lost Ball Turnover (P2.T12),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,606,2,2,4,10:38 PM,5:06,MISS Castle 26' 3PT Running Jump Shot,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,607,4,0,4,10:38 PM,5:06,,,K. Johnson REBOUND (Off:0 Def:7),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,608,1,1,4,10:38 PM,4:54,,,K. Johnson 25' 3PT Jump Shot (8 PTS) (Claxton 4 AST),105 - 117,12,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,610,1,79,4,10:39 PM,4:33,Vassell 13' Pullup Jump Shot (34 PTS),,,105 - 119,14,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,611,5,1,4,10:39 PM,4:21,Vassell STEAL (4 STL),,Williams Bad Pass Turnover (P1.T13),,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,613,1,1,4,10:39 PM,4:05,Paul 25' 3PT Jump Shot (11 PTS) (Vassell 5 AST),,,105 - 122,17,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,615,9,1,4,10:39 PM,4:04,,,Nets Timeout: Regular (Reg.6 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400888,616,8,0,4,10:40 PM,4:04,SUB: Johnson FOR Castle,,,,,4,1642264,Stephon Castle,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,617,8,0,4,10:40 PM,4:04,,,SUB: C. Johnson FOR Williams,,,5,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,634,8,0,4,10:40 PM,4:04,SUB: Fox FOR Barnes,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,620,1,1,4,10:41 PM,3:40,,,Martin 3PT Jump Shot (9 PTS) (C. Johnson 4 AST),108 - 122,14,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,622,2,78,4,10:42 PM,3:19,MISS Vassell 11' Floating Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,623,4,0,4,10:42 PM,3:18,Vassell REBOUND (Off:2 Def:8),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,671,2,97,4,10:42 PM,3:18,MISS Vassell 1' Tip Layup Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,672,4,0,4,10:42 PM,3:16,,,Martin REBOUND (Off:1 Def:1),,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,624,2,1,4,10:42 PM,3:08,,,MISS K. Johnson 3PT Jump Shot,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,625,4,0,4,10:42 PM,3:05,Johnson REBOUND (Off:4 Def:4),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,626,1,101,4,10:42 PM,2:56,Fox 7' Driving Floating Jump Shot (15 PTS),,,108 - 124,16,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,627,1,93,4,10:42 PM,2:40,,,C. Johnson 2' Driving Bank Hook Shot (17 PTS),110 - 124,14,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,628,1,1,4,10:42 PM,2:23,Vassell 26' 3PT Jump Shot (37 PTS) (Biyombo 3 AST),,,110 - 127,17,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022400888,630,2,1,4,10:43 PM,2:09,,,MISS K. Johnson 25' 3PT Jump Shot,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,631,4,0,4,10:43 PM,2:05,Biyombo REBOUND (Off:3 Def:11),,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,632,6,1,4,10:43 PM,2:02,,,K. Johnson P.FOUL (P2.T4) (D.Guthrie),,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022400888,636,8,0,4,10:43 PM,2:02,SUB: Barnes FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,637,8,0,4,10:43 PM,2:02,SUB: Sochan FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612759.0,San Antonio,Spurs,SAS,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,638,8,0,4,10:43 PM,2:02,,,SUB: Whitehead FOR K. Johnson,,,5,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,639,8,0,4,10:43 PM,2:02,,,SUB: Lewis FOR C. Johnson,,,5,1629661,Cameron Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1641721,Maxwell Lewis,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,644,2,79,4,10:44 PM,1:46,MISS Vassell 29' 3PT Pullup Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,645,4,0,4,10:44 PM,1:43,,,Martin REBOUND (Off:1 Def:2),,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,646,6,1,4,10:44 PM,1:34,Sochan P.FOUL (P4.T3) (N.Buchert),,,,,4,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400888,648,8,0,4,10:44 PM,1:34,SUB: Mamukelashvili FOR Johnson,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1630572,Sandro Mamukelashvili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,649,8,0,4,10:44 PM,1:34,SUB: Branham FOR Paul,,,,,4,101108,Chris Paul,1610612759.0,San Antonio,Spurs,SAS,4,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,650,8,0,4,10:44 PM,1:34,SUB: Wesley FOR Barnes,,,,,4,203084,Harrison Barnes,1610612759.0,San Antonio,Spurs,SAS,4,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022400888,665,8,0,4,10:44 PM,1:34,,,SUB: Sharpe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400888,654,1,1,4,10:45 PM,1:21,,,Whitehead 25' 3PT Jump Shot (3 PTS) (Martin 3 AST),113 - 127,14,5,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400888,656,2,80,4,10:45 PM,1:02,MISS Vassell 24' 3PT Step Back Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,657,4,0,4,10:45 PM,0:58,,,Lewis REBOUND (Off:0 Def:1),,,5,1641721,Maxwell Lewis,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,658,2,1,4,10:45 PM,0:53,,,MISS Martin 3PT Jump Shot,,,5,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,659,4,0,4,10:45 PM,0:53,Vassell REBOUND (Off:2 Def:9),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,660,2,79,4,10:45 PM,0:42,MISS Wesley 10' Pullup Jump Shot,,,,,4,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,661,4,0,4,10:45 PM,0:37,,,Sharpe REBOUND (Off:1 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,662,2,1,4,10:46 PM,0:29,,,MISS Wilson 26' 3PT Jump Shot,,,5,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,663,4,0,4,10:46 PM,0:26,Mamukelashvili REBOUND (Off:0 Def:1),,,,,4,1630572,Sandro Mamukelashvili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022400888,664,5,11,4,10:46 PM,0:02,SPURS Turnover: Shot Clock (T#15),,,,,2,1610612759,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400888,667,2,79,4,10:46 PM,0:00,,,MISS Whitehead 34' 3PT Pullup Jump Shot,,,5,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400888,668,4,0,4,10:46 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400888,669,13,0,4,10:47 PM,0:00,,End of 4th Period (10:47 PM EST),,113 - 127,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

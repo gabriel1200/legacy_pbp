@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100226,2,12,0,1,9:46 PM,12:00,,Start of 1st Period (9:46 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,4,10,0,1,9:46 PM,12:00,Jump Ball Powell vs. Ayton: Tip to Doncic,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1
+0042100226,7,2,6,1,9:46 PM,11:39,MISS Doncic 2' Driving Layup,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,8,4,0,1,9:47 PM,11:37,,,Ayton REBOUND (Off:0 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,10,2,63,1,9:47 PM,11:22,,,MISS Crowder 13' Fadeaway Jumper,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,11,4,0,1,9:47 PM,11:20,,,Ayton REBOUND (Off:1 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,12,1,3,1,9:47 PM,11:18,,,Ayton 5' Hook Shot (2 PTS),2 - 0,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,13,2,101,1,9:47 PM,11:07,MISS Brunson 6' Driving Floating Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,14,4,0,1,9:47 PM,11:05,,,Ayton REBOUND (Off:1 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,15,5,1,1,9:47 PM,10:57,Brunson STEAL (1 STL),,Paul Bad Pass Turnover (P1.T1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,17,1,41,1,9:48 PM,10:52,Brunson 1' Running Layup (2 PTS),,,2 - 2,TIE,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,18,1,75,1,9:48 PM,10:26,,,Booker 5' Driving Finger Roll Layup (2 PTS),4 - 2,-2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,19,2,102,1,9:48 PM,10:09,MISS Bullock 4' Driving Floating Bank Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,21,2,97,1,9:48 PM,10:05,MISS Bullock 2' Tip Layup Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,20,4,0,1,9:48 PM,10:05,Bullock REBOUND (Off:2 Def:0),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,22,4,0,1,9:48 PM,10:04,Bullock REBOUND (Off:2 Def:0),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,23,1,97,1,9:48 PM,10:04,Bullock Tip Layup Shot (2 PTS),,,4 - 4,TIE,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,24,2,79,1,9:49 PM,9:53,,,MISS Bridges 13' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,25,4,0,1,9:49 PM,9:51,Finney-Smith REBOUND (Off:0 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,26,2,101,1,9:49 PM,9:43,MISS Doncic 8' Driving Floating Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,27,4,0,1,9:49 PM,9:42,Doncic REBOUND (Off:1 Def:0),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,28,2,80,1,9:49 PM,9:33,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,29,4,0,1,9:49 PM,9:29,,,Bridges REBOUND (Off:0 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,30,1,98,1,9:49 PM,9:13,,,Ayton 1' Cutting Layup Shot (4 PTS) (Bridges 1 AST),6 - 4,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,32,1,79,1,9:49 PM,8:57,Brunson 17' Pullup Jump Shot (4 PTS),,,6 - 6,TIE,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,34,6,2,1,9:50 PM,8:37,Finney-Smith S.FOUL (P1.T1) (J.Capers),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,36,3,11,1,9:50 PM,8:37,,,Crowder Free Throw 1 of 2 (1 PTS),7 - 6,-1,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,37,8,0,1,9:51 PM,8:37,SUB: Kleber FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,39,3,12,1,9:51 PM,8:37,,,Crowder Free Throw 2 of 2 (2 PTS),8 - 6,-2,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,40,1,86,1,9:51 PM,8:23,Doncic 13' Turnaround Fadeaway (2 PTS),,,8 - 8,TIE,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,41,1,79,1,9:51 PM,8:07,,,Crowder 16' Pullup Jump Shot (4 PTS) (Booker 1 AST),10 - 8,-2,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,43,2,1,1,9:51 PM,7:55,MISS Kleber 25' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,44,4,0,1,9:51 PM,7:52,,,Bridges REBOUND (Off:0 Def:2),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,45,2,86,1,9:52 PM,7:42,,,MISS Ayton 11' Turnaround Fadeaway Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,46,4,0,1,9:52 PM,7:40,Brunson REBOUND (Off:0 Def:1),,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,47,2,1,1,9:52 PM,7:34,MISS Bullock 28' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,48,4,0,1,9:52 PM,7:32,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,50,1,1,1,9:52 PM,7:30,Finney-Smith 24' 3PT Jump Shot (3 PTS) (Doncic 1 AST),,,10 - 11,1,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,52,1,101,1,9:52 PM,7:06,,,Booker 11' Driving Floating Jump Shot (4 PTS),12 - 11,-1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,53,2,79,1,9:53 PM,6:56,MISS Doncic 27' 3PT Pullup Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,54,4,0,1,9:53 PM,6:56,,,Crowder REBOUND (Off:0 Def:1),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,55,2,102,1,9:53 PM,6:41,,,MISS Booker 6' Driving Floating Bank Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,56,4,0,1,9:53 PM,6:40,,,Booker REBOUND (Off:1 Def:0),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,57,6,2,1,9:53 PM,6:40,Bullock S.FOUL (P1.T2) (J.Capers),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,59,9,1,1,9:53 PM,6:40,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,60,3,11,1,9:57 PM,6:40,,,Booker Free Throw 1 of 2 (5 PTS),13 - 11,-2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,61,3,12,1,9:57 PM,6:40,,,Booker Free Throw 2 of 2 (6 PTS),14 - 11,-3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,62,6,2,1,9:57 PM,6:30,,,Crowder S.FOUL (P1.T1) (E.Malloy),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,64,3,11,1,9:58 PM,6:30,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,65,4,1,1,9:58 PM,6:30,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,66,3,12,1,9:58 PM,6:30,Doncic Free Throw 2 of 2 (3 PTS),,,14 - 12,-2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,67,1,1,1,9:59 PM,6:07,,,Crowder 3PT Jump Shot (7 PTS) (Ayton 1 AST),17 - 12,-5,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,69,6,1,1,9:59 PM,5:55,,,Bridges P.FOUL (P1.T2) (J.Capers),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,71,1,1,1,9:59 PM,5:45,Kleber 25' 3PT Jump Shot (3 PTS) (Doncic 2 AST),,,17 - 15,-2,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,73,5,2,1,9:59 PM,5:28,Doncic STEAL (1 STL),,Booker Lost Ball Turnover (P1.T2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,75,1,76,1,10:00 PM,5:23,Doncic 1' Running Finger Roll Layup (5 PTS),,,17 - 17,TIE,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,76,1,58,1,10:00 PM,5:02,,,Ayton 11' Turnaround Hook Shot (6 PTS),19 - 17,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,77,2,1,1,10:00 PM,4:45,MISS Brunson 3PT Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,78,4,0,1,10:00 PM,4:41,,,Ayton REBOUND (Off:1 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,79,2,58,1,10:00 PM,4:30,,,MISS Ayton 6' Turnaround Hook Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,80,4,0,1,10:01 PM,4:27,Kleber REBOUND (Off:0 Def:1),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,81,1,80,1,10:01 PM,4:10,Doncic 25' 3PT Step Back Jump Shot (8 PTS),,,19 - 20,1,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,82,6,2,1,10:01 PM,3:57,Kleber S.FOUL (P1.T3) (C.Kirkland),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,84,3,11,1,10:01 PM,3:57,,,MISS Ayton Free Throw 1 of 2,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,85,4,1,1,10:01 PM,3:57,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,92,3,12,1,10:01 PM,3:57,,,MISS Ayton Free Throw 2 of 2,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,86,8,0,1,10:02 PM,3:57,SUB: Powell FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,87,8,0,1,10:02 PM,3:57,,,SUB: Johnson FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,88,8,0,1,10:02 PM,3:57,,,SUB: Shamet FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,93,4,0,1,10:02 PM,3:55,Doncic REBOUND (Off:1 Def:1),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,94,1,102,1,10:02 PM,3:45,Doncic 7' Driving Floating Bank Jump Shot (10 PTS),,,19 - 22,3,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,95,5,1,1,10:02 PM,3:20,Doncic STEAL (2 STL),,Shamet Bad Pass Turnover (P1.T3),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,97,2,41,1,10:02 PM,3:15,MISS Doncic 3' Running Layup,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,98,4,0,1,10:03 PM,3:12,,,Bridges REBOUND (Off:0 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,99,1,101,1,10:03 PM,3:07,,,Booker 6' Driving Floating Jump Shot (8 PTS) (Bridges 2 AST),21 - 22,1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,101,6,2,1,10:03 PM,2:51,,,Johnson S.FOUL (P1.T3) (C.Kirkland),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,103,9,1,1,10:03 PM,2:51,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,104,8,0,1,10:03 PM,2:51,SUB: Bertans FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,105,8,0,1,10:03 PM,2:51,SUB: Dinwiddie FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,106,8,0,1,10:03 PM,2:51,,,SUB: Biyombo FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,110,3,11,1,10:07 PM,2:51,Powell Free Throw 1 of 2 (1 PTS),,,21 - 23,2,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,111,3,12,1,10:07 PM,2:51,Powell Free Throw 2 of 2 (2 PTS),,,21 - 24,3,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,112,1,58,1,10:08 PM,2:29,,,Biyombo 5' Turnaround Hook Shot (2 PTS),23 - 24,1,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,113,2,79,1,10:08 PM,2:01,MISS Doncic 32' 3PT Pullup Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,114,4,0,1,10:08 PM,1:57,,,Booker REBOUND (Off:1 Def:1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,115,2,86,1,10:08 PM,1:38,,,MISS Bridges 13' Turnaround Fadeaway Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,116,4,0,1,10:08 PM,1:37,Doncic REBOUND (Off:1 Def:2),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,117,2,1,1,10:09 PM,1:27,MISS Bullock 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,118,4,0,1,10:09 PM,1:27,,,Shamet REBOUND (Off:0 Def:1),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,119,6,1,1,10:09 PM,1:26,Doncic P.FOUL (P1.T4) (E.Malloy),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,121,8,0,1,10:09 PM,1:26,SUB: Ntilikina FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,123,5,1,1,10:09 PM,1:16,Ntilikina STEAL (1 STL),,Shamet Bad Pass Turnover (P2.T4),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,125,1,80,1,10:09 PM,1:01,Dinwiddie 26' 3PT Step Back Jump Shot (3 PTS),,,23 - 27,4,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,126,6,2,1,10:10 PM,0:44,Powell S.FOUL (P1.PN) (C.Kirkland),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,128,3,11,1,10:10 PM,0:44,,,Bridges Free Throw 1 of 2 (1 PTS),24 - 27,3,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,129,3,12,1,10:11 PM,0:44,,,Bridges Free Throw 2 of 2 (2 PTS),25 - 27,2,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,130,2,6,1,10:11 PM,0:32,MISS Doncic 8' Driving Layup,,Bridges BLOCK (1 BLK),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0042100226,132,4,0,1,10:11 PM,0:32,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,134,2,86,1,10:12 PM,0:07,,,MISS Bridges 16' Turnaround Fadeaway Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,135,4,0,1,10:12 PM,0:06,Doncic REBOUND (Off:1 Def:3),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,136,6,2,1,10:12 PM,0:01,,,Shamet S.FOUL (P1.T4) (C.Kirkland),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,138,3,11,1,10:12 PM,0:01,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,139,4,1,1,10:12 PM,0:01,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,140,3,12,1,10:12 PM,0:01,Doncic Free Throw 2 of 2 (11 PTS),,,25 - 28,3,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,141,13,0,1,10:13 PM,0:00,,End of 1st Period (10:13 PM EST),,25 - 28,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100226,152,12,0,2,10:16 PM,12:00,,Start of 2nd Period (10:16 PM EST),,25 - 28,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,153,1,79,2,10:17 PM,11:48,,,Paul 25' 3PT Pullup Jump Shot (3 PTS),28 - 28,TIE,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0042100226,154,1,1,2,10:17 PM,11:23,Bullock 3PT Jump Shot (5 PTS) (Dinwiddie 1 AST),,,28 - 31,3,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,156,2,79,2,10:17 PM,11:02,,,MISS Shamet 15' Pullup Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,157,4,0,2,10:17 PM,10:59,Bertans REBOUND (Off:0 Def:1),,,,,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,158,1,103,2,10:17 PM,10:55,Dinwiddie 25' 3PT Running Pull-Up Jump Shot (6 PTS),,,28 - 34,6,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,159,1,1,2,10:18 PM,10:30,,,Johnson 3PT Jump Shot (3 PTS) (Paul 1 AST),31 - 34,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,161,2,1,2,10:18 PM,10:20,MISS Bertans 28' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,162,4,0,2,10:18 PM,10:17,,,Johnson REBOUND (Off:0 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,163,2,1,2,10:18 PM,10:07,,,MISS Crowder 14' Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,164,4,0,2,10:18 PM,10:06,Dinwiddie REBOUND (Off:0 Def:1),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,165,6,2,2,10:18 PM,10:03,,,Paul S.FOUL (P1.T1) (J.Capers),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,167,3,11,2,10:19 PM,10:03,MISS Bertans Free Throw 1 of 2,,,,,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,168,4,1,2,10:19 PM,10:03,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,169,3,12,2,10:19 PM,10:03,Bertans Free Throw 2 of 2 (1 PTS),,,31 - 35,4,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,170,6,1,2,10:19 PM,9:52,Finney-Smith P.FOUL (P2.T1) (E.Malloy),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,172,1,63,2,10:20 PM,9:39,,,Shamet 9' Fadeaway Jumper (2 PTS),33 - 35,2,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,173,6,2,2,10:20 PM,9:22,,,Crowder S.FOUL (P2.T2) (J.Capers),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,175,3,11,2,10:21 PM,9:22,Brunson Free Throw 1 of 2 (5 PTS),,,33 - 36,3,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,176,8,0,2,10:21 PM,9:22,SUB: Kleber FOR Bertans,,,,,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,178,3,12,2,10:21 PM,9:22,Brunson Free Throw 2 of 2 (6 PTS),,,33 - 37,4,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,179,1,79,2,10:21 PM,9:03,,,Paul 9' Pullup Jump Shot (5 PTS),35 - 37,2,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,180,1,101,2,10:22 PM,8:40,Brunson 7' Driving Floating Jump Shot (8 PTS) (Finney-Smith 1 AST),,,35 - 39,4,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,181,1,98,2,10:22 PM,8:21,,,Biyombo 1' Cutting Layup Shot (4 PTS) (Crowder 1 AST),37 - 39,2,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,183,1,79,2,10:22 PM,8:01,Brunson 19' Pullup Jump Shot (10 PTS) (Dinwiddie 2 AST),,,37 - 41,4,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,185,2,6,2,10:23 PM,7:37,,,MISS Johnson 2' Driving Layup,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,186,4,0,2,10:23 PM,7:36,,,Johnson REBOUND (Off:1 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,187,2,72,2,10:23 PM,7:33,,,MISS Johnson 3' Putback Layup,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,188,4,0,2,10:23 PM,7:31,Bullock REBOUND (Off:2 Def:1),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,189,2,1,2,10:23 PM,7:26,MISS Bullock 29' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,190,4,0,2,10:23 PM,7:22,,,Crowder REBOUND (Off:0 Def:2),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,191,2,98,2,10:23 PM,7:14,,,MISS Shamet 3' Cutting Layup Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,192,4,0,2,10:23 PM,7:11,Bullock REBOUND (Off:2 Def:2),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,193,2,2,2,10:23 PM,7:07,MISS Dinwiddie 25' 3PT Running Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,194,4,0,2,10:23 PM,7:04,,,Johnson REBOUND (Off:1 Def:2),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,195,9,1,2,10:24 PM,7:01,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,197,8,0,2,10:26 PM,7:01,SUB: Ntilikina FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,198,8,0,2,10:26 PM,7:01,SUB: Doncic FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,199,8,0,2,10:26 PM,7:01,,,SUB: Booker FOR Shamet,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,200,8,0,2,10:26 PM,7:01,,,SUB: Ayton FOR Biyombo,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,201,8,0,2,10:26 PM,7:01,,,SUB: Bridges FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,207,2,1,2,10:27 PM,6:55,,,MISS Booker 25' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,208,4,0,2,10:27 PM,6:52,Kleber REBOUND (Off:0 Def:2),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,209,6,4,2,10:27 PM,6:45,Dinwiddie OFF.Foul (P1) (J.Capers),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,211,5,37,2,10:27 PM,6:45,Dinwiddie Offensive Foul Turnover (P1.T1),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100226,212,1,5,2,10:28 PM,6:27,,,Ayton 1' Layup (8 PTS) (Bridges 3 AST),39 - 41,2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,214,2,80,2,10:28 PM,6:11,MISS Doncic 24' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,215,4,0,2,10:28 PM,6:10,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,216,6,3,2,10:28 PM,6:10,Ntilikina L.B.FOUL (P1.T2) (E.Malloy),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,218,5,1,2,10:29 PM,5:48,Doncic STEAL (3 STL),,Booker Bad Pass Turnover (P2.T5),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,220,6,2,2,10:29 PM,5:46,,,Booker S.FOUL (P1.T3) (E.Malloy),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,222,3,11,2,10:29 PM,5:46,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,223,4,1,2,10:29 PM,5:46,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,224,8,0,2,10:30 PM,5:46,SUB: Finney-Smith FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,226,3,12,2,10:30 PM,5:46,Doncic Free Throw 2 of 2 (12 PTS),,,39 - 42,3,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,227,5,1,2,10:30 PM,5:25,Ntilikina STEAL (2 STL),,Booker Bad Pass Turnover (P3.T6),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,229,2,1,2,10:30 PM,5:17,MISS Finney-Smith 27' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,230,4,0,2,10:31 PM,5:12,,,Booker REBOUND (Off:1 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,231,7,5,2,10:31 PM,4:59,Doncic Violation:Kicked Ball (C.Kirkland),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0042100226,232,7,5,2,10:31 PM,4:53,Doncic Violation:Kicked Ball (C.Kirkland),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0042100226,233,8,0,2,10:31 PM,4:53,SUB: Brunson FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,235,6,1,2,10:32 PM,4:51,Ntilikina P.FOUL (P2.T3) (C.Kirkland),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,237,2,79,2,10:32 PM,4:43,,,MISS Bridges 16' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,238,4,0,2,10:32 PM,4:40,Kleber REBOUND (Off:0 Def:3),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,239,5,45,2,10:32 PM,4:32,Kleber Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100226,240,2,79,2,10:33 PM,4:23,,,MISS Booker 25' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,241,4,0,2,10:33 PM,4:20,Finney-Smith REBOUND (Off:0 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,242,1,6,2,10:33 PM,4:12,Doncic 1' Driving Layup (14 PTS) (Ntilikina 1 AST),,,39 - 44,5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,244,6,2,2,10:33 PM,4:12,,,Booker S.FOUL (P2.T4) (C.Kirkland),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,246,8,0,2,10:33 PM,4:12,SUB: Bullock FOR Ntilikina,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,247,8,0,2,10:33 PM,4:12,,,SUB: Johnson FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,250,3,10,2,10:33 PM,4:12,Doncic Free Throw 1 of 1 (15 PTS),,,39 - 45,6,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,251,2,1,2,10:34 PM,3:49,,,MISS Johnson 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,252,4,0,2,10:34 PM,3:46,Bullock REBOUND (Off:2 Def:3),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,253,1,2,2,10:34 PM,3:41,Bullock 27' 3PT Running Jump Shot (8 PTS) (Brunson 1 AST),,,39 - 48,9,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,255,5,2,2,10:34 PM,3:25,Finney-Smith STEAL (1 STL),,Paul Lost Ball Turnover (P2.T7),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,257,6,28,2,10:34 PM,3:25,,,Paul Personal Take Foul (P2.PN) (J.Capers),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,259,3,11,2,10:35 PM,3:25,Finney-Smith Free Throw 1 of 2 (4 PTS),,,39 - 49,10,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,260,3,12,2,10:35 PM,3:25,MISS Finney-Smith Free Throw 2 of 2,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,261,4,0,2,10:35 PM,3:23,,,Paul REBOUND (Off:0 Def:1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,262,1,108,2,10:35 PM,3:08,,,Bridges 1' Cutting Dunk Shot (4 PTS) (Johnson 1 AST),41 - 49,8,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,264,1,1,2,10:36 PM,2:48,Doncic 25' 3PT Jump Shot (18 PTS),,,41 - 52,11,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,265,1,43,2,10:36 PM,2:34,,,Ayton Alley Oop Layup (10 PTS) (Paul 2 AST),43 - 52,9,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,267,2,80,2,10:36 PM,2:20,MISS Doncic 25' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,268,4,0,2,10:36 PM,2:18,Kleber REBOUND (Off:1 Def:3),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,269,2,1,2,10:36 PM,2:17,MISS Bullock 27' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,270,4,0,2,10:36 PM,2:14,,,Ayton REBOUND (Off:1 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,271,6,1,2,10:37 PM,2:04,Kleber P.FOUL (P2.T4) (E.Malloy),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,273,9,1,2,10:37 PM,2:04,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,274,2,79,2,10:40 PM,1:51,,,MISS Paul 31' 3PT Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,275,4,0,2,10:41 PM,1:48,Doncic REBOUND (Off:1 Def:4),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,277,1,98,2,10:41 PM,1:26,Bullock 1' Cutting Layup Shot (10 PTS) (Doncic 3 AST),,,43 - 54,11,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,279,2,86,2,10:42 PM,1:01,,,MISS Booker 15' Turnaround Fadeaway Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,280,4,0,2,10:42 PM,0:59,Doncic REBOUND (Off:1 Def:5),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,281,2,102,2,10:42 PM,0:50,MISS Doncic 7' Driving Floating Bank Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,282,4,0,2,10:42 PM,0:48,Finney-Smith REBOUND (Off:1 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,284,1,1,2,10:42 PM,0:37,Kleber 25' 3PT Jump Shot (6 PTS) (Doncic 4 AST),,,43 - 57,14,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,286,5,1,2,10:42 PM,0:30,Bullock STEAL (1 STL),,Paul Bad Pass Turnover (P3.T8),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,288,1,2,2,10:43 PM,0:24,Bullock 24' 3PT Running Jump Shot (13 PTS),,,43 - 60,17,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,289,6,1,2,10:43 PM,0:01,Finney-Smith P.FOUL (P3.PN) (C.Kirkland),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,291,3,11,2,10:43 PM,0:01,,,Johnson Free Throw 1 of 2 (4 PTS),44 - 60,16,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,292,8,0,2,10:44 PM,0:01,SUB: Powell FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,294,3,12,2,10:44 PM,0:01,,,Johnson Free Throw 2 of 2 (5 PTS),45 - 60,15,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,296,13,0,2,10:44 PM,0:00,,End of 2nd Period (10:44 PM EST),,45 - 60,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100226,301,12,0,3,11:00 PM,12:00,,Start of 3rd Period (11:00 PM EST),,45 - 60,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,302,2,79,3,11:00 PM,11:42,,,MISS Booker 26' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,303,4,0,3,11:00 PM,11:39,Finney-Smith REBOUND (Off:1 Def:3),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,304,1,52,3,11:00 PM,11:26,Powell 1' Alley Oop Dunk (4 PTS) (Doncic 5 AST),,,45 - 62,17,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,306,2,47,3,11:00 PM,11:10,Powell BLOCK (1 BLK),,MISS Ayton 2' Turnaround Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1
+0042100226,308,4,0,3,11:00 PM,11:07,Finney-Smith REBOUND (Off:1 Def:4),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,309,2,1,3,11:01 PM,11:01,MISS Finney-Smith 27' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,310,4,0,3,11:01 PM,10:59,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,312,1,1,3,11:01 PM,10:50,,,Bridges 26' 3PT Jump Shot (7 PTS) (Paul 3 AST),48 - 62,14,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,314,6,2,3,11:01 PM,10:34,,,Crowder S.FOUL (P3.T1) (C.Kirkland),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,316,3,11,3,11:02 PM,10:34,Doncic Free Throw 1 of 2 (19 PTS),,,48 - 63,15,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,317,3,12,3,11:02 PM,10:34,Doncic Free Throw 2 of 2 (20 PTS),,,48 - 64,16,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,318,5,2,3,11:03 PM,10:17,Brunson STEAL (2 STL),,Bridges Lost Ball Turnover (P1.T9),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,320,6,2,3,11:03 PM,9:59,,,Paul S.FOUL (P3.T2) (E.Malloy),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,322,3,11,3,11:03 PM,9:59,Doncic Free Throw 1 of 2 (21 PTS),,,48 - 65,17,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,323,3,12,3,11:04 PM,9:59,Doncic Free Throw 2 of 2 (22 PTS),,,48 - 66,18,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,324,2,1,3,11:04 PM,9:41,,,MISS Booker 25' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,325,4,0,3,11:04 PM,9:37,Powell REBOUND (Off:0 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,326,2,47,3,11:04 PM,9:23,MISS Brunson 13' Turnaround Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,327,4,0,3,11:04 PM,9:22,,,Booker REBOUND (Off:1 Def:3),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,328,6,1,3,11:04 PM,9:22,Powell P.FOUL (P2.T1) (C.Kirkland),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,330,6,26,3,11:05 PM,9:13,,,Ayton Offensive Charge Foul (P1) (C.Kirkland),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,332,5,37,3,11:05 PM,9:13,,,Ayton Offensive Foul Turnover (P1.T10),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,333,1,6,3,11:06 PM,8:51,Doncic 3' Driving Layup (24 PTS),,,48 - 68,20,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,334,7,2,3,11:06 PM,8:51,,,Ayton Violation:Defensive Goaltending (E.Malloy),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,335,6,1,3,11:06 PM,8:39,Powell P.FOUL (P3.T2) (E.Malloy),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,337,2,98,3,11:06 PM,8:37,,,MISS Booker 5' Cutting Layup Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0042100226,338,4,0,3,11:06 PM,8:35,,,Paul REBOUND (Off:1 Def:1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,339,2,1,3,11:06 PM,8:33,,,MISS Paul 16' Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,340,4,0,3,11:06 PM,8:31,Doncic REBOUND (Off:1 Def:6),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,341,2,86,3,11:07 PM,8:19,MISS Doncic 14' Turnaround Fadeaway Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,342,4,0,3,11:07 PM,8:17,,,Ayton REBOUND (Off:1 Def:5),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,343,2,78,3,11:07 PM,8:08,,,MISS Ayton 6' Floating Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,344,4,0,3,11:07 PM,8:05,Powell REBOUND (Off:0 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,345,6,1,3,11:07 PM,7:55,,,Ayton P.FOUL (P2.T3) (E.Malloy),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,347,8,0,3,11:07 PM,7:55,SUB: Kleber FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,349,1,73,3,11:08 PM,7:44,Brunson 2' Driving Reverse Layup (12 PTS) (Doncic 6 AST),,,48 - 70,22,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,351,6,2,3,11:08 PM,7:33,Finney-Smith S.FOUL (P4.T3) (C.Kirkland),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,353,3,11,3,11:08 PM,7:33,,,Paul Free Throw 1 of 2 (6 PTS),49 - 70,21,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,354,8,0,3,11:08 PM,7:33,SUB: Ntilikina FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,356,3,12,3,11:08 PM,7:33,,,Paul Free Throw 2 of 2 (7 PTS),50 - 70,20,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0042100226,357,2,1,3,11:09 PM,7:10,MISS Bullock 27' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,358,4,0,3,11:09 PM,7:06,,,Ayton REBOUND (Off:1 Def:6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,359,6,1,3,11:09 PM,7:04,Doncic P.FOUL (P2.T4) (J.Capers),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,361,1,6,3,11:10 PM,6:57,,,Ayton 3' Driving Layup (12 PTS),52 - 70,18,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,362,6,2,3,11:10 PM,6:57,Bullock S.FOUL (P2.PN) (J.Capers),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,364,9,1,3,11:10 PM,6:57,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,365,3,10,3,11:13 PM,6:57,,,MISS Ayton Free Throw 1 of 1,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,366,4,0,3,11:13 PM,6:55,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,368,6,6,3,11:14 PM,6:55,Doncic AWAY.FROM.PLAY.FOUL (P3.PN) (C.Kirkland),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,370,3,10,3,11:14 PM,6:55,,,Booker Free Throw 1 of 1 (9 PTS),53 - 70,17,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,371,5,1,3,11:15 PM,6:51,Ntilikina STEAL (3 STL),,Bridges Bad Pass Turnover (P2.T11),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,373,1,9,3,11:15 PM,6:36,Doncic Driving Dunk (26 PTS) (Kleber 1 AST),,,53 - 72,19,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,375,1,98,3,11:15 PM,6:12,,,Ayton 3' Cutting Layup Shot (14 PTS) (Bridges 4 AST),55 - 72,17,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,377,1,1,3,11:16 PM,5:50,Bullock 3PT Jump Shot (16 PTS) (Doncic 7 AST),,,55 - 75,20,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,380,2,101,3,11:16 PM,5:30,Ntilikina BLOCK (1 BLK),,MISS Booker 12' Driving Floating Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,1
+0042100226,382,4,0,3,11:16 PM,5:28,,,Bridges REBOUND (Off:1 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,383,1,98,3,11:16 PM,5:23,,,Ayton 1' Cutting Layup Shot (16 PTS) (Bridges 5 AST),57 - 75,18,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,385,6,1,3,11:17 PM,5:18,,,Crowder P.FOUL (P4.T4) (J.Capers),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,387,1,9,3,11:17 PM,5:11,Doncic 1' Driving Dunk (28 PTS),,,57 - 77,20,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,388,9,1,3,11:17 PM,5:10,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,389,5,40,3,11:21 PM,4:55,,,Paul Out of Bounds Lost Ball Turnover (P4.T12),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,390,2,101,3,11:22 PM,4:33,MISS Doncic 4' Driving Floating Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,391,4,0,3,11:22 PM,4:31,,,Ayton REBOUND (Off:1 Def:7),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,392,6,2,3,11:22 PM,4:25,Kleber S.FOUL (P3.PN) (J.Capers),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,394,3,11,3,11:22 PM,4:25,,,Crowder Free Throw 1 of 2 (8 PTS),58 - 77,19,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,395,8,0,3,11:22 PM,4:25,,,SUB: Shamet FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,397,3,12,3,11:23 PM,4:25,,,Crowder Free Throw 2 of 2 (9 PTS),59 - 77,18,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,398,1,1,3,11:23 PM,4:13,Kleber 26' 3PT Jump Shot (9 PTS) (Brunson 2 AST),,,59 - 80,21,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,400,1,108,3,11:23 PM,4:01,,,Ayton 3' Cutting Dunk Shot (18 PTS) (Shamet 1 AST),61 - 80,19,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,402,6,2,3,11:23 PM,4:01,Doncic S.FOUL (P4.PN) (E.Malloy),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,404,6,11,3,11:24 PM,4:01,,,Ayton T.FOUL (P2.T4) (E.Malloy),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,405,18,3,3,11:24 PM,4:01,,Instant Replay3rd Period (11:24 PM EST),,61 - 80,19,0,402,Jon Koncak,,,,,0,0,,,,,,1,0,,,,,,0
+0042100226,406,3,16,3,11:27 PM,4:01,MISS Doncic Free Throw Technical,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,407,4,1,3,11:27 PM,4:01,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,408,8,0,3,11:27 PM,4:01,SUB: Dinwiddie FOR Doncic,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,409,8,0,3,11:27 PM,4:01,,,SUB: Johnson FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,412,3,10,3,11:27 PM,4:01,,,Ayton Free Throw 1 of 1 (19 PTS),62 - 80,18,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,413,1,79,3,11:27 PM,3:41,Dinwiddie 26' 3PT Pullup Jump Shot (9 PTS) (Kleber 2 AST),,,62 - 83,21,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,415,1,6,3,11:28 PM,3:30,,,Booker 1' Driving Layup (11 PTS),64 - 83,19,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,416,6,2,3,11:28 PM,3:20,,,Shamet S.FOUL (P2.PN) (C.Kirkland),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,418,3,11,3,11:28 PM,3:20,Brunson Free Throw 1 of 2 (13 PTS),,,64 - 84,20,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,419,8,0,3,11:28 PM,3:20,,,SUB: Craig FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,421,3,12,3,11:29 PM,3:20,Brunson Free Throw 2 of 2 (14 PTS),,,64 - 85,21,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,422,2,1,3,11:29 PM,3:09,,,MISS Johnson 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,423,4,0,3,11:29 PM,3:07,,,Ayton REBOUND (Off:2 Def:7),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,424,1,5,3,11:29 PM,3:01,,,Ayton 3' Layup (21 PTS) (Shamet 2 AST),66 - 85,19,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,426,2,1,3,11:29 PM,2:43,MISS Ntilikina 25' 3PT Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,427,4,0,3,11:30 PM,2:40,,,Craig REBOUND (Off:0 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,428,6,2,3,11:30 PM,2:35,Kleber S.FOUL (P4.PN) (C.Kirkland),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,430,3,11,3,11:30 PM,2:35,,,Booker Free Throw 1 of 2 (12 PTS),67 - 85,18,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,431,8,0,3,11:30 PM,2:35,SUB: Powell FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,432,8,0,3,11:30 PM,2:35,,,SUB: Biyombo FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,435,3,12,3,11:30 PM,2:35,,,Booker Free Throw 2 of 2 (13 PTS),68 - 85,17,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,436,1,101,3,11:31 PM,2:20,Brunson 5' Driving Floating Jump Shot (16 PTS),,,68 - 87,19,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,437,2,101,3,11:31 PM,2:08,,,MISS Booker 4' Driving Floating Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,438,4,0,3,11:31 PM,2:06,,,Booker REBOUND (Off:2 Def:3),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,439,5,1,3,11:31 PM,2:05,Brunson STEAL (3 STL),,Booker Bad Pass Turnover (P4.T13),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,441,1,1,3,11:31 PM,1:59,Dinwiddie 24' 3PT Jump Shot (12 PTS) (Ntilikina 2 AST),,,68 - 90,22,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,443,2,79,3,11:31 PM,1:45,,,MISS Shamet 17' Pullup Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,444,4,0,3,11:31 PM,1:43,Bullock REBOUND (Off:2 Def:4),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,445,2,80,3,11:31 PM,1:34,MISS Brunson 25' 3PT Step Back Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,446,4,0,3,11:32 PM,1:32,,,Booker REBOUND (Off:2 Def:4),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,447,6,4,3,11:32 PM,1:27,,,Booker OFF.Foul (P3) (C.Kirkland),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,449,5,37,3,11:32 PM,1:27,,,Booker Offensive Foul Turnover (P5.T14),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,450,2,1,3,11:32 PM,1:12,MISS Dinwiddie 26' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,451,4,0,3,11:32 PM,1:10,,,Booker REBOUND (Off:2 Def:5),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,452,1,76,3,11:32 PM,1:08,,,Craig 2' Running Finger Roll Layup (2 PTS) (Booker 2 AST),70 - 90,20,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,454,6,1,3,11:33 PM,0:55,,,Craig P.FOUL (P1.PN) (J.Capers),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,456,3,11,3,11:33 PM,0:55,Powell Free Throw 1 of 2 (5 PTS),,,70 - 91,21,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,457,8,0,3,11:33 PM,0:55,SUB: Bertans FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,459,3,12,3,11:33 PM,0:55,Powell Free Throw 2 of 2 (6 PTS),,,70 - 92,22,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,460,5,2,3,11:34 PM,0:44,Ntilikina STEAL (4 STL),,Booker Lost Ball Turnover (P6.T15),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,462,2,41,3,11:34 PM,0:41,MISS Brunson 2' Running Layup,,Booker BLOCK (1 BLK),,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1
+0042100226,464,4,0,3,11:34 PM,0:41,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,466,2,1,3,11:34 PM,0:38,MISS Brunson 25' 3PT Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,467,4,0,3,11:34 PM,0:36,,,Shamet REBOUND (Off:0 Def:2),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,468,1,79,3,11:34 PM,0:31,,,Booker 17' Pullup Jump Shot (15 PTS),72 - 92,20,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,469,6,1,3,11:35 PM,0:10,,,Biyombo P.FOUL (P1.PN) (E.Malloy),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,471,3,11,3,11:35 PM,0:10,Brunson Free Throw 1 of 2 (17 PTS),,,72 - 93,21,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,472,3,12,3,11:35 PM,0:10,Brunson Free Throw 2 of 2 (18 PTS),,,72 - 94,22,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,473,2,1,3,11:36 PM,0:00,,,MISS Craig 26' 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,474,4,0,3,11:36 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,475,13,0,3,11:36 PM,0:00,,End of 3rd Period (11:36 PM EST),,72 - 94,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100226,484,12,0,4,11:39 PM,12:00,,Start of 4th Period (11:39 PM EST),,72 - 94,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,485,2,101,4,11:40 PM,11:38,MISS Finney-Smith 13' Driving Floating Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,486,4,0,4,11:40 PM,11:37,Powell REBOUND (Off:1 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,487,5,11,4,11:40 PM,11:36,MAVERICKS Turnover: Shot Clock (T#3),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100226,488,6,2,4,11:40 PM,11:17,Finney-Smith S.FOUL (P5.T1) (C.Kirkland),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,490,3,11,4,11:41 PM,11:17,,,Booker Free Throw 1 of 2 (16 PTS),73 - 94,21,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,491,8,0,4,11:41 PM,11:17,SUB: Bullock FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,492,8,0,4,11:41 PM,11:17,SUB: Ntilikina FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,495,3,12,4,11:41 PM,11:17,,,Booker Free Throw 2 of 2 (17 PTS),74 - 94,20,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,496,5,1,4,11:42 PM,10:59,Doncic Bad Pass Turnover (P1.T4),,Booker STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,498,1,76,4,11:42 PM,10:56,,,Booker 1' Running Finger Roll Layup (19 PTS),76 - 94,18,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,499,2,86,4,11:42 PM,10:33,MISS Doncic 18' Turnaround Fadeaway Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,500,4,0,4,11:42 PM,10:31,,,Bridges REBOUND (Off:1 Def:4),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,501,2,63,4,11:42 PM,10:17,,,MISS Bridges 10' Fadeaway Jumper,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,502,4,0,4,11:42 PM,10:17,Doncic REBOUND (Off:1 Def:7),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,503,6,2,4,11:42 PM,10:13,,,Paul S.FOUL (P4.T1) (C.Kirkland),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,505,3,11,4,11:43 PM,10:13,Bertans Free Throw 1 of 2 (2 PTS),,,76 - 95,19,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,506,3,12,4,11:43 PM,10:13,Bertans Free Throw 2 of 2 (3 PTS),,,76 - 96,20,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,522,2,6,4,11:43 PM,10:02,,,MISS Booker 2' Driving Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0042100226,523,4,0,4,11:43 PM,10:02,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,509,9,1,4,11:44 PM,10:02,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,510,18,5,4,11:44 PM,10:02,,Instant Replay4th Period (11:44 PM EST),,76 - 96,20,0,507,,,,,,0,0,,,,,,1,0,,,,,,1
+0042100226,511,8,0,4,11:46 PM,10:02,SUB: Kleber FOR Bertans,,,,,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,513,10,1,4,11:47 PM,9:59,Jump Ball (CC) Doncic vs. Craig: Tip to Paul,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1
+0042100226,516,2,63,4,11:48 PM,9:45,,,MISS Booker 12' Fadeaway Jumper,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,517,4,0,4,11:48 PM,9:43,Doncic REBOUND (Off:1 Def:8),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,518,5,1,4,11:48 PM,9:32,Dinwiddie Bad Pass Turnover (P2.T5),,Paul STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,520,5,1,4,11:48 PM,9:28,Bullock STEAL (2 STL),,Booker Bad Pass Turnover (P7.T16),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,524,2,1,4,11:48 PM,9:11,MISS Bullock 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,525,4,0,4,11:48 PM,9:09,Bullock REBOUND (Off:3 Def:4),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,526,2,80,4,11:48 PM,8:58,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,527,4,0,4,11:48 PM,8:55,,,Craig REBOUND (Off:0 Def:2),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,529,8,0,4,11:49 PM,8:47,,,SUB: Crowder FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,530,8,0,4,11:49 PM,8:47,,,SUB: Ayton FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,533,2,86,4,11:49 PM,8:40,,,MISS Ayton 13' Turnaround Fadeaway Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,534,4,0,4,11:49 PM,8:37,Doncic REBOUND (Off:1 Def:9),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,535,5,2,4,11:49 PM,8:32,Ntilikina Lost Ball Turnover (P1.T6),,Paul STEAL (2 STL),,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,537,2,79,4,11:49 PM,8:28,,,MISS Paul 26' 3PT Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,538,4,0,4,11:49 PM,8:25,Ntilikina REBOUND (Off:0 Def:1),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,539,2,1,4,11:50 PM,8:05,MISS Kleber 14' Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,540,4,0,4,11:50 PM,8:03,,,Booker REBOUND (Off:2 Def:6),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,541,1,1,4,11:50 PM,7:53,,,Paul 3PT Jump Shot (10 PTS) (Booker 3 AST),79 - 96,17,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,543,2,1,4,11:50 PM,7:31,MISS Kleber 26' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,544,4,0,4,11:50 PM,7:28,,,Craig REBOUND (Off:0 Def:3),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,545,5,4,4,11:50 PM,7:24,,,Ayton Traveling Turnover (P2.T17),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,546,8,0,4,11:50 PM,7:24,SUB: Brunson FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,548,6,1,4,11:51 PM,7:10,,,Craig P.FOUL (P2.T2) (E.Malloy),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,550,1,1,4,11:51 PM,6:58,Bullock 26' 3PT Jump Shot (19 PTS) (Doncic 8 AST),,,79 - 99,20,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,552,6,4,4,11:52 PM,6:47,,,Crowder OFF.Foul (P5) (E.Malloy),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,554,5,37,4,11:52 PM,6:47,,,Crowder Offensive Foul Turnover (P1.T18),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,555,6,2,4,11:52 PM,6:25,,,Ayton S.FOUL (P3.T3) (C.Kirkland),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,557,3,11,4,11:53 PM,6:25,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,558,4,1,4,11:53 PM,6:25,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,559,3,12,4,11:53 PM,6:25,Doncic Free Throw 2 of 2 (29 PTS),,,79 - 100,21,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,560,1,74,4,11:53 PM,6:17,,,Craig Running Reverse Layup (4 PTS) (Paul 4 AST),81 - 100,19,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,562,2,86,4,11:54 PM,5:52,MISS Doncic 11' Turnaround Fadeaway Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,563,4,0,4,11:54 PM,5:51,,,Ayton REBOUND (Off:2 Def:8),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,564,2,1,4,11:54 PM,5:43,,,MISS Ayton 16' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,565,4,0,4,11:54 PM,5:40,Doncic REBOUND (Off:1 Def:10),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,566,2,79,4,11:54 PM,5:31,MISS Brunson 6' Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,567,4,0,4,11:54 PM,5:28,,,Ayton REBOUND (Off:2 Def:9),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,568,1,1,4,11:54 PM,5:16,,,Paul 26' 3PT Jump Shot (13 PTS) (Crowder 2 AST),84 - 100,16,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100226,570,6,1,4,11:55 PM,4:59,,,Paul P.FOUL (P5.T4) (J.Capers),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,572,1,6,4,11:55 PM,4:46,Doncic 2' Driving Layup (31 PTS),,,84 - 102,18,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,573,5,2,4,11:55 PM,4:32,Doncic STEAL (4 STL),,Paul Lost Ball Turnover (P5.T19),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,575,1,47,4,11:56 PM,4:15,Doncic 4' Turnaround Jump Shot (33 PTS),,,84 - 104,20,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,576,6,4,4,11:56 PM,4:07,,,Booker OFF.Foul (P4) (C.Kirkland),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,578,5,37,4,11:56 PM,4:07,,,Booker Offensive Foul Turnover (P8.T20),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100226,579,6,4,4,11:56 PM,4:01,Ntilikina OFF.Foul (P3) (E.Malloy),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,581,5,37,4,11:56 PM,4:01,Ntilikina Offensive Foul Turnover (P2.T7),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100226,582,8,0,4,11:57 PM,4:01,SUB: Powell FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,583,8,0,4,11:57 PM,4:01,,,SUB: Payne FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,584,8,0,4,11:57 PM,4:01,,,SUB: Shamet FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,585,8,0,4,11:57 PM,4:01,,,SUB: Wainright FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,586,8,0,4,11:57 PM,4:01,,,SUB: Biyombo FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100226,592,2,1,4,11:58 PM,3:47,,,MISS Craig 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,593,4,0,4,11:58 PM,3:47,,,Wainright REBOUND (Off:1 Def:0),,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,632,2,97,4,11:58 PM,3:47,,,MISS Wainright 2' Tip Layup Shot,,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,633,4,0,4,11:58 PM,3:46,,,Wainright REBOUND (Off:2 Def:0),,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,594,2,72,4,11:58 PM,3:44,Powell BLOCK (2 BLK),,MISS Wainright 1' Putback Layup,,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1
+0042100226,596,4,0,4,11:58 PM,3:43,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,598,8,0,4,11:58 PM,3:43,SUB: Dinwiddie FOR Doncic,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,600,5,1,4,11:59 PM,3:39,Dinwiddie STEAL (1 STL),,Payne Bad Pass Turnover (P1.T21),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,602,2,79,4,11:59 PM,3:28,MISS Brunson 7' Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,603,4,0,4,11:59 PM,3:26,,,Payne REBOUND (Off:0 Def:1),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,604,2,41,4,11:59 PM,3:21,,,MISS Payne 2' Running Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,605,4,0,4,11:59 PM,3:20,,,Craig REBOUND (Off:1 Def:3),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,606,1,72,4,11:59 PM,3:19,,,Craig 1' Putback Layup (6 PTS),86 - 104,18,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,607,6,1,4,11:59 PM,3:06,,,Payne P.FOUL (P1.PN) (C.Kirkland),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,609,3,11,4,12:00 AM,3:06,MISS Powell Free Throw 1 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,610,4,1,4,12:00 AM,3:06,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,615,3,12,4,12:00 AM,3:06,MISS Powell Free Throw 2 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,611,8,0,4,12:00 AM,3:06,SUB: Green FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,612,8,0,4,12:00 AM,3:06,SUB: Brown FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628425,Sterling Brown,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,616,4,0,4,12:00 AM,3:03,,,Biyombo REBOUND (Off:0 Def:1),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,617,2,75,4,12:01 AM,2:44,,,MISS Craig 5' Driving Finger Roll Layup,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,618,4,0,4,12:01 AM,2:43,,,Biyombo REBOUND (Off:1 Def:1),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,619,2,72,4,12:01 AM,2:42,Brown BLOCK (1 BLK),,MISS Biyombo 1' Putback Layup,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1628425,Sterling Brown,1610612742.0,Dallas,Mavericks,DAL,1
+0042100226,621,4,0,4,12:01 AM,2:42,,,Wainright REBOUND (Off:3 Def:0),,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,622,5,1,4,12:01 AM,2:37,Green STEAL (1 STL),,Wainright Bad Pass Turnover (P1.T22),,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,624,1,6,4,12:01 AM,2:23,Powell 1' Driving Layup (8 PTS) (Dinwiddie 3 AST),,,86 - 106,20,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100226,626,2,101,4,12:01 AM,2:08,,,MISS Payne 6' Driving Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,627,4,0,4,12:01 AM,2:06,Brown REBOUND (Off:0 Def:1),,,,,4,1628425,Sterling Brown,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,628,1,79,4,12:02 AM,1:49,Dinwiddie 26' 3PT Pullup Jump Shot (15 PTS),,,86 - 109,23,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,629,6,28,4,12:02 AM,1:43,Ntilikina Personal Take Foul (P4.T2) (J.Capers),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100226,631,9,1,4,12:02 AM,1:43,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100226,634,8,0,4,12:02 AM,1:43,SUB: Burke FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,635,8,0,4,12:02 AM,1:43,SUB: Chriss FOR Ntilikina,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,1627737,Marquese Chriss,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,636,8,0,4,12:02 AM,1:43,SUB: Marjanovic FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100226,641,2,1,4,12:06 AM,1:30,,,MISS Shamet 19' Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,642,4,0,4,12:06 AM,1:27,Marjanovic REBOUND (Off:0 Def:1),,,,,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,643,6,2,4,12:06 AM,1:15,,,Biyombo S.FOUL (P2.PN) (C.Kirkland),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,645,3,11,4,12:07 AM,1:15,Marjanovic Free Throw 1 of 2 (1 PTS),,,86 - 110,24,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,646,3,12,4,12:07 AM,1:15,Marjanovic Free Throw 2 of 2 (2 PTS),,,86 - 111,25,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,647,2,1,4,12:07 AM,1:05,,,MISS Shamet 24' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,648,4,0,4,12:07 AM,1:01,Marjanovic REBOUND (Off:0 Def:2),,,,,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,649,6,1,4,12:07 AM,0:50,,,Payne P.FOUL (P2.PN) (E.Malloy),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100226,651,3,11,4,12:08 AM,0:50,Chriss Free Throw 1 of 2 (1 PTS),,,86 - 112,26,4,1627737,Marquese Chriss,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,652,3,12,4,12:08 AM,0:50,Chriss Free Throw 2 of 2 (2 PTS),,,86 - 113,27,4,1627737,Marquese Chriss,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,653,2,6,4,12:08 AM,0:41,,,MISS Payne Driving Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,654,4,0,4,12:08 AM,0:38,,,Biyombo REBOUND (Off:2 Def:1),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,655,2,97,4,12:08 AM,0:38,,,MISS Biyombo Tip Layup Shot,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,656,4,0,4,12:08 AM,0:37,Brown REBOUND (Off:0 Def:2),,,,,4,1628425,Sterling Brown,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,657,2,63,4,12:08 AM,0:22,MISS Marjanovic 8' Fadeaway Jumper,,,,,4,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,658,4,0,4,12:08 AM,0:20,,,Shamet REBOUND (Off:0 Def:3),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,659,2,1,4,12:09 AM,0:11,,,MISS Wainright 3PT Jump Shot,,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100226,660,4,0,4,12:09 AM,0:08,Chriss REBOUND (Off:0 Def:1),,,,,4,1627737,Marquese Chriss,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100226,661,13,0,4,12:09 AM,0:00,,End of 4th Period (12:09 AM EST),,86 - 113,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

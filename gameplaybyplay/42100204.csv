@@ -1,0 +1,447 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100204,2,12,0,1,8:03 PM,12:00,,Start of 1st Period (8:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,4,10,0,1,8:03 PM,12:00,Jump Ball Embiid vs. Adebayo: Tip to Maxey,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1
+0042100204,7,5,45,1,8:04 PM,11:37,Embiid Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0042100204,8,2,79,1,8:04 PM,11:23,,,MISS Lowry 26' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,9,4,0,1,8:04 PM,11:19,,,Strus REBOUND (Off:1 Def:0),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,10,1,1,1,8:04 PM,11:17,,,Tucker 24' 3PT Jump Shot (3 PTS) (Strus 1 AST),3 - 0,-3,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,12,1,5,1,8:05 PM,10:56,Embiid 1' Layup (2 PTS) (Harden 1 AST),,,3 - 2,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,14,2,5,1,8:05 PM,10:42,Green BLOCK (1 BLK),,MISS Lowry 2' Layup,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+0042100204,15,4,0,1,8:05 PM,10:40,Green REBOUND (Off:0 Def:1),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,16,1,74,1,8:05 PM,10:36,Maxey 1' Running Reverse Layup (2 PTS),,,3 - 4,1,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,17,2,79,1,8:05 PM,10:23,,,MISS Strus 26' 3PT Pullup Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,18,4,0,1,8:05 PM,10:20,Embiid REBOUND (Off:0 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,19,2,101,1,8:05 PM,10:11,MISS Harden 1' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,20,4,0,1,8:05 PM,10:09,Maxey REBOUND (Off:1 Def:0),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,21,2,1,1,8:06 PM,10:06,MISS Embiid 25' 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,22,4,0,1,8:06 PM,10:03,,,Adebayo REBOUND (Off:0 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,23,1,1,1,8:06 PM,9:55,,,Strus 3PT Jump Shot (3 PTS) (Lowry 1 AST),6 - 4,-2,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,25,1,63,1,8:06 PM,9:42,Harris 12' Fadeaway Jumper (2 PTS),,,6 - 6,TIE,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,26,6,2,1,8:06 PM,9:26,Harris S.FOUL (P1.T1) (S.Foster),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,28,3,11,1,8:07 PM,9:26,,,MISS Butler Free Throw 1 of 2,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,29,4,1,1,8:07 PM,9:26,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,31,3,12,1,8:07 PM,9:26,,,Butler Free Throw 2 of 2 (1 PTS),7 - 6,-1,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,32,1,5,1,8:07 PM,9:10,Embiid 1' Layup (4 PTS) (Harris 1 AST),,,7 - 8,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,34,2,66,1,8:08 PM,8:55,,,MISS Butler 19' Jump Bank Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,35,4,0,1,8:08 PM,8:52,,,Tucker REBOUND (Off:1 Def:0),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,36,2,1,1,8:08 PM,8:51,,,MISS Lowry 28' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,37,4,0,1,8:08 PM,8:48,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,39,2,80,1,8:08 PM,8:31,MISS Harden 27' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,40,4,0,1,8:08 PM,8:27,,,Strus REBOUND (Off:1 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,41,2,1,1,8:08 PM,8:20,,,MISS Tucker 24' 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,42,4,0,1,8:09 PM,8:14,,,Adebayo REBOUND (Off:1 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,43,1,72,1,8:09 PM,8:14,,,Adebayo Putback Layup (2 PTS),9 - 8,-1,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,44,6,2,1,8:09 PM,8:06,,,Adebayo S.FOUL (P1.T1) (S.Foster),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,46,3,11,1,8:09 PM,8:06,Embiid Free Throw 1 of 2 (5 PTS),,,9 - 9,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,47,3,12,1,8:09 PM,8:06,Embiid Free Throw 2 of 2 (6 PTS),,,9 - 10,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,48,1,78,1,8:10 PM,7:47,,,Tucker 12' Floating Jump Shot (5 PTS) (Strus 2 AST),11 - 10,-1,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,50,2,101,1,8:10 PM,7:34,MISS Harris 13' Driving Floating Jump Shot,,Strus BLOCK (1 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1
+0042100204,52,4,0,1,8:10 PM,7:31,,,Lowry REBOUND (Off:0 Def:1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,53,1,99,1,8:10 PM,7:28,,,Butler 2' Cutting Finger Roll Layup Shot (3 PTS) (Lowry 2 AST),13 - 10,-3,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,55,1,1,1,8:10 PM,7:11,Green 3PT Jump Shot (3 PTS) (Harden 2 AST),,,13 - 13,TIE,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,58,9,1,1,8:11 PM,6:59,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,59,2,78,1,8:14 PM,6:48,,,MISS Tucker 6' Floating Jump Shot,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,60,4,0,1,8:15 PM,6:45,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,61,2,1,1,8:15 PM,6:37,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,62,4,0,1,8:15 PM,6:35,,,Adebayo REBOUND (Off:1 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,63,2,1,1,8:15 PM,6:24,,,MISS Butler 19' Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,64,4,0,1,8:15 PM,6:21,Embiid REBOUND (Off:0 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,65,1,5,1,8:15 PM,6:05,Embiid 1' Layup (8 PTS) (Harden 3 AST),,,13 - 15,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,67,5,45,1,8:15 PM,6:01,,,Lowry Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0042100204,68,8,0,1,8:15 PM,6:01,,,SUB: Oladipo FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,70,5,1,1,8:16 PM,5:40,Harden Bad Pass Turnover (P1.T2),,Oladipo STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,72,5,1,1,8:16 PM,5:37,Green STEAL (1 STL),,Oladipo Bad Pass Turnover (P1.T2),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,74,1,75,1,8:16 PM,5:34,Green 2' Driving Finger Roll Layup (5 PTS),,,13 - 17,4,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,75,1,44,1,8:16 PM,5:14,,,Tucker 3' Reverse Layup (7 PTS) (Butler 1 AST),15 - 17,2,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,77,5,45,1,8:17 PM,4:55,Embiid Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042100204,83,6,1,1,8:17 PM,4:48,Green P.FOUL (P1.T2) (B.Forte),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0042100204,87,8,0,1,8:17 PM,4:48,SUB: Thybulle FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,85,6,2,1,8:18 PM,4:38,Harris S.FOUL (P2.T3) (E.Lewis),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,89,3,11,1,8:18 PM,4:38,,,Oladipo Free Throw 1 of 2 (1 PTS),16 - 17,1,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,90,8,0,1,8:18 PM,4:38,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,92,8,0,1,8:18 PM,4:38,,,SUB: Herro FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,94,3,12,1,8:19 PM,4:38,,,Oladipo Free Throw 2 of 2 (2 PTS),17 - 17,TIE,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,95,5,35,1,8:19 PM,4:24,Harden Basket from Below Turnover (P2.T4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042100204,96,7,5,1,8:19 PM,4:11,Harden Violation:Kicked Ball (S.Foster),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0042100204,97,6,2,1,8:20 PM,4:09,Harden S.FOUL (P1.T4) (B.Forte),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,99,3,11,1,8:20 PM,4:09,,,MISS Oladipo Free Throw 1 of 2,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,100,4,1,1,8:20 PM,4:09,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,101,8,0,1,8:20 PM,4:09,SUB: Milton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,103,3,12,1,8:21 PM,4:09,,,Oladipo Free Throw 2 of 2 (3 PTS),18 - 17,-1,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,104,1,79,1,8:21 PM,3:48,Embiid 26' 3PT Pullup Jump Shot (11 PTS) (Thybulle 1 AST),,,18 - 20,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,106,1,101,1,8:21 PM,3:37,,,Oladipo 5' Driving Floating Jump Shot (5 PTS) (Lowry 3 AST),20 - 20,TIE,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,108,2,101,1,8:22 PM,3:26,MISS Harden 8' Driving Floating Jump Shot,,Oladipo BLOCK (1 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1
+0042100204,110,4,0,1,8:22 PM,3:26,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,112,2,1,1,8:22 PM,3:12,,,MISS Tucker 24' 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,113,4,0,1,8:22 PM,3:10,Harden REBOUND (Off:0 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,114,6,26,1,8:22 PM,3:05,Harden Offensive Charge Foul (P2) (S.Foster),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,116,5,37,1,8:22 PM,3:05,Harden Offensive Foul Turnover (P3.T5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042100204,117,8,0,1,8:22 PM,3:05,SUB: Maxey FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,118,8,0,1,8:22 PM,3:05,,,SUB: Adebayo FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,119,8,0,1,8:22 PM,3:05,,,SUB: Vincent FOR Tucker,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,123,6,1,1,8:23 PM,2:53,Niang P.FOUL (P1.PN) (E.Lewis),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,125,9,1,1,8:23 PM,2:53,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,126,3,11,1,8:27 PM,2:53,,,Oladipo Free Throw 1 of 2 (6 PTS),21 - 20,-1,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,127,3,12,1,8:27 PM,2:53,,,Oladipo Free Throw 2 of 2 (7 PTS),22 - 20,-2,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,128,1,1,1,8:27 PM,2:32,Thybulle 3PT Jump Shot (3 PTS) (Maxey 1 AST),,,22 - 23,1,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,130,2,44,1,8:28 PM,2:07,,,MISS Adebayo 5' Reverse Layup,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,131,4,0,1,8:28 PM,2:07,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,132,6,3,1,8:28 PM,2:07,Embiid L.B.FOUL (P1.PN) (E.Lewis),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,134,3,11,1,8:29 PM,2:07,,,Adebayo Free Throw 1 of 2 (3 PTS),23 - 23,TIE,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,135,3,12,1,8:29 PM,2:07,,,Adebayo Free Throw 2 of 2 (4 PTS),24 - 23,-1,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,137,1,1,1,8:30 PM,1:48,Maxey 25' 3PT Jump Shot (5 PTS) (Niang 1 AST),,,24 - 26,2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,139,1,99,1,8:30 PM,1:33,,,Adebayo 3' Cutting Finger Roll Layup Shot (6 PTS) (Oladipo 1 AST),26 - 26,TIE,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,141,6,1,1,8:30 PM,1:17,,,Vincent P.FOUL (P1.T2) (S.Foster),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,143,1,63,1,8:31 PM,1:07,Embiid 15' Fadeaway Jumper (13 PTS) (Niang 2 AST),,,26 - 28,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,145,2,79,1,8:31 PM,0:52,,,MISS Herro 27' 3PT Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,146,4,0,1,8:31 PM,0:49,Embiid REBOUND (Off:0 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,147,6,2,1,8:31 PM,0:43,,,Vincent S.FOUL (P2.PN) (S.Foster),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,149,3,11,1,8:31 PM,0:43,MISS Milton Free Throw 1 of 2,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,150,4,1,1,8:31 PM,0:43,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,153,3,12,1,8:31 PM,0:43,MISS Milton Free Throw 2 of 2,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,151,8,0,1,8:32 PM,0:43,,,SUB: Strus FOR Butler,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,154,4,0,1,8:32 PM,0:42,,,Herro REBOUND (Off:0 Def:1),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,155,1,79,1,8:32 PM,0:29,,,Herro 19' Pullup Jump Shot (2 PTS) (Adebayo 1 AST),28 - 28,TIE,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,157,6,1,1,8:33 PM,0:08,,,Vincent P.FOUL (P3.PN) (B.Forte),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,160,8,0,1,8:33 PM,0:08,SUB: Reed FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,159,3,11,1,8:33 PM,0:08,Embiid Free Throw 1 of 2 (14 PTS),,,28 - 29,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,162,3,12,1,8:33 PM,0:08,Embiid Free Throw 2 of 2 (15 PTS),,,28 - 30,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,163,2,79,1,8:34 PM,0:00,,,MISS Vincent 18' Pullup Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,164,4,0,1,8:34 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,165,13,0,1,8:34 PM,0:00,,End of 1st Period (8:34 PM EST),,28 - 30,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100204,170,12,0,2,8:38 PM,12:00,,Start of 2nd Period (8:38 PM EST),,28 - 30,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,171,6,1,2,8:38 PM,11:47,Milton P.FOUL (P1.T1) (S.Foster),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,173,5,2,2,8:38 PM,11:42,Harris STEAL (1 STL),,Adebayo Lost Ball Turnover (P1.T3),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,175,2,1,2,8:38 PM,11:35,MISS Maxey 26' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,176,4,0,2,8:38 PM,11:32,,,Herro REBOUND (Off:0 Def:2),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,177,1,76,2,8:38 PM,11:27,,,Lowry 1' Running Finger Roll Layup (2 PTS) (Herro 1 AST),30 - 30,TIE,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,179,1,79,2,8:39 PM,11:09,Harris 14' Pullup Jump Shot (4 PTS),,,30 - 32,2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,180,1,108,2,8:39 PM,10:57,,,Adebayo 1' Cutting Dunk Shot (8 PTS) (Lowry 4 AST),32 - 32,TIE,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,182,1,79,2,8:39 PM,10:41,Milton 11' Pullup Jump Shot (2 PTS) (Harris 2 AST),,,32 - 34,2,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,184,6,2,2,8:39 PM,10:31,Reed S.FOUL (P1.T2) (B.Forte),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,186,3,11,2,8:40 PM,10:31,,,Oladipo Free Throw 1 of 2 (8 PTS),33 - 34,1,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,189,3,12,2,8:40 PM,10:31,,,MISS Oladipo Free Throw 2 of 2,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,187,8,0,2,8:40 PM,10:31,SUB: Harden FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,190,4,0,2,8:40 PM,10:28,,,Strus REBOUND (Off:2 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,191,2,5,2,8:41 PM,10:16,,,MISS Adebayo 2' Layup,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,192,4,0,2,8:41 PM,10:13,Milton REBOUND (Off:0 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,193,2,101,2,8:41 PM,10:06,MISS Harden 11' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,194,4,0,2,8:41 PM,10:06,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,195,6,3,2,8:41 PM,10:06,,,Strus L.B.FOUL (P1.T1) (S.Foster),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,197,8,0,2,8:41 PM,10:06,SUB: Green FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,198,8,0,2,8:41 PM,10:06,,,SUB: Butler FOR Oladipo,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,201,1,7,2,8:42 PM,9:51,Reed 1' Dunk (2 PTS) (Harden 4 AST),,,33 - 36,3,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,203,6,2,2,8:42 PM,9:43,Green S.FOUL (P2.T3) (S.Foster),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0042100204,205,3,11,2,8:42 PM,9:43,,,Butler Free Throw 1 of 2 (4 PTS),34 - 36,2,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,206,3,12,2,8:42 PM,9:43,,,Butler Free Throw 2 of 2 (5 PTS),35 - 36,1,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,207,5,1,2,8:43 PM,9:33,Harris Bad Pass Turnover (P1.T6),,Herro STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,209,1,3,2,8:43 PM,9:16,,,Adebayo 7' Hook Shot (10 PTS),37 - 36,-1,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,210,1,79,2,8:43 PM,8:46,Harris 17' Pullup Jump Shot (6 PTS),,,37 - 38,1,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,211,1,79,2,8:44 PM,8:37,,,Herro 28' 3PT Pullup Jump Shot (5 PTS) (Lowry 5 AST),40 - 38,-2,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,214,2,1,2,8:44 PM,8:14,MISS Harris 24' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,215,4,0,2,8:44 PM,8:10,,,Lowry REBOUND (Off:0 Def:2),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,216,1,63,2,8:44 PM,7:58,,,Butler 9' Fadeaway Jumper (7 PTS),42 - 38,-4,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,217,1,79,2,8:45 PM,7:30,Harden 26' 3PT Pullup Jump Shot (3 PTS) (Harris 3 AST),,,42 - 41,-1,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,219,1,79,2,8:45 PM,7:15,,,Adebayo 8' Pullup Jump Shot (12 PTS) (Butler 2 AST),44 - 41,-3,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,221,2,78,2,8:45 PM,7:01,MISS Green 11' Floating Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,222,4,0,2,8:45 PM,6:59,,,Herro REBOUND (Off:0 Def:3),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,223,5,40,2,8:45 PM,6:59,,,Herro Out of Bounds Lost Ball Turnover (P1.T4),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,224,9,1,2,8:46 PM,6:59,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,225,8,0,2,8:48 PM,6:59,SUB: Thybulle FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,226,8,0,2,8:48 PM,6:59,SUB: Embiid FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,227,8,0,2,8:48 PM,6:59,,,SUB: Oladipo FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,228,8,0,2,8:48 PM,6:59,,,SUB: Tucker FOR Herro,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,233,5,1,2,8:50 PM,6:49,Green Bad Pass Turnover (P1.T7),,Oladipo STEAL (2 STL),,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,235,6,1,2,8:50 PM,6:46,Thybulle P.FOUL (P1.T4) (B.Forte),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,237,8,0,2,8:50 PM,6:46,SUB: Maxey FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,239,8,0,2,8:50 PM,6:46,,,SUB: Herro FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,249,5,2,2,8:51 PM,6:46,Green STEAL (2 STL),,Butler Lost Ball Turnover (P1.T5),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,242,10,0,2,8:51 PM,6:33,Jump Ball Green vs. Oladipo: Tip to Tucker,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,1
+0042100204,258,5,2,2,8:51 PM,6:33,Green Lost Ball Turnover (P2.T8),,Oladipo STEAL (3 STL),,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,245,2,1,2,8:51 PM,6:28,,,MISS Strus 27' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,246,4,0,2,8:51 PM,6:25,Embiid REBOUND (Off:0 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,247,1,79,2,8:52 PM,6:16,Green 24' 3PT Pullup Jump Shot (8 PTS) (Harden 5 AST),,,44 - 44,TIE,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,251,6,4,2,8:52 PM,5:56,,,Tucker OFF.Foul (P1) (S.Foster),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,253,5,37,2,8:52 PM,5:56,,,Tucker Offensive Foul Turnover (P1.T6),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,254,5,1,2,8:52 PM,5:38,Harden Bad Pass Turnover (P4.T9),,Herro STEAL (2 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,256,2,1,2,8:52 PM,5:31,,,MISS Tucker 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,257,4,0,2,8:53 PM,5:26,Embiid REBOUND (Off:0 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,260,1,103,2,8:53 PM,5:22,Green 27' 3PT Running Pull-Up Jump Shot (11 PTS) (Embiid 1 AST),,,44 - 47,3,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,261,6,2,2,8:53 PM,5:22,,,Strus S.FOUL (P2.T2) (B.Forte),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,263,8,0,2,8:53 PM,5:22,,,SUB: Adebayo FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,265,3,10,2,8:54 PM,5:22,MISS Green Free Throw 1 of 1,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,266,4,0,2,8:54 PM,5:20,,,Herro REBOUND (Off:0 Def:4),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,267,1,73,2,8:54 PM,5:08,,,Herro 3' Driving Reverse Layup (7 PTS),46 - 47,1,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,268,6,2,2,8:54 PM,4:59,,,Tucker S.FOUL (P2.T3) (E.Lewis),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,270,3,11,2,8:55 PM,4:59,Harden Free Throw 1 of 2 (4 PTS),,,46 - 48,2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,271,3,12,2,8:55 PM,4:59,Harden Free Throw 2 of 2 (5 PTS),,,46 - 49,3,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0042100204,272,5,4,2,8:55 PM,4:43,,,Oladipo Traveling Turnover (P2.T7),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,273,1,108,2,8:56 PM,4:29,Harris 1' Cutting Dunk Shot (8 PTS) (Harden 6 AST),,,46 - 51,5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,275,2,1,2,8:56 PM,4:14,,,MISS Oladipo 27' 3PT Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,276,4,0,2,8:56 PM,4:12,Harden REBOUND (Off:0 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,277,1,41,2,8:56 PM,4:07,Harden 2' Running Layup (7 PTS),,,46 - 53,7,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,278,9,1,2,8:56 PM,4:01,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,279,8,0,2,8:59 PM,4:01,,,SUB: Lowry FOR Oladipo,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,281,2,79,2,9:00 PM,3:50,,,MISS Lowry 27' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,282,4,0,2,9:00 PM,3:46,Green REBOUND (Off:0 Def:2),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,283,1,80,2,9:00 PM,3:30,Harden 26' 3PT Step Back Jump Shot (10 PTS),,,46 - 56,10,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,284,1,1,2,9:01 PM,3:14,,,Butler 26' 3PT Jump Shot (10 PTS),49 - 56,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,285,2,1,2,9:01 PM,3:03,MISS Embiid 27' 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,286,4,0,2,9:01 PM,3:00,,,Herro REBOUND (Off:0 Def:5),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,287,5,45,2,9:01 PM,2:51,,,Herro Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,288,6,2,2,9:01 PM,2:41,,,Adebayo S.FOUL (P2.T4) (E.Lewis),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,290,3,11,2,9:02 PM,2:41,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,291,4,1,2,9:02 PM,2:41,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,292,3,12,2,9:02 PM,2:41,Harden Free Throw 2 of 2 (11 PTS),,,49 - 57,8,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,293,1,63,2,9:03 PM,2:28,,,Butler 11' Fadeaway Jumper (12 PTS) (Adebayo 2 AST),51 - 57,6,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,295,5,40,2,9:03 PM,2:22,Harden Out of Bounds Lost Ball Turnover (P5.T10),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042100204,296,1,105,2,9:03 PM,2:15,,,Butler 5' Turnaround Fadeaway Bank Jump Shot (14 PTS),53 - 57,4,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,297,6,2,2,9:03 PM,2:15,Green S.FOUL (P3.PN) (E.Lewis),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,300,8,0,2,9:03 PM,2:15,SUB: Thybulle FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,302,3,10,2,9:04 PM,2:15,,,Butler Free Throw 1 of 1 (15 PTS),54 - 57,3,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,303,2,1,2,9:04 PM,1:56,MISS Thybulle 25' 3PT Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,304,4,0,2,9:04 PM,1:53,,,Tucker REBOUND (Off:1 Def:1),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,305,2,79,2,9:04 PM,1:46,,,MISS Butler 27' 3PT Pullup Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,306,4,0,2,9:04 PM,1:43,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,308,8,0,2,9:05 PM,1:43,,,SUB: Oladipo FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,310,2,1,2,9:05 PM,1:40,,,MISS Herro 29' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,311,4,0,2,9:05 PM,1:37,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,312,2,86,2,9:05 PM,1:20,MISS Embiid 18' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,313,4,0,2,9:05 PM,1:17,,,Oladipo REBOUND (Off:0 Def:1),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,314,2,1,2,9:05 PM,1:11,,,MISS Oladipo 27' 3PT Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,315,4,0,2,9:05 PM,1:07,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,316,6,1,2,9:06 PM,0:59,,,Butler P.FOUL (P1.PN) (E.Lewis),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,318,3,11,2,9:06 PM,0:59,Harden Free Throw 1 of 2 (12 PTS),,,54 - 58,4,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,319,8,0,2,9:06 PM,0:59,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,321,3,12,2,9:06 PM,0:59,Harden Free Throw 2 of 2 (13 PTS),,,54 - 59,5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,322,1,79,2,9:07 PM,0:48,,,Herro 16' Pullup Jump Shot (9 PTS) (Butler 3 AST),56 - 59,3,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,324,1,1,2,9:07 PM,0:33,Niang 25' 3PT Jump Shot (3 PTS) (Harden 7 AST),,,56 - 62,6,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,326,2,75,2,9:07 PM,0:09,,,MISS Herro 5' Driving Finger Roll Layup,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,327,4,0,2,9:08 PM,0:08,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,328,5,4,2,9:08 PM,0:08,,,Herro Traveling Turnover (P3.T9),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,329,8,0,2,9:08 PM,0:08,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,330,8,0,2,9:08 PM,0:08,,,SUB: Martin FOR Tucker,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,333,8,0,2,9:08 PM,0:08,,,SUB: Strus FOR Herro,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,335,1,103,2,9:08 PM,0:05,Maxey 11' Running Pull-Up Jump Shot (7 PTS) (Niang 3 AST),,,56 - 64,8,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,337,2,103,2,9:08 PM,0:00,,,MISS Lowry 31' 3PT Running Pull-Up Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,338,4,0,2,9:09 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,339,13,0,2,9:09 PM,0:00,,End of 2nd Period (9:09 PM EST),,56 - 64,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100204,348,12,0,3,9:25 PM,12:00,,Start of 3rd Period (9:25 PM EST),,56 - 64,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,349,5,1,3,9:25 PM,11:42,Harden STEAL (1 STL),,Lowry Bad Pass Turnover (P2.T10),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,351,6,2,3,9:26 PM,11:35,,,Strus S.FOUL (P3.T1) (B.Forte),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,353,3,11,3,9:26 PM,11:35,Maxey Free Throw 1 of 2 (8 PTS),,,56 - 65,9,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,354,3,12,3,9:26 PM,11:35,Maxey Free Throw 2 of 2 (9 PTS),,,56 - 66,10,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,355,1,47,3,9:27 PM,11:15,,,Butler 14' Turnaround Jump Shot (17 PTS) (Lowry 6 AST),58 - 66,8,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,357,1,79,3,9:27 PM,10:51,Maxey 28' 3PT Pullup Jump Shot (12 PTS),,,58 - 69,11,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,358,6,1,3,9:27 PM,10:38,Green P.FOUL (P4.T1) (E.Lewis),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,360,2,63,3,9:28 PM,10:24,,,MISS Adebayo 19' Fadeaway Jumper,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,361,4,0,3,9:28 PM,10:21,Harden REBOUND (Off:0 Def:4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,362,2,86,3,9:28 PM,10:08,MISS Embiid 14' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,363,4,0,3,9:28 PM,10:04,,,Butler REBOUND (Off:0 Def:1),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,364,6,2,3,9:28 PM,9:58,Maxey S.FOUL (P1.T2) (E.Lewis),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,366,3,11,3,9:29 PM,9:58,,,Butler Free Throw 1 of 2 (18 PTS),59 - 69,10,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,367,8,0,3,9:29 PM,9:58,SUB: Niang FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,369,3,12,3,9:29 PM,9:58,,,Butler Free Throw 2 of 2 (19 PTS),60 - 69,9,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,370,6,1,3,9:30 PM,9:38,,,Adebayo P.FOUL (P3.T2) (E.Lewis),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0042100204,372,1,63,3,9:30 PM,9:26,Embiid 8' Fadeaway Jumper (17 PTS) (Harris 4 AST),,,60 - 71,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,374,5,45,3,9:30 PM,9:21,,,Lowry Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,375,2,80,3,9:31 PM,9:09,MISS Harden 27' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,376,4,0,3,9:31 PM,9:06,,,Adebayo REBOUND (Off:1 Def:3),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,377,6,2,3,9:31 PM,8:55,Harris S.FOUL (P3.T3) (E.Lewis),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,379,3,11,3,9:31 PM,8:55,,,Butler Free Throw 1 of 2 (20 PTS),61 - 71,10,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,380,3,12,3,9:31 PM,8:55,,,Butler Free Throw 2 of 2 (21 PTS),62 - 71,9,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,381,5,1,3,9:32 PM,8:41,Maxey Bad Pass Turnover (P1.T11),,Lowry STEAL (1 STL),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,383,1,76,3,9:32 PM,8:37,,,Lowry 3' Running Finger Roll Layup (4 PTS),64 - 71,7,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,384,1,79,3,9:32 PM,8:24,Embiid 13' Pullup Jump Shot (19 PTS),,,64 - 73,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,385,6,2,3,9:32 PM,8:24,,,Adebayo S.FOUL (P4.T3) (E.Lewis),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,387,8,0,3,9:32 PM,8:24,,,SUB: Oladipo FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,389,3,10,3,9:33 PM,8:24,Embiid Free Throw 1 of 1 (20 PTS),,,64 - 74,10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,390,2,1,3,9:33 PM,8:12,,,MISS Lowry 24' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,391,4,0,3,9:33 PM,8:09,Embiid REBOUND (Off:0 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,392,2,1,3,9:33 PM,8:03,MISS Harris 25' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,393,4,0,3,9:33 PM,7:59,,,Strus REBOUND (Off:2 Def:2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,394,1,5,3,9:34 PM,7:53,,,Butler 2' Layup (23 PTS),66 - 74,8,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,395,6,14,3,9:34 PM,7:53,Embiid FLAGRANT.FOUL.TYPE1 (P2.T4) (E.Lewis),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,398,5,0,3,9:34 PM,7:53,Embiid Turnover Turnover (P3.T12),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042100204,397,18,1,3,9:34 PM,7:53,,Instant Replay3rd Period (9:34 PM EST),,66 - 74,8,0,395,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100204,399,3,20,3,9:36 PM,7:53,,,Butler Free Throw Flagrant 1 of 1 (24 PTS),67 - 74,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,400,1,79,3,9:36 PM,7:42,,,Butler 26' 3PT Pullup Jump Shot (27 PTS) (Strus 3 AST),70 - 74,4,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,402,2,1,3,9:36 PM,7:26,MISS Niang 24' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,403,4,0,3,9:36 PM,7:22,Embiid REBOUND (Off:1 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,404,1,1,3,9:37 PM,7:19,Niang 27' 3PT Jump Shot (6 PTS) (Harden 8 AST),,,70 - 77,7,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,406,6,2,3,9:37 PM,7:09,Harris S.FOUL (P4.PN) (B.Forte),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,408,3,11,3,9:37 PM,7:09,,,Oladipo Free Throw 1 of 2 (9 PTS),71 - 77,6,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,409,8,0,3,9:38 PM,7:09,SUB: Thybulle FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,411,3,12,3,9:38 PM,7:09,,,Oladipo Free Throw 2 of 2 (10 PTS),72 - 77,5,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,412,5,2,3,9:38 PM,6:55,Embiid Lost Ball Turnover (P4.T13),,Lowry STEAL (2 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,414,2,79,3,9:38 PM,6:50,,,MISS Lowry 25' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,415,4,0,3,9:38 PM,6:49,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,416,6,3,3,9:38 PM,6:49,,,Tucker L.B.FOUL (P3.T4) (S.Foster),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,418,9,1,3,9:38 PM,6:49,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,419,5,1,3,9:42 PM,6:33,Niang Bad Pass Turnover (P1.T14),,Butler STEAL (1 STL),,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,421,1,41,3,9:42 PM,6:29,,,Lowry 1' Running Layup (6 PTS) (Butler 4 AST),74 - 77,3,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,423,6,2,3,9:43 PM,6:05,,,Oladipo S.FOUL (P1.PN) (B.Forte),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,425,3,11,3,9:43 PM,6:05,MISS Embiid Free Throw 1 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,426,4,1,3,9:43 PM,6:05,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,427,3,12,3,9:44 PM,6:05,Embiid Free Throw 2 of 2 (21 PTS),,,74 - 78,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,428,2,1,3,9:44 PM,5:49,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,429,4,0,3,9:44 PM,5:46,Harden REBOUND (Off:0 Def:5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,430,2,101,3,9:44 PM,5:35,MISS Harden 11' Driving Floating Jump Shot,,Butler BLOCK (1 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1
+0042100204,432,4,0,3,9:44 PM,5:33,,,Butler REBOUND (Off:0 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,433,2,1,3,9:44 PM,5:28,,,MISS Butler 26' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,434,4,0,3,9:44 PM,5:27,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,435,6,3,3,9:45 PM,5:27,,,Strus L.B.FOUL (P4.PN) (S.Foster),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,437,3,11,3,9:45 PM,5:27,MISS Embiid Free Throw 1 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,438,4,1,3,9:45 PM,5:27,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,439,8,0,3,9:45 PM,5:27,,,SUB: Herro FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,441,3,12,3,9:46 PM,5:27,Embiid Free Throw 2 of 2 (22 PTS),,,74 - 79,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,442,2,1,3,9:46 PM,5:13,,,MISS Oladipo 27' 3PT Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,443,4,0,3,9:46 PM,5:11,Maxey REBOUND (Off:1 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,444,2,63,3,9:46 PM,5:02,MISS Maxey 11' Fadeaway Jumper,,Butler BLOCK (2 BLK),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1
+0042100204,446,4,0,3,9:46 PM,4:58,,,Lowry REBOUND (Off:0 Def:3),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,447,1,103,3,9:46 PM,4:52,,,Oladipo 13' Running Pull-Up Jump Shot (12 PTS) (Lowry 7 AST),76 - 79,3,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,449,1,108,3,9:47 PM,4:36,Thybulle 1' Cutting Dunk Shot (5 PTS) (Embiid 2 AST),,,76 - 81,5,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,451,2,67,3,9:47 PM,4:09,,,MISS Butler 3' Hook Bank Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,452,4,0,3,9:47 PM,4:07,Niang REBOUND (Off:0 Def:1),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,453,6,2,3,9:47 PM,4:05,,,Lowry S.FOUL (P1.PN) (E.Lewis),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,455,3,11,3,9:48 PM,4:05,Harden Free Throw 1 of 2 (14 PTS),,,76 - 82,6,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,456,3,12,3,9:48 PM,4:05,Harden Free Throw 2 of 2 (15 PTS),,,76 - 83,7,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,457,9,1,3,9:48 PM,3:59,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,458,8,0,3,9:52 PM,3:59,SUB: Milton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,460,1,71,3,9:52 PM,3:44,,,Butler 4' Finger Roll Layup (29 PTS),78 - 83,5,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,461,6,1,3,9:53 PM,3:28,,,Tucker P.FOUL (P4.PN) (S.Foster),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,463,3,11,3,9:53 PM,3:28,Embiid Free Throw 1 of 2 (23 PTS),,,78 - 84,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,471,3,12,3,9:53 PM,3:28,MISS Embiid Free Throw 2 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,472,4,0,3,9:53 PM,3:28,,,Herro REBOUND (Off:0 Def:6),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,484,7,3,3,9:53 PM,3:28,,,Lane,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0042100204,465,8,0,3,9:53 PM,3:28,,,SUB: Morris FOR Tucker,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,202693,Markieff Morris,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,469,8,0,3,9:54 PM,3:28,,,SUB: Vincent FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,473,2,1,3,9:54 PM,3:12,,,MISS Oladipo 27' 3PT Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,474,4,0,3,9:54 PM,3:09,Harden REBOUND (Off:0 Def:6),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,475,5,2,3,9:55 PM,3:00,Harden Lost Ball Turnover (P6.T15),,Butler STEAL (2 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,477,1,2,3,9:55 PM,2:54,,,Vincent 21' Running Jump Shot (2 PTS) (Oladipo 2 AST),80 - 84,4,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,479,6,2,3,9:55 PM,2:35,,,Morris S.FOUL (P1.PN) (B.Forte),,,5,202693,Markieff Morris,1610612748.0,Miami,Heat,MIA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,481,3,11,3,9:55 PM,2:35,Embiid Free Throw 1 of 2 (24 PTS),,,80 - 85,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,485,3,12,3,9:55 PM,2:35,MISS Embiid Free Throw 2 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,482,8,0,3,9:55 PM,2:35,SUB: Maxey FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,486,4,0,3,9:55 PM,2:33,,,Herro REBOUND (Off:0 Def:7),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,487,2,1,3,9:56 PM,2:20,,,MISS Herro 25' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,488,4,0,3,9:56 PM,2:17,Milton REBOUND (Off:0 Def:2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,489,1,41,3,9:56 PM,2:12,Maxey 1' Running Layup (14 PTS) (Milton 1 AST),,,80 - 87,7,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,491,2,1,3,9:56 PM,2:02,,,MISS Vincent 25' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,492,4,0,3,9:56 PM,1:59,Thybulle REBOUND (Off:0 Def:1),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,493,2,1,3,9:57 PM,1:51,MISS Maxey 28' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,494,4,0,3,9:57 PM,1:48,,,Morris REBOUND (Off:0 Def:1),,,5,202693,Markieff Morris,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,495,1,5,3,9:57 PM,1:37,,,Butler 2' Layup (31 PTS),82 - 87,5,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,496,6,2,3,9:57 PM,1:37,Embiid S.FOUL (P3.PN) (S.Foster),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,498,3,10,3,9:58 PM,1:37,,,Butler Free Throw 1 of 1 (32 PTS),83 - 87,4,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,499,2,1,3,9:58 PM,1:23,MISS Niang 27' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,500,4,0,3,9:58 PM,1:19,,,Herro REBOUND (Off:0 Def:8),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,501,6,2,3,9:58 PM,1:16,Maxey S.FOUL (P2.PN) (E.Lewis),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,503,3,11,3,9:59 PM,1:16,,,Herro Free Throw 1 of 2 (10 PTS),84 - 87,3,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,504,8,0,3,9:59 PM,1:16,,,SUB: Lowry FOR Butler,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,506,3,12,3,9:59 PM,1:16,,,Herro Free Throw 2 of 2 (11 PTS),85 - 87,2,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,507,2,63,3,9:59 PM,0:58,MISS Embiid 13' Fadeaway Jumper,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,508,4,0,3,10:00 PM,0:56,,,Oladipo REBOUND (Off:0 Def:2),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,509,2,86,3,10:00 PM,0:48,Embiid BLOCK (1 BLK),,MISS Morris 15' Turnaround Fadeaway Shot,,,5,202693,Markieff Morris,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0042100204,511,4,0,3,10:00 PM,0:43,,,Herro REBOUND (Off:1 Def:8),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,512,6,4,3,10:00 PM,0:41,,,Morris OFF.Foul (P2) (S.Foster),,,5,202693,Markieff Morris,1610612748.0,Miami,Heat,MIA,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,514,5,37,3,10:00 PM,0:41,,,Morris Offensive Foul Turnover (P1.T12),,,5,202693,Markieff Morris,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042100204,515,8,0,3,10:00 PM,0:41,SUB: Green FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,517,1,6,3,10:01 PM,0:23,Niang 4' Driving Layup (8 PTS) (Maxey 2 AST),,,85 - 89,4,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,519,2,1,3,10:01 PM,0:01,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,520,4,0,3,10:01 PM,0:01,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,521,13,0,3,10:01 PM,0:00,,End of 3rd Period (10:01 PM EST),,85 - 89,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100204,530,12,0,4,10:05 PM,12:00,,Start of 4th Period (10:05 PM EST),,85 - 89,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,531,2,1,4,10:05 PM,11:39,MISS Harden 29' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,532,4,0,4,10:05 PM,11:36,,,Herro REBOUND (Off:1 Def:9),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,533,6,1,4,10:05 PM,11:31,Niang P.FOUL (P2.T1) (S.Foster),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,535,2,79,4,10:06 PM,11:19,,,MISS Herro 19' Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,536,4,0,4,10:06 PM,11:18,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,537,6,3,4,10:06 PM,11:18,Reed L.B.FOUL (P2.T2) (B.Forte),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,539,2,79,4,10:06 PM,11:10,,,MISS Herro 12' Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,540,4,0,4,10:06 PM,11:06,Niang REBOUND (Off:0 Def:2),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,541,1,1,4,10:07 PM,10:56,Harris 25' 3PT Jump Shot (11 PTS) (Harden 9 AST),,,85 - 92,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,543,5,2,4,10:07 PM,10:35,Harris STEAL (2 STL),,Lowry Lost Ball Turnover (P4.T13),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,545,6,28,4,10:07 PM,10:32,,,Lowry Personal Take Foul (P2.T1) (E.Lewis),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,547,2,1,4,10:08 PM,10:19,MISS Maxey 28' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,548,4,0,4,10:08 PM,10:16,,,Oladipo REBOUND (Off:0 Def:3),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,549,2,1,4,10:08 PM,10:00,,,MISS Vincent 25' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,550,4,0,4,10:08 PM,9:58,Harris REBOUND (Off:0 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,552,6,2,4,10:08 PM,9:42,,,Herro S.FOUL (P1.T2) (S.Foster),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,554,3,11,4,10:09 PM,9:42,Harden Free Throw 1 of 2 (16 PTS),,,85 - 93,8,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,555,8,0,4,10:09 PM,9:42,,,SUB: Butler FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,557,3,12,4,10:09 PM,9:42,Harden Free Throw 2 of 2 (17 PTS),,,85 - 94,9,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,558,2,1,4,10:10 PM,9:21,,,MISS Butler 26' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,559,4,0,4,10:10 PM,9:18,Maxey REBOUND (Off:1 Def:2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,560,1,80,4,10:10 PM,9:13,Harden 26' 3PT Step Back Jump Shot (20 PTS),,,85 - 97,12,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,561,9,1,4,10:10 PM,9:13,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,562,8,0,4,10:13 PM,9:13,,,SUB: Tucker FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,564,8,0,4,10:13 PM,9:13,,,SUB: Strus FOR Oladipo,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,566,1,6,4,10:14 PM,8:58,,,Butler 2' Driving Layup (34 PTS),87 - 97,10,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,567,6,1,4,10:14 PM,8:34,,,Strus P.FOUL (P5.T3) (S.Foster),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,569,6,2,4,10:15 PM,8:22,,,Tucker S.FOUL (P5.T4) (E.Lewis),,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,571,3,11,4,10:15 PM,8:22,Maxey Free Throw 1 of 2 (15 PTS),,,87 - 98,11,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,572,8,0,4,10:15 PM,8:22,,,SUB: Oladipo FOR Tucker,,,5,200782,P.J. Tucker,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,574,3,12,4,10:15 PM,8:22,Maxey Free Throw 2 of 2 (16 PTS),,,87 - 99,12,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,575,2,1,4,10:16 PM,8:03,,,MISS Herro 27' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,576,4,0,4,10:16 PM,8:02,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,578,6,1,4,10:16 PM,7:45,,,Oladipo P.FOUL (P2.PN) (E.Lewis),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,580,3,11,4,10:17 PM,7:45,Niang Free Throw 1 of 2 (9 PTS),,,87 - 100,13,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,581,3,12,4,10:17 PM,7:45,Niang Free Throw 2 of 2 (10 PTS),,,87 - 101,14,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,582,2,98,4,10:17 PM,7:33,,,MISS Oladipo 1' Cutting Layup Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,583,4,0,4,10:17 PM,7:31,Reed REBOUND (Off:0 Def:1),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,584,2,80,4,10:18 PM,7:25,MISS Harden 26' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,585,4,0,4,10:18 PM,7:21,,,Adebayo REBOUND (Off:1 Def:4),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,586,1,6,4,10:18 PM,7:11,,,Butler 4' Driving Layup (36 PTS),89 - 101,12,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,587,9,1,4,10:18 PM,7:11,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,588,8,0,4,10:21 PM,7:11,SUB: Embiid FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,590,2,63,4,10:22 PM,6:52,MISS Embiid 14' Fadeaway Jumper,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,591,4,0,4,10:22 PM,6:49,,,Adebayo REBOUND (Off:1 Def:5),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,592,1,79,4,10:22 PM,6:43,,,Oladipo 25' 3PT Pullup Jump Shot (15 PTS) (Adebayo 3 AST),92 - 101,9,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,594,2,1,4,10:22 PM,6:22,MISS Niang 27' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,595,4,0,4,10:22 PM,6:19,Harden REBOUND (Off:1 Def:6),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,596,6,4,4,10:22 PM,6:17,Harris OFF.Foul (P5) (B.Forte),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,598,5,37,4,10:22 PM,6:17,Harris Offensive Foul Turnover (P2.T16),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042100204,599,8,0,4,10:22 PM,6:17,SUB: Green FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042100204,601,1,7,4,10:23 PM,6:01,,,Adebayo 1' Dunk (14 PTS) (Butler 5 AST),94 - 101,7,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,603,9,1,4,10:23 PM,5:52,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,604,1,80,4,10:25 PM,5:34,Harden 27' 3PT Step Back Jump Shot (23 PTS),,,94 - 104,10,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,605,1,79,4,10:25 PM,5:18,,,Butler 16' Pullup Jump Shot (38 PTS),96 - 104,8,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,606,2,1,4,10:26 PM,4:55,MISS Green 29' 3PT Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,607,4,0,4,10:26 PM,4:52,,,Adebayo REBOUND (Off:1 Def:6),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,608,1,44,4,10:26 PM,4:42,,,Adebayo 2' Reverse Layup (16 PTS) (Butler 6 AST),98 - 104,6,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,610,6,2,4,10:26 PM,4:42,Embiid S.FOUL (P4.T3) (B.Forte),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,612,3,10,4,10:26 PM,4:42,,,Adebayo Free Throw 1 of 1 (17 PTS),99 - 104,5,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,613,1,73,4,10:27 PM,4:20,Harden 1' Driving Reverse Layup (25 PTS) (Green 1 AST),,,99 - 106,7,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,615,2,79,4,10:27 PM,4:03,,,MISS Herro 16' Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,616,4,0,4,10:27 PM,3:59,Embiid REBOUND (Off:1 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,617,2,6,4,10:28 PM,3:47,MISS Harden 3' Driving Layup,,Oladipo BLOCK (2 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1
+0042100204,619,4,0,4,10:28 PM,3:47,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,620,1,79,4,10:28 PM,3:27,,,Adebayo 8' Pullup Jump Shot (19 PTS),101 - 106,5,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,621,1,1,4,10:28 PM,3:01,Harden 28' 3PT Jump Shot (28 PTS) (Maxey 3 AST),,,101 - 109,8,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,623,9,1,4,10:29 PM,3:00,,,Heat Timeout: Regular (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,624,6,2,4,10:30 PM,2:50,Maxey S.FOUL (P3.T4) (S.Foster),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042100204,626,3,11,4,10:31 PM,2:50,,,Butler Free Throw 1 of 2 (39 PTS),102 - 109,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,627,3,12,4,10:31 PM,2:50,,,Butler Free Throw 2 of 2 (40 PTS),103 - 109,6,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,628,2,63,4,10:32 PM,2:26,MISS Maxey 15' Fadeaway Jumper,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,629,4,0,4,10:32 PM,2:24,,,Butler REBOUND (Off:0 Def:3),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,630,2,79,4,10:32 PM,2:18,,,MISS Butler 27' 3PT Pullup Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,631,4,0,4,10:32 PM,2:14,Embiid REBOUND (Off:1 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,632,2,101,4,10:32 PM,1:51,MISS Harden 9' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,633,4,0,4,10:32 PM,1:48,Embiid REBOUND (Off:2 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,634,1,52,4,10:32 PM,1:40,Harris 1' Alley Oop Dunk (13 PTS) (Maxey 4 AST),,,103 - 111,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042100204,636,2,79,4,10:33 PM,1:31,,,MISS Oladipo 18' Pullup Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,637,4,0,4,10:33 PM,1:28,Embiid REBOUND (Off:2 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,638,1,80,4,10:33 PM,1:07,Harden 28' 3PT Step Back Jump Shot (31 PTS),,,103 - 114,11,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,639,9,1,4,10:33 PM,1:07,,,Heat Timeout: Regular (Reg.6 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,640,1,1,4,10:35 PM,1:03,,,Strus 29' 3PT Jump Shot (6 PTS) (Adebayo 4 AST),106 - 114,8,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,642,6,1,4,10:35 PM,0:42,,,Strus P.FOUL (P6.PN) (B.Forte),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042100204,644,8,0,4,10:36 PM,0:42,,,SUB: Vincent FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042100204,646,3,11,4,10:36 PM,0:42,Maxey Free Throw 1 of 2 (17 PTS),,,106 - 115,9,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,647,3,12,4,10:37 PM,0:42,Maxey Free Throw 2 of 2 (18 PTS),,,106 - 116,10,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042100204,648,1,7,4,10:37 PM,0:35,,,Adebayo 1' Dunk (21 PTS) (Vincent 1 AST),108 - 116,8,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042100204,650,5,11,4,10:37 PM,0:11,76ERS Turnover: Shot Clock (T#17),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100204,651,2,80,4,10:38 PM,0:00,,,MISS Vincent 24' 3PT Step Back Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042100204,652,4,0,4,10:38 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100204,653,13,0,4,10:38 PM,0:00,,End of 4th Period (10:38 PM EST),,108 - 116,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

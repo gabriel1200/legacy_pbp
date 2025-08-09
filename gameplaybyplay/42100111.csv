@@ -1,0 +1,458 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100111,2,12,0,1,3:42 PM,12:00,,Start of 1st Period (3:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,4,10,0,1,3:42 PM,12:00,Jump Ball Horford vs. Drummond: Tip to Irving,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,7,2,79,1,3:42 PM,11:44,,,MISS Durant 17' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,8,4,0,1,3:42 PM,11:42,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,9,6,2,1,3:42 PM,11:24,,,Brown S.FOUL (P1.T1) (J.Williams),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,11,3,11,1,3:43 PM,11:24,MISS Tatum Free Throw 1 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,12,4,1,1,3:43 PM,11:24,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,13,3,12,1,3:43 PM,11:24,Tatum Free Throw 2 of 2 (1 PTS),,,0 - 1,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,14,1,79,1,3:43 PM,11:08,,,Curry 20' Pullup Jump Shot (2 PTS) (Brown 1 AST),2 - 1,-1,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,16,1,108,1,3:43 PM,11:00,Brown 2' Cutting Dunk Shot (2 PTS) (Smart 1 AST),,,2 - 3,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,18,1,7,1,3:44 PM,10:41,,,Drummond 1' Dunk (2 PTS) (Curry 1 AST),4 - 3,-1,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,20,1,1,1,3:44 PM,10:27,Horford 27' 3PT Jump Shot (3 PTS),,,4 - 6,2,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,21,5,2,1,3:44 PM,10:14,Horford STEAL (1 STL),,Durant Lost Ball Turnover (P1.T1),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,23,6,28,1,3:44 PM,10:12,,,Curry Personal Take Foul (P1.T2) (R.Mott),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,25,2,79,1,3:45 PM,10:02,MISS Brown 19' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,26,4,0,1,3:45 PM,9:57,,,Brown REBOUND (Off:0 Def:1),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,27,5,40,1,3:45 PM,9:45,,,Irving Out of Bounds Lost Ball Turnover (P1.T2),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0042100111,28,2,1,1,3:45 PM,9:37,MISS Brown 20' Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,29,4,0,1,3:45 PM,9:34,Theis REBOUND (Off:1 Def:0),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,30,5,2,1,3:45 PM,9:32,Tatum Lost Ball Turnover (P1.T1),,Irving STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,32,6,1,1,3:45 PM,9:29,Theis P.FOUL (P1.T1) (R.Mott),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,34,1,79,1,3:46 PM,9:19,,,Curry 20' Pullup Jump Shot (4 PTS),6 - 6,TIE,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,35,6,1,1,3:46 PM,9:10,,,Irving P.FOUL (P1.T3) (Z.Zarba),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,37,2,80,1,3:46 PM,9:03,MISS Brown 19' Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,38,4,0,1,3:46 PM,9:02,Theis REBOUND (Off:2 Def:0),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,62,2,97,1,3:46 PM,9:02,MISS Theis 2' Tip Layup Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,63,4,0,1,3:46 PM,9:01,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,41,6,3,1,3:46 PM,9:01,,,Curry L.B.FOUL (P2.T4) (J.Williams),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,43,2,6,1,3:47 PM,8:54,MISS Tatum 4' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,44,4,0,1,3:47 PM,8:51,,,Drummond REBOUND (Off:0 Def:1),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,45,6,4,1,3:47 PM,8:45,,,Brown OFF.Foul (P2) (J.Williams),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,47,5,37,1,3:47 PM,8:45,,,Brown Offensive Foul Turnover (P1.T3),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0042100111,48,2,1,1,3:47 PM,8:33,MISS Theis 27' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,49,4,0,1,3:47 PM,8:31,,,Drummond REBOUND (Off:0 Def:2),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,50,5,2,1,3:48 PM,8:15,Theis STEAL (1 STL),,Durant Lost Ball Turnover (P2.T4),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,52,1,2,1,3:48 PM,8:11,Smart 25' 3PT Running Jump Shot (3 PTS) (Tatum 1 AST),,,6 - 9,3,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,54,6,2,1,3:48 PM,7:52,Theis S.FOUL (P2.T2) (J.Williams),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,56,3,11,1,3:49 PM,7:52,,,Drummond Free Throw 1 of 2 (3 PTS),7 - 9,2,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,57,8,0,1,3:49 PM,7:52,SUB: Williams FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,59,3,12,1,3:49 PM,7:52,,,Drummond Free Throw 2 of 2 (4 PTS),8 - 9,1,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,60,2,1,1,3:49 PM,7:40,MISS Williams 27' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,61,4,0,1,3:49 PM,7:37,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,64,6,1,1,3:49 PM,7:32,Tatum P.FOUL (P1.T3) (J.Williams),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,66,2,79,1,3:50 PM,7:23,,,MISS Irving 18' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,67,4,0,1,3:50 PM,7:21,Williams REBOUND (Off:0 Def:1),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,68,5,1,1,3:50 PM,7:16,Smart Bad Pass Turnover (P1.T2),,Drummond STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,70,6,1,1,3:50 PM,7:15,Brown P.FOUL (P1.T4) (Z.Zarba),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,72,2,6,1,3:50 PM,6:57,Williams BLOCK (1 BLK),,MISS Durant 18' Driving Layup,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0042100111,74,4,0,1,3:50 PM,6:55,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,75,1,41,1,3:50 PM,6:53,Williams 1' Running Layup (2 PTS) (Smart 2 AST),,,8 - 11,3,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,77,1,79,1,3:51 PM,6:47,,,Durant 11' Pullup Jump Shot (2 PTS) (Curry 2 AST),10 - 11,1,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,79,6,2,1,3:51 PM,6:25,,,Drummond S.FOUL (P1.PN) (Z.Zarba),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,81,9,1,1,3:51 PM,6:25,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,82,3,11,1,3:55 PM,6:25,Tatum Free Throw 1 of 2 (2 PTS),,,10 - 12,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,83,3,12,1,3:55 PM,6:25,Tatum Free Throw 2 of 2 (3 PTS),,,10 - 13,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,84,5,2,1,3:55 PM,6:12,Tatum STEAL (1 STL),,Brown Lost Ball Turnover (P2.T5),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,86,1,106,1,3:55 PM,6:10,Horford 2' Running Alley Oop Dunk Shot (5 PTS) (Tatum 2 AST),,,10 - 15,5,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,88,6,2,1,3:56 PM,5:51,Smart S.FOUL (P1.PN) (Z.Zarba),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,90,3,11,1,3:56 PM,5:51,,,Irving Free Throw 1 of 2 (1 PTS),11 - 15,4,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,91,8,0,1,3:56 PM,5:51,SUB: White FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,93,3,12,1,3:57 PM,5:51,,,Irving Free Throw 2 of 2 (2 PTS),12 - 15,3,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,94,6,1,1,3:57 PM,5:45,,,Durant P.FOUL (P1.PN) (R.Mott),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,96,3,11,1,3:57 PM,5:45,MISS Williams Free Throw 1 of 2,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,97,4,1,1,3:57 PM,5:45,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,98,3,12,1,3:58 PM,5:45,Williams Free Throw 2 of 2 (3 PTS),,,12 - 16,4,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,99,5,1,1,3:58 PM,5:30,White STEAL (1 STL),,Irving Bad Pass Turnover (P2.T6),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,101,1,41,1,3:58 PM,5:25,Williams 2' Running Layup (5 PTS) (White 1 AST),,,12 - 18,6,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,103,5,2,1,3:58 PM,5:03,Smart STEAL (1 STL),,Durant Lost Ball Turnover (P3.T7),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,105,2,41,1,3:59 PM,4:57,MISS Horford 2' Running Layup,,Durant BLOCK (1 BLK),,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,106,4,0,1,3:59 PM,4:56,,,Curry REBOUND (Off:0 Def:1),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,108,2,1,1,3:59 PM,4:35,,,MISS Irving 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,109,4,0,1,3:59 PM,4:32,,,Irving REBOUND (Off:1 Def:0),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,110,1,6,1,3:59 PM,4:26,,,Drummond 3' Driving Layup (6 PTS) (Brown 2 AST),14 - 18,4,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,112,1,1,1,3:59 PM,4:07,Horford 27' 3PT Jump Shot (8 PTS) (Brown 1 AST),,,14 - 21,7,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,114,1,80,1,4:00 PM,3:51,,,Curry 25' 3PT Step Back Jump Shot (7 PTS) (Durant 1 AST),17 - 21,4,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,115,2,1,1,4:00 PM,3:36,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,116,4,0,1,4:00 PM,3:35,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,118,2,1,1,4:00 PM,3:28,,,MISS Durant 25' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,119,4,0,1,4:00 PM,3:25,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,120,2,80,1,4:00 PM,3:23,MISS Williams 26' 3PT Step Back Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,121,4,0,1,4:00 PM,3:21,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,122,6,3,1,4:00 PM,3:21,Horford L.B.FOUL (P1.PN) (Z.Zarba),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,124,3,11,1,4:01 PM,3:21,,,Irving Free Throw 1 of 2 (3 PTS),18 - 21,3,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,125,8,0,1,4:01 PM,3:21,,,SUB: Mills FOR Drummond,,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,126,8,0,1,4:01 PM,3:21,,,SUB: Claxton FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,129,3,12,1,4:01 PM,3:21,,,Irving Free Throw 2 of 2 (4 PTS),19 - 21,2,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,130,5,1,1,4:02 PM,3:09,Smart Bad Pass Turnover (P2.T3),,Brown STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,132,1,41,1,4:02 PM,3:05,,,Claxton 1' Running Layup (2 PTS) (Irving 1 AST),21 - 21,TIE,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,134,2,6,1,4:02 PM,2:47,MISS White 5' Driving Layup,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,135,4,0,1,4:02 PM,2:45,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100111,138,6,3,1,4:02 PM,2:45,,,Mills L.B.FOUL (P1.PN) (J.Williams),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,140,9,1,1,4:03 PM,2:45,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,141,8,0,1,4:05 PM,2:45,SUB: Tatum FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,142,8,0,1,4:05 PM,2:45,,,SUB: Edwards FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,143,8,0,1,4:05 PM,2:45,,,SUB: Dragic FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,147,3,11,1,4:06 PM,2:45,Horford Free Throw 1 of 2 (9 PTS),,,21 - 22,1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,148,3,12,1,4:06 PM,2:45,Horford Free Throw 2 of 2 (10 PTS),,,21 - 23,2,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,149,6,1,1,4:07 PM,2:34,Williams P.FOUL (P1.PN) (R.Mott),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,151,3,11,1,4:07 PM,2:34,,,Durant Free Throw 1 of 2 (3 PTS),22 - 23,1,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,152,8,0,1,4:07 PM,2:34,SUB: Pritchard FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,154,3,12,1,4:07 PM,2:34,,,Durant Free Throw 2 of 2 (4 PTS),23 - 23,TIE,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,155,2,6,1,4:08 PM,2:17,MISS White 2' Driving Layup,,Claxton BLOCK (1 BLK),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,157,4,0,1,4:08 PM,2:15,,,Claxton REBOUND (Off:0 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,158,1,1,1,4:08 PM,1:57,,,Dragic 17' Jump Shot (2 PTS) (Edwards 1 AST),25 - 23,-2,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,160,5,40,1,4:08 PM,1:44,Tatum Out of Bounds Lost Ball Turnover (P2.T4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042100111,161,2,1,1,4:09 PM,1:31,,,MISS Dragic 25' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,162,4,0,1,4:09 PM,1:27,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,163,1,9,1,4:09 PM,1:11,Williams 2' Driving Dunk (7 PTS) (Tatum 3 AST),,,25 - 25,TIE,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,165,2,79,1,4:09 PM,0:56,,,MISS Durant 18' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,166,4,0,1,4:09 PM,0:53,Horford REBOUND (Off:0 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,167,1,1,1,4:09 PM,0:48,White 3PT Jump Shot (3 PTS) (Tatum 4 AST),,,25 - 28,3,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,169,2,79,1,4:10 PM,0:34,,,MISS Durant 15' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,170,4,0,1,4:10 PM,0:32,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,171,6,3,1,4:10 PM,0:32,Horford L.B.FOUL (P2.PN) (J.Williams),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,173,3,11,1,4:10 PM,0:32,,,MISS Claxton Free Throw 1 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,174,4,1,1,4:10 PM,0:32,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,175,8,0,1,4:10 PM,0:32,SUB: Theis FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,177,8,0,1,4:10 PM,0:32,,,SUB: Brown FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,179,3,12,1,4:11 PM,0:32,,,Claxton Free Throw 2 of 2 (3 PTS),26 - 28,2,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,180,6,1,1,4:11 PM,0:25,,,Edwards P.FOUL (P1.PN) (R.Mott),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,182,3,11,1,4:12 PM,0:25,MISS Tatum Free Throw 1 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,183,4,1,1,4:12 PM,0:25,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,184,8,0,1,4:12 PM,0:25,SUB: Brown FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,185,8,0,1,4:12 PM,0:25,SUB: Smart FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,186,8,0,1,4:12 PM,0:25,,,SUB: Mills FOR Edwards,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,187,8,0,1,4:12 PM,0:25,,,SUB: Irving FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,188,8,0,1,4:12 PM,0:25,,,SUB: Curry FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,194,3,12,1,4:12 PM,0:25,Tatum Free Throw 2 of 2 (4 PTS),,,26 - 29,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,195,6,1,1,4:12 PM,0:21,Williams P.FOUL (P2.PN) (Z.Zarba),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,197,3,11,1,4:13 PM,0:21,,,Curry Free Throw 1 of 2 (8 PTS),27 - 29,2,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,198,8,0,1,4:13 PM,0:21,SUB: Pritchard FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,199,8,0,1,4:13 PM,0:21,SUB: Theis FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,200,8,0,1,4:13 PM,0:21,,,SUB: Brown FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,201,8,0,1,4:13 PM,0:21,,,SUB: Claxton FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,206,3,12,1,4:13 PM,0:21,,,Curry Free Throw 2 of 2 (9 PTS),28 - 29,1,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,207,2,1,1,4:14 PM,0:00,MISS Brown 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,208,4,0,1,4:14 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,209,13,0,1,4:14 PM,0:00,,End of 1st Period (4:14 PM EST),,28 - 29,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100111,214,12,0,2,4:18 PM,12:00,,Start of 2nd Period (4:18 PM EST),,28 - 29,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,215,2,1,2,4:18 PM,11:47,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0042100111,216,4,0,2,4:18 PM,11:43,,,Claxton REBOUND (Off:0 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0042100111,217,6,1,2,4:18 PM,11:28,White P.FOUL (P1.T1) (R.Mott),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,219,2,79,2,4:18 PM,11:19,,,MISS Irving 20' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,220,4,0,2,4:18 PM,11:16,Pritchard REBOUND (Off:0 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,221,2,79,2,4:19 PM,11:07,MISS Tatum 26' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,222,4,0,2,4:19 PM,11:04,,,Claxton REBOUND (Off:0 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,223,2,80,2,4:19 PM,10:47,,,MISS Curry 25' 3PT Step Back Jump Shot,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,224,4,0,2,4:19 PM,10:45,Tatum REBOUND (Off:0 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,225,1,80,2,4:19 PM,10:41,Pritchard 27' 3PT Step Back Jump Shot (3 PTS) (Tatum 5 AST),,,28 - 32,4,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,227,1,6,2,4:19 PM,10:29,,,Dragic 6' Driving Layup (4 PTS),30 - 32,2,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,228,1,6,2,4:19 PM,10:14,Tatum 2' Driving Layup (6 PTS),,,30 - 34,4,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,229,1,79,2,4:20 PM,10:05,,,Irving 25' 3PT Pullup Jump Shot (7 PTS),33 - 34,1,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,230,2,6,2,4:20 PM,9:42,MISS Tatum 2' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,231,4,0,2,4:20 PM,9:41,Theis REBOUND (Off:3 Def:0),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,232,2,97,2,4:20 PM,9:41,MISS Theis Tip Layup Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,233,4,0,2,4:20 PM,9:39,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,234,6,3,2,4:20 PM,9:39,Tatum L.B.FOUL (P2.T2) (J.Williams),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,236,2,1,2,4:21 PM,9:21,,,MISS Curry 24' 3PT Jump Shot,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,237,4,0,2,4:21 PM,9:16,Theis REBOUND (Off:3 Def:1),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,238,1,6,2,4:21 PM,9:04,White 2' Driving Layup (5 PTS) (Williams 1 AST),,,33 - 36,3,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,240,1,103,2,4:21 PM,8:56,,,Irving 27' 3PT Running Pull-Up Jump Shot (10 PTS),36 - 36,TIE,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,241,1,5,2,4:22 PM,8:27,Theis 2' Layup (2 PTS),,,36 - 38,2,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,243,6,2,2,4:22 PM,8:13,Theis S.FOUL (P3.T3) (R.Mott),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,245,3,13,2,4:22 PM,8:13,,,Irving Free Throw 1 of 3 (11 PTS),37 - 38,1,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,246,3,14,2,4:23 PM,8:13,,,Irving Free Throw 2 of 3 (12 PTS),38 - 38,TIE,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,247,8,0,2,4:23 PM,8:13,SUB: Smart FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,248,8,0,2,4:23 PM,8:13,SUB: Horford FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,249,8,0,2,4:23 PM,8:13,SUB: Brown FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,250,8,0,2,4:23 PM,8:13,,,SUB: Drummond FOR Dragic,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,251,8,0,2,4:23 PM,8:13,,,SUB: Durant FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,257,3,15,2,4:23 PM,8:13,,,Irving Free Throw 3 of 3 (13 PTS),39 - 38,-1,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,258,1,98,2,4:24 PM,7:59,Horford 2' Cutting Layup Shot (12 PTS) (Tatum 6 AST),,,39 - 40,1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,260,2,5,2,4:24 PM,7:41,,,MISS Drummond 4' Layup,,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,261,4,0,2,4:24 PM,7:39,,,Drummond REBOUND (Off:1 Def:2),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,262,5,2,2,4:24 PM,7:38,White STEAL (2 STL),,Drummond Lost Ball Turnover (P1.T8),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,264,5,2,2,4:24 PM,7:32,Horford Lost Ball Turnover (P1.T5),,Irving STEAL (2 STL),,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,266,1,5,2,4:24 PM,7:26,,,Drummond 3' Layup (8 PTS) (Curry 3 AST),41 - 40,-1,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,268,5,2,2,4:24 PM,7:15,Brown Lost Ball Turnover (P1.T6),,Irving STEAL (3 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,270,6,1,2,4:24 PM,7:15,White P.FOUL (P2.T4) (R.Mott),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,272,2,1,2,4:25 PM,7:00,,,MISS Durant 19' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,273,4,0,2,4:25 PM,6:57,White REBOUND (Off:0 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,274,6,1,2,4:25 PM,6:41,,,Drummond P.FOUL (P2.T1) (R.Mott),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,276,9,1,2,4:26 PM,6:41,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,277,5,2,2,4:29 PM,6:34,Smart Lost Ball Turnover (P3.T7),,Drummond STEAL (2 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,279,5,1,2,4:29 PM,6:29,Brown STEAL (1 STL),,Drummond Bad Pass Turnover (P2.T9),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,281,1,108,2,4:29 PM,6:25,Horford 2' Cutting Dunk Shot (14 PTS) (Tatum 7 AST),,,41 - 42,1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,283,1,1,2,4:30 PM,6:03,,,Brown 25' 3PT Jump Shot (3 PTS) (Curry 4 AST),44 - 42,-2,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,285,6,1,2,4:30 PM,5:55,,,Durant P.FOUL (P2.T2) (R.Mott),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,287,8,0,2,4:30 PM,5:55,,,SUB: Dragic FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,289,1,86,2,4:31 PM,5:48,Brown 5' Turnaround Fadeaway (4 PTS) (White 2 AST),,,44 - 44,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,290,1,79,2,4:31 PM,5:32,,,Durant 17' Pullup Jump Shot (6 PTS),46 - 44,-2,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,291,6,2,2,4:31 PM,5:32,Smart S.FOUL (P2.PN) (Z.Zarba),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,294,3,10,2,4:31 PM,5:32,,,Durant Free Throw 1 of 1 (7 PTS),47 - 44,-3,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,295,6,1,2,4:32 PM,5:22,,,Drummond P.FOUL (P3.T3) (Z.Zarba),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,297,3,11,2,4:32 PM,5:22,MISS Brown Free Throw 1 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,298,4,1,2,4:32 PM,5:22,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,299,3,12,2,4:32 PM,5:22,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,300,4,0,2,4:32 PM,5:22,,,Drummond REBOUND (Off:1 Def:3),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,301,2,80,2,4:33 PM,5:00,,,MISS Curry 26' 3PT Step Back Jump Shot,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,302,4,0,2,4:33 PM,4:58,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100111,303,6,3,2,4:33 PM,4:58,,,Drummond L.B.FOUL (P4.T4) (Z.Zarba),,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,305,8,0,2,4:33 PM,4:58,,,SUB: Mills FOR Drummond,,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,306,8,0,2,4:33 PM,4:58,,,SUB: Claxton FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,309,1,93,2,4:34 PM,4:40,Tatum 8' Driving Bank Hook Shot (8 PTS),,,47 - 46,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,310,6,26,2,4:34 PM,4:26,,,Claxton Offensive Charge Foul (P1) (Z.Zarba),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,312,5,37,2,4:34 PM,4:26,,,Claxton Offensive Foul Turnover (P1.T10),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0042100111,313,8,0,2,4:34 PM,4:26,,,SUB: Irving FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,315,2,6,2,4:34 PM,4:14,MISS Smart 8' Driving Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,316,4,0,2,4:34 PM,4:12,,,Claxton REBOUND (Off:0 Def:4),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,317,5,2,2,4:35 PM,4:07,Brown STEAL (2 STL),,Durant Lost Ball Turnover (P4.T11),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,319,1,86,2,4:35 PM,3:53,Tatum 15' Turnaround Fadeaway (10 PTS),,,47 - 48,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,320,1,80,2,4:35 PM,3:38,,,Dragic 17' Step Back Jump Shot (6 PTS),49 - 48,-1,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,321,1,1,2,4:35 PM,3:17,Tatum 27' 3PT Jump Shot (13 PTS) (Smart 3 AST),,,49 - 51,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,322,2,102,2,4:36 PM,3:04,,,MISS Durant 3' Driving Floating Bank Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,323,4,0,2,4:36 PM,3:02,Horford REBOUND (Off:0 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,324,1,41,2,4:36 PM,2:59,Brown 2' Running Layup (6 PTS) (White 3 AST),,,49 - 53,4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,326,9,1,2,4:36 PM,2:51,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,328,2,79,2,4:40 PM,2:41,,,MISS Durant 18' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,329,4,0,2,4:40 PM,2:39,White REBOUND (Off:0 Def:3),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,330,1,75,2,4:40 PM,2:18,Tatum 1' Driving Finger Roll Layup (15 PTS),,,49 - 55,6,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,331,2,43,2,4:40 PM,2:02,,,MISS Claxton 1' Alley Oop Layup,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,332,4,0,2,4:40 PM,2:00,,,Dragic REBOUND (Off:1 Def:0),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,333,1,1,2,4:41 PM,1:57,,,Dragic 15' Jump Shot (8 PTS),51 - 55,4,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,335,6,1,2,4:41 PM,1:43,,,Mills P.FOUL (P2.PN) (Z.Zarba),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,337,3,11,2,4:41 PM,1:43,Brown Free Throw 1 of 2 (7 PTS),,,51 - 56,5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,338,3,12,2,4:41 PM,1:43,Brown Free Throw 2 of 2 (8 PTS),,,51 - 57,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,339,1,7,2,4:42 PM,1:31,,,Claxton 2' Dunk (5 PTS) (Dragic 1 AST),53 - 57,4,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,341,2,1,2,4:42 PM,1:11,MISS Smart 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,342,4,0,2,4:42 PM,1:09,,,Dragic REBOUND (Off:1 Def:1),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,343,1,76,2,4:42 PM,1:06,,,Dragic 7' Running Finger Roll Layup (10 PTS),55 - 57,2,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,344,6,2,2,4:42 PM,1:06,Brown S.FOUL (P2.PN) (Z.Zarba),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,346,3,10,2,4:43 PM,1:06,,,Dragic Free Throw 1 of 1 (11 PTS),56 - 57,1,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,347,2,80,2,4:43 PM,0:52,MISS Tatum 26' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,348,4,0,2,4:43 PM,0:50,,,Claxton REBOUND (Off:0 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,349,1,103,2,4:43 PM,0:45,,,Irving 9' Running Pull-Up Jump Shot (15 PTS),58 - 57,-1,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,350,2,6,2,4:43 PM,0:36,MISS Smart 11' Driving Layup,,Claxton BLOCK (2 BLK),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,352,4,0,2,4:43 PM,0:35,Smart REBOUND (Off:1 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,353,1,72,2,4:43 PM,0:35,Smart 2' Putback Layup (5 PTS),,,58 - 59,1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,354,1,1,2,4:43 PM,0:27,,,Mills 3PT Jump Shot (3 PTS) (Irving 2 AST),61 - 59,-2,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,356,2,1,2,4:44 PM,0:07,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,357,4,0,2,4:44 PM,0:04,Smart REBOUND (Off:2 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,358,1,72,2,4:44 PM,0:04,Smart 2' Putback Layup (7 PTS),,,61 - 61,TIE,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,359,5,1,2,4:44 PM,0:01,White STEAL (3 STL),,Mills Bad Pass Turnover (P1.T12),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,361,2,1,2,4:44 PM,0:00,MISS Smart 47' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,362,4,0,2,4:44 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,363,13,0,2,4:44 PM,0:00,,End of 2nd Period (4:44 PM EST),,61 - 61,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100111,372,12,0,3,5:00 PM,12:00,,Start of 3rd Period (5:00 PM EST),,61 - 61,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,373,1,57,3,5:00 PM,11:43,Horford 8' Driving Hook Shot (16 PTS),,,61 - 63,2,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,374,2,105,3,5:00 PM,11:25,,,MISS Durant 15' Turnaround Fadeaway Bank Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,375,4,0,3,5:00 PM,11:23,Tatum REBOUND (Off:0 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,376,6,28,3,5:00 PM,11:22,,,Irving Personal Take Foul (P2.T1) (Z.Zarba),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,378,2,6,3,5:01 PM,11:17,MISS Brown 3' Driving Layup,,Irving BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,380,4,0,3,5:01 PM,11:13,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,381,2,1,3,5:01 PM,11:12,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,382,4,0,3,5:01 PM,11:10,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,383,1,103,3,5:01 PM,11:06,,,Durant 17' Running Pull-Up Jump Shot (9 PTS),63 - 63,TIE,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,384,1,80,3,5:01 PM,10:43,Tatum 21' Step Back Jump Shot (17 PTS),,,63 - 65,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,385,2,1,3,5:02 PM,10:19,,,MISS Irving 27' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,386,4,0,3,5:02 PM,10:17,Horford REBOUND (Off:1 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,387,2,1,3,5:02 PM,10:09,MISS Tatum 25' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,388,4,0,3,5:02 PM,10:07,Theis REBOUND (Off:4 Def:1),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,389,6,2,3,5:02 PM,10:06,,,Brown S.FOUL (P3.T2) (J.Williams),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,391,3,11,3,5:02 PM,10:06,Theis Free Throw 1 of 2 (3 PTS),,,63 - 66,3,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,392,3,12,3,5:03 PM,10:06,Theis Free Throw 2 of 2 (4 PTS),,,63 - 67,4,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,394,5,1,3,5:03 PM,10:06,Smart STEAL (2 STL),,Irving Bad Pass Turnover (P3.T13),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,396,1,9,3,5:03 PM,10:04,Smart 1' Driving Dunk (9 PTS),,,63 - 69,6,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,397,2,79,3,5:03 PM,9:43,,,MISS Irving 22' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,398,4,0,3,5:03 PM,9:43,Smart REBOUND (Off:2 Def:2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,399,6,1,3,5:03 PM,9:30,,,Curry P.FOUL (P3.T3) (Z.Zarba),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,401,2,1,3,5:04 PM,9:19,MISS Smart 25' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,402,4,0,3,5:04 PM,9:16,Horford REBOUND (Off:2 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,403,1,1,3,5:04 PM,9:12,Smart 25' 3PT Jump Shot (12 PTS) (Brown 2 AST),,,63 - 72,9,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,405,9,1,3,5:04 PM,9:09,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,406,1,101,3,5:08 PM,8:48,,,Durant 13' Driving Floating Jump Shot (11 PTS),65 - 72,7,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,407,1,6,3,5:09 PM,8:23,Brown 2' Driving Layup (10 PTS) (Horford 1 AST),,,65 - 74,9,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,409,2,6,3,5:09 PM,8:12,Brown BLOCK (1 BLK),,MISS Durant 2' Driving Layup,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042100111,411,4,0,3,5:09 PM,8:11,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,413,1,63,3,5:09 PM,8:09,,,Durant 13' Fadeaway Jumper (13 PTS) (Irving 3 AST),67 - 74,7,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,415,2,1,3,5:09 PM,7:55,MISS Theis 14' Jump Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,416,4,0,3,5:09 PM,7:53,Brown REBOUND (Off:1 Def:0),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,417,1,1,3,5:09 PM,7:51,Smart 25' 3PT Jump Shot (15 PTS) (Brown 3 AST),,,67 - 77,10,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,419,2,79,3,5:09 PM,7:39,,,MISS Irving 26' 3PT Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,420,4,0,3,5:10 PM,7:36,Smart REBOUND (Off:2 Def:3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,421,2,58,3,5:10 PM,7:28,MISS Horford 6' Turnaround Hook Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,422,4,0,3,5:10 PM,7:26,Horford REBOUND (Off:3 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,423,2,3,3,5:10 PM,7:25,MISS Horford 6' Hook Shot,,Drummond BLOCK (1 BLK),,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,425,4,0,3,5:10 PM,7:23,,,Irving REBOUND (Off:1 Def:1),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,426,1,101,3,5:10 PM,7:16,,,Irving 6' Driving Floating Jump Shot (17 PTS) (Curry 5 AST),69 - 77,8,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,428,1,1,3,5:10 PM,6:57,Smart 3PT Jump Shot (18 PTS) (Tatum 8 AST),,,69 - 80,11,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,430,2,1,3,5:10 PM,6:43,,,MISS Durant 26' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,431,4,0,3,5:10 PM,6:40,Theis REBOUND (Off:4 Def:2),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,432,6,2,3,5:11 PM,6:35,,,Brown S.FOUL (P4.T4) (J.Williams),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,434,3,11,3,5:11 PM,6:35,Brown Free Throw 1 of 2 (11 PTS),,,69 - 81,12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,435,8,0,3,5:11 PM,6:35,,,SUB: Claxton FOR Drummond,,,5,203083,Andre Drummond,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,437,3,12,3,5:11 PM,6:35,Brown Free Throw 2 of 2 (12 PTS),,,69 - 82,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,438,2,79,3,5:12 PM,6:17,,,MISS Curry 16' Pullup Jump Shot,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,439,4,0,3,5:12 PM,6:15,Horford REBOUND (Off:3 Def:5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,440,6,2,3,5:12 PM,6:06,,,Curry S.FOUL (P4.PN) (J.Williams),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,442,3,11,3,5:12 PM,6:06,Tatum Free Throw 1 of 2 (18 PTS),,,69 - 83,14,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,443,8,0,3,5:13 PM,6:06,,,SUB: Mills FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,445,3,12,3,5:13 PM,6:06,Tatum Free Throw 2 of 2 (19 PTS),,,69 - 84,15,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,447,8,0,3,5:13 PM,5:52,,,SUB: Dragic FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,449,1,79,3,5:14 PM,5:46,,,Durant 18' Pullup Jump Shot (15 PTS) (Claxton 1 AST),71 - 84,13,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,451,2,63,3,5:14 PM,5:31,MISS Tatum 18' Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,452,4,0,3,5:14 PM,5:30,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,454,8,0,3,5:14 PM,5:30,SUB: Williams FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,456,6,1,3,5:14 PM,5:16,Smart P.FOUL (P3.T1) (R.Mott),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,458,3,11,3,5:15 PM,5:16,,,Irving Free Throw 1 of 2 (18 PTS),72 - 84,12,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,459,3,12,3,5:16 PM,5:16,,,Irving Free Throw 2 of 2 (19 PTS),73 - 84,11,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,460,5,1,3,5:16 PM,5:04,Theis Bad Pass Turnover (P1.T8),,Durant STEAL (1 STL),,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,462,1,100,3,5:16 PM,4:59,,,Claxton 2' Running Alley Oop Layup Shot (7 PTS) (Durant 2 AST),75 - 84,9,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,464,1,1,3,5:16 PM,4:47,Tatum 25' 3PT Jump Shot (22 PTS) (Smart 4 AST),,,75 - 87,12,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,465,1,1,3,5:17 PM,4:25,,,Dragic 3PT Jump Shot (14 PTS) (Irving 4 AST),78 - 87,9,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,468,6,2,3,5:17 PM,4:08,,,Dragic S.FOUL (P1.PN) (R.Mott),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,470,3,11,3,5:18 PM,4:08,Tatum Free Throw 1 of 2 (23 PTS),,,78 - 88,10,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,471,3,12,3,5:18 PM,4:08,Tatum Free Throw 2 of 2 (24 PTS),,,78 - 89,11,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,472,6,1,3,5:18 PM,3:59,Williams P.FOUL (P3.T2) (Z.Zarba),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,474,1,79,3,5:19 PM,3:50,,,Durant 17' Pullup Jump Shot (17 PTS),80 - 89,9,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,475,2,1,3,5:19 PM,3:25,MISS Theis 24' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,476,4,0,3,5:19 PM,3:22,,,Irving REBOUND (Off:1 Def:2),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,477,6,1,3,5:19 PM,3:18,Smart P.FOUL (P4.T3) (J.Williams),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,479,8,0,3,5:19 PM,3:18,SUB: Horford FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,480,8,0,3,5:19 PM,3:18,SUB: White FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,483,2,98,3,5:20 PM,3:09,,,MISS Claxton 7' Cutting Layup Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,484,4,0,3,5:20 PM,3:06,,,Claxton REBOUND (Off:1 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,485,1,97,3,5:20 PM,3:06,,,Claxton Tip Layup Shot (9 PTS),82 - 89,7,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,486,2,1,3,5:20 PM,2:47,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,487,4,0,3,5:20 PM,2:44,Horford REBOUND (Off:4 Def:5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,488,1,72,3,5:20 PM,2:43,Horford 1' Putback Layup (18 PTS),,,82 - 91,9,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,489,1,63,3,5:21 PM,2:18,,,Irving 21' Fadeaway Jumper (21 PTS),84 - 91,7,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,490,5,1,3,5:21 PM,1:58,Tatum Bad Pass Turnover (P3.T9),,Irving STEAL (4 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,492,6,28,3,5:21 PM,1:58,Tatum Personal Take Foul (P3.T4) (R.Mott),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,494,9,1,3,5:22 PM,1:58,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,496,6,1,3,5:25 PM,1:42,Brown P.FOUL (P3.PN) (J.Williams),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,498,3,11,3,5:26 PM,1:42,,,MISS Durant Free Throw 1 of 2,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,499,4,1,3,5:26 PM,1:42,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,500,8,0,3,5:26 PM,1:42,,,SUB: Brown FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,501,8,0,3,5:26 PM,1:42,,,SUB: Edwards FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,504,3,12,3,5:26 PM,1:42,,,Durant Free Throw 2 of 2 (18 PTS),85 - 91,6,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,505,2,1,3,5:26 PM,1:28,MISS Williams 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,506,4,0,3,5:26 PM,1:25,Tatum REBOUND (Off:1 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,507,2,5,3,5:27 PM,1:16,MISS Horford 2' Layup,,Claxton BLOCK (3 BLK),,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0042100111,509,4,0,3,5:27 PM,1:13,,,Dragic REBOUND (Off:1 Def:2),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,510,5,1,3,5:27 PM,1:01,Brown STEAL (3 STL),,Durant Bad Pass Turnover (P5.T14),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,512,5,2,3,5:27 PM,0:57,Tatum Lost Ball Turnover (P4.T10),,Edwards STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,514,2,41,3,5:27 PM,0:52,Brown BLOCK (2 BLK),,MISS Brown 2' Running Layup,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0042100111,516,4,0,3,5:27 PM,0:50,Williams REBOUND (Off:0 Def:2),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,517,1,41,3,5:27 PM,0:45,Brown 4' Running Layup (14 PTS) (Horford 2 AST),,,85 - 93,8,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,519,2,63,3,5:27 PM,0:29,Tatum BLOCK (1 BLK),,MISS Durant 16' Fadeaway Jumper,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1
+0042100111,521,4,0,3,5:27 PM,0:25,Horford REBOUND (Off:4 Def:6),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,522,1,1,3,5:28 PM,0:07,Tatum 26' 3PT Jump Shot (27 PTS),,,85 - 96,11,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,523,2,63,3,5:28 PM,0:00,,,MISS Dragic 18' Fadeaway Jumper,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,524,4,0,3,5:28 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,525,13,0,3,5:28 PM,0:00,,End of 3rd Period (5:28 PM EST),,85 - 96,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100111,532,12,0,4,5:32 PM,12:00,,Start of 4th Period (5:32 PM EST),,85 - 96,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,533,1,9,4,5:32 PM,11:45,,,Brown 2' Driving Dunk (5 PTS) (Irving 5 AST),87 - 96,9,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,535,2,63,4,5:32 PM,11:18,MISS Tatum 27' 3PT Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,536,4,0,4,5:32 PM,11:18,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,537,5,11,4,5:33 PM,11:18,CELTICS Turnover: Shot Clock (T#11),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100111,538,1,7,4,5:33 PM,10:55,,,Claxton 2' Dunk (11 PTS) (Curry 6 AST),89 - 96,7,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,540,6,2,4,5:33 PM,10:36,,,Irving S.FOUL (P3.T1) (R.Mott),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,542,3,11,4,5:34 PM,10:36,Tatum Free Throw 1 of 2 (28 PTS),,,89 - 97,8,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,543,3,12,4,5:34 PM,10:36,Tatum Free Throw 2 of 2 (29 PTS),,,89 - 98,9,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,544,1,79,4,5:34 PM,10:23,,,Irving 26' 3PT Pullup Jump Shot (24 PTS),92 - 98,6,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,545,5,2,4,5:35 PM,9:58,White Lost Ball Turnover (P1.T12),,Claxton STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,547,1,103,4,5:35 PM,9:53,,,Irving 27' 3PT Running Pull-Up Jump Shot (27 PTS),95 - 98,3,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,548,9,1,4,5:35 PM,9:51,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,549,8,0,4,5:38 PM,9:51,SUB: Brown FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,550,8,0,4,5:38 PM,9:51,SUB: Smart FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,553,7,5,4,5:39 PM,9:34,,,Dragic Violation:Kicked Ball (J.Williams),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0042100111,554,2,80,4,5:39 PM,9:24,MISS Smart 25' 3PT Step Back Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,555,4,0,4,5:39 PM,9:21,,,Claxton REBOUND (Off:1 Def:6),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,556,1,75,4,5:40 PM,9:04,,,Irving 2' Driving Finger Roll Layup (29 PTS),97 - 98,1,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0042100111,557,6,2,4,5:40 PM,8:48,,,Irving S.FOUL (P4.T2) (Z.Zarba),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,559,8,0,4,5:40 PM,8:48,,,SUB: Durant FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,561,5,1,4,5:41 PM,8:45,Brown Bad Pass Turnover (P2.T13),,Dragic STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,563,5,1,4,5:41 PM,8:43,Brown STEAL (4 STL),,Dragic Bad Pass Turnover (P1.T15),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,565,2,41,4,5:41 PM,8:37,MISS Brown 2' Running Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,566,4,0,4,5:41 PM,8:36,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,567,6,1,4,5:41 PM,8:36,,,Brown P.FOUL (P5.T3) (R.Mott),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,569,2,1,4,5:41 PM,8:28,MISS Williams 24' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,570,4,0,4,5:41 PM,8:26,,,Dragic REBOUND (Off:1 Def:3),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,571,2,41,4,5:41 PM,8:20,,,MISS Dragic 2' Running Layup,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,572,4,0,4,5:42 PM,8:17,Horford REBOUND (Off:4 Def:7),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,573,2,41,4,5:42 PM,8:13,MISS Brown 4' Running Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,574,4,0,4,5:42 PM,8:12,Horford REBOUND (Off:5 Def:7),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,575,2,107,4,5:42 PM,8:10,MISS Horford Tip Dunk Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,576,4,0,4,5:42 PM,8:09,,,Durant REBOUND (Off:0 Def:4),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,577,1,1,4,5:42 PM,8:04,,,Durant 27' 3PT Jump Shot (21 PTS) (Irving 6 AST),100 - 98,-2,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,579,2,101,4,5:42 PM,7:47,MISS Tatum 11' Driving Floating Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,580,4,0,4,5:42 PM,7:46,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,581,9,1,4,5:43 PM,7:46,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,583,8,0,4,5:45 PM,7:46,SUB: Theis FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,585,7,5,4,5:46 PM,7:31,Tatum Violation:Kicked Ball (Z.Zarba),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0042100111,586,8,0,4,5:46 PM,7:31,,,SUB: Curry FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,588,1,6,4,5:47 PM,7:22,,,Irving 2' Driving Layup (31 PTS),102 - 98,-4,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,589,6,1,4,5:47 PM,7:01,,,Dragic P.FOUL (P2.T4) (R.Mott),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,591,8,0,4,5:47 PM,7:01,,,SUB: Brown FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,593,5,1,4,5:48 PM,6:51,Tatum Bad Pass Turnover (P5.T14),,Brown STEAL (2 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,595,2,1,4,5:48 PM,6:45,,,MISS Durant 26' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,596,4,0,4,5:48 PM,6:41,Smart REBOUND (Off:2 Def:4),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,597,1,9,4,5:48 PM,6:31,Brown 2' Driving Dunk (16 PTS) (Smart 5 AST),,,102 - 100,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,599,2,1,4,5:48 PM,6:10,Tatum BLOCK (2 BLK),,MISS Irving 26' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1
+0042100111,601,4,0,4,5:48 PM,6:08,Brown REBOUND (Off:1 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,602,2,41,4,5:48 PM,6:05,MISS Smart 3' Running Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,603,4,0,4,5:48 PM,6:03,,,Irving REBOUND (Off:1 Def:3),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,604,2,101,4,5:48 PM,5:57,,,MISS Dragic 9' Driving Floating Jump Shot,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,605,4,0,4,5:49 PM,5:56,,,Claxton REBOUND (Off:2 Def:6),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,606,1,97,4,5:49 PM,5:56,,,Claxton Tip Layup Shot (13 PTS),104 - 100,-4,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,607,6,2,4,5:49 PM,5:56,Tatum S.FOUL (P4.T1) (Z.Zarba),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,609,3,10,4,5:49 PM,5:56,,,MISS Claxton Free Throw 1 of 1,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,610,4,0,4,5:49 PM,5:56,Brown REBOUND (Off:1 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,611,1,41,4,5:49 PM,5:48,Brown 2' Running Layup (18 PTS),,,104 - 102,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,612,1,1,4,5:49 PM,5:30,,,Irving 27' 3PT Jump Shot (34 PTS) (Durant 3 AST),107 - 102,-5,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0042100111,614,9,1,4,5:49 PM,5:30,CELTICS Timeout: Regular (Full 5 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,615,2,98,4,5:51 PM,5:16,MISS Tatum 4' Cutting Layup Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,616,4,0,4,5:51 PM,5:14,,,Dragic REBOUND (Off:1 Def:4),,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,617,2,1,4,5:52 PM,4:57,,,MISS Dragic 24' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,618,4,0,4,5:52 PM,4:55,Brown REBOUND (Off:1 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,619,2,74,4,5:52 PM,4:49,MISS Brown 2' Running Reverse Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,620,4,0,4,5:52 PM,4:46,,,Irving REBOUND (Off:1 Def:4),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,621,6,1,4,5:52 PM,4:36,Theis P.FOUL (P4.T2) (R.Mott),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,623,8,0,4,5:52 PM,4:36,SUB: White FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042100111,624,8,0,4,5:52 PM,4:36,,,SUB: Curry FOR Dragic,,,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,628,2,79,4,5:53 PM,4:22,,,MISS Durant 21' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,629,4,0,4,5:53 PM,4:18,Brown REBOUND (Off:1 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,630,1,1,4,5:53 PM,4:05,Brown 26' 3PT Jump Shot (21 PTS) (White 4 AST),,,107 - 105,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,632,6,1,4,5:54 PM,3:46,Brown P.FOUL (P4.T3) (J.Williams),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,634,6,4,4,5:54 PM,3:36,,,Durant OFF.Foul (P3) (R.Mott),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042100111,636,5,37,4,5:54 PM,3:36,,,Durant Offensive Foul Turnover (P6.T16),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0042100111,637,1,6,4,5:55 PM,3:16,Smart 3' Driving Layup (20 PTS),,,107 - 107,TIE,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,638,9,1,4,5:55 PM,3:15,,,Nets Timeout: Regular (Reg.5 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,639,1,63,4,5:57 PM,2:56,,,Irving 17' Fadeaway Jumper (36 PTS),109 - 107,-2,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,640,1,6,4,5:57 PM,2:39,White 2' Driving Layup (7 PTS),,,109 - 109,TIE,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,641,6,2,4,5:58 PM,2:31,Horford S.FOUL (P3.T4) (R.Mott),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0042100111,644,3,11,4,5:59 PM,2:31,,,MISS Claxton Free Throw 1 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,645,4,1,4,5:59 PM,2:31,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,646,3,12,4,5:59 PM,2:31,,,MISS Claxton Free Throw 2 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,647,4,0,4,5:59 PM,2:31,Smart REBOUND (Off:2 Def:5),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,648,5,39,4,6:00 PM,2:16,White Step Out of Bounds Turnover (P2.T15),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042100111,649,2,63,4,6:00 PM,1:55,,,MISS Irving 14' Fadeaway Jumper,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,650,4,0,4,6:00 PM,1:53,Horford REBOUND (Off:5 Def:8),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,651,2,1,4,6:01 PM,1:35,MISS Smart 25' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,652,4,0,4,6:01 PM,1:31,,,Curry REBOUND (Off:0 Def:2),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,653,1,63,4,6:01 PM,1:20,,,Durant 14' Fadeaway Jumper (23 PTS),111 - 109,-2,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,655,2,6,4,6:03 PM,1:06,MISS Smart 7' Driving Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,657,4,0,4,6:03 PM,1:05,Horford REBOUND (Off:6 Def:8),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,658,1,72,4,6:03 PM,1:04,Horford 2' Putback Layup (20 PTS),,,111 - 111,TIE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,659,1,1,4,6:03 PM,0:45,,,Irving 28' 3PT Jump Shot (39 PTS),114 - 111,-3,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,660,9,1,4,6:03 PM,0:45,CELTICS Timeout: Regular (Full 6 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100111,661,8,0,4,6:04 PM,0:45,,,SUB: Dragic FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0042100111,663,1,6,4,6:05 PM,0:38,Brown 3' Driving Layup (23 PTS),,,114 - 113,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,664,2,63,4,6:05 PM,0:15,,,MISS Durant 28' 3PT Fadeaway Jumper,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0042100111,665,4,0,4,6:05 PM,0:12,Horford REBOUND (Off:6 Def:9),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042100111,666,1,98,4,6:06 PM,0:00,Tatum Cutting Layup Shot (31 PTS) (Smart 6 AST),,,114 - 115,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042100111,668,18,0,4,6:06 PM,0:00,,Instant Replay4th Period (6:06 PM EST),,114 - 115,1,0,666,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100111,669,13,0,4,6:06 PM,0:00,,End of 4th Period (6:06 PM EST),,114 - 115,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

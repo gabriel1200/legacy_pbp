@@ -1,0 +1,468 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300715,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,4,10,0,1,7:11 PM,12:00,Jump Ball Reed vs. Kleber: Tip to Green,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1
+0022300715,7,5,1,1,7:12 PM,11:42,Harris STEAL (1 STL),,Doncic Bad Pass Turnover (P1.T1),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,9,1,76,1,7:12 PM,11:39,Maxey 1' Running Finger Roll Layup (2 PTS),,,0 - 2,2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,10,2,1,1,7:12 PM,11:21,,,MISS Jones Jr. 25' 3PT Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,11,4,0,1,7:12 PM,11:19,House Jr. REBOUND (Off:0 Def:1),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,17,2,73,1,7:13 PM,10:58,MISS Harris Driving Reverse Layup,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,18,4,0,1,7:13 PM,10:53,House Jr. REBOUND (Off:1 Def:1),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,19,2,97,1,7:13 PM,10:53,MISS House Jr. Tip Layup Shot,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,20,4,0,1,7:13 PM,10:50,Oubre Jr. REBOUND (Off:1 Def:0),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,21,2,1,1,7:13 PM,10:50,MISS Reed 26' 3PT Jump Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,22,4,0,1,7:13 PM,10:47,,,Kleber REBOUND (Off:0 Def:1),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,23,2,1,1,7:13 PM,10:40,,,MISS Jones Jr. 24' 3PT Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,24,4,0,1,7:13 PM,10:37,Reed REBOUND (Off:0 Def:1),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,25,1,79,1,7:13 PM,10:30,Harris 14' Pullup Jump Shot (2 PTS),,,0 - 4,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,26,2,6,1,7:13 PM,10:15,,,MISS Irving 5' Driving Layup,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,27,4,0,1,7:13 PM,10:14,House Jr. REBOUND (Off:1 Def:2),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,28,1,75,1,7:13 PM,10:07,Maxey 1' Driving Finger Roll Layup (4 PTS),,,0 - 6,6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,29,1,1,1,7:14 PM,9:48,,,Kleber 26' 3PT Jump Shot (3 PTS) (Doncic 1 AST),3 - 6,3,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,31,1,79,1,7:14 PM,9:34,Maxey 29' 3PT Pullup Jump Shot (7 PTS),,,3 - 9,6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,32,1,108,1,7:14 PM,9:22,,,Jones Jr. 1' Cutting Dunk Shot (2 PTS) (Kleber 1 AST),5 - 9,4,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,34,5,1,1,7:14 PM,9:07,Maxey Bad Pass Turnover (P1.T1),,Green STEAL (1 STL),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,36,6,2,1,7:15 PM,9:04,Maxey S.FOUL (P1.T1) (R.Acosta),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,38,3,11,1,7:15 PM,9:04,,,Green Free Throw 1 of 2 (1 PTS),6 - 9,3,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,39,3,12,1,7:15 PM,9:04,,,Green Free Throw 2 of 2 (2 PTS),7 - 9,2,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,40,5,2,1,7:15 PM,8:47,Harris Lost Ball Turnover (P1.T2),,Irving STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,42,6,2,1,7:16 PM,8:45,Oubre Jr. S.FOUL (P1.T2) (D.Guthrie),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,44,3,11,1,7:16 PM,8:45,,,Green Free Throw 1 of 2 (3 PTS),8 - 9,1,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,45,3,12,1,7:16 PM,8:45,,,Green Free Throw 2 of 2 (4 PTS),9 - 9,TIE,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0022300715,46,2,80,1,7:16 PM,8:33,MISS Maxey 25' 3PT Step Back Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,47,4,0,1,7:16 PM,8:30,,,Doncic REBOUND (Off:0 Def:1),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,49,1,102,1,7:17 PM,8:19,,,Doncic 19' Driving Floating Bank Jump Shot (2 PTS),11 - 9,-2,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,50,6,2,1,7:17 PM,8:19,Maxey S.FOUL (P2.T3) (S.Mehta),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,52,3,10,1,7:17 PM,8:19,,,Doncic Free Throw 1 of 1 (3 PTS),12 - 9,-3,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,53,2,6,1,7:17 PM,8:00,MISS Oubre Jr. 4' Driving Layup,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,54,4,0,1,7:17 PM,7:57,House Jr. REBOUND (Off:2 Def:2),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,55,1,97,1,7:17 PM,7:57,House Jr. Tip Layup Shot (2 PTS),,,12 - 11,-1,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,56,1,52,1,7:18 PM,7:43,,,Jones Jr. 2' Alley Oop Dunk (4 PTS) (Green 1 AST),14 - 11,-3,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,58,1,108,1,7:18 PM,7:21,Oubre Jr. 2' Cutting Dunk Shot (2 PTS) (Harris 1 AST),,,14 - 13,-1,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,60,1,1,1,7:18 PM,7:08,,,Irving 20' Jump Shot (2 PTS) (Jones Jr. 1 AST),16 - 13,-3,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,61,6,2,1,7:18 PM,6:50,,,Doncic S.FOUL (P1.T1) (S.Mehta),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,63,9,1,1,7:19 PM,6:50,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,64,8,0,1,7:21 PM,6:50,,,SUB: Hardaway Jr. FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,65,8,0,1,7:21 PM,6:50,,,SUB: Powell FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,68,8,0,1,7:21 PM,6:50,SUB: Morris Sr. FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,69,8,0,1,7:21 PM,6:50,SUB: Bamba FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,72,3,11,1,7:21 PM,6:50,House Jr. Free Throw 1 of 2 (3 PTS),,,16 - 14,-2,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,73,3,12,1,7:22 PM,6:50,House Jr. Free Throw 2 of 2 (4 PTS),,,16 - 15,-1,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,74,2,79,1,7:22 PM,6:28,,,MISS Hardaway Jr. 27' 3PT Pullup Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,75,4,0,1,7:22 PM,6:25,,,Powell REBOUND (Off:1 Def:0),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,76,6,2,1,7:22 PM,6:22,House Jr. S.FOUL (P1.T4) (S.Mehta),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,78,3,11,1,7:23 PM,6:22,,,MISS Jones Jr. Free Throw 1 of 2,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,79,4,1,1,7:23 PM,6:22,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,80,3,12,1,7:23 PM,6:22,,,Jones Jr. Free Throw 2 of 2 (5 PTS),17 - 15,-2,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,81,1,6,1,7:23 PM,6:06,Oubre Jr. 2' Driving Layup (4 PTS) (Maxey 1 AST),,,17 - 17,TIE,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,83,5,1,1,7:24 PM,5:40,Morris Sr. STEAL (1 STL),,Doncic Bad Pass Turnover (P2.T2),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,86,6,26,1,7:24 PM,5:33,Maxey Offensive Charge Foul (P3) (D.Guthrie),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,88,5,37,1,7:24 PM,5:33,Maxey Offensive Foul Turnover (P2.T3),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022300715,89,9,7,1,7:25 PM,5:33,76ERS Timeout: Coach Challenge (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,90,18,6,1,7:25 PM,5:33,,Instant Replay1st Period (7:25 PM EST),,17 - 17,TIE,0,86,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300715,92,8,0,1,7:27 PM,5:33,SUB: Harris FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,93,8,0,1,7:27 PM,5:33,SUB: Beverley FOR House Jr.,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,96,2,1,1,7:28 PM,5:24,,,MISS Jones Jr. 24' 3PT Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,97,4,0,1,7:28 PM,5:21,Bamba REBOUND (Off:0 Def:1),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,98,5,1,1,7:28 PM,5:06,Beverley Bad Pass Turnover (P1.T4),,Doncic STEAL (1 STL),,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,100,1,76,1,7:28 PM,5:01,,,Doncic 1' Running Finger Roll Layup (5 PTS),19 - 17,-2,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,102,8,0,1,7:28 PM,4:43,,,SUB: Irving FOR Green,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,103,8,0,1,7:28 PM,4:43,,,SUB: G. Williams FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,106,2,75,1,7:29 PM,4:37,MISS Oubre Jr. 2' Driving Finger Roll Layup,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,107,4,0,1,7:29 PM,4:35,,,Doncic REBOUND (Off:0 Def:2),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,108,2,73,1,7:29 PM,4:27,Harris BLOCK (1 BLK),,MISS Irving 2' Driving Reverse Layup,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022300715,110,4,0,1,7:29 PM,4:25,Morris Sr. REBOUND (Off:0 Def:1),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,111,1,41,1,7:29 PM,4:21,Oubre Jr. 3' Running Layup (6 PTS),,,19 - 19,TIE,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,112,6,2,1,7:29 PM,4:21,,,Doncic S.FOUL (P2.T2) (D.Guthrie),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,114,8,0,1,7:30 PM,4:21,,,SUB: Hardy FOR Doncic,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,116,3,10,1,7:30 PM,4:21,MISS Oubre Jr. Free Throw 1 of 1,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,117,4,0,1,7:30 PM,4:19,Oubre Jr. REBOUND (Off:2 Def:0),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,119,1,1,1,7:30 PM,4:13,Morris Sr. 26' 3PT Jump Shot (3 PTS) (Harris 2 AST),,,19 - 22,3,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,121,2,73,1,7:31 PM,3:48,,,MISS Irving 2' Driving Reverse Layup,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,122,4,0,1,7:31 PM,3:46,,,Powell REBOUND (Off:2 Def:0),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,123,1,1,1,7:31 PM,3:45,,,Hardy 27' 3PT Jump Shot (3 PTS) (Powell 1 AST),22 - 22,TIE,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,125,5,1,1,7:31 PM,3:26,Morris Sr. Bad Pass Turnover (P1.T5),,Irving STEAL (2 STL),,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,127,2,101,1,7:31 PM,3:19,,,MISS Hardaway Jr. 17' Driving Floating Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,128,4,0,1,7:31 PM,3:16,Bamba REBOUND (Off:0 Def:2),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,129,6,2,1,7:31 PM,3:07,,,G. Williams S.FOUL (P1.T3) (S.Mehta),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,131,3,11,1,7:32 PM,3:07,Bamba Free Throw 1 of 2 (1 PTS),,,22 - 23,1,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,132,3,12,1,7:32 PM,3:07,MISS Bamba Free Throw 2 of 2,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022300715,133,4,0,1,7:32 PM,3:05,,,G. Williams REBOUND (Off:0 Def:1),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,134,2,1,1,7:32 PM,2:57,,,MISS G. Williams 29' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,135,4,0,1,7:32 PM,2:53,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,136,1,2,1,7:32 PM,2:49,Oubre Jr. 24' 3PT Running Jump Shot (9 PTS) (Harris 3 AST),,,22 - 26,4,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,138,2,1,1,7:33 PM,2:35,Morris Sr. BLOCK (1 BLK),,MISS Hardaway Jr. 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,1
+0022300715,140,4,0,1,7:33 PM,2:35,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,142,8,0,1,7:33 PM,2:35,SUB: Reed FOR Bamba,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,144,2,79,1,7:33 PM,2:28,,,MISS Hardy 27' 3PT Pullup Jump Shot,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,145,4,0,1,7:33 PM,2:24,Morris Sr. REBOUND (Off:0 Def:2),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,146,2,63,1,7:33 PM,2:13,MISS Morris Sr. 20' Fadeaway Jumper,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,147,4,0,1,7:33 PM,2:09,,,Powell REBOUND (Off:2 Def:1),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,148,1,79,1,7:34 PM,2:00,,,Hardy 21' Pullup Jump Shot (5 PTS),24 - 26,2,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,149,2,80,1,7:34 PM,1:44,MISS Beverley 26' 3PT Step Back Jump Shot,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,150,4,0,1,7:34 PM,1:41,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,151,5,2,1,7:34 PM,1:30,Oubre Jr. STEAL (1 STL),,Irving Lost Ball Turnover (P1.T3),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,153,1,41,1,7:34 PM,1:26,Harris 1' Running Layup (4 PTS),,,24 - 28,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,154,2,1,1,7:34 PM,1:07,,,MISS Hardaway Jr. 24' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,155,4,0,1,7:34 PM,1:06,Morris Sr. REBOUND (Off:0 Def:3),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,156,2,1,1,7:35 PM,0:59,MISS Oubre Jr. 26' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,157,4,0,1,7:35 PM,0:55,Reed REBOUND (Off:1 Def:1),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,158,2,78,1,7:35 PM,0:52,MISS Oubre Jr. 11' Floating Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,159,4,0,1,7:35 PM,0:52,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,161,8,0,1,7:35 PM,0:52,,,SUB: Kleber FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,163,1,1,1,7:35 PM,0:46,Morris Sr. 19' Jump Shot (5 PTS),,,24 - 30,6,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,164,2,79,1,7:35 PM,0:37,,,MISS Hardaway Jr. 20' Pullup Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,165,4,0,1,7:35 PM,0:34,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,166,1,1,1,7:36 PM,0:27,Beverley 24' 3PT Jump Shot (3 PTS) (Harris 4 AST),,,24 - 33,9,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,168,6,2,1,7:36 PM,0:12,Harris S.FOUL (P1.PN) (S.Mehta),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,170,3,11,1,7:36 PM,0:12,,,Hardy Free Throw 1 of 2 (6 PTS),25 - 33,8,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,171,3,12,1,7:37 PM,0:12,,,Hardy Free Throw 2 of 2 (7 PTS),26 - 33,7,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,172,2,79,1,7:37 PM,0:00,MISS Morris Sr. 20' Pullup Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,173,4,0,1,7:37 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,174,13,0,1,7:37 PM,0:00,,End of 1st Period (7:37 PM EST),,26 - 33,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,181,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,26 - 33,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,182,2,1,2,7:40 PM,11:49,MISS Maxey 27' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,183,4,0,2,7:40 PM,11:45,,,Kleber REBOUND (Off:0 Def:2),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,184,2,1,2,7:40 PM,11:29,,,MISS Hardaway Jr. 24' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,185,4,0,2,7:40 PM,11:26,Maxey REBOUND (Off:0 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,186,1,86,2,7:40 PM,11:17,Harris 10' Turnaround Fadeaway (6 PTS),,,26 - 35,9,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,187,6,1,2,7:41 PM,11:08,Harris P.FOUL (P2.T1) (R.Acosta),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,189,6,17,2,7:41 PM,11:02,76ERS T.Foul (Def. 3 Sec Morris Sr. ) (R.Acosta),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022300715,190,3,16,2,7:41 PM,11:02,,,Irving Free Throw Technical (3 PTS),27 - 35,8,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,191,1,9,2,7:42 PM,10:56,,,Kleber 3' Driving Dunk (5 PTS) (Irving 1 AST),29 - 35,6,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,193,2,79,2,7:42 PM,10:44,MISS Maxey 20' Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,194,4,0,2,7:42 PM,10:39,Beverley REBOUND (Off:1 Def:1),,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,195,1,72,2,7:42 PM,10:39,Beverley Putback Layup (5 PTS),,,29 - 37,8,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,196,1,6,2,7:42 PM,10:28,,,Green 1' Driving Layup (6 PTS),31 - 37,6,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,198,1,79,2,7:42 PM,10:11,Harris 20' Pullup Jump Shot (8 PTS),,,31 - 39,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,199,1,1,2,7:43 PM,9:55,,,Green 3PT Jump Shot (9 PTS) (Irving 2 AST),34 - 39,5,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,201,1,79,2,7:43 PM,9:37,Harris 20' Pullup Jump Shot (10 PTS) (Maxey 2 AST),,,34 - 41,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,203,2,75,2,7:43 PM,9:25,,,MISS Doncic 1' Driving Finger Roll Layup,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,204,4,0,2,7:43 PM,9:24,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,205,1,47,2,7:43 PM,9:13,Morris Sr. 6' Turnaround Jump Shot (7 PTS) (Beverley 1 AST),,,34 - 43,9,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,207,9,1,2,7:44 PM,9:11,,,Mavericks Timeout: Regular (Reg.1 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,209,8,0,2,7:46 PM,9:11,SUB: Springer FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,212,8,0,2,7:46 PM,9:11,SUB: Bamba FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,213,8,0,2,7:46 PM,9:11,,,SUB: Jones Jr. FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,219,8,0,2,7:46 PM,9:11,,,SUB: G. Williams FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,217,6,1,2,7:47 PM,8:57,Bamba P.FOUL (P1.T2) (R.Acosta),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,221,2,1,2,7:47 PM,8:48,,,MISS Jones Jr. 27' 3PT Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,222,4,0,2,7:47 PM,8:45,Springer REBOUND (Off:0 Def:1),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,223,1,9,2,7:47 PM,8:31,Bamba 2' Driving Dunk (3 PTS) (Maxey 3 AST),,,34 - 45,11,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,225,1,1,2,7:47 PM,8:15,,,Kleber 26' 3PT Jump Shot (8 PTS) (Doncic 2 AST),37 - 45,8,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,227,2,101,2,7:48 PM,7:55,MISS Maxey 6' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,228,4,0,2,7:48 PM,7:53,,,Doncic REBOUND (Off:0 Def:3),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,229,2,80,2,7:48 PM,7:47,,,MISS Doncic 30' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,230,4,0,2,7:48 PM,7:44,Bamba REBOUND (Off:0 Def:3),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,231,2,2,2,7:48 PM,7:37,MISS Bamba 27' 3PT Running Jump Shot,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,232,4,0,2,7:48 PM,7:34,Springer REBOUND (Off:1 Def:1),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,233,1,101,2,7:48 PM,7:22,Beverley 6' Driving Floating Jump Shot (7 PTS) (Maxey 4 AST),,,37 - 47,10,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,235,6,2,2,7:49 PM,7:09,Bamba S.FOUL (P2.T3) (R.Acosta),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,237,3,11,2,7:49 PM,7:09,,,MISS Doncic Free Throw 1 of 2,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,238,4,1,2,7:49 PM,7:09,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,241,3,12,2,7:49 PM,7:09,,,MISS Doncic Free Throw 2 of 2,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,239,8,0,2,7:49 PM,7:09,SUB: Oubre Jr. FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,284,10,0,2,7:49 PM,7:07,Jump Ball Bamba vs. Jones Jr.: Tip to Maxey,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0
+0022300715,245,4,0,2,7:49 PM,7:07,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,246,2,101,2,7:51 PM,6:54,MISS Beverley 6' Driving Floating Jump Shot,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,247,4,0,2,7:51 PM,6:53,,,Jones Jr. REBOUND (Off:0 Def:1),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,249,8,0,2,7:51 PM,6:53,,,SUB: Powell FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,250,8,0,2,7:51 PM,6:53,,,SUB: Hardaway Jr. FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,254,8,0,2,7:51 PM,6:38,SUB: Harris FOR Beverley,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,256,1,1,2,7:52 PM,6:30,,,Green 24' 3PT Jump Shot (12 PTS) (G. Williams 1 AST),40 - 47,7,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,258,2,63,2,7:52 PM,6:05,MISS Springer 13' Fadeaway Jumper,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,259,4,0,2,7:52 PM,6:05,,,Doncic REBOUND (Off:0 Def:4),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,260,5,2,2,7:52 PM,5:56,Springer STEAL (1 STL),,Doncic Lost Ball Turnover (P3.T4),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,262,6,2,2,7:52 PM,5:52,,,Hardaway Jr. S.FOUL (P1.T1) (D.Guthrie),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,264,3,11,2,7:53 PM,5:52,Maxey Free Throw 1 of 2 (8 PTS),,,40 - 48,8,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,265,3,12,2,7:53 PM,5:52,MISS Maxey Free Throw 2 of 2,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,266,4,0,2,7:53 PM,5:50,,,Hardaway Jr. REBOUND (Off:0 Def:2),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,267,2,1,2,7:53 PM,5:41,,,MISS Doncic 28' 3PT Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,268,4,0,2,7:53 PM,5:37,Springer REBOUND (Off:1 Def:2),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,269,5,2,2,7:53 PM,5:32,Springer Lost Ball Turnover (P1.T6),,Green STEAL (2 STL),,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,271,2,79,2,7:54 PM,5:26,,,MISS Hardaway Jr. 20' Pullup Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,272,4,0,2,7:54 PM,5:23,Bamba REBOUND (Off:0 Def:4),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,273,2,1,2,7:54 PM,5:14,MISS Oubre Jr. 26' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,274,4,0,2,7:54 PM,5:13,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,276,2,1,2,7:54 PM,4:51,,,MISS Hardaway Jr. 27' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,277,4,0,2,7:54 PM,4:48,Oubre Jr. REBOUND (Off:2 Def:1),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,278,1,101,2,7:55 PM,4:26,Springer 14' Driving Floating Jump Shot (2 PTS) (Harris 5 AST),,,40 - 50,10,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,280,9,1,2,7:55 PM,4:24,,,Mavericks Timeout: Regular (Reg.2 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,281,8,0,2,7:57 PM,4:24,,,SUB: Irving FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,283,2,79,2,7:58 PM,4:14,,,MISS Irving 19' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,287,4,0,2,7:58 PM,4:10,Bamba REBOUND (Off:0 Def:5),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,288,2,1,2,7:58 PM,3:57,MISS Maxey 27' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,289,4,0,2,7:58 PM,3:55,,,Powell REBOUND (Off:2 Def:2),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,290,1,80,2,7:58 PM,3:44,,,Doncic 28' 3PT Step Back Jump Shot (8 PTS),43 - 50,7,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,291,6,2,2,7:59 PM,3:27,,,Doncic S.FOUL (P3.T2) (R.Acosta),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,293,3,11,2,8:00 PM,3:27,Oubre Jr. Free Throw 1 of 2 (10 PTS),,,43 - 51,8,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,300,3,12,2,8:00 PM,3:27,MISS Oubre Jr. Free Throw 2 of 2,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,294,8,0,2,8:00 PM,3:27,SUB: Beverley FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,295,8,0,2,8:00 PM,3:27,SUB: Reed FOR Bamba,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,296,8,0,2,8:00 PM,3:27,,,SUB: Kleber FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,301,4,0,2,8:00 PM,3:25,Oubre Jr. REBOUND (Off:3 Def:1),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,302,2,72,2,8:00 PM,3:23,MISS Oubre Jr. 2' Putback Layup,,G. Williams BLOCK (1 BLK),,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1
+0022300715,304,4,0,2,8:00 PM,3:21,,,Green REBOUND (Off:0 Def:1),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,305,1,98,2,8:00 PM,3:14,,,Irving 3' Cutting Layup Shot (5 PTS) (Green 2 AST),45 - 51,6,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,307,6,1,2,8:00 PM,3:06,,,Irving P.FOUL (P1.T3) (D.Guthrie),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,309,2,80,2,8:01 PM,2:54,MISS Harris 17' Step Back Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,310,4,0,2,8:01 PM,2:49,,,Green REBOUND (Off:0 Def:2),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,311,2,1,2,8:01 PM,2:39,,,MISS Irving 24' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,312,4,0,2,8:01 PM,2:35,Harris REBOUND (Off:0 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,313,6,2,2,8:02 PM,2:20,,,Irving S.FOUL (P2.T4) (S.Mehta),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,315,3,11,2,8:02 PM,2:20,Springer Free Throw 1 of 2 (3 PTS),,,45 - 52,7,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,316,3,12,2,8:02 PM,2:20,Springer Free Throw 2 of 2 (4 PTS),,,45 - 53,8,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,320,18,1,2,8:03 PM,2:02,,Instant Replay2nd Period (8:03 PM EST),,45 - 53,8,0,318,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300715,321,6,14,2,8:05 PM,2:02,Beverley FLAGRANT.FOUL.TYPE1 (P1.T4) (D.Guthrie),,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,323,3,27,2,8:05 PM,2:02,,,G. Williams Free Throw Flagrant 1 of 3 (1 PTS),46 - 53,7,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,324,3,28,2,8:05 PM,2:02,,,G. Williams Free Throw Flagrant 2 of 3 (2 PTS),47 - 53,6,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,325,3,29,2,8:06 PM,2:02,,,G. Williams Free Throw Flagrant 3 of 3 (3 PTS),48 - 53,5,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,326,5,1,2,8:06 PM,1:52,Springer STEAL (2 STL),,Kleber Bad Pass Turnover (P1.T5),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,328,1,50,2,8:06 PM,1:48,Oubre Jr. 1' Running Dunk (12 PTS) (Springer 1 AST),,,48 - 55,7,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,330,1,1,2,8:06 PM,1:35,,,Green 26' 3PT Jump Shot (15 PTS) (Irving 3 AST),51 - 55,4,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,332,2,80,2,8:07 PM,1:09,MISS Beverley 26' 3PT Step Back Jump Shot,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,333,4,0,2,8:07 PM,1:06,Beverley REBOUND (Off:2 Def:1),,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,334,2,1,2,8:07 PM,1:05,MISS Oubre Jr. 26' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,335,4,0,2,8:07 PM,1:01,,,G. Williams REBOUND (Off:0 Def:2),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,336,5,1,2,8:07 PM,0:52,Springer STEAL (3 STL),,G. Williams Bad Pass Turnover (P1.T6),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,338,1,103,2,8:07 PM,0:47,Springer 16' Running Pull-Up Jump Shot (6 PTS),,,51 - 57,6,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,339,1,75,2,8:07 PM,0:33,,,Irving 1' Driving Finger Roll Layup (7 PTS),53 - 57,4,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,340,2,78,2,8:08 PM,0:09,MISS Beverley 9' Floating Jump Shot,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,341,4,0,2,8:08 PM,0:09,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,342,5,11,2,8:08 PM,0:09,76ERS Turnover: Shot Clock (T#7),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300715,343,2,1,2,8:08 PM,0:01,,,MISS Green 26' 3PT Jump Shot,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,344,4,0,2,8:08 PM,0:01,Harris REBOUND (Off:0 Def:4),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,345,13,0,2,8:08 PM,0:00,,End of 2nd Period (8:08 PM EST),,53 - 57,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,352,12,0,3,8:24 PM,12:00,,Start of 3rd Period (8:24 PM EST),,53 - 57,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,353,2,75,3,8:24 PM,11:42,MISS Maxey 6' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,354,4,0,3,8:24 PM,11:41,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,357,1,79,3,8:25 PM,11:32,Harris 8' Pullup Jump Shot (12 PTS),,,53 - 59,6,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,358,1,1,3,8:25 PM,11:10,,,Green 24' 3PT Jump Shot (18 PTS) (Irving 4 AST),56 - 59,3,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,360,1,75,3,8:25 PM,10:51,Maxey 1' Driving Finger Roll Layup (10 PTS),,,56 - 61,5,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,361,2,1,3,8:25 PM,10:40,,,MISS Green 3PT Jump Shot,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,362,4,0,3,8:25 PM,10:37,Reed REBOUND (Off:1 Def:2),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,363,1,75,3,8:26 PM,10:29,Maxey 2' Driving Finger Roll Layup (12 PTS),,,56 - 63,7,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,364,9,1,3,8:26 PM,10:29,,,Mavericks Timeout: Regular (Reg.3 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,365,2,80,3,8:29 PM,10:18,,,MISS Doncic 27' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,366,4,0,3,8:29 PM,10:16,,,Green REBOUND (Off:1 Def:2),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,367,1,1,3,8:29 PM,10:12,,,Irving 26' 3PT Jump Shot (10 PTS) (Green 3 AST),59 - 63,4,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,369,6,4,3,8:29 PM,9:57,House Jr. OFF.Foul (P2) (R.Acosta),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,371,5,37,3,8:29 PM,9:57,House Jr. Offensive Foul Turnover (P1.T8),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022300715,372,2,63,3,8:29 PM,9:47,,,MISS Doncic 8' Fadeaway Jumper,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,374,1,97,3,8:29 PM,9:42,,,Kleber Tip Layup Shot (10 PTS),61 - 63,2,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,373,4,0,3,8:30 PM,9:42,,,Kleber REBOUND (Off:1 Def:2),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,375,6,1,3,8:30 PM,9:27,,,Jones Jr. P.FOUL (P1.T1) (R.Acosta),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,377,1,63,3,8:30 PM,9:14,Harris 9' Fadeaway Jumper (14 PTS) (Maxey 5 AST),,,61 - 65,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,379,2,6,3,8:30 PM,9:04,Reed BLOCK (1 BLK),,MISS Jones Jr. 2' Driving Layup,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1
+0022300715,381,4,0,3,8:30 PM,9:01,Reed REBOUND (Off:1 Def:3),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,382,2,75,3,8:31 PM,8:54,MISS Maxey 4' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,383,4,0,3,8:31 PM,8:52,,,Irving REBOUND (Off:0 Def:1),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,384,1,75,3,8:31 PM,8:45,,,Green 1' Driving Finger Roll Layup (20 PTS) (Doncic 3 AST),63 - 65,2,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,386,2,80,3,8:31 PM,8:20,MISS House Jr. 24' 3PT Step Back Jump Shot,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,387,4,0,3,8:31 PM,8:16,Reed REBOUND (Off:2 Def:3),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,388,2,58,3,8:31 PM,8:12,MISS Reed 4' Turnaround Hook Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,389,4,0,3,8:31 PM,8:09,,,Doncic REBOUND (Off:0 Def:5),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,476,5,2,3,8:32 PM,7:56,Harris STEAL (2 STL),,Green Lost Ball Turnover (P1.T7),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,396,2,101,3,8:32 PM,7:43,MISS Maxey 3' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,397,4,0,3,8:32 PM,7:41,,,Jones Jr. REBOUND (Off:0 Def:2),,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,398,1,41,3,8:32 PM,7:37,,,Irving 2' Running Layup (12 PTS),65 - 65,TIE,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,399,1,1,3,8:32 PM,7:18,Oubre Jr. 27' 3PT Jump Shot (15 PTS) (Maxey 6 AST),,,65 - 68,3,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,401,6,2,3,8:32 PM,7:05,House Jr. S.FOUL (P3.T1) (R.Acosta),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,403,3,11,3,8:33 PM,7:05,,,Doncic Free Throw 1 of 2 (9 PTS),66 - 68,2,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,404,8,0,3,8:33 PM,7:05,SUB: Bamba FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,405,8,0,3,8:33 PM,7:05,SUB: Morris Sr. FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,406,8,0,3,8:33 PM,7:05,,,SUB: Hardaway Jr. FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,407,8,0,3,8:33 PM,7:05,,,SUB: Powell FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,412,3,12,3,8:33 PM,7:05,,,Doncic Free Throw 2 of 2 (10 PTS),67 - 68,1,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,413,2,80,3,8:34 PM,6:40,MISS House Jr. 26' 3PT Step Back Jump Shot,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,414,4,0,3,8:34 PM,6:38,,,Irving REBOUND (Off:0 Def:2),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,415,2,80,3,8:34 PM,6:32,,,MISS Doncic 26' 3PT Step Back Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,416,4,0,3,8:34 PM,6:29,House Jr. REBOUND (Off:2 Def:3),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,417,2,101,3,8:34 PM,6:17,MISS Maxey 4' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,418,4,0,3,8:34 PM,6:14,,,Powell REBOUND (Off:2 Def:3),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,419,6,1,3,8:34 PM,6:09,Oubre Jr. P.FOUL (P2.T2) (R.Acosta),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,421,8,0,3,8:35 PM,6:09,SUB: Springer FOR House Jr.,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,423,1,80,3,8:35 PM,6:00,,,Irving 16' Step Back Jump Shot (14 PTS),69 - 68,-1,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,424,2,1,3,8:35 PM,5:41,MISS Springer 3PT Jump Shot,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,425,4,0,3,8:35 PM,5:38,,,Powell REBOUND (Off:2 Def:4),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,426,6,4,3,8:35 PM,5:34,,,Powell OFF.Foul (P1) (S.Mehta),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,428,5,37,3,8:35 PM,5:34,,,Powell Offensive Foul Turnover (P1.T8),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022300715,429,8,0,3,8:36 PM,5:34,,,SUB: G. Williams FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,431,9,1,3,8:36 PM,5:34,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,432,2,1,3,8:39 PM,5:14,MISS Oubre Jr. 27' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,433,4,0,3,8:39 PM,5:12,,,Green REBOUND (Off:1 Def:3),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,434,2,1,3,8:39 PM,4:55,,,MISS Green 24' 3PT Jump Shot,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,435,4,0,3,8:39 PM,4:53,Oubre Jr. REBOUND (Off:3 Def:2),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,436,2,63,3,8:39 PM,4:36,MISS Springer 8' Fadeaway Jumper,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,437,4,0,3,8:39 PM,4:34,,,Green REBOUND (Off:1 Def:4),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,438,2,63,3,8:40 PM,4:26,,,MISS Doncic 13' Fadeaway Jumper,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,439,4,0,3,8:40 PM,4:23,Morris Sr. REBOUND (Off:0 Def:4),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,440,2,1,3,8:40 PM,4:16,MISS Morris Sr. 26' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,441,4,0,3,8:40 PM,4:14,Bamba REBOUND (Off:1 Def:5),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,442,2,57,3,8:40 PM,4:11,MISS Bamba 4' Driving Hook Shot,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,443,4,0,3,8:40 PM,4:10,Bamba REBOUND (Off:2 Def:5),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,478,2,97,3,8:40 PM,4:10,MISS Bamba 1' Tip Layup Shot,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,479,4,0,3,8:40 PM,4:09,Oubre Jr. REBOUND (Off:4 Def:2),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,444,1,97,3,8:40 PM,4:08,Oubre Jr. Tip Layup Shot (17 PTS),,,69 - 70,1,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,445,1,79,3,8:40 PM,3:57,,,Doncic 28' 3PT Pullup Jump Shot (13 PTS),72 - 70,-2,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,446,6,4,3,8:40 PM,3:46,Bamba OFF.Foul (P3) (S.Mehta),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,448,5,37,3,8:40 PM,3:46,Bamba Offensive Foul Turnover (P1.T9),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022300715,449,8,0,3,8:41 PM,3:46,,,SUB: Irving FOR Green,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,451,2,80,3,8:41 PM,3:32,,,MISS Irving 15' Step Back Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,452,4,0,3,8:41 PM,3:29,Morris Sr. REBOUND (Off:0 Def:5),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,453,2,79,3,8:41 PM,3:19,MISS Morris Sr. 9' Pullup Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,454,4,0,3,8:41 PM,3:17,,,G. Williams REBOUND (Off:0 Def:3),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,455,6,2,3,8:41 PM,3:15,Springer S.FOUL (P1.T3) (S.Mehta),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,457,3,11,3,8:42 PM,3:15,,,MISS G. Williams Free Throw 1 of 2,,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,458,4,1,3,8:42 PM,3:15,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,459,8,0,3,8:42 PM,3:15,SUB: Harris FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,460,8,0,3,8:42 PM,3:15,,,SUB: Kleber FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,463,3,12,3,8:42 PM,3:15,,,G. Williams Free Throw 2 of 2 (4 PTS),73 - 70,-3,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,464,2,99,3,8:42 PM,2:59,MISS Bamba 4' Cutting Finger Roll Layup Shot,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,465,4,0,3,8:42 PM,2:56,Bamba REBOUND (Off:3 Def:5),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,466,1,97,3,8:42 PM,2:56,Bamba Tip Layup Shot (5 PTS),,,73 - 72,-1,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,467,2,1,3,8:43 PM,2:42,,,MISS Doncic 27' 3PT Jump Shot,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,468,4,0,3,8:43 PM,2:40,Maxey REBOUND (Off:0 Def:2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,471,6,26,3,8:43 PM,2:38,Maxey Offensive Charge Foul (P4) (S.Mehta),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,484,5,37,3,8:43 PM,2:38,Maxey Offensive Foul Turnover (P3.T10),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022300715,473,9,7,3,8:43 PM,2:38,,,Mavericks Timeout: Coach Challenge (Reg.3 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,475,18,5,3,8:44 PM,2:38,,Instant Replay3rd Period (8:44 PM EST),,73 - 72,-1,0,471,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300715,480,2,101,3,8:46 PM,2:21,Bamba BLOCK (1 BLK),,MISS G. Williams 7' Driving Floating Jump Shot,,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,1
+0022300715,482,4,0,3,8:46 PM,2:18,Bamba REBOUND (Off:3 Def:6),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,483,6,1,3,8:46 PM,2:06,,,G. Williams P.FOUL (P2.T2) (D.Guthrie),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,486,2,63,3,8:47 PM,1:55,MISS Harris 17' Fadeaway Jumper,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,487,4,0,3,8:47 PM,1:53,,,Doncic REBOUND (Off:0 Def:6),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,488,2,1,3,8:47 PM,1:45,,,MISS Kleber 28' 3PT Jump Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,489,4,0,3,8:47 PM,1:43,,,Kleber REBOUND (Off:2 Def:2),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,490,2,1,3,8:47 PM,1:34,,,MISS Kleber 25' 3PT Jump Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,491,4,0,3,8:47 PM,1:34,Harris REBOUND (Off:0 Def:5),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,492,2,1,3,8:47 PM,1:23,MISS Springer 3PT Jump Shot,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,493,4,0,3,8:47 PM,1:21,Bamba REBOUND (Off:4 Def:6),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,494,2,72,3,8:47 PM,1:19,MISS Bamba 4' Putback Layup,,Irving BLOCK (1 BLK),,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1
+0022300715,496,4,0,3,8:47 PM,1:17,,,Irving REBOUND (Off:0 Def:3),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,497,1,103,3,8:48 PM,1:14,,,Irving 19' Running Pull-Up Jump Shot (16 PTS),75 - 72,-3,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,498,6,1,3,8:48 PM,0:53,,,Hardaway Jr. P.FOUL (P2.T3) (D.Guthrie),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,500,8,0,3,8:48 PM,0:53,SUB: Reed FOR Bamba,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,501,8,0,3,8:48 PM,0:53,,,SUB: Hardy FOR Doncic,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,504,2,6,3,8:49 PM,0:43,MISS Reed 2' Driving Layup,,Hardaway Jr. BLOCK (1 BLK),,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1
+0022300715,505,4,0,3,8:49 PM,0:40,Reed REBOUND (Off:3 Def:3),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,506,2,72,3,8:49 PM,0:39,MISS Reed 3' Putback Layup,,Kleber BLOCK (1 BLK),,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1
+0022300715,508,4,0,3,8:49 PM,0:39,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,510,6,1,3,8:49 PM,0:28,Morris Sr. P.FOUL (P1.T4) (R.Acosta),,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,512,8,0,3,8:50 PM,0:28,SUB: Beverley FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,514,1,79,3,8:50 PM,0:17,,,Irving 13' Pullup Jump Shot (18 PTS),77 - 72,-5,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,515,1,1,3,8:50 PM,0:02,Reed 11' Jump Shot (2 PTS) (Harris 6 AST),,,77 - 74,-3,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,517,2,79,3,8:50 PM,0:00,,,MISS Hardy 35' 3PT Pullup Jump Shot,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,518,4,0,3,8:50 PM,0:00,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,519,13,0,3,8:51 PM,0:00,,End of 3rd Period (8:51 PM EST),,77 - 74,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,522,12,0,4,8:53 PM,12:00,,Start of 4th Period (8:53 PM EST),,77 - 74,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,523,2,102,4,8:54 PM,11:47,,,MISS Irving 5' Driving Floating Bank Jump Shot,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,524,4,0,4,8:54 PM,11:46,,,Irving REBOUND (Off:1 Def:3),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,525,1,1,4,8:54 PM,11:39,,,Irving 26' 3PT Jump Shot (21 PTS) (Kleber 2 AST),80 - 74,-6,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,527,2,1,4,8:54 PM,11:19,MISS Morris Sr. 26' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,528,4,0,4,8:54 PM,11:16,,,G. Williams REBOUND (Off:0 Def:4),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,529,2,1,4,8:54 PM,10:56,,,MISS Hardy 24' 3PT Jump Shot,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,530,4,0,4,8:54 PM,10:54,Harris REBOUND (Off:0 Def:6),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,531,2,86,4,8:55 PM,10:40,MISS Reed 10' Turnaround Fadeaway Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,532,4,0,4,8:55 PM,10:38,,,G. Williams REBOUND (Off:0 Def:5),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,533,1,76,4,8:55 PM,10:34,,,Hardy Running Finger Roll Layup (9 PTS),82 - 74,-8,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,534,1,1,4,8:55 PM,10:17,Harris 3PT Jump Shot (17 PTS) (Maxey 7 AST),,,82 - 77,-5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,536,1,47,4,8:55 PM,9:54,,,Kleber 11' Turnaround Jump Shot (12 PTS) (Irving 5 AST),84 - 77,-7,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,538,2,1,4,8:56 PM,9:43,MISS Maxey 28' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,539,4,0,4,8:56 PM,9:40,,,G. Williams REBOUND (Off:0 Def:6),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,540,1,6,4,8:56 PM,9:29,,,Kleber Driving Layup (14 PTS) (Irving 6 AST),86 - 77,-9,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,542,9,1,4,8:56 PM,9:29,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,543,8,0,4,8:58 PM,9:29,SUB: Oubre Jr. FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,544,8,0,4,8:58 PM,9:29,,,SUB: Doncic FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,547,2,63,4,8:59 PM,9:14,MISS Oubre Jr. 8' Fadeaway Jumper,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,548,4,0,4,8:59 PM,9:11,,,Doncic REBOUND (Off:0 Def:7),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,549,1,1,4,8:59 PM,8:57,,,G. Williams 27' 3PT Jump Shot (7 PTS) (Kleber 3 AST),89 - 77,-12,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,551,2,1,4,9:00 PM,8:35,MISS Morris Sr. 10' Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,552,4,0,4,9:00 PM,8:33,,,Doncic REBOUND (Off:0 Def:8),,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,553,1,1,4,9:00 PM,8:21,,,Hardy 24' 3PT Jump Shot (12 PTS) (Kleber 4 AST),92 - 77,-15,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,555,1,1,4,9:00 PM,7:56,Morris Sr. 27' 3PT Jump Shot (10 PTS) (Beverley 2 AST),,,92 - 80,-12,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,557,1,1,4,9:01 PM,7:31,,,Doncic 27' 3PT Jump Shot (16 PTS) (Kleber 5 AST),95 - 80,-15,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,559,6,2,4,9:01 PM,7:16,,,Irving S.FOUL (P3.T1) (R.Acosta),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,561,9,7,4,9:01 PM,7:16,,,Mavericks Timeout: Coach Challenge (Reg.3 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,562,18,6,4,9:02 PM,7:16,,Instant Replay4th Period (9:02 PM EST),,95 - 80,-15,0,559,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300715,563,8,0,4,9:03 PM,7:16,SUB: Bamba FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612755.0,Philadelphia,76ers,PHI,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,564,8,0,4,9:03 PM,7:16,,,SUB: Powell FOR Hardy,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,565,8,0,4,9:03 PM,7:16,,,SUB: Green FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,569,3,11,4,9:04 PM,7:16,Oubre Jr. Free Throw 1 of 2 (18 PTS),,,95 - 81,-14,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,570,3,12,4,9:05 PM,7:16,Oubre Jr. Free Throw 2 of 2 (19 PTS),,,95 - 82,-13,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,571,6,2,4,9:05 PM,6:56,Bamba S.FOUL (P4.T1) (R.Acosta),,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,573,3,11,4,9:06 PM,6:56,,,G. Williams Free Throw 1 of 2 (8 PTS),96 - 82,-14,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,574,3,12,4,9:06 PM,6:56,,,G. Williams Free Throw 2 of 2 (9 PTS),97 - 82,-15,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,575,1,73,4,9:06 PM,6:49,Maxey 1' Driving Reverse Layup (14 PTS),,,97 - 84,-13,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,576,6,2,4,9:06 PM,6:49,,,Irving S.FOUL (P4.T2) (D.Guthrie),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,578,3,10,4,9:07 PM,6:49,Maxey Free Throw 1 of 1 (15 PTS),,,97 - 85,-12,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,579,1,79,4,9:07 PM,6:30,,,G. Williams 15' Pullup Jump Shot (11 PTS) (Green 4 AST),99 - 85,-14,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,581,2,1,4,9:07 PM,6:19,MISS Oubre Jr. 24' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,582,4,0,4,9:07 PM,6:17,,,Irving REBOUND (Off:1 Def:4),,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,583,1,2,4,9:07 PM,6:11,,,G. Williams 26' 3PT Running Jump Shot (14 PTS) (Irving 7 AST),102 - 85,-17,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,585,2,101,4,9:08 PM,5:55,MISS Beverley 5' Driving Floating Jump Shot,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,586,4,0,4,9:08 PM,5:53,,,Powell REBOUND (Off:2 Def:5),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,587,6,1,4,9:08 PM,5:53,Oubre Jr. P.FOUL (P3.T2) (R.Acosta),,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,589,1,1,4,9:08 PM,5:43,,,Doncic 27' 3PT Jump Shot (19 PTS) (Irving 8 AST),105 - 85,-20,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,591,9,1,4,9:08 PM,5:41,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,592,8,0,4,9:10 PM,5:41,SUB: Korkmaz FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,593,8,0,4,9:10 PM,5:41,SUB: Springer FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,594,8,0,4,9:10 PM,5:41,SUB: Martin FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,595,8,0,4,9:10 PM,5:41,SUB: Smith FOR Beverley,,,,,4,201976,Patrick Beverley,1610612755.0,Philadelphia,76ers,PHI,4,1631173,Terquavion Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,596,8,0,4,9:10 PM,5:41,SUB: Council IV FOR Bamba,,,,,4,1628964,Mo Bamba,1610612755.0,Philadelphia,76ers,PHI,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022300715,603,1,1,4,9:10 PM,5:28,Smith 27' 3PT Jump Shot (3 PTS) (Springer 2 AST),,,105 - 88,-17,4,1631173,Terquavion Smith,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,605,1,75,4,9:10 PM,5:12,,,Irving 2' Driving Finger Roll Layup (23 PTS),107 - 88,-19,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,606,6,2,4,9:11 PM,5:05,,,Powell S.FOUL (P2.T3) (S.Mehta),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,608,3,11,4,9:11 PM,5:05,MISS Council IV Free Throw 1 of 2,,,,,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,609,4,1,4,9:11 PM,5:05,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,610,3,12,4,9:11 PM,5:05,Council IV Free Throw 2 of 2 (1 PTS),,,107 - 89,-18,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,611,2,5,4,9:12 PM,4:48,,,MISS Powell 1' Layup,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,613,4,0,4,9:12 PM,4:47,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,615,2,63,4,9:12 PM,4:44,,,MISS Doncic 3PT Fadeaway Jumper,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,616,4,0,4,9:12 PM,4:41,Smith REBOUND (Off:0 Def:1),,,,,4,1631173,Terquavion Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,617,6,2,4,9:12 PM,4:41,,,Powell S.FOUL (P3.T4) (R.Acosta),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,619,3,11,4,9:12 PM,4:41,Council IV Free Throw 1 of 2 (2 PTS),,,107 - 90,-17,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,626,3,12,4,9:12 PM,4:41,Council IV Free Throw 2 of 2 (3 PTS),,,107 - 91,-16,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,620,8,0,4,9:12 PM,4:41,,,SUB: Hardy FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,621,8,0,4,9:12 PM,4:41,,,SUB: Lawson FOR Irving,,,5,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,622,8,0,4,9:12 PM,4:41,,,SUB: Holmes FOR Doncic,,,5,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,627,6,2,4,9:13 PM,4:28,Korkmaz S.FOUL (P1.T3) (S.Mehta),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,629,3,11,4,9:14 PM,4:28,,,MISS Lawson Free Throw 1 of 2,,,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,630,4,1,4,9:14 PM,4:28,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300715,631,3,12,4,9:14 PM,4:28,,,MISS Lawson Free Throw 2 of 2,,,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,632,4,0,4,9:14 PM,4:26,,,G. Williams REBOUND (Off:1 Def:6),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,633,1,6,4,9:14 PM,4:20,,,Hardy 1' Driving Layup (14 PTS) (G. Williams 2 AST),109 - 91,-18,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,635,2,1,4,9:14 PM,4:08,MISS Martin 27' 3PT Jump Shot,,,,,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,636,4,0,4,9:14 PM,4:06,,,Green REBOUND (Off:1 Def:5),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,637,2,6,4,9:14 PM,3:54,,,MISS Hardy 4' Driving Layup,,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,638,4,0,4,9:14 PM,3:51,Springer REBOUND (Off:1 Def:3),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,639,1,41,4,9:14 PM,3:46,Martin 2' Running Layup (2 PTS) (Springer 3 AST),,,109 - 93,-16,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,641,1,98,4,9:15 PM,3:21,,,Lawson 2' Cutting Layup Shot (2 PTS) (Holmes 1 AST),111 - 93,-18,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,5,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,643,6,1,4,9:15 PM,3:11,,,G. Williams P.FOUL (P3.PN) (D.Guthrie),,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022300715,645,3,11,4,9:16 PM,3:11,Martin Free Throw 1 of 2 (3 PTS),,,111 - 94,-17,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,650,3,12,4,9:16 PM,3:11,MISS Martin Free Throw 2 of 2,,,,,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,646,8,0,4,9:16 PM,3:11,,,SUB: Prosper FOR G. Williams,,,5,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,647,8,0,4,9:16 PM,3:11,,,SUB: B. Williams FOR Green,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022300715,651,4,0,4,9:16 PM,3:09,,,Holmes REBOUND (Off:0 Def:1),,,5,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,652,1,1,4,9:16 PM,2:57,,,Hardy 26' 3PT Jump Shot (17 PTS) (Holmes 2 AST),114 - 94,-20,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,654,5,2,4,9:16 PM,2:44,Martin Lost Ball Turnover (P1.T11),,Prosper STEAL (1 STL),,,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,5,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,656,2,41,4,9:16 PM,2:39,Martin BLOCK (1 BLK),,MISS Prosper 2' Running Layup,,,5,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,1
+0022300715,658,4,0,4,9:17 PM,2:37,Martin REBOUND (Off:0 Def:1),,,,,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,659,6,4,4,9:17 PM,2:35,Council IV OFF.Foul (P1) (R.Acosta),,,,,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,5,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022300715,661,5,37,4,9:17 PM,2:35,Council IV Offensive Foul Turnover (P1.T12),,,,,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022300715,662,1,9,4,9:17 PM,2:19,,,Lawson 1' Driving Dunk (4 PTS) (B. Williams 1 AST),116 - 94,-22,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,5,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,664,1,98,4,9:17 PM,2:07,Council IV 1' Cutting Layup Shot (5 PTS) (Smith 1 AST),,,116 - 96,-20,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,4,1631173,Terquavion Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,666,1,108,4,9:17 PM,1:54,,,Lawson 1' Cutting Dunk Shot (6 PTS) (B. Williams 2 AST),118 - 96,-22,5,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,5,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022300715,668,2,1,4,9:18 PM,1:44,MISS Smith 29' 3PT Jump Shot,,,,,4,1631173,Terquavion Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,669,4,0,4,9:18 PM,1:41,,,Hardy REBOUND (Off:0 Def:1),,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,670,2,102,4,9:18 PM,1:31,,,MISS B. Williams 4' Driving Floating Bank Jump Shot,,,5,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,671,4,0,4,9:18 PM,1:27,,,Prosper REBOUND (Off:1 Def:0),,,5,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,672,2,97,4,9:18 PM,1:27,,,MISS Prosper Tip Layup Shot,,,5,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,673,4,0,4,9:18 PM,1:25,Korkmaz REBOUND (Off:0 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,674,1,7,4,9:18 PM,1:22,Springer Dunk (8 PTS),,,118 - 98,-20,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,675,2,1,4,9:18 PM,1:05,,,MISS B. Williams 26' 3PT Jump Shot,,,5,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022300715,676,4,0,4,9:18 PM,1:02,Springer REBOUND (Off:1 Def:4),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,677,1,50,4,9:18 PM,0:58,Martin Running Dunk (5 PTS) (Springer 4 AST),,,118 - 100,-18,4,1630231,KJ Martin,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,679,5,2,4,9:19 PM,0:43,Smith STEAL (1 STL),,Hardy Lost Ball Turnover (P1.T9),,,5,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1631173,Terquavion Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022300715,681,1,41,4,9:19 PM,0:37,Council IV Running Layup (7 PTS),,,118 - 102,-16,4,1641741,Ricky Council IV,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022300715,682,5,11,4,9:19 PM,0:13,,,Mavericks Turnover: Shot Clock (T#10),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300715,683,13,0,4,9:20 PM,0:00,,End of 4th Period (9:20 PM EST),,118 - 102,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

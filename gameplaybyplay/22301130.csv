@@ -1,0 +1,453 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022301130,2,12,0,1,9:11 PM,12:00,,Start of 1st Period (9:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,3,7,4,1,9:12 PM,12:00,Jokic Violation:Jump Ball (D.Collins),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0022301130,4,1,1,1,9:12 PM,11:44,,,Murray 3PT Jump Shot (3 PTS) (Johnson 1 AST),3 - 0,-3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,6,1,1,1,9:13 PM,11:17,Jokic 26' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),,,3 - 3,TIE,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,8,5,1,1,9:13 PM,11:02,Caldwell-Pope STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T1),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,10,2,2,1,9:13 PM,10:58,MISS Murray 24' 3PT Running Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,11,4,0,1,9:13 PM,10:55,,,Capela REBOUND (Off:0 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,12,2,1,1,9:13 PM,10:47,,,MISS Murray 26' 3PT Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,13,4,0,1,9:13 PM,10:46,Jokic REBOUND (Off:0 Def:1),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,14,1,79,1,9:13 PM,10:36,Caldwell-Pope 19' Pullup Jump Shot (2 PTS),,,3 - 5,2,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,15,2,1,1,9:14 PM,10:18,,,MISS Johnson 26' 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,16,4,0,1,9:14 PM,10:15,,,Capela REBOUND (Off:1 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,17,2,73,1,9:14 PM,10:10,,,MISS Capela 1' Driving Reverse Layup,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,18,4,0,1,9:14 PM,10:10,Jokic REBOUND (Off:0 Def:2),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,19,2,41,1,9:14 PM,10:02,MISS Jokic 1' Running Layup,,Bogdanovic BLOCK (1 BLK),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,1
+0022301130,21,4,0,1,9:14 PM,9:58,Braun REBOUND (Off:1 Def:0),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,22,2,72,1,9:14 PM,9:57,MISS Braun 2' Putback Layup,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,23,4,0,1,9:14 PM,9:57,,,Murray REBOUND (Off:0 Def:1),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,24,1,6,1,9:14 PM,9:49,,,Johnson 3' Driving Layup (2 PTS) (Murray 1 AST),5 - 5,TIE,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,26,6,1,1,9:14 PM,9:34,,,Murray P.FOUL (P1.T1) (D.Collins),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,29,1,1,1,9:15 PM,9:24,Porter Jr. 25' 3PT Jump Shot (3 PTS) (Murray 1 AST),,,5 - 8,3,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,31,1,1,1,9:15 PM,9:11,,,Hunter 26' 3PT Jump Shot (3 PTS) (Murray 2 AST),8 - 8,TIE,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,33,5,1,1,9:16 PM,8:57,Porter Jr. Bad Pass Turnover (P1.T1),,Johnson STEAL (1 STL),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,35,5,1,1,9:16 PM,8:56,Porter Jr. STEAL (1 STL),,Johnson Bad Pass Turnover (P2.T2),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,37,6,2,1,9:16 PM,8:56,,,Bogdanovic S.FOUL (P1.T2) (S.Twardoski),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,39,3,11,1,9:16 PM,8:56,Porter Jr. Free Throw 1 of 2 (4 PTS),,,8 - 9,1,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,40,3,12,1,9:16 PM,8:56,Porter Jr. Free Throw 2 of 2 (5 PTS),,,8 - 10,2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,41,1,98,1,9:17 PM,8:42,,,Capela 2' Cutting Layup Shot (2 PTS) (Murray 3 AST),10 - 10,TIE,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,43,2,1,1,9:17 PM,8:30,MISS Porter Jr. 25' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,44,4,0,1,9:17 PM,8:26,,,Murray REBOUND (Off:0 Def:2),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,45,2,47,1,9:17 PM,8:15,,,MISS Murray 9' Turnaround Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,46,4,0,1,9:17 PM,8:15,Braun REBOUND (Off:1 Def:1),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,47,1,76,1,9:17 PM,8:08,Braun 1' Running Finger Roll Layup (2 PTS),,,10 - 12,2,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,48,1,63,1,9:18 PM,7:47,,,Johnson 12' Fadeaway Jumper (4 PTS),12 - 12,TIE,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,49,1,1,1,9:18 PM,7:34,Murray 26' 3PT Jump Shot (3 PTS) (Jokic 1 AST),,,12 - 15,3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,51,6,2,1,9:18 PM,7:20,Murray S.FOUL (P1.T1) (S.Twardoski),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,53,3,11,1,9:18 PM,7:20,,,Capela Free Throw 1 of 2 (3 PTS),13 - 15,2,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,54,3,12,1,9:19 PM,7:20,,,Capela Free Throw 2 of 2 (4 PTS),14 - 15,1,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022301130,55,2,75,1,9:19 PM,7:00,MISS Murray 3' Driving Finger Roll Layup,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,56,4,0,1,9:19 PM,6:57,,,Capela REBOUND (Off:1 Def:2),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,57,2,41,1,9:19 PM,6:51,,,MISS Murray 3' Running Layup,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,58,4,0,1,9:19 PM,6:49,Caldwell-Pope REBOUND (Off:0 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,59,1,41,1,9:19 PM,6:45,Jokic 6' Running Layup (5 PTS) (Caldwell-Pope 1 AST),,,14 - 17,3,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,61,1,101,1,9:20 PM,6:28,,,Hunter 7' Driving Floating Jump Shot (5 PTS) (Capela 1 AST),16 - 17,1,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,62,6,2,1,9:20 PM,6:28,Porter Jr. S.FOUL (P1.T2) (D.Collins),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,65,9,1,1,9:20 PM,6:28,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,66,8,0,1,9:22 PM,6:28,,,SUB: Krejci FOR Bogdanovic,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,67,8,0,1,9:22 PM,6:28,,,SUB: Fernando FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,68,8,0,1,9:22 PM,6:28,,,SUB: Mathews FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,72,3,10,1,9:23 PM,6:28,,,Hunter Free Throw 1 of 1 (6 PTS),17 - 17,TIE,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,73,1,80,1,9:23 PM,6:14,Porter Jr. 21' Step Back Jump Shot (7 PTS) (Jokic 2 AST),,,17 - 19,2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,75,2,1,1,9:23 PM,5:59,,,MISS Hunter 26' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,76,4,0,1,9:23 PM,5:54,Jokic REBOUND (Off:0 Def:3),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,77,1,79,1,9:24 PM,5:42,Caldwell-Pope 26' 3PT Pullup Jump Shot (5 PTS) (Murray 2 AST),,,17 - 22,5,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,79,6,1,1,9:24 PM,5:42,,,Krejci P.FOUL (P1.T3) (D.Collins),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,81,3,10,1,9:24 PM,5:42,Murray Free Throw 1 of 1 (4 PTS),,,17 - 23,6,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,82,2,5,1,9:25 PM,5:24,,,MISS Fernando 3' Layup,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,83,4,0,1,9:25 PM,5:22,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,84,2,86,1,9:25 PM,5:01,MISS Caldwell-Pope 3PT Turnaround Fadeaway Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,85,4,0,1,9:25 PM,5:00,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,86,5,11,1,9:25 PM,5:00,NUGGETS Turnover: Shot Clock (T#2),,,,,2,1610612743,,,,,,0,0,,,,,,1,0,,,,,,1
+0022301130,87,2,1,1,9:26 PM,4:44,,,MISS Mathews 24' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,88,4,0,1,9:26 PM,4:41,Braun REBOUND (Off:1 Def:2),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,89,5,1,1,9:26 PM,4:38,Braun Bad Pass Turnover (P1.T3),,Mathews STEAL (1 STL),,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,91,2,1,1,9:26 PM,4:28,,,MISS Mathews 24' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,92,4,0,1,9:26 PM,4:24,Murray REBOUND (Off:0 Def:1),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,93,1,71,1,9:26 PM,4:18,Murray 1' Finger Roll Layup (6 PTS),,,17 - 25,8,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,94,5,1,1,9:26 PM,3:59,Jokic STEAL (1 STL),,Hunter Bad Pass Turnover (P1.T3),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,96,6,2,1,9:26 PM,3:55,,,Krejci S.FOUL (P2.T4) (S.Twardoski),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,98,3,11,1,9:27 PM,3:55,Jokic Free Throw 1 of 2 (6 PTS),,,17 - 26,9,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,99,8,0,1,9:27 PM,3:55,SUB: Jackson FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,100,8,0,1,9:27 PM,3:55,SUB: Watson FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,103,3,12,1,9:27 PM,3:55,Jokic Free Throw 2 of 2 (7 PTS),,,17 - 27,10,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,104,2,1,1,9:28 PM,3:41,,,MISS Hunter 24' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,105,4,0,1,9:28 PM,3:38,Jackson REBOUND (Off:0 Def:1),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,106,2,58,1,9:28 PM,3:25,MISS Jokic 4' Turnaround Hook Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,107,4,0,1,9:28 PM,3:23,,,Hunter REBOUND (Off:0 Def:1),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,108,5,45,1,9:28 PM,3:18,,,Hunter Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022301130,109,5,2,1,9:28 PM,3:10,Jokic Lost Ball Turnover (P1.T4),,Hunter STEAL (1 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,111,6,2,1,9:29 PM,3:05,Jackson S.FOUL (P1.T3) (P.Fraher),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,113,3,11,1,9:29 PM,3:05,,,Murray Free Throw 1 of 2 (4 PTS),18 - 27,9,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,114,8,0,1,9:29 PM,3:05,SUB: Holiday FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,115,8,0,1,9:29 PM,3:05,,,SUB: Bogdanovic FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,116,8,0,1,9:29 PM,3:05,,,SUB: Johnson FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,120,3,12,1,9:29 PM,3:05,,,MISS Murray Free Throw 2 of 2,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,121,4,0,1,9:29 PM,3:03,Watson REBOUND (Off:0 Def:1),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,122,6,2,1,9:30 PM,2:47,,,Fernando S.FOUL (P1.PN) (D.Collins),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,124,9,1,1,9:30 PM,2:47,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,125,8,0,1,9:32 PM,2:47,,,SUB: Bufkin FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,127,3,11,1,9:33 PM,2:47,Jokic Free Throw 1 of 2 (8 PTS),,,18 - 28,10,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,128,3,12,1,9:33 PM,2:47,Jokic Free Throw 2 of 2 (9 PTS),,,18 - 29,11,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,129,1,1,1,9:33 PM,2:29,,,Johnson 26' 3PT Jump Shot (7 PTS) (Krejci 1 AST),21 - 29,8,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,131,5,40,1,9:34 PM,2:08,Holiday Out of Bounds Lost Ball Turnover (P1.T5),,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,132,2,1,1,9:34 PM,1:47,,,MISS Bufkin 3PT Jump Shot,,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,133,4,0,1,9:34 PM,1:45,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,135,8,0,1,9:34 PM,1:45,SUB: Porter Jr. FOR Braun,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,137,2,1,1,9:35 PM,1:27,MISS Jackson 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,138,4,0,1,9:35 PM,1:24,,,Johnson REBOUND (Off:0 Def:1),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,139,5,1,1,9:35 PM,1:18,Watson STEAL (1 STL),,Johnson Bad Pass Turnover (P3.T5),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,141,2,2,1,9:35 PM,1:13,MISS Jokic 3' Running Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,142,4,0,1,9:35 PM,1:10,,,Fernando REBOUND (Off:0 Def:1),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,143,2,41,1,9:35 PM,1:04,,,MISS Fernando 1' Running Layup,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,144,4,0,1,9:35 PM,1:03,,,Fernando REBOUND (Off:1 Def:1),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,145,2,97,1,9:35 PM,1:03,,,MISS Fernando Tip Layup Shot,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,146,4,0,1,9:35 PM,1:03,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,148,2,1,1,9:36 PM,0:51,,,MISS Bogdanovic 27' 3PT Jump Shot,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,149,4,0,1,9:36 PM,0:49,Jokic REBOUND (Off:0 Def:4),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,150,1,41,1,9:36 PM,0:47,Holiday 2' Running Layup (2 PTS) (Jokic 3 AST),,,21 - 31,10,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,152,1,7,1,9:36 PM,0:37,,,Fernando Dunk (2 PTS) (Bufkin 1 AST),23 - 31,8,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,154,2,79,1,9:36 PM,0:33,MISS Jokic 25' 3PT Pullup Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,155,4,0,1,9:36 PM,0:30,,,Fernando REBOUND (Off:1 Def:2),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,156,6,1,1,9:37 PM,0:17,Porter Jr. P.FOUL (P2.T4) (S.Twardoski),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,158,6,11,1,9:37 PM,0:17,Porter Jr. T.FOUL (P2.T4) (D.Collins),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,159,3,16,1,9:37 PM,0:17,,,Bogdanovic Free Throw Technical (1 PTS),24 - 31,7,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,160,8,0,1,9:38 PM,0:17,SUB: Caldwell-Pope FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,162,1,78,1,9:38 PM,0:07,,,Fernando 7' Floating Jump Shot (4 PTS) (Bogdanovic 1 AST),26 - 31,5,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,164,2,6,1,9:38 PM,0:01,MISS Jackson 3' Driving Layup,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,165,4,0,1,9:38 PM,0:01,Watson REBOUND (Off:1 Def:1),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,166,1,97,1,9:38 PM,0:01,Watson Tip Layup Shot (2 PTS),,,26 - 33,7,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,167,13,0,1,9:38 PM,0:00,,End of 1st Period (9:38 PM EST),,26 - 33,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,174,12,0,2,9:41 PM,12:00,,Start of 2nd Period (9:41 PM EST),,26 - 33,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,175,2,79,2,9:41 PM,11:47,MISS Jackson 6' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,177,4,0,2,9:41 PM,11:44,Jackson REBOUND (Off:1 Def:1),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,178,1,1,2,9:41 PM,11:43,Jackson 5' Jump Shot (2 PTS),,,26 - 35,9,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,179,5,1,2,9:42 PM,11:29,Holiday STEAL (1 STL),,Johnson Bad Pass Turnover (P4.T6),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,184,2,101,2,9:42 PM,11:09,MISS Watson 3' Driving Floating Jump Shot,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,185,4,0,2,9:42 PM,11:07,,,Fernando REBOUND (Off:1 Def:3),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,186,2,6,2,9:42 PM,11:01,,,MISS Johnson 3' Driving Layup,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,187,4,0,2,9:42 PM,10:59,Nnaji REBOUND (Off:0 Def:1),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,188,2,1,2,9:42 PM,10:52,MISS Jackson 26' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,189,4,0,2,9:42 PM,10:49,,,Bufkin REBOUND (Off:0 Def:1),,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,190,6,1,2,9:43 PM,10:41,Strawther P.FOUL (P1.T1) (S.Twardoski),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,192,2,5,2,9:43 PM,10:33,,,MISS Fernando 2' Layup,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,194,4,0,2,9:43 PM,10:28,,,Fernando REBOUND (Off:2 Def:3),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,195,5,17,2,9:43 PM,10:28,,,Fernando Lane Violation Turnover (P1.T7),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,196,1,1,2,9:44 PM,10:11,Holiday 27' 3PT Jump Shot (5 PTS) (Strawther 1 AST),,,26 - 38,12,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,198,2,1,2,9:44 PM,9:50,,,MISS Johnson 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,199,4,0,2,9:44 PM,9:47,Watson REBOUND (Off:1 Def:2),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,200,6,2,2,9:44 PM,9:42,,,Fernando S.FOUL (P2.T1) (S.Twardoski),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,202,3,11,2,9:45 PM,9:42,MISS Watson Free Throw 1 of 2,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,203,4,1,2,9:45 PM,9:42,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,204,8,0,2,9:45 PM,9:42,,,SUB: Capela FOR Bufkin,,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,205,8,0,2,9:45 PM,9:42,,,SUB: Murray FOR Fernando,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,208,3,12,2,9:45 PM,9:42,Watson Free Throw 2 of 2 (3 PTS),,,26 - 39,13,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022301130,209,6,2,2,9:45 PM,9:25,Watson S.FOUL (P1.T2) (S.Twardoski),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,211,3,11,2,9:46 PM,9:25,,,MISS Capela Free Throw 1 of 2,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,212,4,1,2,9:46 PM,9:25,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,213,3,12,2,9:46 PM,9:25,,,MISS Capela Free Throw 2 of 2,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,214,4,0,2,9:46 PM,9:23,Watson REBOUND (Off:1 Def:3),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,215,1,75,2,9:46 PM,9:11,Jackson 1' Driving Finger Roll Layup (4 PTS) (Holiday 1 AST),,,26 - 41,15,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,217,1,80,2,9:47 PM,8:58,,,Bogdanovic 25' 3PT Step Back Jump Shot (4 PTS),29 - 41,12,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,218,1,80,2,9:47 PM,8:43,Jackson 24' 3PT Step Back Jump Shot (7 PTS) (Holiday 2 AST),,,29 - 44,15,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,220,6,2,2,9:47 PM,8:27,Jackson S.FOUL (P2.T3) (P.Fraher),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,223,3,13,2,9:49 PM,8:27,,,Mathews Free Throw 1 of 3 (1 PTS),30 - 44,14,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022301130,224,3,14,2,9:49 PM,8:27,,,Mathews Free Throw 2 of 3 (2 PTS),31 - 44,13,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,225,3,15,2,9:49 PM,8:27,,,Mathews Free Throw 3 of 3 (3 PTS),32 - 44,12,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,226,6,1,2,9:49 PM,8:18,,,Bogdanovic P.FOUL (P2.T2) (S.Twardoski),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,228,8,0,2,9:50 PM,8:18,,,SUB: Krejci FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,229,8,0,2,9:50 PM,8:18,,,SUB: Hunter FOR Bogdanovic,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,232,6,4,2,9:50 PM,8:15,Strawther OFF.Foul (P2) (P.Fraher),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,234,5,37,2,9:50 PM,8:15,Strawther Offensive Foul Turnover (P1.T6),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,235,6,2,2,9:50 PM,8:03,Holiday S.FOUL (P1.T4) (P.Fraher),,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,238,3,11,2,9:51 PM,8:03,,,Hunter Free Throw 1 of 2 (7 PTS),33 - 44,11,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,240,3,12,2,9:51 PM,8:03,,,MISS Hunter Free Throw 2 of 2,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,241,4,0,2,9:51 PM,8:01,Watson REBOUND (Off:1 Def:4),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,242,1,108,2,9:53 PM,7:50,Nnaji 1' Cutting Dunk Shot (2 PTS) (Holiday 3 AST),,,33 - 46,13,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,244,2,75,2,9:53 PM,7:38,Watson BLOCK (1 BLK),,MISS Murray 3' Driving Finger Roll Layup,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,246,4,0,2,9:53 PM,7:36,Nnaji REBOUND (Off:0 Def:2),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,247,1,2,2,9:53 PM,7:32,Strawther 26' 3PT Running Jump Shot (3 PTS) (Holiday 4 AST),,,33 - 49,16,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,249,9,1,2,9:53 PM,7:32,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,250,1,1,2,9:56 PM,7:19,,,Krejci 24' 3PT Jump Shot (3 PTS) (Murray 4 AST),36 - 49,13,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,252,1,80,2,9:57 PM,6:59,Jackson 25' 3PT Step Back Jump Shot (10 PTS),,,36 - 52,16,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,253,1,1,2,9:57 PM,6:43,,,Mathews 25' 3PT Jump Shot (6 PTS) (Murray 5 AST),39 - 52,13,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,255,9,1,2,9:57 PM,6:40,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,256,8,0,2,9:59 PM,6:40,SUB: Murray FOR Strawther,,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,257,8,0,2,9:59 PM,6:40,SUB: Jokic FOR Jackson,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,259,8,0,2,9:59 PM,6:40,SUB: Caldwell-Pope FOR Holiday,,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,260,8,0,2,9:59 PM,6:40,SUB: Porter Jr. FOR Nnaji,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,266,7,5,2,10:00 PM,6:31,,,Capela Violation:Kicked Ball (D.Collins),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0022301130,267,1,63,2,10:00 PM,6:22,Murray 14' Fadeaway Jumper (8 PTS),,,39 - 54,15,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,268,2,80,2,10:01 PM,6:06,,,MISS Mathews 24' 3PT Step Back Jump Shot,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,269,4,0,2,10:01 PM,6:06,Jokic REBOUND (Off:0 Def:5),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,270,1,5,2,10:01 PM,5:51,Watson 1' Layup (5 PTS) (Murray 3 AST),,,39 - 56,17,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,272,1,79,2,10:01 PM,5:35,,,Mathews 25' 3PT Pullup Jump Shot (9 PTS) (Murray 6 AST),42 - 56,14,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,276,9,7,2,10:02 PM,5:35,NUGGETS Timeout: Coach Challenge (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,277,18,5,2,10:03 PM,5:35,,Instant Replay2nd Period (10:03 PM EST),,42 - 56,14,0,274,,,,,,0,0,,,,,,1,0,,,,,,1
+0022301130,280,8,0,2,10:04 PM,5:35,SUB: Braun FOR Watson,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,281,8,0,2,10:04 PM,5:35,,,SUB: Bogdanovic FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,282,8,0,2,10:04 PM,5:35,,,SUB: Johnson FOR Krejci,,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,286,2,75,2,10:04 PM,5:20,MISS Murray 2' Driving Finger Roll Layup,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,287,4,0,2,10:04 PM,5:19,,,Capela REBOUND (Off:1 Def:3),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,288,1,79,2,10:04 PM,5:13,,,Hunter 11' Pullup Jump Shot (9 PTS) (Johnson 2 AST),44 - 56,12,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,291,2,1,2,10:05 PM,4:53,MISS Murray 25' 3PT Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,292,4,0,2,10:05 PM,4:51,,,Johnson REBOUND (Off:0 Def:2),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,293,1,101,2,10:05 PM,4:41,,,Bogdanovic 9' Driving Floating Jump Shot (6 PTS) (Johnson 3 AST),46 - 56,10,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,295,6,1,2,10:06 PM,4:24,,,Capela P.FOUL (P1.T3) (D.Collins),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,297,1,1,2,10:06 PM,4:14,Caldwell-Pope 3PT Jump Shot (8 PTS) (Jokic 4 AST),,,46 - 59,13,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,299,2,79,2,10:06 PM,3:47,,,MISS Johnson 12' Pullup Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,300,4,0,2,10:06 PM,3:44,Jokic REBOUND (Off:0 Def:6),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,301,2,2,2,10:07 PM,3:39,MISS Caldwell-Pope 24' 3PT Running Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,302,4,0,2,10:07 PM,3:37,,,Capela REBOUND (Off:1 Def:4),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,303,6,2,2,10:07 PM,3:23,Porter Jr. S.FOUL (P3.PN) (D.Collins),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,305,3,11,2,10:07 PM,3:23,,,Bogdanovic Free Throw 1 of 2 (7 PTS),47 - 59,12,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,306,8,0,2,10:07 PM,3:23,SUB: Watson FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,308,3,12,2,10:08 PM,3:23,,,Bogdanovic Free Throw 2 of 2 (8 PTS),48 - 59,11,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,309,6,4,2,10:08 PM,3:06,Caldwell-Pope OFF.Foul (P1) (P.Fraher),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,311,5,37,2,10:08 PM,3:06,Caldwell-Pope Offensive Foul Turnover (P1.T7),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,312,6,2,2,10:08 PM,3:00,Braun S.FOUL (P1.PN) (S.Twardoski),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,314,3,11,2,10:09 PM,3:00,,,Capela Free Throw 1 of 2 (5 PTS),49 - 59,10,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,315,3,12,2,10:09 PM,3:00,,,Capela Free Throw 2 of 2 (6 PTS),50 - 59,9,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,316,1,44,2,10:09 PM,2:47,Watson 1' Reverse Layup (7 PTS) (Murray 4 AST),,,50 - 61,11,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,318,1,1,2,10:10 PM,2:32,,,Murray 25' 3PT Jump Shot (7 PTS) (Hunter 1 AST),53 - 61,8,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,320,1,80,2,10:10 PM,2:23,Murray 26' 3PT Step Back Jump Shot (11 PTS),,,53 - 64,11,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,321,5,39,2,10:10 PM,2:13,,,Murray Step Out of Bounds Turnover (P1.T8),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022301130,322,2,1,2,10:10 PM,2:02,MISS Jokic 14' Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,323,4,0,2,10:10 PM,2:00,,,Capela REBOUND (Off:1 Def:5),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,324,2,103,2,10:10 PM,1:54,,,MISS Bogdanovic 24' Running Pull-Up Jump Shot,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,325,4,0,2,10:10 PM,1:49,Murray REBOUND (Off:0 Def:2),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,326,2,6,2,10:10 PM,1:44,MISS Murray 2' Driving Layup,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,327,4,0,2,10:11 PM,1:43,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,329,2,1,2,10:11 PM,1:32,,,MISS Hunter 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,330,4,0,2,10:11 PM,1:29,Jokic REBOUND (Off:0 Def:7),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,331,5,45,2,10:11 PM,1:17,Caldwell-Pope Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,332,6,4,2,10:11 PM,1:10,,,Capela OFF.Foul (P2) (D.Collins),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,334,5,37,2,10:11 PM,1:10,,,Capela Offensive Foul Turnover (P1.T9),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022301130,335,1,9,2,10:12 PM,1:07,Caldwell-Pope 1' Driving Dunk (10 PTS) (Jokic 5 AST),,,53 - 66,13,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,337,1,80,2,10:12 PM,0:51,,,Hunter 25' 3PT Step Back Jump Shot (12 PTS) (Capela 2 AST),56 - 66,10,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,339,1,1,2,10:12 PM,0:34,Caldwell-Pope 3PT Jump Shot (13 PTS) (Murray 5 AST),,,56 - 69,13,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,341,2,79,2,10:12 PM,0:29,Watson BLOCK (2 BLK),,MISS Murray 25' 3PT Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,343,4,0,2,10:13 PM,0:25,Murray REBOUND (Off:0 Def:3),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,344,5,2,2,10:13 PM,0:19,Murray Lost Ball Turnover (P1.T9),,Murray STEAL (1 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,346,2,1,2,10:13 PM,0:01,,,MISS Johnson 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,347,4,0,2,10:13 PM,0:01,Jokic REBOUND (Off:0 Def:8),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,348,13,0,2,10:13 PM,0:00,,End of 2nd Period (10:13 PM EST),,56 - 69,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,351,12,0,3,10:28 PM,12:00,,Start of 3rd Period (10:28 PM EST),,56 - 69,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,352,5,1,3,10:29 PM,11:45,Murray Bad Pass Turnover (P2.T10),,Bogdanovic STEAL (1 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,354,1,76,3,10:29 PM,11:43,,,Bogdanovic 3' Running Finger Roll Layup (10 PTS) (Murray 7 AST),58 - 69,11,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,356,1,1,3,10:29 PM,11:22,Jokic 26' 3PT Jump Shot (12 PTS) (Braun 1 AST),,,58 - 72,14,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,358,1,5,3,10:29 PM,11:04,,,Capela 1' Layup (8 PTS) (Bogdanovic 2 AST),60 - 72,12,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,360,6,2,3,10:29 PM,11:04,Jokic S.FOUL (P1.T1) (S.Twardoski),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,362,3,10,3,10:30 PM,11:04,,,Capela Free Throw 1 of 1 (9 PTS),61 - 72,11,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,363,1,1,3,10:30 PM,10:47,Porter Jr. 3PT Jump Shot (10 PTS) (Jokic 6 AST),,,61 - 75,14,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,365,1,1,3,10:30 PM,10:31,,,Bogdanovic 28' 3PT Jump Shot (13 PTS) (Murray 8 AST),64 - 75,11,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,367,1,1,3,10:30 PM,10:19,Caldwell-Pope 25' 3PT Jump Shot (16 PTS) (Jokic 7 AST),,,64 - 78,14,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,369,1,85,3,10:31 PM,9:54,,,Johnson 11' Turnaround Bank Shot (9 PTS) (Murray 9 AST),66 - 78,12,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,371,5,40,3,10:31 PM,9:45,Jokic Out of Bounds Lost Ball Turnover (P2.T11),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,372,6,4,3,10:31 PM,9:38,,,Bogdanovic OFF.Foul (P3) (S.Twardoski),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,374,5,37,3,10:31 PM,9:38,,,Bogdanovic Offensive Foul Turnover (P1.T10),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022301130,375,5,1,3,10:32 PM,9:28,Murray Bad Pass Turnover (P3.T12),,Capela STEAL (1 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,377,1,41,3,10:32 PM,9:23,,,Capela 1' Running Layup (11 PTS) (Murray 10 AST),68 - 78,10,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,379,9,1,3,10:32 PM,9:23,NUGGETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,380,2,1,3,10:35 PM,9:11,MISS Porter Jr. 25' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,381,4,0,3,10:35 PM,9:08,Jokic REBOUND (Off:1 Def:8),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,382,2,99,3,10:35 PM,9:06,MISS Porter Jr. 4' Cutting Finger Roll Layup Shot,,Murray BLOCK (1 BLK),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1
+0022301130,384,4,0,3,10:35 PM,9:04,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,386,1,86,3,10:35 PM,8:57,Jokic 15' Turnaround Fadeaway (14 PTS),,,68 - 80,12,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,387,1,1,3,10:36 PM,8:40,,,Murray 27' 3PT Jump Shot (10 PTS) (Hunter 2 AST),71 - 80,9,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,389,1,75,3,10:36 PM,8:29,Murray 4' Driving Finger Roll Layup (13 PTS),,,71 - 82,11,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,390,6,2,3,10:36 PM,8:29,,,Hunter S.FOUL (P1.T1) (D.Collins),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,392,3,10,3,10:36 PM,8:29,Murray Free Throw 1 of 1 (14 PTS),,,71 - 83,12,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,393,2,79,3,10:37 PM,8:10,,,MISS Murray 25' 3PT Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,394,4,0,3,10:37 PM,8:07,Jokic REBOUND (Off:1 Def:9),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,395,1,80,3,10:37 PM,8:00,Murray 20' Step Back Jump Shot (16 PTS) (Jokic 8 AST),,,71 - 85,14,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,397,1,1,3,10:37 PM,7:45,,,Bogdanovic 3PT Jump Shot (16 PTS) (Johnson 4 AST),74 - 85,11,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,399,2,1,3,10:38 PM,7:25,MISS Jokic 16' Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,400,4,0,3,10:38 PM,7:23,,,Bogdanovic REBOUND (Off:0 Def:1),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,401,2,41,3,10:38 PM,7:18,Murray BLOCK (1 BLK),,MISS Johnson 3' Running Layup,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,403,4,0,3,10:38 PM,7:13,Jokic REBOUND (Off:1 Def:10),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,404,1,2,3,10:38 PM,7:09,Caldwell-Pope 3PT Running Jump Shot (19 PTS) (Porter Jr. 2 AST),,,74 - 88,14,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,406,2,1,3,10:38 PM,6:55,,,MISS Hunter 24' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,407,4,0,3,10:38 PM,6:52,Porter Jr. REBOUND (Off:0 Def:2),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,408,6,1,3,10:38 PM,6:48,,,Bogdanovic P.FOUL (P4.T2) (D.Collins),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,410,8,0,3,10:38 PM,6:48,,,SUB: Krejci FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,411,8,0,3,10:38 PM,6:48,,,SUB: Mathews FOR Bogdanovic,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,414,2,1,3,10:39 PM,6:45,MISS Porter Jr. 28' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,415,4,0,3,10:39 PM,6:42,,,Krejci REBOUND (Off:0 Def:1),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,416,2,101,3,10:39 PM,6:34,,,MISS Murray 3' Driving Floating Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,417,4,0,3,10:39 PM,6:32,Jokic REBOUND (Off:1 Def:11),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,418,1,50,3,10:39 PM,6:30,Porter Jr. 1' Running Dunk (12 PTS) (Jokic 9 AST),,,74 - 90,16,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,420,1,63,3,10:39 PM,6:13,,,Mathews 15' Fadeaway Jumper (11 PTS) (Capela 3 AST),76 - 90,14,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,422,1,1,3,10:40 PM,5:55,Braun 3PT Jump Shot (5 PTS) (Murray 6 AST),,,76 - 93,17,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,424,9,1,3,10:40 PM,5:54,,,Hawks Timeout: Regular (Reg.3 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,425,8,0,3,10:42 PM,5:54,SUB: Jackson FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,427,1,6,3,10:43 PM,5:41,,,Murray 1' Driving Layup (12 PTS) (Krejci 2 AST),78 - 93,15,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,429,2,86,3,10:43 PM,5:17,MISS Jokic 19' Turnaround Fadeaway Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,430,4,0,3,10:43 PM,5:13,Porter Jr. REBOUND (Off:1 Def:2),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,431,1,72,3,10:43 PM,5:13,Porter Jr. 3' Putback Layup (14 PTS),,,78 - 95,17,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,432,6,1,3,10:43 PM,5:05,Caldwell-Pope P.FOUL (P2.T2) (D.Collins),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,434,8,0,3,10:44 PM,5:05,,,SUB: Fernando FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,436,1,101,3,10:44 PM,4:56,,,Hunter 14' Driving Floating Jump Shot (14 PTS) (Murray 11 AST),80 - 95,15,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,438,6,1,3,10:44 PM,4:36,,,Murray P.FOUL (P2.T3) (S.Twardoski),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,440,8,0,3,10:44 PM,4:36,SUB: Watson FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,442,2,79,3,10:45 PM,4:30,MISS Jackson 14' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,443,4,0,3,10:45 PM,4:27,,,Krejci REBOUND (Off:0 Def:2),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,444,5,1,3,10:45 PM,4:20,Caldwell-Pope STEAL (2 STL),,Murray Bad Pass Turnover (P2.T11),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,446,2,103,3,10:45 PM,4:17,MISS Caldwell-Pope 25' 3PT Running Pull-Up Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,447,4,0,3,10:45 PM,4:12,Jackson REBOUND (Off:2 Def:1),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,448,1,98,3,10:45 PM,4:03,Caldwell-Pope 5' Cutting Layup Shot (21 PTS) (Jokic 10 AST),,,80 - 97,17,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,450,5,2,3,10:45 PM,3:51,Jokic STEAL (2 STL),,Hunter Lost Ball Turnover (P3.T12),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,452,6,1,3,10:45 PM,3:51,,,Hunter P.FOUL (P2.T4) (D.Collins),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,454,1,102,3,10:46 PM,3:37,Jokic 7' Driving Floating Bank Jump Shot (16 PTS) (Jackson 1 AST),,,80 - 99,19,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,456,2,79,3,10:46 PM,3:30,,,MISS Hunter 25' 3PT Pullup Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,457,4,0,3,10:46 PM,3:27,Caldwell-Pope REBOUND (Off:0 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,458,5,1,3,10:46 PM,3:12,Jokic Bad Pass Turnover (P3.T13),,Mathews STEAL (2 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,460,6,1,3,10:46 PM,3:12,Jackson P.FOUL (P3.T3) (D.Collins),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,462,8,0,3,10:47 PM,3:12,SUB: Holiday FOR Braun,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,463,8,0,3,10:47 PM,3:12,,,SUB: Johnson FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,464,8,0,3,10:47 PM,3:12,,,SUB: Bogdanovic FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,468,2,71,3,10:47 PM,2:59,,,MISS Johnson 4' Finger Roll Layup,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,469,4,0,3,10:47 PM,2:57,,,Johnson REBOUND (Off:1 Def:2),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,470,1,97,3,10:47 PM,2:57,,,Johnson Tip Layup Shot (11 PTS),82 - 99,17,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,471,1,78,3,10:48 PM,2:42,Jokic 4' Floating Jump Shot (18 PTS) (Holiday 5 AST),,,82 - 101,19,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,473,1,9,3,10:48 PM,2:30,,,Fernando 1' Driving Dunk (6 PTS) (Murray 12 AST),84 - 101,17,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,475,6,1,3,10:48 PM,2:13,,,Fernando P.FOUL (P3.PN) (S.Twardoski),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,477,3,11,3,10:49 PM,2:13,MISS Jokic Free Throw 1 of 2,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,478,4,1,3,10:49 PM,2:13,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,479,3,12,3,10:49 PM,2:13,Jokic Free Throw 2 of 2 (19 PTS),,,84 - 102,18,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,480,2,98,3,10:49 PM,2:02,Watson BLOCK (3 BLK),,MISS Fernando 2' Cutting Layup Shot,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,482,4,0,3,10:49 PM,1:58,Jokic REBOUND (Off:1 Def:12),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,483,1,2,3,10:49 PM,1:54,Caldwell-Pope 24' 3PT Running Jump Shot (24 PTS) (Watson 1 AST),,,84 - 105,21,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,486,5,45,3,10:50 PM,1:27,,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P5.T13),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022301130,487,1,75,3,10:50 PM,1:14,Jackson 1' Driving Finger Roll Layup (12 PTS) (Jokic 11 AST),,,84 - 107,23,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,489,2,1,3,10:51 PM,1:02,,,MISS Murray 26' 3PT Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,490,4,0,3,10:51 PM,0:59,Jokic REBOUND (Off:1 Def:13),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,491,5,45,3,10:51 PM,0:52,Jokic Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,492,5,40,3,10:51 PM,0:45,,,Bogdanovic Out of Bounds Lost Ball Turnover (P2.T14),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022301130,493,1,1,3,10:52 PM,0:33,Jackson 27' 3PT Jump Shot (15 PTS),,,84 - 110,26,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,494,1,9,3,10:52 PM,0:18,,,Johnson 1' Driving Dunk (13 PTS) (Fernando 1 AST),86 - 110,24,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,496,6,2,3,10:52 PM,0:00,,,Fernando S.FOUL (P4.PN) (S.Twardoski),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,498,3,11,3,10:53 PM,0:00,Jackson Free Throw 1 of 2 (16 PTS),,,86 - 111,25,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,499,3,12,3,10:53 PM,0:00,MISS Jackson Free Throw 2 of 2,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,500,4,0,3,10:53 PM,0:00,,,Fernando REBOUND (Off:2 Def:4),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,501,13,0,3,10:53 PM,0:00,,End of 3rd Period (10:53 PM EST),,86 - 111,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,510,12,0,4,10:56 PM,12:00,,Start of 4th Period (10:56 PM EST),,86 - 111,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,511,2,47,4,10:56 PM,11:40,,,MISS Johnson 5' Turnaround Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,512,4,0,4,10:56 PM,11:37,,,Capela REBOUND (Off:2 Def:5),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,513,1,3,4,10:56 PM,11:36,,,Capela 1' Hook Shot (13 PTS),88 - 111,23,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,514,1,51,4,10:57 PM,11:21,Watson 1' Reverse Dunk (9 PTS) (Jackson 2 AST),,,88 - 113,25,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,516,2,6,4,10:57 PM,11:04,Watson BLOCK (4 BLK),,MISS Bufkin 4' Driving Layup,,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,518,4,0,4,10:57 PM,11:01,Strawther REBOUND (Off:0 Def:1),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,519,2,79,4,10:57 PM,10:56,MISS Strawther 26' 3PT Pullup Jump Shot,,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,520,4,0,4,10:57 PM,10:53,,,Johnson REBOUND (Off:1 Def:3),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,521,2,41,4,10:57 PM,10:48,,,MISS Bogdanovic 2' Running Layup,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,522,4,0,4,10:57 PM,10:46,Strawther REBOUND (Off:0 Def:2),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,523,1,5,4,10:58 PM,10:24,Watson 3' Layup (11 PTS) (Jackson 3 AST),,,88 - 115,27,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,525,2,101,4,10:58 PM,10:07,,,MISS Bogdanovic 3' Driving Floating Jump Shot,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,526,4,0,4,10:58 PM,10:06,,,Bogdanovic REBOUND (Off:1 Def:1),,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,527,1,97,4,10:58 PM,10:06,,,Bogdanovic Tip Layup Shot (18 PTS),90 - 115,25,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,528,6,1,4,10:58 PM,9:53,,,Bufkin P.FOUL (P1.T1) (P.Fraher),,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,530,2,79,4,10:59 PM,9:40,MISS Jackson 26' 3PT Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,531,4,0,4,10:59 PM,9:37,,,Johnson REBOUND (Off:1 Def:4),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,532,1,86,4,10:59 PM,9:24,,,Johnson 14' Turnaround Fadeaway (15 PTS) (Bufkin 2 AST),92 - 115,23,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,534,2,1,4,10:59 PM,9:07,MISS Strawther 26' 3PT Jump Shot,,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,535,4,0,4,10:59 PM,9:04,,,Krejci REBOUND (Off:0 Def:3),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,536,5,1,4,11:00 PM,8:47,Nnaji STEAL (1 STL),,Johnson Bad Pass Turnover (P6.T15),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,538,5,2,4,11:00 PM,8:43,Strawther Lost Ball Turnover (P2.T15),,Krejci STEAL (1 STL),,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,540,6,2,4,11:00 PM,8:41,Holiday S.FOUL (P2.T1) (P.Fraher),,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,542,3,11,4,11:00 PM,8:41,,,Capela Free Throw 1 of 2 (14 PTS),93 - 115,22,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,543,8,0,4,11:00 PM,8:41,,,SUB: Murray FOR Bogdanovic,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,545,3,12,4,11:01 PM,8:41,,,Capela Free Throw 2 of 2 (15 PTS),94 - 115,21,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,546,2,43,4,11:01 PM,8:30,MISS Strawther 1' Alley Oop Layup,,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,547,4,0,4,11:01 PM,8:28,,,Capela REBOUND (Off:2 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,548,1,50,4,11:01 PM,8:24,,,Johnson 1' Running Dunk (17 PTS),96 - 115,19,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,549,9,1,4,11:01 PM,8:24,NUGGETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,550,8,0,4,11:04 PM,8:24,SUB: Porter Jr. FOR Strawther,,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,552,1,101,4,11:04 PM,8:14,Jackson 9' Driving Floating Jump Shot (18 PTS),,,96 - 117,21,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,553,2,1,4,11:04 PM,7:59,,,MISS Bufkin 25' 3PT Jump Shot,,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,554,4,0,4,11:04 PM,7:57,Jackson REBOUND (Off:2 Def:2),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,555,2,1,4,11:05 PM,7:47,MISS Porter Jr. 25' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,556,4,0,4,11:05 PM,7:43,,,Johnson REBOUND (Off:1 Def:5),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,557,2,85,4,11:05 PM,7:31,,,MISS Johnson 3' Turnaround Bank Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,558,4,0,4,11:05 PM,7:30,Nnaji REBOUND (Off:0 Def:3),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,559,1,79,4,11:05 PM,7:21,Watson 16' Pullup Jump Shot (13 PTS),,,96 - 119,23,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,560,1,98,4,11:05 PM,7:09,,,Capela 3' Cutting Layup Shot (17 PTS) (Bufkin 3 AST),98 - 119,21,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,562,6,2,4,11:05 PM,7:09,Porter Jr. S.FOUL (P4.T2) (S.Twardoski),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,564,8,0,4,11:06 PM,7:09,,,SUB: Hunter FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,565,8,0,4,11:06 PM,7:09,,,SUB: Mathews FOR Bufkin,,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,568,3,10,4,11:06 PM,7:09,,,MISS Capela Free Throw 1 of 1,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,569,4,0,4,11:06 PM,7:07,Watson REBOUND (Off:1 Def:5),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,570,1,86,4,11:06 PM,6:44,Holiday 3PT Turnaround Fadeaway (8 PTS),,,98 - 122,24,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,571,6,2,4,11:07 PM,6:25,Watson S.FOUL (P2.T3) (D.Collins),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,573,3,11,4,11:07 PM,6:25,,,Hunter Free Throw 1 of 2 (15 PTS),99 - 122,23,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,574,8,0,4,11:07 PM,6:25,,,SUB: Johnson FOR Krejci,,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,576,3,12,4,11:08 PM,6:25,,,Hunter Free Throw 2 of 2 (16 PTS),100 - 122,22,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,577,2,5,4,11:08 PM,6:10,MISS Nnaji 5' Layup,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,578,4,0,4,11:08 PM,6:07,,,Capela REBOUND (Off:2 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,579,2,79,4,11:08 PM,5:59,,,MISS Murray 12' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,580,4,0,4,11:08 PM,5:56,Jackson REBOUND (Off:2 Def:3),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,581,5,40,4,11:08 PM,5:50,Jackson Out of Bounds Lost Ball Turnover (P1.T16),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022301130,582,6,2,4,11:09 PM,5:39,Watson S.FOUL (P3.T4) (S.Twardoski),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,584,3,11,4,11:09 PM,5:39,,,Hunter Free Throw 1 of 2 (17 PTS),101 - 122,21,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,585,3,12,4,11:09 PM,5:39,,,Hunter Free Throw 2 of 2 (18 PTS),102 - 122,20,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,586,1,80,4,11:10 PM,5:28,Porter Jr. 26' 3PT Step Back Jump Shot (17 PTS) (Nnaji 1 AST),,,102 - 125,23,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,588,2,80,4,11:10 PM,5:11,,,MISS Hunter 27' 3PT Step Back Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,589,4,0,4,11:10 PM,5:08,,,Capela REBOUND (Off:3 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,590,2,1,4,11:10 PM,4:57,,,MISS Johnson 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,591,4,0,4,11:10 PM,4:53,,,Capela REBOUND (Off:4 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,592,6,2,4,11:10 PM,4:53,Nnaji S.FOUL (P1.PN) (D.Collins),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,594,3,11,4,11:11 PM,4:53,,,Capela Free Throw 1 of 2 (18 PTS),103 - 125,22,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,595,3,12,4,11:11 PM,4:53,,,Capela Free Throw 2 of 2 (19 PTS),104 - 125,21,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,596,1,1,4,11:11 PM,4:44,Porter Jr. 26' 3PT Jump Shot (20 PTS) (Holiday 6 AST),,,104 - 128,24,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,598,6,2,4,11:11 PM,4:34,Nnaji S.FOUL (P2.PN) (D.Collins),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022301130,600,3,11,4,11:12 PM,4:34,,,Murray Free Throw 1 of 2 (13 PTS),105 - 128,23,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,601,8,0,4,11:12 PM,4:34,,,SUB: Bogdanovic FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,603,3,12,4,11:12 PM,4:34,,,Murray Free Throw 2 of 2 (14 PTS),106 - 128,22,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,604,1,1,4,11:12 PM,4:18,Nnaji 26' 3PT Jump Shot (5 PTS) (Watson 2 AST),,,106 - 131,25,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,606,2,79,4,11:13 PM,4:07,,,MISS Murray 26' 3PT Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,607,4,0,4,11:13 PM,4:05,,,Capela REBOUND (Off:5 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,608,2,1,4,11:13 PM,4:01,,,MISS Murray 14' Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,609,4,0,4,11:13 PM,3:57,Nnaji REBOUND (Off:0 Def:4),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,612,8,0,4,11:13 PM,3:43,SUB: Tyson FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,613,8,0,4,11:13 PM,3:43,,,SUB: Gueye FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,614,8,0,4,11:13 PM,3:43,,,SUB: Fernando FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,615,8,0,4,11:13 PM,3:43,,,SUB: Krejci FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,616,8,0,4,11:13 PM,3:43,,,SUB: Bufkin FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,622,2,1,4,11:14 PM,3:38,MISS Watson 25' 3PT Jump Shot,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,623,4,0,4,11:14 PM,3:35,,,Bufkin REBOUND (Off:0 Def:2),,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,624,2,1,4,11:14 PM,3:27,,,MISS Gueye 24' 3PT Jump Shot,,,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,625,4,0,4,11:14 PM,3:25,,,Krejci REBOUND (Off:1 Def:3),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,626,2,72,4,11:14 PM,3:23,Watson BLOCK (5 BLK),,MISS Krejci 1' Putback Layup,,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,628,4,0,4,11:14 PM,3:20,Nnaji REBOUND (Off:0 Def:5),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,629,9,1,4,11:14 PM,3:15,NUGGETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022301130,630,8,0,4,11:16 PM,3:15,SUB: Pickett FOR Jackson,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,631,8,0,4,11:16 PM,3:15,SUB: Huff FOR Watson,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1630643,Jay Huff,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,632,8,0,4,11:16 PM,3:15,SUB: Strawther FOR Nnaji,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022301130,633,8,0,4,11:16 PM,3:15,,,SUB: Mathews FOR Bogdanovic,,,5,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022301130,638,2,1,4,11:17 PM,3:10,MISS Tyson 25' 3PT Jump Shot,,,,,4,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,639,4,0,4,11:17 PM,3:07,,,Bufkin REBOUND (Off:0 Def:3),,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,640,1,79,4,11:17 PM,2:53,,,Bufkin 17' Pullup Jump Shot (2 PTS) (Fernando 2 AST),108 - 131,23,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022301130,642,2,1,4,11:17 PM,2:37,MISS Pickett 25' 3PT Jump Shot,,,,,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,643,4,0,4,11:18 PM,2:34,,,Krejci REBOUND (Off:1 Def:4),,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,644,2,1,4,11:18 PM,2:27,,,MISS Gueye 3PT Jump Shot,,,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,645,4,0,4,11:18 PM,2:24,Strawther REBOUND (Off:0 Def:3),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,646,6,2,4,11:18 PM,2:19,,,Fernando S.FOUL (P5.T2) (D.Collins),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022301130,648,3,11,4,11:18 PM,2:19,Strawther Free Throw 1 of 2 (4 PTS),,,108 - 132,24,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,649,3,12,4,11:18 PM,2:19,Strawther Free Throw 2 of 2 (5 PTS),,,108 - 133,25,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,650,2,80,4,11:19 PM,2:07,,,MISS Bufkin 26' 3PT Step Back Jump Shot,,,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,651,4,0,4,11:19 PM,2:03,,,Gueye REBOUND (Off:1 Def:0),,,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,652,5,1,4,11:19 PM,2:03,Pickett STEAL (1 STL),,Gueye Bad Pass Turnover (P1.T16),,,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,654,1,2,4,11:19 PM,1:58,Pickett 26' 3PT Running Jump Shot (3 PTS) (Strawther 2 AST),,,108 - 136,28,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,656,2,5,4,11:19 PM,1:44,Huff BLOCK (1 BLK),,MISS Fernando 4' Layup,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1630643,Jay Huff,1610612743.0,Denver,Nuggets,DEN,1
+0022301130,658,4,0,4,11:19 PM,1:44,Pickett REBOUND (Off:0 Def:1),,,,,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,659,1,75,4,11:19 PM,1:34,Huff 2' Driving Finger Roll Layup (2 PTS) (Pickett 1 AST),,,108 - 138,30,4,1630643,Jay Huff,1610612743.0,Denver,Nuggets,DEN,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,661,2,80,4,11:20 PM,1:16,,,MISS Krejci 26' 3PT Step Back Jump Shot,,,5,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,662,4,0,4,11:20 PM,1:13,Strawther REBOUND (Off:0 Def:4),,,,,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,663,1,9,4,11:20 PM,1:06,Huff 1' Driving Dunk (4 PTS) (Strawther 3 AST),,,108 - 140,32,4,1630643,Jay Huff,1610612743.0,Denver,Nuggets,DEN,4,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,665,1,79,4,11:20 PM,0:54,,,Bufkin 13' Pullup Jump Shot (4 PTS),110 - 140,30,5,1641723,Kobe Bufkin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,666,1,6,4,11:20 PM,0:42,Tyson 6' Driving Layup (2 PTS) (Pickett 2 AST),,,110 - 142,32,4,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022301130,668,2,79,4,11:21 PM,0:28,,,MISS Gueye 13' Pullup Jump Shot,,,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022301130,669,4,0,4,11:21 PM,0:25,Pickett REBOUND (Off:0 Def:2),,,,,4,1629618,Jalen Pickett,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022301130,670,5,11,4,11:21 PM,0:02,NUGGETS Turnover: Shot Clock (T#17),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022301130,671,13,0,4,11:21 PM,0:00,,End of 4th Period (11:21 PM EST),,110 - 142,32,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

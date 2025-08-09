@@ -1,0 +1,402 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022400948,2,12,0,1,8:14 PM,12:00,,Start of 1st Period (8:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,4,10,0,1,8:14 PM,12:00,Jump Ball Ware vs. Zubac: Tip to Herro,,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1
+0022400948,7,2,101,1,8:14 PM,11:37,MISS Wiggins 8' Driving Floating Jump Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,8,4,0,1,8:15 PM,11:34,Wiggins REBOUND (Off:1 Def:0),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,9,1,101,1,8:15 PM,11:31,Herro 10' Driving Floating Jump Shot (2 PTS) (Wiggins 1 AST),,,0 - 2,2,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,11,1,1,1,8:15 PM,11:12,,,Bogdanović 25' 3PT Jump Shot (3 PTS),3 - 2,-1,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,12,2,101,1,8:15 PM,10:54,MISS Ware 10' Driving Floating Jump Shot,,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,13,4,0,1,8:15 PM,10:52,,,Harden REBOUND (Off:0 Def:1),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,14,1,79,1,8:16 PM,10:34,,,Bogdanović 20' Pullup Jump Shot (5 PTS) (Harden 1 AST),5 - 2,-3,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,16,2,6,1,8:16 PM,10:13,MISS Wiggins 7' Driving Layup,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,17,4,0,1,8:16 PM,10:11,,,Harden REBOUND (Off:0 Def:2),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,18,2,102,1,8:16 PM,10:03,,,MISS Harden 9' Driving Floating Bank Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,19,4,0,1,8:16 PM,10:01,,,Zubac REBOUND (Off:1 Def:0),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,20,1,87,1,8:16 PM,10:00,,,Zubac 1' Putback Dunk (2 PTS),7 - 2,-5,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,21,1,101,1,8:16 PM,9:45,Herro 14' Driving Floating Jump Shot (4 PTS),,,7 - 4,-3,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,22,1,85,1,8:17 PM,9:24,,,Harden 7' Turnaround Bank Shot (2 PTS),9 - 4,-5,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,23,1,1,1,8:17 PM,9:10,Mitchell 25' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),,,9 - 7,-2,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,25,5,1,1,8:17 PM,9:03,Mitchell STEAL (1 STL),,Batum Bad Pass Turnover (P1.T1),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,27,1,6,1,8:17 PM,8:58,Mitchell 2' Driving Layup (5 PTS),,,9 - 9,TIE,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,29,6,2,1,8:18 PM,8:37,Mitchell S.FOUL (P1.T1) (B.Barnaky),,,,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,31,3,13,1,8:18 PM,8:37,,,Harden Free Throw 1 of 3 (3 PTS),10 - 9,-1,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,32,3,14,1,8:19 PM,8:37,,,MISS Harden Free Throw 2 of 3,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,33,4,1,1,8:19 PM,8:37,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,34,3,15,1,8:19 PM,8:37,,,Harden Free Throw 3 of 3 (4 PTS),11 - 9,-2,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,35,5,1,1,8:19 PM,8:23,Wiggins Bad Pass Turnover (P1.T1),,Dunn STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,37,1,104,1,8:20 PM,8:03,,,Harden 25' 3PT Step Back Bank Jump Shot (7 PTS),14 - 9,-5,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,38,2,1,1,8:20 PM,7:49,MISS Adebayo 26' 3PT Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,39,4,0,1,8:20 PM,7:47,,,Bogdanović REBOUND (Off:0 Def:1),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,40,2,6,1,8:20 PM,7:29,Wiggins BLOCK (1 BLK),,MISS Harden 4' Driving Layup,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,1
+0022400948,45,4,0,1,8:20 PM,7:29,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,42,10,0,1,8:21 PM,7:29,Jump Ball Wiggins vs. Harden: Tip to Bogdanović,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,1
+0022400948,46,1,75,1,8:21 PM,7:24,,,Bogdanović 1' Driving Finger Roll Layup (7 PTS) (Harden 2 AST),16 - 9,-7,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,48,2,1,1,8:21 PM,6:57,MISS Herro 25' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,49,4,0,1,8:21 PM,6:54,Ware REBOUND (Off:1 Def:0),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,50,5,1,1,8:22 PM,6:46,Mitchell Bad Pass Turnover (P1.T2),,Dunn STEAL (2 STL),,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,52,5,1,1,8:22 PM,6:40,Adebayo STEAL (1 STL),,Bogdanović Bad Pass Turnover (P1.T2),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,54,2,103,1,8:22 PM,6:33,MISS Herro 25' 3PT Running Pull-Up Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,55,4,0,1,8:22 PM,6:30,,,Harden REBOUND (Off:0 Def:3),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,56,6,2,1,8:22 PM,6:21,Wiggins S.FOUL (P1.T2) (B.Barnaky),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,58,9,1,1,8:22 PM,6:21,HEAT Timeout: Regular (Full 1 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,59,8,0,1,8:25 PM,6:21,SUB: Highsmith FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,61,7,1,1,8:26 PM,6:21,,,Clippers Violation: Delay of game Violation,,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0022400948,62,3,11,1,8:26 PM,6:21,,,Harden Free Throw 1 of 2 (8 PTS),17 - 9,-8,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,63,3,12,1,8:26 PM,6:21,,,Harden Free Throw 2 of 2 (9 PTS),18 - 9,-9,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,64,6,17,1,8:26 PM,6:06,,,Clippers T.Foul (Def. 3 Sec Bogdanović ) (B.Barnaky),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022400948,65,3,16,1,8:27 PM,6:06,Herro Free Throw Technical (5 PTS),,,18 - 10,-8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,66,5,1,1,8:27 PM,5:58,Ware Bad Pass Turnover (P1.T3),,Dunn STEAL (3 STL),,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,68,1,6,1,8:27 PM,5:41,,,Zubac 1' Driving Layup (4 PTS),20 - 10,-10,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,69,1,101,1,8:28 PM,5:18,Herro 7' Driving Floating Jump Shot (7 PTS),,,20 - 12,-8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,70,2,80,1,8:28 PM,5:03,,,MISS Batum 24' 3PT Step Back Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,71,4,0,1,8:28 PM,4:58,Ware REBOUND (Off:1 Def:1),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,72,6,2,1,8:28 PM,4:54,,,Dunn S.FOUL (P1.T1) (M.Davis),,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,74,3,11,1,8:29 PM,4:54,Mitchell Free Throw 1 of 2 (6 PTS),,,20 - 13,-7,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,77,3,12,1,8:29 PM,4:54,MISS Mitchell Free Throw 2 of 2,,,,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,75,8,0,1,8:29 PM,4:54,,,SUB: Jones Jr. FOR Dunn,,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,78,4,0,1,8:29 PM,4:53,,,Bogdanović REBOUND (Off:0 Def:2),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,79,2,1,1,8:29 PM,4:40,,,MISS Batum 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,80,4,0,1,8:29 PM,4:37,,,Zubac REBOUND (Off:2 Def:0),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,81,1,97,1,8:30 PM,4:36,,,Zubac Tip Layup Shot (6 PTS),22 - 13,-9,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,82,2,1,1,8:30 PM,4:26,MISS Wiggins 24' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,83,4,0,1,8:30 PM,4:21,Ware REBOUND (Off:2 Def:1),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,84,5,2,1,8:30 PM,4:17,Highsmith Lost Ball Turnover (P1.T4),,Batum STEAL (1 STL),,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,86,6,1,1,8:30 PM,4:08,Highsmith P.FOUL (P1.T3) (B.Barnaky),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,88,8,0,1,8:30 PM,4:08,SUB: Robinson FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,89,8,0,1,8:30 PM,4:08,,,SUB: Coffey FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,92,8,0,1,8:31 PM,4:08,,,SUB: Eubanks FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,94,1,52,1,8:31 PM,4:01,,,Jones Jr. Alley Oop Dunk (2 PTS) (Bogdanović 1 AST),24 - 13,-11,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,96,5,40,1,8:31 PM,3:49,Wiggins Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022400948,97,1,108,1,8:31 PM,3:40,,,Eubanks Cutting Dunk Shot (2 PTS) (Bogdanović 2 AST),26 - 13,-13,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,99,9,1,1,8:31 PM,3:40,HEAT Timeout: Regular (Full 2 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,100,8,0,1,8:34 PM,3:40,SUB: Adebayo FOR Ware,,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,102,2,101,1,8:35 PM,3:19,MISS Herro 9' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,103,4,0,1,8:35 PM,3:16,,,Jones Jr. REBOUND (Off:0 Def:1),,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,104,2,1,1,8:35 PM,3:05,Wiggins BLOCK (2 BLK),,MISS Coffey 3PT Jump Shot,,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,1
+0022400948,106,4,0,1,8:35 PM,3:03,Herro REBOUND (Off:0 Def:1),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,107,2,1,1,8:35 PM,2:56,MISS Highsmith 3PT Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,108,4,0,1,8:35 PM,2:53,,,Jones Jr. REBOUND (Off:0 Def:2),,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,109,2,80,1,8:35 PM,2:43,,,MISS Harden 24' 3PT Step Back Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,110,4,0,1,8:35 PM,2:40,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400948,112,6,2,1,8:36 PM,2:17,,,Eubanks S.FOUL (P1.T2) (M.Davis),,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,114,3,11,1,8:36 PM,2:17,Adebayo Free Throw 1 of 2 (1 PTS),,,26 - 14,-12,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,115,8,0,1,8:36 PM,2:17,SUB: Rozier FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,116,8,0,1,8:36 PM,2:17,,,SUB: Mills FOR Bogdanović,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,201988,Patty Mills,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,119,3,12,1,8:37 PM,2:17,Adebayo Free Throw 2 of 2 (2 PTS),,,26 - 15,-11,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,120,2,6,1,8:37 PM,1:59,,,MISS Coffey 2' Driving Layup,,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,121,4,0,1,8:37 PM,1:57,Herro REBOUND (Off:0 Def:2),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,122,1,75,1,8:37 PM,1:49,Rozier 3' Driving Finger Roll Layup (2 PTS) (Herro 1 AST),,,26 - 17,-9,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,124,1,52,1,8:38 PM,1:37,,,Eubanks 1' Alley Oop Dunk (4 PTS) (Harden 3 AST),28 - 17,-11,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,126,1,79,1,8:38 PM,1:27,Robinson 25' 3PT Pullup Jump Shot (3 PTS) (Herro 2 AST),,,28 - 20,-8,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,128,5,1,1,8:38 PM,1:09,Adebayo STEAL (2 STL),,Harden Bad Pass Turnover (P1.T3),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,130,2,79,1,8:38 PM,0:55,MISS Robinson 3PT Pullup Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,135,4,0,1,8:38 PM,0:55,Rozier REBOUND (Off:1 Def:0),,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,132,2,97,1,8:38 PM,0:50,MISS Rozier Tip Layup Shot,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,133,4,0,1,8:38 PM,0:48,,,Eubanks REBOUND (Off:0 Def:1),,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,137,6,1,1,8:39 PM,0:34,Highsmith P.FOUL (P2.T4) (M.Davis),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,139,8,0,1,8:39 PM,0:34,,,SUB: Brown FOR Eubanks,,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,5,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,141,2,101,1,8:39 PM,0:20,,,MISS Brown 12' Driving Floating Jump Shot,,,5,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,142,4,0,1,8:39 PM,0:18,,,Brown REBOUND (Off:1 Def:0),,,5,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,143,5,1,1,8:39 PM,0:16,Highsmith STEAL (1 STL),,Brown Bad Pass Turnover (P1.T4),,,5,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,146,5,40,1,8:40 PM,0:04,Herro Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022400948,147,6,2,1,8:40 PM,0:00,Highsmith S.FOUL (P3.PN) (M.Davis),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,149,18,0,1,8:40 PM,0:00,,Instant Replay1st Period (8:40 PM EST),,28 - 20,-8,0,147,Jalen Rose,,,,,0,0,,,,,,1,0,,,,,,0
+0022400948,150,3,13,1,8:42 PM,0:00,,,Harden Free Throw 1 of 3 (10 PTS),29 - 20,-9,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,151,3,14,1,8:42 PM,0:00,,,Harden Free Throw 2 of 3 (11 PTS),30 - 20,-10,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,152,3,15,1,8:42 PM,0:00,,,MISS Harden Free Throw 3 of 3,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,153,4,0,1,8:42 PM,0:00,Adebayo REBOUND (Off:0 Def:1),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,154,13,0,1,8:43 PM,0:00,,End of 1st Period (8:43 PM EST),,30 - 20,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400948,165,12,0,2,8:46 PM,12:00,,Start of 2nd Period (8:46 PM EST),,30 - 20,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,166,1,101,2,8:46 PM,11:43,,,Dunn 8' Driving Floating Jump Shot (2 PTS),32 - 20,-12,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,167,5,1,2,8:47 PM,11:19,Robinson Bad Pass Turnover (P1.T7),,Jones Jr. STEAL (1 STL),,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,169,5,1,2,8:47 PM,11:08,Robinson STEAL (1 STL),,Jones Jr. Bad Pass Turnover (P1.T5),,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,171,1,76,2,8:47 PM,11:02,Rozier 1' Running Finger Roll Layup (4 PTS),,,32 - 22,-10,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,172,1,86,2,8:47 PM,10:45,,,Coffey 16' Turnaround Fadeaway (2 PTS),34 - 22,-12,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,173,1,43,2,8:47 PM,10:25,Adebayo 3' Alley Oop Layup (4 PTS) (Rozier 1 AST),,,34 - 24,-10,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,175,1,1,2,8:48 PM,10:17,,,Batum 25' 3PT Jump Shot (3 PTS) (Coffey 1 AST),37 - 24,-13,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,177,1,79,2,8:48 PM,9:59,Robinson 26' 3PT Pullup Jump Shot (6 PTS) (Adebayo 2 AST),,,37 - 27,-10,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,179,6,2,2,8:48 PM,9:42,Adebayo S.FOUL (P1.T1) (M.Davis),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,181,3,11,2,8:49 PM,9:42,,,Zubac Free Throw 1 of 2 (7 PTS),38 - 27,-11,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,182,3,12,2,8:49 PM,9:42,,,MISS Zubac Free Throw 2 of 2,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,183,4,0,2,8:49 PM,9:40,Jaquez Jr. REBOUND (Off:0 Def:1),,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,184,1,2,2,8:49 PM,9:35,Robinson 25' 3PT Running Jump Shot (9 PTS) (Rozier 2 AST),,,38 - 30,-8,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,186,6,1,2,8:49 PM,9:21,Adebayo P.FOUL (P2.T2) (M.Boland),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,188,5,1,2,8:50 PM,9:20,Larsson STEAL (1 STL),,Jones Jr. Bad Pass Turnover (P2.T6),,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,190,6,2,2,8:50 PM,9:18,,,Dunn S.FOUL (P2.T1) (M.Boland),,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,192,3,11,2,8:51 PM,9:18,Larsson Free Throw 1 of 2 (1 PTS),,,38 - 31,-7,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,193,8,0,2,8:51 PM,9:18,,,SUB: Bogdanović FOR Coffey,,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,195,3,12,2,8:51 PM,9:18,Larsson Free Throw 2 of 2 (2 PTS),,,38 - 32,-6,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,196,2,1,2,8:51 PM,9:06,,,MISS Dunn 25' 3PT Jump Shot,,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,197,4,0,2,8:51 PM,9:02,Adebayo REBOUND (Off:0 Def:2),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,198,2,79,2,8:51 PM,8:56,MISS Adebayo 12' Pullup Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,199,4,0,2,8:51 PM,8:52,,,Dunn REBOUND (Off:0 Def:1),,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,200,1,101,2,8:52 PM,8:47,,,Dunn 9' Driving Floating Jump Shot (4 PTS),40 - 32,-8,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,202,1,1,2,8:52 PM,8:31,Jaquez Jr. 24' 3PT Jump Shot (3 PTS) (Rozier 3 AST),,,40 - 35,-5,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,204,1,58,2,8:52 PM,8:14,,,Zubac 8' Turnaround Hook Shot (9 PTS) (Dunn 1 AST),42 - 35,-7,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,206,2,1,2,8:52 PM,7:59,MISS Robinson 25' 3PT Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,207,4,0,2,8:52 PM,7:56,,,Bogdanović REBOUND (Off:0 Def:3),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,208,5,2,2,8:52 PM,7:51,Larsson STEAL (2 STL),,Bogdanović Lost Ball Turnover (P2.T7),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,210,1,79,2,8:53 PM,7:45,Rozier 25' 3PT Pullup Jump Shot (7 PTS) (Larsson 1 AST),,,42 - 38,-4,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,212,9,1,2,8:53 PM,7:43,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,213,8,0,2,8:55 PM,7:43,,,SUB: Harden FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,215,1,1,2,8:56 PM,7:26,,,Batum 3PT Jump Shot (6 PTS) (Dunn 2 AST),45 - 38,-7,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,217,2,63,2,8:57 PM,6:59,MISS Rozier 12' Fadeaway Jumper,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,218,4,0,2,8:57 PM,6:57,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,219,5,11,2,8:57 PM,6:57,HEAT Turnover: Shot Clock (T#8),,,,,2,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400948,220,1,101,2,8:57 PM,6:34,,,Harden 6' Driving Floating Jump Shot (13 PTS),47 - 38,-9,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,221,2,1,2,8:58 PM,6:11,MISS Rozier 24' 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,222,4,0,2,8:58 PM,6:09,,,Bogdanović REBOUND (Off:0 Def:4),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,223,1,58,2,8:58 PM,5:58,,,Zubac 2' Turnaround Hook Shot (11 PTS) (Harden 4 AST),49 - 38,-11,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,225,9,1,2,8:58 PM,5:57,HEAT Timeout: Regular (Full 3 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,226,8,0,2,9:00 PM,5:57,SUB: Herro FOR Jaquez Jr.,,,,,4,1631170,Jaime Jaquez Jr.,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,227,8,0,2,9:00 PM,5:57,SUB: Ware FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,228,8,0,2,9:00 PM,5:57,SUB: Wiggins FOR Robinson,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,232,1,80,2,9:01 PM,5:37,Wiggins 25' 3PT Step Back Jump Shot (3 PTS) (Rozier 4 AST),,,49 - 41,-8,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,234,6,4,2,9:02 PM,5:26,,,Zubac OFF.Foul (P1) (B.Barnaky),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,236,5,37,2,9:02 PM,5:26,,,Zubac Offensive Foul Turnover (P1.T8),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022400948,237,2,101,2,9:02 PM,5:03,MISS Larsson 10' Driving Floating Jump Shot,,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,238,4,0,2,9:02 PM,5:00,,,Zubac REBOUND (Off:2 Def:1),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,239,2,58,2,9:02 PM,4:51,,,MISS Zubac 4' Turnaround Hook Shot,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,240,4,0,2,9:02 PM,4:48,Ware REBOUND (Off:2 Def:2),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,241,2,99,2,9:03 PM,4:39,MISS Ware 2' Cutting Finger Roll Layup Shot,,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,242,4,0,2,9:03 PM,4:39,,,Bogdanović REBOUND (Off:0 Def:5),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,243,1,50,2,9:03 PM,4:33,,,Zubac 1' Running Dunk (13 PTS) (Batum 1 AST),51 - 41,-10,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,245,2,1,2,9:03 PM,4:06,MISS Herro 25' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,246,4,0,2,9:03 PM,4:03,,,Batum REBOUND (Off:0 Def:1),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,247,2,3,2,9:03 PM,3:55,,,MISS Zubac 6' Hook Shot,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,248,4,0,2,9:03 PM,3:52,,,Zubac REBOUND (Off:3 Def:1),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,249,1,72,2,9:03 PM,3:51,,,Zubac 5' Putback Layup (15 PTS),53 - 41,-12,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,250,1,78,2,9:04 PM,3:35,Ware 13' Floating Jump Shot (2 PTS) (Wiggins 2 AST),,,53 - 43,-10,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,252,1,6,2,9:04 PM,3:15,,,Harden 4' Driving Layup (15 PTS),55 - 43,-12,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,253,1,108,2,9:04 PM,3:00,Wiggins 1' Cutting Dunk Shot (5 PTS) (Ware 1 AST),,,55 - 45,-10,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,255,2,80,2,9:05 PM,2:33,,,MISS Harden 25' 3PT Step Back Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,256,4,0,2,9:05 PM,2:30,Herro REBOUND (Off:0 Def:3),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,257,1,75,2,9:05 PM,2:24,Herro 3' Driving Finger Roll Layup (9 PTS),,,55 - 47,-8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,258,5,1,2,9:05 PM,2:03,Larsson STEAL (3 STL),,Zubac Bad Pass Turnover (P2.T9),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,260,2,41,2,9:05 PM,1:59,MISS Rozier 3' Running Layup,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,261,4,0,2,9:05 PM,1:59,Wiggins REBOUND (Off:2 Def:0),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,262,1,72,2,9:05 PM,1:59,Wiggins 1' Putback Layup (7 PTS),,,55 - 49,-6,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,263,6,2,2,9:05 PM,1:59,,,Harden S.FOUL (P1.T2) (M.Boland),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,265,9,1,2,9:06 PM,1:59,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,266,8,0,2,9:07 PM,1:59,SUB: Adebayo FOR Rozier,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,267,8,0,2,9:07 PM,1:59,SUB: Robinson FOR Ware,,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,268,8,0,2,9:07 PM,1:59,,,SUB: Coffey FOR Dunn,,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,269,8,0,2,9:07 PM,1:59,,,SUB: Jones Jr. FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,276,7,1,2,9:08 PM,1:59,HEAT Violation: Delay of game Violation,,,,,2,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0022400948,274,3,10,2,9:08 PM,1:59,Wiggins Free Throw 1 of 1 (8 PTS),,,55 - 50,-5,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,277,6,2,2,9:08 PM,1:47,Larsson S.FOUL (P1.T3) (M.Davis),,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,279,3,11,2,9:08 PM,1:47,,,Bogdanović Free Throw 1 of 2 (8 PTS),56 - 50,-6,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,280,3,12,2,9:09 PM,1:47,,,Bogdanović Free Throw 2 of 2 (9 PTS),57 - 50,-7,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,281,5,1,2,9:09 PM,1:32,Wiggins Bad Pass Turnover (P3.T9),,Harden STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,283,5,1,2,9:09 PM,1:12,Herro STEAL (1 STL),,Harden Bad Pass Turnover (P2.T10),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,285,1,50,2,9:09 PM,1:08,Herro 1' Running Dunk (11 PTS),,,57 - 52,-5,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,286,2,80,2,9:10 PM,0:54,,,MISS Harden 15' Step Back Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,287,4,0,2,9:10 PM,0:51,Adebayo REBOUND (Off:0 Def:3),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,288,2,101,2,9:10 PM,0:41,MISS Herro 12' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,289,4,0,2,9:10 PM,0:39,,,Zubac REBOUND (Off:3 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,290,2,41,2,9:10 PM,0:33,Wiggins BLOCK (3 BLK),,MISS Harden 1' Running Layup,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,1
+0022400948,292,4,0,2,9:10 PM,0:30,Robinson REBOUND (Off:0 Def:1),,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,293,2,80,2,9:10 PM,0:13,MISS Wiggins 26' 3PT Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,294,4,0,2,9:10 PM,0:09,,,Zubac REBOUND (Off:3 Def:3),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,295,5,1,2,9:11 PM,0:00,Adebayo STEAL (3 STL),,Bogdanović Bad Pass Turnover (P3.T11),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,297,13,0,2,9:11 PM,0:00,,End of 2nd Period (9:11 PM EST),,57 - 52,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400948,306,12,0,3,9:26 PM,12:00,,Start of 3rd Period (9:26 PM EST),,57 - 52,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,307,2,75,3,9:26 PM,11:42,,,MISS Harden 5' Driving Finger Roll Layup,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,308,4,0,3,9:26 PM,11:40,Highsmith REBOUND (Off:0 Def:1),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,309,1,76,3,9:26 PM,11:36,Wiggins 2' Running Finger Roll Layup (10 PTS) (Highsmith 1 AST),,,57 - 54,-3,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,311,1,1,3,9:27 PM,11:24,,,Bogdanović 25' 3PT Jump Shot (12 PTS) (Dunn 3 AST),60 - 54,-6,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,313,1,80,3,9:27 PM,11:05,Wiggins 16' Step Back Jump Shot (12 PTS),,,60 - 56,-4,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,314,1,75,3,9:27 PM,10:48,,,Bogdanović 4' Driving Finger Roll Layup (14 PTS),62 - 56,-6,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,315,2,79,3,9:27 PM,10:35,MISS Adebayo 15' Pullup Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,316,4,0,3,9:28 PM,10:31,,,Bogdanović REBOUND (Off:0 Def:6),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,317,2,78,3,9:28 PM,10:21,,,MISS Zubac 10' Floating Jump Shot,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,318,4,0,3,9:28 PM,10:18,,,Dunn REBOUND (Off:1 Def:1),,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,319,2,1,3,9:28 PM,10:09,,,MISS Batum 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,320,4,0,3,9:28 PM,10:05,,,Harden REBOUND (Off:1 Def:3),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,321,1,1,3,9:28 PM,10:00,,,Bogdanović 31' 3PT Jump Shot (17 PTS) (Harden 5 AST),65 - 56,-9,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,323,2,1,3,9:28 PM,9:49,MISS Herro 24' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,324,4,0,3,9:28 PM,9:46,,,Bogdanović REBOUND (Off:0 Def:7),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,325,1,3,3,9:29 PM,9:34,,,Zubac 5' Hook Shot (17 PTS),67 - 56,-11,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,326,9,1,3,9:29 PM,9:33,HEAT Timeout: Regular (Full 4 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,327,1,75,3,9:32 PM,9:17,Wiggins 3' Driving Finger Roll Layup (14 PTS) (Adebayo 3 AST),,,67 - 58,-9,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,329,1,78,3,9:32 PM,9:02,,,Zubac 9' Floating Jump Shot (19 PTS) (Bogdanović 3 AST),69 - 58,-11,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,331,2,1,3,9:32 PM,8:50,MISS Highsmith 24' 3PT Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,332,4,0,3,9:32 PM,8:45,,,Zubac REBOUND (Off:3 Def:4),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,333,2,101,3,9:32 PM,8:42,,,MISS Harden 8' Driving Floating Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,334,4,0,3,9:32 PM,8:41,,,Harden REBOUND (Off:2 Def:3),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,335,2,97,3,9:33 PM,8:40,,,MISS Harden Tip Layup Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,336,4,0,3,9:33 PM,8:38,Highsmith REBOUND (Off:0 Def:2),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,337,1,75,3,9:33 PM,8:23,Wiggins 6' Driving Finger Roll Layup (16 PTS),,,69 - 60,-9,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,338,6,1,3,9:33 PM,8:06,Highsmith P.FOUL (P4.T1) (M.Davis),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,340,8,0,3,9:33 PM,8:06,SUB: Larsson FOR Highsmith,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,342,2,86,3,9:34 PM,7:59,,,MISS Bogdanović 11' Turnaround Fadeaway Shot,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,343,4,0,3,9:34 PM,7:56,Herro REBOUND (Off:0 Def:4),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,344,1,47,3,9:34 PM,7:45,Herro 6' Turnaround Jump Shot (13 PTS),,,69 - 62,-7,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,345,5,2,3,9:34 PM,7:28,Herro STEAL (2 STL),,Dunn Lost Ball Turnover (P1.T12),,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,347,1,2,3,9:34 PM,7:23,Larsson 25' 3PT Running Jump Shot (5 PTS) (Herro 3 AST),,,69 - 65,-4,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,349,6,2,3,9:35 PM,7:04,Wiggins S.FOUL (P2.T2) (M.Boland),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,351,3,11,3,9:35 PM,7:04,,,Bogdanović Free Throw 1 of 2 (18 PTS),70 - 65,-5,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,352,8,0,3,9:35 PM,7:04,,,SUB: Jones Jr. FOR Dunn,,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,354,3,12,3,9:36 PM,7:04,,,Bogdanović Free Throw 2 of 2 (19 PTS),71 - 65,-6,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,355,1,47,3,9:36 PM,6:50,Herro 8' Turnaround Jump Shot (15 PTS),,,71 - 67,-4,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,356,1,80,3,9:36 PM,6:39,,,Harden 25' 3PT Step Back Jump Shot (18 PTS),74 - 67,-7,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,357,2,101,3,9:36 PM,6:22,MISS Herro 11' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,358,4,0,3,9:36 PM,6:19,,,Batum REBOUND (Off:0 Def:2),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,359,1,1,3,9:36 PM,6:11,,,Jones Jr. 3PT Jump Shot (5 PTS) (Harden 6 AST),77 - 67,-10,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,361,2,75,3,9:37 PM,5:57,MISS Mitchell 3' Driving Finger Roll Layup,,,,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,362,4,0,3,9:37 PM,5:54,,,Zubac REBOUND (Off:3 Def:5),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,363,2,101,3,9:37 PM,5:42,,,MISS Harden 5' Driving Floating Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,364,4,0,3,9:37 PM,5:41,,,Zubac REBOUND (Off:4 Def:5),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,365,2,97,3,9:37 PM,5:40,,,MISS Zubac Tip Layup Shot,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,366,4,0,3,9:37 PM,5:39,,,Harden REBOUND (Off:3 Def:3),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,379,2,97,3,9:37 PM,5:38,,,MISS Harden 1' Tip Layup Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,380,4,0,3,9:37 PM,5:37,,,Zubac REBOUND (Off:5 Def:5),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,367,1,97,3,9:37 PM,5:36,,,Zubac Tip Layup Shot (21 PTS),79 - 67,-12,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,368,2,5,3,9:37 PM,5:15,MISS Adebayo 1' Layup,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,369,4,0,3,9:37 PM,5:12,,,Harden REBOUND (Off:3 Def:4),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,370,2,1,3,9:38 PM,5:03,,,MISS Harden 24' 3PT Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,371,4,0,3,9:38 PM,5:01,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,373,1,1,3,9:38 PM,4:52,Herro 25' 3PT Jump Shot (18 PTS) (Wiggins 3 AST),,,79 - 70,-9,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,374,5,2,3,9:38 PM,4:31,Adebayo STEAL (4 STL),,Bogdanović Lost Ball Turnover (P4.T13),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,376,1,76,3,9:38 PM,4:27,Herro 2' Running Finger Roll Layup (20 PTS) (Adebayo 4 AST),,,79 - 72,-7,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,378,9,1,3,9:39 PM,4:27,,,Clippers Timeout: Regular (Reg.3 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,382,8,0,3,9:41 PM,4:27,SUB: Ware FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,383,8,0,3,9:41 PM,4:27,,,SUB: Coffey FOR Bogdanović,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,386,6,2,3,9:42 PM,4:16,Wiggins S.FOUL (P3.T3) (M.Davis),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,388,3,11,3,9:42 PM,4:16,,,MISS Jones Jr. Free Throw 1 of 2,,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,389,4,1,3,9:42 PM,4:16,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,390,3,12,3,9:42 PM,4:16,,,MISS Jones Jr. Free Throw 2 of 2,,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,391,4,0,3,9:42 PM,4:15,Ware REBOUND (Off:2 Def:3),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,393,6,2,3,9:43 PM,3:54,,,Batum S.FOUL (P1.T1) (B.Barnaky),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,395,3,11,3,9:43 PM,3:54,Herro Free Throw 1 of 2 (21 PTS),,,79 - 73,-6,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,396,3,12,3,9:43 PM,3:54,Herro Free Throw 2 of 2 (22 PTS),,,79 - 74,-5,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,397,1,58,3,9:44 PM,3:34,,,Zubac 8' Turnaround Hook Shot (23 PTS),81 - 74,-7,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,398,2,75,3,9:44 PM,3:25,MISS Mitchell 3' Driving Finger Roll Layup,,,,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,399,4,0,3,9:44 PM,3:23,Ware REBOUND (Off:3 Def:3),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,400,1,79,3,9:44 PM,3:13,Wiggins 26' 3PT Pullup Jump Shot (19 PTS) (Herro 4 AST),,,81 - 77,-4,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,402,5,2,3,9:44 PM,2:57,Mitchell STEAL (2 STL),,Harden Lost Ball Turnover (P3.T14),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,404,2,76,3,9:45 PM,2:52,MISS Larsson 2' Running Finger Roll Layup,,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,405,4,0,3,9:45 PM,2:47,,,Jones Jr. REBOUND (Off:0 Def:3),,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,406,1,9,3,9:45 PM,2:38,,,Zubac Driving Dunk (25 PTS) (Harden 7 AST),83 - 77,-6,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,408,6,2,3,9:45 PM,2:38,Ware S.FOUL (P1.T4) (B.Barnaky),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,410,8,0,3,9:45 PM,2:38,SUB: Robinson FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,412,3,10,3,9:45 PM,2:38,,,Zubac Free Throw 1 of 1 (26 PTS),84 - 77,-7,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,413,1,1,3,9:46 PM,2:23,Robinson 28' 3PT Jump Shot (12 PTS) (Herro 5 AST),,,84 - 80,-4,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,415,6,2,3,9:46 PM,2:02,Larsson S.FOUL (P2.PN) (M.Boland),,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,417,3,11,3,9:46 PM,2:02,,,Harden Free Throw 1 of 2 (19 PTS),85 - 80,-5,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,422,3,12,3,9:46 PM,2:02,,,MISS Harden Free Throw 2 of 2,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,418,8,0,3,9:46 PM,2:02,,,SUB: Eubanks FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,419,8,0,3,9:46 PM,2:02,,,SUB: Miller FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,423,4,0,3,9:47 PM,1:59,Wiggins REBOUND (Off:2 Def:1),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,424,1,108,3,9:47 PM,1:47,Ware 1' Cutting Dunk Shot (4 PTS) (Herro 6 AST),,,85 - 82,-3,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,426,2,80,3,9:47 PM,1:31,,,MISS Harden 25' 3PT Step Back Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,427,4,0,3,9:48 PM,1:28,Herro REBOUND (Off:0 Def:5),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,428,6,2,3,9:48 PM,1:24,,,Miller S.FOUL (P1.T2) (M.Boland),,,5,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,430,3,11,3,9:48 PM,1:24,MISS Wiggins Free Throw 1 of 2,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,431,4,1,3,9:48 PM,1:24,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,432,3,12,3,9:48 PM,1:24,MISS Wiggins Free Throw 2 of 2,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,433,4,0,3,9:48 PM,1:22,,,Harden REBOUND (Off:3 Def:5),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,434,1,86,3,9:49 PM,1:06,,,Coffey 11' Turnaround Fadeaway (4 PTS),87 - 82,-5,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,435,5,2,3,9:49 PM,0:56,Wiggins Lost Ball Turnover (P4.T10),,Harden STEAL (2 STL),,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,437,1,106,3,9:49 PM,0:52,,,Jones Jr. 1' Running Alley Oop Dunk Shot (7 PTS) (Harden 8 AST),89 - 82,-7,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,439,2,1,3,9:49 PM,0:36,MISS Larsson 25' 3PT Jump Shot,,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,440,4,0,3,9:49 PM,0:32,Ware REBOUND (Off:4 Def:3),,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,441,1,71,3,9:50 PM,0:29,Herro 2' Finger Roll Layup (24 PTS) (Wiggins 4 AST),,,89 - 84,-5,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,443,1,1,3,9:50 PM,0:08,,,Coffey 3PT Jump Shot (7 PTS) (Harden 9 AST),92 - 84,-8,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,445,2,1,3,9:50 PM,0:01,MISS Wiggins 25' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,446,4,0,3,9:50 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400948,447,13,0,3,9:50 PM,0:00,,End of 3rd Period (9:50 PM EST),,92 - 84,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400948,454,12,0,4,9:53 PM,12:00,,Start of 4th Period (9:53 PM EST),,92 - 84,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,455,2,1,4,9:53 PM,11:46,MISS Robinson 24' 3PT Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,456,4,0,4,9:53 PM,11:42,,,Bogdanović REBOUND (Off:0 Def:8),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,457,1,75,4,9:54 PM,11:34,,,Miller 2' Driving Finger Roll Layup (2 PTS),94 - 84,-10,5,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,458,1,1,4,9:54 PM,11:11,Herro 10' Jump Shot (26 PTS) (Ware 2 AST),,,94 - 86,-8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,460,1,57,4,9:54 PM,10:45,,,Eubanks 6' Driving Hook Shot (6 PTS) (Miller 1 AST),96 - 86,-10,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,5,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,462,2,101,4,9:55 PM,10:30,MISS Herro 8' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,463,4,0,4,9:55 PM,10:28,,,Bogdanović REBOUND (Off:0 Def:9),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,464,6,4,4,9:55 PM,10:21,,,Eubanks OFF.Foul (P2) (B.Barnaky),,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,466,5,37,4,9:55 PM,10:21,,,Eubanks Offensive Foul Turnover (P1.T15),,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022400948,467,8,0,4,9:55 PM,10:21,SUB: Adebayo FOR Ware,,,,,4,1642276,Kel'el Ware,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,469,9,1,4,9:55 PM,10:21,,,Clippers Timeout: Regular (Reg.4 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,470,18,4,4,9:55 PM,10:21,,Instant Replay4th Period (9:55 PM EST),,96 - 86,-10,0,464,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400948,471,2,1,4,9:59 PM,10:02,MISS Highsmith 3PT Jump Shot,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,472,4,0,4,9:59 PM,9:57,,,Jones Jr. REBOUND (Off:0 Def:4),,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,473,2,1,4,9:59 PM,9:46,,,MISS Bogdanović 26' 3PT Jump Shot,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,474,4,0,4,9:59 PM,9:43,Highsmith REBOUND (Off:0 Def:3),,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,475,1,75,4,9:59 PM,9:26,Herro 2' Driving Finger Roll Layup (28 PTS) (Adebayo 5 AST),,,96 - 88,-8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,477,1,1,4,9:59 PM,9:12,,,Coffey 3PT Jump Shot (10 PTS) (Bogdanović 4 AST),99 - 88,-11,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,479,2,78,4,10:00 PM,8:56,MISS Adebayo 13' Floating Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,480,4,0,4,10:00 PM,8:53,,,Coffey REBOUND (Off:0 Def:1),,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,481,1,101,4,10:00 PM,8:41,,,Bogdanović 7' Driving Floating Jump Shot (21 PTS) (Eubanks 1 AST),101 - 88,-13,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,483,2,80,4,10:00 PM,8:30,MISS Rozier 3PT Step Back Jump Shot,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,484,4,0,4,10:00 PM,8:25,,,Eubanks REBOUND (Off:0 Def:2),,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,486,6,2,4,10:01 PM,8:10,Adebayo S.FOUL (P3.T1) (B.Barnaky),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,488,3,11,4,10:01 PM,8:10,,,MISS Jones Jr. Free Throw 1 of 2,,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022400948,489,4,1,4,10:01 PM,8:10,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,490,8,0,4,10:01 PM,8:10,SUB: Larsson FOR Rozier,,,,,4,1626179,Terry Rozier,1610612748.0,Miami,Heat,MIA,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,491,8,0,4,10:01 PM,8:10,,,SUB: Zubac FOR Eubanks,,,5,1629234,Drew Eubanks,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,495,8,0,4,10:01 PM,8:10,SUB: Wiggins FOR Highsmith,,,,,4,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,494,3,12,4,10:02 PM,8:10,,,Jones Jr. Free Throw 2 of 2 (8 PTS),102 - 88,-14,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,497,2,1,4,10:02 PM,7:54,MISS Larsson 24' 3PT Jump Shot,,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,498,4,0,4,10:02 PM,7:52,Adebayo REBOUND (Off:1 Def:3),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,499,1,107,4,10:02 PM,7:52,Adebayo Tip Dunk Shot (6 PTS),,,102 - 90,-12,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,500,1,79,4,10:02 PM,7:35,,,Bogdanović 15' Pullup Jump Shot (23 PTS),104 - 90,-14,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,501,1,98,4,10:02 PM,7:23,Larsson 1' Cutting Layup Shot (7 PTS) (Herro 7 AST),,,104 - 92,-12,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,503,1,80,4,10:03 PM,7:06,,,Bogdanović 15' Step Back Jump Shot (25 PTS) (Zubac 1 AST),106 - 92,-14,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,505,2,1,4,10:03 PM,6:49,MISS Wiggins 25' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,506,4,0,4,10:03 PM,6:48,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,507,6,3,4,10:03 PM,6:48,Larsson L.B.FOUL (P3.T2) (M.Davis),,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,5,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,509,8,0,4,10:03 PM,6:48,,,SUB: Dunn FOR Miller,,,5,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,511,8,0,4,10:04 PM,6:48,,,SUB: Harden FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,513,1,79,4,10:04 PM,6:36,,,Bogdanović 26' 3PT Pullup Jump Shot (28 PTS) (Harden 10 AST),109 - 92,-17,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,515,9,1,4,10:04 PM,6:34,HEAT Timeout: Regular (Full 5 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,516,1,6,4,10:07 PM,6:21,Wiggins 3' Driving Layup (21 PTS),,,109 - 94,-15,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,518,5,1,4,10:07 PM,6:00,Adebayo STEAL (5 STL),,Bogdanović Bad Pass Turnover (P5.T16),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,520,2,1,4,10:07 PM,5:53,MISS Herro 26' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,521,4,0,4,10:07 PM,5:49,,,Zubac REBOUND (Off:5 Def:6),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,522,1,1,4,10:08 PM,5:34,,,Coffey 3PT Jump Shot (13 PTS) (Harden 11 AST),112 - 94,-18,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,524,6,1,4,10:08 PM,5:21,,,Bogdanović P.FOUL (P1.T1) (M.Davis),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,526,1,1,4,10:08 PM,5:18,Herro 24' 3PT Jump Shot (31 PTS) (Adebayo 6 AST),,,112 - 97,-15,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022400948,528,6,1,4,10:09 PM,5:01,Larsson P.FOUL (P4.T3) (M.Davis),,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,530,8,0,4,10:09 PM,5:01,,,SUB: Batum FOR Dunn,,,5,1627739,Kris Dunn,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022400948,532,2,1,4,10:09 PM,4:49,,,MISS Bogdanović 30' 3PT Jump Shot,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,533,4,0,4,10:09 PM,4:47,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400948,534,5,11,4,10:10 PM,4:47,,,Clippers Turnover: Shot Clock (T#17),,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400948,535,5,45,4,10:10 PM,4:37,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022400948,536,2,1,4,10:10 PM,4:15,,,MISS Batum 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,537,4,0,4,10:10 PM,4:12,Adebayo REBOUND (Off:1 Def:4),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,538,1,79,4,10:10 PM,4:06,Robinson 25' 3PT Pullup Jump Shot (15 PTS) (Adebayo 7 AST),,,112 - 100,-12,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,540,1,80,4,10:11 PM,3:50,,,Harden 26' 3PT Step Back Jump Shot (22 PTS),115 - 100,-15,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,541,9,1,4,10:11 PM,3:43,HEAT Timeout: Regular (Full 6 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,542,1,1,4,10:13 PM,3:35,Larsson 3PT Jump Shot (10 PTS) (Wiggins 5 AST),,,115 - 103,-12,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022400948,545,9,1,4,10:13 PM,3:13,,,Clippers Timeout: Regular (Reg.5 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,546,2,63,4,10:15 PM,3:10,,,MISS Bogdanović 20' Fadeaway Jumper,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,547,4,0,4,10:15 PM,3:06,Adebayo REBOUND (Off:1 Def:5),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,548,2,58,4,10:15 PM,3:01,MISS Wiggins 2' Turnaround Hook Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,549,4,0,4,10:15 PM,2:58,,,Zubac REBOUND (Off:5 Def:7),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,551,6,2,4,10:15 PM,2:45,Wiggins S.FOUL (P4.T4) (B.Barnaky),,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022400948,553,9,1,4,10:16 PM,2:45,HEAT Timeout: Regular (Full 7 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,554,18,4,4,10:16 PM,2:45,,Instant Replay4th Period (10:16 PM EST),,115 - 103,-12,0,551,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400948,555,3,13,4,10:19 PM,2:45,,,Harden Free Throw 1 of 3 (23 PTS),116 - 103,-13,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,556,3,14,4,10:19 PM,2:45,,,MISS Harden Free Throw 2 of 3,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,557,4,1,4,10:19 PM,2:45,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,558,3,15,4,10:19 PM,2:45,,,Harden Free Throw 3 of 3 (24 PTS),117 - 103,-14,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,559,2,1,4,10:20 PM,2:29,MISS Robinson 25' 3PT Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,560,4,0,4,10:20 PM,2:24,,,Zubac REBOUND (Off:5 Def:8),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,561,2,1,4,10:20 PM,2:06,,,MISS Bogdanović 27' 3PT Jump Shot,,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,562,4,0,4,10:21 PM,2:02,Adebayo REBOUND (Off:1 Def:6),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,563,2,79,4,10:21 PM,1:48,MISS Wiggins 24' 3PT Pullup Jump Shot,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,564,4,0,4,10:21 PM,1:45,,,Bogdanović REBOUND (Off:0 Def:10),,,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,565,5,11,4,10:21 PM,1:24,,,Clippers Turnover: Shot Clock (T#18),,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400948,566,2,101,4,10:22 PM,1:17,MISS Herro 14' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,567,4,0,4,10:22 PM,1:13,Herro REBOUND (Off:1 Def:5),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,568,6,2,4,10:22 PM,1:12,,,Zubac S.FOUL (P2.T2) (B.Barnaky),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022400948,570,3,11,4,10:22 PM,1:12,MISS Wiggins Free Throw 1 of 2,,,,,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,571,4,1,4,10:22 PM,1:12,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400948,572,3,12,4,10:22 PM,1:12,Wiggins Free Throw 2 of 2 (22 PTS),,,117 - 104,-13,4,203952,Andrew Wiggins,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,573,2,80,4,10:23 PM,0:48,,,MISS Harden 28' 3PT Step Back Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,574,4,0,4,10:23 PM,0:44,,,Zubac REBOUND (Off:6 Def:8),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,575,1,78,4,10:23 PM,0:31,,,Bogdanović 12' Floating Jump Shot (30 PTS) (Batum 2 AST),119 - 104,-15,5,203992,Bogdan Bogdanović,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022400948,577,2,1,4,10:24 PM,0:12,MISS Larsson 25' 3PT Jump Shot,,,,,4,1641796,Pelle Larsson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022400948,578,4,0,4,10:24 PM,0:09,,,Coffey REBOUND (Off:0 Def:2),,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022400948,579,13,0,4,10:24 PM,0:00,,End of 4th Period (10:24 PM EST),,119 - 104,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

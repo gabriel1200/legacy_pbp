@@ -1,0 +1,423 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300951,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,4,10,0,1,8:11 PM,12:00,Jump Ball Valanciunas vs. Allen: Tip to Niang,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300951,7,2,47,1,8:11 PM,11:36,McCollum BLOCK (1 BLK),,MISS Okoro 12' Turnaround Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300951,9,4,0,1,8:11 PM,11:32,,,Allen REBOUND (Off:1 Def:0),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,10,2,1,1,8:11 PM,11:31,,,MISS Allen 20' Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,11,4,0,1,8:11 PM,11:30,,,Okoro REBOUND (Off:1 Def:0),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,12,2,1,1,8:11 PM,11:30,,,MISS Niang 25' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,13,4,0,1,8:12 PM,11:26,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,14,1,1,1,8:12 PM,11:19,Valanciunas 25' 3PT Jump Shot (3 PTS) (McCollum 1 AST),,,0 - 3,3,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,16,1,79,1,8:12 PM,11:04,,,Mitchell 26' 3PT Pullup Jump Shot (3 PTS) (Garland 1 AST),3 - 3,TIE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,18,2,6,1,8:12 PM,10:44,MISS Ingram 3' Driving Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,19,4,0,1,8:12 PM,10:43,,,Okoro REBOUND (Off:1 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,20,1,2,1,8:12 PM,10:38,,,Mitchell 25' 3PT Running Jump Shot (6 PTS) (Garland 2 AST),6 - 3,-3,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,22,2,6,1,8:13 PM,10:24,MISS Williamson 3' Driving Layup,,Mitchell BLOCK (1 BLK),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300951,24,4,0,1,8:13 PM,10:21,,,Garland REBOUND (Off:0 Def:1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,25,2,2,1,8:13 PM,10:17,Jones BLOCK (1 BLK),,MISS Garland 26' 3PT Running Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300951,27,4,0,1,8:13 PM,10:13,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,29,1,6,1,8:13 PM,10:04,Williamson 2' Driving Layup (2 PTS) (Valanciunas 1 AST),,,6 - 5,-1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,30,2,6,1,8:13 PM,9:51,,,MISS Garland 3' Driving Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,31,4,0,1,8:13 PM,9:49,Valanciunas REBOUND (Off:0 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,32,2,1,1,8:13 PM,9:43,MISS McCollum 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,33,4,0,1,8:14 PM,9:39,Ingram REBOUND (Off:1 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,34,6,2,1,8:14 PM,9:38,,,Okoro S.FOUL (P1.T1) (S.Twardoski),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,36,3,11,1,8:14 PM,9:38,Ingram Free Throw 1 of 2 (1 PTS),,,6 - 6,TIE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,37,3,12,1,8:14 PM,9:38,Ingram Free Throw 2 of 2 (2 PTS),,,6 - 7,1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,38,1,75,1,8:15 PM,9:20,,,Allen 2' Driving Finger Roll Layup (2 PTS),8 - 7,-1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,40,2,1,1,8:15 PM,8:56,MISS Valanciunas 27' 3PT Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,41,4,0,1,8:15 PM,8:54,Jones REBOUND (Off:1 Def:0),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,42,2,1,1,8:15 PM,8:52,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,43,4,0,1,8:15 PM,8:48,,,Niang REBOUND (Off:0 Def:1),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,44,5,1,1,8:15 PM,8:43,Jones STEAL (1 STL),,Mitchell Bad Pass Turnover (P1.T1),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,46,2,76,1,8:16 PM,8:37,MISS Williamson 2' Running Finger Roll Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,47,4,0,1,8:16 PM,8:34,Williamson REBOUND (Off:1 Def:0),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,48,1,97,1,8:16 PM,8:34,Williamson Tip Layup Shot (4 PTS),,,8 - 9,1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,49,6,1,1,8:16 PM,8:29,Jones P.FOUL (P1.T1) (S.Twardoski),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,51,1,98,1,8:16 PM,8:24,,,Allen 3' Cutting Layup Shot (4 PTS) (Garland 3 AST),10 - 9,-1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,53,2,6,1,8:16 PM,8:12,MISS Williamson 2' Driving Layup,,Allen BLOCK (1 BLK),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300951,55,4,0,1,8:16 PM,8:11,Valanciunas REBOUND (Off:1 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,56,2,97,1,8:16 PM,8:11,MISS Valanciunas Tip Layup Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,57,4,0,1,8:16 PM,8:11,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,59,2,1,1,8:17 PM,7:58,,,MISS Mitchell 26' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,60,4,0,1,8:17 PM,7:54,Valanciunas REBOUND (Off:1 Def:3),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,61,1,79,1,8:17 PM,7:43,Ingram 9' Pullup Jump Shot (4 PTS),,,10 - 11,1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,62,1,1,1,8:17 PM,7:22,,,Niang 26' 3PT Jump Shot (3 PTS) (Garland 4 AST),13 - 11,-2,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,63,6,2,1,8:18 PM,7:03,,,Niang S.FOUL (P1.T2) (D.Guthrie),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,66,3,11,1,8:18 PM,7:03,Williamson Free Throw 1 of 2 (5 PTS),,,13 - 12,-1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,67,8,0,1,8:18 PM,7:03,,,SUB: Jones FOR Niang,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,68,8,0,1,8:18 PM,7:03,,,SUB: LeVert FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,71,3,12,1,8:18 PM,7:03,Williamson Free Throw 2 of 2 (6 PTS),,,13 - 13,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,72,1,98,1,8:19 PM,6:47,,,Allen 1' Cutting Layup Shot (6 PTS) (Mitchell 1 AST),15 - 13,-2,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,74,2,101,1,8:19 PM,6:35,MISS McCollum 9' Driving Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,75,4,0,1,8:19 PM,6:33,,,Mitchell REBOUND (Off:0 Def:1),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,76,2,41,1,8:19 PM,6:27,,,MISS Okoro 3' Running Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,77,4,0,1,8:19 PM,6:26,,,Okoro REBOUND (Off:2 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,78,2,79,1,8:19 PM,6:18,,,MISS Mitchell 18' Pullup Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,79,4,0,1,8:19 PM,6:14,Ingram REBOUND (Off:1 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,80,1,41,1,8:19 PM,6:12,Williamson 1' Running Layup (8 PTS) (Ingram 1 AST),,,15 - 15,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,82,6,2,1,8:19 PM,6:12,,,Mitchell S.FOUL (P1.T3) (D.Taylor),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,84,9,1,1,8:20 PM,6:12,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,86,3,10,1,8:23 PM,6:12,Williamson Free Throw 1 of 1 (9 PTS),,,15 - 16,1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,87,2,6,1,8:23 PM,5:53,,,MISS Allen 2' Driving Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,88,4,0,1,8:23 PM,5:51,Williamson REBOUND (Off:1 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,89,5,1,1,8:23 PM,5:43,Williamson Bad Pass Turnover (P1.T1),,Jones STEAL (1 STL),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,91,1,50,1,8:23 PM,5:39,,,Okoro 1' Running Dunk (2 PTS) (Mitchell 2 AST),17 - 16,-1,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,93,6,2,1,8:24 PM,5:19,,,Okoro S.FOUL (P2.T4) (S.Twardoski),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,95,3,11,1,8:24 PM,5:19,Williamson Free Throw 1 of 2 (10 PTS),,,17 - 17,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,100,3,12,1,8:24 PM,5:19,MISS Williamson Free Throw 2 of 2,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,96,8,0,1,8:24 PM,5:19,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,97,8,0,1,8:24 PM,5:19,,,SUB: Merrill FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,101,4,0,1,8:24 PM,5:16,,,Allen REBOUND (Off:1 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,102,1,5,1,8:25 PM,5:01,,,Allen 1' Layup (8 PTS) (LeVert 1 AST),19 - 17,-2,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,104,1,79,1,8:25 PM,4:48,Ingram 18' Pullup Jump Shot (6 PTS) (Nance Jr. 1 AST),,,19 - 19,TIE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,106,2,1,1,8:25 PM,4:34,,,MISS Merrill 25' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,107,4,0,1,8:25 PM,4:29,Nance Jr. REBOUND (Off:0 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,108,5,45,1,8:26 PM,4:10,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,109,8,0,1,8:26 PM,4:10,SUB: Murphy III FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,110,8,0,1,8:26 PM,4:10,,,SUB: Garland FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,113,5,1,1,8:26 PM,3:58,Ingram STEAL (1 STL),,Garland Bad Pass Turnover (P1.T2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,116,8,0,1,8:26 PM,3:48,,,SUB: Niang FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,118,8,0,1,8:26 PM,3:48,SUB: Alvarado FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,120,5,45,1,8:27 PM,3:39,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,121,2,58,1,8:27 PM,3:19,,,MISS Jones 5' Turnaround Hook Shot,,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,122,4,0,1,8:27 PM,3:17,Alvarado REBOUND (Off:0 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,123,6,1,1,8:27 PM,3:10,,,Jones P.FOUL (P1.PN) (D.Taylor),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,125,3,11,1,8:28 PM,3:10,MISS Ingram Free Throw 1 of 2,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,126,4,1,1,8:28 PM,3:10,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,127,8,0,1,8:28 PM,3:10,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,129,3,12,1,8:28 PM,3:10,Ingram Free Throw 2 of 2 (7 PTS),,,19 - 20,1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,130,2,6,1,8:29 PM,2:53,,,MISS LeVert 5' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,131,4,0,1,8:29 PM,2:50,Alvarado REBOUND (Off:0 Def:2),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,132,2,41,1,8:29 PM,2:47,MISS Alvarado 2' Running Layup,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,133,4,0,1,8:29 PM,2:47,,,Niang REBOUND (Off:0 Def:2),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,134,1,74,1,8:29 PM,2:41,,,Jones 2' Running Reverse Layup (2 PTS) (Merrill 1 AST),21 - 20,-1,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,136,5,45,1,8:29 PM,2:32,Marshall Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,137,9,1,1,8:29 PM,2:32,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,138,8,0,1,8:31 PM,2:32,SUB: Williamson FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,140,2,1,1,8:32 PM,2:27,,,MISS Merrill 27' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,141,4,0,1,8:32 PM,2:24,Williamson REBOUND (Off:1 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,142,2,1,1,8:32 PM,2:17,MISS Marshall 24' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,143,4,0,1,8:32 PM,2:13,,,Niang REBOUND (Off:0 Def:3),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,144,1,52,1,8:32 PM,2:05,,,Jones Alley Oop Dunk (4 PTS) (LeVert 2 AST),23 - 20,-3,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,146,2,6,1,8:33 PM,1:49,MISS Williamson 2' Driving Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,147,4,0,1,8:33 PM,1:49,,,Niang REBOUND (Off:0 Def:4),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,148,1,41,1,8:33 PM,1:40,,,Niang 2' Running Layup (5 PTS) (Garland 5 AST),25 - 20,-5,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,150,1,101,1,8:33 PM,1:18,Alvarado 9' Driving Floating Jump Shot (2 PTS) (Williamson 1 AST),,,25 - 22,-3,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,152,1,79,1,8:33 PM,1:05,,,Garland 28' 3PT Pullup Jump Shot (3 PTS),28 - 22,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,153,2,5,1,8:34 PM,0:49,MISS Nance Jr. 1' Layup,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,154,4,0,1,8:34 PM,0:47,,,Garland REBOUND (Off:0 Def:2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,155,1,50,1,8:34 PM,0:44,,,Jones Running Dunk (6 PTS) (Merrill 2 AST),30 - 22,-8,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,157,2,79,1,8:34 PM,0:36,MISS Alvarado 8' Pullup Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,158,4,0,1,8:34 PM,0:34,,,Jones REBOUND (Off:0 Def:1),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,159,2,80,1,8:34 PM,0:29,,,MISS LeVert 26' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,160,4,0,1,8:34 PM,0:26,Nance Jr. REBOUND (Off:0 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,161,6,4,1,8:34 PM,0:10,Murphy III OFF.Foul (P1) (S.Twardoski),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,163,5,37,1,8:34 PM,0:10,Murphy III Offensive Foul Turnover (P1.T5),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,164,8,0,1,8:35 PM,0:10,SUB: Jones FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,165,8,0,1,8:35 PM,0:10,,,SUB: Mitchell FOR Jones,,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,184,2,79,1,8:35 PM,0:01,Jones BLOCK (2 BLK),,MISS Mitchell 8' Pullup Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300951,186,4,0,1,8:35 PM,0:01,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,168,13,0,1,8:35 PM,0:00,,End of 1st Period (8:35 PM EST),,30 - 22,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300951,173,12,0,2,8:38 PM,12:00,,Start of 2nd Period (8:38 PM EST),,30 - 22,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,174,2,1,2,8:38 PM,11:46,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,175,4,0,2,8:38 PM,11:42,,,Allen REBOUND (Off:1 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,176,2,71,2,8:38 PM,11:23,,,MISS Allen 2' Finger Roll Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,177,4,0,2,8:38 PM,11:20,Marshall REBOUND (Off:0 Def:1),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,178,2,1,2,8:39 PM,11:10,MISS Marshall 26' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,179,4,0,2,8:39 PM,11:06,,,Allen REBOUND (Off:1 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,180,5,1,2,8:39 PM,10:57,Nance Jr. STEAL (1 STL),,Merrill Bad Pass Turnover (P1.T3),,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,182,1,50,2,8:39 PM,10:53,Murphy III Running Dunk (2 PTS) (Nance Jr. 2 AST),,,30 - 24,-6,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,187,5,1,2,8:39 PM,10:28,Nance Jr. STEAL (2 STL),,LeVert Bad Pass Turnover (P1.T4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,189,2,6,2,8:40 PM,10:11,MISS Williamson 2' Driving Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,190,4,0,2,8:40 PM,10:07,Williamson REBOUND (Off:2 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,191,1,72,2,8:40 PM,10:07,Williamson Putback Layup (12 PTS),,,30 - 26,-4,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,192,1,108,2,8:40 PM,9:56,,,Allen 1' Cutting Dunk Shot (10 PTS) (Garland 6 AST),32 - 26,-6,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,194,5,2,2,8:40 PM,9:40,Nance Jr. Lost Ball Turnover (P1.T6),,Garland STEAL (1 STL),,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,197,6,1,2,8:41 PM,9:28,Murphy III P.FOUL (P2.T1) (D.Taylor),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,199,2,79,2,8:41 PM,9:16,,,MISS Niang 3PT Pullup Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,200,4,0,2,8:41 PM,9:13,,,LeVert REBOUND (Off:1 Def:0),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,201,1,1,2,8:41 PM,9:10,,,Merrill 3PT Jump Shot (3 PTS) (LeVert 3 AST),35 - 26,-9,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,203,2,6,2,8:41 PM,8:53,MISS Williamson 2' Driving Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,204,4,0,2,8:41 PM,8:52,,,Niang REBOUND (Off:0 Def:5),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,205,1,2,2,8:42 PM,8:48,,,Garland 3PT Running Jump Shot (6 PTS) (LeVert 4 AST),38 - 26,-12,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,207,9,1,2,8:42 PM,8:47,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,208,8,0,2,8:44 PM,8:47,SUB: McCollum FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,209,8,0,2,8:44 PM,8:47,SUB: Valanciunas FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,210,8,0,2,8:44 PM,8:47,SUB: Ingram FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,214,2,1,2,8:45 PM,8:36,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,215,4,0,2,8:45 PM,8:34,Valanciunas REBOUND (Off:2 Def:3),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,288,2,97,2,8:45 PM,8:34,MISS Valanciunas 4' Tip Layup Shot,,Allen BLOCK (2 BLK),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300951,290,4,0,2,8:45 PM,8:33,,,Merrill REBOUND (Off:0 Def:1),,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,216,1,1,2,8:45 PM,8:22,,,Niang 3PT Jump Shot (8 PTS) (Merrill 3 AST),41 - 26,-15,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,218,6,1,2,8:45 PM,8:13,,,Niang P.FOUL (P2.T1) (D.Guthrie),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,220,2,101,2,8:46 PM,7:59,MISS McCollum 8' Driving Floating Jump Shot,,Garland BLOCK (1 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300951,222,4,0,2,8:46 PM,7:56,,,Garland REBOUND (Off:0 Def:3),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,223,1,79,2,8:46 PM,7:46,,,Merrill 25' 3PT Pullup Jump Shot (6 PTS) (LeVert 5 AST),44 - 26,-18,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,225,1,6,2,8:46 PM,7:29,Ingram 2' Driving Layup (9 PTS) (Valanciunas 2 AST),,,44 - 28,-16,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,226,6,2,2,8:46 PM,7:29,,,LeVert S.FOUL (P1.T2) (S.Twardoski),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,229,8,0,2,8:46 PM,7:29,SUB: Jones FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,230,8,0,2,8:46 PM,7:29,,,SUB: Jones FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,231,8,0,2,8:46 PM,7:29,,,SUB: Mitchell FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,235,3,10,2,8:47 PM,7:29,Ingram Free Throw 1 of 1 (10 PTS),,,44 - 29,-15,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,236,2,79,2,8:47 PM,7:14,,,MISS Merrill 3PT Pullup Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,237,4,0,2,8:47 PM,7:12,Marshall REBOUND (Off:0 Def:2),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,238,1,98,2,8:47 PM,7:03,Valanciunas 2' Cutting Layup Shot (5 PTS) (Ingram 2 AST),,,44 - 31,-13,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,241,8,0,2,8:48 PM,6:53,SUB: Murphy III FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,242,8,0,2,8:48 PM,6:53,,,SUB: Okoro FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,245,1,1,2,8:48 PM,6:39,,,Mitchell 26' 3PT Jump Shot (9 PTS) (Merrill 4 AST),47 - 31,-16,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,247,2,47,2,8:48 PM,6:16,MISS Ingram 10' Turnaround Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,248,4,0,2,8:48 PM,6:12,,,Jones REBOUND (Off:0 Def:2),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,249,6,1,2,8:49 PM,6:11,Jones P.FOUL (P2.T2) (S.Twardoski),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,251,5,45,2,8:49 PM,5:56,,,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300951,252,2,3,2,8:50 PM,5:38,MISS Valanciunas 7' Hook Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,253,4,0,2,8:50 PM,5:38,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300951,255,2,1,2,8:50 PM,5:23,,,MISS Niang 25' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,256,4,0,2,8:50 PM,5:20,Ingram REBOUND (Off:1 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,257,1,50,2,8:50 PM,5:17,Murphy III Running Dunk (4 PTS) (Ingram 3 AST),,,47 - 33,-14,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,259,1,80,2,8:50 PM,5:06,,,Mitchell 26' 3PT Step Back Jump Shot (12 PTS),50 - 33,-17,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,260,2,1,2,8:51 PM,4:54,MISS Valanciunas 10' Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,261,4,0,2,8:51 PM,4:54,,,Merrill REBOUND (Off:0 Def:2),,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,262,2,103,2,8:51 PM,4:49,,,MISS Mitchell 26' 3PT Running Pull-Up Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,263,4,0,2,8:51 PM,4:46,Jones REBOUND (Off:1 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,264,1,2,2,8:51 PM,4:39,Murphy III 27' 3PT Running Jump Shot (7 PTS) (Jones 1 AST),,,50 - 36,-14,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,266,2,1,2,8:51 PM,4:26,,,MISS Merrill 25' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,267,4,0,2,8:51 PM,4:22,Valanciunas REBOUND (Off:2 Def:4),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,268,6,1,2,8:51 PM,4:20,,,Mitchell P.FOUL (P2.T3) (S.Twardoski),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,270,8,0,2,8:52 PM,4:20,SUB: Williamson FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,271,8,0,2,8:52 PM,4:20,,,SUB: Allen FOR Merrill,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,272,8,0,2,8:52 PM,4:20,,,SUB: Garland FOR Jones,,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,276,1,63,2,8:52 PM,4:09,Ingram 5' Fadeaway Jumper (12 PTS),,,50 - 38,-12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,277,6,1,2,8:52 PM,3:55,Ingram P.FOUL (P1.T3) (D.Guthrie),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,279,2,1,2,8:53 PM,3:43,,,MISS Okoro 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,280,4,0,2,8:53 PM,3:40,Williamson REBOUND (Off:2 Def:3),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,281,2,2,2,8:53 PM,3:37,MISS Murphy III 30' 3PT Running Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,282,4,0,2,8:53 PM,3:37,,,Okoro REBOUND (Off:2 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,283,5,2,2,8:53 PM,3:11,Williamson STEAL (1 STL),,Allen Lost Ball Turnover (P1.T6),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,285,1,50,2,8:53 PM,3:06,Ingram 1' Running Dunk (14 PTS) (Murphy III 1 AST),,,50 - 40,-10,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,287,9,1,2,8:53 PM,3:06,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,291,8,0,2,8:56 PM,3:06,,,SUB: LeVert FOR Niang,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,293,2,6,2,8:57 PM,2:43,Jones BLOCK (3 BLK),,MISS Allen 5' Driving Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300951,295,4,0,2,8:57 PM,2:40,Jones REBOUND (Off:1 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,296,6,2,2,8:57 PM,2:40,,,Garland S.FOUL (P1.T4) (D.Guthrie),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,298,3,11,2,8:57 PM,2:40,MISS Jones Free Throw 1 of 2,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,299,4,1,2,8:57 PM,2:40,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,300,3,12,2,8:57 PM,2:40,Jones Free Throw 2 of 2 (1 PTS),,,50 - 41,-9,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300951,301,1,79,2,8:58 PM,2:27,,,Garland 26' 3PT Pullup Jump Shot (9 PTS),53 - 41,-12,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,302,1,6,2,8:58 PM,2:06,Williamson 1' Driving Layup (14 PTS) (Murphy III 2 AST),,,53 - 43,-10,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,305,6,1,2,8:59 PM,1:53,Jones P.FOUL (P3.T4) (D.Taylor),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,307,8,0,2,9:00 PM,1:53,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,309,2,80,2,9:00 PM,1:42,,,MISS Garland 28' 3PT Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,310,4,0,2,9:00 PM,1:39,Williamson REBOUND (Off:2 Def:4),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,311,1,41,2,9:00 PM,1:33,Williamson 2' Running Layup (16 PTS),,,53 - 45,-8,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,312,2,6,2,9:00 PM,1:15,,,MISS Mitchell 4' Driving Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,313,4,0,2,9:00 PM,1:13,Williamson REBOUND (Off:2 Def:5),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,314,2,1,2,9:00 PM,1:06,MISS Murphy III 26' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,315,4,0,2,9:00 PM,1:02,,,LeVert REBOUND (Off:1 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,316,2,6,2,9:01 PM,0:49,,,MISS Mitchell 5' Driving Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,317,4,0,2,9:01 PM,0:47,Marshall REBOUND (Off:0 Def:3),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,318,5,45,2,9:01 PM,0:39,Ingram Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,319,2,80,2,9:01 PM,0:23,,,MISS Garland 25' 3PT Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,320,4,0,2,9:01 PM,0:20,Ingram REBOUND (Off:1 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,321,2,79,2,9:02 PM,0:01,MISS Ingram 16' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,322,4,0,2,9:02 PM,0:01,,,Mitchell REBOUND (Off:0 Def:2),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,323,13,0,2,9:02 PM,0:00,,End of 2nd Period (9:02 PM EST),,53 - 45,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300951,331,12,0,3,9:17 PM,12:00,,Start of 3rd Period (9:17 PM EST),,53 - 45,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,332,2,1,3,9:17 PM,11:51,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,333,4,0,3,9:17 PM,11:47,,,Allen REBOUND (Off:1 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,334,1,1,3,9:17 PM,11:40,,,Garland 30' 3PT Jump Shot (12 PTS) (Mitchell 3 AST),56 - 45,-11,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,336,2,78,3,9:18 PM,11:15,MISS Nance Jr. 10' Floating Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,337,4,0,3,9:18 PM,11:13,,,Allen REBOUND (Off:1 Def:5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,338,1,1,3,9:18 PM,11:07,,,Niang 26' 3PT Jump Shot (11 PTS) (Mitchell 4 AST),59 - 45,-14,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,340,1,101,3,9:18 PM,10:52,McCollum 7' Driving Floating Jump Shot (2 PTS),,,59 - 47,-12,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,341,2,1,3,9:18 PM,10:34,,,MISS Okoro 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,342,4,0,3,9:18 PM,10:30,,,Mitchell REBOUND (Off:1 Def:2),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,343,2,1,3,9:18 PM,10:29,,,MISS Mitchell 26' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,344,4,0,3,9:18 PM,10:29,,,Okoro REBOUND (Off:3 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,345,5,1,3,9:19 PM,10:22,Jones STEAL (2 STL),,Mitchell Bad Pass Turnover (P2.T7),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,347,2,1,3,9:19 PM,10:08,MISS Ingram 25' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,348,4,0,3,9:19 PM,10:04,,,Mitchell REBOUND (Off:1 Def:3),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,349,1,1,3,9:19 PM,9:50,,,Niang 3PT Jump Shot (14 PTS) (Garland 7 AST),62 - 47,-15,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,351,1,101,3,9:19 PM,9:35,Williamson 4' Driving Floating Jump Shot (18 PTS),,,62 - 49,-13,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,352,2,1,3,9:20 PM,9:21,,,MISS Mitchell 26' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,353,4,0,3,9:20 PM,9:19,Williamson REBOUND (Off:2 Def:6),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,354,6,2,3,9:20 PM,9:17,,,Garland S.FOUL (P2.T1) (D.Taylor),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,356,3,11,3,9:20 PM,9:17,McCollum Free Throw 1 of 2 (3 PTS),,,62 - 50,-12,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,357,3,12,3,9:20 PM,9:17,McCollum Free Throw 2 of 2 (4 PTS),,,62 - 51,-11,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300951,358,1,1,3,9:21 PM,8:54,,,Okoro 24' 3PT Jump Shot (5 PTS) (Allen 1 AST),65 - 51,-14,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,360,2,1,3,9:21 PM,8:38,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,361,4,0,3,9:21 PM,8:33,,,Okoro REBOUND (Off:3 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,362,2,102,3,9:21 PM,8:22,,,MISS Mitchell 6' Driving Floating Bank Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,363,4,0,3,9:21 PM,8:19,Jones REBOUND (Off:1 Def:3),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,364,6,2,3,9:22 PM,8:17,,,Niang S.FOUL (P3.T2) (S.Twardoski),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,366,3,11,3,9:22 PM,8:17,Jones Free Throw 1 of 2 (2 PTS),,,65 - 52,-13,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,367,3,12,3,9:22 PM,8:17,Jones Free Throw 2 of 2 (3 PTS),,,65 - 53,-12,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300951,368,1,9,3,9:22 PM,8:05,,,Allen 1' Driving Dunk (12 PTS) (Garland 8 AST),67 - 53,-14,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,369,1,79,3,9:22 PM,7:56,Ingram 16' Pullup Jump Shot (16 PTS),,,67 - 55,-12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,371,2,98,3,9:23 PM,7:38,,,MISS Niang 2' Cutting Layup Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,372,4,0,3,9:23 PM,7:36,Nance Jr. REBOUND (Off:0 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,373,6,26,3,9:23 PM,7:31,Ingram Offensive Charge Foul (P2) (D.Guthrie),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,375,5,37,3,9:23 PM,7:31,Ingram Offensive Foul Turnover (P2.T8),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,376,2,102,3,9:24 PM,7:09,,,MISS Garland 7' Driving Floating Bank Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,377,4,0,3,9:24 PM,7:07,Nance Jr. REBOUND (Off:0 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,378,1,41,3,9:24 PM,7:04,Williamson 3' Running Layup (20 PTS) (Ingram 4 AST),,,67 - 57,-10,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,380,6,2,3,9:24 PM,7:04,,,Niang S.FOUL (P4.T3) (D.Taylor),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,382,8,0,3,9:24 PM,7:04,,,SUB: Jones FOR Niang,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,384,3,10,3,9:25 PM,7:04,Williamson Free Throw 1 of 1 (21 PTS),,,67 - 58,-9,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,385,2,1,3,9:25 PM,6:40,,,MISS Okoro 26' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,386,4,0,3,9:25 PM,6:37,Jones REBOUND (Off:1 Def:4),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,387,1,41,3,9:25 PM,6:33,Williamson 2' Running Layup (23 PTS) (Jones 2 AST),,,67 - 60,-7,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,389,2,78,3,9:25 PM,6:16,,,MISS Allen 7' Floating Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,390,4,0,3,9:25 PM,6:14,Williamson REBOUND (Off:2 Def:7),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,392,9,1,3,9:26 PM,5:58,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,393,8,0,3,9:28 PM,5:58,SUB: Murphy III FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,394,8,0,3,9:28 PM,5:58,,,SUB: LeVert FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,397,5,9,3,9:29 PM,5:58,PELICANS Turnover: 5 Second Violation (T#9),,,,,2,1610612740,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300951,398,6,1,3,9:29 PM,5:49,Jones P.FOUL (P4.T1) (D.Taylor),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,400,8,0,3,9:30 PM,5:49,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,401,8,0,3,9:30 PM,5:49,,,SUB: Merrill FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,404,2,80,3,9:30 PM,5:34,McCollum BLOCK (2 BLK),,MISS LeVert 25' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300951,406,4,0,3,9:30 PM,5:30,Nance Jr. REBOUND (Off:0 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,407,1,74,3,9:30 PM,5:25,Ingram 1' Running Reverse Layup (18 PTS) (Marshall 1 AST),,,67 - 62,-5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,408,1,101,3,9:30 PM,5:08,,,Mitchell 11' Driving Floating Jump Shot (14 PTS),69 - 62,-7,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,410,1,101,3,9:31 PM,4:45,McCollum 4' Driving Floating Jump Shot (6 PTS) (Nance Jr. 3 AST),,,69 - 64,-5,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,412,1,5,3,9:31 PM,4:23,,,Jones 2' Layup (8 PTS) (Okoro 1 AST),71 - 64,-7,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,414,2,1,3,9:31 PM,4:07,MISS Murphy III 24' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,415,4,0,3,9:32 PM,4:01,,,LeVert REBOUND (Off:1 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,416,1,50,3,9:32 PM,3:57,,,Jones 1' Running Dunk (10 PTS) (Merrill 5 AST),73 - 64,-9,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,418,9,1,3,9:32 PM,3:57,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,419,8,0,3,9:34 PM,3:57,SUB: Valanciunas FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,420,8,0,3,9:34 PM,3:57,,,SUB: Garland FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,423,2,79,3,9:35 PM,3:34,MISS Marshall 33' 3PT Pullup Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,424,4,0,3,9:35 PM,3:31,,,Garland REBOUND (Off:0 Def:4),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,425,2,41,3,9:35 PM,3:27,,,MISS LeVert 2' Running Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,426,4,0,3,9:35 PM,3:25,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,427,1,6,3,9:35 PM,3:13,Murphy III 3' Driving Layup (9 PTS) (Ingram 5 AST),,,73 - 66,-7,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,429,2,1,3,9:35 PM,3:08,,,MISS Merrill 26' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,430,4,0,3,9:36 PM,3:04,Valanciunas REBOUND (Off:2 Def:5),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,431,2,63,3,9:36 PM,2:58,MISS Ingram 7' Fadeaway Jumper,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,432,4,0,3,9:36 PM,2:54,,,LeVert REBOUND (Off:1 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,433,1,79,3,9:36 PM,2:49,,,Garland 11' Pullup Jump Shot (14 PTS),75 - 66,-9,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,434,6,1,3,9:36 PM,2:32,,,Jones P.FOUL (P2.T4) (D.Guthrie),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,436,8,0,3,9:36 PM,2:32,SUB: Williamson FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,437,8,0,3,9:36 PM,2:32,SUB: Alvarado FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,440,2,1,3,9:37 PM,2:21,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,441,4,0,3,9:37 PM,2:19,,,Jones REBOUND (Off:0 Def:3),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,442,1,41,3,9:37 PM,2:15,,,LeVert 3' Running Layup (2 PTS) (Garland 9 AST),77 - 66,-11,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,444,6,4,3,9:37 PM,2:02,Valanciunas OFF.Foul (P1) (S.Twardoski),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,446,5,37,3,9:37 PM,2:02,Valanciunas Offensive Foul Turnover (P1.T10),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300951,448,1,78,3,9:38 PM,1:38,,,Jones 8' Floating Jump Shot (12 PTS) (LeVert 6 AST),79 - 66,-13,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,450,2,75,3,9:38 PM,1:23,MISS Williamson 4' Driving Finger Roll Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,451,4,0,3,9:38 PM,1:21,,,Garland REBOUND (Off:0 Def:5),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,452,1,1,3,9:38 PM,1:06,,,Merrill 3PT Jump Shot (9 PTS) (Garland 10 AST),82 - 66,-16,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,454,2,101,3,9:39 PM,0:43,MISS Marshall 8' Driving Floating Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,455,4,0,3,9:39 PM,0:40,,,Jones REBOUND (Off:0 Def:4),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,456,1,2,3,9:39 PM,0:37,,,Merrill 26' 3PT Running Jump Shot (12 PTS) (Garland 11 AST),85 - 66,-19,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,458,6,1,3,9:40 PM,0:14,,,Okoro P.FOUL (P3.PN) (D.Taylor),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,460,3,11,3,9:40 PM,0:14,Murphy III Free Throw 1 of 2 (10 PTS),,,85 - 67,-18,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,461,8,0,3,9:40 PM,0:14,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,462,8,0,3,9:40 PM,0:14,,,SUB: Mitchell FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,465,3,12,3,9:40 PM,0:14,Murphy III Free Throw 2 of 2 (11 PTS),,,85 - 68,-17,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,466,1,6,3,9:41 PM,0:00,,,Garland 2' Driving Layup (16 PTS) (LeVert 7 AST),87 - 68,-19,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,467,13,0,3,9:41 PM,0:00,,End of 3rd Period (9:41 PM EST),,87 - 68,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300951,475,12,0,4,9:43 PM,12:00,,Start of 4th Period (9:43 PM EST),,87 - 68,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,476,1,80,4,9:44 PM,11:45,,,Garland 27' 3PT Step Back Jump Shot (19 PTS) (Merrill 6 AST),90 - 68,-22,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,477,2,1,4,9:44 PM,11:25,MISS Marshall 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,478,4,0,4,9:44 PM,11:25,,,Garland REBOUND (Off:0 Def:6),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,480,1,7,4,9:44 PM,11:07,,,Allen Dunk (14 PTS) (Okoro 2 AST),92 - 68,-24,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,482,1,6,4,9:44 PM,10:59,Williamson 1' Driving Layup (25 PTS),,,92 - 70,-22,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,483,6,2,4,9:45 PM,10:59,,,Okoro S.FOUL (P4.T1) (S.Twardoski),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,485,3,10,4,9:45 PM,10:59,Williamson Free Throw 1 of 1 (26 PTS),,,92 - 71,-21,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,486,1,5,4,9:45 PM,10:35,,,Garland 2' Layup (21 PTS) (Merrill 7 AST),94 - 71,-23,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,488,1,6,4,9:46 PM,10:23,Williamson 2' Driving Layup (28 PTS),,,94 - 73,-21,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,489,6,1,4,9:46 PM,10:20,Alvarado P.FOUL (P1.T1) (D.Guthrie),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,491,5,11,4,9:46 PM,9:55,,,Cavaliers Turnover: Shot Clock (T#8),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300951,492,6,2,4,9:47 PM,9:45,,,Allen S.FOUL (P1.T2) (D.Taylor),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,494,3,11,4,9:47 PM,9:45,Williamson Free Throw 1 of 2 (29 PTS),,,94 - 74,-20,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,495,3,12,4,9:47 PM,9:45,MISS Williamson Free Throw 2 of 2,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300951,496,4,0,4,9:47 PM,9:42,,,Allen REBOUND (Off:1 Def:6),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022300951,497,2,1,4,9:48 PM,9:27,,,MISS LeVert 26' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,498,4,0,4,9:48 PM,9:23,Marshall REBOUND (Off:0 Def:4),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,499,5,1,4,9:48 PM,9:08,Murphy III Bad Pass Turnover (P2.T11),,Garland STEAL (2 STL),,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,501,1,6,4,9:48 PM,9:00,,,Garland 2' Driving Layup (23 PTS) (Merrill 8 AST),96 - 74,-22,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,503,6,2,4,9:48 PM,9:00,Jones S.FOUL (P5.T2) (D.Guthrie),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,505,8,0,4,9:48 PM,9:00,SUB: Ingram FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,507,8,0,4,9:49 PM,9:00,,,SUB: Niang FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,509,3,10,4,9:49 PM,9:00,,,Garland Free Throw 1 of 1 (24 PTS),97 - 74,-23,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,510,5,2,4,9:49 PM,8:48,Williamson Lost Ball Turnover (P2.T12),,LeVert STEAL (1 STL),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,512,1,2,4,9:49 PM,8:45,,,Merrill 26' 3PT Running Jump Shot (15 PTS) (LeVert 8 AST),100 - 74,-26,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,514,9,1,4,9:50 PM,8:45,PELICANS Timeout: Regular (Full 5 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,515,8,0,4,9:52 PM,8:45,,,SUB: Mitchell FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,517,2,79,4,9:52 PM,8:34,MISS Ingram 16' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,518,4,0,4,9:53 PM,8:28,,,Allen REBOUND (Off:1 Def:7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,519,6,2,4,9:53 PM,8:17,Murphy III S.FOUL (P3.T3) (S.Twardoski),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,521,3,11,4,9:53 PM,8:17,,,MISS Allen Free Throw 1 of 2,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,522,4,1,4,9:53 PM,8:17,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300951,523,3,12,4,9:53 PM,8:17,,,Allen Free Throw 2 of 2 (15 PTS),101 - 74,-27,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022300951,524,2,80,4,9:54 PM,7:53,MISS Murphy III 20' Step Back Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,525,4,0,4,9:54 PM,7:50,,,Niang REBOUND (Off:0 Def:6),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,526,5,11,4,9:54 PM,7:27,,,Cavaliers Turnover: Shot Clock (T#9),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300951,527,8,0,4,9:54 PM,7:27,SUB: McCollum FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,529,2,101,4,9:55 PM,7:15,MISS Williamson 4' Driving Floating Jump Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,530,4,0,4,9:55 PM,7:12,,,Allen REBOUND (Off:1 Def:8),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,531,2,73,4,9:55 PM,7:05,Murphy III BLOCK (1 BLK),,MISS Mitchell 2' Driving Reverse Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300951,533,4,0,4,9:55 PM,7:03,Murphy III REBOUND (Off:0 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,534,1,73,4,9:55 PM,6:56,Williamson 2' Driving Reverse Layup (31 PTS) (Murphy III 3 AST),,,101 - 76,-25,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,536,2,79,4,9:55 PM,6:38,,,MISS Niang 25' 3PT Pullup Jump Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,537,4,0,4,9:55 PM,6:36,,,Allen REBOUND (Off:2 Def:8),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,538,8,0,4,9:56 PM,6:36,SUB: Jones FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,539,8,0,4,9:56 PM,6:36,,,SUB: Garland FOR Merrill,,,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,542,10,0,4,9:56 PM,6:32,Jump Ball Murphy III vs. Allen: Tip to Niang,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022300951,545,2,86,4,9:56 PM,6:22,,,MISS Niang 17' Turnaround Fadeaway Shot,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,546,4,0,4,9:56 PM,6:20,McCollum REBOUND (Off:0 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,547,1,41,4,9:56 PM,6:14,McCollum 4' Running Layup (8 PTS),,,101 - 78,-23,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,548,1,58,4,9:57 PM,5:52,,,Allen 5' Turnaround Hook Shot (17 PTS) (Niang 1 AST),103 - 78,-25,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,550,1,79,4,9:57 PM,5:38,Ingram 14' Pullup Jump Shot (20 PTS),,,103 - 80,-23,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,551,6,1,4,9:57 PM,5:22,Williamson P.FOUL (P1.T4) (D.Guthrie),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022300951,553,2,1,4,9:58 PM,5:09,,,MISS Mitchell 26' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,554,4,0,4,9:58 PM,5:05,McCollum REBOUND (Off:0 Def:3),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,555,1,98,4,9:58 PM,4:58,Williamson 1' Cutting Layup Shot (33 PTS) (Jones 3 AST),,,103 - 82,-21,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,557,1,1,4,9:58 PM,4:38,,,Garland 3PT Jump Shot (27 PTS) (Mitchell 5 AST),106 - 82,-24,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,559,9,1,4,9:59 PM,4:38,PELICANS Timeout: Regular (Full 6 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,560,8,0,4,10:00 PM,4:38,SUB: Hawkins FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,561,8,0,4,10:00 PM,4:38,SUB: Robinson-Earl FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630526,Jeremiah Robinson-Earl,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,562,8,0,4,10:00 PM,4:38,SUB: Ryan FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,563,8,0,4,10:00 PM,4:38,SUB: Marshall FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,564,8,0,4,10:00 PM,4:38,SUB: Alvarado FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300951,565,8,0,4,10:00 PM,4:38,,,SUB: Okoro FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,572,1,79,4,10:02 PM,4:29,Hawkins 16' Pullup Jump Shot (2 PTS) (Robinson-Earl 1 AST),,,106 - 84,-22,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1630526,Jeremiah Robinson-Earl,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,574,1,3,4,10:02 PM,4:10,,,Niang 7' Hook Shot (16 PTS) (LeVert 9 AST),108 - 84,-24,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,576,2,1,4,10:02 PM,3:53,MISS Robinson-Earl 24' 3PT Jump Shot,,,,,4,1630526,Jeremiah Robinson-Earl,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,577,4,0,4,10:02 PM,3:47,,,LeVert REBOUND (Off:1 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,578,2,2,4,10:02 PM,3:44,,,MISS Garland 25' 3PT Running Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,579,4,0,4,10:02 PM,3:41,Marshall REBOUND (Off:0 Def:5),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,580,6,2,4,10:03 PM,3:37,,,Niang S.FOUL (P5.T3) (D.Taylor),,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,582,3,11,4,10:03 PM,3:37,MISS Hawkins Free Throw 1 of 2,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,583,4,1,4,10:03 PM,3:37,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300951,584,8,0,4,10:03 PM,3:37,,,SUB: Merrill FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,585,8,0,4,10:03 PM,3:37,,,SUB: Mobley FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,586,8,0,4,10:03 PM,3:37,,,SUB: Jones FOR Niang,,,5,1627777,Georges Niang,1610612739.0,Cleveland,Cavaliers,CLE,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,587,8,0,4,10:03 PM,3:37,,,SUB: Porter Jr. FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022300951,592,3,12,4,10:03 PM,3:37,Hawkins Free Throw 2 of 2 (3 PTS),,,108 - 85,-23,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,593,2,1,4,10:04 PM,3:15,,,MISS Mobley 3PT Jump Shot,,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,594,4,0,4,10:04 PM,3:11,,,Jones REBOUND (Off:1 Def:4),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,595,5,40,4,10:04 PM,3:09,,,Okoro Out of Bounds Lost Ball Turnover (P1.T10),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022300951,596,2,79,4,10:04 PM,2:59,MISS Hawkins 15' Pullup Jump Shot,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,597,4,0,4,10:04 PM,2:54,,,Jones REBOUND (Off:1 Def:5),,,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,598,1,41,4,10:04 PM,2:49,,,Okoro 2' Running Layup (7 PTS),110 - 85,-25,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,599,6,2,4,10:04 PM,2:33,,,Mobley S.FOUL (P1.T4) (D.Guthrie),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300951,601,3,11,4,10:05 PM,2:33,Marshall Free Throw 1 of 2 (1 PTS),,,110 - 86,-24,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,602,3,12,4,10:05 PM,2:33,Marshall Free Throw 2 of 2 (2 PTS),,,110 - 87,-23,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,603,1,44,4,10:05 PM,2:11,,,Jones 1' Reverse Layup (14 PTS) (Merrill 9 AST),112 - 87,-25,5,1627745,Damian Jones,1610612739.0,Cleveland,Cavaliers,CLE,5,1630241,Sam Merrill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022300951,605,1,1,4,10:06 PM,1:58,Alvarado 27' 3PT Jump Shot (5 PTS) (Marshall 2 AST),,,112 - 90,-22,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,607,1,5,4,10:06 PM,1:37,,,Mobley 1' Layup (2 PTS),114 - 90,-24,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,608,2,1,4,10:06 PM,1:28,MISS Hawkins 27' 3PT Jump Shot,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,609,4,0,4,10:06 PM,1:24,Robinson-Earl REBOUND (Off:1 Def:0),,,,,4,1630526,Jeremiah Robinson-Earl,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,610,1,79,4,10:06 PM,1:20,Marshall 25' 3PT Pullup Jump Shot (5 PTS) (Robinson-Earl 2 AST),,,114 - 93,-21,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630526,Jeremiah Robinson-Earl,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,612,5,1,4,10:07 PM,1:00,Marshall STEAL (1 STL),,Porter Jr. Bad Pass Turnover (P1.T11),,,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300951,614,1,41,4,10:07 PM,0:58,Marshall 2' Running Layup (7 PTS),,,114 - 95,-19,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,615,1,79,4,10:07 PM,0:39,,,Porter Jr. 20' Pullup Jump Shot (2 PTS),116 - 95,-21,5,1641854,Craig Porter Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,616,2,6,4,10:07 PM,0:31,MISS Hawkins 6' Driving Layup,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300951,617,4,0,4,10:07 PM,0:27,,,Okoro REBOUND (Off:3 Def:4),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022300951,618,5,11,4,10:08 PM,0:07,,,Cavaliers Turnover: Shot Clock (T#12),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300951,619,13,0,4,10:08 PM,0:00,,End of 4th Period (10:08 PM EST),,116 - 95,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

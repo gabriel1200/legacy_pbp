@@ -1,0 +1,458 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300705,2,12,0,1,3:43 PM,12:00,,Start of 1st Period (3:43 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,4,10,0,1,3:43 PM,12:00,Jump Ball Gafford vs. Nurkic: Tip to Beal,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1
+0022300705,7,6,2,1,3:43 PM,11:47,Gafford S.FOUL (P1.T1) (J.Goldenberg),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,9,3,11,1,3:43 PM,11:47,,,Nurkic Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,10,3,12,1,3:44 PM,11:47,,,Nurkic Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,11,1,6,1,3:44 PM,11:27,Gafford 1' Driving Layup (2 PTS) (Jones 1 AST),,,2 - 2,TIE,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,13,1,3,1,3:44 PM,11:13,,,Nurkic 3' Hook Shot (4 PTS) (Beal 1 AST),4 - 2,-2,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,15,2,102,1,3:44 PM,11:04,MISS Poole 3' Driving Floating Bank Jump Shot,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,16,4,0,1,3:44 PM,11:00,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,17,1,79,1,3:44 PM,10:52,,,Booker 17' Pullup Jump Shot (2 PTS),6 - 2,-4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,18,2,101,1,3:45 PM,10:34,MISS Jones 11' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,19,4,0,1,3:45 PM,10:32,,,Allen REBOUND (Off:0 Def:1),,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,20,1,103,1,3:45 PM,10:29,,,Durant 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Booker 1 AST),9 - 2,-7,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,22,2,1,1,3:45 PM,10:13,MISS Poole 30' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,23,4,0,1,3:45 PM,10:11,,,Nurkic REBOUND (Off:0 Def:1),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,24,1,101,1,3:45 PM,10:05,,,Nurkic 9' Driving Floating Jump Shot (6 PTS) (Beal 2 AST),11 - 2,-9,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,26,9,1,1,3:45 PM,10:04,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,27,1,1,1,3:48 PM,9:48,Avdija 3PT Jump Shot (3 PTS) (Jones 2 AST),,,11 - 5,-6,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,29,2,6,1,3:49 PM,9:34,,,MISS Beal 5' Driving Layup,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,30,4,0,1,3:49 PM,9:33,,,Nurkic REBOUND (Off:1 Def:1),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,31,1,97,1,3:49 PM,9:32,,,Nurkic Tip Layup Shot (8 PTS),13 - 5,-8,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,32,5,1,1,3:49 PM,9:20,Avdija Bad Pass Turnover (P1.T1),,Nurkic STEAL (1 STL),,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,34,2,50,1,3:49 PM,9:16,,,MISS Beal 3' Running Dunk,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,35,4,0,1,3:49 PM,9:16,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,37,2,101,1,3:49 PM,9:07,MISS Jones 4' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,38,4,0,1,3:49 PM,9:05,,,Allen REBOUND (Off:0 Def:2),,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,39,6,2,1,3:49 PM,9:02,Poole S.FOUL (P1.T2) (B.Taylor),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,41,18,0,1,3:50 PM,9:02,,Instant Replay1st Period (3:50 PM EST),,13 - 5,-8,0,39,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300705,42,3,13,1,3:51 PM,9:02,,,Booker Free Throw 1 of 3 (3 PTS),14 - 5,-9,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,43,3,14,1,3:51 PM,9:02,,,Booker Free Throw 2 of 3 (4 PTS),15 - 5,-10,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,44,3,15,1,3:51 PM,9:02,,,Booker Free Throw 3 of 3 (5 PTS),16 - 5,-11,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,46,1,58,1,3:52 PM,8:51,Gafford 4' Turnaround Hook Shot (4 PTS) (Poole 1 AST),,,16 - 7,-9,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,48,1,1,1,3:52 PM,8:44,,,Booker 26' 3PT Jump Shot (8 PTS) (Beal 3 AST),19 - 7,-12,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,50,2,78,1,3:52 PM,8:32,MISS Poole 9' Floating Jump Shot,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,51,4,0,1,3:52 PM,8:30,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,52,2,6,1,3:52 PM,8:23,Gafford BLOCK (1 BLK),,MISS Nurkic 7' Driving Layup,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022300705,54,4,0,1,3:52 PM,8:21,,,Nurkic REBOUND (Off:2 Def:1),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,55,2,1,1,3:52 PM,8:11,,,MISS Nurkic 27' 3PT Jump Shot,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,56,4,0,1,3:52 PM,8:09,Coulibaly REBOUND (Off:0 Def:1),,,,,4,1641731,Bilal Coulibaly,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,57,2,78,1,3:53 PM,7:45,MISS Jones 27' 3PT Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,58,4,0,1,3:53 PM,7:42,,,Nurkic REBOUND (Off:2 Def:2),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,60,1,102,1,3:53 PM,7:25,,,Beal 6' Driving Floating Bank Jump Shot (2 PTS),21 - 7,-14,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,61,1,6,1,3:53 PM,7:18,Avdija 1' Driving Layup (5 PTS) (Jones 3 AST),,,21 - 9,-12,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,63,2,79,1,3:54 PM,7:05,,,MISS Durant 14' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,64,4,0,1,3:54 PM,7:02,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,65,1,78,1,3:54 PM,6:55,Gafford 4' Floating Jump Shot (6 PTS) (Poole 2 AST),,,21 - 11,-10,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,67,1,79,1,3:54 PM,6:38,,,Beal 19' Pullup Jump Shot (4 PTS),23 - 11,-12,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,68,6,1,1,3:54 PM,6:24,,,Booker P.FOUL (P1.T1) (J.Goldenberg),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,70,8,0,1,3:54 PM,6:24,SUB: Kispert FOR Poole,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,73,1,79,1,3:55 PM,6:10,Kispert 11' Pullup Jump Shot (2 PTS),,,23 - 13,-10,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,74,1,80,1,3:55 PM,5:58,,,Beal 27' 3PT Step Back Jump Shot (7 PTS) (Nurkic 1 AST),26 - 13,-13,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,76,1,78,1,3:56 PM,5:42,Jones 6' Floating Jump Shot (2 PTS) (Gafford 1 AST),,,26 - 15,-11,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,77,5,4,1,3:56 PM,5:34,,,Durant Traveling Turnover (P1.T1),,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,78,2,79,1,3:56 PM,5:22,MISS Kispert 25' 3PT Pullup Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,79,4,0,1,3:56 PM,5:18,Gafford REBOUND (Off:1 Def:0),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,80,2,1,1,3:56 PM,5:11,MISS Coulibaly 3PT Jump Shot,,,,,4,1641731,Bilal Coulibaly,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,81,4,0,1,3:56 PM,5:07,,,Nurkic REBOUND (Off:2 Def:3),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,82,1,86,1,3:56 PM,4:58,,,Durant 13' Turnaround Fadeaway (5 PTS),28 - 15,-13,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,83,5,13,1,3:57 PM,4:47,Kispert Backcourt Turnover (P1.T2),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022300705,84,1,98,1,3:57 PM,4:38,,,Beal 4' Cutting Layup Shot (9 PTS) (Nurkic 2 AST),30 - 15,-15,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,86,1,101,1,3:57 PM,4:28,Jones 7' Driving Floating Jump Shot (4 PTS),,,30 - 17,-13,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,87,2,86,1,3:57 PM,4:09,,,MISS Durant 11' Turnaround Fadeaway Shot,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,88,4,0,1,3:58 PM,4:06,Avdija REBOUND (Off:0 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,89,1,6,1,3:58 PM,4:01,Avdija 2' Driving Layup (7 PTS),,,30 - 19,-11,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,90,1,101,1,3:58 PM,3:45,,,Beal 12' Driving Floating Jump Shot (11 PTS) (Nurkic 3 AST),32 - 19,-13,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,92,1,98,1,3:58 PM,3:34,Gafford 1' Cutting Layup Shot (8 PTS) (Jones 4 AST),,,32 - 21,-11,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,94,9,1,1,3:58 PM,3:34,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,96,8,0,1,3:58 PM,3:34,SUB: Shamet FOR Jones,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,97,8,0,1,3:58 PM,3:34,SUB: Omoruyi FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,98,8,0,1,3:58 PM,3:34,SUB: Poole FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,99,8,0,1,3:58 PM,3:34,,,SUB: Eubanks FOR Beal,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,100,8,0,1,3:58 PM,3:34,,,SUB: Bol FOR Nurkic,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,101,8,0,1,3:58 PM,3:34,,,SUB: Gordon FOR Durant,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,108,1,1,1,4:01 PM,3:15,,,Allen 28' 3PT Jump Shot (3 PTS) (Booker 2 AST),35 - 21,-14,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,110,7,5,1,4:02 PM,2:51,,,Booker Violation:Kicked Ball (B.Taylor),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0022300705,111,1,1,1,4:02 PM,2:45,Omoruyi 19' Jump Shot (2 PTS) (Kispert 1 AST),,,35 - 23,-12,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,112,1,79,1,4:02 PM,2:33,,,Booker 19' Pullup Jump Shot (10 PTS),37 - 23,-14,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,113,2,1,1,4:03 PM,2:20,MISS Kispert 25' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,114,4,0,1,4:03 PM,2:18,Shamet REBOUND (Off:1 Def:0),,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,115,2,1,1,4:03 PM,2:13,MISS Poole 24' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,116,4,0,1,4:03 PM,2:10,,,Allen REBOUND (Off:0 Def:3),,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,118,6,1,1,4:03 PM,2:07,Poole P.FOUL (P2.T3) (B.Taylor),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,120,6,2,1,4:03 PM,2:03,Omoruyi S.FOUL (P1.T4) (B.Taylor),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,122,3,11,1,4:04 PM,2:03,,,Booker Free Throw 1 of 2 (11 PTS),38 - 23,-15,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,123,3,12,1,4:04 PM,2:03,,,Booker Free Throw 2 of 2 (12 PTS),39 - 23,-16,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,124,1,6,1,4:04 PM,1:52,Poole 3' Driving Layup (2 PTS),,,39 - 25,-14,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,125,2,79,1,4:05 PM,1:36,,,MISS Booker 28' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,126,4,0,1,4:05 PM,1:29,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,127,6,2,1,4:05 PM,1:29,,,Booker S.FOUL (P2.T2) (B.Taylor),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,129,3,11,1,4:05 PM,1:29,Omoruyi Free Throw 1 of 2 (3 PTS),,,39 - 26,-13,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,132,3,12,1,4:05 PM,1:29,MISS Omoruyi Free Throw 2 of 2,,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,130,8,0,1,4:05 PM,1:29,,,SUB: Beal FOR Allen,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,133,4,0,1,4:05 PM,1:26,,,Eubanks REBOUND (Off:0 Def:1),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,134,2,1,1,4:06 PM,1:16,,,MISS Bol 3PT Jump Shot,,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,135,4,0,1,4:06 PM,1:12,Omoruyi REBOUND (Off:0 Def:1),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,136,2,1,1,4:06 PM,1:00,MISS Kispert 28' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,137,4,0,1,4:06 PM,0:59,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,138,6,3,1,4:06 PM,0:59,,,Booker L.B.FOUL (P3.PN) (B.Taylor),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,140,3,11,1,4:06 PM,0:59,Omoruyi Free Throw 1 of 2 (4 PTS),,,39 - 27,-12,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,141,8,0,1,4:06 PM,0:59,,,SUB: Okogie FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,143,3,12,1,4:07 PM,0:59,Omoruyi Free Throw 2 of 2 (5 PTS),,,39 - 28,-11,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,144,2,6,1,4:07 PM,0:39,,,MISS Beal 4' Driving Layup,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,145,4,0,1,4:07 PM,0:34,,,Okogie REBOUND (Off:1 Def:0),,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,146,1,1,1,4:07 PM,0:28,,,Beal 3PT Jump Shot (14 PTS) (Eubanks 1 AST),42 - 28,-14,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,148,5,2,1,4:08 PM,0:06,Poole Lost Ball Turnover (P1.T3),,Bol STEAL (1 STL),,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,150,5,6,1,4:08 PM,0:01,,,Bol Double Dribble Turnover (P1.T2),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,151,13,0,1,4:08 PM,0:00,,End of 1st Period (4:08 PM EST),,42 - 28,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,158,12,0,2,4:11 PM,12:00,,Start of 2nd Period (4:11 PM EST),,42 - 28,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,159,1,9,2,4:11 PM,11:48,Avdija 1' Driving Dunk (9 PTS) (Shamet 1 AST),,,42 - 30,-12,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,161,5,1,2,4:11 PM,11:33,Omoruyi STEAL (1 STL),,Okogie Bad Pass Turnover (P1.T3),,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,163,1,41,2,4:11 PM,11:29,Wright 3' Running Layup (2 PTS) (Kispert 2 AST),,,42 - 32,-10,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,165,1,86,2,4:12 PM,11:11,,,Durant 17' Turnaround Fadeaway (7 PTS),44 - 32,-12,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,166,1,79,2,4:12 PM,10:56,Shamet 14' Pullup Jump Shot (2 PTS) (Kispert 3 AST),,,44 - 34,-10,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,167,6,2,2,4:12 PM,10:39,Omoruyi S.FOUL (P2.T1) (J.Goldenberg),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,169,3,11,2,4:13 PM,10:39,,,MISS Durant Free Throw 1 of 2,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,170,4,1,2,4:13 PM,10:39,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,171,3,12,2,4:13 PM,10:39,,,Durant Free Throw 2 of 2 (8 PTS),45 - 34,-11,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,172,1,79,2,4:13 PM,10:31,Avdija 28' 3PT Pullup Jump Shot (12 PTS),,,45 - 37,-8,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,173,5,1,2,4:13 PM,10:22,Wright STEAL (1 STL),,Gordon Bad Pass Turnover (P1.T4),,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,177,6,2,2,4:14 PM,10:21,,,Gordon S.FOUL (P1.T1) (J.Goldenberg),,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,180,3,11,2,4:14 PM,10:21,Kispert Free Throw 1 of 2 (3 PTS),,,45 - 38,-7,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,181,3,12,2,4:14 PM,10:21,Kispert Free Throw 2 of 2 (4 PTS),,,45 - 39,-6,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,182,6,1,2,4:14 PM,10:12,Shamet P.FOUL (P1.T2) (D.Collins),,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,185,1,80,2,4:15 PM,10:02,,,Beal 18' Step Back Jump Shot (16 PTS),47 - 39,-8,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,187,6,1,2,4:15 PM,9:51,,,Eubanks P.FOUL (P1.T2) (D.Collins),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,190,5,1,2,4:16 PM,9:37,Avdija Bad Pass Turnover (P2.T4),,Beal STEAL (1 STL),,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,192,6,2,2,4:16 PM,9:33,Kispert S.FOUL (P1.T3) (D.Collins),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,194,3,11,2,4:16 PM,9:33,,,Beal Free Throw 1 of 2 (17 PTS),48 - 39,-9,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,195,8,0,2,4:16 PM,9:33,SUB: Gafford FOR Omoruyi,,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,197,3,12,2,4:16 PM,9:33,,,Beal Free Throw 2 of 2 (18 PTS),49 - 39,-10,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,198,5,1,2,4:17 PM,9:23,Kispert Bad Pass Turnover (P2.T5),,Beal STEAL (2 STL),,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,200,1,50,2,4:17 PM,9:21,,,Beal 1' Running Dunk (20 PTS),51 - 39,-12,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,201,9,1,2,4:17 PM,9:21,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,202,6,2,2,4:20 PM,9:07,,,Beal S.FOUL (P1.T3) (D.Collins),,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,204,3,11,2,4:20 PM,9:07,MISS Avdija Free Throw 1 of 2,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,205,4,1,2,4:20 PM,9:07,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,206,3,12,2,4:20 PM,9:07,MISS Avdija Free Throw 2 of 2,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,207,4,0,2,4:20 PM,9:05,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,208,6,2,2,4:21 PM,8:52,Gafford S.FOUL (P2.T4) (B.Taylor),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,210,3,11,2,4:21 PM,8:52,,,Eubanks Free Throw 1 of 2 (1 PTS),52 - 39,-13,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,211,3,12,2,4:21 PM,8:52,,,Eubanks Free Throw 2 of 2 (2 PTS),53 - 39,-14,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,212,2,79,2,4:22 PM,8:38,MISS Avdija 28' 3PT Pullup Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,213,4,0,2,4:22 PM,8:37,Shamet REBOUND (Off:2 Def:0),,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,214,2,63,2,4:22 PM,8:29,MISS Shamet 28' 3PT Fadeaway Jumper,,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,215,4,0,2,4:22 PM,8:27,Avdija REBOUND (Off:1 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,216,1,72,2,4:22 PM,8:26,Avdija 1' Putback Layup (14 PTS),,,53 - 41,-12,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,217,6,1,2,4:22 PM,8:10,Avdija P.FOUL (P1.PN) (B.Taylor),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,219,3,11,2,4:23 PM,8:10,,,Beal Free Throw 1 of 2 (21 PTS),54 - 41,-13,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,220,8,0,2,4:23 PM,8:10,SUB: Poole FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,221,8,0,2,4:23 PM,8:10,SUB: Jones FOR Wright,,,,,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,222,8,0,2,4:23 PM,8:10,,,SUB: Nurkic FOR Eubanks,,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,226,3,12,2,4:23 PM,8:10,,,Beal Free Throw 2 of 2 (22 PTS),55 - 41,-14,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,227,1,1,2,4:23 PM,8:02,Shamet 25' 3PT Jump Shot (5 PTS) (Jones 5 AST),,,55 - 44,-11,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,229,5,1,2,4:24 PM,7:38,Jones STEAL (1 STL),,Nurkic Bad Pass Turnover (P1.T5),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,231,5,2,2,4:24 PM,7:31,Shamet Lost Ball Turnover (P1.T6),,Okogie STEAL (1 STL),,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,233,1,41,2,4:24 PM,7:25,,,Nurkic 3' Running Layup (10 PTS) (Durant 1 AST),57 - 44,-13,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,235,1,73,2,4:24 PM,7:13,Shamet 2' Driving Reverse Layup (7 PTS) (Jones 6 AST),,,57 - 46,-11,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,236,2,6,2,4:24 PM,7:06,Gafford BLOCK (2 BLK),,MISS Gordon 4' Driving Layup,,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022300705,238,4,0,2,4:24 PM,7:05,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,240,6,2,2,4:25 PM,6:48,,,Nurkic S.FOUL (P1.T4) (B.Taylor),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,242,3,11,2,4:25 PM,6:48,Poole Free Throw 1 of 2 (3 PTS),,,57 - 47,-10,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,243,8,0,2,4:25 PM,6:48,SUB: Coulibaly FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1641731,Bilal Coulibaly,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,244,8,0,2,4:25 PM,6:48,,,SUB: Allen FOR Gordon,,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,247,3,12,2,4:26 PM,6:48,Poole Free Throw 2 of 2 (4 PTS),,,57 - 48,-9,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,248,1,98,2,4:26 PM,6:33,,,Beal 3' Cutting Layup Shot (24 PTS) (Nurkic 4 AST),59 - 48,-11,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,250,2,1,2,4:26 PM,6:18,MISS Jones 3PT Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,251,4,0,2,4:26 PM,6:17,,,Nurkic REBOUND (Off:2 Def:4),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,252,1,79,2,4:26 PM,6:10,,,Durant 18' Pullup Jump Shot (10 PTS) (Nurkic 5 AST),61 - 48,-13,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,254,2,74,2,4:26 PM,6:04,MISS Coulibaly 3' Running Reverse Layup,,,,,4,1641731,Bilal Coulibaly,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,255,4,0,2,4:26 PM,6:02,Gafford REBOUND (Off:2 Def:0),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,256,1,87,2,4:26 PM,5:58,Gafford 1' Putback Dunk (10 PTS),,,61 - 50,-11,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,257,1,79,2,4:27 PM,5:45,,,Okogie 10' Pullup Jump Shot (2 PTS) (Allen 1 AST),63 - 50,-13,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,259,1,101,2,4:27 PM,5:22,Jones 9' Driving Floating Jump Shot (6 PTS) (Poole 3 AST),,,63 - 52,-11,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,261,9,1,2,4:28 PM,5:03,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,263,8,0,2,4:28 PM,5:03,SUB: Avdija FOR Shamet,,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,265,2,80,2,4:31 PM,4:56,,,MISS Beal 29' 3PT Step Back Jump Shot,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,266,4,0,2,4:31 PM,4:53,Poole REBOUND (Off:0 Def:3),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,267,2,80,2,4:31 PM,4:45,MISS Poole 28' 3PT Step Back Jump Shot,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,268,4,0,2,4:31 PM,4:42,,,Beal REBOUND (Off:0 Def:1),,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,269,1,5,2,4:31 PM,4:27,,,Nurkic 2' Layup (12 PTS) (Durant 2 AST),65 - 52,-13,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,271,5,1,2,4:31 PM,4:11,Jones Bad Pass Turnover (P1.T7),,Durant STEAL (1 STL),,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,273,1,1,2,4:31 PM,4:02,,,Durant 27' 3PT Jump Shot (13 PTS) (Allen 2 AST),68 - 52,-16,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,275,9,1,2,4:32 PM,3:55,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,276,8,0,2,4:32 PM,3:55,SUB: Kispert FOR Poole,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,277,8,0,2,4:32 PM,3:55,,,SUB: Booker FOR Okogie,,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,278,8,0,2,4:32 PM,3:55,,,SUB: Bol FOR Beal,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,282,8,0,2,4:33 PM,3:55,,,SUB: Okogie FOR Durant,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,284,5,45,2,4:34 PM,3:46,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0022300705,285,2,1,2,4:34 PM,3:34,,,MISS Allen 26' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,286,4,0,2,4:34 PM,3:31,,,Okogie REBOUND (Off:2 Def:0),,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,287,1,97,2,4:34 PM,3:30,,,Okogie 2' Tip Layup Shot (4 PTS),70 - 52,-18,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,289,2,1,2,4:34 PM,3:16,MISS Kispert 26' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,290,4,0,2,4:34 PM,3:14,,,Bol REBOUND (Off:0 Def:1),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,291,1,5,2,4:34 PM,2:58,,,Nurkic 8' Layup (14 PTS) (Allen 3 AST),72 - 52,-20,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,293,2,1,2,4:35 PM,2:40,MISS Avdija 27' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,294,4,0,2,4:35 PM,2:36,,,Nurkic REBOUND (Off:2 Def:5),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,295,2,79,2,4:35 PM,2:26,,,MISS Booker 18' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,296,4,0,2,4:35 PM,2:25,Jones REBOUND (Off:0 Def:1),,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,297,2,1,2,4:35 PM,2:21,MISS Kispert 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,298,4,0,2,4:35 PM,2:17,,,Nurkic REBOUND (Off:2 Def:6),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,299,1,79,2,4:35 PM,2:05,,,Bol 12' Pullup Jump Shot (2 PTS) (Nurkic 6 AST),74 - 52,-22,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,301,1,98,2,4:36 PM,1:48,Kispert 2' Cutting Layup Shot (6 PTS) (Avdija 1 AST),,,74 - 54,-20,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,303,5,1,2,4:36 PM,1:27,Kispert STEAL (1 STL),,Allen Bad Pass Turnover (P1.T6),,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,306,8,0,2,4:36 PM,1:24,,,SUB: Beal FOR Okogie,,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,308,6,2,2,4:37 PM,1:16,,,Booker S.FOUL (P4.PN) (J.Goldenberg),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,310,6,11,2,4:37 PM,1:16,,,Booker T.FOUL (P4.PN) (J.Goldenberg),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,311,3,16,2,4:38 PM,1:16,Kispert Free Throw Technical (7 PTS),,,74 - 55,-19,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,312,7,1,2,4:38 PM,1:16,,,Suns Violation: Delay of game Violation,,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300705,313,3,11,2,4:38 PM,1:16,MISS Avdija Free Throw 1 of 2,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,314,4,1,2,4:38 PM,1:16,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,315,8,0,2,4:38 PM,1:16,,,SUB: Durant FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,317,3,12,2,4:38 PM,1:16,Avdija Free Throw 2 of 2 (15 PTS),,,74 - 56,-18,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,318,6,2,2,4:39 PM,1:01,Gafford S.FOUL (P3.PN) (B.Taylor),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,320,3,11,2,4:39 PM,1:01,,,Nurkic Free Throw 1 of 2 (15 PTS),75 - 56,-19,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,323,3,12,2,4:39 PM,1:01,,,MISS Nurkic Free Throw 2 of 2,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,321,8,0,2,4:39 PM,1:01,SUB: Omoruyi FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,324,4,0,2,4:39 PM,0:58,Avdija REBOUND (Off:1 Def:2),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,325,5,45,2,4:40 PM,0:44,Avdija Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022300705,327,1,79,2,4:40 PM,0:36,,,Beal 15' Pullup Jump Shot (26 PTS),77 - 56,-21,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,328,1,79,2,4:40 PM,0:25,Jones 9' Pullup Jump Shot (8 PTS),,,77 - 58,-19,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,329,1,108,2,4:40 PM,0:16,,,Bol 1' Cutting Dunk Shot (4 PTS) (Allen 4 AST),79 - 58,-21,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,331,2,5,2,4:41 PM,0:02,MISS Omoruyi 3' Layup,,Durant BLOCK (1 BLK),,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1
+0022300705,333,4,0,2,4:41 PM,0:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,334,2,1,2,4:41 PM,0:00,MISS Kispert 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,335,4,0,2,4:41 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,336,13,0,2,4:41 PM,0:00,,End of 2nd Period (4:41 PM EST),,79 - 58,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,345,12,0,3,4:56 PM,12:00,,Start of 3rd Period (4:56 PM EST),,79 - 58,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,346,2,101,3,4:57 PM,11:46,MISS Poole 8' Driving Floating Jump Shot,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,347,4,0,3,4:57 PM,11:45,Gafford REBOUND (Off:3 Def:0),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,348,1,107,3,4:57 PM,11:44,Gafford Tip Dunk Shot (12 PTS),,,79 - 60,-19,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,349,2,79,3,4:57 PM,11:29,,,MISS Booker 19' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,350,4,0,3,4:57 PM,11:26,Gafford REBOUND (Off:3 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,359,5,2,3,4:57 PM,11:12,Coulibaly Lost Ball Turnover (P1.T10),,Durant STEAL (2 STL),,,4,1641731,Bilal Coulibaly,1610612764.0,Washington,Wizards,WAS,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,353,1,41,3,4:57 PM,11:06,,,Beal 2' Running Layup (28 PTS) (Durant 3 AST),81 - 60,-21,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,355,9,1,3,4:58 PM,11:06,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,362,6,4,3,5:01 PM,10:46,Avdija OFF.Foul (P2) (D.Collins),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,364,5,37,3,5:01 PM,10:46,Avdija Offensive Foul Turnover (P4.T11),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022300705,368,1,102,3,5:01 PM,10:34,,,Beal 9' Driving Floating Bank Jump Shot (30 PTS) (Booker 3 AST),83 - 60,-23,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,370,1,6,3,5:02 PM,10:17,Avdija 5' Driving Layup (17 PTS) (Poole 4 AST),,,83 - 62,-21,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,372,2,1,3,5:02 PM,10:05,,,MISS Allen 25' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,373,4,0,3,5:02 PM,10:03,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,375,1,1,3,5:02 PM,10:01,,,Beal 25' 3PT Jump Shot (33 PTS) (Booker 4 AST),86 - 62,-24,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,377,6,26,3,5:02 PM,9:56,Avdija Offensive Charge Foul (P3) (B.Taylor),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,379,5,37,3,5:02 PM,9:56,Avdija Offensive Foul Turnover (P5.T12),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022300705,380,9,1,3,5:03 PM,9:56,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,381,18,6,3,5:03 PM,9:56,,Instant Replay3rd Period (5:03 PM EST),,86 - 62,-24,0,377,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300705,382,5,1,3,5:06 PM,9:42,Avdija STEAL (1 STL),,Beal Bad Pass Turnover (P1.T7),,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,384,1,108,3,5:06 PM,9:38,Gafford 2' Cutting Dunk Shot (14 PTS) (Jones 7 AST),,,86 - 64,-22,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,386,1,79,3,5:06 PM,9:22,,,Booker 17' Pullup Jump Shot (14 PTS),88 - 64,-24,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,387,1,101,3,5:06 PM,9:11,Jones 10' Driving Floating Jump Shot (10 PTS),,,88 - 66,-22,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,388,2,1,3,5:06 PM,9:05,,,MISS Booker 28' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,389,4,0,3,5:06 PM,9:02,Poole REBOUND (Off:0 Def:4),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,390,2,1,3,5:07 PM,8:56,MISS Jones 27' 3PT Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,391,4,0,3,5:07 PM,8:53,,,Beal REBOUND (Off:0 Def:2),,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,393,6,1,3,5:07 PM,8:50,Poole P.FOUL (P3.T1) (B.Taylor),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,422,9,7,3,5:07 PM,8:50,,,Suns Timeout: Coach Challenge (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,397,18,5,3,5:07 PM,8:50,,Instant Replay3rd Period (5:07 PM EST),,88 - 66,-22,0,393,Rod Strickland,,,,,0,0,,,,,,1,0,,,,,,1
+0022300705,398,1,98,3,5:10 PM,8:48,,,Allen 5' Cutting Layup Shot (5 PTS) (Beal 4 AST),90 - 66,-24,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,400,2,101,3,5:10 PM,8:35,MISS Jones 12' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,401,4,0,3,5:10 PM,8:33,,,Booker REBOUND (Off:0 Def:1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,402,2,101,3,5:11 PM,8:19,,,MISS Allen 4' Driving Floating Jump Shot,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,403,4,0,3,5:11 PM,8:18,Gafford REBOUND (Off:3 Def:2),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,404,1,76,3,5:11 PM,8:13,Avdija 3' Running Finger Roll Layup (19 PTS) (Poole 5 AST),,,90 - 68,-22,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,406,1,79,3,5:11 PM,8:05,,,Durant 26' 3PT Pullup Jump Shot (16 PTS) (Beal 5 AST),93 - 68,-25,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,408,9,1,3,5:11 PM,7:44,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,410,1,101,3,5:13 PM,7:41,Jones 10' Driving Floating Jump Shot (12 PTS) (Poole 6 AST),,,93 - 70,-23,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,412,2,1,3,5:13 PM,7:24,,,MISS Allen 28' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,413,4,0,3,5:13 PM,7:21,Poole REBOUND (Off:0 Def:5),,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,414,1,41,3,5:13 PM,7:19,Avdija 1' Running Layup (21 PTS) (Poole 7 AST),,,93 - 72,-21,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,416,1,108,3,5:13 PM,7:05,,,Beal 1' Cutting Dunk Shot (35 PTS) (Nurkic 7 AST),95 - 72,-23,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,418,1,1,3,5:14 PM,6:43,Avdija 3PT Jump Shot (24 PTS) (Jones 8 AST),,,95 - 75,-20,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,420,2,79,3,5:14 PM,6:28,,,MISS Beal 16' Pullup Jump Shot,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,421,4,0,3,5:14 PM,6:26,,,Nurkic REBOUND (Off:3 Def:6),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,455,2,72,3,5:14 PM,6:25,Avdija BLOCK (1 BLK),,MISS Nurkic 3' Putback Layup,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1
+0022300705,456,4,0,3,5:14 PM,6:24,,,Nurkic REBOUND (Off:4 Def:6),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,423,1,72,3,5:14 PM,6:23,,,Nurkic 5' Putback Layup (17 PTS),97 - 75,-22,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,424,1,78,3,5:14 PM,6:12,Jones 4' Floating Jump Shot (14 PTS),,,97 - 77,-20,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,425,2,57,3,5:15 PM,5:56,,,MISS Booker 11' Driving Hook Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,426,4,0,3,5:15 PM,5:54,Gafford REBOUND (Off:3 Def:3),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,427,2,2,3,5:15 PM,5:50,MISS Avdija 22' Running Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,428,4,0,3,5:15 PM,5:46,,,Durant REBOUND (Off:0 Def:4),,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,429,2,79,3,5:15 PM,5:39,,,MISS Booker 16' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,430,4,0,3,5:15 PM,5:38,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,431,6,3,3,5:15 PM,5:38,,,Nurkic L.B.FOUL (P2.T1) (D.Collins),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,433,8,0,3,5:15 PM,5:38,SUB: Kispert FOR Coulibaly,,,,,4,1641731,Bilal Coulibaly,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,434,8,0,3,5:15 PM,5:38,SUB: Shamet FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,435,8,0,3,5:15 PM,5:38,SUB: Davis FOR Poole,,,,,4,1629673,Jordan Poole,1610612764.0,Washington,Wizards,WAS,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,436,8,0,3,5:15 PM,5:38,,,SUB: Gordon FOR Beal,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,441,2,3,3,5:16 PM,5:29,MISS Davis 10' Hook Shot,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,442,4,0,3,5:16 PM,5:26,Gafford REBOUND (Off:4 Def:3),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,443,6,2,3,5:16 PM,5:26,,,Nurkic S.FOUL (P3.T2) (J.Goldenberg),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,445,3,11,3,5:16 PM,5:26,MISS Gafford Free Throw 1 of 2,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,446,4,1,3,5:16 PM,5:26,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,447,3,12,3,5:16 PM,5:26,Gafford Free Throw 2 of 2 (15 PTS),,,97 - 78,-19,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,448,6,2,3,5:17 PM,5:21,Kispert S.FOUL (P2.T2) (J.Goldenberg),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,450,3,11,3,5:17 PM,5:21,,,MISS Allen Free Throw 1 of 2,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,451,4,1,3,5:17 PM,5:21,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,452,3,12,3,5:17 PM,5:21,,,Allen Free Throw 2 of 2 (6 PTS),98 - 78,-20,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,453,5,2,3,5:18 PM,5:09,Kispert Lost Ball Turnover (P3.T13),,Gordon STEAL (1 STL),,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,457,2,1,3,5:18 PM,5:01,,,MISS Gordon 28' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,458,4,0,3,5:18 PM,4:58,Kispert REBOUND (Off:0 Def:1),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,459,2,79,3,5:18 PM,4:50,MISS Jones 7' Pullup Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,460,4,0,3,5:18 PM,4:49,,,Nurkic REBOUND (Off:4 Def:7),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,461,1,108,3,5:18 PM,4:43,,,Durant 4' Cutting Dunk Shot (18 PTS) (Nurkic 8 AST),100 - 78,-22,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,463,2,101,3,5:18 PM,4:27,MISS Jones 9' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,464,4,0,3,5:18 PM,4:25,,,Nurkic REBOUND (Off:4 Def:8),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,465,6,2,3,5:19 PM,4:13,Gafford S.FOUL (P4.T3) (B.Taylor),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,467,3,11,3,5:19 PM,4:13,,,Nurkic Free Throw 1 of 2 (18 PTS),101 - 78,-23,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,472,3,12,3,5:19 PM,4:13,,,MISS Nurkic Free Throw 2 of 2,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,468,8,0,3,5:19 PM,4:13,SUB: Wright FOR Jones,,,,,4,1626145,Tyus Jones,1610612764.0,Washington,Wizards,WAS,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,469,8,0,3,5:19 PM,4:13,SUB: Omoruyi FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,473,4,0,3,5:19 PM,4:11,Omoruyi REBOUND (Off:0 Def:2),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,474,2,1,3,5:19 PM,4:02,MISS Wright 28' 3PT Jump Shot,,,,,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,475,4,0,3,5:20 PM,3:57,,,Nurkic REBOUND (Off:4 Def:9),,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,476,2,5,3,5:20 PM,3:42,,,MISS Nurkic 5' Layup,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,477,4,0,3,5:20 PM,3:40,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,479,8,0,3,5:20 PM,3:40,,,SUB: Eubanks FOR Nurkic,,,5,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,480,8,0,3,5:20 PM,3:40,,,SUB: Bol FOR Durant,,,5,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,483,1,1,3,5:20 PM,3:35,,,Gordon 27' 3PT Jump Shot (3 PTS) (Booker 5 AST),104 - 78,-26,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,485,1,79,3,5:21 PM,3:09,Shamet 14' Pullup Jump Shot (9 PTS) (Omoruyi 1 AST),,,104 - 80,-24,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,487,1,6,3,5:21 PM,2:46,,,Gordon 5' Driving Layup (5 PTS),106 - 80,-26,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,488,2,1,3,5:21 PM,2:32,MISS Davis 26' 3PT Jump Shot,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,489,4,0,3,5:21 PM,2:29,,,Eubanks REBOUND (Off:0 Def:2),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,490,2,1,3,5:22 PM,2:17,,,MISS Gordon 28' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,491,4,0,3,5:22 PM,2:14,,,Bol REBOUND (Off:1 Def:1),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,492,1,72,3,5:22 PM,2:13,,,Bol 2' Putback Layup (6 PTS),108 - 80,-28,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,493,1,9,3,5:22 PM,2:07,Kispert 2' Driving Dunk (9 PTS) (Wright 1 AST),,,108 - 82,-26,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,496,8,0,3,5:22 PM,1:59,,,SUB: Beal FOR Allen,,,5,1628960,Grayson Allen,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,498,6,1,3,5:22 PM,1:49,Kispert P.FOUL (P3.T4) (J.Goldenberg),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,500,6,1,3,5:23 PM,1:44,Omoruyi P.FOUL (P3.PN) (J.Goldenberg),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,502,3,11,3,5:23 PM,1:44,,,Beal Free Throw 1 of 2 (36 PTS),109 - 82,-27,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,503,3,12,3,5:24 PM,1:44,,,Beal Free Throw 2 of 2 (37 PTS),110 - 82,-28,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,504,2,101,3,5:24 PM,1:29,MISS Shamet 9' Driving Floating Jump Shot,,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,505,4,0,3,5:24 PM,1:27,,,Bol REBOUND (Off:1 Def:2),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,506,5,45,3,5:24 PM,1:19,,,Eubanks Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,508,1,6,3,5:25 PM,1:03,Kispert 1' Driving Layup (11 PTS),,,110 - 84,-26,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,509,2,101,3,5:25 PM,0:38,,,MISS Booker 8' Driving Floating Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,510,4,0,3,5:25 PM,0:35,,,Bol REBOUND (Off:2 Def:2),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,511,1,73,3,5:25 PM,0:32,,,Gordon 1' Driving Reverse Layup (7 PTS) (Booker 6 AST),112 - 84,-28,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,513,6,1,3,5:25 PM,0:21,,,Eubanks P.FOUL (P2.T3) (J.Goldenberg),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,515,1,79,3,5:26 PM,0:10,Shamet 15' Pullup Jump Shot (11 PTS) (Kispert 4 AST),,,112 - 86,-26,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,517,1,80,3,5:26 PM,0:01,,,Beal 30' 3PT Step Back Jump Shot (40 PTS),115 - 86,-29,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,518,6,11,3,5:26 PM,0:00,,Brian Keefe Foul:T.FOUL (B.Taylor),,,,6,201449,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300705,519,3,16,3,5:27 PM,0:00,,,Beal Free Throw Technical (41 PTS),116 - 86,-30,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,520,13,0,3,5:27 PM,0:00,,End of 3rd Period (5:27 PM EST),,116 - 86,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,523,12,0,4,5:30 PM,12:00,,Start of 4th Period (5:30 PM EST),,116 - 86,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,524,5,4,4,5:30 PM,11:49,,,Beal Traveling Turnover (P2.T9),,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,525,2,1,4,5:30 PM,11:40,MISS Omoruyi 26' 3PT Jump Shot,,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,526,4,0,4,5:30 PM,11:37,,,Bol REBOUND (Off:2 Def:3),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,528,6,1,4,5:31 PM,11:27,Davis P.FOUL (P1.T1) (B.Taylor),,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,530,1,3,4,5:31 PM,11:19,,,Eubanks 3' Hook Shot (4 PTS) (Beal 6 AST),118 - 86,-32,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,532,2,79,4,5:31 PM,11:12,MISS Shamet 26' 3PT Pullup Jump Shot,,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,533,4,0,4,5:31 PM,11:09,,,Eubanks REBOUND (Off:0 Def:3),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,534,5,2,4,5:32 PM,10:55,Davis STEAL (1 STL),,Bol Lost Ball Turnover (P2.T10),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,536,1,106,4,5:32 PM,10:51,Omoruyi 1' Running Alley Oop Dunk Shot (7 PTS) (Wright 2 AST),,,118 - 88,-30,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,539,7,1,4,5:33 PM,10:36,WIZARDS Violation: Delay of game Violation,,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300705,541,5,2,4,5:33 PM,10:32,Omoruyi STEAL (2 STL),,Eubanks Lost Ball Turnover (P2.T11),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,543,1,50,4,5:33 PM,10:27,Kispert 3' Running Dunk (13 PTS) (Omoruyi 2 AST),,,118 - 90,-28,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,545,2,1,4,5:33 PM,10:07,,,MISS Bol 25' 3PT Jump Shot,,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,546,4,0,4,5:33 PM,10:05,Wright REBOUND (Off:0 Def:1),,,,,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,547,2,6,4,5:33 PM,9:56,MISS Wright 6' Driving Layup,,Eubanks BLOCK (1 BLK),,,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,1
+0022300705,549,4,0,4,5:34 PM,9:53,,,Bol REBOUND (Off:2 Def:4),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,550,2,103,4,5:34 PM,9:51,,,MISS Bol 22' Running Pull-Up Jump Shot,,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,551,4,0,4,5:34 PM,9:48,Omoruyi REBOUND (Off:0 Def:3),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,552,2,79,4,5:34 PM,9:40,MISS Shamet 27' 3PT Pullup Jump Shot,,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,553,4,0,4,5:34 PM,9:37,,,Bol REBOUND (Off:2 Def:5),,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,554,1,80,4,5:34 PM,9:22,,,Beal 20' Step Back Jump Shot (43 PTS),120 - 90,-30,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,555,2,101,4,5:34 PM,9:07,MISS Davis 11' Driving Floating Jump Shot,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,556,4,0,4,5:34 PM,9:06,Omoruyi REBOUND (Off:1 Def:3),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,557,2,5,4,5:34 PM,9:06,MISS Omoruyi 5' Layup,,Eubanks BLOCK (2 BLK),,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,1
+0022300705,559,4,0,4,5:34 PM,9:05,Omoruyi REBOUND (Off:2 Def:3),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,655,2,5,4,5:34 PM,9:05,MISS Omoruyi 2' Layup,,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,656,4,0,4,5:34 PM,9:04,Kispert REBOUND (Off:1 Def:1),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,560,1,5,4,5:34 PM,9:03,Kispert 3' Layup (15 PTS),,,120 - 92,-28,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,561,6,2,4,5:35 PM,8:44,Kispert S.FOUL (P4.T2) (B.Taylor),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022300705,563,3,11,4,5:35 PM,8:44,,,Eubanks Free Throw 1 of 2 (5 PTS),121 - 92,-29,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,564,8,0,4,5:35 PM,8:44,,,SUB: Goodwin FOR Beal,,,5,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,566,3,12,4,5:35 PM,8:44,,,MISS Eubanks Free Throw 2 of 2,,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,567,4,0,4,5:35 PM,8:42,Omoruyi REBOUND (Off:2 Def:4),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,568,1,108,4,5:36 PM,8:28,Shamet 2' Cutting Dunk Shot (13 PTS) (Omoruyi 3 AST),,,121 - 94,-27,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,570,1,6,4,5:36 PM,8:07,,,Bol 3' Driving Layup (8 PTS),123 - 94,-29,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,571,2,1,4,5:36 PM,7:57,MISS Omoruyi 27' 3PT Jump Shot,,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,572,4,0,4,5:36 PM,7:54,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,574,8,0,4,5:37 PM,7:54,,,SUB: Watanabe FOR Gordon,,,5,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,576,5,4,4,5:37 PM,7:41,,,Eubanks Traveling Turnover (P3.T12),,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,577,8,0,4,5:37 PM,7:41,,,SUB: Bates-Diop FOR Okogie,,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,578,8,0,4,5:37 PM,7:41,,,SUB: Little FOR Bol,,,5,1629626,Bol Bol,1610612756.0,Phoenix,Suns,PHX,5,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,579,8,0,4,5:37 PM,7:41,,,SUB: Metu FOR Eubanks,,,5,1629234,Drew Eubanks,1610612756.0,Phoenix,Suns,PHX,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022300705,583,2,79,4,5:38 PM,7:27,MISS Kispert 30' 3PT Pullup Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,584,4,0,4,5:38 PM,7:23,,,Bates-Diop REBOUND (Off:0 Def:1),,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,585,1,57,4,5:38 PM,7:12,,,Metu 8' Driving Hook Shot (2 PTS) (Bates-Diop 1 AST),125 - 94,-31,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,586,2,6,4,5:38 PM,6:56,MISS Davis 12' Driving Layup,,Goodwin BLOCK (1 BLK),,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,1
+0022300705,588,4,0,4,5:38 PM,6:56,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300705,589,9,1,4,5:39 PM,6:56,WIZARDS Timeout: Regular (Full 7 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,591,8,0,4,5:39 PM,6:56,SUB: Gill FOR Shamet,,,,,4,1629013,Landry Shamet,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,592,8,0,4,5:39 PM,6:56,SUB: Baldwin Jr. FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,593,8,0,4,5:39 PM,6:56,SUB: Bernard FOR Wright,,,,,4,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022300705,597,10,0,4,5:41 PM,6:53,Jump Ball Davis vs. Goodwin: Tip to Omoruyi,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,1
+0022300705,600,1,1,4,5:42 PM,6:47,Omoruyi 27' 3PT Jump Shot (10 PTS) (Bernard 1 AST),,,125 - 97,-28,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,602,1,102,4,5:42 PM,6:27,,,Goodwin 11' Driving Floating Bank Jump Shot (2 PTS),127 - 97,-30,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,603,1,1,4,5:42 PM,6:13,Bernard 25' 3PT Jump Shot (3 PTS) (Davis 1 AST),,,127 - 100,-27,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,605,5,2,4,5:42 PM,5:56,Bernard STEAL (1 STL),,Metu Lost Ball Turnover (P1.T13),,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,607,6,2,4,5:43 PM,5:52,,,Goodwin S.FOUL (P1.T1) (J.Goldenberg),,,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022300705,609,3,11,4,5:43 PM,5:52,MISS Baldwin Jr. Free Throw 1 of 2,,,,,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,610,4,1,4,5:43 PM,5:52,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,611,3,12,4,5:43 PM,5:52,Baldwin Jr. Free Throw 2 of 2 (1 PTS),,,127 - 101,-26,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,613,5,1,4,5:43 PM,5:50,Gill STEAL (1 STL),,Metu Bad Pass Turnover (P2.T14),,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,615,2,5,4,5:43 PM,5:48,MISS Gill 1' Layup,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,616,4,0,4,5:43 PM,5:47,,,Metu REBOUND (Off:0 Def:1),,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,617,1,101,4,5:44 PM,5:33,,,Goodwin 10' Driving Floating Jump Shot (4 PTS) (Little 1 AST),129 - 101,-28,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,5,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,619,5,1,4,5:44 PM,5:17,Gill Bad Pass Turnover (P1.T14),,Bates-Diop STEAL (1 STL),,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,621,1,101,4,5:44 PM,4:52,,,Bates-Diop 11' Driving Floating Jump Shot (2 PTS) (Little 2 AST),131 - 101,-30,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,5,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,623,1,80,4,5:44 PM,4:40,Davis 27' 3PT Step Back Jump Shot (3 PTS) (Bernard 2 AST),,,131 - 104,-27,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,625,2,1,4,5:45 PM,4:25,,,MISS Little 26' 3PT Jump Shot,,,5,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,626,4,0,4,5:45 PM,4:23,Gill REBOUND (Off:0 Def:1),,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,627,5,2,4,5:45 PM,4:19,Gill Lost Ball Turnover (P2.T15),,Watanabe STEAL (1 STL),,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,629,1,50,4,5:45 PM,4:16,,,Watanabe 2' Running Dunk (2 PTS),133 - 104,-29,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,630,2,79,4,5:45 PM,4:03,MISS Davis 19' Pullup Jump Shot,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,631,4,0,4,5:45 PM,4:00,,,Little REBOUND (Off:0 Def:1),,,5,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,632,5,1,4,5:45 PM,3:50,Gill STEAL (2 STL),,Bates-Diop Bad Pass Turnover (P1.T15),,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,634,5,2,4,5:45 PM,3:44,Gill Lost Ball Turnover (P3.T16),,Goodwin STEAL (1 STL),,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,636,1,6,4,5:45 PM,3:35,,,Metu 9' Driving Layup (4 PTS),135 - 104,-31,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,637,2,47,4,5:46 PM,3:20,MISS Bernard 14' Turnaround Jump Shot,,,,,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,638,4,0,4,5:46 PM,3:18,Omoruyi REBOUND (Off:3 Def:4),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,639,2,5,4,5:46 PM,3:18,MISS Omoruyi 3' Layup,,Bates-Diop BLOCK (1 BLK),,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,1
+0022300705,641,4,0,4,5:46 PM,3:17,Omoruyi REBOUND (Off:4 Def:4),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,642,1,5,4,5:46 PM,3:16,Omoruyi 2' Layup (12 PTS),,,135 - 106,-29,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,643,2,79,4,5:46 PM,2:52,,,MISS Metu 19' Pullup Jump Shot,,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,644,4,0,4,5:46 PM,2:49,Baldwin Jr. REBOUND (Off:0 Def:1),,,,,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,645,2,79,4,5:46 PM,2:35,MISS Davis 27' 3PT Pullup Jump Shot,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,646,4,0,4,5:47 PM,2:31,,,Bates-Diop REBOUND (Off:0 Def:2),,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,647,2,6,4,5:47 PM,2:20,,,MISS Metu 5' Driving Layup,,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,648,4,0,4,5:47 PM,2:19,,,Metu REBOUND (Off:1 Def:1),,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,649,1,1,4,5:47 PM,2:17,,,Watanabe 25' 3PT Jump Shot (5 PTS) (Metu 1 AST),138 - 106,-32,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,651,5,1,4,5:47 PM,2:02,Davis Bad Pass Turnover (P1.T17),,Watanabe STEAL (2 STL),,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,653,5,40,4,5:47 PM,1:59,,,Watanabe Out of Bounds Lost Ball Turnover (P1.T16),,,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022300705,654,9,1,4,5:47 PM,1:59,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,657,2,1,4,5:50 PM,1:46,MISS Baldwin Jr. 13' Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,658,4,0,4,5:50 PM,1:44,Omoruyi REBOUND (Off:5 Def:4),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,659,1,5,4,5:50 PM,1:44,Omoruyi 3' Layup (14 PTS),,,138 - 108,-30,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,660,2,1,4,5:51 PM,1:30,Bernard BLOCK (1 BLK),,MISS Watanabe 27' 3PT Jump Shot,,,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,1
+0022300705,662,4,0,4,5:51 PM,1:29,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300705,664,2,1,4,5:51 PM,1:26,,,MISS Goodwin 20' Jump Shot,,,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,665,4,0,4,5:51 PM,1:23,Omoruyi REBOUND (Off:5 Def:5),,,,,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,666,5,1,4,5:51 PM,1:15,Bernard Bad Pass Turnover (P1.T18),,Goodwin STEAL (2 STL),,,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,668,1,76,4,5:51 PM,1:12,,,Watanabe 2' Running Finger Roll Layup (7 PTS) (Goodwin 1 AST),140 - 108,-32,5,1629139,Yuta Watanabe,1610612756.0,Phoenix,Suns,PHX,5,1630692,Jordan Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022300705,686,2,6,4,5:52 PM,0:58,MISS Baldwin Jr. 5' Driving Layup,,Bates-Diop BLOCK (2 BLK),,,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0
+0022300705,688,4,0,4,5:52 PM,0:58,,,Bates-Diop REBOUND (Off:0 Def:3),,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022300705,673,5,2,4,5:52 PM,0:54,Omoruyi STEAL (3 STL),,Bates-Diop Lost Ball Turnover (P2.T17),,,5,1628966,Keita Bates-Diop,1610612756.0,Phoenix,Suns,PHX,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,675,1,5,4,5:52 PM,0:52,Omoruyi 1' Layup (16 PTS) (Baldwin Jr. 1 AST),,,140 - 110,-30,4,1630647,Eugene Omoruyi,1610612764.0,Washington,Wizards,WAS,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,677,2,1,4,5:52 PM,0:38,,,MISS Little 3PT Jump Shot,,,5,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,678,4,0,4,5:52 PM,0:35,Bernard REBOUND (Off:0 Def:1),,,,,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,679,1,74,4,5:52 PM,0:31,Baldwin Jr. 3' Running Reverse Layup (3 PTS) (Bernard 3 AST),,,140 - 112,-28,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,4,1631262,Jules Bernard,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022300705,681,5,11,4,5:53 PM,0:07,,,Suns Turnover: Shot Clock (T#18),,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300705,682,2,1,4,5:53 PM,0:01,MISS Baldwin Jr. 3PT Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022300705,683,4,0,4,5:53 PM,0:01,,,Metu REBOUND (Off:1 Def:2),,,5,1629002,Chimezie Metu,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022300705,684,13,0,4,5:53 PM,0:00,,End of 4th Period (5:53 PM EST),,140 - 112,-28,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

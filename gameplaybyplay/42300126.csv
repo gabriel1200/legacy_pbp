@@ -1,0 +1,466 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300126,2,12,0,1,6:33 PM,12:00,,Start of 1st Period (6:33 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,4,10,0,1,6:33 PM,12:00,Jump Ball Turner vs. Lopez: Tip to Lillard,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1
+0042300126,7,1,86,1,6:34 PM,11:36,,,Middleton 9' Turnaround Fadeaway (2 PTS),2 - 0,-2,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,8,1,80,1,6:34 PM,11:18,Haliburton 26' 3PT Step Back Jump Shot (3 PTS) (Siakam 1 AST),,,2 - 3,1,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,10,1,75,1,6:34 PM,11:04,,,Beverley 3' Driving Finger Roll Layup (2 PTS),4 - 3,-1,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,11,2,1,1,6:34 PM,10:57,MISS Nembhard 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,12,4,0,1,6:34 PM,10:55,,,Middleton REBOUND (Off:0 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,14,1,80,1,6:35 PM,10:41,,,Lopez 15' Step Back Jump Shot (2 PTS) (Beverley 1 AST),6 - 3,-3,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,16,2,99,1,6:35 PM,10:25,MISS Turner 3' Cutting Finger Roll Layup Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,17,4,0,1,6:35 PM,10:23,,,Portis REBOUND (Off:0 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,18,2,1,1,6:35 PM,10:11,,,MISS Middleton 26' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,19,4,0,1,6:35 PM,10:07,Haliburton REBOUND (Off:0 Def:1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,20,5,4,1,6:35 PM,9:57,Haliburton Traveling Turnover (P1.T1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300126,21,2,79,1,6:36 PM,9:40,Nembhard BLOCK (1 BLK),,MISS Lillard 27' 3PT Pullup Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1
+0042300126,23,4,0,1,6:36 PM,9:38,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,25,2,63,1,6:36 PM,9:34,,,MISS Middleton 15' Fadeaway Jumper,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,26,4,0,1,6:37 PM,9:31,,,Portis REBOUND (Off:1 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,27,1,86,1,6:37 PM,9:28,,,Portis 12' Turnaround Fadeaway (2 PTS),8 - 3,-5,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,28,2,79,1,6:37 PM,9:13,MISS Nesmith 26' 3PT Pullup Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,29,4,0,1,6:37 PM,9:10,,,Portis REBOUND (Off:1 Def:2),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,30,1,80,1,6:37 PM,9:01,,,Lillard 20' Step Back Jump Shot (2 PTS) (Middleton 1 AST),10 - 3,-7,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,31,2,101,1,6:37 PM,8:43,MISS Nembhard 12' Driving Floating Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,32,4,0,1,6:37 PM,8:40,,,Portis REBOUND (Off:1 Def:3),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,33,2,101,1,6:38 PM,8:21,,,MISS Beverley 11' Driving Floating Jump Shot,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,34,4,0,1,6:38 PM,8:18,,,Middleton REBOUND (Off:1 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,35,5,1,1,6:38 PM,8:10,Siakam STEAL (1 STL),,Lillard Bad Pass Turnover (P1.T1),,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,37,1,2,1,6:38 PM,8:06,Haliburton 25' 3PT Running Jump Shot (6 PTS) (Siakam 2 AST),,,10 - 6,-4,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,39,1,1,1,6:38 PM,7:47,,,Lillard 27' 3PT Jump Shot (5 PTS) (Middleton 2 AST),13 - 6,-7,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,41,1,102,1,6:39 PM,7:28,Nembhard 6' Driving Floating Bank Jump Shot (2 PTS),,,13 - 8,-5,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,42,2,80,1,6:39 PM,7:08,,,MISS Lillard 26' 3PT Step Back Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,43,4,0,1,6:39 PM,7:06,Turner REBOUND (Off:0 Def:1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,44,6,2,1,6:39 PM,6:59,,,Portis S.FOUL (P1.T1) (C.Kirkland),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,46,9,1,1,6:39 PM,6:59,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,48,8,0,1,6:42 PM,6:59,SUB: McConnell FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,49,8,0,1,6:42 PM,6:59,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,52,3,11,1,6:43 PM,6:59,Turner Free Throw 1 of 2 (1 PTS),,,13 - 9,-4,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,53,3,12,1,6:43 PM,6:59,Turner Free Throw 2 of 2 (2 PTS),,,13 - 10,-3,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,54,6,1,1,6:43 PM,6:53,Haliburton P.FOUL (P1.T1) (J.Van Duyne),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,56,2,75,1,6:44 PM,6:42,,,MISS Portis 3' Driving Finger Roll Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,57,4,0,1,6:44 PM,6:40,Turner REBOUND (Off:0 Def:2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,58,1,41,1,6:44 PM,6:36,Toppin 2' Running Layup (2 PTS) (Haliburton 1 AST),,,13 - 12,-1,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,60,6,2,1,6:44 PM,6:23,Turner S.FOUL (P1.T2) (C.Kirkland),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,62,3,11,1,6:45 PM,6:23,,,MISS Lopez Free Throw 1 of 2,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,63,4,1,1,6:45 PM,6:23,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,64,8,0,1,6:45 PM,6:23,,,SUB: Gallinari FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201568,Danilo Gallinari,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,66,3,12,1,6:45 PM,6:23,,,Lopez Free Throw 2 of 2 (3 PTS),14 - 12,-2,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,67,2,1,1,6:45 PM,6:15,MISS Toppin 27' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,68,4,0,1,6:45 PM,6:11,Turner REBOUND (Off:1 Def:2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,69,2,79,1,6:45 PM,6:08,MISS Haliburton 30' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,71,1,97,1,6:45 PM,6:02,Toppin Tip Layup Shot (4 PTS),,,14 - 14,TIE,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,70,4,0,1,6:46 PM,6:02,Toppin REBOUND (Off:1 Def:0),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,72,1,9,1,6:46 PM,5:49,,,Lopez 1' Driving Dunk (5 PTS) (Lillard 1 AST),16 - 14,-2,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,74,1,6,1,6:46 PM,5:37,Nesmith 2' Driving Layup (2 PTS) (Toppin 1 AST),,,16 - 16,TIE,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,76,2,1,1,6:46 PM,5:16,,,MISS Lopez 28' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,77,4,0,1,6:46 PM,5:13,,,Middleton REBOUND (Off:2 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,78,2,1,1,6:46 PM,5:12,,,MISS Middleton 26' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,79,4,0,1,6:46 PM,5:08,Haliburton REBOUND (Off:0 Def:2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,80,2,79,1,6:47 PM,5:01,MISS Haliburton 26' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,81,4,0,1,6:47 PM,4:59,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300126,83,8,0,1,6:47 PM,4:59,,,SUB: Beasley FOR Lillard,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,85,6,2,1,6:47 PM,4:40,McConnell S.FOUL (P1.T3) (T.Brothers),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,201568,Danilo Gallinari,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,87,3,11,1,6:48 PM,4:40,,,MISS Gallinari Free Throw 1 of 2,,,5,201568,Danilo Gallinari,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,88,4,1,1,6:48 PM,4:40,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,89,3,12,1,6:48 PM,4:40,,,Gallinari Free Throw 2 of 2 (1 PTS),17 - 16,-1,5,201568,Danilo Gallinari,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,90,1,6,1,6:48 PM,4:32,Haliburton 7' Driving Layup (8 PTS) (McConnell 1 AST),,,17 - 18,1,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,92,2,79,1,6:48 PM,4:15,,,MISS Middleton 23' Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,93,4,0,1,6:48 PM,4:12,Haliburton REBOUND (Off:0 Def:3),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,94,1,103,1,6:48 PM,4:10,Toppin 27' 3PT Running Pull-Up Jump Shot (7 PTS) (McConnell 2 AST),,,17 - 21,4,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,96,2,73,1,6:49 PM,3:50,Turner BLOCK (1 BLK),,MISS Beverley 6' Driving Reverse Layup,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042300126,98,4,0,1,6:49 PM,3:46,,,Lopez REBOUND (Off:1 Def:0),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,99,1,72,1,6:49 PM,3:45,,,Lopez 3' Putback Layup (7 PTS),19 - 21,2,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,100,2,1,1,6:49 PM,3:37,MISS Turner 25' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,101,4,0,1,6:49 PM,3:34,Toppin REBOUND (Off:2 Def:0),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,102,2,101,1,6:49 PM,3:32,MISS Nesmith 12' Driving Floating Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,103,4,0,1,6:49 PM,3:27,,,Beasley REBOUND (Off:0 Def:1),,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,104,2,66,1,6:49 PM,3:16,,,MISS Beverley 10' Jump Bank Shot,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,105,4,0,1,6:49 PM,3:12,Toppin REBOUND (Off:2 Def:1),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,106,1,103,1,6:50 PM,3:09,McConnell 7' Running Pull-Up Jump Shot (2 PTS),,,19 - 23,4,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,109,9,1,1,6:51 PM,3:09,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,110,8,0,1,6:52 PM,3:09,SUB: Nembhard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,111,8,0,1,6:52 PM,3:09,SUB: Siakam FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,112,8,0,1,6:52 PM,3:09,,,SUB: Portis FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,113,8,0,1,6:52 PM,3:09,,,SUB: Connaughton FOR Beverley,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,118,5,1,1,6:53 PM,2:50,McConnell STEAL (1 STL),,Middleton Bad Pass Turnover (P1.T2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,120,1,50,1,6:54 PM,2:47,Haliburton 2' Running Dunk (10 PTS) (McConnell 3 AST),,,19 - 25,6,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,122,5,1,1,6:54 PM,2:42,McConnell STEAL (2 STL),,Beasley Bad Pass Turnover (P1.T3),,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,124,6,2,1,6:54 PM,2:38,,,Connaughton S.FOUL (P1.T2) (T.Brothers),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,126,3,11,1,6:54 PM,2:38,Toppin Free Throw 1 of 2 (8 PTS),,,19 - 26,7,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,127,8,0,1,6:54 PM,2:38,,,SUB: Lillard FOR Gallinari,,,5,201568,Danilo Gallinari,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,129,3,12,1,6:55 PM,2:38,Toppin Free Throw 2 of 2 (9 PTS),,,19 - 27,8,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,130,2,6,1,6:55 PM,2:14,Toppin BLOCK (1 BLK),,MISS Connaughton 2' Driving Layup,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1
+0042300126,132,4,0,1,6:55 PM,2:11,Haliburton REBOUND (Off:0 Def:4),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,133,2,103,1,6:55 PM,2:08,MISS Haliburton 26' 3PT Running Pull-Up Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,134,4,0,1,6:55 PM,2:05,,,Middleton REBOUND (Off:2 Def:2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,135,2,79,1,6:55 PM,1:58,,,MISS Middleton 11' Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,136,4,0,1,6:56 PM,1:54,Siakam REBOUND (Off:0 Def:1),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,137,1,5,1,6:56 PM,1:44,Siakam 2' Layup (2 PTS) (McConnell 4 AST),,,19 - 29,10,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,139,8,0,1,6:56 PM,1:28,SUB: Sheppard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,140,8,0,1,6:56 PM,1:28,,,SUB: Green FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,143,10,0,1,6:57 PM,1:28,Jump Ball Toppin vs. Portis: Tip to Connaughton,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0
+0042300126,146,6,2,1,6:57 PM,1:20,Siakam S.FOUL (P1.T4) (T.Brothers),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,148,3,11,1,6:57 PM,1:20,,,Lillard Free Throw 1 of 2 (6 PTS),20 - 29,9,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,149,8,0,1,6:57 PM,1:20,,,SUB: Beverley FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,151,3,12,1,6:58 PM,1:20,,,Lillard Free Throw 2 of 2 (7 PTS),21 - 29,8,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,152,1,79,1,6:58 PM,1:10,McConnell 8' Pullup Jump Shot (4 PTS) (Nembhard 1 AST),,,21 - 31,10,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,155,6,2,1,6:58 PM,0:58,Siakam S.FOUL (P2.PN) (J.Van Duyne),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,157,3,11,1,6:59 PM,0:58,,,Portis Free Throw 1 of 2 (3 PTS),22 - 31,9,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,160,3,12,1,6:59 PM,0:58,,,MISS Portis Free Throw 2 of 2,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,158,8,0,1,6:59 PM,0:58,SUB: Turner FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,161,4,0,1,6:59 PM,0:57,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,162,2,1,1,7:00 PM,0:50,MISS Toppin 24' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,163,4,0,1,7:00 PM,0:47,,,Lillard REBOUND (Off:0 Def:1),,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,164,1,47,1,7:00 PM,0:30,,,Portis 17' Turnaround Jump Shot (5 PTS) (Beverley 2 AST),24 - 31,7,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,166,6,2,1,7:00 PM,0:12,,,Green S.FOUL (P1.T3) (J.Van Duyne),,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,168,3,11,1,7:01 PM,0:12,McConnell Free Throw 1 of 2 (5 PTS),,,24 - 32,8,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,169,8,0,1,7:01 PM,0:12,SUB: Jackson FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,171,3,12,1,7:01 PM,0:12,McConnell Free Throw 2 of 2 (6 PTS),,,24 - 33,9,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,172,2,80,1,7:01 PM,0:00,,,MISS Lillard 32' 3PT Step Back Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,173,4,0,1,7:01 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,174,13,0,1,7:02 PM,0:00,,End of 1st Period (7:02 PM EST),,24 - 33,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300126,183,12,0,2,7:05 PM,12:00,,Start of 2nd Period (7:05 PM EST),,24 - 33,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,184,2,79,2,7:06 PM,11:48,MISS McConnell 14' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,185,4,0,2,7:06 PM,11:45,,,Lopez REBOUND (Off:1 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,187,1,6,2,7:06 PM,11:29,,,Lopez 4' Driving Layup (9 PTS),26 - 33,7,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,188,6,1,2,7:06 PM,11:12,,,Beverley P.FOUL (P1.T1) (T.Brothers),,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,190,5,1,2,7:07 PM,11:02,McConnell Bad Pass Turnover (P1.T2),,Middleton STEAL (1 STL),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,192,1,1,2,7:07 PM,10:40,,,Lillard 31' 3PT Jump Shot (10 PTS) (Lopez 1 AST),29 - 33,4,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,194,6,2,2,7:07 PM,10:30,,,Lillard S.FOUL (P1.T2) (C.Kirkland),,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,196,3,11,2,7:08 PM,10:30,McConnell Free Throw 1 of 2 (7 PTS),,,29 - 34,5,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,197,8,0,2,7:08 PM,10:30,SUB: Turner FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,199,3,12,2,7:08 PM,10:30,McConnell Free Throw 2 of 2 (8 PTS),,,29 - 35,6,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,200,1,101,2,7:09 PM,10:16,,,Middleton 18' Driving Floating Jump Shot (4 PTS) (Lillard 2 AST),31 - 35,4,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,201,6,2,2,7:09 PM,10:16,Turner S.FOUL (P2.T1) (T.Brothers),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,204,3,10,2,7:09 PM,10:16,,,Middleton Free Throw 1 of 1 (5 PTS),32 - 35,3,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,205,1,1,2,7:10 PM,10:00,Nesmith 24' 3PT Jump Shot (5 PTS) (McConnell 5 AST),,,32 - 38,6,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,207,6,2,2,7:10 PM,9:38,McConnell S.FOUL (P2.T2) (J.Van Duyne),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,209,3,11,2,7:10 PM,9:38,,,Lillard Free Throw 1 of 2 (11 PTS),33 - 38,5,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,210,3,12,2,7:11 PM,9:38,,,Lillard Free Throw 2 of 2 (12 PTS),34 - 38,4,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,211,1,5,2,7:11 PM,9:19,Siakam 3' Layup (4 PTS) (McConnell 6 AST),,,34 - 40,6,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,213,2,79,2,7:11 PM,9:04,,,MISS Lillard 28' 3PT Pullup Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,214,4,0,2,7:11 PM,9:01,Turner REBOUND (Off:1 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,215,2,2,2,7:12 PM,8:56,MISS Nesmith 26' 3PT Running Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,216,4,0,2,7:12 PM,8:51,,,Portis REBOUND (Off:1 Def:4),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,217,5,2,2,7:12 PM,8:36,McConnell STEAL (3 STL),,Lopez Lost Ball Turnover (P1.T4),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,219,1,75,2,7:12 PM,8:20,Nesmith 3' Driving Finger Roll Layup (7 PTS) (Sheppard 1 AST),,,34 - 42,8,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,220,9,1,2,7:12 PM,8:20,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,221,8,0,2,7:15 PM,8:20,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,222,8,0,2,7:15 PM,8:20,SUB: Nembhard FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,223,8,0,2,7:15 PM,8:20,SUB: Toppin FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,224,8,0,2,7:15 PM,8:20,,,SUB: Beasley FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,230,2,1,2,7:16 PM,8:01,,,MISS Lillard 27' 3PT Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,231,4,0,2,7:16 PM,7:58,Toppin REBOUND (Off:2 Def:2),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,232,1,1,2,7:16 PM,7:51,Nembhard 28' 3PT Jump Shot (5 PTS) (Haliburton 2 AST),,,34 - 45,11,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,234,6,1,2,7:17 PM,7:34,Nesmith P.FOUL (P1.T3) (T.Brothers),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,236,8,0,2,7:17 PM,7:34,SUB: Sheppard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,238,2,73,2,7:17 PM,7:25,,,MISS Beverley 4' Driving Reverse Layup,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,239,4,0,2,7:17 PM,7:24,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,241,2,79,2,7:18 PM,7:16,,,MISS Beasley 13' Pullup Jump Shot,,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,242,4,0,2,7:18 PM,7:13,Siakam REBOUND (Off:0 Def:2),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,243,5,1,2,7:18 PM,7:03,Haliburton Bad Pass Turnover (P2.T3),,Beasley STEAL (1 STL),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,245,6,1,2,7:18 PM,6:58,Nembhard P.FOUL (P1.T4) (J.Van Duyne),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,247,2,1,2,7:19 PM,6:54,,,MISS Portis 16' Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,248,4,0,2,7:19 PM,6:52,Nembhard REBOUND (Off:0 Def:1),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,249,2,79,2,7:19 PM,6:45,MISS Haliburton 29' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,250,4,0,2,7:19 PM,6:45,,,Portis REBOUND (Off:1 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,251,2,2,2,7:19 PM,6:38,,,MISS Beasley 3PT Running Jump Shot,,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,252,4,0,2,7:19 PM,6:35,,,Portis REBOUND (Off:2 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,253,1,58,2,7:19 PM,6:34,,,Portis 6' Turnaround Hook Shot (7 PTS),36 - 45,9,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,254,1,75,2,7:19 PM,6:23,Nembhard 4' Driving Finger Roll Layup (7 PTS) (Siakam 3 AST),,,36 - 47,11,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,256,2,101,2,7:19 PM,5:59,,,MISS Lopez 8' Driving Floating Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,257,4,0,2,7:19 PM,5:56,,,Portis REBOUND (Off:3 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,258,1,97,2,7:19 PM,5:56,,,Portis Tip Layup Shot (9 PTS),38 - 47,9,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,259,2,80,2,7:20 PM,5:39,MISS Haliburton 26' 3PT Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,260,4,0,2,7:20 PM,5:34,Siakam REBOUND (Off:1 Def:2),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,261,2,97,2,7:20 PM,5:34,MISS Siakam Tip Layup Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,262,4,0,2,7:20 PM,5:34,,,Lopez REBOUND (Off:1 Def:2),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,263,2,1,2,7:20 PM,5:22,,,MISS Beverley 26' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,264,4,0,2,7:20 PM,5:19,Siakam REBOUND (Off:1 Def:3),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,265,2,2,2,7:20 PM,5:15,MISS Toppin 28' 3PT Running Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,266,4,0,2,7:20 PM,5:11,,,Lillard REBOUND (Off:0 Def:2),,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,267,2,78,2,7:20 PM,4:57,,,MISS Portis 11' Floating Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,268,4,0,2,7:20 PM,4:56,Toppin REBOUND (Off:2 Def:3),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,269,9,1,2,7:21 PM,4:56,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,270,8,0,2,7:24 PM,4:56,SUB: Nesmith FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,271,8,0,2,7:24 PM,4:56,SUB: Turner FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,272,8,0,2,7:24 PM,4:56,,,SUB: Middleton FOR Lillard,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,273,8,0,2,7:24 PM,4:56,,,SUB: Connaughton FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,278,10,0,2,7:25 PM,4:43,Jump Ball Nembhard vs. Middleton: Tip to Beasley,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0
+0042300126,281,5,2,2,7:25 PM,4:41,Nembhard Lost Ball Turnover (P1.T4),,Middleton STEAL (2 STL),,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,283,2,76,2,7:25 PM,4:38,,,MISS Beasley 3' Running Finger Roll Layup,,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,285,1,97,2,7:25 PM,4:35,,,Middleton Tip Layup Shot (7 PTS),40 - 47,7,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,284,4,0,2,7:25 PM,4:35,,,Middleton REBOUND (Off:3 Def:2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,286,2,78,2,7:26 PM,4:09,MISS Haliburton 21' Floating Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,287,4,0,2,7:26 PM,4:06,Haliburton REBOUND (Off:1 Def:4),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,288,1,107,2,7:26 PM,4:04,Haliburton Tip Dunk Shot (12 PTS),,,40 - 49,9,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,289,2,102,2,7:26 PM,3:51,,,MISS Middleton 15' Driving Floating Bank Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,290,4,0,2,7:26 PM,3:49,,,Connaughton REBOUND (Off:1 Def:0),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,327,2,97,2,7:26 PM,3:49,,,MISS Connaughton 1' Tip Layup Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,328,4,0,2,7:26 PM,3:49,,,Lopez REBOUND (Off:2 Def:2),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,291,1,1,2,7:26 PM,3:39,,,Lopez 11' Jump Shot (11 PTS) (Beverley 3 AST),42 - 49,7,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,293,2,6,2,7:27 PM,3:17,MISS Turner 4' Driving Layup,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,294,4,0,2,7:27 PM,3:17,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,295,5,4,2,7:27 PM,3:17,Turner Traveling Turnover (P1.T5),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300126,296,6,4,2,7:27 PM,3:06,,,Middleton OFF.Foul (P1) (J.Van Duyne),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,298,5,37,2,7:27 PM,3:06,,,Middleton Offensive Foul Turnover (P2.T5),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042300126,299,8,0,2,7:27 PM,3:06,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,301,1,1,2,7:28 PM,2:57,Nesmith 26' 3PT Jump Shot (10 PTS) (Haliburton 3 AST),,,42 - 52,10,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,305,9,7,2,7:28 PM,2:36,PACERS Timeout: Coach Challenge (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,306,18,5,2,7:28 PM,2:36,,Instant Replay2nd Period (7:28 PM EST),,42 - 52,10,0,303,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300126,308,8,0,2,7:31 PM,2:36,,,SUB: Lillard FOR Beasley,,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,309,8,0,2,7:31 PM,2:36,,,SUB: Portis FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,312,10,0,2,7:31 PM,2:36,Jump Ball Turner vs. Lopez: Tip to Middleton,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0
+0042300126,316,6,2,2,7:32 PM,2:22,Turner S.FOUL (P3.PN) (T.Brothers),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,318,3,11,2,7:32 PM,2:22,,,MISS Lopez Free Throw 1 of 2,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,319,4,1,2,7:32 PM,2:22,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,320,8,0,2,7:32 PM,2:22,SUB: Toppin FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,322,3,12,2,7:32 PM,2:22,,,Lopez Free Throw 2 of 2 (12 PTS),43 - 52,9,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,323,1,75,2,7:33 PM,1:59,Haliburton 5' Driving Finger Roll Layup (14 PTS),,,43 - 54,11,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,324,6,2,2,7:33 PM,1:59,,,Middleton S.FOUL (P2.T3) (T.Brothers),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,326,3,10,2,7:33 PM,1:59,Haliburton Free Throw 1 of 1 (15 PTS),,,43 - 55,12,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,329,6,2,2,7:34 PM,1:40,Nesmith S.FOUL (P2.PN) (T.Brothers),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,331,3,11,2,7:35 PM,1:40,,,Lopez Free Throw 1 of 2 (13 PTS),44 - 55,11,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,332,3,12,2,7:35 PM,1:40,,,Lopez Free Throw 2 of 2 (14 PTS),45 - 55,10,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,333,6,1,2,7:35 PM,1:25,,,Lopez P.FOUL (P1.PN) (T.Brothers),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,335,3,11,2,7:36 PM,1:25,Nesmith Free Throw 1 of 2 (11 PTS),,,45 - 56,11,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,336,3,12,2,7:37 PM,1:25,Nesmith Free Throw 2 of 2 (12 PTS),,,45 - 57,12,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,337,2,79,2,7:37 PM,1:11,,,MISS Middleton 22' Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,338,4,0,2,7:37 PM,1:07,,,Lopez REBOUND (Off:3 Def:2),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,339,2,57,2,7:37 PM,1:03,,,MISS Lopez 12' Driving Hook Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,340,4,0,2,7:37 PM,0:58,Nesmith REBOUND (Off:0 Def:1),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,341,1,100,2,7:37 PM,0:55,Toppin 2' Running Alley Oop Layup Shot (11 PTS) (Haliburton 4 AST),,,45 - 59,14,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,343,6,1,2,7:37 PM,0:44,Nembhard P.FOUL (P2.PN) (C.Kirkland),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,345,3,11,2,7:38 PM,0:44,,,Lillard Free Throw 1 of 2 (13 PTS),46 - 59,13,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,346,8,0,2,7:38 PM,0:44,,,SUB: Connaughton FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,348,3,12,2,7:38 PM,0:44,,,Lillard Free Throw 2 of 2 (14 PTS),47 - 59,12,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,349,2,79,2,7:39 PM,0:27,MISS Siakam 10' Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,350,4,0,2,7:39 PM,0:23,,,Connaughton REBOUND (Off:1 Def:1),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,351,2,79,2,7:39 PM,0:02,,,MISS Beverley 27' 3PT Pullup Jump Shot,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,352,4,0,2,7:39 PM,0:02,Toppin REBOUND (Off:2 Def:4),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,353,2,79,2,7:39 PM,0:00,MISS Toppin 50' 3PT Pullup Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,354,4,0,2,7:39 PM,0:00,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,355,13,0,2,7:39 PM,0:00,,End of 2nd Period (7:39 PM EST),,47 - 59,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300126,360,12,0,3,7:56 PM,12:00,,Start of 3rd Period (7:56 PM EST),,47 - 59,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,361,2,1,3,7:57 PM,11:48,MISS Turner 27' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,362,4,0,3,7:57 PM,11:43,,,Beverley REBOUND (Off:0 Def:1),,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,363,1,86,3,7:57 PM,11:31,,,Portis 12' Turnaround Fadeaway (11 PTS) (Lillard 3 AST),49 - 59,10,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,365,1,86,3,7:57 PM,11:11,Siakam 11' Turnaround Fadeaway (6 PTS) (Nesmith 1 AST),,,49 - 61,12,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,367,6,1,3,7:57 PM,10:57,Turner P.FOUL (P4.T1) (T.Brothers),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,369,8,0,3,7:58 PM,10:57,SUB: Toppin FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,371,1,1,3,7:58 PM,10:53,,,Lillard 3PT Jump Shot (17 PTS) (Portis 1 AST),52 - 61,9,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,374,5,4,3,7:58 PM,10:35,Toppin Traveling Turnover (P1.T6),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300126,378,6,2,3,7:59 PM,10:21,Toppin S.FOUL (P1.T2) (C.Kirkland),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,380,3,11,3,7:59 PM,10:21,,,Lopez Free Throw 1 of 2 (15 PTS),53 - 61,8,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,381,3,12,3,7:59 PM,10:21,,,Lopez Free Throw 2 of 2 (16 PTS),54 - 61,7,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,382,1,78,3,8:00 PM,10:13,Toppin 9' Floating Jump Shot (13 PTS) (Haliburton 5 AST),,,54 - 63,9,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,384,2,78,3,8:00 PM,10:01,,,MISS Middleton 15' Floating Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,385,4,0,3,8:00 PM,9:59,,,Middleton REBOUND (Off:4 Def:2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,386,2,1,3,8:00 PM,9:55,,,MISS Lillard 28' 3PT Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,387,4,0,3,8:00 PM,9:50,Siakam REBOUND (Off:1 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,388,2,79,3,8:00 PM,9:41,MISS Haliburton 28' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,389,4,0,3,8:00 PM,9:38,,,Middleton REBOUND (Off:4 Def:3),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,390,1,41,3,8:00 PM,9:35,,,Lillard 3' Running Layup (19 PTS),56 - 63,7,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,391,2,1,3,8:00 PM,9:26,MISS Nesmith 26' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,392,4,0,3,8:00 PM,9:25,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,393,6,3,3,8:00 PM,9:25,,,Lopez L.B.FOUL (P2.T1) (C.Kirkland),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,395,1,1,3,8:01 PM,9:15,Siakam 3PT Jump Shot (9 PTS) (Nembhard 2 AST),,,56 - 66,10,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,397,2,80,3,8:01 PM,8:54,,,MISS Portis 17' Step Back Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,398,4,0,3,8:01 PM,8:52,Toppin REBOUND (Off:2 Def:5),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,399,1,5,3,8:01 PM,8:45,Siakam 2' Layup (11 PTS) (Haliburton 6 AST),,,56 - 68,12,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,401,9,1,3,8:02 PM,8:45,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,402,6,16,3,8:02 PM,8:45,,"Double Technical - Johnson, Portis (T.Brothers)",,,,4,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0042300126,404,6,4,3,8:06 PM,8:32,,,Portis OFF.Foul (P2) (J.Van Duyne),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,406,5,37,3,8:06 PM,8:32,,,Portis Offensive Foul Turnover (P1.T6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042300126,407,2,80,3,8:06 PM,8:13,MISS Haliburton 27' 3PT Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,408,4,0,3,8:06 PM,8:09,,,Middleton REBOUND (Off:4 Def:4),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,411,9,1,3,8:07 PM,8:04,,,Bucks Timeout: Regular (Reg.4 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,413,18,5,3,8:07 PM,8:04,,Instant Replay3rd Period (8:07 PM EST),,56 - 68,12,0,410,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300126,415,8,0,3,8:10 PM,8:04,,,SUB: Beasley FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,417,2,1,3,8:11 PM,7:57,,,MISS Beverley 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,418,4,0,3,8:11 PM,7:54,,,Portis REBOUND (Off:4 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,419,2,72,3,8:11 PM,7:53,,,MISS Portis 2' Putback Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,421,2,97,3,8:11 PM,7:50,,,MISS Portis Tip Layup Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,420,4,0,3,8:11 PM,7:50,,,Portis REBOUND (Off:6 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,422,4,0,3,8:11 PM,7:49,,,Portis REBOUND (Off:6 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,423,1,97,3,8:11 PM,7:49,,,Portis Tip Layup Shot (13 PTS),58 - 68,10,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,424,1,1,3,8:11 PM,7:42,Toppin 26' 3PT Jump Shot (16 PTS) (Haliburton 7 AST),,,58 - 71,13,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,426,1,80,3,8:11 PM,7:22,,,Middleton 25' 3PT Step Back Jump Shot (10 PTS),61 - 71,10,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,427,6,26,3,8:12 PM,7:13,Nesmith Offensive Charge Foul (P3) (J.Van Duyne),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,429,5,37,3,8:12 PM,7:13,Nesmith Offensive Foul Turnover (P1.T7),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300126,430,9,1,3,8:12 PM,7:13,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,431,18,6,3,8:12 PM,7:13,,Instant Replay3rd Period (8:12 PM EST),,61 - 71,10,0,427,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300126,432,5,1,3,8:14 PM,6:58,Nembhard STEAL (1 STL),,Lillard Bad Pass Turnover (P2.T7),,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,434,1,50,3,8:14 PM,6:55,Toppin 1' Running Dunk (18 PTS) (Nembhard 3 AST),,,61 - 73,12,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,436,6,4,3,8:14 PM,6:48,,,Middleton OFF.Foul (P3) (T.Brothers),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,438,5,37,3,8:14 PM,6:48,,,Middleton Offensive Foul Turnover (P3.T8),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042300126,439,2,1,3,8:14 PM,6:43,MISS Toppin 26' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,440,4,0,3,8:15 PM,6:39,,,Portis REBOUND (Off:6 Def:6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,441,2,63,3,8:15 PM,6:32,,,MISS Lillard 18' Fadeaway Jumper,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,442,4,0,3,8:15 PM,6:28,Nesmith REBOUND (Off:0 Def:2),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,443,1,79,3,8:15 PM,6:17,Siakam 19' Pullup Jump Shot (13 PTS),,,61 - 75,14,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,444,6,1,3,8:15 PM,5:58,Siakam P.FOUL (P3.T3) (T.Brothers),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,446,1,101,3,8:16 PM,5:48,,,Middleton 6' Driving Floating Jump Shot (12 PTS) (Portis 2 AST),63 - 75,12,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,448,1,1,3,8:16 PM,5:28,Nesmith 25' 3PT Jump Shot (15 PTS) (Toppin 2 AST),,,63 - 78,15,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,450,1,44,3,8:16 PM,5:03,,,Beverley 2' Reverse Layup (4 PTS) (Middleton 3 AST),65 - 78,13,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,452,2,102,3,8:17 PM,4:52,MISS Siakam 7' Driving Floating Bank Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,453,4,0,3,8:17 PM,4:52,,,Portis REBOUND (Off:6 Def:7),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,454,1,76,3,8:17 PM,4:45,,,Portis 2' Running Finger Roll Layup (15 PTS) (Beverley 4 AST),67 - 78,11,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,456,6,2,3,8:17 PM,4:45,Nesmith S.FOUL (P4.T4) (C.Kirkland),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,458,9,1,3,8:17 PM,4:45,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,459,8,0,3,8:18 PM,4:45,SUB: Jackson FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,460,8,0,3,8:18 PM,4:45,SUB: McConnell FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,461,8,0,3,8:18 PM,4:45,,,SUB: Connaughton FOR Lillard,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,465,3,10,3,8:19 PM,4:45,,,MISS Portis Free Throw 1 of 1,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,466,4,0,3,8:19 PM,4:44,Jackson REBOUND (Off:0 Def:1),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,467,1,1,3,8:19 PM,4:31,Toppin 24' 3PT Jump Shot (21 PTS) (Haliburton 8 AST),,,67 - 81,14,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,469,2,80,3,8:20 PM,4:09,,,MISS Connaughton 26' 3PT Step Back Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,470,4,0,3,8:20 PM,4:05,Nesmith REBOUND (Off:0 Def:3),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,471,2,1,3,8:20 PM,3:52,MISS Toppin 26' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,472,4,0,3,8:20 PM,3:49,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,474,8,0,3,8:20 PM,3:49,SUB: Nembhard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,476,1,5,3,8:21 PM,3:33,,,Beverley 5' Layup (6 PTS),69 - 81,12,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,477,5,13,3,8:21 PM,3:16,Toppin Backcourt Turnover (P2.T8),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300126,478,8,0,3,8:21 PM,3:16,,,SUB: Lopez FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,480,1,86,3,8:22 PM,3:07,,,Middleton 6' Turnaround Fadeaway (14 PTS) (Beverley 5 AST),71 - 81,10,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,482,1,79,3,8:22 PM,2:56,Haliburton 19' Pullup Jump Shot (17 PTS) (McConnell 7 AST),,,71 - 83,12,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,484,1,1,3,8:22 PM,2:41,,,Connaughton 24' 3PT Jump Shot (3 PTS) (Beasley 1 AST),74 - 83,9,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,486,1,80,3,8:22 PM,2:24,Nembhard 12' Step Back Jump Shot (9 PTS),,,74 - 85,11,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,487,1,75,3,8:23 PM,2:06,,,Beasley 5' Driving Finger Roll Layup (2 PTS),76 - 85,9,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,488,2,79,3,8:23 PM,1:57,MISS Haliburton 26' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,489,4,0,3,8:23 PM,1:55,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,490,6,3,3,8:23 PM,1:55,,,Lopez L.B.FOUL (P3.T2) (J.Van Duyne),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,492,8,0,3,8:23 PM,1:55,SUB: Sheppard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,494,2,1,3,8:23 PM,1:51,MISS Toppin 25' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,495,4,0,3,8:23 PM,1:47,,,Connaughton REBOUND (Off:1 Def:2),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,496,2,1,3,8:23 PM,1:38,,,MISS Lopez 28' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,497,4,0,3,8:24 PM,1:35,Toppin REBOUND (Off:2 Def:6),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,498,2,1,3,8:24 PM,1:22,MISS Sheppard 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,499,4,0,3,8:24 PM,1:17,,,Beverley REBOUND (Off:0 Def:2),,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,500,1,6,3,8:24 PM,1:05,,,Lopez 3' Driving Layup (18 PTS),78 - 85,7,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,501,6,2,3,8:24 PM,1:05,Jackson S.FOUL (P1.PN) (J.Van Duyne),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,503,8,0,3,8:24 PM,1:05,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,505,3,10,3,8:25 PM,1:05,,,MISS Lopez Free Throw 1 of 1,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,506,4,0,3,8:25 PM,1:05,Sheppard REBOUND (Off:0 Def:1),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,507,1,41,3,8:25 PM,0:58,McConnell 4' Running Layup (10 PTS),,,78 - 87,9,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,508,5,1,3,8:25 PM,0:43,Nembhard STEAL (2 STL),,Lopez Bad Pass Turnover (P2.T9),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,510,1,41,3,8:25 PM,0:41,Nembhard 5' Running Layup (11 PTS),,,78 - 89,11,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,511,6,2,3,8:25 PM,0:41,,,Beasley S.FOUL (P1.PN) (T.Brothers),,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,513,3,10,3,8:26 PM,0:41,Nembhard Free Throw 1 of 1 (12 PTS),,,78 - 90,12,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,514,2,79,3,8:26 PM,0:31,,,MISS Middleton 25' 3PT Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,515,4,0,3,8:26 PM,0:28,Sheppard REBOUND (Off:0 Def:2),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,516,1,79,3,8:26 PM,0:12,McConnell 25' 3PT Pullup Jump Shot (13 PTS),,,78 - 93,15,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,517,2,75,3,8:27 PM,0:04,,,MISS Lopez 3' Driving Finger Roll Layup,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,518,4,0,3,8:27 PM,0:01,Jackson REBOUND (Off:0 Def:2),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,519,2,79,3,8:27 PM,0:01,MISS Siakam 51' 3PT Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,520,4,0,3,8:27 PM,0:01,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,521,13,0,3,8:27 PM,0:00,,End of 3rd Period (8:27 PM EST),,78 - 93,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300126,526,12,0,4,8:30 PM,12:00,,Start of 4th Period (8:30 PM EST),,78 - 93,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,527,5,1,4,8:30 PM,11:54,McConnell STEAL (4 STL),,Lillard Bad Pass Turnover (P3.T10),,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,529,2,44,4,8:31 PM,11:49,MISS Sheppard 2' Reverse Layup,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300126,530,4,0,4,8:31 PM,11:47,Nembhard REBOUND (Off:1 Def:1),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0042300126,531,1,79,4,8:31 PM,11:44,McConnell 3PT Pullup Jump Shot (16 PTS) (Nembhard 4 AST),,,78 - 96,18,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,533,2,80,4,8:31 PM,11:19,,,MISS Lillard 26' 3PT Step Back Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,534,4,0,4,8:31 PM,11:15,,,Beasley REBOUND (Off:1 Def:1),,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,535,1,1,4,8:31 PM,11:12,,,Portis 25' 3PT Jump Shot (18 PTS) (Connaughton 1 AST),81 - 96,15,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,537,2,1,4,8:32 PM,10:47,MISS Siakam 27' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,538,4,0,4,8:32 PM,10:46,,,Connaughton REBOUND (Off:1 Def:3),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,543,6,2,4,8:32 PM,10:34,Jackson S.FOUL (P2.T1) (C.Kirkland),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,545,3,11,4,8:33 PM,10:34,,,Portis Free Throw 1 of 2 (19 PTS),82 - 96,14,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,548,3,12,4,8:33 PM,10:34,,,MISS Portis Free Throw 2 of 2,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,546,8,0,4,8:33 PM,10:34,SUB: Turner FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,549,4,0,4,8:33 PM,10:32,Sheppard REBOUND (Off:0 Def:3),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,550,6,4,4,8:33 PM,10:18,Siakam OFF.Foul (P4) (T.Brothers),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,552,5,37,4,8:33 PM,10:18,Siakam Offensive Foul Turnover (P1.T9),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042300126,553,2,47,4,8:34 PM,10:08,,,MISS Portis 11' Turnaround Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,554,4,0,4,8:34 PM,10:04,McConnell REBOUND (Off:0 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,555,1,75,4,8:34 PM,9:57,McConnell 3' Driving Finger Roll Layup (18 PTS),,,82 - 98,16,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,556,6,2,4,8:34 PM,9:50,McConnell S.FOUL (P3.T2) (C.Kirkland),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,558,3,11,4,8:34 PM,9:50,,,Lillard Free Throw 1 of 2 (20 PTS),83 - 98,15,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,559,3,12,4,8:35 PM,9:50,,,Lillard Free Throw 2 of 2 (21 PTS),84 - 98,14,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,560,6,2,4,8:35 PM,9:30,,,Middleton S.FOUL (P4.T1) (C.Kirkland),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,562,3,11,4,8:36 PM,9:30,MISS Turner Free Throw 1 of 2,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,563,4,1,4,8:36 PM,9:30,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,564,3,12,4,8:36 PM,9:30,Turner Free Throw 2 of 2 (3 PTS),,,84 - 99,15,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,565,5,6,4,8:36 PM,9:09,,,Portis Double Dribble Turnover (P2.T11),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042300126,566,6,1,4,8:37 PM,8:52,,,Middleton P.FOUL (P5.T2) (T.Brothers),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,568,1,86,4,8:37 PM,8:38,McConnell 7' Turnaround Fadeaway (20 PTS),,,84 - 101,17,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,569,2,1,4,8:38 PM,8:22,,,MISS Beasley 25' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,570,4,0,4,8:38 PM,8:17,Nembhard REBOUND (Off:1 Def:2),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,571,1,1,4,8:38 PM,8:07,Sheppard 3PT Jump Shot (3 PTS) (Siakam 4 AST),,,84 - 104,20,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,573,9,1,4,8:38 PM,8:06,,,Bucks Timeout: Regular (Reg.5 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,574,8,0,4,8:40 PM,8:06,,,SUB: Beverley FOR Beasley,,,5,1627736,Malik Beasley,1610612749.0,Milwaukee,Bucks,MIL,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,576,6,1,4,8:42 PM,8:00,Sheppard P.FOUL (P1.T3) (T.Brothers),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,578,6,2,4,8:42 PM,7:51,McConnell S.FOUL (P4.T4) (J.Van Duyne),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,580,3,11,4,8:43 PM,7:51,,,Lillard Free Throw 1 of 2 (22 PTS),85 - 104,19,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,581,3,12,4,8:43 PM,7:51,,,Lillard Free Throw 2 of 2 (23 PTS),86 - 104,18,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,582,2,79,4,8:43 PM,7:33,MISS McConnell 6' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,584,1,97,4,8:43 PM,7:29,Turner Tip Layup Shot (5 PTS),,,86 - 106,20,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,583,4,0,4,8:43 PM,7:29,Turner REBOUND (Off:2 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,585,1,80,4,8:44 PM,7:15,,,Lillard 18' Step Back Jump Shot (25 PTS),88 - 106,18,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,586,1,71,4,8:44 PM,6:52,Siakam 3' Finger Roll Layup (15 PTS) (McConnell 8 AST),,,88 - 108,20,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,588,1,80,4,8:45 PM,6:23,,,Lillard 24' 3PT Step Back Jump Shot (28 PTS),91 - 108,17,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,589,1,75,4,8:45 PM,6:01,Nembhard 3' Driving Finger Roll Layup (14 PTS) (Turner 1 AST),,,91 - 110,19,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,591,2,79,4,8:45 PM,5:47,,,MISS Portis 13' Pullup Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,592,4,0,4,8:45 PM,5:42,Nembhard REBOUND (Off:1 Def:3),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,593,2,1,4,8:45 PM,5:25,MISS Nembhard 29' 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,594,4,0,4,8:46 PM,5:22,,,Connaughton REBOUND (Off:1 Def:4),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,595,5,45,4,8:46 PM,5:13,,,Connaughton Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042300126,596,8,0,4,8:46 PM,5:13,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,597,8,0,4,8:46 PM,5:13,SUB: Nesmith FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,598,8,0,4,8:46 PM,5:13,,,SUB: Lopez FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,599,8,0,4,8:46 PM,5:13,,,SUB: Jackson Jr. FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1641748,Andre Jackson Jr.,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,604,2,1,4,8:46 PM,5:01,MISS Turner 26' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,605,4,0,4,8:46 PM,4:56,,,Portis REBOUND (Off:6 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,606,1,5,4,8:47 PM,4:49,,,Lopez 4' Layup (20 PTS) (Lillard 4 AST),93 - 110,17,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,608,1,75,4,8:47 PM,4:30,Siakam 3' Driving Finger Roll Layup (17 PTS) (Haliburton 9 AST),,,93 - 112,19,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,610,2,101,4,8:47 PM,4:14,,,MISS Portis 11' Driving Floating Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,611,4,0,4,8:47 PM,4:13,Siakam REBOUND (Off:1 Def:5),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,612,2,1,4,8:47 PM,4:06,MISS Nesmith 24' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,613,4,0,4,8:47 PM,4:04,,,Jackson Jr. REBOUND (Off:0 Def:1),,,5,1641748,Andre Jackson Jr.,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,614,2,1,4,8:47 PM,3:56,,,MISS Lillard 32' 3PT Jump Shot,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,615,4,0,4,8:47 PM,3:54,Haliburton REBOUND (Off:1 Def:5),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,616,9,1,4,8:48 PM,3:54,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,617,8,0,4,8:50 PM,3:54,,,SUB: Green FOR Lillard,,,5,203081,Damian Lillard,1610612749.0,Milwaukee,Bucks,MIL,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,619,1,1,4,8:52 PM,3:33,Siakam 14' Jump Shot (19 PTS) (Haliburton 10 AST),,,93 - 114,21,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,621,2,75,4,8:52 PM,3:09,,,MISS Beverley 2' Driving Finger Roll Layup,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,622,4,0,4,8:52 PM,3:06,Nembhard REBOUND (Off:1 Def:4),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,623,2,47,4,8:52 PM,2:48,MISS Siakam 16' Turnaround Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,624,4,0,4,8:52 PM,2:44,,,Portis REBOUND (Off:6 Def:9),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,625,6,1,4,8:53 PM,2:32,Nesmith P.FOUL (P5.PN) (C.Kirkland),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,627,3,11,4,8:53 PM,2:32,,,Portis Free Throw 1 of 2 (20 PTS),94 - 114,20,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,638,3,12,4,8:53 PM,2:32,,,MISS Portis Free Throw 2 of 2,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,628,8,0,4,8:53 PM,2:32,SUB: Sheppard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,629,8,0,4,8:53 PM,2:32,SUB: Jackson FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,630,8,0,4,8:53 PM,2:32,SUB: McConnell FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,631,8,0,4,8:53 PM,2:32,,,SUB: Antetokounmpo FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,632,8,0,4,8:53 PM,2:32,,,SUB: Beauchamp FOR Beverley,,,5,201976,Patrick Beverley,1610612749.0,Milwaukee,Bucks,MIL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,639,4,0,4,8:53 PM,2:30,Siakam REBOUND (Off:1 Def:6),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,640,6,1,4,8:54 PM,2:30,,,Jackson Jr. P.FOUL (P1.T3) (J.Van Duyne),,,5,1641748,Andre Jackson Jr.,1610612749.0,Milwaukee,Bucks,MIL,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,642,8,0,4,8:55 PM,2:30,SUB: Walker FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,643,8,0,4,8:55 PM,2:30,,,SUB: Livingston FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042300126,646,1,7,4,8:55 PM,2:06,Jackson 2' Dunk (2 PTS) (McConnell 9 AST),,,94 - 116,22,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,648,6,2,4,8:56 PM,2:06,,,Jackson Jr. S.FOUL (P2.T4) (C.Kirkland),,,5,1641748,Andre Jackson Jr.,1610612749.0,Milwaukee,Bucks,MIL,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,650,8,0,4,8:56 PM,2:06,SUB: Brown FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,652,3,10,4,8:56 PM,2:06,Jackson Free Throw 1 of 1 (3 PTS),,,94 - 117,23,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,653,6,2,4,8:56 PM,1:52,Jackson S.FOUL (P3.PN) (C.Kirkland),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,655,3,11,4,8:57 PM,1:52,,,MISS Livingston Free Throw 1 of 2,,,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,656,4,1,4,8:57 PM,1:52,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,659,3,12,4,8:57 PM,1:52,,,MISS Livingston Free Throw 2 of 2,,,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,657,8,0,4,8:57 PM,1:52,SUB: McDermott FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042300126,660,4,0,4,8:57 PM,1:50,Jackson REBOUND (Off:0 Def:3),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,661,6,2,4,8:57 PM,1:30,,,Antetokounmpo S.FOUL (P1.PN) (C.Kirkland),,,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042300126,663,3,11,4,8:58 PM,1:30,MISS Jackson Free Throw 1 of 2,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,664,4,1,4,8:58 PM,1:30,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,665,3,12,4,8:58 PM,1:30,Jackson Free Throw 2 of 2 (4 PTS),,,94 - 118,24,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,666,1,98,4,8:58 PM,1:21,,,Livingston 5' Cutting Layup Shot (2 PTS) (Beauchamp 1 AST),96 - 118,22,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,668,6,2,4,8:58 PM,1:21,Brown S.FOUL (P1.PN) (C.Kirkland),,,,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042300126,670,3,10,4,8:59 PM,1:21,,,MISS Livingston Free Throw 1 of 1,,,5,1641753,Chris Livingston,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,671,4,0,4,8:59 PM,1:20,Jackson REBOUND (Off:0 Def:4),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,672,1,99,4,8:59 PM,1:10,Brown 2' Cutting Finger Roll Layup Shot (2 PTS) (Walker 1 AST),,,96 - 120,24,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,4,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042300126,674,1,75,4,8:59 PM,1:00,,,Jackson Jr. 3' Driving Finger Roll Layup (2 PTS) (Beauchamp 2 AST),98 - 120,22,5,1641748,Andre Jackson Jr.,1610612749.0,Milwaukee,Bucks,MIL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,676,5,2,4,9:00 PM,0:51,Brown Lost Ball Turnover (P1.T10),,Antetokounmpo STEAL (1 STL),,,4,1631112,Kendall Brown,1610612754.0,Indiana,Pacers,IND,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042300126,678,2,79,4,9:00 PM,0:39,,,MISS Beauchamp 27' 3PT Pullup Jump Shot,,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042300126,679,4,0,4,9:00 PM,0:35,Sheppard REBOUND (Off:0 Def:4),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042300126,681,5,11,4,9:00 PM,0:12,PACERS Turnover: Shot Clock (T#11),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300126,682,13,0,4,9:01 PM,0:00,,End of 4th Period (9:01 PM EST),,98 - 120,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

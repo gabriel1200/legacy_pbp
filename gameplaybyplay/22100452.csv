@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100452,2,12,0,1,7:42 PM,12:00,,Start of 1st Period (7:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,4,10,0,1,7:42 PM,12:00,Jump Ball Capela vs. Brown: Tip to Markkanen,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100452,7,5,1,1,7:42 PM,11:40,Capela STEAL (1 STL),,Markkanen Bad Pass Turnover (P1.T1),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,9,1,1,1,7:42 PM,11:34,Huerter 25' 3PT Jump Shot (3 PTS) (Hunter 1 AST),,,0 - 3,3,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,11,1,7,1,7:42 PM,11:13,,,Brown 1' Dunk (2 PTS) (Garland 1 AST),2 - 3,1,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,13,1,102,1,7:43 PM,10:55,Young 9' Driving Floating Bank Jump Shot (2 PTS) (Capela 1 AST),,,2 - 5,3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,16,2,79,1,7:43 PM,10:33,,,MISS Garland 25' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,17,4,0,1,7:43 PM,10:30,Capela REBOUND (Off:0 Def:1),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,18,1,3,1,7:44 PM,10:12,Capela 6' Hook Shot (2 PTS),,,2 - 7,5,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,19,1,75,1,7:44 PM,9:57,,,Garland 2' Driving Finger Roll Layup (2 PTS),4 - 7,3,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,20,2,43,1,7:44 PM,9:49,MISS Huerter 1' Alley Oop Layup,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,21,4,0,1,7:44 PM,9:47,,,Brown REBOUND (Off:0 Def:1),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,22,2,1,1,7:44 PM,9:39,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,23,4,0,1,7:44 PM,9:35,Hunter REBOUND (Off:0 Def:1),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,24,2,86,1,7:44 PM,9:26,MISS Hunter 18' Turnaround Fadeaway Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,25,4,0,1,7:44 PM,9:22,Capela REBOUND (Off:1 Def:1),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,26,2,72,1,7:44 PM,9:21,MISS Capela 6' Putback Layup,,Brown BLOCK (1 BLK),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100452,28,4,0,1,7:44 PM,9:21,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,29,2,1,1,7:45 PM,9:15,,,MISS Markkanen 24' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,30,4,0,1,7:45 PM,9:12,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,32,5,4,1,7:45 PM,9:08,Hunter Traveling Turnover (P1.T1),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0022100452,33,2,79,1,7:45 PM,8:54,,,MISS LeVert 12' Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,34,4,0,1,7:45 PM,8:50,Capela REBOUND (Off:1 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,35,1,1,1,7:45 PM,8:40,Hunter 3PT Jump Shot (3 PTS) (Young 1 AST),,,4 - 10,6,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,37,1,98,1,7:46 PM,8:23,,,Brown Cutting Layup Shot (4 PTS) (Garland 2 AST),6 - 10,4,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,39,1,52,1,7:46 PM,8:13,Capela 1' Alley Oop Dunk (4 PTS) (Young 2 AST),,,6 - 12,6,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,41,1,73,1,7:46 PM,8:02,,,Garland Driving Reverse Layup (4 PTS),8 - 12,4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,42,1,1,1,7:46 PM,7:48,Huerter 3PT Jump Shot (6 PTS) (Young 3 AST),,,8 - 15,7,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,44,6,1,1,7:47 PM,7:36,Huerter P.FOUL (P1.T1) (R.Acosta),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,46,2,6,1,7:47 PM,7:24,Capela BLOCK (1 BLK),,MISS LeVert 1' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022100452,48,4,0,1,7:47 PM,7:20,Capela REBOUND (Off:1 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,49,2,1,1,7:47 PM,7:15,MISS Young 29' 3PT Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,50,4,0,1,7:47 PM,7:12,,,Brown REBOUND (Off:0 Def:2),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,51,6,2,1,7:47 PM,7:04,Luwawu-Cabarrot S.FOUL (P1.T2) (R.Acosta),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,53,3,11,1,7:48 PM,7:04,,,Garland Free Throw 1 of 2 (5 PTS),9 - 15,6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,54,3,12,1,7:48 PM,7:04,,,MISS Garland Free Throw 2 of 2,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,55,4,0,1,7:48 PM,7:01,Capela REBOUND (Off:1 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,56,2,101,1,7:48 PM,6:48,MISS Hunter 12' Driving Floating Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,57,4,0,1,7:48 PM,6:45,,,LeVert REBOUND (Off:0 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,58,1,79,1,7:48 PM,6:36,,,LeVert 11' Pullup Jump Shot (2 PTS),11 - 15,4,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,59,5,1,1,7:49 PM,6:24,Young Bad Pass Turnover (P1.T2),,Markkanen STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,61,6,1,1,7:49 PM,6:23,Hunter P.FOUL (P1.T3) (R.Acosta),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,63,9,1,1,7:49 PM,6:23,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,64,5,40,1,7:52 PM,6:06,,,Garland Out of Bounds Lost Ball Turnover (P1.T2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100452,65,2,6,1,7:53 PM,5:47,MISS Young 2' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,66,4,0,1,7:53 PM,5:46,Capela REBOUND (Off:2 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,67,6,2,1,7:53 PM,5:46,,,Markkanen S.FOUL (P1.T1) (R.Acosta),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,69,3,11,1,7:53 PM,5:46,MISS Capela Free Throw 1 of 2,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,70,4,1,1,7:53 PM,5:46,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,73,3,12,1,7:53 PM,5:46,MISS Capela Free Throw 2 of 2,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,71,8,0,1,7:53 PM,5:46,,,SUB: Love FOR Brown,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,74,4,0,1,7:53 PM,5:41,Luwawu-Cabarrot REBOUND (Off:1 Def:0),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,75,1,72,1,7:54 PM,5:41,Luwawu-Cabarrot Putback Layup (2 PTS),,,11 - 17,6,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,76,5,2,1,7:54 PM,5:21,Huerter STEAL (1 STL),,Markkanen Lost Ball Turnover (P2.T3),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,78,1,50,1,7:54 PM,5:17,Capela 1' Running Dunk (6 PTS) (Luwawu-Cabarrot 1 AST),,,11 - 19,8,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,80,9,1,1,7:54 PM,5:15,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,81,1,79,1,7:57 PM,5:02,,,Garland 25' 3PT Pullup Jump Shot (8 PTS),14 - 19,5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,82,1,1,1,7:57 PM,4:46,Hunter 20' Jump Shot (5 PTS) (Young 4 AST),,,14 - 21,7,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,84,1,1,1,7:58 PM,4:36,,,Love 26' 3PT Jump Shot (3 PTS) (Garland 3 AST),17 - 21,4,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,86,6,2,1,7:58 PM,4:21,,,LeVert S.FOUL (P1.T2) (T.Maddox),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,88,18,0,1,7:58 PM,4:21,,Instant Replay1st Period (7:58 PM EST),,17 - 21,4,0,86,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,89,3,13,1,8:00 PM,4:21,Luwawu-Cabarrot Free Throw 1 of 3 (3 PTS),,,17 - 22,5,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,90,3,14,1,8:00 PM,4:21,Luwawu-Cabarrot Free Throw 2 of 3 (4 PTS),,,17 - 23,6,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,91,8,0,1,8:00 PM,4:21,SUB: Bogdanovic FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,92,8,0,1,8:00 PM,4:21,,,SUB: Osman FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,95,3,15,1,8:00 PM,4:21,Luwawu-Cabarrot Free Throw 3 of 3 (5 PTS),,,17 - 24,7,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,96,6,1,1,8:01 PM,4:05,Bogdanovic P.FOUL (P1.T4) (T.Maddox),,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,98,8,0,1,8:01 PM,4:05,,,SUB: Brown FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,100,5,2,1,8:02 PM,3:52,Luwawu-Cabarrot STEAL (1 STL),,Garland Lost Ball Turnover (P2.T4),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,102,5,1,1,8:02 PM,3:49,Young Bad Pass Turnover (P2.T3),,Garland STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,104,1,50,1,8:02 PM,3:45,,,Okoro 1' Running Dunk (2 PTS) (Garland 4 AST),19 - 24,5,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,106,2,5,1,8:02 PM,3:21,MISS Capela 4' Layup,,Garland BLOCK (1 BLK),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100452,137,2,3,1,8:02 PM,3:16,MISS Capela 1' Hook Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,108,4,0,1,8:02 PM,3:16,Capela REBOUND (Off:4 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,138,4,0,1,8:02 PM,3:15,Capela REBOUND (Off:3 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,109,1,72,1,8:02 PM,3:15,Capela 3' Putback Layup (8 PTS),,,19 - 26,7,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,110,2,5,1,8:02 PM,3:09,Capela BLOCK (2 BLK),,MISS Garland 1' Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022100452,112,4,0,1,8:02 PM,3:04,Young REBOUND (Off:0 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,113,1,2,1,8:02 PM,3:01,Bogdanovic 25' 3PT Running Jump Shot (3 PTS) (Young 5 AST),,,19 - 29,10,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,115,2,78,1,8:03 PM,2:46,,,MISS Love 8' Floating Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,116,4,0,1,8:03 PM,2:43,Capela REBOUND (Off:4 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,117,2,1,1,8:03 PM,2:38,MISS Luwawu-Cabarrot 27' 3PT Jump Shot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,118,4,0,1,8:03 PM,2:35,,,Love REBOUND (Off:0 Def:1),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,119,1,75,1,8:03 PM,2:22,,,Garland 2' Driving Finger Roll Layup (10 PTS) (Love 1 AST),21 - 29,8,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,121,6,2,1,8:03 PM,2:14,,,Love S.FOUL (P1.T3) (T.Maddox),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,123,3,11,1,8:04 PM,2:14,Young Free Throw 1 of 2 (3 PTS),,,21 - 30,9,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,124,8,0,1,8:04 PM,2:14,SUB: Wright FOR Luwawu-Cabarrot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,125,8,0,1,8:04 PM,2:14,SUB: Gallinari FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,126,8,0,1,8:04 PM,2:14,SUB: Okongwu FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,127,8,0,1,8:04 PM,2:14,,,SUB: Stevens FOR Brown,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,132,3,12,1,8:04 PM,2:14,Young Free Throw 2 of 2 (4 PTS),,,21 - 31,10,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,133,2,79,1,8:05 PM,1:59,,,MISS Garland 6' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,134,4,0,1,8:05 PM,1:56,Okongwu REBOUND (Off:0 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,135,6,1,1,8:05 PM,1:49,,,Love P.FOUL (P2.T4) (T.Maddox),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,139,1,80,1,8:05 PM,1:43,Young 25' 3PT Step Back Jump Shot (7 PTS),,,21 - 34,13,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,140,1,80,1,8:06 PM,1:31,,,Osman 19' Step Back Jump Shot (2 PTS),23 - 34,11,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,141,5,4,1,8:06 PM,1:03,Bogdanovic Traveling Turnover (P1.T4),,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022100452,142,1,1,1,8:07 PM,0:51,,,Love 26' 3PT Jump Shot (6 PTS) (Osman 1 AST),26 - 34,8,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,144,2,79,1,8:07 PM,0:38,MISS Young 30' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,145,4,0,1,8:07 PM,0:35,,,Stevens REBOUND (Off:0 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,146,1,6,1,8:07 PM,0:29,,,Garland 1' Driving Layup (12 PTS),28 - 34,6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,147,1,101,1,8:07 PM,0:10,Young 5' Driving Floating Jump Shot (9 PTS),,,28 - 36,8,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,148,2,1,1,8:08 PM,0:00,,,MISS Stevens 20' Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,149,4,0,1,8:08 PM,0:00,Okongwu REBOUND (Off:0 Def:2),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,150,13,0,1,8:08 PM,0:00,,End of 1st Period (8:08 PM EST),,28 - 36,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100452,157,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,28 - 36,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,158,1,57,2,8:11 PM,11:39,Okongwu 5' Driving Hook Shot (2 PTS) (Wright 1 AST),,,28 - 38,10,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,160,2,1,2,8:11 PM,11:22,,,MISS Love 27' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,161,4,0,2,8:11 PM,11:18,Bogdanovic REBOUND (Off:0 Def:1),,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,162,5,2,2,8:11 PM,11:08,Gallinari Lost Ball Turnover (P1.T5),,LeVert STEAL (1 STL),,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,164,1,6,2,8:11 PM,11:02,,,LeVert 2' Driving Layup (4 PTS) (Osman 2 AST),30 - 38,8,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,166,2,79,2,8:12 PM,10:47,MISS Huerter 19' Pullup Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,167,4,0,2,8:12 PM,10:43,Okongwu REBOUND (Off:1 Def:2),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,168,2,1,2,8:12 PM,10:43,MISS Gallinari 26' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,169,4,0,2,8:12 PM,10:39,,,Goodwin REBOUND (Off:0 Def:1),,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,170,2,63,2,8:12 PM,10:32,Okongwu BLOCK (1 BLK),,MISS LeVert 6' Fadeaway Jumper,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+0022100452,172,4,0,2,8:12 PM,10:31,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,174,6,1,2,8:12 PM,10:24,Okongwu P.FOUL (P1.T1) (C.Kirkland),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,176,2,86,2,8:13 PM,10:11,,,MISS Goodwin 8' Turnaround Fadeaway Shot,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,177,4,0,2,8:13 PM,10:07,Okongwu REBOUND (Off:1 Def:3),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,178,6,1,2,8:13 PM,10:03,,,Goodwin P.FOUL (P1.T1) (T.Maddox),,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,180,1,79,2,8:13 PM,9:57,Bogdanovic 16' Pullup Jump Shot (5 PTS) (Gallinari 1 AST),,,30 - 40,10,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,182,1,86,2,8:14 PM,9:31,,,LeVert 9' Turnaround Fadeaway (6 PTS),32 - 40,8,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,183,1,101,2,8:14 PM,9:20,Wright 5' Driving Floating Jump Shot (2 PTS),,,32 - 42,10,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,184,1,98,2,8:14 PM,9:02,,,Goodwin 1' Cutting Layup Shot (2 PTS) (Love 2 AST),34 - 42,8,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,187,1,1,2,8:15 PM,8:50,Wright 27' 3PT Jump Shot (5 PTS) (Gallinari 2 AST),,,34 - 45,11,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,189,2,80,2,8:15 PM,8:36,,,MISS LeVert 25' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,190,4,0,2,8:15 PM,8:33,Okongwu REBOUND (Off:1 Def:4),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,191,1,78,2,8:15 PM,8:21,Okongwu 8' Floating Jump Shot (4 PTS),,,34 - 47,13,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,192,2,1,2,8:15 PM,8:05,,,MISS Love 25' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,193,4,0,2,8:16 PM,8:01,,,LeVert REBOUND (Off:1 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,194,2,1,2,8:16 PM,7:58,,,MISS Love 26' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,195,4,0,2,8:16 PM,7:55,Gallinari REBOUND (Off:0 Def:1),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,196,2,79,2,8:16 PM,7:47,MISS Gallinari 26' 3PT Pullup Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,197,4,0,2,8:16 PM,7:43,,,Stevens REBOUND (Off:0 Def:2),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,198,6,2,2,8:16 PM,7:39,Okongwu S.FOUL (P2.T2) (T.Maddox),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,200,3,11,2,8:16 PM,7:39,,,Stevens Free Throw 1 of 2 (1 PTS),35 - 47,12,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,201,8,0,2,8:16 PM,7:39,,,SUB: Markkanen FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,203,3,12,2,8:17 PM,7:39,,,Stevens Free Throw 2 of 2 (2 PTS),36 - 47,11,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,204,2,79,2,8:17 PM,7:27,MISS Bogdanovic 26' 3PT Pullup Jump Shot,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,205,4,0,2,8:17 PM,7:24,,,Stevens REBOUND (Off:0 Def:3),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,206,1,79,2,8:17 PM,7:15,,,Stevens 12' Pullup Jump Shot (4 PTS),38 - 47,9,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,207,1,1,2,8:18 PM,6:48,Huerter 25' 3PT Jump Shot (9 PTS) (Wright 2 AST),,,38 - 50,12,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,209,2,6,2,8:18 PM,6:35,,,MISS LeVert 3' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,210,4,0,2,8:18 PM,6:30,,,Osman REBOUND (Off:1 Def:0),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,211,1,97,2,8:18 PM,6:30,,,Osman Tip Layup Shot (4 PTS),40 - 50,10,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,212,2,102,2,8:18 PM,6:18,MISS Huerter 7' Driving Floating Bank Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,213,4,0,2,8:18 PM,6:15,,,Stevens REBOUND (Off:0 Def:4),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,214,2,1,2,8:18 PM,6:09,,,MISS Osman 25' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,215,4,0,2,8:18 PM,6:06,Gallinari REBOUND (Off:0 Def:2),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,216,2,80,2,8:18 PM,5:56,MISS Huerter 3PT Step Back Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,217,4,0,2,8:19 PM,5:52,,,LeVert REBOUND (Off:1 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,218,5,1,2,8:19 PM,5:46,Bogdanovic STEAL (1 STL),,Osman Bad Pass Turnover (P1.T5),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,220,2,2,2,8:19 PM,5:41,MISS Bogdanovic 25' 3PT Running Jump Shot,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,221,4,0,2,8:19 PM,5:39,Okongwu REBOUND (Off:2 Def:4),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,222,6,2,2,8:19 PM,5:39,,,Osman S.FOUL (P1.T2) (R.Acosta),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,224,9,1,2,8:19 PM,5:39,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,225,18,0,2,8:20 PM,5:39,,Instant Replay2nd Period (8:20 PM EST),,40 - 50,10,0,222,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100452,226,8,0,2,8:20 PM,5:39,SUB: Hunter FOR Wright,,,,,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,227,8,0,2,8:20 PM,5:39,SUB: Young FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,228,8,0,2,8:20 PM,5:39,,,SUB: Okoro FOR Goodwin,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,229,8,0,2,8:20 PM,5:39,,,SUB: Garland FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,234,3,11,2,8:22 PM,5:39,Okongwu Free Throw 1 of 2 (5 PTS),,,40 - 51,11,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,235,3,12,2,8:22 PM,5:39,Okongwu Free Throw 2 of 2 (6 PTS),,,40 - 52,12,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,236,2,1,2,8:23 PM,5:27,,,MISS Garland 3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,237,4,0,2,8:23 PM,5:24,Gallinari REBOUND (Off:0 Def:3),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,238,1,52,2,8:23 PM,5:06,Okongwu 1' Alley Oop Dunk (8 PTS) (Young 6 AST),,,40 - 54,14,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,240,2,1,2,8:23 PM,4:55,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,241,4,0,2,8:23 PM,4:53,Okongwu REBOUND (Off:2 Def:5),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,242,2,79,2,8:23 PM,4:46,MISS Young 29' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,243,4,0,2,8:23 PM,4:42,,,Markkanen REBOUND (Off:0 Def:1),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,244,6,2,2,8:24 PM,4:29,Bogdanovic S.FOUL (P2.T3) (C.Kirkland),,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,246,3,11,2,8:24 PM,4:29,,,Okoro Free Throw 1 of 2 (3 PTS),41 - 54,13,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,247,8,0,2,8:24 PM,4:29,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,248,8,0,2,8:24 PM,4:29,,,SUB: Brown FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,251,3,12,2,8:25 PM,4:29,,,Okoro Free Throw 2 of 2 (4 PTS),42 - 54,12,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,252,2,79,2,8:25 PM,4:19,MISS Bogdanovic 25' 3PT Pullup Jump Shot,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,253,4,0,2,8:25 PM,4:15,,,Brown REBOUND (Off:0 Def:3),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,254,2,101,2,8:25 PM,4:09,,,MISS Garland 10' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,255,4,0,2,8:25 PM,4:06,,,Garland REBOUND (Off:1 Def:0),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,256,2,86,2,8:25 PM,4:05,,,MISS Garland 14' Turnaround Fadeaway Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,257,4,0,2,8:25 PM,4:02,Bogdanovic REBOUND (Off:0 Def:2),,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,258,1,80,2,8:25 PM,3:53,Young 26' 3PT Step Back Jump Shot (12 PTS),,,42 - 57,15,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,259,1,52,2,8:25 PM,3:43,,,Brown 1' Alley Oop Dunk (6 PTS) (LeVert 1 AST),44 - 57,13,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,261,2,86,2,8:26 PM,3:25,MISS Bogdanovic 12' Turnaround Fadeaway Shot,,LeVert BLOCK (1 BLK),,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100452,263,4,0,2,8:26 PM,3:21,,,Brown REBOUND (Off:0 Def:4),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,264,5,45,2,8:26 PM,3:20,,,Garland Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100452,265,8,0,2,8:26 PM,3:20,SUB: Luwawu-Cabarrot FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,266,8,0,2,8:26 PM,3:20,SUB: Huerter FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,269,6,2,2,8:26 PM,3:06,,,Brown S.FOUL (P1.T3) (R.Acosta),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,271,3,11,2,8:27 PM,3:06,MISS Capela Free Throw 1 of 2,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,272,4,1,2,8:27 PM,3:06,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,273,3,12,2,8:27 PM,3:06,Capela Free Throw 2 of 2 (9 PTS),,,44 - 58,14,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,274,6,2,2,8:27 PM,2:55,Capela S.FOUL (P1.T4) (C.Kirkland),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,276,9,1,2,8:28 PM,2:55,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,277,8,0,2,8:29 PM,2:55,,,SUB: Love FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,279,3,11,2,8:31 PM,2:55,,,MISS Brown Free Throw 1 of 2,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,280,4,1,2,8:31 PM,2:55,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,281,3,12,2,8:31 PM,2:55,,,Brown Free Throw 2 of 2 (7 PTS),45 - 58,13,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,282,2,79,2,8:31 PM,2:45,MISS Hunter 20' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,283,4,0,2,8:31 PM,2:41,,,Brown REBOUND (Off:0 Def:5),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,286,2,1,2,8:32 PM,2:24,,,MISS Love 25' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,287,4,0,2,8:32 PM,2:21,Luwawu-Cabarrot REBOUND (Off:1 Def:1),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,288,2,1,2,8:32 PM,2:14,MISS Hunter 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,289,4,0,2,8:32 PM,2:11,,,Brown REBOUND (Off:0 Def:6),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,290,1,100,2,8:32 PM,2:07,,,Markkanen 1' Running Alley Oop Layup Shot (2 PTS) (Garland 5 AST),47 - 58,11,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,292,7,5,2,8:32 PM,1:51,,,Okoro Violation:Kicked Ball (C.Kirkland),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0022100452,293,1,80,2,8:33 PM,1:44,Young 3PT Step Back Jump Shot (15 PTS),,,47 - 61,14,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,294,1,6,2,8:33 PM,1:25,,,Garland 1' Driving Layup (14 PTS),49 - 61,12,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,295,2,6,2,8:33 PM,1:17,MISS Young 5' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,296,4,0,2,8:33 PM,1:11,Capela REBOUND (Off:5 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,297,2,97,2,8:33 PM,1:11,MISS Capela Tip Layup Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,298,4,0,2,8:33 PM,1:10,,,Markkanen REBOUND (Off:0 Def:2),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,299,6,28,2,8:33 PM,1:10,Huerter Personal Take Foul (P2.PN) (R.Acosta),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,301,9,1,2,8:34 PM,1:10,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,302,8,0,2,8:34 PM,1:10,SUB: Wright FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,304,3,11,2,8:35 PM,1:10,,,MISS Garland Free Throw 1 of 2,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,305,4,1,2,8:35 PM,1:10,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,306,3,12,2,8:36 PM,1:10,,,Garland Free Throw 2 of 2 (15 PTS),50 - 61,11,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,307,6,2,2,8:36 PM,0:55,,,Okoro S.FOUL (P1.T4) (C.Kirkland),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,309,3,11,2,8:36 PM,0:55,Huerter Free Throw 1 of 2 (10 PTS),,,50 - 62,12,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,310,3,12,2,8:37 PM,0:55,Huerter Free Throw 2 of 2 (11 PTS),,,50 - 63,13,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,311,2,79,2,8:37 PM,0:43,,,MISS Garland 15' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,312,4,0,2,8:37 PM,0:39,Wright REBOUND (Off:0 Def:1),,,,,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,313,2,2,2,8:37 PM,0:35,MISS Hunter 3PT Running Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,314,4,0,2,8:37 PM,0:32,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,315,2,41,2,8:37 PM,0:28,,,MISS Okoro 2' Running Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,316,4,0,2,8:37 PM,0:25,,,Markkanen REBOUND (Off:1 Def:2),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,317,1,1,2,8:37 PM,0:24,,,Markkanen 26' 3PT Jump Shot (5 PTS),53 - 63,10,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,318,1,1,2,8:38 PM,0:04,Luwawu-Cabarrot 24' 3PT Jump Shot (8 PTS) (Huerter 1 AST),,,53 - 66,13,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,320,13,0,2,8:38 PM,0:00,,End of 2nd Period (8:38 PM EST),,53 - 66,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100452,325,12,0,3,8:53 PM,12:00,,Start of 3rd Period (8:53 PM EST),,53 - 66,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,326,1,79,3,8:53 PM,11:46,Huerter 16' Pullup Jump Shot (13 PTS),,,53 - 68,15,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022100452,327,2,80,3,8:54 PM,11:26,,,MISS Garland 24' Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022100452,328,4,0,3,8:54 PM,11:23,Luwawu-Cabarrot REBOUND (Off:1 Def:2),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022100452,329,6,2,3,8:54 PM,11:10,,,Brown S.FOUL (P2.T1) (T.Maddox),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,331,3,11,3,8:54 PM,11:10,Luwawu-Cabarrot Free Throw 1 of 2 (9 PTS),,,53 - 69,16,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,332,3,12,3,8:55 PM,11:10,Luwawu-Cabarrot Free Throw 2 of 2 (10 PTS),,,53 - 70,17,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,333,6,1,3,8:55 PM,11:00,Hunter P.FOUL (P2.T1) (R.Acosta),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,335,2,79,3,8:55 PM,10:48,,,MISS Garland 25' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,336,4,0,3,8:55 PM,10:45,,,Brown REBOUND (Off:1 Def:6),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,337,2,3,3,8:55 PM,10:44,,,MISS Brown 5' Hook Shot,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,338,4,0,3,8:55 PM,10:40,Capela REBOUND (Off:5 Def:6),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,339,1,80,3,8:56 PM,10:32,Young 25' 3PT Step Back Jump Shot (18 PTS),,,53 - 73,20,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,340,1,108,3,8:56 PM,10:19,,,Markkanen 1' Cutting Dunk Shot (7 PTS) (Garland 6 AST),55 - 73,18,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,342,2,1,3,8:56 PM,10:03,MISS Hunter 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,343,4,0,3,8:56 PM,10:01,Capela REBOUND (Off:6 Def:6),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,344,1,101,3,8:56 PM,9:59,Young 8' Driving Floating Jump Shot (20 PTS) (Capela 2 AST),,,55 - 75,20,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,346,6,2,3,8:56 PM,9:50,Young S.FOUL (P1.T2) (C.Kirkland),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,348,3,11,3,8:57 PM,9:50,,,Markkanen Free Throw 1 of 2 (8 PTS),56 - 75,19,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,349,5,0,3,8:57 PM,9:50,,,Brown Turnover Turnover (P1.T7),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,350,2,79,3,8:57 PM,9:41,MISS Young 26' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,351,4,0,3,8:57 PM,9:39,,,Brown REBOUND (Off:1 Def:7),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,352,2,5,3,8:58 PM,9:21,Capela BLOCK (3 BLK),,MISS Markkanen 4' Layup,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022100452,353,4,0,3,8:58 PM,9:17,,,Markkanen REBOUND (Off:2 Def:2),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,354,2,72,3,8:58 PM,9:17,,,MISS Markkanen Putback Layup,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,355,4,0,3,8:58 PM,9:17,,,Brown REBOUND (Off:2 Def:7),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,356,6,2,3,8:58 PM,9:16,Capela S.FOUL (P2.T3) (T.Maddox),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,358,3,11,3,8:58 PM,9:16,,,Brown Free Throw 1 of 2 (8 PTS),57 - 75,18,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,359,3,12,3,8:58 PM,9:16,,,Brown Free Throw 2 of 2 (9 PTS),58 - 75,17,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,360,6,1,3,8:59 PM,8:59,,,Brown P.FOUL (P3.T2) (C.Kirkland),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,363,2,1,3,8:59 PM,8:47,MISS Hunter 24' 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,364,4,0,3,8:59 PM,8:46,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,366,1,78,3,9:00 PM,8:35,,,LeVert 7' Floating Jump Shot (8 PTS),60 - 75,15,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,367,6,2,3,9:00 PM,8:35,Luwawu-Cabarrot S.FOUL (P2.T4) (T.Maddox),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,369,3,10,3,9:00 PM,8:35,,,LeVert Free Throw 1 of 1 (9 PTS),61 - 75,14,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,370,2,79,3,9:00 PM,8:21,MISS Hunter 9' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,371,4,0,3,9:00 PM,8:21,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,372,6,3,3,9:01 PM,8:21,,,Markkanen L.B.FOUL (P2.T3) (C.Kirkland),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,374,5,2,3,9:01 PM,8:14,Huerter Lost Ball Turnover (P1.T6),,LeVert STEAL (2 STL),,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,376,5,45,3,9:01 PM,8:13,,,LeVert Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100452,377,6,1,3,9:01 PM,8:05,,,Markkanen P.FOUL (P3.T4) (T.Maddox),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,379,6,1,3,9:02 PM,8:02,,,Markkanen P.FOUL (P4.PN) (C.Kirkland),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,381,3,11,3,9:02 PM,8:02,Young Free Throw 1 of 2 (21 PTS),,,61 - 76,15,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,382,8,0,3,9:02 PM,8:02,,,SUB: Love FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,385,3,12,3,9:03 PM,8:02,Young Free Throw 2 of 2 (22 PTS),,,61 - 77,16,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,386,2,1,3,9:03 PM,7:41,,,MISS Love 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,387,4,0,3,9:03 PM,7:37,Huerter REBOUND (Off:0 Def:1),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,388,2,101,3,9:03 PM,7:30,MISS Huerter 11' Driving Floating Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,389,4,0,3,9:03 PM,7:28,,,LeVert REBOUND (Off:1 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,390,5,1,3,9:03 PM,7:19,Capela STEAL (2 STL),,LeVert Bad Pass Turnover (P2.T9),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,392,1,1,3,9:04 PM,6:59,Huerter 26' 3PT Jump Shot (16 PTS) (Hunter 2 AST),,,61 - 80,19,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,394,2,101,3,9:04 PM,6:43,,,MISS Garland 7' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,395,4,0,3,9:04 PM,6:40,,,Love REBOUND (Off:1 Def:1),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,396,2,97,3,9:04 PM,6:40,,,MISS Love Tip Layup Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,397,4,0,3,9:04 PM,6:40,Young REBOUND (Off:0 Def:2),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,398,6,1,3,9:04 PM,6:40,,,Okoro P.FOUL (P2.PN) (T.Maddox),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,400,9,1,3,9:04 PM,6:40,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,401,8,0,3,9:06 PM,6:40,SUB: Gallinari FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,403,3,11,3,9:07 PM,6:40,Young Free Throw 1 of 2 (23 PTS),,,61 - 81,20,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,404,3,12,3,9:07 PM,6:40,Young Free Throw 2 of 2 (24 PTS),,,61 - 82,21,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,405,2,79,3,9:08 PM,6:21,,,MISS Garland 12' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,406,4,0,3,9:08 PM,6:18,Capela REBOUND (Off:6 Def:7),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,407,5,1,3,9:08 PM,6:08,Young Bad Pass Turnover (P3.T7),,Okoro STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,409,1,41,3,9:08 PM,6:03,,,Okoro 1' Running Layup (6 PTS) (Garland 7 AST),63 - 82,19,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,411,1,79,3,9:08 PM,5:41,Huerter 16' Pullup Jump Shot (18 PTS),,,63 - 84,21,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,412,2,101,3,9:09 PM,5:16,,,MISS Love 4' Driving Floating Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,413,4,0,3,9:09 PM,5:12,,,Brown REBOUND (Off:3 Def:7),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,414,1,3,3,9:09 PM,5:11,,,Brown 6' Hook Shot (11 PTS),65 - 84,19,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,415,6,1,3,9:09 PM,4:58,,,Okoro P.FOUL (P3.PN) (C.Kirkland),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,417,3,11,3,9:10 PM,4:58,Young Free Throw 1 of 2 (25 PTS),,,65 - 85,20,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,418,8,0,3,9:10 PM,4:58,,,SUB: Stevens FOR Brown,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,420,3,12,3,9:10 PM,4:58,Young Free Throw 2 of 2 (26 PTS),,,65 - 86,21,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,421,2,79,3,9:10 PM,4:41,,,MISS Garland 20' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,422,4,0,3,9:10 PM,4:38,Luwawu-Cabarrot REBOUND (Off:1 Def:3),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,423,1,52,3,9:10 PM,4:32,Capela Alley Oop Dunk (11 PTS) (Young 7 AST),,,65 - 88,23,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,425,6,2,3,9:11 PM,4:32,,,Stevens S.FOUL (P1.PN) (R.Acosta),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,427,8,0,3,9:11 PM,4:32,,,SUB: Osman FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,429,3,10,3,9:11 PM,4:32,Capela Free Throw 1 of 1 (12 PTS),,,65 - 89,24,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,430,6,2,3,9:11 PM,4:23,Luwawu-Cabarrot S.FOUL (P3.PN) (R.Acosta),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,432,3,11,3,9:12 PM,4:23,,,MISS Osman Free Throw 1 of 2,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,433,4,1,3,9:12 PM,4:23,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,440,3,12,3,9:12 PM,4:23,,,MISS Osman Free Throw 2 of 2,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,434,8,0,3,9:12 PM,4:23,SUB: Bogdanovic FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,435,8,0,3,9:12 PM,4:23,SUB: Wright FOR Luwawu-Cabarrot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,436,8,0,3,9:12 PM,4:23,,,SUB: Windler FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,441,4,0,3,9:12 PM,4:20,,,Stevens REBOUND (Off:1 Def:4),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,442,2,79,3,9:12 PM,4:06,,,MISS Stevens 16' Pullup Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,443,4,0,3,9:12 PM,4:01,Wright REBOUND (Off:0 Def:2),,,,,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,444,1,79,3,9:13 PM,3:56,Young 18' Pullup Jump Shot (28 PTS),,,65 - 91,26,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,445,2,79,3,9:13 PM,3:40,,,MISS Garland 16' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,446,4,0,3,9:13 PM,3:38,,,Osman REBOUND (Off:2 Def:0),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,447,2,1,3,9:13 PM,3:36,,,MISS Windler 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,448,4,0,3,9:13 PM,3:31,Capela REBOUND (Off:6 Def:8),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,449,2,80,3,9:13 PM,3:21,MISS Young 28' 3PT Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,450,4,0,3,9:13 PM,3:18,,,Osman REBOUND (Off:2 Def:1),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,451,5,45,3,9:13 PM,3:13,,,Osman Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100452,452,8,0,3,9:13 PM,3:13,SUB: Okongwu FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,454,2,79,3,9:14 PM,2:59,MISS Young 21' Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,455,4,0,3,9:14 PM,2:57,,,Windler REBOUND (Off:0 Def:1),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,456,1,101,3,9:14 PM,2:42,,,Garland 10' Driving Floating Jump Shot (17 PTS),67 - 91,24,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,457,6,2,3,9:14 PM,2:42,Okongwu S.FOUL (P3.PN) (T.Maddox),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,461,3,10,3,9:17 PM,2:42,,,Garland Free Throw 1 of 1 (18 PTS),68 - 91,23,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,462,2,79,3,9:17 PM,2:30,MISS Bogdanovic 17' Pullup Jump Shot,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,463,4,0,3,9:18 PM,2:28,,,Stevens REBOUND (Off:1 Def:5),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,464,1,101,3,9:18 PM,2:12,,,Love 8' Driving Floating Jump Shot (8 PTS) (Osman 3 AST),70 - 91,21,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,466,1,52,3,9:18 PM,1:58,Okongwu Alley Oop Dunk (10 PTS) (Young 8 AST),,,70 - 93,23,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,468,5,45,3,9:18 PM,1:37,,,Love Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100452,469,2,1,3,9:19 PM,1:18,MISS Gallinari 25' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,470,4,0,3,9:19 PM,1:14,Wright REBOUND (Off:1 Def:2),,,,,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,471,1,63,3,9:19 PM,1:05,Gallinari 8' Fadeaway Jumper (2 PTS) (Wright 3 AST),,,70 - 95,25,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,473,2,6,3,9:19 PM,0:54,,,MISS Garland 3' Driving Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,474,4,0,3,9:19 PM,0:52,,,Osman REBOUND (Off:3 Def:1),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,476,6,14,3,9:19 PM,0:52,Gallinari FLAGRANT.FOUL.TYPE1 (P1.PN) (C.Kirkland),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,478,18,0,3,9:20 PM,0:52,,Instant Replay3rd Period (9:20 PM EST),,70 - 95,25,0,476,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100452,479,3,18,3,9:21 PM,0:52,,,Osman Free Throw Flagrant 1 of 2 (5 PTS),71 - 95,24,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,480,3,19,3,9:21 PM,0:52,,,Osman Free Throw Flagrant 2 of 2 (6 PTS),72 - 95,23,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,481,1,1,3,9:22 PM,0:50,,,Osman 26' 3PT Jump Shot (9 PTS) (Garland 8 AST),75 - 95,20,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,484,1,101,3,9:22 PM,0:32,Young 11' Driving Floating Jump Shot (30 PTS),,,75 - 97,22,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,485,5,39,3,9:23 PM,0:13,,,Windler Step Out of Bounds Turnover (P1.T12),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100452,486,1,1,3,9:23 PM,0:01,Bogdanovic 3PT Jump Shot (8 PTS) (Young 9 AST),,,75 - 100,25,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,488,13,0,3,9:23 PM,0:00,,End of 3rd Period (9:23 PM EST),,75 - 100,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100452,495,12,0,4,9:26 PM,12:00,,Start of 4th Period (9:26 PM EST),,75 - 100,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,496,2,80,4,9:26 PM,11:50,,,MISS Goodwin 20' Step Back Jump Shot,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,497,4,0,4,9:26 PM,11:46,Okongwu REBOUND (Off:2 Def:6),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,498,2,86,4,9:26 PM,11:28,MISS Gallinari 9' Turnaround Fadeaway Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,499,4,0,4,9:26 PM,11:24,,,Stevens REBOUND (Off:1 Def:6),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,500,2,2,4,9:26 PM,11:19,,,MISS Osman 27' 3PT Running Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,501,4,0,4,9:26 PM,11:16,,,Windler REBOUND (Off:1 Def:1),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,502,2,1,4,9:27 PM,11:05,,,MISS Windler 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,503,4,0,4,9:27 PM,11:01,Wright REBOUND (Off:1 Def:3),,,,,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,504,1,41,4,9:27 PM,10:56,Gallinari Running Layup (4 PTS) (Wright 4 AST),,,75 - 102,27,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,506,1,101,4,9:27 PM,10:46,,,Goodwin 8' Driving Floating Jump Shot (4 PTS),77 - 102,25,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,507,1,6,4,9:27 PM,10:36,Wright Driving Layup (7 PTS),,,77 - 104,27,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,508,1,6,4,9:27 PM,10:27,,,Goodwin 1' Driving Layup (6 PTS),79 - 104,25,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,509,1,79,4,9:27 PM,10:13,Huerter 25' 3PT Pullup Jump Shot (21 PTS) (Okongwu 1 AST),,,79 - 107,28,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,511,6,2,4,9:28 PM,9:59,Okongwu S.FOUL (P4.T1) (R.Acosta),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,513,3,11,4,9:28 PM,9:59,,,Osman Free Throw 1 of 2 (10 PTS),80 - 107,27,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,514,3,12,4,9:29 PM,9:59,,,Osman Free Throw 2 of 2 (11 PTS),81 - 107,26,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,515,2,86,4,9:29 PM,9:45,MISS Bogdanovic 11' Turnaround Fadeaway Shot,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,516,4,0,4,9:29 PM,9:40,,,Osman REBOUND (Off:3 Def:2),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,517,2,2,4,9:29 PM,9:36,,,MISS Stevens 3PT Running Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,518,4,0,4,9:29 PM,9:33,Gallinari REBOUND (Off:0 Def:4),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,519,6,1,4,9:29 PM,9:26,,,Osman P.FOUL (P2.T1) (C.Kirkland),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,521,2,80,4,9:30 PM,9:14,MISS Bogdanovic 27' 3PT Step Back Jump Shot,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,522,4,0,4,9:30 PM,9:11,,,Brown REBOUND (Off:3 Def:8),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,523,2,1,4,9:30 PM,9:00,,,MISS Windler 26' 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,524,4,0,4,9:30 PM,8:58,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,526,1,52,4,9:30 PM,8:52,,,Brown Alley Oop Dunk (13 PTS) (Windler 1 AST),83 - 107,24,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,528,1,58,4,9:31 PM,8:37,Okongwu 7' Turnaround Hook Shot (12 PTS) (Gallinari 3 AST),,,83 - 109,26,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,530,5,1,4,9:31 PM,8:25,Huerter STEAL (2 STL),,Goodwin Bad Pass Turnover (P1.T13),,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,532,6,2,4,9:31 PM,8:22,,,Windler S.FOUL (P1.T2) (T.Maddox),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,534,3,11,4,9:31 PM,8:22,Huerter Free Throw 1 of 2 (22 PTS),,,83 - 110,27,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,535,3,12,4,9:32 PM,8:22,Huerter Free Throw 2 of 2 (23 PTS),,,83 - 111,28,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,536,2,1,4,9:32 PM,8:02,,,MISS Goodwin 24' 3PT Jump Shot,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,537,4,0,4,9:32 PM,7:59,Huerter REBOUND (Off:0 Def:2),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,538,1,2,4,9:32 PM,7:55,Bogdanovic 3PT Running Jump Shot (11 PTS) (Huerter 2 AST),,,83 - 114,31,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,540,2,1,4,9:32 PM,7:43,,,MISS Windler 25' 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,541,4,0,4,9:32 PM,7:38,Okongwu REBOUND (Off:2 Def:7),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,542,2,6,4,9:33 PM,7:24,MISS Bogdanovic 2' Driving Layup,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,544,4,0,4,9:33 PM,7:23,Okongwu REBOUND (Off:3 Def:7),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,545,1,97,4,9:33 PM,7:23,Okongwu Tip Layup Shot (14 PTS),,,83 - 116,33,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,546,9,1,4,9:33 PM,7:23,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,547,8,0,4,9:35 PM,7:23,SUB: Knox II FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanović,1610612737.0,Atlanta,Hawks,ATL,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,549,1,80,4,9:36 PM,7:09,,,Stevens 20' Step Back Jump Shot (6 PTS) (Osman 4 AST),85 - 116,31,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,551,2,86,4,9:36 PM,6:42,MISS Gallinari 13' Turnaround Fadeaway Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,552,4,0,4,9:36 PM,6:40,,,Goodwin REBOUND (Off:0 Def:2),,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,553,2,43,4,9:36 PM,6:32,,,MISS Brown 2' Alley Oop Layup,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,554,4,0,4,9:36 PM,6:31,,,Brown REBOUND (Off:4 Def:8),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,555,6,2,4,9:37 PM,6:31,Knox II S.FOUL (P1.T2) (C.Kirkland),,,,,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,557,3,11,4,9:37 PM,6:31,,,Brown Free Throw 1 of 2 (14 PTS),86 - 116,30,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,558,8,0,4,9:37 PM,6:31,SUB: Dieng FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,559,8,0,4,9:37 PM,6:31,SUB: Luwawu-Cabarrot FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,562,3,12,4,9:37 PM,6:31,,,Brown Free Throw 2 of 2 (15 PTS),87 - 116,29,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,563,2,6,4,9:38 PM,6:17,MISS Luwawu-Cabarrot 1' Driving Layup,,Osman BLOCK (1 BLK),,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100452,565,4,0,4,9:38 PM,6:14,,,Brown REBOUND (Off:4 Def:9),,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,566,2,67,4,9:38 PM,6:12,,,MISS Goodwin 3' Hook Bank Shot,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,567,4,0,4,9:38 PM,6:08,Knox II REBOUND (Off:0 Def:1),,,,,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,568,2,1,4,9:38 PM,6:02,MISS Dieng 24' 3PT Jump Shot,,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,569,4,0,4,9:38 PM,5:58,,,Stevens REBOUND (Off:1 Def:7),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,570,5,2,4,9:38 PM,5:52,Wright STEAL (1 STL),,Osman Lost Ball Turnover (P3.T14),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,572,1,41,4,9:38 PM,5:48,Luwawu-Cabarrot Running Layup (12 PTS),,,87 - 118,31,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,573,2,1,4,9:38 PM,5:26,,,MISS Stevens 25' 3PT Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,574,4,0,4,9:38 PM,5:23,Dieng REBOUND (Off:0 Def:1),,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,575,2,79,4,9:39 PM,5:16,MISS Dieng 26' 3PT Pullup Jump Shot,,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,576,4,0,4,9:39 PM,5:12,Okongwu REBOUND (Off:4 Def:7),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,577,6,2,4,9:39 PM,5:11,,,Osman S.FOUL (P3.T3) (C.Kirkland),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,579,3,11,4,9:39 PM,5:11,MISS Okongwu Free Throw 1 of 2,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,580,4,1,4,9:39 PM,5:11,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,581,8,0,4,9:39 PM,5:11,SUB: Mays FOR Wright,,,,,4,1626153,Delon Wright,1610612737.0,Atlanta,Hawks,ATL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022100452,582,8,0,4,9:39 PM,5:11,,,SUB: Davis FOR Brown,,,5,1629650,Moses Brown,1610612739.0,Cleveland,Cavaliers,CLE,5,202334,Ed Davis,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100452,585,3,12,4,9:39 PM,5:11,Okongwu Free Throw 2 of 2 (15 PTS),,,87 - 119,32,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,586,1,6,4,9:40 PM,4:55,,,Osman 1' Driving Layup (13 PTS),89 - 119,30,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,587,2,79,4,9:40 PM,4:44,MISS Dieng 25' 3PT Pullup Jump Shot,,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,588,4,0,4,9:40 PM,4:41,,,Osman REBOUND (Off:3 Def:3),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,589,1,79,4,9:40 PM,4:26,,,Osman 26' 3PT Pullup Jump Shot (16 PTS),92 - 119,27,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,591,2,6,4,9:41 PM,4:02,MISS Mays 5' Driving Layup,,Davis BLOCK (1 BLK),,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202334,Ed Davis,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100452,593,4,0,4,9:41 PM,4:01,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100452,595,6,2,4,9:41 PM,3:58,,,Davis S.FOUL (P1.T4) (C.Kirkland),,,5,202334,Ed Davis,1610612739.0,Cleveland,Cavaliers,CLE,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022100452,597,3,11,4,9:41 PM,3:58,Okongwu Free Throw 1 of 2 (16 PTS),,,92 - 120,28,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,598,3,12,4,9:42 PM,3:58,Okongwu Free Throw 2 of 2 (17 PTS),,,92 - 121,29,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,599,1,6,4,9:42 PM,3:40,,,Osman 2' Driving Layup (18 PTS),94 - 121,27,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,600,1,79,4,9:42 PM,3:25,Knox II 21' Pullup Jump Shot (2 PTS) (Dieng 1 AST),,,94 - 123,29,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,602,1,1,4,9:43 PM,3:08,,,Osman 26' 3PT Jump Shot (21 PTS) (Windler 2 AST),97 - 123,26,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,604,1,1,4,9:43 PM,2:51,Dieng 25' 3PT Jump Shot (3 PTS) (Mays 1 AST),,,97 - 126,29,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,606,6,1,4,9:43 PM,2:37,Dieng P.FOUL (P1.T3) (C.Kirkland),,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,608,1,9,4,9:46 PM,2:30,,,Windler 2' Driving Dunk (2 PTS) (Stevens 1 AST),99 - 126,27,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,610,6,2,4,9:46 PM,2:30,Dieng S.FOUL (P2.T4) (C.Kirkland),,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,612,3,10,4,9:47 PM,2:30,,,Windler Free Throw 1 of 1 (3 PTS),100 - 126,26,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,613,2,1,4,9:47 PM,2:15,MISS Knox II 25' 3PT Jump Shot,,,,,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,614,4,0,4,9:47 PM,2:13,,,Davis REBOUND (Off:0 Def:1),,,5,202334,Ed Davis,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,615,2,1,4,9:47 PM,2:04,,,MISS Windler 24' 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,616,4,0,4,9:47 PM,2:01,Okongwu REBOUND (Off:4 Def:8),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,617,5,2,4,9:47 PM,1:52,Luwawu-Cabarrot Lost Ball Turnover (P1.T8),,Goodwin STEAL (1 STL),,,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,619,6,2,4,9:47 PM,1:50,Mays S.FOUL (P1.PN) (T.Maddox),,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100452,621,3,11,4,9:48 PM,1:50,,,Goodwin Free Throw 1 of 2 (7 PTS),101 - 126,25,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,622,3,12,4,9:48 PM,1:50,,,MISS Goodwin Free Throw 2 of 2,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,623,4,0,4,9:48 PM,1:46,,,Davis REBOUND (Off:1 Def:1),,,5,202334,Ed Davis,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,624,2,1,4,9:48 PM,1:44,,,MISS Osman 26' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,625,4,0,4,9:48 PM,1:42,Dieng REBOUND (Off:0 Def:2),,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,626,2,6,4,9:48 PM,1:31,MISS Mays Driving Layup,,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,627,4,0,4,9:48 PM,1:28,,,Davis REBOUND (Off:1 Def:2),,,5,202334,Ed Davis,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,628,1,80,4,9:48 PM,1:14,,,Goodwin 18' Step Back Jump Shot (9 PTS),103 - 126,23,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,629,1,1,4,9:49 PM,1:01,Knox II 26' 3PT Jump Shot (5 PTS) (Luwawu-Cabarrot 2 AST),,,103 - 129,26,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,4,1627789,Timothe Luwawu-Cabarrot,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022100452,631,1,98,4,9:49 PM,0:49,,,Windler 1' Cutting Layup Shot (5 PTS) (Goodwin 1 AST),105 - 129,24,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100452,633,1,102,4,9:49 PM,0:34,Knox II 4' Driving Floating Bank Jump Shot (7 PTS),,,105 - 131,26,4,1628995,Kevin Knox II,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022100452,634,6,3,4,9:50 PM,0:32,Dieng L.B.FOUL (P3.PN) (T.Maddox),,,,,4,203476,Gorgui Dieng,1610612737.0,Atlanta,Hawks,ATL,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0022100452,636,3,11,4,9:50 PM,0:32,,,Goodwin Free Throw 1 of 2 (10 PTS),106 - 131,25,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,637,3,12,4,9:50 PM,0:32,,,Goodwin Free Throw 2 of 2 (11 PTS),107 - 131,24,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100452,638,5,11,4,9:51 PM,0:08,HAWKS Turnover: Shot Clock (T#9),,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100452,639,13,0,4,9:51 PM,0:00,,End of 4th Period (9:51 PM EST),,107 - 131,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

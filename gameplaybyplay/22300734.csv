@@ -1,0 +1,431 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300734,2,12,0,1,7:13 PM,12:00,,Start of 1st Period (7:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,4,10,0,1,7:13 PM,12:00,Jump Ball Carter Jr. vs. Wembanyama: Tip to Sochan,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,7,2,79,1,7:13 PM,11:36,,,MISS Vassell 26' 3PT Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,8,4,0,1,7:13 PM,11:32,Banchero REBOUND (Off:0 Def:1),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,10,2,79,1,7:14 PM,11:13,MISS F. Wagner 32' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,11,4,0,1,7:14 PM,11:11,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,13,1,98,1,7:14 PM,11:08,F. Wagner 3' Cutting Layup Shot (2 PTS) (Fultz 1 AST),,,0 - 2,2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,15,2,101,1,7:14 PM,10:52,,,MISS Wembanyama 9' Driving Floating Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,16,4,0,1,7:14 PM,10:50,F. Wagner REBOUND (Off:0 Def:1),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,17,1,5,1,7:15 PM,10:43,Banchero 5' Layup (2 PTS) (F. Wagner 1 AST),,,0 - 4,4,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,19,2,101,1,7:15 PM,10:29,,,MISS Jones 11' Driving Floating Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,20,4,0,1,7:15 PM,10:27,F. Wagner REBOUND (Off:0 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,21,1,1,1,7:15 PM,10:15,Carter Jr. 26' 3PT Jump Shot (3 PTS) (Banchero 1 AST),,,0 - 7,7,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,23,7,5,1,7:15 PM,10:03,F. Wagner Violation:Kicked Ball (S.Foster),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0022300734,24,2,1,1,7:16 PM,9:49,,,MISS Vassell 24' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,25,4,0,1,7:16 PM,9:42,Carter Jr. REBOUND (Off:0 Def:1),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,26,1,108,1,7:16 PM,9:37,Banchero 3' Cutting Dunk Shot (4 PTS) (F. Wagner 2 AST),,,0 - 9,9,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,28,9,1,1,7:18 PM,9:37,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,31,1,1,1,7:19 PM,9:25,,,Champagnie 27' 3PT Jump Shot (3 PTS) (Vassell 1 AST),3 - 9,6,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,33,2,1,1,7:19 PM,9:03,MISS Suggs 27' 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,34,4,0,1,7:19 PM,9:00,Fultz REBOUND (Off:1 Def:0),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,35,2,73,1,7:19 PM,8:58,MISS Fultz 3' Driving Reverse Layup,,Wembanyama BLOCK (1 BLK),,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,37,4,0,1,7:20 PM,8:54,Fultz REBOUND (Off:2 Def:0),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,38,2,79,1,7:20 PM,8:47,MISS Suggs 17' Pullup Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,39,4,0,1,7:20 PM,8:43,,,Sochan REBOUND (Off:0 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,40,2,1,1,7:20 PM,8:36,,,MISS Vassell 16' Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,41,4,0,1,7:20 PM,8:32,Banchero REBOUND (Off:0 Def:2),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,42,5,1,1,7:20 PM,8:17,F. Wagner Bad Pass Turnover (P1.T1),,Jones STEAL (1 STL),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,44,5,45,1,7:20 PM,8:12,,,Wembanyama Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,45,1,6,1,7:21 PM,7:56,F. Wagner 3' Driving Layup (4 PTS) (Fultz 2 AST),,,3 - 11,8,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,49,2,5,1,7:21 PM,7:36,,,MISS Wembanyama Layup,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,50,4,0,1,7:21 PM,7:35,Banchero REBOUND (Off:0 Def:3),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,51,2,1,1,7:21 PM,7:26,MISS Carter Jr. 10' Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,52,4,0,1,7:21 PM,7:23,,,Vassell REBOUND (Off:0 Def:1),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,53,2,1,1,7:21 PM,7:18,F. Wagner BLOCK (1 BLK),,MISS Jones 24' 3PT Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1
+0022300734,55,4,0,1,7:21 PM,7:18,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,57,1,79,1,7:22 PM,7:12,,,Wembanyama 25' 3PT Pullup Jump Shot (3 PTS),6 - 11,5,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,58,6,2,1,7:22 PM,6:53,,,Jones S.FOUL (P1.T1) (S.Foster),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,60,3,11,1,7:23 PM,6:53,Carter Jr. Free Throw 1 of 2 (4 PTS),,,6 - 12,6,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,65,3,12,1,7:23 PM,6:53,MISS Carter Jr. Free Throw 2 of 2,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,61,8,0,1,7:23 PM,6:53,,,SUB: Wesley FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,62,8,0,1,7:23 PM,6:53,,,SUB: Collins FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,66,4,0,1,7:23 PM,6:50,,,Champagnie REBOUND (Off:0 Def:1),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,67,1,3,1,7:23 PM,6:35,,,Sochan 10' Hook Shot (2 PTS) (Collins 1 AST),8 - 12,4,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,69,1,79,1,7:24 PM,6:23,Banchero 16' Pullup Jump Shot (6 PTS),,,8 - 14,6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,70,2,1,1,7:24 PM,6:06,,,MISS Sochan 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,71,4,0,1,7:24 PM,6:03,Banchero REBOUND (Off:0 Def:4),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,72,5,45,1,7:24 PM,6:01,Fultz Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,73,8,0,1,7:24 PM,6:01,,,SUB: Johnson FOR Champagnie,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,75,2,1,1,7:24 PM,5:41,,,MISS Collins 26' 3PT Jump Shot,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,76,4,0,1,7:25 PM,5:37,,,Wesley REBOUND (Off:1 Def:0),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,80,2,1,1,7:25 PM,5:28,,,MISS Johnson 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,81,4,0,1,7:25 PM,5:24,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,82,6,11,1,7:25 PM,5:24,Carter Jr. T.FOUL (P0.T0) (S.Foster),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,83,3,16,1,7:26 PM,5:24,,,MISS Vassell Free Throw Technical,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,84,4,1,1,7:26 PM,5:24,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,85,10,0,1,7:26 PM,5:24, ,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,3,1610612759,,,,,,1
+0022300734,88,8,0,1,7:26 PM,5:22,SUB: Harris FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,90,1,101,1,7:26 PM,5:15,,,Wesley 14' Driving Floating Jump Shot (2 PTS) (Collins 2 AST),10 - 14,4,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,92,2,102,1,7:27 PM,4:53,MISS Carter Jr. 6' Driving Floating Bank Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,93,4,0,1,7:27 PM,4:50,,,Johnson REBOUND (Off:0 Def:1),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,94,2,47,1,7:27 PM,4:41,,,MISS Sochan 7' Turnaround Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,95,4,0,1,7:27 PM,4:39,Carter Jr. REBOUND (Off:0 Def:2),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,96,2,1,1,7:27 PM,4:30,MISS Suggs 24' 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,97,4,0,1,7:27 PM,4:29,Carter Jr. REBOUND (Off:1 Def:2),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,98,6,2,1,7:27 PM,4:27,,,Collins S.FOUL (P1.T2) (J.Goldenberg),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,100,3,11,1,7:28 PM,4:27,MISS Suggs Free Throw 1 of 2,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,101,4,1,1,7:28 PM,4:27,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,102,8,0,1,7:28 PM,4:27,SUB: Isaac FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,103,8,0,1,7:28 PM,4:27,SUB: Ingles FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,104,8,0,1,7:28 PM,4:27,,,SUB: Osman FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,108,3,12,1,7:28 PM,4:27,MISS Suggs Free Throw 2 of 2,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,109,4,0,1,7:28 PM,4:23,,,Johnson REBOUND (Off:0 Def:2),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,110,2,1,1,7:29 PM,4:11,Harris BLOCK (1 BLK),,MISS Johnson 7' Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1
+0022300734,112,4,0,1,7:29 PM,4:09,Ingles REBOUND (Off:0 Def:1),,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,113,5,39,1,7:29 PM,4:09,Suggs Step Out of Bounds Turnover (P1.T3),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,114,2,80,1,7:29 PM,3:52,,,MISS Vassell 19' Step Back Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,115,4,0,1,7:29 PM,3:51,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,116,6,3,1,7:29 PM,3:51,,,Wesley L.B.FOUL (P1.T3) (J.Goldenberg),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,118,2,79,1,7:30 PM,3:31,MISS Banchero 13' Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,119,4,0,1,7:30 PM,3:27,,,Wesley REBOUND (Off:1 Def:1),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,120,2,1,1,7:30 PM,3:21,,,MISS Osman 27' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,121,4,0,1,7:30 PM,3:16,Ingles REBOUND (Off:0 Def:2),,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,122,1,1,1,7:30 PM,3:08,Ingles 28' 3PT Jump Shot (3 PTS) (Banchero 2 AST),,,10 - 17,7,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,123,1,3,1,7:30 PM,2:50,,,Collins 10' Hook Shot (2 PTS) (Wesley 1 AST),12 - 17,5,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,125,2,73,1,7:31 PM,2:43,MISS Harris 1' Driving Reverse Layup,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,126,4,0,1,7:31 PM,2:41,,,Collins REBOUND (Off:0 Def:1),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,127,6,1,1,7:31 PM,2:35,Harris P.FOUL (P1.T1) (I.Hwang),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,129,9,1,1,7:31 PM,2:35,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,130,8,0,1,7:32 PM,2:35,SUB: M. Wagner FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,131,8,0,1,7:32 PM,2:35,SUB: Anthony FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,132,8,0,1,7:32 PM,2:35,,,SUB: Branham FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,136,2,79,1,7:34 PM,2:27,,,MISS Branham 20' Pullup Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,137,4,0,1,7:34 PM,2:24,Isaac REBOUND (Off:0 Def:1),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,138,2,101,1,7:34 PM,2:16,MISS Anthony 8' Driving Floating Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,139,4,0,1,7:34 PM,2:14,Anthony REBOUND (Off:1 Def:0),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,140,1,78,1,7:34 PM,2:11,Anthony 7' Floating Jump Shot (2 PTS),,,12 - 19,7,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,141,1,1,1,7:34 PM,2:01,,,Wesley 25' 3PT Jump Shot (5 PTS) (Johnson 1 AST),15 - 19,4,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,143,2,80,1,7:35 PM,1:37,MISS Ingles 26' 3PT Step Back Jump Shot,,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,144,4,0,1,7:35 PM,1:33,,,Collins REBOUND (Off:0 Def:2),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,145,1,6,1,7:35 PM,1:25,,,Johnson 6' Driving Layup (2 PTS),17 - 19,2,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,148,6,2,1,7:36 PM,1:05,,,Branham S.FOUL (P1.T4) (I.Hwang),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,150,3,11,1,7:36 PM,1:05,MISS Isaac Free Throw 1 of 2,,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,151,4,1,1,7:36 PM,1:05,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,152,3,12,1,7:36 PM,1:05,Isaac Free Throw 2 of 2 (1 PTS),,,17 - 20,3,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,153,2,79,1,7:37 PM,0:53,,,MISS Branham 25' 3PT Pullup Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,154,4,0,1,7:37 PM,0:50,Isaac REBOUND (Off:0 Def:2),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,155,2,6,1,7:37 PM,0:28,MISS M. Wagner 2' Driving Layup,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,156,4,0,1,7:37 PM,0:25,,,Osman REBOUND (Off:0 Def:1),,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,157,1,79,1,7:37 PM,0:07,,,Johnson 27' 3PT Pullup Jump Shot (5 PTS),20 - 20,TIE,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,158,1,79,1,7:38 PM,0:00,Ingles 28' 3PT Pullup Jump Shot (6 PTS),,,20 - 23,3,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,159,13,0,1,7:38 PM,0:00,,End of 1st Period (7:38 PM EST),,20 - 23,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,164,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,20 - 23,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,165,2,79,2,7:40 PM,11:49,MISS Anthony 14' Pullup Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,166,4,0,2,7:41 PM,11:45,M. Wagner REBOUND (Off:1 Def:0),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,167,6,4,2,7:41 PM,11:42,M. Wagner OFF.Foul (P1) (J.Goldenberg),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,169,5,37,2,7:41 PM,11:42,M. Wagner Offensive Foul Turnover (P1.T4),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,170,1,1,2,7:41 PM,11:28,,,Wembanyama 17' Jump Shot (5 PTS) (Branham 1 AST),22 - 23,1,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,172,5,40,2,7:42 PM,11:11,Isaac Out of Bounds Lost Ball Turnover (P1.T5),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,173,5,11,2,7:42 PM,10:47,,,Spurs Turnover: Shot Clock (T#2),,,3,1610612759,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300734,174,1,6,2,7:43 PM,10:32,M. Wagner 3' Driving Layup (2 PTS),,,22 - 25,3,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,175,1,1,2,7:43 PM,10:09,,,Osman 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),25 - 25,TIE,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,177,1,102,2,7:43 PM,9:53,Harris 10' Driving Floating Bank Jump Shot (2 PTS) (Anthony 1 AST),,,25 - 27,2,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,179,2,108,2,7:44 PM,9:37,Isaac BLOCK (1 BLK),,MISS Wembanyama 4' Cutting Dunk Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,1
+0022300734,181,4,0,2,7:44 PM,9:32,Ingles REBOUND (Off:0 Def:3),,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,182,2,1,2,7:44 PM,9:26,MISS Harris 27' 3PT Jump Shot,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,183,4,0,2,7:44 PM,9:22,,,Branham REBOUND (Off:0 Def:1),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,184,5,1,2,7:44 PM,9:12,Ingles STEAL (1 STL),,Wembanyama Bad Pass Turnover (P2.T3),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,186,1,41,2,7:44 PM,9:09,Anthony 3' Running Layup (4 PTS) (Ingles 1 AST),,,25 - 29,4,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,188,9,1,2,7:44 PM,9:09,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,189,8,0,2,7:46 PM,9:09,SUB: F. Wagner FOR Ingles,,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,190,8,0,2,7:46 PM,9:09,,,SUB: Champagnie FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,193,1,5,2,7:47 PM,8:50,,,Wembanyama 7' Layup (7 PTS),27 - 29,2,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,195,1,79,2,7:47 PM,8:39,Anthony 14' Pullup Jump Shot (6 PTS) (Harris 1 AST),,,27 - 31,4,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,196,2,1,2,7:48 PM,8:24,,,MISS Wembanyama 26' 3PT Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,197,4,0,2,7:48 PM,8:20,Isaac REBOUND (Off:0 Def:3),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,198,2,58,2,7:48 PM,8:11,MISS M. Wagner 6' Turnaround Hook Shot,,Wembanyama BLOCK (2 BLK),,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,200,4,0,2,7:48 PM,8:07,,,Branham REBOUND (Off:0 Def:2),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,201,6,1,2,7:48 PM,8:04,Anthony P.FOUL (P1.T1) (S.Foster),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,203,8,0,2,7:48 PM,8:04,,,SUB: Sochan FOR Osman,,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,205,2,79,2,7:49 PM,7:57,,,MISS Jones 28' 3PT Pullup Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,206,4,0,2,7:49 PM,7:54,Isaac REBOUND (Off:0 Def:4),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,207,1,5,2,7:49 PM,7:43,M. Wagner 2' Layup (4 PTS) (F. Wagner 3 AST),,,27 - 33,6,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,209,6,2,2,7:49 PM,7:43,,,Sochan S.FOUL (P1.T1) (S.Foster),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,211,8,0,2,7:49 PM,7:43,SUB: Banchero FOR Harris,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,213,3,10,2,7:49 PM,7:43,M. Wagner Free Throw 1 of 1 (5 PTS),,,27 - 34,7,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,214,5,45,2,7:50 PM,7:31,,,Sochan Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022300734,215,1,5,2,7:50 PM,7:06,M. Wagner 3' Layup (7 PTS) (F. Wagner 4 AST),,,27 - 36,9,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,217,1,79,2,7:50 PM,6:50,,,Branham 13' Pullup Jump Shot (2 PTS) (Sochan 1 AST),29 - 36,7,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,219,5,1,2,7:51 PM,6:38,Anthony Bad Pass Turnover (P1.T6),,Wembanyama STEAL (1 STL),,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,221,6,1,2,7:51 PM,6:35,Anthony P.FOUL (P2.T2) (I.Hwang),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,223,8,0,2,7:51 PM,6:35,SUB: Suggs FOR Anthony,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,224,8,0,2,7:51 PM,6:35,,,SUB: Wesley FOR Branham,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,225,8,0,2,7:51 PM,6:35,,,SUB: Vassell FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,229,9,1,2,7:51 PM,6:35,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,231,8,0,2,7:54 PM,6:35,SUB: Carter Jr. FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,233,5,1,2,7:54 PM,6:22,Banchero STEAL (1 STL),,Wesley Bad Pass Turnover (P1.T5),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,235,6,2,2,7:55 PM,6:15,,,Wesley S.FOUL (P2.T2) (J.Goldenberg),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,237,3,11,2,7:55 PM,6:15,F. Wagner Free Throw 1 of 2 (5 PTS),,,29 - 37,8,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,238,3,12,2,7:56 PM,6:15,F. Wagner Free Throw 2 of 2 (6 PTS),,,29 - 38,9,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,239,1,6,2,7:56 PM,6:03,,,Champagnie 3' Driving Layup (5 PTS) (Wesley 2 AST),31 - 38,7,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,241,5,1,2,7:56 PM,5:43,Carter Jr. Bad Pass Turnover (P1.T7),,Wesley STEAL (1 STL),,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,243,1,41,2,7:56 PM,5:41,,,Wesley 4' Running Layup (7 PTS),33 - 38,5,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,244,6,2,2,7:56 PM,5:41,Suggs S.FOUL (P1.T3) (J.Goldenberg),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,246,8,0,2,7:56 PM,5:41,SUB: Fultz FOR Isaac,,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,247,8,0,2,7:56 PM,5:41,,,SUB: Collins FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,250,3,10,2,7:57 PM,5:41,,,Wesley Free Throw 1 of 1 (8 PTS),34 - 38,4,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,251,2,63,2,7:57 PM,5:26,MISS Banchero 13' Fadeaway Jumper,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,252,4,0,2,7:57 PM,5:26,Suggs REBOUND (Off:1 Def:0),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,253,6,2,2,7:57 PM,5:26,,,Wesley S.FOUL (P3.T3) (S.Foster),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,255,3,11,2,7:58 PM,5:26,Suggs Free Throw 1 of 2 (1 PTS),,,34 - 39,5,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,256,3,12,2,7:58 PM,5:26,Suggs Free Throw 2 of 2 (2 PTS),,,34 - 40,6,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,257,6,2,2,7:58 PM,5:12,Fultz S.FOUL (P1.T4) (I.Hwang),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,259,18,0,2,7:59 PM,5:12,,Instant Replay2nd Period (7:59 PM EST),,34 - 40,6,0,257,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300734,260,3,13,2,8:00 PM,5:12,,,Champagnie Free Throw 1 of 3 (6 PTS),35 - 40,5,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,261,3,14,2,8:00 PM,5:12,,,Champagnie Free Throw 2 of 3 (7 PTS),36 - 40,4,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,262,3,15,2,8:00 PM,5:12,,,Champagnie Free Throw 3 of 3 (8 PTS),37 - 40,3,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,263,1,6,2,8:01 PM,4:49,F. Wagner 4' Driving Layup (8 PTS),,,37 - 42,5,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,264,1,1,2,8:01 PM,4:28,,,Sochan 3PT Jump Shot (5 PTS) (Wesley 3 AST),40 - 42,2,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,266,1,79,2,8:01 PM,4:12,Fultz 8' Pullup Jump Shot (2 PTS),,,40 - 44,4,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,267,2,1,2,8:02 PM,4:00,,,MISS Wesley 25' 3PT Jump Shot,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,268,4,0,2,8:02 PM,3:56,F. Wagner REBOUND (Off:0 Def:3),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,269,2,41,2,8:02 PM,3:51,MISS F. Wagner 2' Running Layup,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,270,4,0,2,8:02 PM,3:48,,,Champagnie REBOUND (Off:0 Def:2),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,271,2,41,2,8:02 PM,3:45,,,MISS Sochan 1' Running Layup,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,272,4,0,2,8:02 PM,3:42,Carter Jr. REBOUND (Off:1 Def:3),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,273,1,50,2,8:02 PM,3:38,F. Wagner 2' Running Dunk (10 PTS) (Carter Jr. 1 AST),,,40 - 46,6,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,275,2,1,2,8:02 PM,3:26,,,MISS Sochan 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,276,4,0,2,8:02 PM,3:22,Carter Jr. REBOUND (Off:1 Def:4),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,277,1,50,2,8:02 PM,3:19,Suggs 1' Running Dunk (4 PTS) (Banchero 3 AST),,,40 - 48,8,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,279,9,1,2,8:03 PM,3:19,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,280,8,0,2,8:04 PM,3:19,,,SUB: Johnson FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,282,2,1,2,8:04 PM,3:05,,,MISS Johnson 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,283,4,0,2,8:04 PM,3:01,Suggs REBOUND (Off:1 Def:1),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,285,1,79,2,8:05 PM,2:40,Suggs 15' Pullup Jump Shot (6 PTS),,,40 - 50,10,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,286,1,58,2,8:05 PM,2:22,,,Collins 6' Turnaround Hook Shot (4 PTS) (Champagnie 1 AST),42 - 50,8,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,288,6,2,2,8:06 PM,2:06,,,Johnson S.FOUL (P1.T4) (I.Hwang),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,290,3,11,2,8:06 PM,2:06,MISS Banchero Free Throw 1 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,291,4,1,2,8:06 PM,2:06,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,292,8,0,2,8:06 PM,2:06,,,SUB: Sochan FOR Champagnie,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,294,3,12,2,8:06 PM,2:06,Banchero Free Throw 2 of 2 (7 PTS),,,42 - 51,9,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,295,2,79,2,8:07 PM,1:57,,,MISS Vassell 16' Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,296,4,0,2,8:07 PM,1:53,Banchero REBOUND (Off:0 Def:5),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,297,1,79,2,8:07 PM,1:43,Banchero 28' 3PT Pullup Jump Shot (10 PTS),,,42 - 54,12,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,298,5,2,2,8:07 PM,1:32,Suggs STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T6),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,300,1,106,2,8:07 PM,1:26,Banchero 2' Running Alley Oop Dunk Shot (12 PTS) (F. Wagner 5 AST),,,42 - 56,14,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,302,1,9,2,8:07 PM,1:15,,,Sochan 2' Driving Dunk (7 PTS) (Wesley 4 AST),44 - 56,12,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,327,2,9,2,8:08 PM,1:01,MISS Banchero 2' Driving Dunk,,Collins BLOCK (1 BLK),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,329,4,0,2,8:08 PM,1:00,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,310,10,0,2,8:08 PM,1:00,Jump Ball Carter Jr. vs. Collins: Tip to Wesley,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,308,9,7,2,8:08 PM,1:00,,,Spurs Timeout: Coach Challenge (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,309,18,5,2,8:09 PM,1:00,,Instant Replay2nd Period (8:09 PM EST),,44 - 56,12,0,304,John Stockton,,,,,0,0,,,,,,1,0,,,,,,1
+0022300734,324,2,6,2,8:10 PM,0:41,F. Wagner BLOCK (2 BLK),,MISS Johnson 3' Driving Layup,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1
+0022300734,326,4,0,2,8:10 PM,0:40,Fultz REBOUND (Off:2 Def:1),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,317,1,73,2,8:11 PM,0:31,F. Wagner 2' Driving Reverse Layup (12 PTS) (Banchero 4 AST),,,44 - 58,14,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,319,2,79,2,8:11 PM,0:09,,,MISS Johnson 25' 3PT Pullup Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,320,4,0,2,8:11 PM,0:04,Fultz REBOUND (Off:2 Def:2),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,321,1,80,2,8:11 PM,0:00,F. Wagner 27' 3PT Step Back Jump Shot (15 PTS) (Fultz 3 AST),,,44 - 61,17,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,323,13,0,2,8:11 PM,0:00,,End of 2nd Period (8:11 PM EST),,44 - 61,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,336,12,0,3,8:27 PM,12:00,,Start of 3rd Period (8:27 PM EST),,44 - 61,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,337,1,80,3,8:27 PM,11:42,F. Wagner 27' 3PT Step Back Jump Shot (18 PTS) (Banchero 5 AST),,,44 - 64,20,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,339,5,2,3,8:27 PM,11:27,Suggs STEAL (2 STL),,Wembanyama Lost Ball Turnover (P3.T7),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,341,1,50,3,8:27 PM,11:23,F. Wagner 1' Running Dunk (20 PTS) (Suggs 1 AST),,,44 - 66,22,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,343,1,6,3,8:27 PM,11:04,,,Vassell 2' Driving Layup (2 PTS) (Jones 2 AST),46 - 66,20,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,345,1,1,3,8:28 PM,10:55,Carter Jr. 26' 3PT Jump Shot (7 PTS) (Suggs 2 AST),,,46 - 69,23,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,347,1,6,3,8:28 PM,10:43,,,Jones 4' Driving Layup (2 PTS) (Wembanyama 1 AST),48 - 69,21,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,349,2,101,3,8:28 PM,10:29,MISS Carter Jr. 9' Driving Floating Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,350,4,0,3,8:28 PM,10:26,,,Champagnie REBOUND (Off:0 Def:3),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,351,1,86,3,8:28 PM,10:20,,,Wembanyama 11' Turnaround Fadeaway (9 PTS) (Champagnie 2 AST),50 - 69,19,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,353,2,6,3,8:28 PM,10:03,MISS F. Wagner 2' Driving Layup,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,354,4,0,3,8:29 PM,10:00,,,Vassell REBOUND (Off:0 Def:2),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,355,5,1,3,8:29 PM,9:53,Carter Jr. STEAL (1 STL),,Sochan Bad Pass Turnover (P2.T8),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,357,2,2,3,8:29 PM,9:48,MISS Banchero 27' 3PT Running Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,358,4,0,3,8:29 PM,9:46,,,Sochan REBOUND (Off:0 Def:2),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,360,1,79,3,8:29 PM,9:22,,,Vassell 17' Pullup Jump Shot (4 PTS) (Wembanyama 2 AST),52 - 69,17,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,362,1,80,3,8:30 PM,8:59,F. Wagner 28' 3PT Step Back Jump Shot (23 PTS),,,52 - 72,20,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,363,1,1,3,8:30 PM,8:47,,,Vassell 26' 3PT Jump Shot (7 PTS) (Jones 3 AST),55 - 72,17,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,365,1,1,3,8:30 PM,8:33,Carter Jr. 26' 3PT Jump Shot (10 PTS) (F. Wagner 6 AST),,,55 - 75,20,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,367,2,1,3,8:30 PM,8:20,,,MISS Champagnie 24' 3PT Jump Shot,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,368,4,0,3,8:30 PM,8:19,Carter Jr. REBOUND (Off:1 Def:5),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,370,5,2,3,8:31 PM,8:18,Carter Jr. Lost Ball Turnover (P2.T8),,Jones STEAL (2 STL),,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,372,1,5,3,8:31 PM,8:16,,,Jones 2' Layup (4 PTS),57 - 75,18,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,374,1,58,3,8:31 PM,7:48,F. Wagner 6' Turnaround Hook Shot (25 PTS),,,57 - 77,20,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,375,2,47,3,8:31 PM,7:28,,,MISS Wembanyama 12' Turnaround Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,376,4,0,3,8:31 PM,7:25,F. Wagner REBOUND (Off:0 Def:4),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,377,2,6,3,8:31 PM,7:20,MISS Suggs 2' Driving Layup,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,378,4,0,3,8:31 PM,7:18,Fultz REBOUND (Off:3 Def:2),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,379,2,97,3,8:32 PM,7:18,MISS Fultz Tip Layup Shot,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,380,4,0,3,8:32 PM,7:18,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,382,1,1,3,8:32 PM,7:14,Suggs 27' 3PT Jump Shot (9 PTS) (F. Wagner 7 AST),,,57 - 80,23,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,384,6,1,3,8:32 PM,7:00,Suggs P.FOUL (P2.T1) (S.Foster),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,386,6,2,3,8:33 PM,6:54,Fultz S.FOUL (P2.T2) (J.Goldenberg),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,388,9,1,3,8:33 PM,6:54,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,389,8,0,3,8:35 PM,6:54,,,SUB: Collins FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,390,8,0,3,8:35 PM,6:54,,,SUB: Johnson FOR Champagnie,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,393,3,11,3,8:36 PM,6:54,,,Jones Free Throw 1 of 2 (5 PTS),58 - 80,22,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,394,3,12,3,8:36 PM,6:54,,,Jones Free Throw 2 of 2 (6 PTS),59 - 80,21,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,395,2,1,3,8:36 PM,6:37,MISS Banchero 28' 3PT Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,396,4,0,3,8:37 PM,6:33,,,Collins REBOUND (Off:0 Def:3),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,397,6,2,3,8:37 PM,6:29,Suggs S.FOUL (P3.T3) (S.Foster),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,399,3,11,3,8:37 PM,6:29,,,Jones Free Throw 1 of 2 (7 PTS),60 - 80,20,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,400,3,12,3,8:37 PM,6:29,,,Jones Free Throw 2 of 2 (8 PTS),61 - 80,19,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,401,6,1,3,8:38 PM,6:13,,,Collins P.FOUL (P2.T1) (S.Foster),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,403,1,1,3,8:38 PM,6:03,Suggs 24' 3PT Jump Shot (12 PTS) (Fultz 4 AST),,,61 - 83,22,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,404,1,1,3,8:38 PM,5:51,,,Collins 18' Jump Shot (6 PTS) (Jones 4 AST),63 - 83,20,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,406,1,6,3,8:39 PM,5:38,F. Wagner 2' Driving Layup (27 PTS) (Banchero 6 AST),,,63 - 85,22,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,408,1,101,3,8:39 PM,5:23,,,Vassell 7' Driving Floating Jump Shot (9 PTS),65 - 85,20,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,409,6,2,3,8:39 PM,5:16,,,Collins S.FOUL (P3.T2) (J.Goldenberg),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,411,3,11,3,8:39 PM,5:16,MISS Banchero Free Throw 1 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,412,4,1,3,8:39 PM,5:16,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,417,3,12,3,8:39 PM,5:16,MISS Banchero Free Throw 2 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,413,8,0,3,8:39 PM,5:16,,,SUB: Wesley FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,414,8,0,3,8:39 PM,5:16,,,SUB: Osman FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,418,4,0,3,8:40 PM,5:12,,,Johnson REBOUND (Off:0 Def:3),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,419,1,79,3,8:40 PM,4:55,,,Vassell 9' Pullup Jump Shot (11 PTS),67 - 85,18,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,420,5,45,3,8:41 PM,4:32,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,421,1,101,3,8:41 PM,4:12,,,Johnson 7' Driving Floating Jump Shot (7 PTS),69 - 85,16,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,422,9,1,3,8:41 PM,4:11,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,424,8,0,3,8:43 PM,4:11,SUB: Isaac FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,425,8,0,3,8:43 PM,4:11,SUB: Ingles FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,426,8,0,3,8:43 PM,4:11,SUB: Harris FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,430,1,1,3,8:44 PM,3:54,Suggs 28' 3PT Jump Shot (15 PTS) (Ingles 2 AST),,,69 - 88,19,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,432,1,78,3,8:45 PM,3:43,,,Vassell 13' Floating Jump Shot (13 PTS),71 - 88,17,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,434,6,2,3,8:45 PM,3:43,Isaac S.FOUL (P1.T4) (J.Goldenberg),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,436,3,10,3,8:45 PM,3:43,,,Vassell Free Throw 1 of 1 (14 PTS),72 - 88,16,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,437,1,78,3,8:45 PM,3:27,Suggs 6' Floating Jump Shot (17 PTS) (Harris 2 AST),,,72 - 90,18,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,439,6,2,3,8:46 PM,3:11,Harris S.FOUL (P2.PN) (S.Foster),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,441,3,11,3,8:46 PM,3:11,,,Vassell Free Throw 1 of 2 (15 PTS),73 - 90,17,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,442,3,12,3,8:46 PM,3:11,,,Vassell Free Throw 2 of 2 (16 PTS),74 - 90,16,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,443,1,1,3,8:47 PM,3:04,Harris 27' 3PT Jump Shot (5 PTS) (Ingles 3 AST),,,74 - 93,19,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,445,1,6,3,8:47 PM,2:43,,,Vassell 4' Driving Layup (18 PTS),76 - 93,17,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,446,6,1,3,8:47 PM,2:41,,,Wesley P.FOUL (P4.T3) (J.Goldenberg),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,448,8,0,3,8:47 PM,2:41,SUB: Anthony FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,449,8,0,3,8:47 PM,2:41,SUB: M. Wagner FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,452,2,1,3,8:48 PM,2:24,MISS M. Wagner 24' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,453,4,0,3,8:48 PM,2:20,,,Vassell REBOUND (Off:0 Def:3),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,454,1,103,3,8:48 PM,2:17,,,Vassell 27' 3PT Running Pull-Up Jump Shot (21 PTS),79 - 93,14,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,455,2,5,3,8:48 PM,2:00,MISS M. Wagner 2' Layup,,Collins BLOCK (2 BLK),,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,457,4,0,3,8:48 PM,1:59,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,459,1,6,3,8:49 PM,1:43,,,Vassell 2' Driving Layup (23 PTS) (Collins 3 AST),81 - 93,12,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,461,5,2,3,8:49 PM,1:17,M. Wagner Lost Ball Turnover (P2.T10),,Osman STEAL (1 STL),,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,463,1,41,3,8:49 PM,1:13,,,Wesley 3' Running Layup (10 PTS) (Vassell 2 AST),83 - 93,10,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,465,9,1,3,8:49 PM,1:13,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,466,1,79,3,8:51 PM,0:49,Isaac 16' Pullup Jump Shot (3 PTS) (Harris 3 AST),,,83 - 95,12,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,468,1,101,3,8:51 PM,0:37,,,Collins 3' Driving Floating Jump Shot (8 PTS) (Vassell 3 AST),85 - 95,10,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,470,6,1,3,8:52 PM,0:32,,,Osman P.FOUL (P1.T4) (I.Hwang),,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,472,18,0,3,8:52 PM,0:32,,Instant Replay3rd Period (8:52 PM EST),,85 - 95,10,0,470,Doc Rivers,,,,,0,0,,,,,,1,0,,,,,,0
+0022300734,473,1,1,3,8:53 PM,0:28,Anthony 26' 3PT Jump Shot (9 PTS) (Isaac 1 AST),,,85 - 98,13,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,475,2,80,3,8:54 PM,0:00,,,MISS Johnson 26' 3PT Step Back Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,476,4,0,3,8:54 PM,0:00,Isaac REBOUND (Off:0 Def:5),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,477,13,0,3,8:54 PM,0:00,,End of 3rd Period (8:54 PM EST),,85 - 98,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,482,12,0,4,8:56 PM,12:00,,Start of 4th Period (8:56 PM EST),,85 - 98,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,483,5,2,4,8:57 PM,11:41,Harris STEAL (1 STL),,Wembanyama Lost Ball Turnover (P4.T9),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,485,2,41,4,8:57 PM,11:35,MISS M. Wagner 2' Running Layup,,Wembanyama BLOCK (3 BLK),,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1
+0022300734,487,4,0,4,8:57 PM,11:35,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300734,488,6,3,4,8:57 PM,11:35,,,Branham L.B.FOUL (P2.T1) (S.Foster),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,490,8,0,4,8:57 PM,11:35,,,SUB: Sochan FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,492,6,4,4,8:57 PM,11:27,Anthony OFF.Foul (P3) (S.Foster),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,494,5,37,4,8:57 PM,11:27,Anthony Offensive Foul Turnover (P2.T11),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,495,6,1,4,8:58 PM,11:17,Ingles P.FOUL (P1.T1) (S.Foster),,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,497,2,1,4,8:58 PM,11:10,,,MISS Wembanyama 28' 3PT Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,498,4,0,4,8:58 PM,11:07,Isaac REBOUND (Off:0 Def:6),,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,499,1,52,4,8:59 PM,10:57,Isaac 1' Alley Oop Dunk (5 PTS) (Harris 4 AST),,,85 - 100,15,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,501,1,79,4,8:59 PM,10:48,,,Wembanyama 27' 3PT Pullup Jump Shot (12 PTS) (Wesley 5 AST),88 - 100,12,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,503,1,9,4,8:59 PM,10:33,M. Wagner 1' Driving Dunk (9 PTS) (Ingles 4 AST),,,88 - 102,14,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,505,5,2,4,8:59 PM,10:20,Anthony STEAL (1 STL),,Wembanyama Lost Ball Turnover (P5.T10),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,507,1,98,4,8:59 PM,10:14,Isaac 1' Cutting Layup Shot (7 PTS) (M. Wagner 1 AST),,,88 - 104,16,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,509,9,1,4,9:00 PM,10:14,,,Spurs Timeout: Regular (Reg.5 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,510,8,0,4,9:02 PM,10:14,,,SUB: Vassell FOR Wesley,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,511,8,0,4,9:02 PM,10:14,,,SUB: Jones FOR Osman,,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,514,5,2,4,9:03 PM,9:57,Harris STEAL (2 STL),,Jones Lost Ball Turnover (P1.T11),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,516,1,106,4,9:03 PM,9:51,Isaac 2' Running Alley Oop Dunk Shot (9 PTS) (Anthony 2 AST),,,88 - 106,18,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,518,2,1,4,9:03 PM,9:34,,,MISS Sochan 24' 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,519,4,0,4,9:03 PM,9:32,,,Vassell REBOUND (Off:1 Def:3),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,520,2,1,4,9:03 PM,9:26,,,MISS Branham 26' 3PT Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,521,4,0,4,9:03 PM,9:22,,,Jones REBOUND (Off:1 Def:0),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,522,2,1,4,9:03 PM,9:21,,,MISS Vassell 29' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,523,4,0,4,9:03 PM,9:17,M. Wagner REBOUND (Off:1 Def:1),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,524,1,75,4,9:03 PM,9:08,Ingles 3' Driving Finger Roll Layup (8 PTS),,,88 - 108,20,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,525,1,98,4,9:03 PM,9:00,,,Sochan 3' Cutting Layup Shot (9 PTS) (Jones 5 AST),90 - 108,18,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,527,7,5,4,9:04 PM,8:48,,,Wembanyama Violation:Kicked Ball (S.Foster),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0022300734,528,5,2,4,9:04 PM,8:46,M. Wagner Lost Ball Turnover (P3.T12),,Branham STEAL (1 STL),,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,530,6,1,4,9:04 PM,8:46,M. Wagner P.FOUL (P2.T2) (S.Foster),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,532,2,80,4,9:05 PM,8:28,,,MISS Vassell 27' 3PT Step Back Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,533,4,0,4,9:05 PM,8:23,Anthony REBOUND (Off:1 Def:1),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,534,2,1,4,9:05 PM,8:11,MISS Harris 3PT Jump Shot,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,535,4,0,4,9:05 PM,8:08,,,Wembanyama REBOUND (Off:0 Def:1),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,536,1,101,4,9:05 PM,8:01,,,Jones 10' Driving Floating Jump Shot (10 PTS) (Vassell 4 AST),92 - 108,16,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,538,6,2,4,9:05 PM,7:42,,,Wembanyama S.FOUL (P1.T2) (S.Foster),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,540,3,11,4,9:06 PM,7:42,M. Wagner Free Throw 1 of 2 (10 PTS),,,92 - 109,17,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,541,8,0,4,9:06 PM,7:42,SUB: F. Wagner FOR Isaac,,,,,4,1628371,Jonathan Isaac,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,542,8,0,4,9:06 PM,7:42,SUB: Banchero FOR Ingles,,,,,4,204060,Joe Ingles,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,545,3,12,4,9:06 PM,7:42,M. Wagner Free Throw 2 of 2 (11 PTS),,,92 - 110,18,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,546,1,6,4,9:07 PM,7:18,,,Vassell 3' Driving Layup (25 PTS) (Jones 6 AST),94 - 110,16,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,548,5,39,4,9:07 PM,7:03,Anthony Step Out of Bounds Turnover (P3.T13),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,549,6,1,4,9:07 PM,6:55,Anthony P.FOUL (P4.T3) (J.Goldenberg),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,551,6,1,4,9:08 PM,6:51,Anthony P.FOUL (P5.T4) (S.Foster),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,553,8,0,4,9:08 PM,6:51,SUB: Suggs FOR Anthony,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,555,2,6,4,9:08 PM,6:42,Harris BLOCK (2 BLK),,MISS Jones 7' Driving Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1
+0022300734,557,4,0,4,9:08 PM,6:38,Suggs REBOUND (Off:1 Def:2),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,558,5,2,4,9:08 PM,6:36,Suggs Lost Ball Turnover (P2.T14),,Jones STEAL (3 STL),,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,560,1,98,4,9:09 PM,6:28,,,Wembanyama 2' Cutting Layup Shot (14 PTS) (Branham 2 AST),96 - 110,14,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,562,6,2,4,9:09 PM,6:28,M. Wagner S.FOUL (P3.PN) (J.Goldenberg),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,564,9,1,4,9:09 PM,6:28,MAGIC Timeout: Regular (Full 5 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,565,18,6,4,9:09 PM,6:28,,Instant Replay4th Period (9:09 PM EST),,96 - 110,14,0,562,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300734,566,8,0,4,9:11 PM,6:28,SUB: Fultz FOR Harris,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,567,8,0,4,9:11 PM,6:28,SUB: Carter Jr. FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,570,3,10,4,9:12 PM,6:28,,,Wembanyama Free Throw 1 of 1 (15 PTS),97 - 110,13,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,571,2,1,4,9:12 PM,6:12,MISS Suggs 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,572,4,0,4,9:12 PM,6:08,,,Vassell REBOUND (Off:1 Def:4),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,573,5,1,4,9:13 PM,6:02,Fultz STEAL (1 STL),,Vassell Bad Pass Turnover (P1.T12),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,602,5,45,4,9:13 PM,6:00,Banchero Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,579,9,1,4,9:13 PM,6:00,,,Spurs Timeout: Regular (Reg.6 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,580,18,5,4,9:13 PM,6:00,,Instant Replay4th Period (9:13 PM EST),,97 - 110,13,0,578,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300734,581,8,0,4,9:15 PM,6:00,,,SUB: Collins FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,583,5,4,4,9:15 PM,5:45,,,Collins Traveling Turnover (P1.T13),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022300734,584,2,1,4,9:16 PM,5:25,MISS Carter Jr. 3PT Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,585,4,0,4,9:16 PM,5:22,F. Wagner REBOUND (Off:1 Def:4),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,586,1,72,4,9:16 PM,5:22,F. Wagner Putback Layup (29 PTS),,,97 - 112,15,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,587,6,2,4,9:16 PM,5:22,,,Collins S.FOUL (P4.T3) (J.Goldenberg),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,589,3,10,4,9:16 PM,5:22,F. Wagner Free Throw 1 of 1 (30 PTS),,,97 - 113,16,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,590,5,1,4,9:16 PM,5:04,Fultz STEAL (2 STL),,Vassell Bad Pass Turnover (P2.T14),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,592,1,9,4,9:17 PM,4:51,Banchero 2' Driving Dunk (14 PTS),,,97 - 115,18,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,593,2,6,4,9:17 PM,4:38,,,MISS Jones 7' Driving Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,594,4,0,4,9:17 PM,4:34,F. Wagner REBOUND (Off:1 Def:5),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,595,6,2,4,9:17 PM,4:33,,,Branham S.FOUL (P3.T4) (I.Hwang),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022300734,597,3,11,4,9:18 PM,4:33,F. Wagner Free Throw 1 of 2 (31 PTS),,,97 - 116,19,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,598,8,0,4,9:18 PM,4:33,,,SUB: Wesley FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,599,8,0,4,9:18 PM,4:33,,,SUB: Johnson FOR Branham,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,603,8,0,4,9:18 PM,4:33,,,SUB: Branham FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,605,3,12,4,9:18 PM,4:33,F. Wagner Free Throw 2 of 2 (32 PTS),,,97 - 117,20,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,606,6,2,4,9:18 PM,4:22,Suggs S.FOUL (P4.PN) (S.Foster),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,608,3,11,4,9:19 PM,4:22,,,Vassell Free Throw 1 of 2 (26 PTS),98 - 117,19,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,609,3,12,4,9:19 PM,4:22,,,Vassell Free Throw 2 of 2 (27 PTS),99 - 117,18,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,610,2,9,4,9:19 PM,4:12,MISS Fultz 4' Driving Dunk,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,611,4,0,4,9:19 PM,4:11,,,Branham REBOUND (Off:0 Def:3),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,612,1,1,4,9:19 PM,4:05,,,Vassell 3PT Jump Shot (30 PTS) (Wesley 6 AST),102 - 117,15,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,614,2,58,4,9:20 PM,3:44,MISS F. Wagner 5' Turnaround Hook Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,615,4,0,4,9:20 PM,3:42,,,Johnson REBOUND (Off:0 Def:4),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,617,2,1,4,9:20 PM,3:22,,,MISS Branham 3PT Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,618,4,0,4,9:20 PM,3:19,F. Wagner REBOUND (Off:1 Def:6),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,619,1,6,4,9:21 PM,3:12,F. Wagner 2' Driving Layup (34 PTS),,,102 - 119,17,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,620,5,1,4,9:21 PM,3:05,Banchero STEAL (2 STL),,Branham Bad Pass Turnover (P1.T15),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,622,1,7,4,9:21 PM,3:05,Banchero 2' Dunk (16 PTS),,,102 - 121,19,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0022300734,623,2,79,4,9:21 PM,2:54,,,MISS Johnson 26' 3PT Pullup Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,624,4,0,4,9:21 PM,2:53,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,626,9,1,4,9:21 PM,2:53,MAGIC Timeout: Regular (Full 6 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300734,628,8,0,4,9:23 PM,2:53,SUB: Black FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1641710,Anthony Black,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,629,8,0,4,9:23 PM,2:53,SUB: Okeke FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,630,8,0,4,9:23 PM,2:53,SUB: Houstan FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,631,8,0,4,9:23 PM,2:53,SUB: Bitadze FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629048,Goga Bitadze,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,632,8,0,4,9:23 PM,2:53,SUB: Anthony FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022300734,633,8,0,4,9:23 PM,2:53,,,SUB: Champagnie FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022300734,640,2,47,4,9:24 PM,2:39,MISS Okeke 18' Turnaround Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022300734,641,4,0,4,9:24 PM,2:34,,,Champagnie REBOUND (Off:0 Def:4),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,642,2,1,4,9:24 PM,2:26,,,MISS Champagnie 26' 3PT Jump Shot,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,643,4,0,4,9:24 PM,2:23,,,Champagnie REBOUND (Off:1 Def:4),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,645,1,79,4,9:24 PM,2:15,,,Johnson 18' Pullup Jump Shot (9 PTS),104 - 121,17,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,646,1,1,4,9:25 PM,1:58,Anthony 27' 3PT Jump Shot (12 PTS) (Black 1 AST),,,104 - 124,20,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1641710,Anthony Black,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,648,6,1,4,9:25 PM,1:46,Black P.FOUL (P1.PN) (J.Goldenberg),,,,,4,1641710,Anthony Black,1610612753.0,Orlando,Magic,ORL,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,650,3,11,4,9:25 PM,1:46,,,Collins Free Throw 1 of 2 (9 PTS),105 - 124,19,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,651,3,12,4,9:25 PM,1:46,,,Collins Free Throw 2 of 2 (10 PTS),106 - 124,18,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022300734,652,7,5,4,9:26 PM,1:31,,,Champagnie Violation:Kicked Ball (S.Foster),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0022300734,653,6,4,4,9:26 PM,1:20,Okeke OFF.Foul (P1) (S.Foster),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022300734,655,5,37,4,9:26 PM,1:20,Okeke Offensive Foul Turnover (P1.T16),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022300734,656,1,98,4,9:27 PM,1:04,,,Collins 2' Cutting Layup Shot (12 PTS) (Branham 3 AST),108 - 124,16,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,658,1,1,4,9:27 PM,0:51,Houstan 26' 3PT Jump Shot (3 PTS) (Black 2 AST),,,108 - 127,19,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1641710,Anthony Black,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022300734,660,1,1,4,9:27 PM,0:43,,,Johnson 29' 3PT Jump Shot (12 PTS) (Wesley 7 AST),111 - 127,16,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022300734,662,5,11,4,9:28 PM,0:18,MAGIC Turnover: Shot Clock (T#17),,,,,2,1610612753,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300734,663,13,0,4,9:28 PM,0:00,,End of 4th Period (9:28 PM EST),,111 - 127,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

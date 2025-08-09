@@ -1,0 +1,498 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300164,2,12,0,1,9:39 PM,12:00,,Start of 1st Period (9:39 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,4,10,0,1,9:39 PM,12:00,Jump Ball Nurkic vs. Gobert: Tip to Beal,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,7,1,108,1,9:40 PM,11:43,Nurkic 2' Cutting Dunk Shot (2 PTS) (Booker 1 AST),,,0 - 2,2,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,9,2,98,1,9:40 PM,11:25,Nurkic BLOCK (1 BLK),,MISS Gobert 1' Cutting Layup Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,11,4,0,1,9:40 PM,11:24,Nurkic REBOUND (Off:0 Def:1),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,12,5,40,1,9:40 PM,11:16,Booker Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042300164,13,6,2,1,9:41 PM,11:03,Nurkic S.FOUL (P1.T1) (C.Blair),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,15,3,11,1,9:41 PM,11:03,,,Gobert Free Throw 1 of 2 (1 PTS),1 - 2,1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,16,3,12,1,9:41 PM,11:03,,,Gobert Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,17,2,80,1,9:42 PM,10:56,MISS Beal 11' Step Back Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,18,4,0,1,9:42 PM,10:53,,,Edwards REBOUND (Off:0 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,19,1,1,1,9:42 PM,10:36,,,Towns 31' 3PT Jump Shot (3 PTS) (Edwards 1 AST),5 - 2,-3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,21,1,108,1,9:42 PM,10:21,Nurkic 2' Cutting Dunk Shot (4 PTS) (Durant 1 AST),,,5 - 4,-1,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,23,2,6,1,9:42 PM,10:10,,,MISS Conley 2' Driving Layup,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,24,4,0,1,9:42 PM,10:08,,,Gobert REBOUND (Off:1 Def:0),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,25,2,72,1,9:42 PM,10:06,,,MISS Gobert 3' Putback Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,26,4,0,1,9:42 PM,10:04,O'Neale REBOUND (Off:0 Def:1),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,27,2,79,1,9:43 PM,9:53,MISS Durant 17' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,28,4,0,1,9:43 PM,9:50,,,Towns REBOUND (Off:0 Def:1),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,29,6,2,1,9:43 PM,9:36,O'Neale S.FOUL (P1.T2) (P.Fraher),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,31,3,13,1,9:43 PM,9:36,,,McDaniels Free Throw 1 of 3 (1 PTS),6 - 4,-2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,32,3,14,1,9:44 PM,9:36,,,McDaniels Free Throw 2 of 3 (2 PTS),7 - 4,-3,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,33,3,15,1,9:44 PM,9:36,,,McDaniels Free Throw 3 of 3 (3 PTS),8 - 4,-4,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,34,2,80,1,9:44 PM,9:19,MISS Beal 15' Step Back Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,35,4,0,1,9:44 PM,9:15,,,Edwards REBOUND (Off:0 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,36,2,1,1,9:44 PM,9:07,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,37,4,0,1,9:44 PM,9:04,Booker REBOUND (Off:0 Def:1),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,38,1,79,1,9:45 PM,8:58,Booker 28' 3PT Pullup Jump Shot (3 PTS) (Nurkic 1 AST),,,8 - 7,-1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,40,1,108,1,9:45 PM,8:40,,,McDaniels Cutting Dunk Shot (5 PTS) (Towns 1 AST),10 - 7,-3,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,42,6,2,1,9:45 PM,8:40,Nurkic S.FOUL (P2.T3) (P.Fraher),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,44,8,0,1,9:45 PM,8:40,SUB: Gordon FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,46,3,10,1,9:45 PM,8:40,,,McDaniels Free Throw 1 of 1 (6 PTS),11 - 7,-4,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,47,6,1,1,9:46 PM,8:21,,,Gobert P.FOUL (P1.T1) (P.Fraher),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,49,6,2,1,9:46 PM,8:12,,,Gobert S.FOUL (P2.T2) (C.Blair),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,51,3,11,1,9:47 PM,8:12,Booker Free Throw 1 of 2 (4 PTS),,,11 - 8,-3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,52,8,0,1,9:47 PM,8:12,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,54,3,12,1,9:47 PM,8:12,Booker Free Throw 2 of 2 (5 PTS),,,11 - 9,-2,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,55,1,6,1,9:47 PM,7:51,,,McDaniels 1' Driving Layup (8 PTS) (Edwards 2 AST),13 - 9,-4,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,57,2,6,1,9:48 PM,7:40,MISS Booker 1' Driving Layup,,Reid BLOCK (1 BLK),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,59,4,0,1,9:48 PM,7:38,,,Towns REBOUND (Off:0 Def:2),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,60,2,2,1,9:48 PM,7:35,,,MISS Edwards 30' 3PT Running Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,61,4,0,1,9:48 PM,7:32,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,63,2,1,1,9:48 PM,7:15,MISS Durant 25' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,64,4,0,1,9:48 PM,7:13,,,Reid REBOUND (Off:0 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,65,6,17,1,9:49 PM,6:59,SUNS T.Foul (Def. 3 Sec Booker ) (S.Foster),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042300164,66,9,1,1,9:49 PM,6:59,SUNS Timeout: Regular (Full 1 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,67,3,16,1,9:53 PM,6:59,,,Conley Free Throw Technical (1 PTS),14 - 9,-5,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,68,2,79,1,9:53 PM,6:47,Durant BLOCK (1 BLK),,MISS McDaniels 17' Pullup Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,70,4,0,1,9:53 PM,6:45,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,71,5,11,1,9:53 PM,6:45,,,Timberwolves Turnover: Shot Clock (T#1),,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300164,72,1,79,1,9:53 PM,6:29,Durant 14' Pullup Jump Shot (2 PTS),,,14 - 11,-3,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,73,8,0,1,9:54 PM,6:03,,,SUB: Alexander-Walker FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,75,10,0,1,9:55 PM,5:58,Jump Ball Durant vs. McDaniels: Tip to Edwards,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,78,2,79,1,9:55 PM,5:57,,,MISS Edwards 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,79,4,0,1,9:55 PM,5:54,Durant REBOUND (Off:0 Def:1),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,80,1,101,1,9:55 PM,5:50,Durant 6' Driving Floating Jump Shot (4 PTS),,,14 - 13,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,81,6,2,1,9:55 PM,5:50,,,Reid S.FOUL (P1.T3) (S.Foster),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,83,3,10,1,9:55 PM,5:50,Durant Free Throw 1 of 1 (5 PTS),,,14 - 14,TIE,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,84,2,101,1,9:56 PM,5:31,,,MISS Towns 5' Driving Floating Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,85,4,0,1,9:56 PM,5:29,,,Edwards REBOUND (Off:1 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,86,2,80,1,9:56 PM,5:26,,,MISS Edwards 26' 3PT Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,87,4,0,1,9:56 PM,5:26,,,Alexander-Walker REBOUND (Off:1 Def:0),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,88,2,80,1,9:56 PM,5:20,,,MISS Alexander-Walker 26' 3PT Step Back Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,89,4,0,1,9:56 PM,5:15,Booker REBOUND (Off:0 Def:2),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,90,2,80,1,9:56 PM,4:53,MISS Booker 27' 3PT Step Back Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,91,4,0,1,9:56 PM,4:51,,,Reid REBOUND (Off:0 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,92,6,2,1,9:56 PM,4:46,Beal S.FOUL (P1.T4) (S.Foster),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,94,3,11,1,9:57 PM,4:46,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,95,4,1,1,9:57 PM,4:46,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,96,8,0,1,9:57 PM,4:46,SUB: Okogie FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,98,3,12,1,9:57 PM,4:46,,,Edwards Free Throw 2 of 2 (1 PTS),15 - 14,-1,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,99,6,2,1,9:57 PM,4:34,,,Towns S.FOUL (P1.T4) (S.Foster),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,101,3,11,1,9:58 PM,4:34,Booker Free Throw 1 of 2 (6 PTS),,,15 - 15,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,102,8,0,1,9:58 PM,4:34,,,SUB: Anderson FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,104,3,12,1,9:58 PM,4:34,Booker Free Throw 2 of 2 (7 PTS),,,15 - 16,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,105,1,101,1,9:58 PM,4:17,,,Anderson 1' Driving Floating Jump Shot (2 PTS),17 - 16,-1,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,106,1,98,1,9:59 PM,3:58,Okogie 2' Cutting Layup Shot (2 PTS) (Booker 2 AST),,,17 - 18,1,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,108,6,2,1,9:59 PM,3:52,Beal S.FOUL (P2.PN) (S.Foster),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,110,3,11,1,9:59 PM,3:52,,,Edwards Free Throw 1 of 2 (2 PTS),18 - 18,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,111,8,0,1,9:59 PM,3:52,SUB: O'Neale FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,113,3,12,1,10:00 PM,3:52,,,Edwards Free Throw 2 of 2 (3 PTS),19 - 18,-1,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,114,2,44,1,10:00 PM,3:34,MISS Gordon 1' Reverse Layup,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,115,4,0,1,10:00 PM,3:32,,,Edwards REBOUND (Off:1 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,116,2,79,1,10:00 PM,3:27,,,MISS Reid 27' 3PT Pullup Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,117,4,0,1,10:00 PM,3:24,Durant REBOUND (Off:0 Def:2),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,118,6,1,1,10:00 PM,3:19,,,McDaniels P.FOUL (P1.PN) (S.Foster),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,120,3,11,1,10:01 PM,3:19,Booker Free Throw 1 of 2 (8 PTS),,,19 - 19,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,121,3,12,1,10:01 PM,3:19,Booker Free Throw 2 of 2 (9 PTS),,,19 - 20,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,122,2,80,1,10:02 PM,3:04,,,MISS Edwards 26' 3PT Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,124,2,97,1,10:02 PM,2:59,,,MISS Alexander-Walker 2' Tip Layup Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,123,4,0,1,10:02 PM,2:59,,,Alexander-Walker REBOUND (Off:2 Def:0),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,125,4,0,1,10:02 PM,2:56,Okogie REBOUND (Off:0 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,126,2,103,1,10:02 PM,2:54,MISS Booker 27' 3PT Running Pull-Up Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,127,4,0,1,10:02 PM,2:51,O'Neale REBOUND (Off:1 Def:1),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,128,2,6,1,10:02 PM,2:50,MISS Gordon 5' Driving Layup,,McDaniels BLOCK (1 BLK),,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,130,4,0,1,10:02 PM,2:48,,,Anderson REBOUND (Off:0 Def:1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,131,6,2,1,10:02 PM,2:40,Okogie S.FOUL (P1.PN) (S.Foster),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,133,9,1,1,10:02 PM,2:40,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,134,8,0,1,10:05 PM,2:40,,,SUB: Towns FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,136,3,11,1,10:06 PM,2:40,,,Reid Free Throw 1 of 2 (1 PTS),20 - 20,TIE,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,137,3,12,1,10:06 PM,2:40,,,Reid Free Throw 2 of 2 (2 PTS),21 - 20,-1,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,142,6,1,1,10:07 PM,2:26,,,Anderson P.FOUL (P1.PN) (C.Blair),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,144,3,11,1,10:07 PM,2:26,Durant Free Throw 1 of 2 (6 PTS),,,21 - 21,TIE,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,145,3,12,1,10:07 PM,2:26,MISS Durant Free Throw 2 of 2,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,146,4,0,1,10:07 PM,2:23,,,Towns REBOUND (Off:0 Def:3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,147,2,6,1,10:08 PM,2:06,,,MISS Anderson 2' Driving Layup,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,148,4,0,1,10:08 PM,2:02,,,Anderson REBOUND (Off:1 Def:1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,149,1,97,1,10:08 PM,2:02,,,Anderson Tip Layup Shot (4 PTS),23 - 21,-2,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,150,2,1,1,10:08 PM,1:51,MISS Okogie 25' 3PT Jump Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,151,4,0,1,10:08 PM,1:48,O'Neale REBOUND (Off:2 Def:1),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,152,1,1,1,10:08 PM,1:46,Gordon 26' 3PT Jump Shot (3 PTS) (O'Neale 1 AST),,,23 - 24,1,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,188,5,2,1,10:08 PM,1:21,Okogie STEAL (1 STL),,Edwards Lost Ball Turnover (P1.T2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,157,1,9,1,10:09 PM,1:09,Durant 1' Driving Dunk (8 PTS),,,23 - 26,3,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,158,6,1,1,10:09 PM,0:56,Okogie P.FOUL (P2.PN) (S.Foster),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,160,3,11,1,10:09 PM,0:56,,,Towns Free Throw 1 of 2 (4 PTS),24 - 26,2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,161,8,0,1,10:09 PM,0:56,,,SUB: McDaniels FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,163,8,0,1,10:09 PM,0:56,SUB: Beal FOR Durant,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,165,3,12,1,10:10 PM,0:56,,,Towns Free Throw 2 of 2 (5 PTS),25 - 26,1,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,166,2,80,1,10:10 PM,0:33,MISS Beal 20' Step Back Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,167,4,0,1,10:10 PM,0:30,O'Neale REBOUND (Off:3 Def:1),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,168,2,6,1,10:10 PM,0:21,MISS O'Neale 1' Driving Layup,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,169,4,0,1,10:11 PM,0:20,,,Anderson REBOUND (Off:1 Def:2),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,170,2,1,1,10:11 PM,0:03,,,MISS McDaniels 24' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,171,4,0,1,10:11 PM,0:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,172,13,0,1,10:11 PM,0:00,,End of 1st Period (10:11 PM EST),,25 - 26,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,181,12,0,2,10:15 PM,12:00,,Start of 2nd Period (10:15 PM EST),,25 - 26,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,182,1,7,2,10:15 PM,11:45,,,Gobert 1' Dunk (4 PTS) (Anderson 1 AST),27 - 26,-1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,184,2,1,2,10:15 PM,11:22,MISS Little 24' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,185,4,0,2,10:15 PM,11:20,,,Anderson REBOUND (Off:1 Def:3),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,186,1,6,2,10:15 PM,11:05,,,Towns 1' Driving Layup (7 PTS),29 - 26,-3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,187,1,6,2,10:16 PM,10:50,Durant Driving Layup (10 PTS),,,29 - 28,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,190,2,6,2,10:16 PM,10:28,,,MISS Towns 3' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,191,4,0,2,10:16 PM,10:28,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,192,6,3,2,10:16 PM,10:28,Beal L.B.FOUL (P3.T1) (C.Blair),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,194,8,0,2,10:16 PM,10:28,SUB: Booker FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,197,1,75,2,10:17 PM,10:22,,,Towns 1' Driving Finger Roll Layup (9 PTS) (Alexander-Walker 1 AST),31 - 28,-3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,198,6,2,2,10:17 PM,10:03,,,Anderson S.FOUL (P2.T1) (C.Blair),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,200,3,11,2,10:18 PM,10:03,Durant Free Throw 1 of 2 (11 PTS),,,31 - 29,-2,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,201,3,12,2,10:18 PM,10:03,Durant Free Throw 2 of 2 (12 PTS),,,31 - 30,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,203,5,2,2,10:19 PM,9:39,Booker STEAL (1 STL),,Conley Lost Ball Turnover (P1.T3),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,205,1,50,2,10:19 PM,9:36,Booker 1' Running Dunk (11 PTS),,,31 - 32,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,206,1,98,2,10:19 PM,9:18,,,Alexander-Walker Cutting Layup Shot (2 PTS) (Gobert 1 AST),33 - 32,-1,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,208,6,2,2,10:19 PM,9:18,Little S.FOUL (P1.T2) (C.Blair),,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,210,8,0,2,10:19 PM,9:18,,,SUB: McDaniels FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,212,3,10,2,10:20 PM,9:18,,,Alexander-Walker Free Throw 1 of 1 (3 PTS),34 - 32,-2,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,213,2,1,2,10:20 PM,9:07,MISS O'Neale 25' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,214,4,0,2,10:20 PM,9:04,,,Gobert REBOUND (Off:1 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,215,6,1,2,10:20 PM,8:55,O'Neale P.FOUL (P2.T3) (S.Foster),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,217,6,1,2,10:21 PM,8:54,Durant P.FOUL (P1.T4) (S.Foster),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,219,2,1,2,10:21 PM,8:43,,,MISS McDaniels 28' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,220,4,0,2,10:21 PM,8:39,Little REBOUND (Off:0 Def:1),,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,221,1,6,2,10:21 PM,8:27,Booker 2' Driving Layup (13 PTS),,,34 - 34,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,222,2,6,2,10:22 PM,8:08,Durant BLOCK (2 BLK),,MISS Conley 2' Driving Layup,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,224,4,0,2,10:22 PM,8:06,Booker REBOUND (Off:0 Def:3),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,225,1,2,2,10:22 PM,8:03,Gordon 28' 3PT Running Jump Shot (6 PTS) (Booker 3 AST),,,34 - 37,3,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,227,2,71,2,10:22 PM,7:45,,,MISS Gobert 2' Finger Roll Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,228,4,0,2,10:22 PM,7:43,Booker REBOUND (Off:0 Def:4),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,229,5,1,2,10:23 PM,7:29,Booker Bad Pass Turnover (P2.T2),,Conley STEAL (1 STL),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,231,2,41,2,10:23 PM,7:24,,,MISS McDaniels Running Layup,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,232,4,0,2,10:23 PM,7:21,,,Gobert REBOUND (Off:2 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,233,2,72,2,10:23 PM,7:21,,,MISS Gobert 1' Putback Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,234,4,0,2,10:23 PM,7:21,,,McDaniels REBOUND (Off:1 Def:0),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,235,1,72,2,10:23 PM,7:21,,,McDaniels Putback Layup (10 PTS),36 - 37,1,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,236,6,2,2,10:23 PM,7:21,Little S.FOUL (P2.PN) (C.Blair),,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,238,8,0,2,10:23 PM,7:21,,,SUB: Edwards FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,240,3,10,2,10:23 PM,7:21,,,McDaniels Free Throw 1 of 1 (11 PTS),37 - 37,TIE,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,241,2,79,2,10:24 PM,7:07,MISS Durant 19' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,242,4,0,2,10:24 PM,7:05,,,Gobert REBOUND (Off:2 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,243,2,1,2,10:24 PM,6:45,,,MISS Conley 26' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,244,4,0,2,10:24 PM,6:41,,,Towns REBOUND (Off:1 Def:3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,245,2,6,2,10:24 PM,6:33,,,MISS Edwards 2' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,246,4,0,2,10:24 PM,6:32,Durant REBOUND (Off:0 Def:3),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,247,7,5,2,10:24 PM,6:31,,,McDaniels Violation:Kicked Ball (P.Fraher),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0042300164,248,9,1,2,10:24 PM,6:31,SUNS Timeout: Regular (Full 2 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,274,8,0,2,10:25 PM,6:31,SUB: Beal FOR Little,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,278,8,0,2,10:25 PM,6:31,SUB: Okogie FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,321,8,0,2,10:25 PM,6:31,,,SUB: Reid FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,253,6,4,2,10:28 PM,6:23,Okogie OFF.Foul (P3) (S.Foster),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,255,5,37,2,10:28 PM,6:23,Okogie Offensive Foul Turnover (P1.T3),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042300164,256,8,0,2,10:29 PM,6:23,SUB: Nurkic FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,258,5,39,2,10:29 PM,6:13,,,McDaniels Step Out of Bounds Turnover (P1.T4),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042300164,259,6,1,2,10:29 PM,6:06,,,McDaniels P.FOUL (P2.T2) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,261,1,1,2,10:30 PM,5:51,Durant 3PT Jump Shot (15 PTS) (Booker 4 AST),,,37 - 40,3,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,263,1,6,2,10:30 PM,5:37,,,Gobert 1' Driving Layup (6 PTS) (Conley 1 AST),39 - 40,1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,265,1,6,2,10:30 PM,5:26,Booker 3' Driving Layup (15 PTS),,,39 - 42,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,266,1,6,2,10:30 PM,5:17,,,Edwards 1' Driving Layup (5 PTS),41 - 42,1,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,267,2,98,2,10:30 PM,5:05,MISS Nurkic Cutting Layup Shot,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,268,4,0,2,10:30 PM,5:05,Nurkic REBOUND (Off:1 Def:1),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,269,2,72,2,10:31 PM,5:02,MISS Nurkic 3' Putback Layup,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,270,4,0,2,10:31 PM,5:01,Nurkic REBOUND (Off:2 Def:1),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0042300164,271,6,2,2,10:31 PM,5:00,,,Reid S.FOUL (P2.T3) (S.Foster),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,279,18,0,2,10:33 PM,5:00,,Instant Replay2nd Period (10:33 PM EST),,41 - 42,1,0,271,Johnny Newman,,,,,0,0,,,,,,1,0,,,,,,0
+0042300164,284,3,11,2,10:34 PM,5:00,Nurkic Free Throw 1 of 2 (5 PTS),,,41 - 43,2,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,286,8,0,2,10:34 PM,5:00,,,SUB: Alexander-Walker FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,285,3,12,2,10:34 PM,5:00,Nurkic Free Throw 2 of 2 (6 PTS),,,41 - 44,3,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,288,1,6,2,10:34 PM,4:40,,,Alexander-Walker 4' Driving Layup (5 PTS) (Edwards 3 AST),43 - 44,1,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,290,1,108,2,10:34 PM,4:28,Durant 1' Cutting Dunk Shot (17 PTS) (Nurkic 2 AST),,,43 - 46,3,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,292,1,79,2,10:35 PM,4:15,,,Edwards 26' 3PT Pullup Jump Shot (8 PTS) (Alexander-Walker 2 AST),46 - 46,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,295,6,1,2,10:35 PM,4:05,,,Reid P.FOUL (P3.T4) (C.Blair),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,299,8,0,2,10:35 PM,4:05,SUB: O'Neale FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,300,8,0,2,10:35 PM,4:05,,,SUB: Towns FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,303,2,101,2,10:36 PM,3:53,MISS Booker 10' Driving Floating Jump Shot,,Gobert BLOCK (1 BLK),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,305,4,0,2,10:36 PM,3:50,,,Towns REBOUND (Off:1 Def:4),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,306,2,41,2,10:36 PM,3:46,Durant BLOCK (3 BLK),,MISS Gobert 2' Running Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,307,4,0,2,10:36 PM,3:46,,,Gobert REBOUND (Off:3 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,308,1,72,2,10:36 PM,3:46,,,Gobert Putback Layup (8 PTS),48 - 46,-2,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,309,6,2,2,10:36 PM,3:46,Durant S.FOUL (P2.PN) (C.Blair),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,311,3,10,2,10:36 PM,3:46,,,Gobert Free Throw 1 of 1 (9 PTS),49 - 46,-3,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,312,1,108,2,10:37 PM,3:38,Durant 1' Cutting Dunk Shot (19 PTS) (Nurkic 3 AST),,,49 - 48,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,314,2,79,2,10:37 PM,3:17,,,MISS Edwards 27' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,315,4,0,2,10:37 PM,3:15,Nurkic REBOUND (Off:2 Def:2),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,316,1,1,2,10:37 PM,3:08,O'Neale 27' 3PT Jump Shot (3 PTS) (Durant 2 AST),,,49 - 51,2,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,318,9,1,2,10:37 PM,3:05,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,319,8,0,2,10:40 PM,3:05,SUB: Beal FOR Gordon,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,323,5,1,2,10:41 PM,2:50,Nurkic STEAL (1 STL),,Gobert Bad Pass Turnover (P1.T5),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,326,1,1,2,10:41 PM,2:43,Beal 27' 3PT Jump Shot (3 PTS) (Durant 3 AST),,,49 - 54,5,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,328,8,0,2,10:42 PM,2:30,,,SUB: Conley FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,330,10,0,2,10:42 PM,2:25,Jump Ball Durant vs. Towns: Tip to Edwards,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,333,1,1,2,10:42 PM,2:19,,,Towns 25' 3PT Jump Shot (12 PTS) (Conley 2 AST),52 - 54,2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,335,6,2,2,10:43 PM,1:58,,,Gobert S.FOUL (P3.PN) (S.Foster),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,337,3,11,2,10:43 PM,1:58,MISS Durant Free Throw 1 of 2,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,338,4,1,2,10:43 PM,1:58,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,339,8,0,2,10:43 PM,1:58,SUB: Gordon FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,340,8,0,2,10:43 PM,1:58,,,SUB: Anderson FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,343,3,12,2,10:44 PM,1:58,Durant Free Throw 2 of 2 (20 PTS),,,52 - 55,3,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,344,6,2,2,10:44 PM,1:38,Booker S.FOUL (P1.PN) (S.Foster),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,346,3,11,2,10:45 PM,1:38,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,347,4,1,2,10:45 PM,1:38,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,348,3,12,2,10:45 PM,1:38,,,Edwards Free Throw 2 of 2 (9 PTS),53 - 55,2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,352,5,40,2,10:45 PM,1:27,Beal Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042300164,351,18,5,2,10:46 PM,1:27,,Instant Replay2nd Period (10:46 PM EST),,53 - 55,2,0,349,Mark Jackson,,,,,0,0,,,,,,1,0,,,,,,0
+0042300164,353,2,1,2,10:48 PM,1:09,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,354,4,0,2,10:48 PM,1:06,Durant REBOUND (Off:0 Def:4),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,356,6,2,2,10:48 PM,1:02,,,Alexander-Walker S.FOUL (P1.PN) (S.Foster),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,358,3,11,2,10:48 PM,1:02,Booker Free Throw 1 of 2 (16 PTS),,,53 - 56,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,359,8,0,2,10:48 PM,1:02,SUB: Nurkic FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,361,3,12,2,10:49 PM,1:02,Booker Free Throw 2 of 2 (17 PTS),,,53 - 57,4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,362,1,1,2,10:49 PM,0:53,,,Towns 27' 3PT Jump Shot (15 PTS) (Conley 3 AST),56 - 57,1,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,364,2,9,2,10:49 PM,0:44,MISS Beal 4' Driving Dunk,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,365,4,0,2,10:49 PM,0:42,,,Anderson REBOUND (Off:1 Def:4),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,366,2,2,2,10:49 PM,0:39,,,MISS Alexander-Walker 24' 3PT Running Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,367,4,0,2,10:49 PM,0:37,Durant REBOUND (Off:0 Def:5),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,368,2,76,2,10:49 PM,0:31,MISS Beal 7' Running Finger Roll Layup,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,369,4,0,2,10:49 PM,0:29,Beal REBOUND (Off:1 Def:0),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,370,1,97,2,10:49 PM,0:29,Beal Tip Layup Shot (5 PTS),,,56 - 59,3,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,371,2,1,2,10:50 PM,0:10,,,MISS Alexander-Walker 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,372,4,0,2,10:50 PM,0:07,Nurkic REBOUND (Off:2 Def:3),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,373,1,86,2,10:50 PM,0:00,Booker 14' Turnaround Fadeaway (19 PTS) (Durant 4 AST),,,56 - 61,5,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,376,18,0,2,10:50 PM,0:00,,Instant Replay2nd Period (10:50 PM EST),,56 - 61,5,0,373,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300164,375,13,0,2,10:50 PM,0:00,,End of 2nd Period (10:50 PM EST),,56 - 61,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,383,12,0,3,11:07 PM,12:00,,Start of 3rd Period (11:07 PM EST),,56 - 61,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,384,1,6,3,11:07 PM,11:45,,,Towns 2' Driving Layup (17 PTS),58 - 61,3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,386,2,79,3,11:08 PM,11:27,MISS Beal 26' 3PT Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,387,4,0,3,11:08 PM,11:27,,,Towns REBOUND (Off:1 Def:5),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,388,2,41,3,11:08 PM,11:21,Beal BLOCK (1 BLK),,MISS Conley Running Layup,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,390,4,0,3,11:08 PM,11:21,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,392,5,40,3,11:08 PM,11:08,,,Edwards Out of Bounds Lost Ball Turnover (P2.T6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042300164,393,6,1,3,11:09 PM,11:05,,,Gobert P.FOUL (P4.T1) (S.Foster),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,395,8,0,3,11:09 PM,11:05,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,397,1,79,3,11:09 PM,10:55,Booker 11' Pullup Jump Shot (21 PTS) (Durant 5 AST),,,58 - 63,5,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,399,1,57,3,11:10 PM,10:36,,,Towns 5' Driving Hook Shot (19 PTS),60 - 63,3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,400,1,1,3,11:10 PM,10:27,Durant 26' 3PT Jump Shot (23 PTS) (Booker 5 AST),,,60 - 66,6,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,402,2,57,3,11:10 PM,10:08,,,MISS Reid 7' Driving Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,403,4,0,3,11:10 PM,10:05,,,Towns REBOUND (Off:2 Def:5),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,404,1,1,3,11:10 PM,10:02,,,Edwards 24' 3PT Jump Shot (12 PTS) (Towns 2 AST),63 - 66,3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,406,2,1,3,11:10 PM,9:47,MISS O'Neale 24' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,407,4,0,3,11:10 PM,9:44,Nurkic REBOUND (Off:3 Def:3),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,408,2,1,3,11:11 PM,9:31,MISS Beal 24' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,409,4,0,3,11:11 PM,9:29,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,410,1,2,3,11:11 PM,9:25,,,Edwards 26' 3PT Running Jump Shot (15 PTS) (Conley 4 AST),66 - 66,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,413,2,79,3,11:11 PM,9:00,MISS Beal 25' 3PT Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,414,4,0,3,11:11 PM,8:55,,,Towns REBOUND (Off:2 Def:6),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,415,1,9,3,11:12 PM,8:35,,,McDaniels 1' Driving Dunk (13 PTS) (Edwards 4 AST),68 - 66,-2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,417,9,1,3,11:12 PM,8:34,SUNS Timeout: Regular (Full 3 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,418,8,0,3,11:15 PM,8:34,SUB: Gordon FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,420,1,80,3,11:16 PM,8:17,Durant 17' Step Back Jump Shot (25 PTS),,,68 - 68,TIE,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,421,1,1,3,11:16 PM,7:54,,,Towns 20' Jump Shot (21 PTS),70 - 68,-2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,422,1,79,3,11:16 PM,7:41,Booker 27' 3PT Pullup Jump Shot (24 PTS),,,70 - 71,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,423,1,1,3,11:17 PM,7:23,,,Reid 3PT Jump Shot (5 PTS) (Edwards 5 AST),73 - 71,-2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,425,1,6,3,11:17 PM,7:10,Booker 1' Driving Layup (26 PTS),,,73 - 73,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,426,1,79,3,11:17 PM,6:52,,,Edwards 27' 3PT Pullup Jump Shot (18 PTS),76 - 73,-3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,427,1,6,3,11:18 PM,6:34,Durant 1' Driving Layup (27 PTS),,,76 - 75,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,428,2,1,3,11:18 PM,6:24,,,MISS Towns 27' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,429,4,0,3,11:18 PM,6:20,O'Neale REBOUND (Off:3 Def:2),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,430,2,1,3,11:18 PM,6:11,MISS Gordon 29' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,431,4,0,3,11:18 PM,6:08,,,Towns REBOUND (Off:2 Def:7),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,432,6,2,3,11:18 PM,5:52,Beal S.FOUL (P4.T1) (P.Fraher),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,434,3,11,3,11:19 PM,5:52,,,MISS Reid Free Throw 1 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,435,4,1,3,11:19 PM,5:52,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,436,8,0,3,11:19 PM,5:52,SUB: Okogie FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,437,8,0,3,11:19 PM,5:52,,,SUB: Alexander-Walker FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,440,3,12,3,11:19 PM,5:52,,,Reid Free Throw 2 of 2 (6 PTS),77 - 75,-2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,441,1,9,3,11:19 PM,5:43,Booker 1' Driving Dunk (28 PTS),,,77 - 77,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,442,2,9,3,11:20 PM,5:25,,,MISS Edwards 2' Driving Dunk,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,443,4,0,3,11:20 PM,5:23,Durant REBOUND (Off:0 Def:6),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,444,2,1,3,11:20 PM,5:12,MISS Gordon 24' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,445,4,0,3,11:20 PM,5:09,,,Edwards REBOUND (Off:1 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,446,1,75,3,11:20 PM,5:00,,,Edwards 1' Driving Finger Roll Layup (20 PTS),79 - 77,-2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,447,9,1,3,11:20 PM,4:51,SUNS Timeout: Regular (Full 4 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,448,8,0,3,11:23 PM,4:51,,,SUB: Anderson FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,450,1,6,3,11:24 PM,4:41,Booker 1' Driving Layup (30 PTS) (Okogie 1 AST),,,79 - 79,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,452,1,47,3,11:25 PM,4:25,,,Towns 3' Turnaround Jump Shot (23 PTS) (Alexander-Walker 3 AST),81 - 79,-2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,454,6,2,3,11:25 PM,4:14,,,Alexander-Walker S.FOUL (P2.T2) (P.Fraher),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,456,3,11,3,11:26 PM,4:14,MISS Booker Free Throw 1 of 2,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,457,4,1,3,11:26 PM,4:14,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,458,3,12,3,11:26 PM,4:14,Booker Free Throw 2 of 2 (31 PTS),,,81 - 80,-1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,459,7,5,3,11:26 PM,4:02,Okogie Violation:Kicked Ball (S.Foster),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0042300164,460,2,1,3,11:27 PM,3:51,,,MISS Alexander-Walker 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,461,4,0,3,11:27 PM,3:46,,,Anderson REBOUND (Off:2 Def:4),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,462,2,101,3,11:27 PM,3:35,Booker BLOCK (1 BLK),,MISS Towns 9' Driving Floating Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,464,4,0,3,11:27 PM,3:34,,,Edwards REBOUND (Off:2 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,465,5,11,3,11:27 PM,3:34,,,Timberwolves Turnover: Shot Clock (T#7),,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300164,467,6,2,3,11:27 PM,3:19,,,Edwards S.FOUL (P1.T3) (P.Fraher),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,469,3,11,3,11:28 PM,3:19,Durant Free Throw 1 of 2 (28 PTS),,,81 - 81,TIE,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,470,8,0,3,11:28 PM,3:19,SUB: Nurkic FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,472,3,12,3,11:28 PM,3:19,Durant Free Throw 2 of 2 (29 PTS),,,81 - 82,1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,473,1,79,3,11:29 PM,3:01,,,Edwards 26' 3PT Pullup Jump Shot (23 PTS),84 - 82,-2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,474,1,98,3,11:29 PM,2:52,Nurkic 1' Cutting Layup Shot (8 PTS) (Booker 6 AST),,,84 - 84,TIE,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,476,2,98,3,11:29 PM,2:37,,,MISS Anderson 6' Cutting Layup Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,477,4,0,3,11:29 PM,2:35,,,Anderson REBOUND (Off:3 Def:4),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,478,2,97,3,11:29 PM,2:35,,,MISS Anderson 3' Tip Layup Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,480,1,72,3,11:29 PM,2:32,,,McDaniels 2' Putback Layup (15 PTS),86 - 84,-2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,479,4,0,3,11:29 PM,2:32,,,McDaniels REBOUND (Off:2 Def:0),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,481,5,2,3,11:29 PM,2:15,Okogie Lost Ball Turnover (P2.T5),,Edwards STEAL (1 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,482,2,50,3,11:29 PM,2:11,Durant BLOCK (4 BLK),,MISS Towns 2' Running Dunk,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1
+0042300164,484,4,0,3,11:30 PM,2:05,,,Edwards REBOUND (Off:3 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,485,2,1,3,11:30 PM,2:04,,,MISS Edwards 31' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,486,4,0,3,11:30 PM,2:03,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,487,6,3,3,11:30 PM,2:03,,,Towns L.B.FOUL (P2.T4) (P.Fraher),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,489,6,2,3,11:30 PM,1:54,,,Towns S.FOUL (P3.PN) (S.Foster),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,492,3,11,3,11:31 PM,1:54,Booker Free Throw 1 of 2 (32 PTS),,,86 - 85,-1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,493,3,12,3,11:31 PM,1:54,Booker Free Throw 2 of 2 (33 PTS),,,86 - 86,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,494,1,1,3,11:31 PM,1:36,,,Towns 29' 3PT Jump Shot (26 PTS) (Alexander-Walker 4 AST),89 - 86,-3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,496,1,98,3,11:31 PM,1:24,Durant 2' Cutting Layup Shot (31 PTS) (Nurkic 4 AST),,,89 - 88,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,498,6,1,3,11:32 PM,1:07,Booker P.FOUL (P2.T2) (S.Foster),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,500,9,1,3,11:32 PM,1:07,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,501,8,0,3,11:33 PM,1:07,SUB: Beal FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,503,2,83,3,11:34 PM,0:54,,,MISS McDaniels 14' Fadeaway Bank Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,504,4,0,3,11:34 PM,0:52,Okogie REBOUND (Off:0 Def:2),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,505,6,1,3,11:34 PM,0:45,,,McDaniels P.FOUL (P3.PN) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,507,3,11,3,11:35 PM,0:45,Booker Free Throw 1 of 2 (34 PTS),,,89 - 89,TIE,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,508,8,0,3,11:35 PM,0:45,SUB: O'Neale FOR Durant,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,510,8,0,3,11:35 PM,0:45,SUB: Nurkic FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,512,3,12,3,11:35 PM,0:45,Booker Free Throw 2 of 2 (35 PTS),,,89 - 90,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,513,6,1,3,11:36 PM,0:29,Nurkic P.FOUL (P3.PN) (C.Blair),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,515,3,11,3,11:36 PM,0:29,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,516,4,1,3,11:36 PM,0:29,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,517,8,0,3,11:36 PM,0:29,SUB: Beal FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,519,3,12,3,11:36 PM,0:29,,,Edwards Free Throw 2 of 2 (24 PTS),90 - 90,TIE,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,520,6,1,3,11:37 PM,0:11,,,McDaniels P.FOUL (P4.PN) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,522,3,11,3,11:37 PM,0:11,Booker Free Throw 1 of 2 (36 PTS),,,90 - 91,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,523,8,0,3,11:37 PM,0:11,SUB: Okogie FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,524,8,0,3,11:37 PM,0:11,SUB: Little FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,525,8,0,3,11:37 PM,0:11,,,SUB: Conley FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,529,3,12,3,11:38 PM,0:11,Booker Free Throw 2 of 2 (37 PTS),,,90 - 92,2,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,530,2,83,3,11:38 PM,0:00,,,MISS Edwards 19' Fadeaway Bank Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,531,4,0,3,11:38 PM,0:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,532,13,0,3,11:38 PM,0:00,,End of 3rd Period (11:38 PM EST),,90 - 92,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,539,12,0,4,11:42 PM,12:00,,Start of 4th Period (11:42 PM EST),,90 - 92,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,540,1,6,4,11:42 PM,11:44,Beal 5' Driving Layup (7 PTS),,,90 - 94,4,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,543,1,6,4,11:42 PM,11:22,,,Reid 1' Driving Layup (8 PTS) (Conley 5 AST),92 - 94,2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,545,5,1,4,11:43 PM,11:08,Beal Bad Pass Turnover (P2.T6),,Alexander-Walker STEAL (1 STL),,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,547,1,79,4,11:43 PM,10:54,,,Conley 28' 3PT Pullup Jump Shot (4 PTS),95 - 94,-1,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,548,6,3,4,11:43 PM,10:30,,,Reid L.B.FOUL (P4.T1) (S.Foster),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,551,8,0,4,11:44 PM,10:30,SUB: Booker FOR Little,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,553,8,0,4,11:44 PM,10:30,SUB: Nurkic FOR Gordon,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,555,2,1,4,11:44 PM,10:25,MISS O'Neale 25' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,556,4,0,4,11:44 PM,10:21,,,Conley REBOUND (Off:0 Def:2),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,567,5,1,4,11:44 PM,10:08,O'Neale STEAL (1 STL),,Gobert Bad Pass Turnover (P2.T8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,559,1,41,4,11:44 PM,10:01,Booker 1' Running Layup (39 PTS),,,95 - 96,1,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,560,6,1,4,11:45 PM,9:51,Nurkic P.FOUL (P4.T1) (P.Fraher),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,562,5,1,4,11:45 PM,9:44,Nurkic STEAL (2 STL),,Conley Bad Pass Turnover (P2.T9),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,564,1,2,4,11:45 PM,9:41,Booker 25' 3PT Running Jump Shot (42 PTS) (Beal 1 AST),,,95 - 99,4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,566,9,1,4,11:45 PM,9:36,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,569,8,0,4,11:46 PM,9:36,SUB: Gordon FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,570,8,0,4,11:46 PM,9:36,,,SUB: Edwards FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,573,5,40,4,11:49 PM,9:24,,,Gobert Out of Bounds Lost Ball Turnover (P3.T10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042300164,574,2,79,4,11:49 PM,9:07,MISS Durant 17' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,575,4,0,4,11:49 PM,9:04,,,Reid REBOUND (Off:0 Def:3),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,576,1,1,4,11:50 PM,8:47,,,Conley 24' 3PT Jump Shot (7 PTS) (Edwards 6 AST),98 - 99,1,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,578,6,1,4,11:50 PM,8:25,,,Conley P.FOUL (P1.T2) (P.Fraher),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,580,8,0,4,11:50 PM,8:25,,,SUB: Towns FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,582,2,79,4,11:51 PM,8:19,MISS Booker 14' Pullup Jump Shot,,Gobert BLOCK (2 BLK),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,584,4,0,4,11:51 PM,8:17,,,Alexander-Walker REBOUND (Off:2 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0042300164,586,6,1,4,11:51 PM,8:17,Booker P.FOUL (P3.T2) (C.Blair),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,588,1,79,4,11:51 PM,8:05,,,Edwards 21' Pullup Jump Shot (26 PTS),100 - 99,-1,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,589,2,86,4,11:52 PM,7:36,MISS Durant 15' Turnaround Fadeaway Shot,,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,590,4,0,4,11:52 PM,7:34,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,591,5,11,4,11:52 PM,7:34,SUNS Turnover: Shot Clock (T#7),,,,,2,1610612756,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300164,592,2,80,4,11:52 PM,7:22,,,MISS Edwards 10' Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,593,4,0,4,11:52 PM,7:21,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,594,6,3,4,11:53 PM,7:21,Booker L.B.FOUL (P4.T3) (S.Foster),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,596,8,0,4,11:53 PM,7:21,SUB: Okogie FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,598,2,79,4,11:53 PM,7:07,,,MISS Alexander-Walker 29' 3PT Pullup Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,599,4,0,4,11:53 PM,7:04,,,Conley REBOUND (Off:1 Def:2),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,600,1,6,4,11:53 PM,7:01,,,Towns 1' Driving Layup (28 PTS) (Conley 6 AST),102 - 99,-3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,602,6,2,4,11:53 PM,7:01,Okogie S.FOUL (P4.T4) (C.Blair),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,604,9,1,4,11:54 PM,7:01,SUNS Timeout: Regular (Full 5 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,605,3,10,4,11:58 PM,7:01,,,MISS Towns Free Throw 1 of 1,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,606,4,0,4,11:58 PM,6:59,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,608,6,4,4,11:58 PM,6:48,Beal OFF.Foul (P5) (S.Foster),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,610,5,37,4,11:58 PM,6:48,Beal Offensive Foul Turnover (P3.T8),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042300164,611,8,0,4,11:58 PM,6:48,SUB: Nurkic FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,613,2,78,4,11:59 PM,6:32,,,MISS Gobert 8' Floating Jump Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,614,4,0,4,11:59 PM,6:30,Durant REBOUND (Off:0 Def:7),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,615,1,101,4,11:59 PM,6:23,Durant 7' Driving Floating Jump Shot (33 PTS),,,102 - 101,-1,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,616,2,6,4,11:59 PM,6:02,,,MISS Alexander-Walker 1' Driving Layup,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,617,4,0,4,12:00 AM,6:00,Booker REBOUND (Off:0 Def:5),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,618,2,2,4,12:00 AM,5:56,MISS Gordon 24' 3PT Running Jump Shot,,,,,4,201569,Eric Gordon,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,619,4,0,4,12:00 AM,5:52,,,Towns REBOUND (Off:2 Def:8),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,620,1,1,4,12:00 AM,5:34,,,Edwards 29' 3PT Jump Shot (29 PTS) (Conley 7 AST),105 - 101,-4,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,622,2,6,4,12:00 AM,5:14,MISS Booker 5' Driving Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,624,4,0,4,12:00 AM,5:12,Nurkic REBOUND (Off:4 Def:3),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,625,1,9,4,12:00 AM,5:12,Okogie Driving Dunk (4 PTS) (Nurkic 5 AST),,,105 - 103,-2,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,627,9,1,4,12:00 AM,5:11,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,628,8,0,4,12:02 AM,5:11,SUB: O'Neale FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,629,8,0,4,12:02 AM,5:11,SUB: Beal FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,630,8,0,4,12:02 AM,5:11,,,SUB: McDaniels FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,634,1,86,4,12:03 AM,4:50,,,Edwards 16' Turnaround Fadeaway (31 PTS),107 - 103,-4,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,635,2,9,4,12:03 AM,4:36,MISS Booker 4' Driving Dunk,,Edwards BLOCK (1 BLK),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,637,4,0,4,12:03 AM,4:34,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,639,6,6,4,12:03 AM,4:34,,,Towns AWAY.FROM.PLAY.FOUL (P4.T3) (C.Blair),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,641,3,10,4,12:04 AM,4:34,Booker Free Throw 1 of 1 (43 PTS),,,107 - 104,-3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,642,1,1,4,12:04 AM,4:32,O'Neale 27' 3PT Jump Shot (6 PTS) (Beal 2 AST),,,107 - 107,TIE,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,644,1,80,4,12:04 AM,4:13,,,Edwards 24' 3PT Step Back Jump Shot (34 PTS),110 - 107,-3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,645,5,1,4,12:05 AM,4:03,Beal Bad Pass Turnover (P4.T9),,Gobert STEAL (1 STL),,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,647,5,1,4,12:05 AM,3:59,Booker STEAL (2 STL),,Gobert Bad Pass Turnover (P4.T11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042300164,649,2,2,4,12:05 AM,3:55,MISS Beal 28' 3PT Running Jump Shot,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,650,4,0,4,12:05 AM,3:53,Durant REBOUND (Off:1 Def:7),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,651,1,73,4,12:05 AM,3:43,Beal 2' Driving Reverse Layup (9 PTS),,,110 - 109,-1,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,652,1,1,4,12:05 AM,3:25,,,McDaniels 3PT Jump Shot (18 PTS) (Towns 3 AST),113 - 109,-4,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,654,6,1,4,12:05 AM,3:14,,,Towns P.FOUL (P5.T4) (S.Foster),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,656,8,0,4,12:06 AM,3:14,,,SUB: Alexander-Walker FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,658,6,2,4,12:06 AM,3:08,,,McDaniels S.FOUL (P5.PN) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,660,3,11,4,12:07 AM,3:08,Booker Free Throw 1 of 2 (44 PTS),,,113 - 110,-3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,661,3,12,4,12:07 AM,3:08,Booker Free Throw 2 of 2 (45 PTS),,,113 - 111,-2,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,662,2,80,4,12:07 AM,2:48,,,MISS Conley 27' 3PT Step Back Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,663,4,0,4,12:07 AM,2:44,O'Neale REBOUND (Off:3 Def:3),,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,664,5,1,4,12:08 AM,2:30,Beal Bad Pass Turnover (P5.T10),,Alexander-Walker STEAL (2 STL),,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,666,1,9,4,12:08 AM,2:14,,,Edwards Driving Dunk (36 PTS),115 - 111,-4,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,667,9,1,4,12:08 AM,2:12,SUNS Timeout: Regular (Full 6 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,668,8,0,4,12:09 AM,2:12,,,SUB: Gobert FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,670,5,40,4,12:10 AM,2:04,Beal Out of Bounds Lost Ball Turnover (P6.T11),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042300164,671,6,1,4,12:10 AM,1:56,Beal P.FOUL (P6.PN) (P.Fraher),,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,673,8,0,4,12:10 AM,1:56,SUB: Okogie FOR Beal,,,,,4,203078,Bradley Beal,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,675,3,11,4,12:11 AM,1:56,,,Edwards Free Throw 1 of 2 (37 PTS),116 - 111,-5,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,676,3,12,4,12:11 AM,1:56,,,Edwards Free Throw 2 of 2 (38 PTS),117 - 111,-6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,677,1,6,4,12:11 AM,1:44,Booker 8' Driving Layup (47 PTS),,,117 - 113,-4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,678,6,1,4,12:12 AM,1:41,Booker P.FOUL (P5.PN) (P.Fraher),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,682,3,11,4,12:15 AM,1:41,,,Conley Free Throw 1 of 2 (8 PTS),118 - 113,-5,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,683,3,12,4,12:15 AM,1:41,,,Conley Free Throw 2 of 2 (9 PTS),119 - 113,-6,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,684,5,1,4,12:15 AM,1:31,Durant Bad Pass Turnover (P1.T12),,McDaniels STEAL (1 STL),,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,686,2,6,4,12:16 AM,1:14,,,MISS Conley Driving Layup,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,687,4,0,4,12:16 AM,1:14,Okogie REBOUND (Off:0 Def:3),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,688,6,1,4,12:16 AM,1:14,,,Conley P.FOUL (P2.PN) (S.Foster),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,690,3,11,4,12:16 AM,1:14,MISS Okogie Free Throw 1 of 2,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,691,4,1,4,12:16 AM,1:14,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,694,3,12,4,12:16 AM,1:14,MISS Okogie Free Throw 2 of 2,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,692,8,0,4,12:16 AM,1:14,,,SUB: Towns FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,695,4,0,4,12:16 AM,1:10,,,Edwards REBOUND (Off:3 Def:5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,698,2,79,4,12:19 AM,0:46,,,MISS McDaniels 28' 3PT Pullup Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,699,4,0,4,12:19 AM,0:43,,,Edwards REBOUND (Off:4 Def:5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,702,2,1,4,12:20 AM,0:30,,,MISS Towns 32' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,703,4,0,4,12:20 AM,0:29,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300164,704,5,11,4,12:20 AM,0:29,,,Timberwolves Turnover: Shot Clock (T#12),,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300164,705,8,0,4,12:20 AM,0:29,,,SUB: Gobert FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,707,6,1,4,12:20 AM,0:25,,,Edwards P.FOUL (P2.PN) (S.Foster),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,709,3,11,4,12:21 AM,0:25,Booker Free Throw 1 of 2 (48 PTS),,,119 - 114,-5,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,710,8,0,4,12:21 AM,0:25,,,SUB: Towns FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,711,8,0,4,12:21 AM,0:25,,,SUB: Anderson FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,714,3,12,4,12:21 AM,0:25,Booker Free Throw 2 of 2 (49 PTS),,,119 - 115,-4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,715,9,1,4,12:21 AM,0:22,,,Timberwolves Timeout: Regular (Reg.6 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,716,8,0,4,12:22 AM,0:22,SUB: Little FOR Booker,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,718,1,9,4,12:23 AM,0:19,,,Edwards 2' Driving Dunk (40 PTS) (Anderson 2 AST),121 - 115,-6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042300164,719,9,1,4,12:23 AM,0:19,SUNS Timeout: Regular (Full 7 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300164,721,8,0,4,12:24 AM,0:19,SUB: Nurkic FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,722,8,0,4,12:24 AM,0:19,SUB: Booker FOR Little,,,,,4,1629642,Nassir Little,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042300164,723,8,0,4,12:24 AM,0:19,,,SUB: McDaniels FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,724,8,0,4,12:24 AM,0:19,,,SUB: Alexander-Walker FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,729,6,1,4,12:25 AM,0:19,,,Alexander-Walker P.FOUL (P3.PN) (S.Foster),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042300164,731,18,0,4,12:25 AM,0:19,,Instant Replay4th Period (12:25 AM EST),,121 - 115,-6,0,729,Martin Lewis,,,,,0,0,,,,,,1,0,,,,,,0
+0042300164,732,8,0,4,12:26 AM,0:19,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,733,8,0,4,12:26 AM,0:19,,,SUB: Towns FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,736,3,11,4,12:27 AM,0:19,Nurkic Free Throw 1 of 2 (9 PTS),,,121 - 116,-5,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,737,3,12,4,12:27 AM,0:19,MISS Nurkic Free Throw 2 of 2,,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,738,4,0,4,12:27 AM,0:17,Nurkic REBOUND (Off:5 Def:3),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,739,2,1,4,12:27 AM,0:16,MISS O'Neale 27' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,740,4,0,4,12:27 AM,0:14,,,Conley REBOUND (Off:1 Def:3),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,741,6,28,4,12:27 AM,0:14,Nurkic Personal Take Foul (P5.PN) (P.Fraher),,,,,4,203994,Jusuf Nurkić,1610612756.0,Phoenix,Suns,PHX,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042300164,743,3,11,4,12:28 AM,0:14,,,Conley Free Throw 1 of 2 (10 PTS),122 - 116,-6,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,744,8,0,4,12:28 AM,0:14,,,SUB: McDaniels FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,745,8,0,4,12:28 AM,0:14,,,SUB: Alexander-Walker FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042300164,748,3,12,4,12:28 AM,0:14,,,MISS Conley Free Throw 2 of 2,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,749,4,0,4,12:28 AM,0:11,Durant REBOUND (Off:1 Def:8),,,,,4,201142,Kevin Durant,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042300164,750,2,41,4,12:28 AM,0:06,MISS Booker 2' Running Layup,,Edwards BLOCK (2 BLK),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042300164,752,4,0,4,12:28 AM,0:03,,,McDaniels REBOUND (Off:2 Def:1),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042300164,753,13,0,4,12:28 AM,0:00,,End of 4th Period (12:28 AM EST),,122 - 116,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

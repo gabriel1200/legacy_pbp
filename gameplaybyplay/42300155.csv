@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042300155,2,12,0,1,10:06 PM,12:00,,Start of 1st Period (10:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,4,10,0,1,10:06 PM,12:00,Jump Ball Jokic vs. Davis: Tip to Gordon,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1
+0042300155,7,1,101,1,10:07 PM,11:44,Murray 5' Driving Floating Jump Shot (2 PTS) (Jokic 1 AST),,,0 - 2,2,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,9,2,1,1,10:07 PM,11:26,,,MISS Russell 26' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,10,4,0,1,10:07 PM,11:24,,,Davis REBOUND (Off:1 Def:0),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,11,1,1,1,10:07 PM,11:21,,,Hachimura 24' 3PT Jump Shot (3 PTS) (Davis 1 AST),3 - 2,-1,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,13,5,1,1,10:07 PM,11:00,Jokic Bad Pass Turnover (P1.T1),,James STEAL (1 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,15,2,2,1,10:07 PM,10:54,,,MISS Russell 25' 3PT Running Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,16,4,0,1,10:08 PM,10:49,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,17,2,1,1,10:08 PM,10:43,MISS Murray 24' 3PT Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,18,4,0,1,10:08 PM,10:41,Gordon REBOUND (Off:1 Def:0),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,19,2,85,1,10:08 PM,10:35,MISS Murray 3' Turnaround Bank Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,20,4,0,1,10:08 PM,10:33,,,Davis REBOUND (Off:1 Def:1),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,21,2,1,1,10:08 PM,10:28,,,MISS James 29' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,22,4,0,1,10:08 PM,10:23,Porter Jr. REBOUND (Off:0 Def:2),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,23,1,1,1,10:08 PM,10:13,Murray 26' 3PT Jump Shot (5 PTS) (Caldwell-Pope 1 AST),,,3 - 5,2,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,25,2,57,1,10:09 PM,9:49,,,MISS Hachimura 3' Driving Hook Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,26,4,0,1,10:09 PM,9:46,Jokic REBOUND (Off:0 Def:1),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,27,6,17,1,10:09 PM,9:38,,,Lakers T.Foul (Def. 3 Sec James ) (J.Williams),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042300155,36,3,16,1,10:09 PM,9:38,Murray Free Throw Technical (6 PTS),,,3 - 6,3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0042300155,155,2,1,1,10:10 PM,9:36,MISS Murray 28' 3PT Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,31,9,1,1,10:10 PM,9:35,,,Lakers Timeout: Regular (Reg.1 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,156,4,0,1,10:10 PM,9:35,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,32,18,5,1,10:10 PM,9:35,,Instant Replay1st Period (10:10 PM EST),,3 - 6,3,0,29,Jim McIlvaine,,,,,0,0,,,,,,1,0,,,,,,1
+0042300155,33,10,1,1,10:14 PM,9:35,Jump Ball (CC) Jokic vs. Davis: Tip to James,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,37,1,98,1,10:14 PM,9:21,,,Reaves 4' Cutting Layup Shot (2 PTS) (James 1 AST),5 - 6,1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,39,5,1,1,10:14 PM,8:58,Murray Bad Pass Turnover (P1.T2),,Reaves STEAL (1 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,41,1,41,1,10:14 PM,8:53,,,Davis 2' Running Layup (2 PTS) (James 2 AST),7 - 6,-1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,44,2,80,1,10:15 PM,8:38,MISS Porter Jr. 21' Step Back Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,45,4,0,1,10:15 PM,8:35,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,46,6,2,1,10:15 PM,8:26,Gordon S.FOUL (P1.T1) (K.Scott),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,48,3,11,1,10:15 PM,8:26,,,Reaves Free Throw 1 of 2 (3 PTS),8 - 6,-2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,49,3,12,1,10:16 PM,8:26,,,Reaves Free Throw 2 of 2 (4 PTS),9 - 6,-3,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,50,5,1,1,10:16 PM,8:14,Gordon Bad Pass Turnover (P1.T3),,James STEAL (2 STL),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,52,2,1,1,10:16 PM,8:05,,,MISS Davis 13' Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,53,4,0,1,10:16 PM,8:03,Gordon REBOUND (Off:1 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,54,2,79,1,10:16 PM,7:53,MISS Caldwell-Pope 16' Pullup Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,55,4,0,1,10:16 PM,7:49,,,Russell REBOUND (Off:0 Def:1),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,56,2,2,1,10:16 PM,7:44,,,MISS Hachimura 3PT Running Jump Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,57,4,0,1,10:16 PM,7:44,Jokic REBOUND (Off:0 Def:2),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,58,2,1,1,10:17 PM,7:31,MISS Caldwell-Pope 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,59,4,0,1,10:17 PM,7:28,,,Davis REBOUND (Off:1 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,60,1,99,1,10:17 PM,7:22,,,Davis 2' Cutting Finger Roll Layup Shot (4 PTS) (Reaves 1 AST),11 - 6,-5,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,62,9,1,1,10:17 PM,7:22,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,63,2,79,1,10:21 PM,7:06,MISS Murray 16' Pullup Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,64,4,0,1,10:21 PM,7:04,,,James REBOUND (Off:0 Def:2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,65,2,1,1,10:21 PM,6:55,,,MISS Hachimura 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,66,4,0,1,10:21 PM,6:50,Gordon REBOUND (Off:1 Def:2),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,67,2,1,1,10:21 PM,6:39,MISS Porter Jr. 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,68,4,0,1,10:21 PM,6:36,,,Reaves REBOUND (Off:0 Def:1),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,69,2,79,1,10:21 PM,6:22,,,MISS Reaves 16' Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,70,4,0,1,10:21 PM,6:19,Jokic REBOUND (Off:0 Def:3),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,71,1,67,1,10:22 PM,6:14,Jokic 3' Hook Bank Shot (2 PTS),,,11 - 8,-3,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,72,9,1,1,10:22 PM,6:02,,,Lakers Timeout: Regular (Reg.2 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,73,8,0,1,10:23 PM,6:02,,,SUB: Prince FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,74,8,0,1,10:23 PM,6:02,,,SUB: Vincent FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,77,2,98,1,10:24 PM,5:49,,,MISS Hachimura 1' Cutting Layup Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,78,4,0,1,10:24 PM,5:48,,,Hachimura REBOUND (Off:1 Def:0),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,79,2,97,1,10:24 PM,5:47,,,MISS Hachimura Tip Layup Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,80,4,0,1,10:24 PM,5:47,,,Hachimura REBOUND (Off:2 Def:0),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,116,2,97,1,10:24 PM,5:47,,,MISS Hachimura 1' Tip Layup Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,117,4,0,1,10:24 PM,5:47,Gordon REBOUND (Off:1 Def:3),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,124,2,41,1,10:24 PM,5:47,MISS Caldwell-Pope 3' Running Layup,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,125,4,0,1,10:24 PM,5:47,Jokic REBOUND (Off:1 Def:3),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,81,1,72,1,10:24 PM,5:39,Jokic 2' Putback Layup (4 PTS),,,11 - 10,-1,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,82,1,1,1,10:24 PM,5:21,,,Davis 12' Jump Shot (6 PTS) (Vincent 1 AST),13 - 10,-3,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,84,1,79,1,10:24 PM,5:02,Murray 24' 3PT Pullup Jump Shot (9 PTS),,,13 - 13,TIE,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,85,2,1,1,10:25 PM,4:52,,,MISS Vincent 28' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,86,4,0,1,10:25 PM,4:49,,,Hachimura REBOUND (Off:3 Def:0),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,87,6,1,1,10:25 PM,4:41,Murray P.FOUL (P1.T2) (K.Scott),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,89,8,0,1,10:25 PM,4:41,SUB: Holiday FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,90,8,0,1,10:25 PM,4:41,SUB: Watson FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,93,6,1,1,10:25 PM,4:36,Holiday P.FOUL (P1.T3) (J.Williams),,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,95,5,2,1,10:26 PM,4:29,Porter Jr. STEAL (1 STL),,Davis Lost Ball Turnover (P1.T1),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,97,1,1,1,10:26 PM,4:18,Murray 24' 3PT Jump Shot (12 PTS) (Watson 1 AST),,,13 - 16,3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,99,5,2,1,10:26 PM,3:57,Murray STEAL (1 STL),,Reaves Lost Ball Turnover (P1.T2),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,101,2,1,1,10:27 PM,3:42,MISS Murray 26' 3PT Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,102,4,0,1,10:27 PM,3:39,,,Vincent REBOUND (Off:0 Def:1),,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,103,6,2,1,10:27 PM,3:36,Holiday S.FOUL (P2.T4) (G.Petraitis),,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,105,3,11,1,10:27 PM,3:36,,,Reaves Free Throw 1 of 2 (5 PTS),14 - 16,2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,106,8,0,1,10:27 PM,3:36,SUB: Gordon FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,107,8,0,1,10:27 PM,3:36,SUB: Jackson FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,108,8,0,1,10:27 PM,3:36,,,SUB: James FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,112,3,12,1,10:28 PM,3:36,,,Reaves Free Throw 2 of 2 (6 PTS),15 - 16,1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,113,5,1,1,10:28 PM,3:24,Jokic Bad Pass Turnover (P2.T4),,Reaves STEAL (2 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,115,2,103,1,10:28 PM,3:19,,,MISS Prince 3PT Running Pull-Up Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,119,1,97,1,10:28 PM,3:13,,,Davis Tip Layup Shot (8 PTS),17 - 16,-1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,118,4,0,1,10:28 PM,3:13,,,Davis REBOUND (Off:2 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,120,5,2,1,10:28 PM,2:56,Jokic Lost Ball Turnover (P3.T5),,Reaves STEAL (3 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,122,6,1,1,10:29 PM,2:56,Jokic P.FOUL (P1.PN) (J.Williams),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,126,3,11,1,10:29 PM,2:56,,,Prince Free Throw 1 of 2 (1 PTS),18 - 16,-2,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,127,8,0,1,10:29 PM,2:56,SUB: Porter Jr. FOR Watson,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,128,8,0,1,10:29 PM,2:56,,,SUB: Russell FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,129,8,0,1,10:29 PM,2:56,,,SUB: Dinwiddie FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,133,3,12,1,10:30 PM,2:56,,,Prince Free Throw 2 of 2 (2 PTS),19 - 16,-3,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,134,1,108,1,10:30 PM,2:41,Gordon 1' Cutting Dunk Shot (2 PTS) (Porter Jr. 1 AST),,,19 - 18,-1,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,136,1,1,1,10:30 PM,2:22,,,Dinwiddie 3PT Jump Shot (3 PTS) (Russell 1 AST),22 - 18,-4,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,138,2,6,1,10:31 PM,1:57,MISS Jokic 4' Driving Layup,,Prince BLOCK (1 BLK),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,140,4,0,1,10:31 PM,1:57,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,142,8,0,1,10:31 PM,1:57,SUB: Braun FOR Holiday,,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,144,1,79,1,10:31 PM,1:45,,,James 13' Pullup Jump Shot (2 PTS) (Russell 2 AST),24 - 18,-6,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,146,1,1,1,10:32 PM,1:26,Porter Jr. 24' 3PT Jump Shot (3 PTS) (Jokic 2 AST),,,24 - 21,-3,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,148,2,101,1,10:32 PM,1:08,,,MISS Prince 11' Driving Floating Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,149,4,0,1,10:32 PM,1:05,Jokic REBOUND (Off:1 Def:4),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,150,1,2,1,10:32 PM,1:01,Jackson 27' 3PT Running Jump Shot (3 PTS) (Gordon 1 AST),,,24 - 24,TIE,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,153,2,1,1,10:33 PM,0:47,,,MISS Dinwiddie 28' 3PT Jump Shot,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,154,4,0,1,10:33 PM,0:42,Jokic REBOUND (Off:1 Def:5),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,157,6,2,1,10:33 PM,0:33,,,Davis S.FOUL (P1.T1) (G.Petraitis),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,159,3,11,1,10:33 PM,0:33,Braun Free Throw 1 of 2 (1 PTS),,,24 - 25,1,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,160,3,12,1,10:34 PM,0:33,Braun Free Throw 2 of 2 (2 PTS),,,24 - 26,2,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,161,5,1,1,10:34 PM,0:23,Gordon STEAL (1 STL),,Russell Bad Pass Turnover (P1.T3),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,163,1,79,1,10:34 PM,0:01,Jackson 19' Pullup Jump Shot (5 PTS),,,24 - 28,4,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,164,13,0,1,10:34 PM,0:00,,End of 1st Period (10:34 PM EST),,24 - 28,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300155,170,12,0,2,10:38 PM,12:00,,Start of 2nd Period (10:38 PM EST),,24 - 28,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,171,1,75,2,10:38 PM,11:37,,,Russell 2' Driving Finger Roll Layup (2 PTS) (Dinwiddie 1 AST),26 - 28,2,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,173,2,6,2,10:39 PM,11:20,MISS Murray 3' Driving Layup,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,174,4,0,2,10:39 PM,11:18,,,Hayes REBOUND (Off:0 Def:1),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,175,6,2,2,10:39 PM,11:15,Jackson S.FOUL (P1.T1) (G.Petraitis),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,177,3,11,2,10:39 PM,11:15,,,MISS Hayes Free Throw 1 of 2,,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,178,4,1,2,10:39 PM,11:15,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,179,3,12,2,10:40 PM,11:15,,,Hayes Free Throw 2 of 2 (1 PTS),27 - 28,1,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,180,1,1,2,10:40 PM,10:58,Porter Jr. 24' 3PT Jump Shot (6 PTS) (Gordon 2 AST),,,27 - 31,4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,182,1,86,2,10:40 PM,10:32,,,James 14' Turnaround Fadeaway (4 PTS),29 - 31,2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,184,1,79,2,10:41 PM,10:15,Jackson 26' 3PT Pullup Jump Shot (8 PTS),,,29 - 34,5,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,185,1,1,2,10:41 PM,9:50,,,Russell 25' 3PT Jump Shot (5 PTS) (Dinwiddie 2 AST),32 - 34,2,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,187,2,47,2,10:41 PM,9:32,MISS Murray 12' Turnaround Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,188,4,0,2,10:41 PM,9:32,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,189,5,15,2,10:42 PM,9:32,Gordon Offensive Goaltending Turnover (P2.T6),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,190,2,1,2,10:42 PM,9:11,,,MISS Prince 24' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,191,4,0,2,10:42 PM,9:08,,,Dinwiddie REBOUND (Off:1 Def:0),,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,192,2,1,2,10:42 PM,9:07,,,MISS Russell 25' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,193,4,0,2,10:42 PM,9:03,,,Hayes REBOUND (Off:1 Def:1),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,194,5,2,2,10:42 PM,9:02,Porter Jr. STEAL (2 STL),,Hayes Lost Ball Turnover (P1.T4),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,197,2,101,2,10:43 PM,8:49,MISS Braun 12' Driving Floating Jump Shot,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,198,4,0,2,10:43 PM,8:47,,,Hayes REBOUND (Off:1 Def:2),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,199,2,6,2,10:43 PM,8:32,,,MISS Prince 1' Driving Layup,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,200,4,0,2,10:43 PM,8:30,Murray REBOUND (Off:0 Def:1),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,201,2,79,2,10:43 PM,8:19,MISS Braun 28' 3PT Pullup Jump Shot,,Dinwiddie BLOCK (1 BLK),,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,203,4,0,2,10:43 PM,8:15,Gordon REBOUND (Off:2 Def:3),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,204,2,79,2,10:43 PM,8:10,MISS Gordon 26' 3PT Pullup Jump Shot,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,205,4,0,2,10:43 PM,8:07,,,Hayes REBOUND (Off:1 Def:3),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,206,2,6,2,10:44 PM,7:59,Gordon BLOCK (1 BLK),,MISS James 3' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1
+0042300155,208,4,0,2,10:44 PM,7:59,,,James REBOUND (Off:1 Def:2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,209,1,72,2,10:44 PM,7:59,,,James 2' Putback Layup (6 PTS),34 - 34,TIE,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,210,6,2,2,10:44 PM,7:59,Porter Jr. S.FOUL (P1.T2) (K.Scott),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,212,9,1,2,10:44 PM,7:59,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,213,8,0,2,10:47 PM,7:59,SUB: Jokic FOR Braun,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,214,8,0,2,10:47 PM,7:59,SUB: Caldwell-Pope FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,215,8,0,2,10:47 PM,7:59,SUB: Holiday FOR Jackson,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,216,8,0,2,10:47 PM,7:59,,,SUB: Vincent FOR Dinwiddie,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,217,8,0,2,10:47 PM,7:59,,,SUB: Davis FOR Hayes,,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,223,3,10,2,10:48 PM,7:59,,,James Free Throw 1 of 1 (7 PTS),35 - 34,-1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,224,2,80,2,10:48 PM,7:46,MISS Murray 26' 3PT Step Back Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,225,4,0,2,10:48 PM,7:42,,,Davis REBOUND (Off:2 Def:3),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,226,1,6,2,10:48 PM,7:34,,,Davis 1' Driving Layup (10 PTS) (James 3 AST),37 - 34,-3,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,228,6,1,2,10:48 PM,7:29,,,James P.FOUL (P1.T1) (K.Scott),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,230,8,0,2,10:49 PM,7:29,,,SUB: Reaves FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,232,6,1,2,10:49 PM,7:19,,,Vincent P.FOUL (P1.T2) (G.Petraitis),,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,234,5,1,2,10:49 PM,7:13,Murray Bad Pass Turnover (P2.T7),,James STEAL (3 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,236,1,5,2,10:49 PM,7:02,,,Davis 3' Layup (12 PTS) (James 4 AST),39 - 34,-5,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,238,5,39,2,10:50 PM,6:56,Gordon Step Out of Bounds Turnover (P3.T8),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,239,1,108,2,10:50 PM,6:38,,,Davis Cutting Dunk Shot (14 PTS) (James 5 AST),41 - 34,-7,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,241,9,1,2,10:50 PM,6:38,NUGGETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,242,8,0,2,10:54 PM,6:38,SUB: Porter Jr. FOR Holiday,,,,,4,203200,Justin Holiday,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,244,6,2,2,10:54 PM,6:18,,,Prince S.FOUL (P1.T3) (G.Petraitis),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,246,3,13,2,10:55 PM,6:18,Porter Jr. Free Throw 1 of 3 (7 PTS),,,41 - 35,-6,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,247,3,14,2,10:55 PM,6:18,Porter Jr. Free Throw 2 of 3 (8 PTS),,,41 - 36,-5,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,248,3,15,2,10:55 PM,6:18,Porter Jr. Free Throw 3 of 3 (9 PTS),,,41 - 37,-4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,249,2,1,2,10:55 PM,6:07,,,MISS Vincent 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,250,4,0,2,10:55 PM,6:04,Gordon REBOUND (Off:2 Def:4),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,251,2,1,2,10:55 PM,5:55,MISS Caldwell-Pope 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,252,4,0,2,10:56 PM,5:52,,,Davis REBOUND (Off:2 Def:4),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,253,2,101,2,10:56 PM,5:44,,,MISS Davis 10' Driving Floating Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,254,4,0,2,10:56 PM,5:41,Jokic REBOUND (Off:1 Def:6),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,255,2,1,2,10:56 PM,5:33,MISS Murray 25' 3PT Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,256,4,0,2,10:56 PM,5:29,,,Davis REBOUND (Off:2 Def:5),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,257,1,79,2,10:56 PM,5:21,,,Reaves 13' Pullup Jump Shot (8 PTS),43 - 37,-6,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,258,1,75,2,10:56 PM,5:04,Murray 1' Driving Finger Roll Layup (14 PTS),,,43 - 39,-4,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,260,2,6,2,10:57 PM,4:41,,,MISS James 2' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,261,4,0,2,10:57 PM,4:39,Jokic REBOUND (Off:1 Def:7),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,262,6,1,2,10:57 PM,4:35,,,Prince P.FOUL (P2.T4) (J.Williams),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,264,8,0,2,10:57 PM,4:35,SUB: Jackson FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,265,8,0,2,10:57 PM,4:35,,,SUB: Russell FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,266,8,0,2,10:57 PM,4:35,,,SUB: Hachimura FOR Prince,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,270,2,63,2,10:58 PM,4:18,MISS Jokic 28' 3PT Fadeaway Jumper,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,271,4,0,2,10:58 PM,4:15,,,Davis REBOUND (Off:2 Def:6),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,272,1,6,2,10:58 PM,4:07,,,Hachimura 2' Driving Layup (5 PTS) (James 6 AST),45 - 39,-6,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,274,5,45,2,10:58 PM,4:00,Jokic Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,275,2,1,2,10:58 PM,3:50,,,MISS Russell 25' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,276,4,0,2,10:58 PM,3:45,Jokic REBOUND (Off:1 Def:8),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,277,2,98,2,10:58 PM,3:37,MISS Gordon 1' Cutting Layup Shot,,Reaves BLOCK (1 BLK),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,279,4,0,2,10:58 PM,3:34,,,Hachimura REBOUND (Off:3 Def:1),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,280,6,2,2,10:59 PM,3:32,Caldwell-Pope S.FOUL (P1.T3) (K.Scott),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,282,3,11,2,10:59 PM,3:32,,,Hachimura Free Throw 1 of 2 (6 PTS),46 - 39,-7,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,283,8,0,2,10:59 PM,3:32,SUB: Murray FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,285,3,12,2,10:59 PM,3:32,,,MISS Hachimura Free Throw 2 of 2,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0042300155,286,4,0,2,10:59 PM,3:30,Jokic REBOUND (Off:1 Def:9),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0042300155,287,1,58,2,11:00 PM,3:16,Jokic 1' Turnaround Hook Shot (6 PTS) (Murray 1 AST),,,46 - 41,-5,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,289,5,1,2,11:00 PM,3:03,Jackson STEAL (1 STL),,Davis Bad Pass Turnover (P2.T5),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,291,2,50,2,11:00 PM,2:57,MISS Gordon 1' Running Dunk,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,292,4,0,2,11:00 PM,2:55,,,James REBOUND (Off:1 Def:3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,293,1,41,2,11:00 PM,2:53,,,Russell 2' Running Layup (7 PTS) (Hachimura 1 AST),48 - 41,-7,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,295,2,6,2,11:00 PM,2:30,MISS Jokic 3' Driving Layup,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,296,4,0,2,11:00 PM,2:28,,,Davis REBOUND (Off:2 Def:7),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,298,2,86,2,11:01 PM,2:05,,,MISS James 9' Turnaround Fadeaway Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,299,4,0,2,11:01 PM,2:03,Jokic REBOUND (Off:1 Def:10),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,301,1,78,2,11:01 PM,1:50,Jokic 12' Floating Jump Shot (8 PTS) (Murray 2 AST),,,48 - 43,-5,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,303,9,1,2,11:01 PM,1:37,,,Lakers Timeout: Regular (Reg.3 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,304,1,1,2,11:03 PM,1:29,,,James 25' 3PT Jump Shot (10 PTS) (Davis 2 AST),51 - 43,-8,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,306,1,73,2,11:04 PM,1:12,Porter Jr. 1' Driving Reverse Layup (11 PTS) (Jokic 3 AST),,,51 - 45,-6,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,308,2,79,2,11:04 PM,0:54,,,MISS Russell 12' Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,309,4,0,2,11:04 PM,0:51,Gordon REBOUND (Off:2 Def:5),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,310,1,80,2,11:04 PM,0:33,Murray 14' Step Back Jump Shot (16 PTS),,,51 - 47,-4,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,311,1,99,2,11:04 PM,0:16,,,Davis 3' Cutting Finger Roll Layup Shot (16 PTS) (James 7 AST),53 - 47,-6,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,313,1,1,2,11:05 PM,0:04,Gordon 3PT Jump Shot (5 PTS) (Jokic 4 AST),,,53 - 50,-3,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,315,13,0,2,11:05 PM,0:00,,End of 2nd Period (11:05 PM EST),,53 - 50,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300155,318,12,0,3,11:22 PM,12:00,,Start of 3rd Period (11:22 PM EST),,53 - 50,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,319,1,1,3,11:22 PM,11:41,,,Hachimura 3PT Jump Shot (9 PTS) (Russell 3 AST),56 - 50,-6,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,321,2,1,3,11:23 PM,11:21,MISS Jokic 26' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,322,4,0,3,11:23 PM,11:18,,,Reaves REBOUND (Off:0 Def:2),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,323,2,80,3,11:23 PM,11:03,,,MISS James 16' Step Back Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,324,4,0,3,11:23 PM,10:59,,,Reaves REBOUND (Off:1 Def:2),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,325,2,1,3,11:23 PM,10:56,,,MISS Russell 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,326,4,0,3,11:23 PM,10:53,Caldwell-Pope REBOUND (Off:0 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,328,6,1,3,11:23 PM,10:53,,,James P.FOUL (P2.T1) (K.Scott),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,330,9,1,3,11:23 PM,10:53,,,Lakers Timeout: Regular (Reg.4 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,331,2,1,3,11:28 PM,10:37,MISS Jokic 25' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,332,4,0,3,11:28 PM,10:33,,,James REBOUND (Off:1 Def:4),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,333,1,9,3,11:28 PM,10:15,,,James 2' Driving Dunk (12 PTS),58 - 50,-8,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,334,1,79,3,11:29 PM,9:56,Porter Jr. 19' Pullup Jump Shot (13 PTS) (Jokic 5 AST),,,58 - 52,-6,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,336,2,80,3,11:29 PM,9:39,,,MISS Russell 25' 3PT Step Back Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,337,4,0,3,11:29 PM,9:36,Jokic REBOUND (Off:1 Def:11),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,338,1,50,3,11:29 PM,9:33,Gordon 1' Running Dunk (7 PTS) (Jokic 6 AST),,,58 - 54,-4,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,340,6,17,3,11:29 PM,9:21,NUGGETS T.Foul (Def. 3 Sec Jokic ) (J.Williams),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,341,3,16,3,11:29 PM,9:21,,,Reaves Free Throw Technical (9 PTS),59 - 54,-5,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0042300155,342,2,1,3,11:30 PM,9:16,,,MISS Hachimura 24' 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,343,4,0,3,11:30 PM,9:10,Jokic REBOUND (Off:1 Def:12),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,344,2,6,3,11:30 PM,9:03,MISS Murray 2' Driving Layup,,Reaves BLOCK (2 BLK),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,346,4,0,3,11:30 PM,9:03,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,348,1,1,3,11:30 PM,8:55,,,Russell 26' 3PT Jump Shot (10 PTS) (James 8 AST),62 - 54,-8,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,350,9,1,3,11:30 PM,8:52,NUGGETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,351,1,63,3,11:34 PM,8:32,Murray 13' Fadeaway Jumper (18 PTS),,,62 - 56,-6,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,352,2,1,3,11:35 PM,8:16,,,MISS Russell 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,353,4,0,3,11:35 PM,8:12,Jokic REBOUND (Off:1 Def:13),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,354,2,2,3,11:35 PM,8:09,MISS Caldwell-Pope 25' 3PT Running Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,355,4,0,3,11:35 PM,8:06,Gordon REBOUND (Off:3 Def:5),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,356,5,4,3,11:35 PM,8:01,Jokic Traveling Turnover (P5.T10),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,357,6,2,3,11:35 PM,7:45,Caldwell-Pope S.FOUL (P2.T1) (G.Petraitis),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,359,3,11,3,11:36 PM,7:45,,,MISS James Free Throw 1 of 2,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,360,4,1,3,11:36 PM,7:45,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,361,3,12,3,11:36 PM,7:45,,,James Free Throw 2 of 2 (13 PTS),63 - 56,-7,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,362,1,86,3,11:37 PM,7:29,Jokic 11' Turnaround Fadeaway (10 PTS),,,63 - 58,-5,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,363,6,2,3,11:37 PM,7:13,Gordon S.FOUL (P2.T2) (G.Petraitis),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,365,3,13,3,11:37 PM,7:13,,,MISS Reaves Free Throw 1 of 3,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,366,4,1,3,11:37 PM,7:13,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300155,367,3,14,3,11:38 PM,7:13,,,MISS Reaves Free Throw 2 of 3,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,368,4,1,3,11:38 PM,7:13,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300155,369,3,15,3,11:38 PM,7:13,,,Reaves Free Throw 3 of 3 (10 PTS),64 - 58,-6,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,370,2,79,3,11:38 PM,6:54,MISS Murray 16' Pullup Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,371,4,0,3,11:38 PM,6:52,,,Davis REBOUND (Off:2 Def:8),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,372,1,1,3,11:38 PM,6:46,,,James 26' 3PT Jump Shot (16 PTS) (Reaves 2 AST),67 - 58,-9,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,374,1,78,3,11:39 PM,6:30,Jokic 7' Floating Jump Shot (12 PTS) (Murray 3 AST),,,67 - 60,-7,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,376,1,6,3,11:39 PM,6:14,,,Hachimura 3' Driving Layup (11 PTS) (Reaves 3 AST),69 - 60,-9,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,378,2,1,3,11:39 PM,6:00,MISS Porter Jr. 26' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,379,4,0,3,11:39 PM,6:00,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,380,6,3,3,11:39 PM,6:00,,,James L.B.FOUL (P3.T2) (J.Williams),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,382,8,0,3,11:39 PM,6:00,,,SUB: Vincent FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,384,1,1,3,11:40 PM,5:47,Jokic 25' 3PT Jump Shot (15 PTS) (Caldwell-Pope 2 AST),,,69 - 63,-6,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,386,2,98,3,11:40 PM,5:22,,,MISS Hachimura 1' Cutting Layup Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,387,4,0,3,11:40 PM,5:22,Murray REBOUND (Off:0 Def:2),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,388,2,2,3,11:40 PM,5:16,MISS Caldwell-Pope 25' 3PT Running Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,389,4,0,3,11:40 PM,5:13,Caldwell-Pope REBOUND (Off:1 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,390,1,75,3,11:40 PM,5:12,Caldwell-Pope 1' Driving Finger Roll Layup (2 PTS),,,69 - 65,-4,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,391,2,79,3,11:41 PM,4:47,,,MISS Reaves 26' 3PT Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,392,4,0,3,11:41 PM,4:45,Jokic REBOUND (Off:1 Def:14),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,393,5,45,3,11:41 PM,4:43,Jokic Out of Bounds - Bad Pass Turnover Turnover (P6.T11),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,394,1,108,3,11:42 PM,4:29,,,Hachimura 1' Cutting Dunk Shot (13 PTS) (Davis 3 AST),71 - 65,-6,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,396,1,6,3,11:42 PM,4:14,Porter Jr. 3' Driving Layup (15 PTS) (Caldwell-Pope 3 AST),,,71 - 67,-4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,398,2,79,3,11:42 PM,4:00,,,MISS James 26' 3PT Pullup Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,399,4,0,3,11:42 PM,3:56,Porter Jr. REBOUND (Off:0 Def:3),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,401,1,1,3,11:42 PM,3:49,Porter Jr. 25' 3PT Jump Shot (18 PTS) (Jokic 7 AST),,,71 - 70,-1,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,403,6,2,3,11:42 PM,3:49,,,Davis S.FOUL (P2.T3) (K.Scott),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,405,8,0,3,11:43 PM,3:49,,,SUB: Dinwiddie FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,406,8,0,3,11:43 PM,3:49,,,SUB: Russell FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,407,8,0,3,11:43 PM,3:49,,,SUB: Prince FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,411,8,0,3,11:43 PM,3:49,,,SUB: Hachimura FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,413,3,10,3,11:43 PM,3:49,MISS Porter Jr. Free Throw 1 of 1,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,414,4,0,3,11:43 PM,3:49,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300155,415,2,101,3,11:44 PM,3:28,,,MISS James 12' Driving Floating Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,416,4,0,3,11:44 PM,3:24,Gordon REBOUND (Off:3 Def:6),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,417,1,41,3,11:44 PM,3:19,Jokic 2' Running Layup (17 PTS) (Gordon 3 AST),,,71 - 72,1,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,419,2,1,3,11:44 PM,3:02,,,MISS Dinwiddie 25' 3PT Jump Shot,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,420,4,0,3,11:44 PM,3:00,Caldwell-Pope REBOUND (Off:1 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,421,1,75,3,11:44 PM,2:49,Murray 2' Driving Finger Roll Layup (20 PTS) (Jokic 8 AST),,,71 - 74,3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,423,9,1,3,11:45 PM,2:49,,,Lakers Timeout: Regular (Reg.5 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,424,8,0,3,11:46 PM,2:49,SUB: Jackson FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,425,8,0,3,11:46 PM,2:49,,,SUB: Hayes FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,428,1,102,3,11:46 PM,2:46,,,James 4' Driving Floating Bank Jump Shot (18 PTS) (Dinwiddie 3 AST),73 - 74,1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,429,6,2,3,11:46 PM,2:46,Jackson S.FOUL (P2.T3) (G.Petraitis),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,431,3,10,3,11:47 PM,2:46,,,James Free Throw 1 of 1 (19 PTS),74 - 74,TIE,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,433,1,75,3,11:47 PM,2:33,Jokic 1' Driving Finger Roll Layup (19 PTS) (Jackson 1 AST),,,74 - 76,2,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,435,6,4,3,11:47 PM,2:18,,,Hayes OFF.Foul (P1) (K.Scott),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,437,5,37,3,11:47 PM,2:18,,,Hayes Offensive Foul Turnover (P2.T6),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042300155,438,2,80,3,11:48 PM,1:55,MISS Jokic 27' 3PT Step Back Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,439,4,0,3,11:48 PM,1:52,Gordon REBOUND (Off:4 Def:6),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,440,2,1,3,11:48 PM,1:49,MISS Jackson 25' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,441,4,0,3,11:48 PM,1:44,,,James REBOUND (Off:1 Def:5),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,442,2,41,3,11:48 PM,1:41,,,MISS James 3' Running Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,443,4,0,3,11:48 PM,1:39,Jackson REBOUND (Off:0 Def:1),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,444,1,2,3,11:48 PM,1:35,Porter Jr. 24' 3PT Running Jump Shot (21 PTS) (Gordon 4 AST),,,74 - 79,5,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,446,1,75,3,11:49 PM,1:17,,,James 1' Driving Finger Roll Layup (21 PTS),76 - 79,3,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,447,6,2,3,11:49 PM,1:09,,,Hayes S.FOUL (P2.T4) (K.Scott),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,449,3,11,3,11:49 PM,1:09,Porter Jr. Free Throw 1 of 2 (22 PTS),,,76 - 80,4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,450,3,12,3,11:50 PM,1:09,Porter Jr. Free Throw 2 of 2 (23 PTS),,,76 - 81,5,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,451,1,1,3,11:50 PM,0:53,,,Dinwiddie 24' 3PT Jump Shot (6 PTS) (Russell 4 AST),79 - 81,2,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,453,2,79,3,11:51 PM,0:33,MISS Jackson 28' 3PT Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,454,4,0,3,11:51 PM,0:25,,,Hayes REBOUND (Off:1 Def:4),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,455,5,2,3,11:51 PM,0:08,Caldwell-Pope STEAL (1 STL),,Russell Lost Ball Turnover (P2.T7),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,457,5,45,3,11:51 PM,0:03,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,458,8,0,3,11:51 PM,0:03,SUB: Watson FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,459,8,0,3,11:51 PM,0:03,,,SUB: Reaves FOR Hayes,,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,462,2,79,3,11:52 PM,0:00,,,MISS Reaves 36' 3PT Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,463,4,0,3,11:52 PM,0:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,464,13,0,3,11:52 PM,0:00,,End of 3rd Period (11:52 PM EST),,79 - 81,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042300155,473,12,0,4,11:55 PM,12:00,,Start of 4th Period (11:55 PM EST),,79 - 81,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,474,1,1,4,11:56 PM,11:48,Watson 3PT Jump Shot (3 PTS) (Murray 4 AST),,,79 - 84,5,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,476,6,2,4,11:56 PM,11:32,Murray S.FOUL (P2.T1) (J.Williams),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,478,3,11,4,11:56 PM,11:32,,,Prince Free Throw 1 of 2 (3 PTS),80 - 84,4,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,479,3,12,4,11:57 PM,11:32,,,Prince Free Throw 2 of 2 (4 PTS),81 - 84,3,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,480,2,80,4,11:57 PM,11:12,MISS Jackson 26' 3PT Step Back Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,481,4,0,4,11:57 PM,11:08,,,Prince REBOUND (Off:0 Def:1),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,482,2,47,4,11:58 PM,10:52,,,MISS Davis 8' Turnaround Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,483,4,0,4,11:58 PM,10:50,Gordon REBOUND (Off:4 Def:7),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,484,2,79,4,11:58 PM,10:42,MISS Jackson 8' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,485,4,0,4,11:58 PM,10:40,,,Davis REBOUND (Off:2 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,486,6,2,4,11:58 PM,10:31,Porter Jr. S.FOUL (P2.T2) (G.Petraitis),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,488,3,11,4,11:58 PM,10:31,,,MISS Dinwiddie Free Throw 1 of 2,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,489,4,1,4,11:58 PM,10:31,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,492,3,12,4,11:58 PM,10:31,,,MISS Dinwiddie Free Throw 2 of 2,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,490,8,0,4,11:59 PM,10:31,,,SUB: James FOR Prince,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,493,4,0,4,11:58 PM,10:29,Jackson REBOUND (Off:0 Def:2),,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,494,1,1,4,11:59 PM,10:18,Murray 24' 3PT Jump Shot (23 PTS) (Gordon 5 AST),,,81 - 87,6,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,496,6,2,4,11:59 PM,10:00,Watson S.FOUL (P1.T3) (K.Scott),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,498,3,11,4,12:00 AM,10:00,,,Davis Free Throw 1 of 2 (17 PTS),82 - 87,5,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,499,3,12,4,12:00 AM,10:00,,,MISS Davis Free Throw 2 of 2,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,500,4,0,4,12:00 AM,9:58,,,Hachimura REBOUND (Off:4 Def:1),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,501,5,11,4,12:01 AM,9:45,,,Lakers Turnover: Shot Clock (T#8),,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300155,502,2,1,4,12:01 AM,9:35,MISS Jackson 27' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,503,4,0,4,12:01 AM,9:31,,,Davis REBOUND (Off:2 Def:10),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,504,1,79,4,12:01 AM,9:25,,,James 27' 3PT Pullup Jump Shot (24 PTS),85 - 87,2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,505,6,1,4,12:02 AM,9:03,,,Dinwiddie P.FOUL (P1.T1) (K.Scott),,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,507,8,0,4,12:02 AM,9:03,SUB: Jokic FOR Jackson,,,,,4,202704,Reggie Jackson,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,508,8,0,4,12:02 AM,9:03,SUB: Caldwell-Pope FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,509,8,0,4,12:02 AM,9:03,,,SUB: Reaves FOR Dinwiddie,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,513,2,102,4,12:02 AM,8:49,MISS Porter Jr. 3' Driving Floating Bank Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,514,4,0,4,12:02 AM,8:49,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,515,5,11,4,12:03 AM,8:49,NUGGETS Turnover: Shot Clock (T#13),,,,,2,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0042300155,516,1,108,4,12:03 AM,8:33,,,Hachimura 1' Cutting Dunk Shot (15 PTS) (James 9 AST),87 - 87,TIE,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,518,9,1,4,12:03 AM,8:30,NUGGETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,519,8,0,4,12:06 AM,8:30,SUB: Gordon FOR Watson,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0042300155,521,2,101,4,12:07 AM,8:11,MISS Jokic 5' Driving Floating Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,522,4,0,4,12:07 AM,8:09,,,Davis REBOUND (Off:2 Def:11),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,523,1,6,4,12:07 AM,7:55,,,James 1' Driving Layup (26 PTS) (Davis 4 AST),89 - 87,-2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,524,6,2,4,12:07 AM,7:55,Caldwell-Pope S.FOUL (P3.T4) (K.Scott),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,526,3,10,4,12:08 AM,7:55,,,MISS James Free Throw 1 of 1,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,527,4,0,4,12:08 AM,7:53,Porter Jr. REBOUND (Off:0 Def:4),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,529,1,98,4,12:08 AM,7:39,Jokic 1' Cutting Layup Shot (21 PTS) (Murray 5 AST),,,89 - 89,TIE,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,531,2,1,4,12:08 AM,7:13,,,MISS James 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,532,4,0,4,12:09 AM,7:09,Gordon REBOUND (Off:4 Def:8),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,533,2,5,4,12:09 AM,6:54,MISS Gordon 2' Layup,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,534,4,0,4,12:09 AM,6:53,,,James REBOUND (Off:1 Def:6),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,535,1,76,4,12:09 AM,6:48,,,Russell 2' Running Finger Roll Layup (12 PTS) (James 10 AST),91 - 89,-2,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,536,2,73,4,12:09 AM,6:31,MISS Murray 2' Driving Reverse Layup,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,538,4,0,4,12:09 AM,6:30,,,James REBOUND (Off:1 Def:7),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,539,5,2,4,12:09 AM,6:28,,,James Lost Ball Turnover (P1.T9),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,541,6,3,4,12:09 AM,6:28,,,James L.B.FOUL (P4.T2) (J.Williams),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0042300155,544,2,71,4,12:10 AM,6:16,MISS Murray 6' Finger Roll Layup,,Davis BLOCK (1 BLK),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,546,4,0,4,12:10 AM,6:15,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,548,2,102,4,12:10 AM,6:08,MISS Murray 13' Driving Floating Bank Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,549,4,0,4,12:10 AM,6:04,Murray REBOUND (Off:1 Def:2),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,550,1,1,4,12:10 AM,6:02,Caldwell-Pope 25' 3PT Jump Shot (5 PTS) (Murray 6 AST),,,91 - 92,1,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,552,2,1,4,12:11 AM,5:44,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,553,4,0,4,12:11 AM,5:41,,,Davis REBOUND (Off:3 Def:11),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,554,2,1,4,12:11 AM,5:40,,,MISS Russell 24' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,555,4,0,4,12:11 AM,5:38,Jokic REBOUND (Off:1 Def:15),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,556,5,1,4,12:11 AM,5:35,Jokic Bad Pass Turnover (P7.T14),,James STEAL (4 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,558,1,76,4,12:11 AM,5:29,,,Reaves 2' Running Finger Roll Layup (12 PTS) (Russell 5 AST),93 - 92,-1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,560,7,2,4,12:11 AM,5:29,Gordon Violation:Defensive Goaltending (J.Williams),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0042300155,561,1,1,4,12:11 AM,5:18,Porter Jr. 25' 3PT Jump Shot (26 PTS) (Murray 7 AST),,,93 - 95,2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,563,2,79,4,12:12 AM,4:53,,,MISS Hachimura 18' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,564,4,0,4,12:12 AM,4:50,Jokic REBOUND (Off:1 Def:16),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,565,2,1,4,12:12 AM,4:42,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,566,4,0,4,12:12 AM,4:37,,,Davis REBOUND (Off:3 Def:12),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,567,1,41,4,12:12 AM,4:31,,,Reaves 3' Running Layup (14 PTS),95 - 95,TIE,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,568,1,108,4,12:12 AM,4:10,Murray 1' Cutting Dunk Shot (25 PTS) (Jokic 9 AST),,,95 - 97,2,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,570,1,79,4,12:13 AM,3:58,,,Reaves 11' Pullup Jump Shot (16 PTS),97 - 97,TIE,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,571,1,75,4,12:13 AM,3:46,Murray 3' Driving Finger Roll Layup (27 PTS),,,97 - 99,2,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,572,9,1,4,12:13 AM,3:37,,,Lakers Timeout: Regular (Reg.6 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,573,1,75,4,12:17 AM,3:28,,,Russell 2' Driving Finger Roll Layup (14 PTS) (James 11 AST),99 - 99,TIE,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,580,2,6,4,12:17 AM,3:05,MISS Jokic 3' Driving Layup,,Davis BLOCK (2 BLK),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0042300155,582,4,0,4,12:17 AM,3:05,,,James REBOUND (Off:1 Def:8),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,577,9,1,4,12:18 AM,3:05,,,Lakers Timeout: Regular (Reg.7 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,579,18,5,4,12:19 AM,3:05,,Instant Replay4th Period (12:19 AM EST),,99 - 99,TIE,0,575,,,,,,0,0,,,,,,1,0,,,,,,1
+0042300155,583,2,1,4,12:21 AM,2:46,,,MISS Reaves 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,584,4,0,4,12:21 AM,2:42,Jokic REBOUND (Off:1 Def:17),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,585,1,101,4,12:21 AM,2:34,Jokic 6' Driving Floating Jump Shot (23 PTS),,,99 - 101,2,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,586,1,79,4,12:21 AM,2:12,,,Reaves 27' 3PT Pullup Jump Shot (19 PTS) (Russell 6 AST),102 - 101,-1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,588,2,79,4,12:22 AM,1:48,MISS Caldwell-Pope 13' Pullup Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,589,4,0,4,12:22 AM,1:46,Jokic REBOUND (Off:2 Def:17),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,590,1,72,4,12:22 AM,1:46,Jokic Putback Layup (25 PTS),,,102 - 103,1,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,591,1,6,4,12:22 AM,1:33,,,James 2' Driving Layup (28 PTS) (Reaves 4 AST),104 - 103,-1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042300155,593,2,80,4,12:22 AM,1:13,MISS Murray 16' Step Back Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,594,4,0,4,12:22 AM,1:13,Gordon REBOUND (Off:5 Def:8),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,595,1,1,4,12:23 AM,1:07,Murray 25' 3PT Jump Shot (30 PTS) (Gordon 6 AST),,,104 - 106,2,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0042300155,597,2,86,4,12:23 AM,0:55,,,MISS Reaves 5' Turnaround Fadeaway Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,598,4,0,4,12:23 AM,0:53,Jokic REBOUND (Off:2 Def:18),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,599,2,47,4,12:23 AM,0:39,MISS Jokic 4' Turnaround Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,600,4,0,4,12:23 AM,0:38,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,602,6,2,4,12:24 AM,0:26,Porter Jr. S.FOUL (P3.PN) (K.Scott),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042300155,604,3,11,4,12:24 AM,0:26,,,James Free Throw 1 of 2 (29 PTS),105 - 106,1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,605,8,0,4,12:24 AM,0:26,,,SUB: Prince FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042300155,607,3,12,4,12:25 AM,0:26,,,James Free Throw 2 of 2 (30 PTS),106 - 106,TIE,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,608,1,79,4,12:25 AM,0:04,Murray 14' Pullup Jump Shot (32 PTS),,,106 - 108,2,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0042300155,609,2,1,4,12:25 AM,0:00,,,MISS Prince 41' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042300155,610,4,0,4,12:25 AM,0:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042300155,611,13,0,4,12:26 AM,0:00,,End of 4th Period (12:26 AM EST),,106 - 108,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

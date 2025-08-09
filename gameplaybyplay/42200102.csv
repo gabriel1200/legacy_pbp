@@ -1,0 +1,434 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042200102,2,12,0,1,9:06 PM,12:00,,Start of 1st Period (9:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,7,7,1,1,9:06 PM,12:00,BUCKS Violation: Delay of game Violation,,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0042200102,4,10,0,1,9:07 PM,12:00,Jump Ball Lopez vs. Adebayo: Tip to Butler,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1
+0042200102,8,2,47,1,9:07 PM,11:46,,,MISS Adebayo 19' Turnaround Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,9,4,0,1,9:07 PM,11:43,Portis REBOUND (Off:0 Def:1),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,10,1,108,1,9:07 PM,11:31,Lopez 2' Cutting Dunk Shot (2 PTS) (Portis 1 AST),,,0 - 2,2,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,12,1,44,1,9:07 PM,11:23,,,Adebayo 2' Reverse Layup (2 PTS) (Vincent 1 AST),2 - 2,TIE,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,15,2,1,1,9:07 PM,11:09,MISS Holiday 26' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,16,4,0,1,9:07 PM,11:06,,,Butler REBOUND (Off:0 Def:1),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,17,1,1,1,9:08 PM,10:53,,,Strus 3PT Jump Shot (3 PTS) (Adebayo 1 AST),5 - 2,-3,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,19,2,101,1,9:08 PM,10:32,MISS Middleton 2' Driving Floating Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,20,4,0,1,9:08 PM,10:31,Lopez REBOUND (Off:1 Def:0),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,21,1,97,1,9:08 PM,10:31,Lopez Tip Layup Shot (4 PTS),,,5 - 4,-1,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,22,2,1,1,9:08 PM,10:16,,,MISS Adebayo 17' Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,23,4,0,1,9:08 PM,10:13,Portis REBOUND (Off:0 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,24,1,1,1,9:09 PM,10:03,Portis 3PT Jump Shot (3 PTS) (Holiday 1 AST),,,5 - 7,2,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,26,2,1,1,9:09 PM,9:50,,,MISS Vincent 27' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,27,4,0,1,9:09 PM,9:47,,,Strus REBOUND (Off:1 Def:0),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,28,1,98,1,9:09 PM,9:44,,,Butler 1' Cutting Layup Shot (2 PTS) (Strus 1 AST),7 - 7,TIE,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,30,2,47,1,9:09 PM,9:26,MISS Middleton 12' Turnaround Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,31,4,0,1,9:09 PM,9:26,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,32,6,3,1,9:09 PM,9:26,Lopez L.B.FOUL (P1.T1) (J.Goble),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,34,2,1,1,9:10 PM,9:16,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,35,4,0,1,9:10 PM,9:12,Portis REBOUND (Off:0 Def:3),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,36,2,1,1,9:10 PM,8:54,MISS Allen 3PT Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,37,4,0,1,9:10 PM,8:52,Portis REBOUND (Off:1 Def:3),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,38,2,63,1,9:10 PM,8:51,MISS Portis 6' Fadeaway Jumper,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,39,4,0,1,9:10 PM,8:48,,,Adebayo REBOUND (Off:0 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,40,2,78,1,9:10 PM,8:32,,,MISS Adebayo 13' Floating Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,41,4,0,1,9:10 PM,8:29,Holiday REBOUND (Off:0 Def:1),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,42,1,76,1,9:10 PM,8:24,Holiday 2' Running Finger Roll Layup (2 PTS),,,7 - 9,2,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,43,1,79,1,9:11 PM,8:10,,,Butler 18' Pullup Jump Shot (4 PTS),9 - 9,TIE,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,44,1,52,1,9:11 PM,7:52,Lopez 1' Alley Oop Dunk (6 PTS) (Holiday 2 AST),,,9 - 11,2,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,46,1,98,1,9:11 PM,7:39,,,Adebayo 2' Cutting Layup Shot (4 PTS) (Vincent 2 AST),11 - 11,TIE,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,48,1,43,1,9:11 PM,7:25,Lopez 2' Alley Oop Layup (8 PTS) (Middleton 1 AST),,,11 - 13,2,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,50,2,6,1,9:12 PM,7:13,Lopez BLOCK (1 BLK),,MISS Vincent 2' Driving Layup,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0042200102,52,4,0,1,9:12 PM,7:12,Portis REBOUND (Off:1 Def:4),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,53,2,76,1,9:12 PM,7:03,MISS Middleton 6' Running Finger Roll Layup,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,54,4,0,1,9:12 PM,7:00,Middleton REBOUND (Off:1 Def:0),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,55,1,72,1,9:12 PM,7:00,Middleton Putback Layup (2 PTS),,,11 - 15,4,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,56,1,79,1,9:12 PM,6:46,,,Vincent 26' 3PT Pullup Jump Shot (3 PTS),14 - 15,1,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,57,2,63,1,9:12 PM,6:21,MISS Lopez 12' Fadeaway Jumper,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,58,4,0,1,9:13 PM,6:14,,,Robinson REBOUND (Off:0 Def:1),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,59,2,1,1,9:13 PM,6:08,,,MISS Adebayo 14' Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,60,4,0,1,9:13 PM,6:05,Portis REBOUND (Off:1 Def:5),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,61,2,76,1,9:13 PM,6:01,MISS Holiday 4' Running Finger Roll Layup,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,62,4,0,1,9:13 PM,6:01,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,63,6,3,1,9:13 PM,6:01,,,Robinson L.B.FOUL (P1.T1) (B.Forte),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,65,9,1,1,9:13 PM,6:01,BUCKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,66,8,0,1,9:15 PM,6:01,SUB: Ingles FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,68,1,1,1,9:17 PM,5:55,Allen 28' 3PT Jump Shot (3 PTS) (Portis 2 AST),,,14 - 18,4,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,70,6,2,1,9:17 PM,5:55,,,Robinson S.FOUL (P2.T2) (T.Maddox),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,72,3,10,1,9:17 PM,5:55,MISS Allen Free Throw 1 of 1,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,73,4,0,1,9:17 PM,5:52,,,Adebayo REBOUND (Off:0 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,74,5,4,1,9:18 PM,5:41,,,Robinson Traveling Turnover (P1.T1),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,75,8,0,1,9:18 PM,5:41,,,SUB: Lowry FOR Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,77,2,47,1,9:18 PM,5:27,MISS Allen 15' Turnaround Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,78,4,0,1,9:18 PM,5:24,,,Butler REBOUND (Off:0 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,79,2,1,1,9:18 PM,5:14,,,MISS Lowry 26' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,80,4,0,1,9:18 PM,5:10,Holiday REBOUND (Off:0 Def:2),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,81,1,44,1,9:19 PM,4:59,Portis 2' Reverse Layup (5 PTS) (Ingles 1 AST),,,14 - 20,6,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,83,2,1,1,9:19 PM,4:50,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,84,4,0,1,9:19 PM,4:48,Portis REBOUND (Off:1 Def:6),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,85,1,98,1,9:19 PM,4:38,Holiday 4' Cutting Layup Shot (4 PTS) (Middleton 2 AST),,,14 - 22,8,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,87,6,2,1,9:19 PM,4:23,Holiday S.FOUL (P1.T2) (J.Goble),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,89,3,11,1,9:20 PM,4:23,,,Butler Free Throw 1 of 2 (5 PTS),15 - 22,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,98,3,12,1,9:20 PM,4:23,,,MISS Butler Free Throw 2 of 2,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,90,8,0,1,9:20 PM,4:23,SUB: Lopez FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,91,8,0,1,9:20 PM,4:23,SUB: Crowder FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,92,8,0,1,9:20 PM,4:23,,,SUB: Martin FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,93,8,0,1,9:20 PM,4:23,,,SUB: Love FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,99,4,0,1,9:20 PM,4:21,Crowder REBOUND (Off:0 Def:1),,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,100,1,108,1,9:20 PM,4:10,Lopez 3' Cutting Dunk Shot (10 PTS) (Holiday 3 AST),,,15 - 24,9,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,102,9,1,1,9:21 PM,4:09,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,103,2,63,1,9:25 PM,3:49,,,MISS Strus 3PT Fadeaway Jumper,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,104,4,0,1,9:25 PM,3:45,Ingles REBOUND (Off:0 Def:1),,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,105,5,1,1,9:25 PM,3:35,Lopez Bad Pass Turnover (P1.T1),,Lowry STEAL (1 STL),,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,107,1,98,1,9:25 PM,3:13,,,Butler 1' Cutting Layup Shot (7 PTS) (Love 1 AST),17 - 24,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,109,2,6,1,9:25 PM,3:01,MISS Holiday 3' Driving Layup,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,110,4,0,1,9:25 PM,2:58,,,Strus REBOUND (Off:1 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,111,6,2,1,9:26 PM,2:49,Crowder S.FOUL (P1.T3) (J.Goble),,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,113,3,11,1,9:26 PM,2:49,,,Martin Free Throw 1 of 2 (1 PTS),18 - 24,6,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,114,8,0,1,9:26 PM,2:49,SUB: Connaughton FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,115,8,0,1,9:26 PM,2:49,,,SUB: Oladipo FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,118,3,12,1,9:27 PM,2:49,,,Martin Free Throw 2 of 2 (2 PTS),19 - 24,5,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,119,1,1,1,9:27 PM,2:26,Holiday 24' 3PT Jump Shot (7 PTS) (Ingles 2 AST),,,19 - 27,8,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,121,2,47,1,9:27 PM,2:18,,,MISS Lowry 15' Turnaround Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,122,4,0,1,9:27 PM,2:14,Ingles REBOUND (Off:0 Def:2),,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,123,1,79,1,9:28 PM,1:53,Holiday 12' Pullup Jump Shot (9 PTS),,,19 - 29,10,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,124,1,1,1,9:28 PM,1:40,,,Butler 25' 3PT Jump Shot (10 PTS),22 - 29,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,125,2,1,1,9:28 PM,1:22,MISS Crowder 24' 3PT Jump Shot,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,126,4,0,1,9:28 PM,1:22,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,127,6,3,1,9:28 PM,1:22,,,Lowry L.B.FOUL (P1.T3) (J.Goble),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,129,2,101,1,9:29 PM,1:13,MISS Crowder 3' Driving Floating Jump Shot,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,130,4,0,1,9:29 PM,1:12,Lopez REBOUND (Off:2 Def:0),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,169,2,97,1,9:29 PM,1:12,MISS Lopez 2' Tip Layup Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,170,4,0,1,9:29 PM,1:10,,,Love REBOUND (Off:0 Def:1),,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,131,1,41,1,9:29 PM,1:04,,,Oladipo 1' Running Layup (2 PTS),24 - 29,5,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,132,6,2,1,9:29 PM,1:04,Connaughton S.FOUL (P1.T4) (J.Goble),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,134,3,10,1,9:29 PM,1:04,,,Oladipo Free Throw 1 of 1 (3 PTS),25 - 29,4,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,135,1,75,1,9:30 PM,0:52,Connaughton 2' Driving Finger Roll Layup (2 PTS) (Lopez 1 AST),,,25 - 31,6,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,137,1,6,1,9:30 PM,0:33,,,Butler 1' Driving Layup (12 PTS),27 - 31,4,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,138,6,2,1,9:30 PM,0:33,Crowder S.FOUL (P2.PN) (B.Forte),,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,140,8,0,1,9:30 PM,0:33,SUB: Carter FOR Crowder,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,142,3,10,1,9:30 PM,0:33,,,Butler Free Throw 1 of 1 (13 PTS),28 - 31,3,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,143,1,75,1,9:31 PM,0:26,Lopez 4' Driving Finger Roll Layup (12 PTS) (Carter 1 AST),,,28 - 33,5,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,145,5,4,1,9:31 PM,0:09,,,Lowry Traveling Turnover (P1.T2),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,146,7,1,1,9:31 PM,0:09,,,Heat Violation: Delay of game Violation,,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0042200102,147,1,96,1,9:32 PM,0:00,Lopez 9' Turnaround Bank Hook Shot (14 PTS) (Holiday 4 AST),,,28 - 35,7,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,149,18,0,1,9:32 PM,0:00,,Instant Replay1st Period (9:32 PM EST),,28 - 35,7,0,147,Jalen Rose,,,,,0,0,,,,,,1,0,,,,,,0
+0042200102,150,13,0,1,9:32 PM,0:00,,End of 1st Period (9:32 PM EST),,28 - 35,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042200102,161,12,0,2,9:35 PM,12:00,,Start of 2nd Period (9:35 PM EST),,28 - 35,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,162,1,98,2,9:36 PM,11:42,Allen 1' Cutting Layup Shot (5 PTS) (Connaughton 1 AST),,,28 - 37,9,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,164,1,79,2,9:36 PM,11:20,,,Lowry 15' Pullup Jump Shot (2 PTS),30 - 37,7,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,165,1,1,2,9:36 PM,11:02,Connaughton 26' 3PT Jump Shot (5 PTS) (Portis 3 AST),,,30 - 40,10,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,167,1,79,2,9:37 PM,10:43,,,Oladipo 18' Pullup Jump Shot (5 PTS),32 - 40,8,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,168,6,2,2,9:37 PM,10:35,,,Oladipo S.FOUL (P1.T1) (T.Maddox),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,172,3,11,2,9:37 PM,10:35,Middleton Free Throw 1 of 2 (3 PTS),,,32 - 41,9,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,173,3,12,2,9:37 PM,10:35,Middleton Free Throw 2 of 2 (4 PTS),,,32 - 42,10,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,174,2,98,2,9:38 PM,10:22,Portis BLOCK (1 BLK),,MISS Martin 3' Cutting Layup Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1
+0042200102,176,4,0,2,9:38 PM,10:18,Carter REBOUND (Off:0 Def:1),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,177,2,1,2,9:38 PM,10:11,MISS Portis 11' Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,178,4,0,2,9:38 PM,10:09,,,Oladipo REBOUND (Off:0 Def:1),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,179,6,4,2,9:38 PM,9:57,,,Martin OFF.Foul (P1) (T.Maddox),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,181,5,37,2,9:38 PM,9:57,,,Martin Offensive Foul Turnover (P1.T3),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,183,5,45,2,9:39 PM,9:39,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,184,6,3,2,9:39 PM,9:39,Portis L.B.FOUL (P1.T1) (J.Goble),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,186,6,11,2,9:39 PM,9:39,Portis T.FOUL (P1.T1) (J.Goble),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042200102,187,3,16,2,9:40 PM,9:39,,,Strus Free Throw Technical (4 PTS),33 - 42,9,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,188,1,1,2,9:40 PM,9:28,,,Oladipo 16' Jump Shot (7 PTS),35 - 42,7,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,189,1,1,2,9:40 PM,9:15,Connaughton 28' 3PT Jump Shot (8 PTS) (Portis 4 AST),,,35 - 45,10,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,191,5,4,2,9:41 PM,9:01,,,Adebayo Traveling Turnover (P1.T4),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,192,1,80,2,9:41 PM,8:53,Middleton 26' 3PT Step Back Jump Shot (7 PTS),,,35 - 48,13,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,193,2,78,2,9:41 PM,8:43,,,MISS Oladipo 8' Floating Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,194,4,0,2,9:41 PM,8:41,,,Adebayo REBOUND (Off:1 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,195,2,97,2,9:41 PM,8:41,Portis BLOCK (2 BLK),,MISS Adebayo Tip Layup Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1
+0042200102,196,4,0,2,9:41 PM,8:39,,,Oladipo REBOUND (Off:1 Def:1),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,197,1,5,2,9:41 PM,8:29,,,Adebayo 1' Layup (6 PTS) (Martin 1 AST),37 - 48,11,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,199,1,79,2,9:41 PM,8:21,Middleton 26' 3PT Pullup Jump Shot (10 PTS),,,37 - 51,14,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,200,1,1,2,9:42 PM,8:09,,,Adebayo 11' Jump Shot (8 PTS) (Lowry 1 AST),39 - 51,12,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,202,2,1,2,9:42 PM,7:50,MISS Carter 25' 3PT Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,203,4,0,2,9:42 PM,7:47,,,Martin REBOUND (Off:0 Def:1),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,204,1,1,2,9:42 PM,7:37,,,Adebayo 16' Jump Shot (10 PTS) (Lowry 2 AST),41 - 51,10,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,206,2,79,2,9:42 PM,7:18,MISS Allen 26' 3PT Pullup Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,207,4,0,2,9:42 PM,7:15,,,Lowry REBOUND (Off:0 Def:1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,208,2,103,2,9:43 PM,7:13,Connaughton BLOCK (1 BLK),,MISS Lowry 26' 3PT Running Pull-Up Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1
+0042200102,209,4,0,2,9:43 PM,7:09,Middleton REBOUND (Off:1 Def:1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,210,2,41,2,9:43 PM,7:04,MISS Middleton 5' Running Layup,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,211,4,0,2,9:43 PM,7:02,,,Lowry REBOUND (Off:0 Def:2),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,212,9,1,2,9:43 PM,6:51,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,214,8,0,2,9:46 PM,6:51,SUB: Lopez FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,215,8,0,2,9:46 PM,6:51,SUB: Ingles FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,216,8,0,2,9:46 PM,6:51,SUB: Holiday FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,217,8,0,2,9:46 PM,6:51,,,SUB: Love FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,218,8,0,2,9:46 PM,6:51,,,SUB: Butler FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,224,5,1,2,9:47 PM,6:38,Connaughton STEAL (1 STL),,Lowry Bad Pass Turnover (P2.T5),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,226,1,76,2,9:47 PM,6:35,Connaughton 2' Running Finger Roll Layup (10 PTS),,,41 - 53,12,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,227,2,63,2,9:47 PM,6:18,,,MISS Butler 15' Fadeaway Jumper,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,228,4,0,2,9:47 PM,6:16,Connaughton REBOUND (Off:0 Def:1),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,229,1,2,2,9:47 PM,6:10,Holiday 3PT Running Jump Shot (12 PTS) (Connaughton 2 AST),,,41 - 56,15,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,231,2,1,2,9:48 PM,5:57,,,MISS Oladipo 26' 3PT Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,232,4,0,2,9:48 PM,5:55,Ingles REBOUND (Off:0 Def:3),,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,233,2,98,2,9:48 PM,5:48,MISS Lopez 6' Cutting Layup Shot,,Love BLOCK (1 BLK),,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,1
+0042200102,234,4,0,2,9:48 PM,5:47,Lopez REBOUND (Off:3 Def:0),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,235,1,72,2,9:48 PM,5:46,Lopez 3' Putback Layup (16 PTS),,,41 - 58,17,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,236,6,2,2,9:48 PM,5:46,,,Strus S.FOUL (P1.T2) (B.Forte),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,238,8,0,2,9:48 PM,5:46,,,SUB: Vincent FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,239,8,0,2,9:48 PM,5:46,,,SUB: Adebayo FOR Love,,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,242,3,10,2,9:49 PM,5:46,Lopez Free Throw 1 of 1 (17 PTS),,,41 - 59,18,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,243,2,79,2,9:49 PM,5:35,,,MISS Vincent 27' 3PT Pullup Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,244,4,0,2,9:49 PM,5:32,Middleton REBOUND (Off:1 Def:2),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,245,1,2,2,9:49 PM,5:29,Connaughton 3PT Running Jump Shot (13 PTS) (Middleton 3 AST),,,41 - 62,21,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,247,9,1,2,9:49 PM,5:27,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,250,8,0,2,9:51 PM,5:27,SUB: Crowder FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,252,6,2,2,9:53 PM,5:11,Lopez S.FOUL (P2.T2) (B.Forte),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,254,3,11,2,9:53 PM,5:11,,,Butler Free Throw 1 of 2 (14 PTS),42 - 62,20,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,255,3,12,2,9:54 PM,5:11,,,Butler Free Throw 2 of 2 (15 PTS),43 - 62,19,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,256,1,57,2,9:54 PM,4:48,Holiday 1' Driving Hook Shot (14 PTS),,,43 - 64,21,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,257,2,1,2,9:54 PM,4:31,,,MISS Butler 25' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,258,4,0,2,9:54 PM,4:28,Connaughton REBOUND (Off:0 Def:2),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,259,1,79,2,9:55 PM,4:20,Ingles 7' Pullup Jump Shot (2 PTS),,,43 - 66,23,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,260,7,5,2,9:55 PM,4:13,Ingles Violation:Kicked Ball (B.Forte),,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0042200102,261,8,0,2,9:55 PM,4:13,SUB: Portis FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,263,2,1,2,9:55 PM,4:03,,,MISS Strus 27' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,264,4,0,2,9:55 PM,4:00,Holiday REBOUND (Off:0 Def:3),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,265,1,79,2,9:55 PM,3:55,Holiday 26' 3PT Pullup Jump Shot (17 PTS),,,43 - 69,26,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,266,5,1,2,9:56 PM,3:41,Ingles STEAL (1 STL),,Vincent Bad Pass Turnover (P1.T6),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,268,1,103,2,9:56 PM,3:35,Ingles 26' 3PT Running Pull-Up Jump Shot (5 PTS),,,43 - 72,29,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,269,2,1,2,9:56 PM,3:17,,,MISS Oladipo 27' 3PT Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,270,4,0,2,9:56 PM,3:15,Portis REBOUND (Off:1 Def:7),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,271,2,2,2,9:56 PM,3:11,MISS Lopez 25' 3PT Running Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,272,4,0,2,9:56 PM,3:09,Crowder REBOUND (Off:1 Def:1),,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,273,1,1,2,9:56 PM,3:05,Ingles 27' 3PT Jump Shot (8 PTS) (Crowder 1 AST),,,43 - 75,32,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,275,9,1,2,9:57 PM,3:04,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,276,8,0,2,9:58 PM,3:04,,,SUB: Martin FOR Oladipo,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,278,1,80,2,9:58 PM,2:46,,,Vincent 26' 3PT Step Back Jump Shot (6 PTS),46 - 75,29,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,279,6,1,2,9:58 PM,2:37,,,Adebayo P.FOUL (P1.T3) (J.Goble),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,281,1,75,2,9:59 PM,2:29,Holiday 6' Driving Finger Roll Layup (19 PTS),,,46 - 77,31,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,282,1,79,2,9:59 PM,2:17,,,Martin 16' Pullup Jump Shot (4 PTS),48 - 77,29,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,283,2,79,2,9:59 PM,2:02,MISS Holiday 27' 3PT Pullup Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,284,4,0,2,9:59 PM,1:59,,,Adebayo REBOUND (Off:1 Def:3),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,285,2,1,2,9:59 PM,1:52,,,MISS Adebayo 13' Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,286,4,0,2,10:00 PM,1:49,Portis REBOUND (Off:1 Def:8),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,287,5,1,2,10:00 PM,1:40,Ingles Bad Pass Turnover (P1.T3),,Martin STEAL (1 STL),,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,289,2,1,2,10:00 PM,1:32,,,MISS Martin 25' 3PT Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,290,4,0,2,10:00 PM,1:28,Holiday REBOUND (Off:0 Def:4),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,291,2,1,2,10:00 PM,1:13,MISS Ingles 28' 3PT Jump Shot,,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,292,4,0,2,10:00 PM,1:10,,,Strus REBOUND (Off:1 Def:2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,293,1,73,2,10:00 PM,0:59,,,Adebayo 1' Driving Reverse Layup (12 PTS),50 - 77,27,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,294,1,78,2,10:01 PM,0:49,Lopez 10' Floating Jump Shot (19 PTS) (Holiday 5 AST),,,50 - 79,29,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,296,1,79,2,10:01 PM,0:43,,,Vincent 25' 3PT Pullup Jump Shot (9 PTS),53 - 79,26,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,297,6,2,2,10:01 PM,0:43,Ingles S.FOUL (P1.T3) (T.Maddox),,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,299,8,0,2,10:01 PM,0:43,SUB: Allen FOR Ingles,,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,300,8,0,2,10:01 PM,0:43,SUB: Middleton FOR Crowder,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,303,3,10,2,10:01 PM,0:43,,,MISS Vincent Free Throw 1 of 1,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,304,4,0,2,10:01 PM,0:42,Lopez REBOUND (Off:3 Def:1),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,305,1,1,2,10:02 PM,0:30,Holiday 21' Jump Shot (21 PTS),,,53 - 81,28,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,306,1,75,2,10:02 PM,0:21,,,Vincent 2' Driving Finger Roll Layup (11 PTS),55 - 81,26,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,307,2,80,2,10:02 PM,0:01,MISS Holiday 25' 3PT Step Back Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,308,4,0,2,10:02 PM,0:01,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,309,13,0,2,10:02 PM,0:00,,End of 2nd Period (10:02 PM EST),,55 - 81,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042200102,312,12,0,3,10:18 PM,12:00,,Start of 3rd Period (10:18 PM EST),,55 - 81,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,313,5,2,3,10:18 PM,11:44,Holiday Lost Ball Turnover (P1.T4),,Butler STEAL (1 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,315,6,2,3,10:18 PM,11:39,Portis S.FOUL (P2.T1) (B.Forte),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,317,3,11,3,10:18 PM,11:39,,,Butler Free Throw 1 of 2 (16 PTS),56 - 81,25,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,318,3,12,3,10:19 PM,11:39,,,Butler Free Throw 2 of 2 (17 PTS),57 - 81,24,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,319,5,1,3,10:19 PM,11:20,Holiday Bad Pass Turnover (P2.T5),,Adebayo STEAL (1 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,321,1,1,3,10:19 PM,11:01,,,Vincent 27' 3PT Jump Shot (14 PTS) (Butler 1 AST),60 - 81,21,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,323,2,1,3,10:20 PM,10:47,MISS Holiday 27' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,324,4,0,3,10:20 PM,10:45,,,Adebayo REBOUND (Off:1 Def:4),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,325,1,1,3,10:20 PM,10:34,,,Adebayo 14' Jump Shot (14 PTS) (Butler 2 AST),62 - 81,19,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,327,9,1,3,10:20 PM,10:34,BUCKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,328,2,5,3,10:24 PM,10:21,MISS Lopez 3' Layup,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,329,4,0,3,10:24 PM,10:19,Portis REBOUND (Off:2 Def:8),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,330,1,1,3,10:24 PM,10:16,Holiday 25' 3PT Jump Shot (24 PTS) (Portis 5 AST),,,62 - 84,22,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,332,2,1,3,10:24 PM,10:01,,,MISS Vincent 27' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,333,4,0,3,10:24 PM,9:57,,,Strus REBOUND (Off:2 Def:2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,334,2,1,3,10:24 PM,9:55,,,MISS Robinson 27' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,335,4,0,3,10:24 PM,9:52,Portis REBOUND (Off:2 Def:9),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,336,1,79,3,10:24 PM,9:41,Middleton 11' Pullup Jump Shot (12 PTS),,,62 - 86,24,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,337,1,3,3,10:25 PM,9:31,,,Adebayo 8' Hook Shot (16 PTS) (Vincent 3 AST),64 - 86,22,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,339,6,2,3,10:25 PM,9:31,Holiday S.FOUL (P2.T2) (T.Maddox),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,341,3,10,3,10:25 PM,9:31,,,MISS Adebayo Free Throw 1 of 1,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,342,4,0,3,10:25 PM,9:26,Portis REBOUND (Off:2 Def:10),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,343,5,2,3,10:25 PM,9:24,Portis Lost Ball Turnover (P1.T6),,Strus STEAL (1 STL),,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,345,1,5,3,10:25 PM,9:17,,,Butler 3' Layup (19 PTS),66 - 86,20,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,346,1,75,3,10:26 PM,8:57,Middleton 2' Driving Finger Roll Layup (14 PTS) (Allen 1 AST),,,66 - 88,22,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,348,1,6,3,10:26 PM,8:48,,,Vincent 2' Driving Layup (16 PTS),68 - 88,20,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,349,7,2,3,10:26 PM,8:48,Lopez Violation:Defensive Goaltending (J.Goble),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0042200102,350,1,108,3,10:26 PM,8:32,Lopez 1' Cutting Dunk Shot (21 PTS) (Middleton 4 AST),,,68 - 90,22,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,352,1,1,3,10:27 PM,8:11,,,Butler 3PT Jump Shot (22 PTS) (Robinson 1 AST),71 - 90,19,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,354,1,1,3,10:27 PM,7:54,Allen 24' 3PT Jump Shot (8 PTS) (Holiday 6 AST),,,71 - 93,22,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,356,2,86,3,10:27 PM,7:39,,,MISS Butler 16' Turnaround Fadeaway Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,357,4,0,3,10:27 PM,7:36,Holiday REBOUND (Off:0 Def:5),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,358,1,41,3,10:27 PM,7:32,Middleton 1' Running Layup (16 PTS),,,71 - 95,24,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,359,5,21,3,10:28 PM,7:23,,,Adebayo Palming Turnover (P2.T7),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,360,8,0,3,10:28 PM,7:23,SUB: Ingles FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,362,1,1,3,10:28 PM,7:13,Allen 27' 3PT Jump Shot (11 PTS) (Holiday 7 AST),,,71 - 98,27,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,364,1,9,3,10:28 PM,6:50,,,Adebayo 2' Driving Dunk (18 PTS) (Butler 3 AST),73 - 98,25,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,366,5,2,3,10:29 PM,6:32,Lopez Lost Ball Turnover (P2.T7),,Butler STEAL (2 STL),,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,368,5,45,3,10:29 PM,6:28,,,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,369,8,0,3,10:29 PM,6:28,,,SUB: Lowry FOR Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,371,1,1,3,10:29 PM,6:16,Allen 30' 3PT Jump Shot (14 PTS) (Lopez 2 AST),,,73 - 101,28,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,374,2,63,3,10:30 PM,5:50,,,MISS Adebayo 18' Fadeaway Jumper,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,375,4,0,3,10:30 PM,5:46,Ingles REBOUND (Off:0 Def:4),,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,377,8,0,3,10:30 PM,5:38,,,SUB: Love FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,379,2,1,3,10:31 PM,5:26,MISS Holiday 19' Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,380,4,0,3,10:31 PM,5:23,,,Lowry REBOUND (Off:0 Def:3),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,381,5,1,3,10:31 PM,5:20,Lopez STEAL (1 STL),,Lowry Bad Pass Turnover (P3.T9),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,383,1,2,3,10:31 PM,5:13,Ingles 25' 3PT Running Jump Shot (11 PTS) (Holiday 8 AST),,,73 - 104,31,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,385,2,1,3,10:31 PM,5:00,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,386,4,0,3,10:31 PM,4:56,Allen REBOUND (Off:0 Def:1),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,387,5,1,3,10:31 PM,4:48,Middleton Bad Pass Turnover (P1.T8),,Strus STEAL (2 STL),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,389,2,1,3,10:31 PM,4:37,,,MISS Butler 27' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,390,4,0,3,10:32 PM,4:33,Middleton REBOUND (Off:1 Def:3),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,391,1,1,3,10:32 PM,4:24,Ingles 24' 3PT Jump Shot (14 PTS) (Middleton 5 AST),,,73 - 107,34,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,393,9,1,3,10:32 PM,4:23,,,Heat Timeout: Regular (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,394,8,0,3,10:35 PM,4:23,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,395,8,0,3,10:35 PM,4:23,SUB: Crowder FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,396,8,0,3,10:35 PM,4:23,,,SUB: Martin FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,400,2,3,3,10:36 PM,4:07,,,MISS Love 11' Hook Shot,,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,401,4,0,3,10:36 PM,4:04,Portis REBOUND (Off:2 Def:11),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,402,2,1,3,10:36 PM,3:57,MISS Allen 26' 3PT Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,403,4,0,3,10:36 PM,3:54,,,Love REBOUND (Off:0 Def:2),,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,404,2,103,3,10:36 PM,3:51,,,MISS Martin 28' 3PT Running Pull-Up Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,405,4,0,3,10:36 PM,3:49,,,Butler REBOUND (Off:1 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,406,6,14,3,10:36 PM,3:49,Crowder FLAGRANT.FOUL.TYPE1 (P3.T3) (B.Forte),,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,408,18,1,3,10:37 PM,3:49,,Instant Replay3rd Period (10:37 PM EST),,73 - 107,34,0,406,Shaquille O'Neal,,,,,0,0,,,,,,1,0,,,,,,0
+0042200102,425,8,0,3,10:38 PM,3:49,SUB: Connaughton FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,409,3,18,3,10:39 PM,3:49,,,MISS Butler Free Throw Flagrant 1 of 2,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0042200102,410,4,1,3,10:39 PM,3:49,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,411,3,19,3,10:39 PM,3:49,,,Butler Free Throw Flagrant 2 of 2 (23 PTS),74 - 107,33,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,412,1,1,3,10:39 PM,3:42,,,Butler 8' Jump Shot (25 PTS),76 - 107,31,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,413,6,2,3,10:39 PM,3:42,Holiday S.FOUL (P3.T4) (B.Forte),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,415,3,10,3,10:40 PM,3:42,,,MISS Butler Free Throw 1 of 1,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,416,4,0,3,10:40 PM,3:37,Portis REBOUND (Off:2 Def:12),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,417,2,1,3,10:40 PM,3:22,MISS Crowder 8' Jump Shot,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,418,4,0,3,10:40 PM,3:22,,,Strus REBOUND (Off:2 Def:3),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,419,5,1,3,10:40 PM,3:09,Ingles STEAL (2 STL),,Butler Bad Pass Turnover (P1.T10),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,421,1,1,3,10:40 PM,2:56,Portis 25' 3PT Jump Shot (8 PTS) (Connaughton 3 AST),,,76 - 110,34,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,424,5,1,3,10:41 PM,2:47,Portis STEAL (1 STL),,Lowry Bad Pass Turnover (P4.T11),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,428,1,50,3,10:41 PM,2:41,Portis 1' Running Dunk (10 PTS),,,76 - 112,36,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,429,6,1,3,10:41 PM,2:33,Portis P.FOUL (P3.PN) (T.Maddox),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,431,8,0,3,10:41 PM,2:33,,,SUB: Oladipo FOR Butler,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,433,3,11,3,10:41 PM,2:33,,,Love Free Throw 1 of 2 (1 PTS),77 - 112,35,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0042200102,434,3,12,3,10:42 PM,2:33,,,Love Free Throw 2 of 2 (2 PTS),78 - 112,34,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,435,2,1,3,10:42 PM,2:19,MISS Holiday 26' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,436,4,0,3,10:42 PM,2:15,,,Lowry REBOUND (Off:0 Def:4),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,437,1,79,3,10:42 PM,2:07,,,Lowry 27' 3PT Pullup Jump Shot (5 PTS),81 - 112,31,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,438,2,1,3,10:42 PM,1:48,MISS Portis 27' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,439,4,0,3,10:43 PM,1:45,,,Oladipo REBOUND (Off:1 Def:2),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,440,6,1,3,10:43 PM,1:45,Portis P.FOUL (P4.PN) (B.Forte),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,442,3,11,3,10:43 PM,1:45,,,Love Free Throw 1 of 2 (3 PTS),82 - 112,30,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,443,8,0,3,10:43 PM,1:45,SUB: Carter FOR Crowder,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,444,8,0,3,10:43 PM,1:45,,,SUB: Robinson FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0042200102,447,3,12,3,10:44 PM,1:45,,,Love Free Throw 2 of 2 (4 PTS),83 - 112,29,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,448,2,1,3,10:44 PM,1:32,MISS Connaughton 26' 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,449,4,0,3,10:44 PM,1:30,Portis REBOUND (Off:3 Def:12),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,450,2,3,3,10:44 PM,1:29,MISS Portis 10' Hook Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,451,4,0,3,10:44 PM,1:26,,,Love REBOUND (Off:0 Def:3),,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,452,5,40,3,10:44 PM,1:20,,,Love Out of Bounds Lost Ball Turnover (P1.T12),,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,453,9,1,3,10:44 PM,1:20,BUCKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,454,8,0,3,10:45 PM,1:20,SUB: Lopez FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,455,8,0,3,10:45 PM,1:20,SUB: Crowder FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,458,5,2,3,10:46 PM,1:00,Connaughton Lost Ball Turnover (P1.T9),,Love STEAL (1 STL),,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,460,1,98,3,10:46 PM,0:53,,,Martin 2' Cutting Layup Shot (6 PTS) (Lowry 3 AST),85 - 112,27,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,462,1,1,3,10:47 PM,0:31,Carter 26' 3PT Jump Shot (3 PTS) (Ingles 3 AST),,,85 - 115,30,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,464,2,1,3,10:47 PM,0:26,,,MISS Love 27' 3PT Jump Shot,,,5,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,465,4,0,3,10:47 PM,0:24,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,467,8,0,3,10:47 PM,0:24,SUB: Allen FOR Crowder,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,469,1,80,3,10:48 PM,0:01,Ingles 27' 3PT Step Back Jump Shot (17 PTS),,,85 - 118,33,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,470,18,0,3,10:48 PM,0:00,,Instant Replay3rd Period (10:48 PM EST),,85 - 118,33,0,469,Jamal Mashburn,,,,,0,0,,,,,,1,0,,,,,,0
+0042200102,471,13,0,3,10:50 PM,0:00,,End of 3rd Period (10:50 PM EST),,85 - 118,33,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042200102,476,12,0,4,10:51 PM,12:00,,Start of 4th Period (10:51 PM EST),,85 - 118,33,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,477,1,44,4,10:52 PM,11:46,,,Zeller 8' Reverse Layup (2 PTS) (Martin 2 AST),87 - 118,31,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,479,2,1,4,10:52 PM,11:26,MISS Carter 3PT Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,480,4,0,4,10:52 PM,11:23,,,Oladipo REBOUND (Off:1 Def:3),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,481,2,79,4,10:52 PM,11:15,,,MISS Oladipo 14' Pullup Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,482,4,0,4,10:52 PM,11:11,Connaughton REBOUND (Off:0 Def:3),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,483,1,58,4,10:52 PM,10:56,Lopez 6' Turnaround Hook Shot (23 PTS) (Ingles 4 AST),,,87 - 120,33,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,485,5,1,4,10:53 PM,10:39,Lopez STEAL (2 STL),,Oladipo Bad Pass Turnover (P1.T13),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,487,2,1,4,10:53 PM,10:28,MISS Connaughton 24' 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,488,4,0,4,10:53 PM,10:24,,,Zeller REBOUND (Off:0 Def:1),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,489,1,1,4,10:53 PM,10:18,,,Oladipo 28' 3PT Jump Shot (10 PTS) (Robinson 2 AST),90 - 120,30,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,491,2,1,4,10:53 PM,10:04,MISS Allen 31' 3PT Jump Shot,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,492,4,0,4,10:53 PM,10:01,,,Zeller REBOUND (Off:0 Def:2),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,493,1,79,4,10:54 PM,9:50,,,Robinson 15' Pullup Jump Shot (2 PTS) (Zeller 1 AST),92 - 120,28,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,495,9,1,4,10:54 PM,9:43,BUCKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,496,8,0,4,10:57 PM,9:43,SUB: Middleton FOR Ingles,,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,498,2,101,4,10:58 PM,9:31,MISS Middleton 9' Driving Floating Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,499,4,0,4,10:58 PM,9:28,,,Zeller REBOUND (Off:0 Def:3),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,500,1,1,4,10:58 PM,9:23,,,Robinson 28' 3PT Jump Shot (5 PTS) (Martin 3 AST),95 - 120,25,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,502,7,5,4,10:58 PM,9:05,,,Oladipo Violation:Kicked Ball (J.Goble),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0042200102,503,2,1,4,10:58 PM,8:58,MISS Connaughton 27' 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,504,4,0,4,10:58 PM,8:55,,,Zeller REBOUND (Off:0 Def:4),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,505,2,1,4,10:59 PM,8:51,,,MISS Robinson 30' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,506,4,0,4,10:59 PM,8:47,Carter REBOUND (Off:0 Def:2),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,507,2,1,4,10:59 PM,8:27,MISS Middleton 3PT Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,508,4,0,4,10:59 PM,8:23,,,Highsmith REBOUND (Off:0 Def:1),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,509,5,45,4,10:59 PM,8:16,,,Zeller Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0042200102,510,2,101,4,11:00 PM,8:02,MISS Middleton 14' Driving Floating Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,511,4,0,4,11:00 PM,8:00,,,Robinson REBOUND (Off:0 Def:2),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,512,1,2,4,11:00 PM,7:57,,,Martin 27' 3PT Running Jump Shot (9 PTS) (Robinson 3 AST),98 - 120,22,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,514,1,47,4,11:00 PM,7:38,Lopez 11' Turnaround Jump Shot (25 PTS) (Middleton 6 AST),,,98 - 122,24,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,516,2,101,4,11:00 PM,7:19,,,MISS Robinson 14' Driving Floating Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,517,4,0,4,11:00 PM,7:16,Allen REBOUND (Off:0 Def:2),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,518,2,1,4,11:01 PM,7:06,MISS Middleton 12' Jump Shot,,Highsmith BLOCK (1 BLK),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1
+0042200102,520,4,0,4,11:01 PM,7:05,,,Oladipo REBOUND (Off:1 Def:4),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,521,1,2,4,11:01 PM,6:57,,,Martin 24' 3PT Running Jump Shot (12 PTS) (Oladipo 1 AST),101 - 122,21,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,523,6,2,4,11:01 PM,6:38,,,Oladipo S.FOUL (P2.T1) (T.Maddox),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,525,3,11,4,11:01 PM,6:38,Allen Free Throw 1 of 2 (15 PTS),,,101 - 123,22,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,526,8,0,4,11:01 PM,6:38,SUB: Dragic FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,201609,Goran Dragic,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,528,3,12,4,11:02 PM,6:38,Allen Free Throw 2 of 2 (16 PTS),,,101 - 124,23,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,529,2,1,4,11:02 PM,6:25,,,MISS Oladipo 16' Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,530,4,0,4,11:02 PM,6:24,,,Zeller REBOUND (Off:1 Def:4),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,532,2,93,4,11:02 PM,6:15,,,MISS Oladipo 8' Driving Bank Hook Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,533,4,0,4,11:02 PM,6:13,Middleton REBOUND (Off:1 Def:4),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,534,2,79,4,11:03 PM,6:06,MISS Middleton 26' 3PT Pullup Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,535,4,0,4,11:03 PM,6:03,,,Robinson REBOUND (Off:0 Def:3),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,536,2,80,4,11:03 PM,5:57,,,MISS Oladipo 16' Step Back Jump Shot,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,537,4,0,4,11:03 PM,5:57,Middleton REBOUND (Off:1 Def:5),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,538,1,1,4,11:03 PM,5:43,Connaughton 24' 3PT Jump Shot (16 PTS) (Middleton 7 AST),,,101 - 127,26,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,540,1,1,4,11:03 PM,5:32,,,Oladipo 27' 3PT Jump Shot (13 PTS) (Martin 4 AST),104 - 127,23,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,542,2,1,4,11:03 PM,5:13,MISS Middleton 26' 3PT Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,543,4,0,4,11:03 PM,5:10,,,Zeller REBOUND (Off:1 Def:5),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,544,1,78,4,11:04 PM,4:58,,,Zeller 16' Floating Jump Shot (4 PTS) (Martin 5 AST),106 - 127,21,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,546,2,6,4,11:04 PM,4:41,MISS Allen 3' Driving Layup,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,547,4,0,4,11:04 PM,4:39,,,Robinson REBOUND (Off:0 Def:4),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,548,1,6,4,11:04 PM,4:34,,,Martin 1' Driving Layup (14 PTS) (Zeller 2 AST),108 - 127,19,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,550,6,2,4,11:04 PM,4:34,Connaughton S.FOUL (P2.T1) (T.Maddox),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,552,9,1,4,11:05 PM,4:34,BUCKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,553,8,0,4,11:07 PM,4:34,SUB: Ingles FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,554,8,0,4,11:07 PM,4:34,SUB: Portis FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,555,8,0,4,11:07 PM,4:34,SUB: Crowder FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,556,8,0,4,11:07 PM,4:34,SUB: Holiday FOR Dragic,,,,,4,201609,Goran Dragic,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,561,3,10,4,11:08 PM,4:34,,,Martin Free Throw 1 of 1 (15 PTS),109 - 127,18,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,562,5,1,4,11:08 PM,4:29,Ingles Bad Pass Turnover (P2.T10),,Highsmith STEAL (1 STL),,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,564,1,7,4,11:08 PM,4:26,,,Highsmith 2' Dunk (2 PTS),111 - 127,16,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,565,2,1,4,11:09 PM,4:10,MISS Holiday 26' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,566,4,0,4,11:09 PM,4:09,Connaughton REBOUND (Off:1 Def:3),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,567,2,1,4,11:09 PM,3:59,MISS Connaughton 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,568,4,0,4,11:09 PM,3:56,,,Robinson REBOUND (Off:0 Def:5),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,569,1,79,4,11:09 PM,3:47,,,Oladipo 13' Pullup Jump Shot (15 PTS),113 - 127,14,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,570,2,1,4,11:10 PM,3:18,MISS Crowder 3PT Jump Shot,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,571,4,0,4,11:10 PM,3:16,,,Zeller REBOUND (Off:1 Def:6),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,572,5,2,4,11:10 PM,3:11,Holiday STEAL (1 STL),,Zeller Lost Ball Turnover (P2.T15),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,574,1,1,4,11:10 PM,2:56,Portis 24' 3PT Jump Shot (13 PTS) (Holiday 9 AST),,,113 - 130,17,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,576,2,1,4,11:10 PM,2:38,,,MISS Highsmith 26' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,577,4,0,4,11:10 PM,2:34,Crowder REBOUND (Off:1 Def:2),,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,578,1,1,4,11:11 PM,2:15,Connaughton 26' 3PT Jump Shot (19 PTS) (Holiday 10 AST),,,113 - 133,20,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,580,1,1,4,11:11 PM,2:05,,,Robinson 26' 3PT Jump Shot (8 PTS) (Martin 6 AST),116 - 133,17,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,582,5,1,4,11:11 PM,1:46,Holiday Bad Pass Turnover (P3.T11),,Highsmith STEAL (2 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,584,5,1,4,11:11 PM,1:33,Crowder STEAL (1 STL),,Robinson Bad Pass Turnover (P2.T16),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,586,1,1,4,11:11 PM,1:25,Connaughton 3PT Jump Shot (22 PTS) (Holiday 11 AST),,,116 - 136,20,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,588,6,2,4,11:12 PM,1:16,Portis S.FOUL (P5.T2) (B.Forte),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0042200102,590,3,11,4,11:12 PM,1:16,,,MISS Oladipo Free Throw 1 of 2,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,591,4,1,4,11:12 PM,1:16,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0042200102,602,3,12,4,11:12 PM,1:16,,,MISS Oladipo Free Throw 2 of 2,,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,592,8,0,4,11:12 PM,1:16,SUB: Leonard FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,203086,Meyers Leonard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,593,8,0,4,11:12 PM,1:16,SUB: Carter FOR Ingles,,,,,4,204060,Joe Ingles,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,594,8,0,4,11:12 PM,1:16,SUB: Antetokounmpo FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,595,8,0,4,11:12 PM,1:16,SUB: Dragic FOR Crowder,,,,,4,203109,Jae Crowder,1610612749.0,Milwaukee,Bucks,MIL,4,201609,Goran Dragic,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,596,8,0,4,11:12 PM,1:16,SUB: Beauchamp FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0042200102,603,4,0,4,11:12 PM,1:12,,,Highsmith REBOUND (Off:1 Def:1),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,604,1,1,4,11:13 PM,1:12,,,Robinson 3PT Jump Shot (11 PTS) (Highsmith 1 AST),119 - 136,17,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,606,2,98,4,11:13 PM,0:54,MISS Leonard 2' Cutting Layup Shot,,,,,4,203086,Meyers Leonard,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,607,4,0,4,11:13 PM,0:52,,,Zeller REBOUND (Off:1 Def:7),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0042200102,608,1,1,4,11:13 PM,0:44,,,Robinson 27' 3PT Jump Shot (14 PTS) (Zeller 3 AST),122 - 136,14,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0042200102,610,6,2,4,11:14 PM,0:27,,,Zeller S.FOUL (P1.T2) (B.Forte),,,5,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0042200102,612,3,11,4,11:14 PM,0:27,Dragic Free Throw 1 of 2 (1 PTS),,,122 - 137,15,4,201609,Goran Dragic,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,613,3,12,4,11:14 PM,0:27,Dragic Free Throw 2 of 2 (2 PTS),,,122 - 138,16,4,201609,Goran Dragic,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0042200102,614,5,1,4,11:15 PM,0:13,Carter STEAL (1 STL),,Oladipo Bad Pass Turnover (P2.T17),,,5,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0042200102,616,13,0,4,11:15 PM,0:00,,End of 4th Period (11:15 PM EST),,122 - 138,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

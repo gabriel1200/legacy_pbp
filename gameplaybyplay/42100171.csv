@@ -1,0 +1,470 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100171,2,12,0,1,1:16 PM,12:00,,Start of 1st Period (1:16 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,4,10,0,1,1:16 PM,12:00,Jump Ball Powell vs. Gobert: Tip to O'Neale,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1
+0042100171,7,5,1,1,1:16 PM,11:43,Finney-Smith STEAL (1 STL),,Conley Bad Pass Turnover (P1.T1),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,9,1,101,1,1:17 PM,11:29,Dinwiddie 13' Driving Floating Jump Shot (2 PTS) (Powell 1 AST),,,0 - 2,2,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,11,6,2,1,1:17 PM,11:15,Dinwiddie S.FOUL (P1.T1) (T.Ford),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,13,3,11,1,1:17 PM,11:15,,,Gobert Free Throw 1 of 2 (1 PTS),1 - 2,1,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,14,3,12,1,1:18 PM,11:15,,,Gobert Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,15,2,101,1,1:18 PM,10:55,MISS Dinwiddie 9' Driving Floating Jump Shot,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,16,4,0,1,1:18 PM,10:51,,,Conley REBOUND (Off:0 Def:1),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,17,1,101,1,1:18 PM,10:41,,,Conley 9' Driving Floating Jump Shot (2 PTS) (Bogdanovic 1 AST),4 - 2,-2,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,19,2,47,1,1:19 PM,10:25,MISS Brunson 6' Turnaround Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,20,4,0,1,1:19 PM,10:22,,,Gobert REBOUND (Off:0 Def:1),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,21,2,79,1,1:19 PM,10:12,,,MISS Mitchell 26' 3PT Pullup Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,22,4,0,1,1:19 PM,10:09,Brunson REBOUND (Off:0 Def:1),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,23,2,101,1,1:19 PM,10:02,MISS Brunson 9' Driving Floating Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,24,4,0,1,1:19 PM,9:59,,,Gobert REBOUND (Off:0 Def:2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,25,2,75,1,1:19 PM,9:41,,,MISS Mitchell 11' Driving Finger Roll Layup,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,26,4,0,1,1:19 PM,9:39,,,Gobert REBOUND (Off:1 Def:2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,96,2,107,1,1:19 PM,9:39,,,MISS Gobert 3' Tip Dunk Shot,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,97,4,0,1,1:19 PM,9:37,Finney-Smith REBOUND (Off:0 Def:1),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,27,2,2,1,1:19 PM,9:33,MISS Bullock 24' 3PT Running Jump Shot,,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,28,4,0,1,1:19 PM,9:33,,,Bogdanovic REBOUND (Off:0 Def:1),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,29,2,103,1,1:20 PM,9:24,,,MISS Bogdanovic 26' 3PT Running Pull-Up Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,30,4,0,1,1:20 PM,9:20,Powell REBOUND (Off:0 Def:1),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,31,2,80,1,1:20 PM,9:11,MISS Dinwiddie 26' 3PT Step Back Jump Shot,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,32,4,0,1,1:20 PM,9:09,,,Gobert REBOUND (Off:1 Def:3),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,33,2,6,1,1:20 PM,8:46,,,MISS Mitchell 2' Driving Layup,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,34,4,0,1,1:20 PM,8:44,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,36,1,79,1,1:21 PM,8:38,,,Conley 7' Pullup Jump Shot (4 PTS),6 - 2,-4,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,37,2,79,1,1:21 PM,8:20,MISS Brunson 12' Pullup Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,38,4,0,1,1:21 PM,8:17,,,O'Neale REBOUND (Off:0 Def:1),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,39,1,105,1,1:21 PM,8:07,,,Bogdanovic 5' Turnaround Fadeaway Bank Jump Shot (2 PTS),8 - 2,-6,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,40,1,93,1,1:21 PM,7:50,Brunson 4' Driving Bank Hook Shot (2 PTS),,,8 - 4,-4,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,41,2,101,1,1:22 PM,7:32,,,MISS Conley 4' Driving Floating Jump Shot,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,42,4,0,1,1:22 PM,7:28,Brunson REBOUND (Off:0 Def:2),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,43,1,47,1,1:22 PM,7:19,Brunson 6' Turnaround Jump Shot (4 PTS),,,8 - 6,-2,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,44,9,1,1,1:22 PM,7:17,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,45,8,0,1,1:23 PM,7:17,,,SUB: House Jr. FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,46,8,0,1,1:23 PM,7:17,,,SUB: Whiteside FOR Conley,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,49,5,45,1,1:26 PM,6:57,,,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,50,1,79,1,1:26 PM,6:43,Dinwiddie 9' Pullup Jump Shot (4 PTS),,,8 - 8,TIE,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,51,2,5,1,1:27 PM,6:23,Powell BLOCK (1 BLK),,MISS Whiteside 4' Layup,,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1
+0042100171,53,4,0,1,1:27 PM,6:23,,,O'Neale REBOUND (Off:1 Def:1),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,54,2,101,1,1:27 PM,6:20,,,MISS O'Neale 9' Driving Floating Jump Shot,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,55,4,0,1,1:27 PM,6:20,Dinwiddie REBOUND (Off:0 Def:1),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,56,1,74,1,1:27 PM,6:14,Brunson 2' Running Reverse Layup (6 PTS) (Dinwiddie 1 AST),,,8 - 10,2,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,58,1,6,1,1:27 PM,5:55,,,Bogdanovic 3' Driving Layup (4 PTS) (Mitchell 1 AST),10 - 10,TIE,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,60,1,1,1,1:27 PM,5:46,Finney-Smith 3PT Jump Shot (3 PTS) (Bullock 1 AST),,,10 - 13,3,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,62,2,1,1,1:28 PM,5:23,,,MISS O'Neale 27' 3PT Jump Shot,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,63,4,0,1,1:28 PM,5:19,Brunson REBOUND (Off:0 Def:3),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,64,2,75,1,1:28 PM,5:12,MISS Dinwiddie 10' Driving Finger Roll Layup,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,65,4,0,1,1:28 PM,5:09,Powell REBOUND (Off:1 Def:1),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,66,1,1,1,1:28 PM,5:07,Bullock 25' 3PT Jump Shot (3 PTS) (Powell 2 AST),,,10 - 16,6,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,68,6,1,1,1:28 PM,4:56,Powell P.FOUL (P1.T2) (J.Capers),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,70,8,0,1,1:28 PM,4:56,SUB: Green FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,71,8,0,1,1:28 PM,4:56,SUB: Kleber FOR Dinwiddie,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,74,1,75,1,1:29 PM,4:39,,,Bogdanovic 5' Driving Finger Roll Layup (6 PTS),12 - 16,4,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,75,2,1,1,1:29 PM,4:24,MISS Green 26' 3PT Jump Shot,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,76,4,0,1,1:29 PM,4:20,,,Whiteside REBOUND (Off:0 Def:1),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,77,2,102,1,1:29 PM,4:08,,,MISS House Jr. 7' Driving Floating Bank Jump Shot,,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,78,4,0,1,1:29 PM,4:07,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,79,6,3,1,1:29 PM,4:07,Kleber L.B.FOUL (P1.T3) (T.Ford),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,81,8,0,1,1:30 PM,4:07,,,SUB: Clarkson FOR O'Neale,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,83,2,73,1,1:30 PM,3:58,,,MISS Mitchell 3' Driving Reverse Layup,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,84,4,0,1,1:30 PM,3:57,Kleber REBOUND (Off:0 Def:1),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,85,1,2,1,1:30 PM,3:51,Finney-Smith 26' 3PT Running Jump Shot (6 PTS) (Brunson 1 AST),,,12 - 19,7,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,87,6,1,1,1:30 PM,3:37,Green P.FOUL (P1.T4) (T.Ford),,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,89,1,79,1,1:31 PM,3:24,,,Clarkson 8' Pullup Jump Shot (2 PTS),14 - 19,5,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,90,6,1,1,1:31 PM,3:09,,,House Jr. P.FOUL (P1.T1) (J.Capers),,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,92,1,63,1,1:32 PM,2:59,Brunson 12' Fadeaway Jumper (8 PTS),,,14 - 21,7,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,93,1,86,1,1:32 PM,2:43,,,Bogdanovic 11' Turnaround Fadeaway (8 PTS) (Mitchell 2 AST),16 - 21,5,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,94,5,45,1,1:32 PM,2:34,Brunson Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100171,95,9,1,1,1:32 PM,2:34,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,98,8,0,1,1:33 PM,2:34,,,SUB: Hernangomez FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,5,1627823,Juancho Hernangomez,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,99,8,0,1,1:33 PM,2:34,,,SUB: Gobert FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,100,8,0,1,1:33 PM,2:34,,,SUB: Conley FOR Mitchell,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,104,2,79,1,1:36 PM,2:15,,,MISS Clarkson 27' 3PT Pullup Jump Shot,,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,105,4,0,1,1:36 PM,2:12,,,House Jr. REBOUND (Off:1 Def:0),,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,106,1,72,1,1:36 PM,2:10,,,House Jr. 4' Putback Layup (2 PTS),18 - 21,3,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,107,2,101,1,1:36 PM,1:52,MISS Brunson 10' Driving Floating Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,108,4,0,1,1:37 PM,1:50,Brunson REBOUND (Off:1 Def:3),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,109,2,1,1,1:37 PM,1:39,MISS Green 25' 3PT Jump Shot,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,110,4,0,1,1:37 PM,1:34,,,Gobert REBOUND (Off:1 Def:4),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,111,2,79,1,1:37 PM,1:27,,,MISS Conley 9' Pullup Jump Shot,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,112,4,0,1,1:37 PM,1:24,Bullock REBOUND (Off:0 Def:1),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,113,2,79,1,1:37 PM,1:04,MISS Brunson 7' Pullup Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,114,4,0,1,1:37 PM,1:02,Brunson REBOUND (Off:2 Def:3),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,115,2,1,1,1:37 PM,1:01,MISS Kleber 26' 3PT Jump Shot,,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,116,4,0,1,1:37 PM,0:58,,,Hernangomez REBOUND (Off:0 Def:1),,,5.0,1627823,Juancho Hernangomez,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,119,6,1,1,1:38 PM,0:50,Bullock P.FOUL (P1.PN) (P.Fraher),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,121,3,11,1,1:38 PM,0:50,,,Clarkson Free Throw 1 of 2 (3 PTS),19 - 21,2,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,122,8,0,1,1:38 PM,0:50,SUB: Dinwiddie FOR Finney-Smith,,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,123,8,0,1,1:38 PM,0:50,SUB: Bertans FOR Brunson,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,126,3,12,1,1:38 PM,0:50,,,Clarkson Free Throw 2 of 2 (4 PTS),20 - 21,1,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,127,2,101,1,1:39 PM,0:27,MISS Dinwiddie 11' Driving Floating Jump Shot,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,128,4,0,1,1:39 PM,0:24,,,Gobert REBOUND (Off:1 Def:5),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,129,5,2,1,1:39 PM,0:06,Bullock STEAL (1 STL),,Conley Lost Ball Turnover (P2.T3),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,131,6,2,1,1:39 PM,0:01,,,Clarkson S.FOUL (P1.T2) (J.Capers),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,133,18,0,1,1:40 PM,0:01,,Instant Replay1st Period (1:40 PM EST),,20 - 21,1,0.0,131,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100171,134,3,11,1,1:41 PM,0:01,Dinwiddie Free Throw 1 of 2 (5 PTS),,,20 - 22,2,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,135,3,12,1,1:41 PM,0:01,Dinwiddie Free Throw 2 of 2 (6 PTS),,,20 - 23,3,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,136,2,1,1,1:42 PM,0:00,,,MISS House Jr. 55' 3PT Jump Shot,,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,137,4,0,1,1:42 PM,0:00,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,138,13,0,1,1:42 PM,0:00,,End of 1st Period (1:42 PM EST),,20 - 23,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100171,143,12,0,2,1:45 PM,12:00,,Start of 2nd Period (1:45 PM EST),,20 - 23,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,144,1,6,2,1:46 PM,11:41,Dinwiddie 6' Driving Layup (8 PTS),,,20 - 25,5,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,145,6,2,2,1:46 PM,11:27,Bertans S.FOUL (P1.T1) (T.Ford),,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,147,3,11,2,1:46 PM,11:27,,,Gobert Free Throw 1 of 2 (3 PTS),21 - 25,4,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,148,3,12,2,1:47 PM,11:27,,,Gobert Free Throw 2 of 2 (4 PTS),22 - 25,3,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,150,1,101,2,1:47 PM,11:05,Dinwiddie 12' Driving Floating Jump Shot (10 PTS),,,22 - 27,5,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,151,6,2,2,1:47 PM,11:05,,,O'Neale S.FOUL (P1.T1) (J.Capers),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,153,3,10,2,1:47 PM,11:05,MISS Dinwiddie Free Throw 1 of 1,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,154,4,0,2,1:47 PM,11:02,,,Gobert REBOUND (Off:1 Def:6),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,155,2,1,2,1:48 PM,10:48,,,MISS Clarkson 29' 3PT Jump Shot,,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,156,4,0,2,1:48 PM,10:46,,,Hernangomez REBOUND (Off:1 Def:1),,,5.0,1627823,Juancho Hernangomez,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,157,2,1,2,1:48 PM,10:40,,,MISS O'Neale 24' 3PT Jump Shot,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,158,4,0,2,1:48 PM,10:38,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,159,6,3,2,1:48 PM,10:38,Green L.B.FOUL (P2.T2) (J.Capers),,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,161,2,75,2,1:48 PM,10:26,,,MISS Hernangomez 2' Driving Finger Roll Layup,,,5.0,1627823,Juancho Hernangomez,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,162,4,0,2,1:48 PM,10:24,Bertans REBOUND (Off:0 Def:1),,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,163,1,1,2,1:49 PM,10:08,Kleber 25' 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),,,22 - 30,8,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,165,6,1,2,1:49 PM,9:57,Green P.FOUL (P3.T3) (P.Fraher),,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,167,8,0,2,1:49 PM,9:57,SUB: Finney-Smith FOR Green,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,168,8,0,2,1:49 PM,9:57,SUB: Bullock FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,171,6,4,2,1:50 PM,9:51,,,Clarkson OFF.Foul (P2) (T.Ford),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,173,5,37,2,1:50 PM,9:51,,,Clarkson Offensive Foul Turnover (P1.T4),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,174,2,6,2,1:50 PM,9:36,MISS Kleber 4' Driving Layup,,Gobert BLOCK (1 BLK),,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+0042100171,176,4,0,2,1:50 PM,9:33,,,Hernangomez REBOUND (Off:1 Def:2),,,5.0,1627823,Juancho Hernangomez,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,177,2,41,2,1:50 PM,9:29,,,MISS Conley 3' Running Layup,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,178,4,0,2,1:50 PM,9:29,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,179,6,3,2,1:50 PM,9:29,Bertans L.B.FOUL (P2.T4) (P.Fraher),,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,181,8,0,2,1:50 PM,9:29,,,SUB: House Jr. FOR Conley,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,182,8,0,2,1:50 PM,9:29,,,SUB: Bogdanovic FOR O'Neale,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,183,8,0,2,1:50 PM,9:29,,,SUB: Mitchell FOR Hernangomez,,,5.0,1627823,Juancho Hernangomez,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,187,1,78,2,1:51 PM,9:20,,,Clarkson 8' Floating Jump Shot (6 PTS),24 - 30,6,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,188,1,108,2,1:51 PM,8:59,Finney-Smith 1' Cutting Dunk Shot (8 PTS) (Dinwiddie 3 AST),,,24 - 32,8,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,190,2,79,2,1:51 PM,8:43,,,MISS Clarkson 12' Pullup Jump Shot,,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,191,4,0,2,1:51 PM,8:40,Kleber REBOUND (Off:0 Def:2),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,192,2,79,2,1:52 PM,8:31,MISS Dinwiddie 27' 3PT Pullup Jump Shot,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,193,4,0,2,1:52 PM,8:28,,,Gobert REBOUND (Off:1 Def:7),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,194,2,79,2,1:52 PM,8:21,,,MISS Mitchell 15' Pullup Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,195,4,0,2,1:52 PM,8:18,Bertans REBOUND (Off:0 Def:2),,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,196,2,1,2,1:52 PM,8:02,MISS Bullock 3PT Jump Shot,,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,197,4,0,2,1:52 PM,7:59,,,Bogdanovic REBOUND (Off:0 Def:2),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,198,1,102,2,1:52 PM,7:53,,,Bogdanovic 11' Driving Floating Bank Jump Shot (10 PTS),26 - 32,6,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,199,2,1,2,1:53 PM,7:34,MISS Kleber 25' 3PT Jump Shot,,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,200,4,0,2,1:53 PM,7:33,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,202,8,0,2,1:53 PM,7:33,SUB: Powell FOR Dinwiddie,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,203,8,0,2,1:53 PM,7:33,SUB: Brunson FOR Kleber,,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,204,8,0,2,1:53 PM,7:33,,,SUB: Whiteside FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,208,1,101,2,1:53 PM,7:19,,,Clarkson 8' Driving Floating Jump Shot (8 PTS),28 - 32,4,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,209,2,1,2,1:54 PM,6:54,MISS Bullock 25' 3PT Jump Shot,,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,210,4,0,2,1:54 PM,6:50,,,Bogdanovic REBOUND (Off:0 Def:3),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,211,1,6,2,1:54 PM,6:43,,,Clarkson 4' Driving Layup (10 PTS) (Bogdanovic 2 AST),30 - 32,2,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,213,9,1,2,1:54 PM,6:43,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,214,1,1,2,1:58 PM,6:29,Bertans 25' 3PT Jump Shot (3 PTS) (Brunson 2 AST),,,30 - 35,5,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,216,5,1,2,1:58 PM,6:14,Bertans STEAL (1 STL),,Clarkson Bad Pass Turnover (P2.T5),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,218,6,28,2,1:58 PM,6:13,,,Whiteside Personal Take Foul (P1.T2) (P.Fraher),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,220,2,6,2,1:58 PM,6:00,MISS Brunson 3' Driving Layup,,Mitchell BLOCK (1 BLK),,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1
+0042100171,222,4,0,2,1:58 PM,6:00,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,224,2,78,2,1:59 PM,5:52,MISS Brunson 8' Floating Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,225,4,0,2,1:59 PM,5:50,Powell REBOUND (Off:2 Def:1),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,226,2,72,2,1:59 PM,5:47,MISS Powell 2' Putback Layup,,Whiteside BLOCK (1 BLK),,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,1
+0042100171,227,4,0,2,1:59 PM,5:46,,,Whiteside REBOUND (Off:0 Def:2),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,228,2,6,2,1:59 PM,5:40,Powell BLOCK (2 BLK),,MISS Mitchell 5' Driving Layup,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1
+0042100171,230,4,0,2,1:59 PM,5:36,Bullock REBOUND (Off:0 Def:2),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,231,1,41,2,1:59 PM,5:33,Bullock 1' Running Layup (5 PTS) (Brunson 3 AST),,,30 - 37,7,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,233,1,47,2,1:59 PM,5:19,,,Mitchell 11' Turnaround Jump Shot (2 PTS),32 - 37,5,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,234,6,1,2,2:00 PM,4:57,,,Bogdanovic P.FOUL (P1.T3) (T.Ford),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,237,8,0,2,2:00 PM,4:57,SUB: Dinwiddie FOR Bertans,,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,238,8,0,2,2:00 PM,4:57,,,SUB: Gobert FOR Clarkson,,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,239,8,0,2,2:00 PM,4:57,,,SUB: Conley FOR House Jr.,,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,240,8,0,2,2:00 PM,4:57,,,SUB: O'Neale FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,5,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,245,2,79,2,2:00 PM,4:46,MISS Brunson 25' 3PT Pullup Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,247,1,107,2,2:00 PM,4:41,Powell Tip Dunk Shot (2 PTS),,,32 - 39,7,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,246,4,0,2,2:00 PM,4:41,Powell REBOUND (Off:3 Def:1),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,248,2,58,2,2:01 PM,4:24,,,MISS Bogdanovic 4' Turnaround Hook Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,249,4,0,2,2:01 PM,4:21,Bullock REBOUND (Off:0 Def:3),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,250,2,1,2,2:01 PM,4:06,MISS Brunson 25' 3PT Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,251,4,0,2,2:01 PM,4:02,,,Conley REBOUND (Off:0 Def:2),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,252,2,1,2,2:01 PM,3:55,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,253,4,0,2,2:01 PM,3:52,Brunson REBOUND (Off:2 Def:4),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,254,6,2,2,2:02 PM,3:34,,,Mitchell S.FOUL (P1.T4) (J.Capers),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,256,3,11,2,2:02 PM,3:34,Brunson Free Throw 1 of 2 (9 PTS),,,32 - 40,8,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,257,8,0,2,2:02 PM,3:34,SUB: Kleber FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,259,3,12,2,2:03 PM,3:34,Brunson Free Throw 2 of 2 (10 PTS),,,32 - 41,9,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,260,2,1,2,2:03 PM,3:20,,,MISS Mitchell 31' 3PT Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,261,4,0,2,2:03 PM,3:17,,,O'Neale REBOUND (Off:2 Def:1),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,262,1,1,2,2:03 PM,3:10,,,Bogdanovic 3PT Jump Shot (13 PTS) (O'Neale 1 AST),35 - 41,6,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,264,2,63,2,2:03 PM,2:47,MISS Kleber 7' Fadeaway Jumper,,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,265,4,0,2,2:04 PM,2:44,,,Gobert REBOUND (Off:1 Def:8),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,266,1,5,2,2:04 PM,2:30,,,Bogdanovic 2' Layup (15 PTS),37 - 41,4,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,267,2,6,2,2:04 PM,2:04,MISS Brunson 4' Driving Layup,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,268,4,0,2,2:04 PM,2:02,,,Gobert REBOUND (Off:1 Def:9),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,269,1,6,2,2:04 PM,1:57,,,Conley 5' Driving Layup (6 PTS),39 - 41,2,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,270,2,1,2,2:05 PM,1:39,MISS Finney-Smith 27' 3PT Jump Shot,,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,271,4,0,2,2:05 PM,1:37,,,O'Neale REBOUND (Off:2 Def:2),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,272,6,1,2,2:05 PM,1:30,Dinwiddie P.FOUL (P2.PN) (T.Ford),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,274,9,1,2,2:05 PM,1:30,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,275,3,11,2,2:09 PM,1:30,,,Gobert Free Throw 1 of 2 (5 PTS),40 - 41,1,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,276,3,12,2,2:09 PM,1:30,,,MISS Gobert Free Throw 2 of 2,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,277,4,0,2,2:09 PM,1:26,Kleber REBOUND (Off:0 Def:3),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,279,5,45,2,2:10 PM,1:05,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100171,280,2,101,2,2:10 PM,0:49,,,MISS Mitchell 6' Driving Floating Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,281,4,0,2,2:11 PM,0:47,,,Conley REBOUND (Off:1 Def:2),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,282,5,45,2,2:11 PM,0:46,,,Conley Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,283,5,2,2,2:11 PM,0:35,Dinwiddie Lost Ball Turnover (P2.T3),,Conley STEAL (1 STL),,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,285,6,2,2,2:11 PM,0:31,Kleber S.FOUL (P2.PN) (J.Capers),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,287,3,11,2,2:12 PM,0:31,,,Bogdanovic Free Throw 1 of 2 (16 PTS),41 - 41,TIE,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,288,3,12,2,2:12 PM,0:31,,,Bogdanovic Free Throw 2 of 2 (17 PTS),42 - 41,-1,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,289,1,80,2,2:12 PM,0:13,Brunson 16' Step Back Jump Shot (12 PTS),,,42 - 43,1,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,290,1,1,2,2:12 PM,0:02,,,Bogdanovic 25' 3PT Jump Shot (20 PTS) (Mitchell 3 AST),45 - 43,-2,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,292,13,0,2,2:13 PM,0:00,,End of 2nd Period (2:13 PM EST),,45 - 43,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100171,295,12,0,3,2:28 PM,12:00,,Start of 3rd Period (2:28 PM EST),,45 - 43,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,296,2,79,3,2:29 PM,11:42,MISS Dinwiddie 25' 3PT Pullup Jump Shot,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,297,4,0,3,2:29 PM,11:38,,,Conley REBOUND (Off:1 Def:3),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,298,1,79,3,2:29 PM,11:21,,,Mitchell 16' Pullup Jump Shot (4 PTS),47 - 43,-4,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,299,1,75,3,2:29 PM,11:02,Dinwiddie 3' Driving Finger Roll Layup (12 PTS),,,47 - 45,-2,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,300,2,1,3,2:30 PM,10:39,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,301,4,0,3,2:30 PM,10:35,Finney-Smith REBOUND (Off:0 Def:2),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,303,1,52,3,2:30 PM,10:14,Powell 2' Alley Oop Dunk (4 PTS) (Brunson 4 AST),,,47 - 47,TIE,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,305,1,75,3,2:30 PM,10:01,,,Mitchell 1' Driving Finger Roll Layup (6 PTS),49 - 47,-2,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,306,1,79,3,2:31 PM,9:45,Brunson 9' Pullup Jump Shot (14 PTS) (Dinwiddie 4 AST),,,49 - 49,TIE,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,308,2,79,3,2:31 PM,9:30,,,MISS Mitchell 19' Pullup Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,309,4,0,3,2:31 PM,9:30,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,310,6,3,3,2:31 PM,9:29,Brunson L.B.FOUL (P1.T1) (P.Fraher),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,312,1,80,3,2:31 PM,9:24,,,Conley 25' 3PT Step Back Jump Shot (9 PTS),52 - 49,-3,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,313,6,2,3,2:32 PM,9:10,,,Bogdanovic S.FOUL (P2.T1) (P.Fraher),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,315,3,11,3,2:32 PM,9:10,Dinwiddie Free Throw 1 of 2 (13 PTS),,,52 - 50,-2,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,316,3,12,3,2:32 PM,9:10,Dinwiddie Free Throw 2 of 2 (14 PTS),,,52 - 51,-1,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,317,6,2,3,2:33 PM,8:54,Powell S.FOUL (P2.T2) (T.Ford),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,319,3,11,3,2:33 PM,8:54,,,MISS Mitchell Free Throw 1 of 2,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,320,4,1,3,2:33 PM,8:54,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,321,3,12,3,2:34 PM,8:54,,,Mitchell Free Throw 2 of 2 (7 PTS),53 - 51,-2,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,322,2,5,3,2:34 PM,8:37,MISS Powell 4' Layup,,Gobert BLOCK (2 BLK),,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+0042100171,324,4,0,3,2:34 PM,8:35,,,Gobert REBOUND (Off:1 Def:10),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,325,6,4,3,2:34 PM,8:32,,,Gobert OFF.Foul (P1) (T.Ford),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,327,5,37,3,2:34 PM,8:32,,,Gobert Offensive Foul Turnover (P1.T7),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,328,6,1,3,2:35 PM,8:22,,,O'Neale P.FOUL (P2.T2) (J.Capers),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,330,2,5,3,2:35 PM,8:06,MISS Powell 1' Layup,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,331,4,0,3,2:35 PM,8:02,Powell REBOUND (Off:4 Def:1),,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,332,2,72,3,2:35 PM,8:02,MISS Powell Putback Layup,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,333,4,0,3,2:35 PM,8:02,,,O'Neale REBOUND (Off:2 Def:3),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,334,1,6,3,2:35 PM,7:57,,,Mitchell 3' Driving Layup (9 PTS),55 - 51,-4,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,335,6,14,3,2:35 PM,7:57,Finney-Smith FLAGRANT.FOUL.TYPE1 (P1.T3) (J.Capers),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,337,18,1,3,2:36 PM,7:57,,Instant Replay3rd Period (2:36 PM EST),,55 - 51,-4,0.0,335,Willie Anderson,,,,,0,0,,,,,,1,0,,,,,,0
+0042100171,338,8,0,3,2:37 PM,7:57,SUB: Kleber FOR Dinwiddie,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,340,3,20,3,2:38 PM,7:57,,,Mitchell Free Throw Flagrant 1 of 1 (10 PTS),56 - 51,-5,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,341,5,1,3,2:38 PM,7:43,Bullock STEAL (2 STL),,Bogdanovic Bad Pass Turnover (P2.T8),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,343,1,102,3,2:39 PM,7:29,Brunson 8' Driving Floating Bank Jump Shot (16 PTS),,,56 - 53,-3,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,344,2,79,3,2:39 PM,7:17,,,MISS Mitchell 25' 3PT Pullup Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,345,4,0,3,2:39 PM,7:13,Kleber REBOUND (Off:0 Def:4),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,346,2,79,3,2:39 PM,6:54,MISS Brunson 19' Pullup Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,347,4,0,3,2:39 PM,6:51,,,Mitchell REBOUND (Off:0 Def:1),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,348,1,79,3,2:40 PM,6:31,,,Mitchell 26' 3PT Pullup Jump Shot (13 PTS),59 - 53,-6,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,349,6,2,3,2:40 PM,6:09,,,O'Neale S.FOUL (P3.T3) (J.Capers),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,351,9,1,3,2:40 PM,6:09,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,352,8,0,3,2:40 PM,6:09,SUB: Green FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,353,8,0,3,2:40 PM,6:09,,,SUB: Whiteside FOR Conley,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,354,8,0,3,2:40 PM,6:09,,,SUB: Clarkson FOR O'Neale,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,355,8,0,3,2:40 PM,6:09,,,SUB: House Jr. FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,360,3,11,3,2:44 PM,6:09,Brunson Free Throw 1 of 2 (17 PTS),,,59 - 54,-5,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,361,3,12,3,2:44 PM,6:09,Brunson Free Throw 2 of 2 (18 PTS),,,59 - 55,-4,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,362,2,86,3,2:45 PM,5:44,,,MISS Mitchell 13' Turnaround Fadeaway Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,363,4,0,3,2:45 PM,5:39,,,Whiteside REBOUND (Off:1 Def:2),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,364,5,2,3,2:45 PM,5:35,Green STEAL (1 STL),,House Jr. Lost Ball Turnover (P1.T9),,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,366,2,79,3,2:45 PM,5:22,MISS Bullock 26' 3PT Pullup Jump Shot,,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,367,4,0,3,2:45 PM,5:18,,,Clarkson REBOUND (Off:0 Def:1),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,368,2,2,3,2:45 PM,5:14,,,MISS Mitchell 27' 3PT Running Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,369,4,0,3,2:45 PM,5:10,Bullock REBOUND (Off:0 Def:4),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,370,2,1,3,2:45 PM,5:01,MISS Green 24' 3PT Jump Shot,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,371,4,0,3,2:45 PM,5:01,,,Bogdanovic REBOUND (Off:0 Def:4),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,372,1,41,3,2:45 PM,4:53,,,Mitchell 2' Running Layup (15 PTS) (Bogdanovic 3 AST),61 - 55,-6,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,374,2,6,3,2:46 PM,4:35,MISS Brunson 2' Driving Layup,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,375,4,0,3,2:46 PM,4:32,,,Whiteside REBOUND (Off:1 Def:3),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,376,5,2,3,2:46 PM,4:28,Green STEAL (2 STL),,Clarkson Lost Ball Turnover (P3.T10),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,378,6,28,3,2:46 PM,4:27,,,Mitchell Personal Take Foul (P2.T4) (J.Capers),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,380,8,0,3,2:46 PM,4:27,SUB: Dinwiddie FOR Brunson,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,382,2,1,3,2:47 PM,4:10,MISS Green 3PT Jump Shot,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,383,4,0,3,2:47 PM,4:10,,,Whiteside REBOUND (Off:1 Def:4),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,384,2,6,3,2:47 PM,4:05,,,MISS Mitchell 2' Driving Layup,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,385,4,0,3,2:47 PM,4:04,,,Whiteside REBOUND (Off:2 Def:4),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,386,6,2,3,2:47 PM,4:04,Kleber S.FOUL (P3.T4) (J.Capers),,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,388,3,11,3,2:48 PM,4:04,,,MISS Whiteside Free Throw 1 of 2,,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,389,4,1,3,2:48 PM,4:04,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,390,8,0,3,2:48 PM,4:04,SUB: Bertans FOR Green,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,392,3,12,3,2:48 PM,4:04,,,Whiteside Free Throw 2 of 2 (1 PTS),62 - 55,-7,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,393,5,1,3,2:48 PM,3:41,Dinwiddie Bad Pass Turnover (P3.T4),,Bogdanovic STEAL (1 STL),,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,395,1,50,3,2:48 PM,3:36,,,Mitchell 1' Running Dunk (17 PTS) (Bogdanovic 4 AST),64 - 55,-9,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,397,6,2,3,2:49 PM,3:17,,,Whiteside S.FOUL (P2.PN) (J.Capers),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,399,3,11,3,2:49 PM,3:17,Bertans Free Throw 1 of 2 (4 PTS),,,64 - 56,-8,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,400,3,12,3,2:49 PM,3:17,MISS Bertans Free Throw 2 of 2,,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,401,4,0,3,2:49 PM,3:14,Finney-Smith REBOUND (Off:1 Def:2),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,402,2,1,3,2:49 PM,3:13,MISS Bertans 26' 3PT Jump Shot,,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,403,4,0,3,2:49 PM,3:11,,,Whiteside REBOUND (Off:2 Def:5),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,404,1,6,3,2:50 PM,2:50,,,Mitchell 3' Driving Layup (19 PTS),66 - 56,-10,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,405,6,4,3,2:50 PM,2:46,Bullock OFF.Foul (P2) (J.Capers),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,407,5,37,3,2:50 PM,2:46,Bullock Offensive Foul Turnover (P1.T5),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100171,408,9,1,3,2:50 PM,2:46,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,409,8,0,3,2:51 PM,2:46,SUB: Brunson FOR Kleber,,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,410,8,0,3,2:51 PM,2:46,,,SUB: Conley FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,413,6,1,3,2:54 PM,2:37,Bullock P.FOUL (P3.PN) (T.Ford),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,415,3,11,3,2:54 PM,2:37,,,Mitchell Free Throw 1 of 2 (20 PTS),67 - 56,-11,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,416,3,12,3,2:55 PM,2:37,,,Mitchell Free Throw 2 of 2 (21 PTS),68 - 56,-12,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,417,6,17,3,2:55 PM,2:24,,,Jazz T.Foul (Def. 3 Sec Whiteside ) (T.Ford),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,418,3,16,3,2:55 PM,2:24,Bullock Free Throw Technical (6 PTS),,,68 - 57,-11,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,419,1,75,3,2:56 PM,2:10,Dinwiddie 5' Driving Finger Roll Layup (16 PTS),,,68 - 59,-9,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,432,2,6,3,2:56 PM,1:54,Finney-Smith BLOCK (1 BLK),,MISS Mitchell 4' Driving Layup,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1
+0042100171,434,4,0,3,2:56 PM,1:52,,,Mitchell REBOUND (Off:1 Def:1),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,420,2,1,3,2:56 PM,1:48,,,MISS House Jr. 3PT Jump Shot,,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,421,4,0,3,2:56 PM,1:47,Dinwiddie REBOUND (Off:0 Def:2),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,422,6,1,3,2:56 PM,1:46,,,Clarkson P.FOUL (P3.PN) (J.Capers),,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,424,3,11,3,2:56 PM,1:46,MISS Dinwiddie Free Throw 1 of 2,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,425,4,1,3,2:56 PM,1:46,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,428,3,12,3,2:56 PM,1:46,MISS Dinwiddie Free Throw 2 of 2,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,426,8,0,3,2:56 PM,1:46,,,SUB: Gobert FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,429,4,0,3,2:56 PM,1:44,,,Gobert REBOUND (Off:1 Def:11),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,430,5,1,3,2:57 PM,1:24,Dinwiddie STEAL (1 STL),,Mitchell Bad Pass Turnover (P1.T11),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,435,6,2,3,2:57 PM,1:21,,,House Jr. S.FOUL (P2.PN) (T.Ford),,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,437,3,11,3,2:58 PM,1:21,Dinwiddie Free Throw 1 of 2 (17 PTS),,,68 - 60,-8,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,438,3,12,3,2:58 PM,1:21,MISS Dinwiddie Free Throw 2 of 2,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,439,4,0,3,2:58 PM,1:17,,,Gobert REBOUND (Off:1 Def:12),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,440,2,78,3,2:58 PM,1:06,,,MISS Conley 16' Floating Jump Shot,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,441,4,0,3,2:58 PM,1:05,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,442,6,3,3,2:58 PM,1:05,,,Gobert L.B.FOUL (P2.PN) (T.Ford),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,444,3,11,3,2:59 PM,1:05,Finney-Smith Free Throw 1 of 2 (9 PTS),,,68 - 61,-7,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,445,3,12,3,2:59 PM,1:05,Finney-Smith Free Throw 2 of 2 (10 PTS),,,68 - 62,-6,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,446,1,6,3,2:59 PM,0:48,,,House Jr. 3' Driving Layup (4 PTS) (Conley 1 AST),70 - 62,-8,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,448,1,1,3,3:00 PM,0:42,Bullock 31' 3PT Jump Shot (9 PTS) (Dinwiddie 5 AST),,,70 - 65,-5,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,450,1,1,3,3:00 PM,0:33,,,House Jr. 3PT Jump Shot (7 PTS) (Conley 2 AST),73 - 65,-8,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,452,2,1,3,3:00 PM,0:27,MISS Finney-Smith 28' 3PT Jump Shot,,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,453,4,0,3,3:00 PM,0:23,,,Conley REBOUND (Off:1 Def:4),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,454,5,4,3,3:00 PM,0:01,,,Mitchell Traveling Turnover (P2.T12),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,458,13,0,3,3:01 PM,0:00,,End of 3rd Period (3:01 PM EST),,73 - 65,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100171,465,12,0,4,3:04 PM,12:00,,Start of 4th Period (3:04 PM EST),,73 - 65,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,466,5,1,4,3:04 PM,11:47,Powell STEAL (1 STL),,Conley Bad Pass Turnover (P4.T13),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,468,6,17,4,3:05 PM,11:32,,,Jazz T.Foul (Def. 3 Sec Gobert ) (P.Fraher),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,469,3,16,4,3:05 PM,11:32,Brunson Free Throw Technical (19 PTS),,,73 - 66,-7,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,470,6,1,4,3:05 PM,11:26,,,House Jr. P.FOUL (P3.T1) (T.Ford),,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,472,2,79,4,3:06 PM,11:13,MISS Bertans 26' 3PT Pullup Jump Shot,,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,473,4,0,4,3:06 PM,11:11,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,476,2,101,4,3:07 PM,10:56,,,MISS Conley 12' Driving Floating Jump Shot,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,477,4,0,4,3:07 PM,10:52,Bertans REBOUND (Off:0 Def:3),,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,478,6,1,4,3:07 PM,10:46,,,Conley P.FOUL (P1.T2) (P.Fraher),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,480,5,45,4,3:07 PM,10:37,Brunson Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042100171,482,6,30,4,3:08 PM,10:35,,,Jazz Too Many Players Tech Foul,,,3.0,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100171,500,5,44,4,3:08 PM,10:35,,Too Many Players Turnover,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100171,484,3,16,4,3:09 PM,10:35,MISS Brunson Free Throw Technical,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,485,4,1,4,3:09 PM,10:35,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,486,8,0,4,3:09 PM,10:35,SUB: Dinwiddie FOR Finney-Smith,,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,487,8,0,4,3:09 PM,10:35,SUB: Bullock FOR Green,,,,,4.0,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,488,8,0,4,3:09 PM,10:35,,,SUB: Mitchell FOR Clarkson,,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,492,1,86,4,3:09 PM,10:23,Brunson 11' Turnaround Fadeaway (21 PTS),,,73 - 68,-5,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,493,1,86,4,3:09 PM,10:01,,,Bogdanovic 8' Turnaround Fadeaway (22 PTS),75 - 68,-7,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,494,2,79,4,3:10 PM,9:42,MISS Brunson 14' Pullup Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,495,4,0,4,3:10 PM,9:39,,,Bogdanovic REBOUND (Off:0 Def:5),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,533,2,5,4,3:10 PM,9:34,,,MISS Bogdanovic 3' Layup,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,534,4,0,4,3:10 PM,9:33,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,498,9,1,4,3:10 PM,9:33,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,499,18,5,4,3:11 PM,9:33,,Instant Replay4th Period (3:11 PM EST),,75 - 68,-7,0.0,496,,,,,,0,0,,,,,,1,0,,,,,,1
+0042100171,501,8,0,4,3:12 PM,9:33,SUB: Finney-Smith FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,502,8,0,4,3:12 PM,9:33,,,SUB: O'Neale FOR House Jr.,,,5.0,1627863,Danuel House Jr.,1610612762.0,Utah,Jazz,UTA,5,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,505,10,1,4,3:14 PM,9:28,Jump Ball (CC) Finney-Smith vs. Gobert: Tip to Conley,,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1
+0042100171,508,2,1,4,3:14 PM,9:15,,,MISS Conley 26' 3PT Jump Shot,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,509,4,0,4,3:15 PM,9:10,Bullock REBOUND (Off:0 Def:5),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,510,1,1,4,3:15 PM,9:01,Brunson 25' 3PT Jump Shot (24 PTS) (Dinwiddie 6 AST),,,75 - 71,-4,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,512,2,80,4,3:15 PM,8:42,,,MISS Mitchell 20' Step Back Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,513,4,0,4,3:15 PM,8:40,,,Gobert REBOUND (Off:2 Def:12),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,514,2,1,4,3:15 PM,8:37,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,515,4,0,4,3:15 PM,8:37,Bullock REBOUND (Off:0 Def:6),,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,516,2,6,4,3:15 PM,8:25,MISS Dinwiddie 1' Driving Layup,,Gobert BLOCK (3 BLK),,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+0042100171,518,4,0,4,3:15 PM,8:23,,,Mitchell REBOUND (Off:1 Def:2),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,519,6,1,4,3:15 PM,8:21,Finney-Smith P.FOUL (P2.T1) (J.Capers),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,521,1,1,4,3:16 PM,8:04,,,Mitchell 26' 3PT Jump Shot (24 PTS) (O'Neale 2 AST),78 - 71,-7,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,523,2,6,4,3:16 PM,7:39,MISS Dinwiddie 3' Driving Layup,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,524,4,0,4,3:16 PM,7:37,,,Mitchell REBOUND (Off:1 Def:3),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,525,1,41,4,3:17 PM,7:30,,,Mitchell 2' Running Layup (26 PTS),80 - 71,-9,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,526,1,73,4,3:17 PM,7:25,Bullock 2' Driving Reverse Layup (11 PTS) (Dinwiddie 7 AST),,,80 - 73,-7,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,528,6,2,4,3:17 PM,7:25,,,Conley S.FOUL (P2.T3) (P.Fraher),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,530,8,0,4,3:17 PM,7:25,SUB: Powell FOR Bertans,,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,532,3,10,4,3:17 PM,7:25,Bullock Free Throw 1 of 1 (12 PTS),,,80 - 74,-6,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,535,2,66,4,3:18 PM,7:04,,,MISS Mitchell 11' Jump Bank Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,536,4,0,4,3:18 PM,7:03,,,Mitchell REBOUND (Off:2 Def:3),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,537,6,2,4,3:18 PM,7:03,Dinwiddie S.FOUL (P3.T2) (T.Ford),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,539,3,11,4,3:18 PM,7:03,,,Mitchell Free Throw 1 of 2 (27 PTS),81 - 74,-7,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,540,8,0,4,3:18 PM,7:03,SUB: Bertans FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,541,8,0,4,3:18 PM,7:03,,,SUB: Whiteside FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,544,3,12,4,3:19 PM,7:03,,,Mitchell Free Throw 2 of 2 (28 PTS),82 - 74,-8,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,545,2,63,4,3:20 PM,6:43,MISS Brunson 8' Fadeaway Jumper,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,546,4,0,4,3:20 PM,6:41,,,Mitchell REBOUND (Off:2 Def:4),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,547,2,47,4,3:20 PM,6:23,,,MISS Bogdanovic 11' Turnaround Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,548,4,0,4,3:20 PM,6:20,,,Whiteside REBOUND (Off:3 Def:5),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,549,1,72,4,3:20 PM,6:19,,,Whiteside 1' Putback Layup (3 PTS),84 - 74,-10,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,550,6,2,4,3:20 PM,6:11,,,Whiteside S.FOUL (P3.T4) (T.Ford),,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,552,3,11,4,3:20 PM,6:11,MISS Dinwiddie Free Throw 1 of 2,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,553,4,1,4,3:20 PM,6:11,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,554,8,0,4,3:21 PM,6:11,SUB: Kleber FOR Bertans,,,,,4.0,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,555,8,0,4,3:21 PM,6:11,,,SUB: Gobert FOR Conley,,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,556,8,0,4,3:21 PM,6:11,,,SUB: Clarkson FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,560,3,12,4,3:21 PM,6:11,Dinwiddie Free Throw 2 of 2 (18 PTS),,,84 - 75,-9,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,561,1,79,4,3:21 PM,5:58,,,Bogdanovic 12' Pullup Jump Shot (24 PTS) (Mitchell 4 AST),86 - 75,-11,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,563,6,2,4,3:22 PM,5:34,,,Bogdanovic S.FOUL (P3.PN) (T.Ford),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,565,9,1,4,3:22 PM,5:34,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,566,18,6,4,3:22 PM,5:34,,Instant Replay4th Period (3:22 PM EST),,86 - 75,-11,0.0,563,,,,,,0,0,,,,,,1,0,,,,,,1
+0042100171,567,3,13,4,3:26 PM,5:34,MISS Dinwiddie Free Throw 1 of 3,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042100171,568,4,1,4,3:26 PM,5:34,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,569,3,14,4,3:26 PM,5:34,Dinwiddie Free Throw 2 of 3 (19 PTS),,,86 - 76,-10,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,570,3,15,4,3:26 PM,5:34,Dinwiddie Free Throw 3 of 3 (20 PTS),,,86 - 77,-9,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,571,2,80,4,3:27 PM,5:21,,,MISS Mitchell 19' Step Back Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,572,4,0,4,3:27 PM,5:19,Dinwiddie REBOUND (Off:0 Def:3),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,574,6,1,4,3:27 PM,5:19,,,O'Neale P.FOUL (P4.PN) (P.Fraher),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,576,3,11,4,3:27 PM,5:19,Dinwiddie Free Throw 1 of 2 (21 PTS),,,86 - 78,-8,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,577,8,0,4,3:27 PM,5:19,,,SUB: Conley FOR Clarkson,,,5.0,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042100171,579,3,12,4,3:27 PM,5:19,Dinwiddie Free Throw 2 of 2 (22 PTS),,,86 - 79,-7,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,580,2,79,4,3:28 PM,5:06,,,MISS Bogdanovic 11' Pullup Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,581,4,0,4,3:28 PM,5:02,Finney-Smith REBOUND (Off:1 Def:3),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,582,2,2,4,3:28 PM,4:58,MISS Finney-Smith 24' 3PT Running Jump Shot,,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,583,4,0,4,3:28 PM,4:58,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,584,6,3,4,3:28 PM,4:58,,,Mitchell L.B.FOUL (P3.PN) (P.Fraher),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,586,3,11,4,3:28 PM,4:58,Kleber Free Throw 1 of 2 (4 PTS),,,86 - 80,-6,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,587,3,12,4,3:29 PM,4:58,Kleber Free Throw 2 of 2 (5 PTS),,,86 - 81,-5,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,588,1,80,4,3:29 PM,4:37,,,Bogdanovic 15' Step Back Jump Shot (26 PTS) (Conley 3 AST),88 - 81,-7,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,590,6,1,4,3:29 PM,4:17,,,Bogdanovic P.FOUL (P4.PN) (J.Capers),,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,592,3,11,4,3:30 PM,4:17,Kleber Free Throw 1 of 2 (6 PTS),,,88 - 82,-6,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,593,3,12,4,3:30 PM,4:17,Kleber Free Throw 2 of 2 (7 PTS),,,88 - 83,-5,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,594,5,4,4,3:31 PM,4:00,,,Mitchell Traveling Turnover (P3.T14),,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042100171,595,1,1,4,3:31 PM,3:35,Bullock 3PT Jump Shot (15 PTS) (Finney-Smith 1 AST),,,88 - 86,-2,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,597,9,1,4,3:31 PM,3:33,,,Jazz Timeout: Regular (Reg.5 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,598,8,0,4,3:32 PM,3:33,SUB: Powell FOR Brunson,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,600,1,101,4,3:33 PM,3:23,,,Conley 13' Driving Floating Jump Shot (11 PTS) (Mitchell 5 AST),90 - 86,-4,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,602,9,1,4,3:33 PM,3:15,MAVERICKS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,603,8,0,4,3:33 PM,3:15,SUB: Brunson FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,605,6,2,4,3:35 PM,3:07,,,Gobert S.FOUL (P3.PN) (T.Ford),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042100171,607,3,11,4,3:35 PM,3:07,Finney-Smith Free Throw 1 of 2 (11 PTS),,,90 - 87,-3,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,608,3,12,4,3:36 PM,3:07,Finney-Smith Free Throw 2 of 2 (12 PTS),,,90 - 88,-2,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,609,2,86,4,3:36 PM,2:54,,,MISS Mitchell 9' Turnaround Fadeaway Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,610,4,0,4,3:36 PM,2:51,Dinwiddie REBOUND (Off:0 Def:4),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,611,5,2,4,3:36 PM,2:39,Dinwiddie Lost Ball Turnover (P4.T7),,Mitchell STEAL (1 STL),,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,613,1,79,4,3:36 PM,2:27,,,Conley 21' Pullup Jump Shot (13 PTS),92 - 88,-4,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,614,1,1,4,3:37 PM,2:12,Kleber 3PT Jump Shot (10 PTS) (Brunson 5 AST),,,92 - 91,-1,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,616,2,101,4,3:37 PM,1:45,,,MISS Mitchell 7' Driving Floating Jump Shot,,,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,617,4,0,4,3:37 PM,1:42,Brunson REBOUND (Off:2 Def:5),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,618,2,1,4,3:37 PM,1:35,MISS Kleber 24' 3PT Jump Shot,,,,,4.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,619,4,0,4,3:37 PM,1:32,,,Conley REBOUND (Off:1 Def:5),,,5.0,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,620,2,6,4,3:38 PM,1:09,,,MISS O'Neale 1' Driving Layup,,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,621,4,0,4,3:38 PM,1:07,,,O'Neale REBOUND (Off:3 Def:3),,,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,622,1,1,4,3:38 PM,0:57,,,O'Neale 25' 3PT Jump Shot (3 PTS) (Mitchell 6 AST),95 - 91,-4,5.0,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042100171,624,9,1,4,3:38 PM,0:56,MAVERICKS Timeout: Regular (Full 6 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,625,2,79,4,3:40 PM,0:47,MISS Brunson 8' Pullup Jump Shot,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,626,4,0,4,3:40 PM,0:45,,,Gobert REBOUND (Off:2 Def:13),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,627,2,101,4,3:40 PM,0:23,Finney-Smith BLOCK (2 BLK),,MISS Bogdanovic 6' Driving Floating Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1
+0042100171,629,4,0,4,3:40 PM,0:23,Finney-Smith REBOUND (Off:1 Def:4),,,,,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,630,2,2,4,3:40 PM,0:17,MISS Bullock 26' 3PT Running Jump Shot,,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,631,4,0,4,3:40 PM,0:17,,,Gobert REBOUND (Off:2 Def:14),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,632,6,28,4,3:40 PM,0:17,Dinwiddie Personal Take Foul (P4.T3) (J.Capers),,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,634,6,28,4,3:41 PM,0:16,Brunson Personal Take Foul (P2.PN) (T.Ford),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,636,3,11,4,3:41 PM,0:16,,,Mitchell Free Throw 1 of 2 (29 PTS),96 - 91,-5,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,637,8,0,4,3:41 PM,0:16,SUB: Powell FOR Brunson,,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,639,3,12,4,3:42 PM,0:16,,,Mitchell Free Throw 2 of 2 (30 PTS),97 - 91,-6,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,640,9,1,4,3:42 PM,0:16,MAVERICKS Timeout: Regular (Full 7 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100171,641,8,0,4,3:43 PM,0:16,SUB: Brunson FOR Bullock,,,,,4.0,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,642,8,0,4,3:43 PM,0:16,SUB: Bertans FOR Powell,,,,,4.0,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,202722,Davis Bertans,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042100171,645,1,75,4,3:44 PM,0:13,Finney-Smith 2' Driving Finger Roll Layup (14 PTS) (Dinwiddie 8 AST),,,97 - 93,-4,4.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042100171,647,6,28,4,3:44 PM,0:10,Brunson Personal Take Foul (P3.PN) (T.Ford),,,,,4.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042100171,649,3,11,4,3:44 PM,0:10,,,Mitchell Free Throw 1 of 2 (31 PTS),98 - 93,-5,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,650,3,12,4,3:45 PM,0:10,,,Mitchell Free Throw 2 of 2 (32 PTS),99 - 93,-6,5.0,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,651,2,79,4,3:45 PM,0:06,MISS Dinwiddie 33' 3PT Pullup Jump Shot,,,,,4.0,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042100171,652,4,0,4,3:45 PM,0:02,,,Gobert REBOUND (Off:2 Def:15),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042100171,653,13,0,4,3:45 PM,0:00,,End of 4th Period (3:45 PM EST),,99 - 93,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

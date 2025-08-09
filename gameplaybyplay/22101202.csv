@@ -1,0 +1,485 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022101202,2,12,0,1,10:06 PM,12:00,,Start of 1st Period (10:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,4,10,0,1,10:06 PM,12:00,Jump Ball Looney vs. Howard: Tip to Green,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022101202,7,2,5,1,10:06 PM,11:45,MISS Green 5' Layup,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,8,4,0,1,10:06 PM,11:43,,,Howard REBOUND (Off:0 Def:1),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,9,6,2,1,10:06 PM,11:41,Poole S.FOUL (P1.T1) (K.Fitzgerald),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,11,3,11,1,10:07 PM,11:41,,,Monk Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,12,3,12,1,10:07 PM,11:41,,,Monk Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,13,2,1,1,10:07 PM,11:27,MISS Poole 27' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,14,4,0,1,10:07 PM,11:24,,,Reaves REBOUND (Off:0 Def:1),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,15,2,6,1,10:07 PM,11:17,,,MISS Reaves 7' Driving Layup,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,16,4,0,1,10:07 PM,11:14,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,17,1,41,1,10:08 PM,11:11,Wiggins 5' Running Layup (2 PTS) (Poole 1 AST),,,2 - 2,TIE,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,19,1,79,1,10:08 PM,10:51,,,Horton-Tucker 20' Pullup Jump Shot (2 PTS),4 - 2,-2,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,20,5,1,1,10:08 PM,10:40,Poole Bad Pass Turnover (P1.T1),,Horton-Tucker STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,22,6,1,1,10:08 PM,10:34,Looney P.FOUL (P1.T2) (B.Adair),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,24,1,73,1,10:09 PM,10:27,,,Horton-Tucker 5' Driving Reverse Layup (4 PTS),6 - 2,-4,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,25,5,1,1,10:09 PM,10:18,Wiggins Bad Pass Turnover (P1.T2),,Johnson STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,27,1,79,1,10:09 PM,10:10,,,Reaves 24' 3PT Pullup Jump Shot (3 PTS) (Monk 1 AST),9 - 2,-7,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,29,6,2,1,10:09 PM,9:55,,,Johnson S.FOUL (P1.T1) (B.Adair),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,31,3,11,1,10:10 PM,9:55,Thompson Free Throw 1 of 2 (1 PTS),,,9 - 3,-6,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,32,3,12,1,10:10 PM,9:55,Thompson Free Throw 2 of 2 (2 PTS),,,9 - 4,-5,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,33,6,2,1,10:10 PM,9:47,Thompson S.FOUL (P1.T3) (B.Adair),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,35,3,11,1,10:10 PM,9:47,,,Monk Free Throw 1 of 2 (3 PTS),10 - 4,-6,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,36,3,12,1,10:11 PM,9:47,,,Monk Free Throw 2 of 2 (4 PTS),11 - 4,-7,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,37,1,105,1,10:11 PM,9:28,Wiggins 7' Turnaround Fadeaway Bank Jump Shot (4 PTS),,,11 - 6,-5,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,38,2,6,1,10:11 PM,9:17,,,MISS Horton-Tucker 7' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,39,4,0,1,10:11 PM,9:16,Looney REBOUND (Off:0 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,40,6,1,1,10:11 PM,9:16,,,Horton-Tucker P.FOUL (P1.T2) (K.Fitzgerald),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,42,1,80,1,10:12 PM,9:03,Thompson 29' 3PT Step Back Jump Shot (5 PTS),,,11 - 9,-2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,44,2,1,1,10:12 PM,8:50,,,MISS Johnson 26' 3PT Jump Shot,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,45,4,0,1,10:12 PM,8:47,,,Howard REBOUND (Off:1 Def:1),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,47,6,1,1,10:12 PM,8:39,Wiggins P.FOUL (P1.T4) (M.Smith),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,49,2,80,1,10:13 PM,8:26,,,MISS Reaves 28' 3PT Step Back Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,50,4,0,1,10:13 PM,8:24,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,51,1,1,1,10:13 PM,8:15,Wiggins 3PT Jump Shot (7 PTS) (Green 1 AST),,,11 - 12,1,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,53,1,73,1,10:13 PM,7:57,,,Horton-Tucker 5' Driving Reverse Layup (6 PTS),13 - 12,-1,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,54,5,1,1,10:13 PM,7:52,Green Bad Pass Turnover (P1.T3),,Monk STEAL (1 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,56,6,2,1,10:13 PM,7:45,Green S.FOUL (P1.PN) (B.Adair),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,58,3,13,1,10:14 PM,7:45,,,Reaves Free Throw 1 of 3 (4 PTS),14 - 12,-2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,59,9,1,1,10:14 PM,7:45,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,60,3,14,1,10:18 PM,7:45,,,Reaves Free Throw 2 of 3 (5 PTS),15 - 12,-3,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,61,3,15,1,10:18 PM,7:45,,,Reaves Free Throw 3 of 3 (6 PTS),16 - 12,-4,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,62,5,45,1,10:18 PM,7:31,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,63,1,58,1,10:18 PM,7:16,,,Howard 8' Turnaround Hook Shot (2 PTS) (Reaves 1 AST),18 - 12,-6,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,65,1,1,1,10:18 PM,7:08,Thompson 28' 3PT Jump Shot (8 PTS) (Wiggins 1 AST),,,18 - 15,-3,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,67,7,5,1,10:19 PM,6:44,Looney Violation:Kicked Ball (K.Fitzgerald),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0022101202,68,1,6,1,10:19 PM,6:38,,,Monk 4' Driving Layup (6 PTS),20 - 15,-5,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,69,2,108,1,10:19 PM,6:27,MISS Poole 4' Cutting Dunk Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,70,4,0,1,10:19 PM,6:24,,,Howard REBOUND (Off:1 Def:2),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,71,1,98,1,10:20 PM,6:22,,,Johnson 4' Cutting Layup Shot (2 PTS) (Monk 2 AST),22 - 15,-7,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,73,6,2,1,10:20 PM,6:22,Poole S.FOUL (P2.PN) (M.Smith),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,75,8,0,1,10:20 PM,6:22,SUB: Payton II FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,76,8,0,1,10:20 PM,6:22,SUB: Porter Jr. FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,79,3,10,1,10:20 PM,6:22,,,Johnson Free Throw 1 of 1 (3 PTS),23 - 15,-8,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,80,6,1,1,10:20 PM,6:10,,,Horton-Tucker P.FOUL (P2.T3) (M.Smith),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,82,8,0,1,10:21 PM,6:10,,,SUB: Augustin FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,84,1,1,1,10:21 PM,6:02,Porter Jr. 27' 3PT Jump Shot (3 PTS) (Green 2 AST),,,23 - 18,-5,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,86,5,1,1,10:21 PM,5:47,Porter Jr. STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T1),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,88,6,14,1,10:21 PM,5:44,Wiggins FLAGRANT.FOUL.TYPE1 (P2.PN) (B.Adair),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,90,5,0,1,10:21 PM,5:44,Wiggins Turnover Turnover (P2.T5),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,91,18,1,1,10:22 PM,5:44,,Instant Replay1st Period (10:22 PM EST),,23 - 18,-5,0,88,Steve Scheffler,,,,,0,0,,,,,,1,0,,,,,,0
+0022101202,92,3,18,1,10:23 PM,5:44,,,Reaves Free Throw Flagrant 1 of 2 (7 PTS),24 - 18,-6,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,95,3,19,1,10:23 PM,5:44,,,MISS Reaves Free Throw Flagrant 2 of 2,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,96,4,1,1,10:23 PM,5:44,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,93,8,0,1,10:23 PM,5:44,SUB: Iguodala FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,97,5,1,1,10:24 PM,5:29,Porter Jr. STEAL (2 STL),,Johnson Bad Pass Turnover (P2.T2),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,99,2,47,1,10:24 PM,5:17,MISS Iguodala 9' Turnaround Jump Shot,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,100,4,0,1,10:24 PM,5:15,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,101,1,101,1,10:24 PM,5:07,,,Reaves 10' Driving Floating Jump Shot (9 PTS) (Augustin 1 AST),26 - 18,-8,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,103,6,2,1,10:25 PM,5:07,Iguodala S.FOUL (P1.PN) (M.Smith),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,105,3,10,1,10:25 PM,5:07,,,Reaves Free Throw 1 of 1 (10 PTS),27 - 18,-9,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,106,1,6,1,10:25 PM,4:55,Poole 5' Driving Layup (2 PTS),,,27 - 20,-7,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,107,2,79,1,10:25 PM,4:31,,,MISS Monk 27' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,108,4,0,1,10:26 PM,4:28,Iguodala REBOUND (Off:0 Def:1),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,109,2,80,1,10:26 PM,4:09,MISS Poole 24' 3PT Step Back Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,110,4,0,1,10:26 PM,4:06,,,Howard REBOUND (Off:1 Def:3),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,111,5,1,1,10:26 PM,3:53,Green STEAL (1 STL),,Monk Bad Pass Turnover (P1.T3),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,113,2,5,1,10:26 PM,3:38,MISS Iguodala 3' Layup,,Monk BLOCK (1 BLK),,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1
+0022101202,115,4,0,1,10:26 PM,3:35,,,Reaves REBOUND (Off:0 Def:2),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,116,2,1,1,10:26 PM,3:31,,,MISS Monk 3PT Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,117,4,0,1,10:27 PM,3:29,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,118,1,1,1,10:27 PM,3:06,Iguodala 3PT Jump Shot (3 PTS) (Poole 2 AST),,,27 - 23,-4,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,120,9,1,1,10:27 PM,3:04,,,Lakers Timeout: Regular (Reg.1 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,121,8,0,1,10:29 PM,3:04,SUB: Bjelica FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,122,8,0,1,10:29 PM,3:04,SUB: Thompson FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,123,8,0,1,10:29 PM,3:04,,,SUB: Bazemore FOR Monk,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,124,8,0,1,10:29 PM,3:04,,,SUB: Horton-Tucker FOR Johnson,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,125,8,0,1,10:29 PM,3:04,,,SUB: Gabriel FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,126,8,0,1,10:29 PM,3:04,,,SUB: Ellington FOR Howard,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,133,2,1,1,10:31 PM,2:49,,,MISS Augustin 26' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,134,4,0,1,10:31 PM,2:46,Thompson REBOUND (Off:0 Def:1),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,135,2,79,1,10:31 PM,2:34,MISS Thompson 27' 3PT Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022101202,136,4,0,1,10:31 PM,2:32,,,Ellington REBOUND (Off:0 Def:1),,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,137,1,80,1,10:31 PM,2:20,,,Horton-Tucker 18' Step Back Jump Shot (8 PTS),29 - 23,-6,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,138,1,108,1,10:31 PM,2:04,Payton II 5' Cutting Dunk Shot (2 PTS) (Iguodala 1 AST),,,29 - 25,-4,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,140,1,80,1,10:32 PM,1:46,,,Horton-Tucker 25' 3PT Step Back Jump Shot (11 PTS),32 - 25,-7,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,141,2,1,1,10:32 PM,1:22,MISS Porter Jr. 27' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,142,4,0,1,10:32 PM,1:20,,,Bazemore REBOUND (Off:0 Def:1),,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,143,2,1,1,10:32 PM,1:08,,,MISS Ellington 3PT Jump Shot,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,144,4,0,1,10:32 PM,1:05,,,Gabriel REBOUND (Off:1 Def:0),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,145,2,79,1,10:33 PM,0:59,,,MISS Horton-Tucker 26' 3PT Pullup Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,146,4,0,1,10:33 PM,0:56,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,147,1,98,1,10:33 PM,0:49,Payton II 4' Cutting Layup Shot (4 PTS) (Iguodala 2 AST),,,32 - 27,-5,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,149,2,6,1,10:33 PM,0:35,,,MISS Horton-Tucker 9' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,150,4,0,1,10:33 PM,0:32,Payton II REBOUND (Off:0 Def:1),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,151,5,4,1,10:33 PM,0:27,Iguodala Traveling Turnover (P1.T6),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,152,8,0,1,10:33 PM,0:27,SUB: Looney FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,154,2,6,1,10:34 PM,0:07,,,MISS Augustin 7' Driving Layup,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,155,4,0,1,10:34 PM,0:05,Payton II REBOUND (Off:0 Def:2),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,158,8,0,1,10:34 PM,0:03,SUB: Poole FOR Payton II,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,159,8,0,1,10:34 PM,0:03,SUB: Bjelica FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,160,8,0,1,10:34 PM,0:03,,,SUB: Reaves FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,164,2,1,1,10:35 PM,0:01,MISS Iguodala 3PT Jump Shot,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,165,4,0,1,10:35 PM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,166,13,0,1,10:35 PM,0:00,,End of 1st Period (10:35 PM EST),,32 - 27,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101202,171,12,0,2,10:39 PM,12:00,,Start of 2nd Period (10:39 PM EST),,32 - 27,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,172,2,6,2,10:39 PM,11:46,,,MISS Horton-Tucker 6' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,173,4,0,2,10:39 PM,11:44,Porter Jr. REBOUND (Off:0 Def:2),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022101202,174,2,98,2,10:39 PM,11:33,MISS Porter Jr. 5' Cutting Layup Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022101202,175,4,0,2,10:39 PM,11:30,,,Gabriel REBOUND (Off:1 Def:1),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,176,2,80,2,10:39 PM,11:21,,,MISS Ellington 27' 3PT Step Back Jump Shot,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,177,4,0,2,10:39 PM,11:18,Porter Jr. REBOUND (Off:0 Def:3),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,178,1,1,2,10:39 PM,11:08,Thompson 27' 3PT Jump Shot (11 PTS) (Iguodala 3 AST),,,32 - 30,-2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,180,2,1,2,10:40 PM,10:46,,,MISS Horton-Tucker 27' 3PT Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,181,4,0,2,10:40 PM,10:44,Porter Jr. REBOUND (Off:0 Def:4),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,182,2,1,2,10:40 PM,10:36,MISS Porter Jr. 15' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,183,4,0,2,10:40 PM,10:34,,,Augustin REBOUND (Off:0 Def:1),,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,184,1,9,2,10:40 PM,10:20,,,Gabriel 3' Driving Dunk (2 PTS),34 - 30,-4,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,185,1,101,2,10:40 PM,10:09,Bjelica 15' Driving Floating Jump Shot (2 PTS) (Thompson 1 AST),,,34 - 32,-2,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,187,6,2,2,10:41 PM,10:09,,,Gabriel S.FOUL (P1.T1) (K.Fitzgerald),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,189,8,0,2,10:41 PM,10:09,,,SUB: Monk FOR Augustin,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,191,3,10,2,10:41 PM,10:09,Bjelica Free Throw 1 of 1 (3 PTS),,,34 - 33,-1,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,192,2,79,2,10:41 PM,9:48,,,MISS Bazemore 19' Pullup Jump Shot,,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,193,4,0,2,10:41 PM,9:45,Payton II REBOUND (Off:0 Def:3),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,194,2,71,2,10:42 PM,9:35,MISS Thompson 6' Finger Roll Layup,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,195,4,0,2,10:42 PM,9:33,Porter Jr. REBOUND (Off:1 Def:4),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,196,2,97,2,10:42 PM,9:31,MISS Porter Jr. Tip Layup Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,197,4,0,2,10:42 PM,9:30,Bjelica REBOUND (Off:1 Def:0),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,198,2,1,2,10:42 PM,9:29,MISS Thompson 25' 3PT Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,199,4,0,2,10:42 PM,9:27,,,Ellington REBOUND (Off:0 Def:2),,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,200,2,1,2,10:42 PM,9:17,,,MISS Ellington 3PT Jump Shot,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,201,4,0,2,10:42 PM,9:14,Thompson REBOUND (Off:0 Def:2),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,202,2,5,2,10:42 PM,9:10,MISS Payton II 4' Layup,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,203,4,0,2,10:42 PM,9:09,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,205,8,0,2,10:42 PM,9:09,SUB: Kuminga FOR Payton II,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,207,1,7,2,10:43 PM,9:06,Bjelica 5' Dunk (5 PTS) (Iguodala 4 AST),,,34 - 35,1,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,209,1,6,2,10:43 PM,8:54,,,Monk 7' Driving Layup (8 PTS),36 - 35,-1,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,210,1,1,2,10:43 PM,8:38,Thompson 27' 3PT Jump Shot (14 PTS) (Bjelica 1 AST),,,36 - 38,2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,212,9,1,2,10:43 PM,8:38,,,Lakers Timeout: Regular (Reg.2 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,213,8,0,2,10:46 PM,8:38,,,SUB: Augustin FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,215,5,1,2,10:47 PM,8:18,Iguodala STEAL (1 STL),,Ellington Bad Pass Turnover (P1.T4),,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,217,2,5,2,10:47 PM,8:15,MISS Porter Jr. 4' Layup,,Bazemore BLOCK (1 BLK),,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,1
+0022101202,219,4,0,2,10:47 PM,8:14,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,220,1,44,2,10:47 PM,8:11,Bjelica 4' Reverse Layup (7 PTS) (Iguodala 5 AST),,,36 - 40,4,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,222,2,1,2,10:48 PM,7:58,,,MISS Bazemore 3PT Jump Shot,,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,223,4,0,2,10:48 PM,7:56,Kuminga REBOUND (Off:0 Def:1),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,224,1,98,2,10:48 PM,7:45,Kuminga 4' Cutting Layup Shot (2 PTS) (Bjelica 2 AST),,,36 - 42,6,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,226,6,2,2,10:48 PM,7:31,Kuminga S.FOUL (P1.T1) (B.Adair),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,228,3,13,2,10:49 PM,7:31,,,Ellington Free Throw 1 of 3 (1 PTS),37 - 42,5,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,229,3,14,2,10:49 PM,7:31,,,Ellington Free Throw 2 of 3 (2 PTS),38 - 42,4,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,230,8,0,2,10:49 PM,7:31,SUB: Wiggins FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,231,8,0,2,10:49 PM,7:31,SUB: Green FOR Iguodala,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,232,8,0,2,10:49 PM,7:31,SUB: Poole FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,236,3,15,2,10:49 PM,7:31,,,Ellington Free Throw 3 of 3 (3 PTS),39 - 42,3,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,237,1,99,2,10:50 PM,7:16,Green 8' Cutting Finger Roll Layup Shot (2 PTS) (Poole 3 AST),,,39 - 44,5,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,239,1,1,2,10:50 PM,7:07,,,Monk 30' 3PT Jump Shot (11 PTS) (Augustin 2 AST),42 - 44,2,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,241,6,2,2,10:50 PM,6:55,,,Bazemore S.FOUL (P1.T2) (B.Adair),,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,243,3,11,2,10:50 PM,6:55,Kuminga Free Throw 1 of 2 (3 PTS),,,42 - 45,3,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022101202,244,8,0,2,10:50 PM,6:55,,,SUB: Reaves FOR Ellington,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,245,8,0,2,10:50 PM,6:55,,,SUB: Johnson FOR Bazemore,,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,248,3,12,2,10:51 PM,6:55,Kuminga Free Throw 2 of 2 (4 PTS),,,42 - 46,4,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,249,2,79,2,10:51 PM,6:41,,,MISS Monk 29' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,250,4,0,2,10:51 PM,6:38,Kuminga REBOUND (Off:0 Def:2),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,251,5,45,2,10:51 PM,6:37,Kuminga Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,252,8,0,2,10:51 PM,6:37,SUB: Thompson FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,254,2,6,2,10:51 PM,6:28,Green BLOCK (1 BLK),,MISS Johnson 4' Driving Layup,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022101202,256,4,0,2,10:51 PM,6:26,,,Johnson REBOUND (Off:1 Def:0),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,257,2,5,2,10:52 PM,6:20,,,MISS Monk 4' Layup,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,258,4,0,2,10:52 PM,6:18,Thompson REBOUND (Off:0 Def:3),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,259,2,6,2,10:52 PM,6:09,MISS Thompson 6' Driving Layup,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,261,4,0,2,10:52 PM,6:07,,,Johnson REBOUND (Off:1 Def:1),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,262,1,9,2,10:52 PM,6:02,,,Gabriel 3' Driving Dunk (4 PTS) (Johnson 1 AST),44 - 46,2,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,264,2,1,2,10:52 PM,5:43,MISS Wiggins 27' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,265,4,0,2,10:52 PM,5:41,,,Monk REBOUND (Off:0 Def:2),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,266,1,1,2,10:52 PM,5:34,,,Johnson 27' 3PT Jump Shot (6 PTS) (Augustin 3 AST),47 - 46,-1,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,268,1,79,2,10:53 PM,5:10,Thompson 18' Pullup Jump Shot (16 PTS) (Green 3 AST),,,47 - 48,1,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,270,5,4,2,10:53 PM,5:01,,,Monk Traveling Turnover (P2.T5),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,272,7,1,2,10:53 PM,5:01,,,Lakers Violation: Delay of game Violation,,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101202,273,8,0,2,10:53 PM,5:01,,,SUB: Howard FOR Monk,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,274,8,0,2,10:53 PM,5:01,,,SUB: Horton-Tucker FOR Gabriel,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,277,1,6,2,10:54 PM,4:49,Green 5' Driving Layup (4 PTS) (Poole 4 AST),,,47 - 50,3,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,279,6,2,2,10:54 PM,4:31,Green S.FOUL (P2.T2) (B.Adair),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,281,3,11,2,10:55 PM,4:31,,,Howard Free Throw 1 of 2 (3 PTS),48 - 50,2,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,282,3,12,2,10:55 PM,4:31,,,Howard Free Throw 2 of 2 (4 PTS),49 - 50,1,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,283,2,47,2,10:55 PM,4:11,MISS Kuminga 8' Turnaround Jump Shot,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,284,4,0,2,10:56 PM,4:08,,,Howard REBOUND (Off:1 Def:4),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,285,6,2,2,10:56 PM,4:06,Green S.FOUL (P3.T3) (K.Fitzgerald),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,287,3,11,2,10:56 PM,4:06,,,MISS Johnson Free Throw 1 of 2,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,288,4,1,2,10:56 PM,4:06,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,289,8,0,2,10:56 PM,4:06,,,SUB: Monk FOR Augustin,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,291,3,12,2,10:56 PM,4:06,,,Johnson Free Throw 2 of 2 (7 PTS),50 - 50,TIE,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,292,5,1,2,10:56 PM,3:55,Poole Bad Pass Turnover (P2.T8),,Howard STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,294,5,1,2,10:57 PM,3:48,Green STEAL (2 STL),,Monk Bad Pass Turnover (P3.T6),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,296,2,41,2,10:57 PM,3:42,MISS Green 6' Running Layup,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,297,4,0,2,10:57 PM,3:39,,,Horton-Tucker REBOUND (Off:0 Def:1),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,298,1,5,2,10:57 PM,3:35,,,Reaves 6' Layup (12 PTS) (Howard 1 AST),52 - 50,-2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,300,9,1,2,10:57 PM,3:35,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,301,8,0,2,10:59 PM,3:35,SUB: Looney FOR Kuminga,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,302,8,0,2,10:59 PM,3:35,SUB: Porter Jr. FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,306,1,66,2,11:01 PM,3:18,Looney 5' Jump Bank Shot (2 PTS) (Poole 5 AST),,,52 - 52,TIE,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,308,1,80,2,11:01 PM,2:59,,,Horton-Tucker 16' Step Back Jump Shot (13 PTS),54 - 52,-2,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,309,1,80,2,11:01 PM,2:44,Wiggins 18' Step Back Jump Shot (9 PTS) (Looney 1 AST),,,54 - 54,TIE,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,310,5,45,2,11:01 PM,2:34,,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,311,2,86,2,11:02 PM,2:25,MISS Wiggins 14' Turnaround Fadeaway Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,312,4,0,2,11:02 PM,2:22,,,Horton-Tucker REBOUND (Off:0 Def:2),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,314,1,6,2,11:02 PM,2:19,,,Horton-Tucker 5' Driving Layup (15 PTS),56 - 54,-2,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,315,1,79,2,11:02 PM,2:08,Thompson 27' 3PT Pullup Jump Shot (19 PTS) (Poole 6 AST),,,56 - 57,1,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,317,1,7,2,11:02 PM,1:47,,,Howard 3' Dunk (6 PTS),58 - 57,-1,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,318,6,13,2,11:02 PM,1:47,,,Howard HANGING.TECH.FOUL (P0.T2) (M.Smith),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,319,3,16,2,11:03 PM,1:47,Thompson Free Throw Technical (20 PTS),,,58 - 58,TIE,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,320,5,2,2,11:03 PM,1:36,Looney Lost Ball Turnover (P1.T9),,Horton-Tucker STEAL (2 STL),,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,322,6,2,2,11:03 PM,1:33,Thompson S.FOUL (P2.T4) (M.Smith),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,324,3,11,2,11:04 PM,1:33,,,Horton-Tucker Free Throw 1 of 2 (16 PTS),59 - 58,-1,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,325,3,12,2,11:04 PM,1:33,,,Horton-Tucker Free Throw 2 of 2 (17 PTS),60 - 58,-2,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,326,2,1,2,11:04 PM,1:23,MISS Thompson 26' 3PT Jump Shot,,Howard BLOCK (1 BLK),,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1
+0022101202,328,4,0,2,11:04 PM,1:21,Looney REBOUND (Off:1 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,329,1,1,2,11:04 PM,1:17,Thompson 26' 3PT Jump Shot (23 PTS) (Looney 2 AST),,,60 - 61,1,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,331,1,79,2,11:05 PM,1:08,,,Monk 12' Pullup Jump Shot (13 PTS),62 - 61,-1,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,332,1,6,2,11:05 PM,0:58,Poole 4' Driving Layup (4 PTS),,,62 - 63,1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,333,5,4,2,11:05 PM,0:51,,,Horton-Tucker Traveling Turnover (P1.T8),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,334,1,9,2,11:05 PM,0:47,Wiggins 4' Driving Dunk (11 PTS) (Poole 7 AST),,,62 - 65,3,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,336,9,1,2,11:05 PM,0:47,,,Lakers Timeout: Regular (Reg.3 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,337,2,1,2,11:07 PM,0:34,,,MISS Monk 30' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,338,4,0,2,11:07 PM,0:32,Wiggins REBOUND (Off:0 Def:1),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,339,2,79,2,11:08 PM,0:10,MISS Thompson 28' 3PT Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,340,4,0,2,11:08 PM,0:08,,,Howard REBOUND (Off:1 Def:5),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,341,2,1,2,11:08 PM,0:00,Wiggins BLOCK (1 BLK),,MISS Johnson 24' 3PT Jump Shot,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1
+0022101202,343,4,0,2,11:08 PM,0:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,344,13,0,2,11:08 PM,0:00,,End of 2nd Period (11:08 PM EST),,62 - 65,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101202,347,12,0,3,11:24 PM,12:00,,Start of 3rd Period (11:24 PM EST),,62 - 65,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,348,2,80,3,11:25 PM,11:39,,,MISS Monk 19' Step Back Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,349,4,0,3,11:25 PM,11:37,Looney REBOUND (Off:1 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,350,5,2,3,11:25 PM,11:24,Thompson Lost Ball Turnover (P1.T10),,Johnson STEAL (2 STL),,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,352,1,41,3,11:25 PM,11:20,,,Horton-Tucker 5' Running Layup (19 PTS) (Johnson 2 AST),64 - 65,1,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,354,2,58,3,11:25 PM,11:03,MISS Green 8' Turnaround Hook Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,355,4,0,3,11:25 PM,11:01,,,Johnson REBOUND (Off:1 Def:2),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,356,1,1,3,11:26 PM,10:46,,,Monk 28' 3PT Jump Shot (16 PTS) (Horton-Tucker 1 AST),67 - 65,-2,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,358,9,1,3,11:26 PM,10:44,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,359,2,78,3,11:29 PM,10:30,MISS Green 8' Floating Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,360,4,0,3,11:29 PM,10:28,,,Monk REBOUND (Off:0 Def:3),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,361,1,6,3,11:30 PM,10:13,,,Horton-Tucker 4' Driving Layup (21 PTS),69 - 65,-4,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,362,5,2,3,11:30 PM,10:03,Poole Lost Ball Turnover (P3.T11),,Horton-Tucker STEAL (3 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,364,6,2,3,11:30 PM,10:00,Poole S.FOUL (P3.T1) (M.Smith),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,367,3,11,3,11:30 PM,10:00,,,MISS Monk Free Throw 1 of 2,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,368,4,1,3,11:30 PM,10:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,369,3,12,3,11:30 PM,10:00,,,Monk Free Throw 2 of 2 (17 PTS),70 - 65,-5,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,370,1,63,3,11:31 PM,9:48,Thompson 15' Fadeaway Jumper (25 PTS),,,70 - 67,-3,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,371,2,80,3,11:31 PM,9:28,,,MISS Horton-Tucker 17' Step Back Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,372,4,0,3,11:31 PM,9:26,,,Howard REBOUND (Off:2 Def:5),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,373,1,72,3,11:31 PM,9:24,,,Howard Putback Layup (8 PTS),72 - 67,-5,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,374,1,6,3,11:31 PM,9:15,Poole 5' Driving Layup (6 PTS),,,72 - 69,-3,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,375,2,79,3,11:31 PM,9:06,,,MISS Reaves 26' 3PT Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,376,4,0,3,11:31 PM,9:03,,,Howard REBOUND (Off:3 Def:5),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,377,6,2,3,11:31 PM,9:03,Green S.FOUL (P4.T2) (K.Fitzgerald),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,379,3,11,3,11:32 PM,9:03,,,MISS Howard Free Throw 1 of 2,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,380,4,1,3,11:32 PM,9:03,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,381,3,12,3,11:32 PM,9:03,,,Howard Free Throw 2 of 2 (9 PTS),73 - 69,-4,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,382,2,79,3,11:33 PM,8:52,MISS Wiggins 19' Pullup Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,383,4,0,3,11:33 PM,8:49,,,Reaves REBOUND (Off:0 Def:3),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,384,2,5,3,11:33 PM,8:45,,,MISS Howard 4' Layup,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,385,4,0,3,11:33 PM,8:42,Looney REBOUND (Off:1 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,386,1,6,3,11:33 PM,8:31,Green 5' Driving Layup (6 PTS) (Poole 8 AST),,,73 - 71,-2,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,388,1,63,3,11:33 PM,8:09,,,Monk 9' Fadeaway Jumper (19 PTS),75 - 71,-4,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,389,1,79,3,11:34 PM,7:51,Thompson 11' Pullup Jump Shot (27 PTS) (Poole 9 AST),,,75 - 73,-2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,391,1,52,3,11:34 PM,7:38,,,Howard 4' Alley Oop Dunk (11 PTS) (Monk 3 AST),77 - 73,-4,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,393,1,105,3,11:34 PM,7:17,Looney 6' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Thompson 2 AST),,,77 - 75,-2,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,395,6,1,3,11:34 PM,7:00,Wiggins P.FOUL (P3.T3) (K.Fitzgerald),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,397,2,80,3,11:35 PM,6:55,,,MISS Monk 20' Step Back Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,398,4,0,3,11:35 PM,6:53,Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,399,2,102,3,11:35 PM,6:41,MISS Thompson 16' Driving Floating Bank Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,400,4,0,3,11:35 PM,6:38,,,Howard REBOUND (Off:3 Def:6),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,401,1,5,3,11:35 PM,6:34,,,Monk 6' Layup (21 PTS) (Horton-Tucker 2 AST),79 - 75,-4,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,403,9,1,3,11:35 PM,6:34,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,404,8,0,3,11:38 PM,6:34,SUB: Porter Jr. FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,405,8,0,3,11:38 PM,6:34,SUB: Payton II FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,408,1,1,3,11:39 PM,6:22,Poole 25' 3PT Jump Shot (9 PTS) (Porter Jr. 1 AST),,,79 - 78,-1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,410,2,47,3,11:39 PM,6:01,,,MISS Horton-Tucker 7' Turnaround Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,411,4,0,3,11:39 PM,5:59,Porter Jr. REBOUND (Off:1 Def:5),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,412,6,4,3,11:39 PM,5:56,Payton II OFF.Foul (P1) (M.Smith),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,414,5,37,3,11:39 PM,5:56,Payton II Offensive Foul Turnover (P1.T12),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,415,8,0,3,11:39 PM,5:56,,,SUB: Augustin FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,417,2,1,3,11:40 PM,5:43,,,MISS Johnson 25' 3PT Jump Shot,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,418,4,0,3,11:40 PM,5:41,,,Howard REBOUND (Off:4 Def:6),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,419,2,97,3,11:40 PM,5:39,,,MISS Howard Tip Layup Shot,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,420,4,0,3,11:40 PM,5:37,,,Howard REBOUND (Off:5 Def:6),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,421,1,97,3,11:40 PM,5:35,,,Howard Tip Layup Shot (13 PTS),81 - 78,-3,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,422,6,1,3,11:40 PM,5:29,,,Augustin P.FOUL (P1.T1) (K.Fitzgerald),,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0022101202,424,1,79,3,11:40 PM,5:25,Wiggins 26' 3PT Pullup Jump Shot (14 PTS) (Poole 10 AST),,,81 - 81,TIE,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,426,2,1,3,11:41 PM,5:02,,,MISS Howard 20' Jump Shot,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,427,4,0,3,11:41 PM,5:00,Payton II REBOUND (Off:0 Def:4),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,428,2,1,3,11:41 PM,4:49,MISS Poole 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,429,4,0,3,11:41 PM,4:47,Wiggins REBOUND (Off:1 Def:1),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,430,2,1,3,11:41 PM,4:39,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,431,4,0,3,11:41 PM,4:37,,,Monk REBOUND (Off:0 Def:4),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,432,2,5,3,11:41 PM,4:25,Green BLOCK (2 BLK),,MISS Howard 7' Layup,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022101202,434,4,0,3,11:42 PM,4:22,Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,435,2,74,3,11:42 PM,4:20,MISS Porter Jr. 4' Running Reverse Layup,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,436,4,0,3,11:42 PM,4:18,,,Johnson REBOUND (Off:1 Def:3),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,438,5,1,3,11:42 PM,4:08,Payton II STEAL (1 STL),,Johnson Bad Pass Turnover (P4.T9),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,440,2,5,3,11:42 PM,4:02,MISS Poole 5' Layup,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,441,4,0,3,11:42 PM,4:00,,,Johnson REBOUND (Off:1 Def:4),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,442,2,79,3,11:42 PM,3:47,,,MISS Monk 30' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,443,4,0,3,11:42 PM,3:44,Porter Jr. REBOUND (Off:1 Def:6),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,444,1,41,3,11:42 PM,3:38,Green 6' Running Layup (8 PTS),,,81 - 83,2,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,445,9,1,3,11:42 PM,3:38,,,Lakers Timeout: Regular (Reg.4 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,446,8,0,3,11:44 PM,3:38,SUB: Bjelica FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,448,8,0,3,11:44 PM,3:38,,,SUB: Gabriel FOR Monk,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,449,8,0,3,11:44 PM,3:38,,,SUB: Bazemore FOR Johnson,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,450,8,0,3,11:44 PM,3:38,,,SUB: Ellington FOR Howard,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,456,8,0,3,11:44 PM,3:38,SUB: Iguodala FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,457,2,80,3,11:44 PM,3:19,,,MISS Augustin 28' 3PT Step Back Jump Shot,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,458,4,0,3,11:44 PM,3:17,Bjelica REBOUND (Off:1 Def:1),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,459,2,47,3,11:45 PM,2:52,MISS Iguodala 11' Turnaround Jump Shot,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,460,4,0,3,11:45 PM,2:50,,,Ellington REBOUND (Off:0 Def:3),,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,461,2,79,3,11:45 PM,2:43,,,MISS Reaves 27' 3PT Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,462,4,0,3,11:45 PM,2:42,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,463,6,3,3,11:45 PM,2:42,Poole L.B.FOUL (P4.T4) (K.Fitzgerald),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,465,6,11,3,11:45 PM,2:42,Poole T.FOUL (P4.T4) (K.Fitzgerald),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0022101202,466,8,0,3,11:46 PM,2:42,SUB: Thompson FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,492,8,0,3,11:46 PM,2:42,,,SUB: Horton-Tucker FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,468,3,16,3,11:46 PM,2:42,,,MISS Ellington Free Throw Technical,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,469,4,1,3,11:46 PM,2:42,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,470,5,11,3,11:46 PM,2:28,,,Lakers Turnover: Shot Clock (T#10),,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101202,471,1,5,3,11:47 PM,2:16,Bjelica 6' Layup (9 PTS) (Thompson 3 AST),,,81 - 85,4,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,473,6,4,3,11:47 PM,2:02,,,Gabriel OFF.Foul (P2) (B.Adair),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,475,5,37,3,11:47 PM,2:02,,,Gabriel Offensive Foul Turnover (P1.T11),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,476,1,73,3,11:48 PM,1:52,Thompson 4' Driving Reverse Layup (29 PTS) (Bjelica 3 AST),,,81 - 87,6,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,478,2,79,3,11:48 PM,1:29,,,MISS Horton-Tucker 31' 3PT Pullup Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022101202,479,4,0,3,11:48 PM,1:27,Iguodala REBOUND (Off:0 Def:2),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022101202,480,1,80,3,11:48 PM,1:13,Thompson 17' Step Back Jump Shot (31 PTS),,,81 - 89,8,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,481,5,1,3,11:48 PM,0:55,Bjelica STEAL (1 STL),,Ellington Bad Pass Turnover (P2.T12),,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,483,1,110,3,11:49 PM,0:52,Payton II 5' Running Reverse Dunk Shot (6 PTS),,,81 - 91,10,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,485,1,1,3,11:49 PM,0:39,,,Ellington 30' 3PT Jump Shot (6 PTS) (Horton-Tucker 3 AST),84 - 91,7,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,487,2,75,3,11:49 PM,0:25,MISS Payton II 5' Driving Finger Roll Layup,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,488,4,0,3,11:49 PM,0:23,,,Bazemore REBOUND (Off:0 Def:2),,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,489,2,80,3,11:49 PM,0:03,,,MISS Horton-Tucker 15' Step Back Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,490,4,0,3,11:49 PM,0:01,Bjelica REBOUND (Off:1 Def:2),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,491,13,0,3,11:50 PM,0:00,,End of 3rd Period (11:50 PM EST),,84 - 91,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101202,494,12,0,4,11:53 PM,12:00,,Start of 4th Period (11:53 PM EST),,84 - 91,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,495,1,1,4,11:54 PM,11:46,Porter Jr. 25' 3PT Jump Shot (6 PTS) (Iguodala 6 AST),,,84 - 94,10,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,497,5,1,4,11:54 PM,11:38,Payton II STEAL (2 STL),,Horton-Tucker Bad Pass Turnover (P2.T13),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,499,2,63,4,11:54 PM,11:34,MISS Thompson 20' Fadeaway Jumper,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,500,4,0,4,11:54 PM,11:32,,,Ellington REBOUND (Off:0 Def:4),,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,501,5,2,4,11:54 PM,11:20,Iguodala STEAL (2 STL),,Gabriel Lost Ball Turnover (P2.T14),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,503,1,5,4,11:54 PM,11:09,Payton II 4' Layup (8 PTS) (Thompson 4 AST),,,84 - 96,12,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,505,9,1,4,11:54 PM,11:08,,,Lakers Timeout: Regular (Reg.5 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,507,1,73,4,11:58 PM,10:49,,,Horton-Tucker 4' Driving Reverse Layup (23 PTS),86 - 96,10,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,508,6,1,4,11:58 PM,10:34,,,Bazemore P.FOUL (P2.T1) (B.Adair),,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,510,8,0,4,11:59 PM,10:34,,,SUB: Johnson FOR Augustin,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,511,8,0,4,11:59 PM,10:34,,,SUB: Monk FOR Bazemore,,,5,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,514,2,1,4,11:59 PM,10:29,MISS Porter Jr. 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,515,4,0,4,11:59 PM,10:27,,,Monk REBOUND (Off:0 Def:5),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,516,2,1,4,11:59 PM,10:17,,,MISS Ellington 27' 3PT Jump Shot,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,517,4,0,4,11:59 PM,10:14,Porter Jr. REBOUND (Off:1 Def:7),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,518,2,1,4,11:59 PM,10:09,MISS Porter Jr. 26' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,519,4,0,4,11:59 PM,10:06,,,Johnson REBOUND (Off:1 Def:5),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,520,6,2,4,11:59 PM,10:04,Bjelica S.FOUL (P1.T1) (B.Adair),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,522,3,11,4,12:00 AM,10:04,,,Johnson Free Throw 1 of 2 (8 PTS),87 - 96,9,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,523,3,12,4,12:00 AM,10:04,,,MISS Johnson Free Throw 2 of 2,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,524,4,0,4,12:00 AM,10:02,Bjelica REBOUND (Off:1 Def:3),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,525,2,6,4,12:00 AM,9:48,MISS Thompson 4' Driving Layup,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,527,4,0,4,12:00 AM,9:46,,,Monk REBOUND (Off:0 Def:6),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,528,2,5,4,12:00 AM,9:42,,,MISS Johnson 6' Layup,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,529,4,0,4,12:00 AM,9:41,Bjelica REBOUND (Off:1 Def:4),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,530,5,45,4,12:01 AM,9:40,Bjelica Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,531,6,4,4,12:01 AM,9:32,,,Gabriel OFF.Foul (P3) (K.Fitzgerald),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,533,5,37,4,12:01 AM,9:32,,,Gabriel Offensive Foul Turnover (P3.T15),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,534,8,0,4,12:01 AM,9:32,SUB: Poole FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,536,2,98,4,12:01 AM,9:13,MISS Bjelica 6' Cutting Layup Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,537,4,0,4,12:01 AM,9:11,Payton II REBOUND (Off:1 Def:4),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,538,2,97,4,12:02 AM,9:08,MISS Payton II Tip Layup Shot,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,539,4,0,4,12:02 AM,9:07,Bjelica REBOUND (Off:2 Def:4),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,540,1,1,4,12:02 AM,9:02,Poole 27' 3PT Jump Shot (12 PTS) (Payton II 1 AST),,,87 - 99,12,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,542,2,73,4,12:02 AM,8:50,Payton II BLOCK (1 BLK),,MISS Horton-Tucker 8' Driving Reverse Layup,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1
+0022101202,544,4,0,4,12:02 AM,8:48,,,Monk REBOUND (Off:1 Def:6),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,545,1,1,4,12:02 AM,8:45,,,Monk 24' 3PT Jump Shot (24 PTS),90 - 99,9,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,546,6,4,4,12:02 AM,8:30,Porter Jr. OFF.Foul (P1) (K.Fitzgerald),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,548,5,37,4,12:02 AM,8:30,Porter Jr. Offensive Foul Turnover (P1.T14),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022101202,549,1,6,4,12:03 AM,8:15,,,Horton-Tucker 6' Driving Layup (25 PTS),92 - 99,7,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,550,1,86,4,12:03 AM,7:50,Porter Jr. 9' Turnaround Fadeaway (8 PTS) (Iguodala 7 AST),,,92 - 101,9,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,552,5,40,4,12:03 AM,7:43,,,Monk Out of Bounds Lost Ball Turnover (P4.T16),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,553,2,1,4,12:04 AM,7:28,MISS Iguodala 25' 3PT Jump Shot,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,554,4,0,4,12:04 AM,7:26,,,Gabriel REBOUND (Off:1 Def:2),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,555,6,2,4,12:04 AM,7:19,Payton II S.FOUL (P2.T2) (K.Fitzgerald),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,557,3,11,4,12:04 AM,7:19,,,Horton-Tucker Free Throw 1 of 2 (26 PTS),93 - 101,8,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,558,8,0,4,12:04 AM,7:19,SUB: Wiggins FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,559,8,0,4,12:04 AM,7:19,SUB: Green FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,560,8,0,4,12:04 AM,7:19,,,SUB: Howard FOR Ellington,,,5,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,561,8,0,4,12:04 AM,7:19,,,SUB: Reaves FOR Gabriel,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,566,3,12,4,12:05 AM,7:19,,,Horton-Tucker Free Throw 2 of 2 (27 PTS),94 - 101,7,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,567,1,108,4,12:05 AM,7:08,Iguodala 3' Cutting Dunk Shot (5 PTS) (Poole 11 AST),,,94 - 103,9,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,569,7,5,4,12:05 AM,6:51,Green Violation:Kicked Ball (M.Smith),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0022101202,570,2,79,4,12:06 AM,6:39,,,MISS Monk 27' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,571,4,0,4,12:06 AM,6:37,Poole REBOUND (Off:0 Def:3),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,572,1,41,4,12:06 AM,6:30,Poole 5' Running Layup (14 PTS),,,94 - 105,11,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,573,1,44,4,12:06 AM,6:17,,,Horton-Tucker 4' Reverse Layup (29 PTS),96 - 105,9,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,574,2,79,4,12:06 AM,6:07,MISS Poole 8' Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,575,4,0,4,12:07 AM,6:05,,,Howard REBOUND (Off:5 Def:7),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,576,2,79,4,12:07 AM,5:56,,,MISS Horton-Tucker 14' Pullup Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,577,4,0,4,12:07 AM,5:53,Wiggins REBOUND (Off:1 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,578,1,1,4,12:07 AM,5:47,Wiggins 25' 3PT Jump Shot (17 PTS) (Green 4 AST),,,96 - 108,12,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,580,1,1,4,12:07 AM,5:20,,,Howard 28' 3PT Jump Shot (16 PTS) (Monk 4 AST),99 - 108,9,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,582,9,1,4,12:07 AM,5:11,WARRIORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,583,8,0,4,12:10 AM,5:11,SUB: Porter Jr. FOR Payton II,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,584,8,0,4,12:10 AM,5:11,SUB: Thompson FOR Iguodala,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,589,8,0,4,12:10 AM,5:11,,,SUB: Augustin FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,590,1,108,4,12:11 AM,5:04,Porter Jr. 3' Cutting Dunk Shot (10 PTS) (Green 5 AST),,,99 - 110,11,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,592,2,79,4,12:11 AM,4:42,,,MISS Reaves 14' Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,593,4,0,4,12:11 AM,4:39,Green REBOUND (Off:0 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,594,1,1,4,12:11 AM,4:34,Poole 26' 3PT Jump Shot (17 PTS) (Green 6 AST),,,99 - 113,14,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,596,5,8,4,12:12 AM,4:11,,,Howard 3 Second Violation Turnover (P1.T17),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,597,8,0,4,12:12 AM,4:11,,,SUB: Horton-Tucker FOR Howard,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,599,2,6,4,12:12 AM,3:55,MISS Wiggins 5' Driving Layup,,Monk BLOCK (2 BLK),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1
+0022101202,601,4,0,4,12:12 AM,3:52,,,Horton-Tucker REBOUND (Off:0 Def:3),,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,602,6,2,4,12:13 AM,3:50,Green S.FOUL (P5.T3) (M.Smith),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,604,3,11,4,12:13 AM,3:50,,,Horton-Tucker Free Throw 1 of 2 (30 PTS),100 - 113,13,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,605,3,12,4,12:13 AM,3:50,,,Horton-Tucker Free Throw 2 of 2 (31 PTS),101 - 113,12,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,606,2,79,4,12:13 AM,3:43,MISS Poole 27' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,607,4,0,4,12:14 AM,3:41,Wiggins REBOUND (Off:2 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,608,2,1,4,12:14 AM,3:38,MISS Poole 25' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,609,4,0,4,12:14 AM,3:36,Thompson REBOUND (Off:1 Def:3),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,610,2,97,4,12:14 AM,3:34,MISS Thompson Tip Layup Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,611,4,0,4,12:14 AM,3:33,,,Augustin REBOUND (Off:0 Def:2),,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,612,6,26,4,12:14 AM,3:30,,,Johnson Offensive Charge Foul (P2) (K.Fitzgerald),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,614,5,37,4,12:14 AM,3:30,,,Johnson Offensive Foul Turnover (P5.T18),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022101202,615,9,1,4,12:14 AM,3:30,,,Lakers Timeout: Regular (Reg.6 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,617,18,6,4,12:15 AM,3:30,,Instant Replay4th Period (12:15 AM EST),,101 - 113,12,0,612,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101202,618,1,75,4,12:16 AM,3:19,Green 7' Driving Finger Roll Layup (10 PTS),,,101 - 115,14,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,619,2,101,4,12:16 AM,3:00,,,MISS Horton-Tucker 9' Driving Floating Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,620,4,0,4,12:17 AM,2:57,Poole REBOUND (Off:0 Def:4),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,621,5,2,4,12:17 AM,2:55,Poole Lost Ball Turnover (P4.T15),,Horton-Tucker STEAL (4 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022101202,623,1,50,4,12:17 AM,2:52,,,Horton-Tucker 3' Running Dunk (33 PTS),103 - 115,12,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,624,6,1,4,12:17 AM,2:27,,,Monk P.FOUL (P1.T2) (K.Fitzgerald),,,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,626,1,9,4,12:18 AM,2:22,Thompson 2' Driving Dunk (33 PTS) (Green 7 AST),,,103 - 117,14,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,628,5,1,4,12:18 AM,2:10,Poole STEAL (1 STL),,Johnson Bad Pass Turnover (P6.T19),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,630,6,2,4,12:18 AM,2:07,,,Johnson S.FOUL (P3.T3) (M.Smith),,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,632,3,11,4,12:19 AM,2:07,Poole Free Throw 1 of 2 (18 PTS),,,103 - 118,15,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,633,8,0,4,12:19 AM,2:07,SUB: Payton II FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,634,8,0,4,12:19 AM,2:07,SUB: Toscano-Anderson FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,635,8,0,4,12:19 AM,2:07,SUB: Lee FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,636,8,0,4,12:19 AM,2:07,SUB: Kuminga FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,641,3,12,4,12:19 AM,2:07,Poole Free Throw 2 of 2 (19 PTS),,,103 - 119,16,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,642,6,28,4,12:19 AM,2:06,Toscano-Anderson Personal Take Foul (P1.T4) (B.Adair),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,5,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,644,8,0,4,12:20 AM,2:06,SUB: Moody FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022101202,646,1,80,4,12:20 AM,1:58,,,Horton-Tucker 26' 3PT Step Back Jump Shot (36 PTS),106 - 119,13,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,647,6,2,4,12:20 AM,1:52,,,Augustin S.FOUL (P2.T4) (B.Adair),,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022101202,649,3,11,4,12:20 AM,1:52,Payton II Free Throw 1 of 2 (9 PTS),,,106 - 120,14,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022101202,650,8,0,4,12:21 AM,1:52,,,SUB: Gabriel FOR Augustin,,,5,201571,D.J. Augustin,1610612747.0,Los Angeles,Lakers,LAL,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022101202,652,3,12,4,12:21 AM,1:52,Payton II Free Throw 2 of 2 (10 PTS),,,106 - 121,15,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,653,2,80,4,12:21 AM,1:39,,,MISS Horton-Tucker 3PT Step Back Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,654,4,0,4,12:21 AM,1:36,Kuminga REBOUND (Off:0 Def:3),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,655,2,6,4,12:21 AM,1:28,MISS Kuminga 6' Driving Layup,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,656,4,0,4,12:21 AM,1:26,Kuminga REBOUND (Off:1 Def:3),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,657,1,1,4,12:21 AM,1:23,Moody 26' 3PT Jump Shot (3 PTS) (Lee 1 AST),,,106 - 124,18,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,659,6,2,4,12:22 AM,1:12,Kuminga S.FOUL (P2.PN) (B.Adair),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,661,3,11,4,12:22 AM,1:12,,,MISS Johnson Free Throw 1 of 2,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,662,4,1,4,12:22 AM,1:12,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,663,3,12,4,12:22 AM,1:12,,,MISS Johnson Free Throw 2 of 2,,,5,1626169,Stanley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,664,4,0,4,12:22 AM,1:12,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101202,665,6,3,4,12:22 AM,1:12,Toscano-Anderson L.B.FOUL (P2.PN) (M.Smith),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,667,3,11,4,12:23 AM,1:12,,,Gabriel Free Throw 1 of 2 (5 PTS),107 - 124,17,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,668,3,12,4,12:23 AM,1:12,,,Gabriel Free Throw 2 of 2 (6 PTS),108 - 124,16,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,669,1,98,4,12:23 AM,0:58,Lee 5' Cutting Layup Shot (2 PTS),,,108 - 126,18,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022101202,670,1,6,4,12:24 AM,0:44,,,Horton-Tucker 7' Driving Layup (38 PTS),110 - 126,16,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,671,6,2,4,12:24 AM,0:44,Lee S.FOUL (P1.PN) (K.Fitzgerald),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,673,3,10,4,12:24 AM,0:44,,,Horton-Tucker Free Throw 1 of 1 (39 PTS),111 - 126,15,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,674,1,79,4,12:24 AM,0:35,Kuminga 15' Pullup Jump Shot (6 PTS) (Payton II 2 AST),,,111 - 128,17,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022101202,676,2,6,4,12:25 AM,0:22,Kuminga BLOCK (1 BLK),,MISS Gabriel 8' Driving Layup,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1
+0022101202,678,4,0,4,12:25 AM,0:20,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,680,6,1,4,12:25 AM,0:18,Kuminga P.FOUL (P3.PN) (M.Smith),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022101202,682,3,11,4,12:25 AM,0:18,,,MISS Horton-Tucker Free Throw 1 of 2,,,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,683,4,1,4,12:25 AM,0:18,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101202,684,3,12,4,12:26 AM,0:18,,,Horton-Tucker Free Throw 2 of 2 (40 PTS),112 - 128,16,5,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022101202,685,13,0,4,12:26 AM,0:00,,End of 4th Period (12:26 AM EST),,112 - 128,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

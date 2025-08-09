@@ -1,0 +1,482 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022101050,2,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,4,10,0,1,7:41 PM,12:00,Jump Ball Robinson vs. Porzingis: Tip to Randle,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1
+0022101050,7,1,1,1,7:41 PM,11:42,Fournier 26' 3PT Jump Shot (3 PTS) (Barrett 1 AST),,,0 - 3,3,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,9,1,1,1,7:42 PM,11:27,,,Porzingis 25' 3PT Jump Shot (3 PTS) (Kuzma 1 AST),3 - 3,TIE,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,11,1,1,1,7:42 PM,11:13,Fournier 26' 3PT Jump Shot (6 PTS) (Burks 1 AST),,,3 - 6,3,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,13,5,2,1,7:42 PM,10:55,Fournier STEAL (1 STL),,Neto Lost Ball Turnover (P1.T1),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,15,1,66,1,7:42 PM,10:43,Burks 25' 3PT Jump Bank Shot (3 PTS) (Randle 1 AST),,,3 - 9,6,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,17,1,75,1,7:43 PM,10:21,,,Neto 2' Driving Finger Roll Layup (2 PTS),5 - 9,4,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,18,5,45,1,7:43 PM,10:14,Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,19,2,86,1,7:43 PM,9:53,,,MISS Kuzma 10' Turnaround Fadeaway Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,20,4,0,1,7:43 PM,9:51,Randle REBOUND (Off:0 Def:1),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,21,2,6,1,7:43 PM,9:42,MISS Randle 2' Driving Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,22,4,0,1,7:43 PM,9:38,Robinson REBOUND (Off:1 Def:0),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,23,1,97,1,7:43 PM,9:38,Robinson Tip Layup Shot (2 PTS),,,5 - 11,6,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,24,2,57,1,7:44 PM,9:28,,,MISS Kuzma 7' Driving Hook Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,25,4,0,1,7:44 PM,9:28,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,27,2,1,1,7:44 PM,9:15,MISS Fournier 25' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,28,4,0,1,7:44 PM,9:11,,,Porzingis REBOUND (Off:0 Def:1),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,29,1,58,1,7:44 PM,8:50,,,Porzingis 6' Turnaround Hook Shot (5 PTS),7 - 11,4,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,30,2,6,1,7:45 PM,8:34,MISS Barrett 7' Driving Layup,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,31,4,0,1,7:45 PM,8:31,,,Kuzma REBOUND (Off:0 Def:1),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,32,1,41,1,7:45 PM,8:27,,,Kuzma 2' Running Layup (2 PTS),9 - 11,2,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,33,2,1,1,7:45 PM,8:10,MISS Barrett 3PT Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,34,4,0,1,7:45 PM,8:07,Robinson REBOUND (Off:2 Def:0),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,35,1,87,1,7:45 PM,8:06,Robinson 1' Putback Dunk (4 PTS),,,9 - 13,4,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,36,6,2,1,7:45 PM,7:47,Burks S.FOUL (P1.T1) (E.Dalen),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,38,3,11,1,7:46 PM,7:47,,,Kispert Free Throw 1 of 2 (1 PTS),10 - 13,3,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,39,3,12,1,7:46 PM,7:47,,,Kispert Free Throw 2 of 2 (2 PTS),11 - 13,2,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,40,2,101,1,7:46 PM,7:38,MISS Fournier 12' Driving Floating Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,41,4,0,1,7:46 PM,7:36,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,42,1,6,1,7:46 PM,7:32,,,Caldwell-Pope 1' Driving Layup (2 PTS) (Neto 1 AST),13 - 13,TIE,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,44,5,45,1,7:47 PM,7:16,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,45,2,73,1,7:47 PM,6:58,,,MISS Neto 1' Driving Reverse Layup,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,46,4,0,1,7:47 PM,6:55,Randle REBOUND (Off:0 Def:2),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,47,2,1,1,7:47 PM,6:47,MISS Randle 26' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,48,4,0,1,7:47 PM,6:46,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,50,9,1,1,7:47 PM,6:46,KNICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,51,2,1,1,7:51 PM,6:26,,,MISS Kispert 26' 3PT Jump Shot,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,52,4,0,1,7:51 PM,6:22,Randle REBOUND (Off:0 Def:3),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,53,5,1,1,7:51 PM,6:20,Randle Bad Pass Turnover (P2.T3),,Caldwell-Pope STEAL (1 STL),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,56,8,0,1,7:51 PM,6:11,,,SUB: Gafford FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,57,8,0,1,7:51 PM,6:11,,,SUB: Avdija FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,60,2,1,1,7:51 PM,6:04,,,MISS Kuzma 26' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,61,4,0,1,7:51 PM,6:02,Randle REBOUND (Off:0 Def:4),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,62,5,1,1,7:52 PM,5:55,Randle Bad Pass Turnover (P3.T4),,Kispert STEAL (1 STL),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,64,1,41,1,7:52 PM,5:51,,,Neto 1' Running Layup (4 PTS) (Kispert 1 AST),15 - 13,-2,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,66,5,45,1,7:52 PM,5:34,Burks Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,67,8,0,1,7:52 PM,5:34,SUB: Sims FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,70,1,1,1,7:52 PM,5:20,,,Neto 25' 3PT Jump Shot (7 PTS) (Kuzma 2 AST),18 - 13,-5,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,72,2,102,1,7:53 PM,5:02,MISS Burks 4' Driving Floating Bank Jump Shot,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,73,4,0,1,7:53 PM,5:02,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,74,6,3,1,7:53 PM,5:02,,,Neto L.B.FOUL (P1.T1) (E.Dalen),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,76,8,0,1,7:53 PM,5:02,SUB: Quickley FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,77,8,0,1,7:53 PM,5:02,,,SUB: Smith FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,80,2,1,1,7:53 PM,4:47,MISS Quickley 26' 3PT Jump Shot,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,81,4,0,1,7:54 PM,4:44,Sims REBOUND (Off:1 Def:0),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,82,6,2,1,7:54 PM,4:42,,,Gafford S.FOUL (P1.T2) (E.Dalen),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,84,3,11,1,7:54 PM,4:42,MISS Sims Free Throw 1 of 2,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,85,4,1,1,7:54 PM,4:42,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,86,3,12,1,7:54 PM,4:42,MISS Sims Free Throw 2 of 2,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,87,4,0,1,7:54 PM,4:39,,,Gafford REBOUND (Off:0 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,88,1,52,1,7:55 PM,4:24,,,Gafford 1' Alley Oop Dunk (2 PTS) (Smith 1 AST),20 - 13,-7,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,90,5,39,1,7:55 PM,4:10,Quickley Step Out of Bounds Turnover (P1.T6),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,91,8,0,1,7:55 PM,4:10,SUB: Grimes FOR Burks,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,92,8,0,1,7:55 PM,4:10,,,SUB: Hachimura FOR Kispert,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,95,1,7,1,7:56 PM,3:53,,,Gafford 1' Dunk (4 PTS) (Kuzma 3 AST),22 - 13,-9,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,97,2,1,1,7:56 PM,3:47,MISS Fournier 26' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,98,4,0,1,7:56 PM,3:44,,,Smith REBOUND (Off:0 Def:1),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,99,2,6,1,7:56 PM,3:38,,,MISS Kuzma 3' Driving Layup,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,101,4,0,1,7:56 PM,3:35,Randle REBOUND (Off:0 Def:5),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,102,2,79,1,7:56 PM,3:31,MISS Randle 13' Pullup Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,103,4,0,1,7:56 PM,3:27,Sims REBOUND (Off:2 Def:0),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,104,1,1,1,7:56 PM,3:24,Fournier 27' 3PT Jump Shot (9 PTS) (Quickley 1 AST),,,22 - 16,-6,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,106,1,1,1,7:56 PM,2:59,,,Hachimura 24' 3PT Jump Shot (3 PTS) (Kuzma 4 AST),25 - 16,-9,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,108,2,80,1,7:57 PM,2:39,MISS Randle 17' Step Back Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,109,4,0,1,7:57 PM,2:36,,,Avdija REBOUND (Off:0 Def:1),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,110,2,79,1,7:57 PM,2:16,,,MISS Smith 26' 3PT Pullup Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,111,4,0,1,7:57 PM,2:13,Fournier REBOUND (Off:0 Def:1),,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,112,1,7,1,7:57 PM,2:04,Randle Dunk (2 PTS) (Fournier 1 AST),,,25 - 18,-7,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,114,9,1,1,7:58 PM,2:04,,,Wizards Timeout: Regular (Reg.1 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,115,8,0,1,7:58 PM,2:04,,,SUB: Caldwell-Pope FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,117,6,2,1,8:01 PM,1:51,Grimes S.FOUL (P1.T2) (E.Lewis),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,119,3,11,1,8:01 PM,1:51,,,Avdija Free Throw 1 of 2 (1 PTS),26 - 18,-8,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,120,3,12,1,8:01 PM,1:51,,,MISS Avdija Free Throw 2 of 2,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,121,4,0,1,8:01 PM,1:49,Sims REBOUND (Off:2 Def:1),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,122,1,86,1,8:02 PM,1:33,Randle 10' Turnaround Fadeaway (4 PTS),,,26 - 20,-6,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,123,5,39,1,8:02 PM,1:09,,,Hachimura Step Out of Bounds Turnover (P1.T2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022101050,124,8,0,1,8:02 PM,1:09,SUB: Toppin FOR Fournier,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,125,8,0,1,8:02 PM,1:09,SUB: Barrett FOR Randle,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,128,2,101,1,8:03 PM,0:57,MISS Quickley 7' Driving Floating Jump Shot,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,129,4,0,1,8:03 PM,0:54,Sims REBOUND (Off:3 Def:1),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,130,5,45,1,8:03 PM,0:46,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,131,5,1,1,8:03 PM,0:35,Grimes STEAL (1 STL),,Smith Bad Pass Turnover (P1.T3),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,133,1,50,1,8:03 PM,0:33,Toppin 1' Running Dunk (2 PTS) (Barrett 2 AST),,,26 - 22,-4,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,135,2,5,1,8:03 PM,0:21,Barrett BLOCK (1 BLK),,MISS Hachimura 1' Layup,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1
+0022101050,137,4,0,1,8:03 PM,0:18,Quickley REBOUND (Off:0 Def:1),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,138,2,41,1,8:04 PM,0:15,MISS Grimes 3' Running Layup,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,140,4,0,1,8:04 PM,0:15,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,141,1,79,1,8:04 PM,0:00,,,Smith 21' Pullup Jump Shot (2 PTS),28 - 22,-6,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,142,18,0,1,8:04 PM,0:00,,Instant Replay1st Period (8:04 PM EST),,28 - 22,-6,0,141,Anthony Tucker,,,,,0,0,,,,,,1,0,,,,,,0
+0022101050,143,13,0,1,8:05 PM,0:00,,End of 1st Period (8:05 PM EST),,28 - 22,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101050,148,12,0,2,8:07 PM,12:00,,Start of 2nd Period (8:07 PM EST),,28 - 22,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,149,7,1,2,8:07 PM,12:00,,,Wizards Violation: Delay of game Violation,,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101050,150,6,2,2,8:07 PM,11:46,Sims S.FOUL (P1.T1) (P.Ransom),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,152,3,11,2,8:07 PM,11:46,,,Porzingis Free Throw 1 of 2 (6 PTS),29 - 22,-7,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,153,3,12,2,8:08 PM,11:46,,,Porzingis Free Throw 2 of 2 (7 PTS),30 - 22,-8,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,154,1,79,2,8:08 PM,11:38,Barrett 19' Pullup Jump Shot (2 PTS) (Quickley 2 AST),,,30 - 24,-6,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,155,2,1,2,8:08 PM,11:21,,,MISS Satoransky 3PT Jump Shot,,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,156,4,0,2,8:08 PM,11:19,,,Porzingis REBOUND (Off:1 Def:1),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,157,2,63,2,8:08 PM,11:05,,,MISS Smith 10' Fadeaway Jumper,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,158,4,0,2,8:08 PM,11:03,Grimes REBOUND (Off:0 Def:1),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,159,1,101,2,8:09 PM,10:57,Quickley 8' Driving Floating Jump Shot (2 PTS),,,30 - 26,-4,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,160,6,2,2,8:09 PM,10:57,,,Smith S.FOUL (P1.T1) (E.Lewis),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,162,3,10,2,8:09 PM,10:57,Quickley Free Throw 1 of 1 (3 PTS),,,30 - 27,-3,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,164,1,79,2,8:10 PM,10:34,,,Caldwell-Pope 15' Pullup Jump Shot (4 PTS),32 - 27,-5,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,165,6,4,2,8:10 PM,10:21,Sims OFF.Foul (P2) (P.Ransom),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,167,5,37,2,8:10 PM,10:21,Sims Offensive Foul Turnover (P1.T8),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,168,8,0,2,8:10 PM,10:21,SUB: Robinson FOR Sims,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,170,2,73,2,8:10 PM,10:01,,,MISS Smith 1' Driving Reverse Layup,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,171,4,0,2,8:10 PM,10:00,Toppin REBOUND (Off:0 Def:1),,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,172,6,2,2,8:11 PM,9:54,,,Porzingis S.FOUL (P1.T2) (E.Dalen),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,174,3,11,2,8:11 PM,9:54,Quickley Free Throw 1 of 2 (4 PTS),,,32 - 28,-4,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,175,3,12,2,8:11 PM,9:54,Quickley Free Throw 2 of 2 (5 PTS),,,32 - 29,-3,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,176,1,75,2,8:12 PM,9:33,,,Smith 3' Driving Finger Roll Layup (4 PTS),34 - 29,-5,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,177,2,6,2,8:12 PM,9:14,MISS Barrett 3' Driving Layup,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,178,4,0,2,8:12 PM,9:11,Robinson REBOUND (Off:3 Def:0),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,179,1,78,2,8:12 PM,9:06,Quickley 10' Floating Jump Shot (7 PTS),,,34 - 31,-3,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,180,1,75,2,8:13 PM,8:55,,,Caldwell-Pope 6' Driving Finger Roll Layup (6 PTS),36 - 31,-5,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,181,9,1,2,8:13 PM,8:46,KNICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,182,8,0,2,8:13 PM,8:46,,,SUB: Kispert FOR Smith,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,184,2,1,2,8:16 PM,8:37,MISS Grimes 25' 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,185,4,0,2,8:16 PM,8:36,Toppin REBOUND (Off:1 Def:1),,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,186,2,1,2,8:16 PM,8:27,MISS Toppin 26' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,187,4,0,2,8:16 PM,8:22,,,Porzingis REBOUND (Off:1 Def:2),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,188,1,1,2,8:16 PM,8:13,,,Kispert 3PT Jump Shot (5 PTS) (Satoransky 1 AST),39 - 31,-8,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,190,2,6,2,8:16 PM,8:03,MISS Barrett 1' Driving Layup,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,191,4,0,2,8:16 PM,7:59,Robinson REBOUND (Off:4 Def:0),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,192,2,97,2,8:16 PM,7:59,MISS Robinson Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,193,4,0,2,8:16 PM,7:58,Robinson REBOUND (Off:5 Def:0),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,194,2,72,2,8:16 PM,7:57,MISS Robinson 1' Putback Layup,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,195,4,0,2,8:16 PM,7:57,Grimes REBOUND (Off:1 Def:1),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,196,6,2,2,8:17 PM,7:57,,,Porzingis S.FOUL (P2.T3) (P.Ransom),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,199,8,0,2,8:17 PM,7:57,SUB: Randle FOR Toppin,,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,198,3,11,2,8:17 PM,7:57,Grimes Free Throw 1 of 2 (1 PTS),,,39 - 32,-7,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,201,3,12,2,8:17 PM,7:57,Grimes Free Throw 2 of 2 (2 PTS),,,39 - 33,-6,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,202,2,1,2,8:17 PM,7:41,,,MISS Caldwell-Pope 25' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,203,4,0,2,8:17 PM,7:38,Randle REBOUND (Off:0 Def:6),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,204,6,2,2,8:18 PM,7:33,,,Satoransky S.FOUL (P1.T4) (P.Ransom),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,208,8,0,2,8:18 PM,7:33,SUB: Fournier FOR Grimes,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,209,8,0,2,8:18 PM,7:33,,,SUB: Kuzma FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,206,3,11,2,8:18 PM,7:33,MISS Randle Free Throw 1 of 2,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,207,4,1,2,8:18 PM,7:33,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,212,3,12,2,8:19 PM,7:33,Randle Free Throw 2 of 2 (5 PTS),,,39 - 34,-5,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,213,6,1,2,8:19 PM,7:12,Robinson P.FOUL (P1.T2) (P.Ransom),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,216,1,5,2,8:20 PM,6:59,,,Hachimura 2' Layup (5 PTS) (Kuzma 5 AST),41 - 34,-7,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,218,6,2,2,8:20 PM,6:50,,,Hachimura S.FOUL (P1.PN) (E.Lewis),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,222,8,0,2,8:20 PM,6:50,SUB: Burks FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,220,3,11,2,8:20 PM,6:50,MISS Randle Free Throw 1 of 2,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,221,4,1,2,8:20 PM,6:50,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,224,3,12,2,8:21 PM,6:50,Randle Free Throw 2 of 2 (6 PTS),,,41 - 35,-6,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,226,5,45,2,8:21 PM,6:28,,,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022101050,228,1,80,2,8:22 PM,6:12,Randle 14' Step Back Jump Shot (8 PTS) (Quickley 3 AST),,,41 - 37,-4,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,230,2,79,2,8:22 PM,6:01,,,MISS Porzingis 26' 3PT Pullup Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,231,4,0,2,8:22 PM,5:58,Randle REBOUND (Off:0 Def:7),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,232,1,80,2,8:22 PM,5:52,Randle 25' 3PT Step Back Jump Shot (11 PTS),,,41 - 40,-1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,233,9,1,2,8:22 PM,5:50,,,Wizards Timeout: Regular (Reg.2 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,234,8,0,2,8:22 PM,5:50,,,SUB: Neto FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,235,8,0,2,8:22 PM,5:50,,,SUB: Avdija FOR Satoransky,,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,238,1,79,2,8:25 PM,5:32,,,Porzingis 16' Pullup Jump Shot (9 PTS),43 - 40,-3,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,239,2,79,2,8:26 PM,5:13,MISS Randle 16' Pullup Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,240,4,0,2,8:26 PM,5:11,,,Kispert REBOUND (Off:0 Def:1),,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,241,1,78,2,8:26 PM,4:59,,,Neto 8' Floating Jump Shot (9 PTS),45 - 40,-5,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,242,2,79,2,8:26 PM,4:39,MISS Fournier 26' 3PT Pullup Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,243,4,0,2,8:26 PM,4:37,,,Kispert REBOUND (Off:0 Def:2),,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,244,2,6,2,8:26 PM,4:32,,,MISS Avdija 6' Driving Layup,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,245,4,0,2,8:26 PM,4:30,Burks REBOUND (Off:0 Def:1),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,246,1,102,2,8:27 PM,4:19,Quickley 13' Driving Floating Bank Jump Shot (9 PTS),,,45 - 42,-3,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,247,6,2,2,8:27 PM,4:19,,,Avdija S.FOUL (P1.PN) (P.Ransom),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,249,8,0,2,8:27 PM,4:19,,,SUB: Gafford FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,251,3,10,2,8:27 PM,4:19,Quickley Free Throw 1 of 1 (10 PTS),,,45 - 43,-2,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,252,2,79,2,8:27 PM,4:10,,,MISS Kuzma 25' 3PT Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,253,4,0,2,8:27 PM,4:07,Quickley REBOUND (Off:0 Def:2),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,254,1,7,2,8:27 PM,4:05,Randle 1' Dunk (13 PTS) (Quickley 4 AST),,,45 - 45,TIE,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,256,2,1,2,8:28 PM,3:53,,,MISS Kispert 29' 3PT Jump Shot,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,257,4,0,2,8:28 PM,3:49,Randle REBOUND (Off:0 Def:8),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,258,6,1,2,8:28 PM,3:47,,,Avdija P.FOUL (P2.PN) (P.Ransom),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,261,8,0,2,8:28 PM,3:47,SUB: Barrett FOR Quickley,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,262,8,0,2,8:28 PM,3:47,,,SUB: Caldwell-Pope FOR Kispert,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,260,3,11,2,8:28 PM,3:47,Burks Free Throw 1 of 2 (4 PTS),,,45 - 46,1,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,265,3,12,2,8:28 PM,3:47,MISS Burks Free Throw 2 of 2,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,266,4,0,2,8:28 PM,3:43,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,267,2,86,2,8:29 PM,3:38,,,MISS Caldwell-Pope 11' Turnaround Fadeaway Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,268,4,0,2,8:29 PM,3:36,Randle REBOUND (Off:0 Def:9),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,269,1,98,2,8:29 PM,3:32,Barrett 2' Cutting Layup Shot (4 PTS) (Fournier 2 AST),,,45 - 48,3,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,271,6,1,2,8:29 PM,3:20,Robinson P.FOUL (P2.T3) (E.Lewis),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,273,8,0,2,8:29 PM,3:20,SUB: Sims FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,276,1,47,2,8:30 PM,3:08,,,Kuzma 16' Turnaround Jump Shot (4 PTS),47 - 48,1,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,277,2,6,2,8:30 PM,2:52,MISS Burks 6' Driving Layup,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,278,4,0,2,8:30 PM,2:49,Sims REBOUND (Off:4 Def:1),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,279,2,97,2,8:30 PM,2:49,MISS Sims Tip Layup Shot,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,280,4,0,2,8:30 PM,2:49,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,282,5,2,2,8:31 PM,2:36,Fournier STEAL (2 STL),,Caldwell-Pope Lost Ball Turnover (P1.T5),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,284,2,1,2,8:31 PM,2:27,MISS Randle 25' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,285,4,0,2,8:31 PM,2:24,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,286,5,2,2,8:31 PM,2:13,Fournier STEAL (3 STL),,Kuzma Lost Ball Turnover (P2.T6),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,288,5,40,2,8:31 PM,2:07,Sims Out of Bounds Lost Ball Turnover (P2.T9),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,289,2,78,2,8:32 PM,1:50,,,MISS Neto 12' Floating Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,290,4,0,2,8:32 PM,1:47,Burks REBOUND (Off:0 Def:2),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,291,2,1,2,8:32 PM,1:42,MISS Randle 24' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,292,4,0,2,8:32 PM,1:39,,,Avdija REBOUND (Off:0 Def:2),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,293,2,1,2,8:32 PM,1:26,,,MISS Avdija 26' 3PT Jump Shot,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,294,4,0,2,8:32 PM,1:22,Randle REBOUND (Off:0 Def:10),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,295,1,6,2,8:32 PM,1:18,Barrett 1' Driving Layup (6 PTS) (Randle 2 AST),,,47 - 50,3,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,297,6,4,2,8:33 PM,0:54,,,Kuzma OFF.Foul (P1) (E.Dalen),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,299,5,37,2,8:33 PM,0:54,,,Kuzma Offensive Foul Turnover (P3.T7),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022101050,300,1,6,2,8:33 PM,0:31,Randle 2' Driving Layup (15 PTS),,,47 - 52,5,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,309,2,1,2,8:34 PM,0:18,,,MISS Caldwell-Pope 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,310,4,0,2,8:34 PM,0:17,Sims REBOUND (Off:4 Def:2),,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,305,6,2,2,8:34 PM,0:00,,,Caldwell-Pope S.FOUL (P1.PN) (E.Lewis),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,307,3,11,2,8:34 PM,0:00,Barrett Free Throw 1 of 2 (7 PTS),,,47 - 53,6,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022101050,308,3,12,2,8:35 PM,0:00,Barrett Free Throw 2 of 2 (8 PTS),,,47 - 54,7,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,311,2,2,2,8:35 PM,0:00,,,MISS Neto 49' 3PT Running Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,312,4,0,2,8:35 PM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,313,13,0,2,8:35 PM,0:00,,End of 2nd Period (8:35 PM EST),,47 - 54,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101050,320,12,0,3,8:50 PM,12:00,,Start of 3rd Period (8:50 PM EST),,47 - 54,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,321,1,1,3,8:50 PM,11:42,,,Kuzma 26' 3PT Jump Shot (7 PTS) (Caldwell-Pope 1 AST),50 - 54,4,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,323,1,47,3,8:51 PM,11:26,Burks 17' Turnaround Jump Shot (6 PTS),,,50 - 56,6,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,324,1,1,3,8:51 PM,11:15,,,Porzingis 28' 3PT Jump Shot (12 PTS) (Kuzma 6 AST),53 - 56,3,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,326,2,1,3,8:51 PM,10:58,MISS Randle 25' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,327,4,0,3,8:51 PM,10:57,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,329,2,1,3,8:52 PM,10:38,,,MISS Kuzma 25' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,330,4,0,3,8:52 PM,10:35,Robinson REBOUND (Off:5 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,331,6,1,3,8:52 PM,10:28,,,Kuzma P.FOUL (P2.T1) (E.Lewis),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,333,1,1,3,8:52 PM,10:18,Fournier 25' 3PT Jump Shot (12 PTS) (Randle 3 AST),,,53 - 59,6,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,335,1,1,3,8:52 PM,10:05,,,Caldwell-Pope 3PT Jump Shot (9 PTS) (Neto 2 AST),56 - 59,3,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,337,2,1,3,8:53 PM,9:41,MISS Barrett 11' Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,338,4,0,3,8:53 PM,9:41,Robinson REBOUND (Off:6 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,339,6,1,3,8:53 PM,9:41,,,Porzingis P.FOUL (P3.T2) (E.Lewis),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,341,2,9,3,8:53 PM,9:29,MISS Randle 1' Driving Dunk,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,343,4,0,3,8:53 PM,9:26,,,Porzingis REBOUND (Off:1 Def:3),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,344,2,1,3,8:54 PM,9:17,,,MISS Caldwell-Pope 25' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,345,4,0,3,8:54 PM,9:14,Randle REBOUND (Off:0 Def:11),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,346,1,79,3,8:54 PM,9:02,Burks 24' 3PT Pullup Jump Shot (9 PTS) (Randle 4 AST),,,56 - 62,6,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,348,2,79,3,8:54 PM,8:50,,,MISS Porzingis 27' 3PT Pullup Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,349,4,0,3,8:54 PM,8:48,Fournier REBOUND (Off:0 Def:2),,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,350,2,1,3,8:54 PM,8:42,MISS Barrett 4' Jump Shot,,Caldwell-Pope BLOCK (1 BLK),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1
+0022101050,352,4,0,3,8:54 PM,8:40,,,Kuzma REBOUND (Off:0 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,353,6,1,3,8:54 PM,8:39,Burks P.FOUL (P2.T1) (E.Dalen),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,355,6,1,3,8:55 PM,8:35,Randle P.FOUL (P1.T2) (E.Lewis),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,357,2,5,3,8:55 PM,8:32,,,MISS Neto 3' Layup,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,358,4,0,3,8:55 PM,8:30,Burks REBOUND (Off:0 Def:3),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,359,5,45,3,8:55 PM,8:14,Fournier Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,360,1,5,3,8:56 PM,8:09,,,Kispert Layup (7 PTS) (Neto 3 AST),58 - 62,4,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,362,9,1,3,8:56 PM,8:09,KNICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,363,2,80,3,8:59 PM,7:51,MISS Randle 3PT Step Back Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,364,4,0,3,8:59 PM,7:49,,,Kuzma REBOUND (Off:0 Def:3),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,365,2,1,3,8:59 PM,7:31,,,MISS Kispert 24' 3PT Jump Shot,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,366,4,0,3,8:59 PM,7:28,Barrett REBOUND (Off:0 Def:1),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,367,2,3,3,8:59 PM,7:19,MISS Barrett 5' Hook Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,368,4,0,3,8:59 PM,7:18,Robinson REBOUND (Off:7 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,369,1,87,3,8:59 PM,7:16,Robinson 1' Putback Dunk (6 PTS),,,58 - 64,6,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,370,2,1,3,9:00 PM,7:01,,,MISS Kuzma 13' Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,371,4,0,3,9:00 PM,6:59,,,Kuzma REBOUND (Off:1 Def:3),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,372,2,78,3,9:00 PM,6:58,,,MISS Kuzma 8' Floating Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,373,4,0,3,9:00 PM,6:55,Randle REBOUND (Off:0 Def:12),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,374,2,98,3,9:00 PM,6:46,MISS Barrett 2' Cutting Layup Shot,,Neto BLOCK (1 BLK),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1
+0022101050,376,4,0,3,9:00 PM,6:46,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,379,2,47,3,9:01 PM,6:34,MISS Randle 14' Turnaround Jump Shot,,Kuzma BLOCK (1 BLK),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022101050,381,4,0,3,9:01 PM,6:33,Randle REBOUND (Off:1 Def:12),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,382,5,11,3,9:01 PM,6:33,KNICKS Turnover: Shot Clock (T#11),,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022101050,383,5,45,3,9:01 PM,6:22,,,Caldwell-Pope Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022101050,384,2,6,3,9:02 PM,6:08,MISS Barrett 3' Driving Layup,,Caldwell-Pope BLOCK (2 BLK),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1
+0022101050,386,4,0,3,9:02 PM,6:08,Barrett REBOUND (Off:1 Def:1),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,387,6,1,3,9:02 PM,6:08,,,Porzingis P.FOUL (P4.T3) (E.Lewis),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,389,8,0,3,9:02 PM,6:08,,,SUB: Gafford FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,391,2,6,3,9:02 PM,5:56,MISS Randle 4' Driving Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,392,4,0,3,9:02 PM,5:53,Robinson REBOUND (Off:8 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,393,1,97,3,9:02 PM,5:53,Robinson Tip Layup Shot (8 PTS),,,58 - 66,8,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,394,5,1,3,9:02 PM,5:52,Burks STEAL (1 STL),,Kuzma Bad Pass Turnover (P4.T9),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,396,6,2,3,9:03 PM,5:51,,,Gafford S.FOUL (P2.T4) (P.Ransom),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,398,9,1,3,9:03 PM,5:51,,,Wizards Timeout: Regular (Reg.3 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,399,8,0,3,9:03 PM,5:51,,,SUB: Smith FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,400,8,0,3,9:03 PM,5:51,,,SUB: Avdija FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,403,3,11,3,9:06 PM,5:51,MISS Burks Free Throw 1 of 2,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022101050,404,4,1,3,9:06 PM,5:51,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,405,3,12,3,9:06 PM,5:51,Burks Free Throw 2 of 2 (10 PTS),,,58 - 67,9,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,406,2,79,3,9:06 PM,5:32,,,MISS Smith 20' Pullup Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,407,4,0,3,9:06 PM,5:30,Burks REBOUND (Off:0 Def:4),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,408,6,2,3,9:07 PM,5:24,,,Smith S.FOUL (P2.PN) (P.Ransom),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,410,3,11,3,9:07 PM,5:24,MISS Randle Free Throw 1 of 2,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,411,4,1,3,9:07 PM,5:24,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,413,3,12,3,9:07 PM,5:24,Randle Free Throw 2 of 2 (16 PTS),,,58 - 68,10,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,414,1,101,3,9:08 PM,5:07,,,Avdija 11' Driving Floating Jump Shot (3 PTS) (Kuzma 7 AST),60 - 68,8,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,416,5,45,3,9:08 PM,4:47,Randle Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,417,1,44,3,9:09 PM,4:28,,,Kispert Reverse Layup (9 PTS) (Kuzma 8 AST),62 - 68,6,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,419,2,1,3,9:09 PM,4:13,MISS Barrett 3PT Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,420,4,0,3,9:09 PM,4:09,,,Gafford REBOUND (Off:0 Def:2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,421,6,2,3,9:09 PM,4:05,Burks S.FOUL (P3.T3) (E.Dalen),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,425,8,0,3,9:09 PM,4:05,SUB: Sims FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,426,8,0,3,9:09 PM,4:05,SUB: Quickley FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,423,3,11,3,9:10 PM,4:05,,,MISS Kuzma Free Throw 1 of 2,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,424,4,1,3,9:10 PM,4:05,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,429,3,12,3,9:10 PM,4:05,,,MISS Kuzma Free Throw 2 of 2,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,430,4,0,3,9:10 PM,4:03,Randle REBOUND (Off:1 Def:13),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,431,1,1,3,9:10 PM,3:52,Fournier 25' 3PT Jump Shot (15 PTS) (Burks 2 AST),,,62 - 71,9,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,433,2,47,3,9:10 PM,3:37,,,MISS Smith 12' Turnaround Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,434,4,0,3,9:10 PM,3:34,Burks REBOUND (Off:0 Def:5),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,435,2,6,3,9:10 PM,3:29,MISS Fournier 3' Driving Layup,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,436,4,0,3,9:10 PM,3:28,,,Smith REBOUND (Off:0 Def:2),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022101050,437,6,2,3,9:11 PM,3:25,Burks S.FOUL (P4.T4) (E.Lewis),,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,440,8,0,3,9:11 PM,3:25,SUB: Grimes FOR Burks,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,441,8,0,3,9:11 PM,3:25,,,SUB: Hachimura FOR Kispert,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,439,3,11,3,9:11 PM,3:25,,,Kuzma Free Throw 1 of 2 (8 PTS),63 - 71,8,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,444,3,12,3,9:12 PM,3:25,,,Kuzma Free Throw 2 of 2 (9 PTS),64 - 71,7,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,445,2,1,3,9:12 PM,3:11,MISS Fournier 24' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,446,4,0,3,9:12 PM,3:07,,,Smith REBOUND (Off:0 Def:3),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,449,8,0,3,9:12 PM,2:51,SUB: Barrett FOR Fournier,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,450,8,0,3,9:12 PM,2:51,,,SUB: Caldwell-Pope FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,453,2,79,3,9:13 PM,2:45,,,MISS Smith 31' 3PT Pullup Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,454,4,0,3,9:13 PM,2:42,Grimes REBOUND (Off:1 Def:2),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,455,2,63,3,9:13 PM,2:25,MISS Randle 10' Fadeaway Jumper,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,456,4,0,3,9:14 PM,2:20,,,Avdija REBOUND (Off:0 Def:3),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,457,2,6,3,9:14 PM,2:14,Sims BLOCK (1 BLK),,MISS Avdija 5' Driving Layup,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1
+0022101050,459,4,0,3,9:14 PM,2:13,Randle REBOUND (Off:1 Def:14),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,460,6,2,3,9:14 PM,2:13,,,Hachimura S.FOUL (P2.PN) (E.Dalen),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,462,3,11,3,9:14 PM,2:13,MISS Barrett Free Throw 1 of 2,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,463,4,1,3,9:14 PM,2:13,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,464,3,12,3,9:14 PM,2:13,Barrett Free Throw 2 of 2 (9 PTS),,,64 - 72,8,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,465,18,2,3,9:15 PM,2:13,,Instant Replay3rd Period (9:15 PM EST),,64 - 72,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,466,6,1,3,9:17 PM,2:13,Randle P.FOUL (P2.PN) (E.Lewis),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,468,3,11,3,9:17 PM,2:13,,,Gafford Free Throw 1 of 2 (5 PTS),65 - 72,7,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,469,3,12,3,9:17 PM,2:13,,,MISS Gafford Free Throw 2 of 2,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,470,4,0,3,9:17 PM,2:11,Grimes REBOUND (Off:1 Def:3),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,471,2,101,3,9:18 PM,1:56,MISS Barrett 6' Driving Floating Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,472,4,0,3,9:18 PM,1:54,,,Smith REBOUND (Off:0 Def:4),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,473,5,2,3,9:18 PM,1:43,Grimes STEAL (2 STL),,Gafford Lost Ball Turnover (P1.T10),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,475,1,1,3,9:18 PM,1:27,Grimes 3PT Jump Shot (5 PTS) (Quickley 5 AST),,,65 - 75,10,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,477,2,80,3,9:19 PM,1:06,,,MISS Smith 12' Step Back Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,478,4,0,3,9:19 PM,1:04,Grimes REBOUND (Off:1 Def:4),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,479,2,6,3,9:19 PM,0:44,MISS Randle 2' Driving Layup,,Gafford BLOCK (1 BLK),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022101050,481,4,0,3,9:19 PM,0:42,,,Avdija REBOUND (Off:0 Def:4),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,482,6,1,3,9:19 PM,0:37,Grimes P.FOUL (P2.PN) (E.Lewis),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,484,3,11,3,9:20 PM,0:37,,,MISS Avdija Free Throw 1 of 2,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,485,4,1,3,9:20 PM,0:37,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,486,3,12,3,9:20 PM,0:37,,,Avdija Free Throw 2 of 2 (4 PTS),66 - 75,9,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,487,2,47,3,9:20 PM,0:25,MISS Quickley 14' Turnaround Jump Shot,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,488,4,0,3,9:20 PM,0:23,,,Hachimura REBOUND (Off:0 Def:1),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,489,2,75,3,9:21 PM,0:01,Grimes BLOCK (1 BLK),,MISS Smith 2' Driving Finger Roll Layup,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1
+0022101050,490,4,0,3,9:21 PM,0:01,Randle REBOUND (Off:1 Def:15),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,491,13,0,3,9:21 PM,0:00,,End of 3rd Period (9:21 PM EST),,66 - 75,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022101050,501,12,0,4,9:24 PM,12:00,,Start of 4th Period (9:24 PM EST),,66 - 75,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,502,6,4,4,9:24 PM,11:45,Toppin OFF.Foul (P1) (P.Ransom),,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,504,5,37,4,9:24 PM,11:45,Toppin Offensive Foul Turnover (P2.T13),,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022101050,505,1,86,4,9:24 PM,11:28,,,Porzingis 14' Turnaround Fadeaway (14 PTS),68 - 75,7,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,506,6,2,4,9:25 PM,11:14,,,Satoransky S.FOUL (P2.T1) (E.Lewis),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,508,3,11,4,9:25 PM,11:14,Quickley Free Throw 1 of 2 (11 PTS),,,68 - 76,8,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,509,3,12,4,9:25 PM,11:14,Quickley Free Throw 2 of 2 (12 PTS),,,68 - 77,9,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,510,2,101,4,9:26 PM,10:58,,,MISS Porzingis 8' Driving Floating Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,511,4,0,4,9:26 PM,10:56,Barrett REBOUND (Off:1 Def:2),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,512,6,1,4,9:26 PM,10:54,,,Avdija P.FOUL (P3.T2) (E.Dalen),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,514,2,1,4,9:26 PM,10:46,MISS Toppin 24' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,515,4,0,4,9:26 PM,10:44,Barrett REBOUND (Off:2 Def:2),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,516,1,63,4,9:26 PM,10:43,Barrett 6' Fadeaway Jumper (11 PTS),,,68 - 79,11,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,517,2,5,4,9:27 PM,10:30,,,MISS Satoransky 6' Layup,,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,518,4,0,4,9:27 PM,10:30,Quickley REBOUND (Off:0 Def:3),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,519,6,1,4,9:27 PM,10:30,,,Satoransky P.FOUL (P3.T3) (P.Ransom),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,521,2,1,4,9:27 PM,10:18,MISS Toppin 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,522,4,0,4,9:27 PM,10:13,,,Satoransky REBOUND (Off:0 Def:1),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,523,1,1,4,9:27 PM,10:02,,,Satoransky 25' 3PT Jump Shot (3 PTS) (Porzingis 1 AST),71 - 79,8,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,525,2,5,4,9:28 PM,9:37,MISS Barrett 3' Layup,,Porzingis BLOCK (1 BLK),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022101050,526,4,0,4,9:28 PM,9:33,Robinson REBOUND (Off:9 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,527,2,97,4,9:28 PM,9:33,MISS Robinson Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,528,4,0,4,9:28 PM,9:32,,,Porzingis REBOUND (Off:1 Def:4),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,530,5,1,4,9:28 PM,9:26,Quickley STEAL (1 STL),,Porzingis Bad Pass Turnover (P1.T11),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,532,6,28,4,9:28 PM,9:25,,,Satoransky Personal Take Foul (P4.T4) (E.Dalen),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,534,6,2,4,9:29 PM,9:21,,,Satoransky S.FOUL (P5.PN) (E.Dalen),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,536,3,13,4,9:29 PM,9:21,Quickley Free Throw 1 of 3 (13 PTS),,,71 - 80,9,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,537,3,14,4,9:29 PM,9:21,Quickley Free Throw 2 of 3 (14 PTS),,,71 - 81,10,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,538,3,15,4,9:30 PM,9:21,Quickley Free Throw 3 of 3 (15 PTS),,,71 - 82,11,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,539,5,1,4,9:30 PM,9:04,Toppin STEAL (1 STL),,Satoransky Bad Pass Turnover (P1.T12),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,541,2,1,4,9:30 PM,8:59,MISS Grimes 26' 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,542,4,0,4,9:30 PM,8:55,,,Satoransky REBOUND (Off:0 Def:2),,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,543,2,1,4,9:30 PM,8:50,,,MISS Hachimura 21' Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,544,4,0,4,9:30 PM,8:47,Grimes REBOUND (Off:1 Def:5),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,545,2,79,4,9:31 PM,8:25,MISS Quickley 23' Pullup Jump Shot,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,546,4,0,4,9:31 PM,8:25,,,Caldwell-Pope REBOUND (Off:0 Def:3),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,547,6,28,4,9:31 PM,8:25,Quickley Personal Take Foul (P1.T1) (P.Ransom),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,553,8,0,4,9:31 PM,8:25,,,SUB: Kuzma FOR Satoransky,,,5,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,549,6,1,4,9:31 PM,8:14,Grimes P.FOUL (P3.T2) (P.Ransom),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,551,5,1,4,9:32 PM,8:06,Toppin STEAL (2 STL),,Avdija Bad Pass Turnover (P1.T13),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,555,2,1,4,9:32 PM,8:02,MISS Grimes 25' 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,556,4,0,4,9:32 PM,7:56,,,Porzingis REBOUND (Off:1 Def:5),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,557,1,9,4,9:32 PM,7:43,,,Hachimura 1' Driving Dunk (7 PTS),73 - 82,9,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,558,6,2,4,9:32 PM,7:43,Toppin S.FOUL (P2.T3) (E.Lewis),,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,560,8,0,4,9:32 PM,7:43,SUB: Randle FOR Toppin,,,,,4,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,561,8,0,4,9:32 PM,7:43,,,SUB: Kispert FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,564,3,10,4,9:33 PM,7:43,,,Hachimura Free Throw 1 of 1 (8 PTS),74 - 82,8,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,565,1,52,4,9:33 PM,7:32,Robinson Alley Oop Dunk (10 PTS) (Barrett 3 AST),,,74 - 84,10,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,567,1,1,4,9:33 PM,7:18,,,Hachimura 25' 3PT Jump Shot (11 PTS) (Caldwell-Pope 2 AST),77 - 84,7,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,569,2,47,4,9:34 PM,6:50,MISS Randle 7' Turnaround Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,570,4,0,4,9:34 PM,6:50,Robinson REBOUND (Off:10 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,571,1,72,4,9:34 PM,6:50,Robinson Putback Layup (12 PTS),,,77 - 86,9,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,572,6,2,4,9:34 PM,6:50,,,Kuzma S.FOUL (P3.PN) (E.Dalen),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,574,9,1,4,9:34 PM,6:50,KNICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,575,8,0,4,9:34 PM,6:50,SUB: Fournier FOR Grimes,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,577,3,10,4,9:37 PM,6:50,Robinson Free Throw 1 of 1 (13 PTS),,,77 - 87,10,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,578,2,79,4,9:38 PM,6:33,,,MISS Hachimura 19' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,579,4,0,4,9:38 PM,6:29,Quickley REBOUND (Off:0 Def:4),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,580,2,1,4,9:38 PM,6:12,MISS Fournier 29' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,581,4,0,4,9:38 PM,6:10,,,Kuzma REBOUND (Off:1 Def:4),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,582,6,1,4,9:38 PM,6:10,Robinson P.FOUL (P3.T4) (P.Ransom),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,584,2,1,4,9:39 PM,6:01,,,MISS Avdija 3PT Jump Shot,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,585,4,0,4,9:39 PM,5:58,Randle REBOUND (Off:1 Def:16),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,586,2,3,4,9:39 PM,5:38,MISS Robinson 6' Hook Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,587,4,0,4,9:39 PM,5:36,,,Hachimura REBOUND (Off:0 Def:2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,588,2,101,4,9:39 PM,5:28,,,MISS Kuzma 14' Driving Floating Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,589,4,0,4,9:39 PM,5:26,Barrett REBOUND (Off:2 Def:3),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,590,1,6,4,9:39 PM,5:15,Barrett 2' Driving Layup (13 PTS) (Fournier 3 AST),,,77 - 89,12,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,592,9,1,4,9:39 PM,5:15,,,Wizards Timeout: Regular (Reg.4 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,593,8,0,4,9:39 PM,5:15,,,SUB: Neto FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,594,8,0,4,9:39 PM,5:15,,,SUB: Porzingis FOR Avdija,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,597,2,1,4,9:43 PM,5:00,,,MISS Kuzma 27' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,598,4,0,4,9:43 PM,4:56,Robinson REBOUND (Off:10 Def:2),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,599,6,2,4,9:43 PM,4:44,,,Kuzma S.FOUL (P4.PN) (P.Ransom),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,601,3,11,4,9:43 PM,4:44,Randle Free Throw 1 of 2 (17 PTS),,,77 - 90,13,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,602,3,12,4,9:44 PM,4:44,Randle Free Throw 2 of 2 (18 PTS),,,77 - 91,14,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,603,2,1,4,9:44 PM,4:33,,,MISS Neto 10' Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,604,4,0,4,9:44 PM,4:32,,,Porzingis REBOUND (Off:2 Def:5),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,605,6,1,4,9:44 PM,4:32,Randle P.FOUL (P3.PN) (P.Ransom),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,607,3,11,4,9:45 PM,4:32,,,Porzingis Free Throw 1 of 2 (15 PTS),78 - 91,13,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,608,3,12,4,9:45 PM,4:32,,,Porzingis Free Throw 2 of 2 (16 PTS),79 - 91,12,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,609,6,1,4,9:45 PM,4:31,,,Neto P.FOUL (P2.PN) (E.Lewis),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0022101050,611,3,11,4,9:45 PM,4:31,Robinson Free Throw 1 of 2 (14 PTS),,,79 - 92,13,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,612,3,12,4,9:46 PM,4:31,Robinson Free Throw 2 of 2 (15 PTS),,,79 - 93,14,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,613,2,1,4,9:46 PM,4:21,,,MISS Porzingis 27' 3PT Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,614,4,0,4,9:46 PM,4:19,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,615,6,3,4,9:46 PM,4:19,Fournier L.B.FOUL (P1.PN) (P.Ransom),,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,618,8,0,4,9:46 PM,4:19,SUB: Burks FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,617,3,11,4,9:46 PM,4:19,,,Kispert Free Throw 1 of 2 (10 PTS),80 - 93,13,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,620,3,12,4,9:47 PM,4:19,,,Kispert Free Throw 2 of 2 (11 PTS),81 - 93,12,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,621,1,1,4,9:47 PM,4:00,Barrett 25' 3PT Jump Shot (16 PTS) (Fournier 4 AST),,,81 - 96,15,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022101050,623,9,1,4,9:47 PM,4:00,,,Wizards Timeout: Regular (Reg.5 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,624,6,1,4,9:49 PM,3:51,Quickley P.FOUL (P2.PN) (P.Ransom),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022101050,626,3,11,4,9:49 PM,3:51,,,Porzingis Free Throw 1 of 2 (17 PTS),82 - 96,14,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,627,3,12,4,9:50 PM,3:51,,,Porzingis Free Throw 2 of 2 (18 PTS),83 - 96,13,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,628,2,1,4,9:50 PM,3:34,MISS Fournier 25' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,629,4,0,4,9:50 PM,3:30,,,Porzingis REBOUND (Off:2 Def:6),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,630,1,73,4,9:50 PM,3:11,,,Neto Driving Reverse Layup (11 PTS),85 - 96,11,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,631,2,6,4,9:51 PM,2:55,MISS Barrett 2' Driving Layup,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,633,4,0,4,9:51 PM,2:55,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,635,2,1,4,9:51 PM,2:52,MISS Randle 25' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,636,4,0,4,9:51 PM,2:49,,,Porzingis REBOUND (Off:2 Def:7),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,637,1,1,4,9:51 PM,2:42,,,Kispert 24' 3PT Jump Shot (14 PTS) (Kuzma 9 AST),88 - 96,8,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,639,9,1,4,9:51 PM,2:42,KNICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,640,2,1,4,9:53 PM,2:28,MISS Barrett 26' 3PT Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,641,4,0,4,9:53 PM,2:24,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,643,2,78,4,9:54 PM,2:13,MISS Barrett 8' Floating Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,644,4,0,4,9:54 PM,2:10,,,Neto REBOUND (Off:0 Def:3),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,645,1,79,4,9:54 PM,1:54,,,Kuzma 26' 3PT Pullup Jump Shot (12 PTS),91 - 96,5,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,646,6,2,4,9:55 PM,1:40,,,Kuzma S.FOUL (P5.PN) (P.Ransom),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,649,8,0,4,9:55 PM,1:40,SUB: Robinson FOR Quickley,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,648,3,11,4,9:55 PM,1:40,Burks Free Throw 1 of 2 (11 PTS),,,91 - 97,6,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,651,3,12,4,9:55 PM,1:40,Burks Free Throw 2 of 2 (12 PTS),,,91 - 98,7,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,652,1,66,4,9:56 PM,1:24,,,Kuzma 25' 3PT Jump Bank Shot (15 PTS),94 - 98,4,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,653,2,1,4,9:56 PM,1:04,MISS Burks 24' 3PT Jump Shot,,,,,4,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,654,4,0,4,9:56 PM,1:01,,,Porzingis REBOUND (Off:2 Def:8),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,655,1,1,4,9:57 PM,0:42,,,Kuzma 29' 3PT Jump Shot (18 PTS) (Neto 4 AST),97 - 98,1,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022101050,657,2,47,4,9:57 PM,0:27,MISS Barrett 6' Turnaround Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,658,4,0,4,9:57 PM,0:25,,,Porzingis REBOUND (Off:2 Def:9),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,659,2,79,4,9:57 PM,0:06,,,MISS Kuzma 27' 3PT Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,660,4,0,4,9:57 PM,0:04,Barrett REBOUND (Off:2 Def:4),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,661,6,1,4,9:57 PM,0:04,,,Porzingis P.FOUL (P5.PN) (P.Ransom),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022101050,664,8,0,4,9:57 PM,0:04,,,SUB: Gafford FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,663,3,11,4,9:58 PM,0:04,Barrett Free Throw 1 of 2 (17 PTS),,,97 - 99,2,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022101050,666,3,12,4,9:58 PM,0:04,Barrett Free Throw 2 of 2 (18 PTS),,,97 - 100,3,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022101050,667,9,1,4,9:58 PM,0:04,,,Wizards Timeout: Regular (Reg.6 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,668,8,0,4,9:58 PM,0:04,SUB: Grimes FOR Fournier,,,,,4,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022101050,669,8,0,4,9:58 PM,0:04,,,SUB: Neto FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022101050,672,2,1,4,10:00 PM,0:01,,,MISS Caldwell-Pope 26' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022101050,673,4,0,4,10:00 PM,0:01,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022101050,674,13,0,4,10:00 PM,0:00,,End of 4th Period (10:00 PM EST),,97 - 100,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

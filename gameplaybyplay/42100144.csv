@@ -1,0 +1,471 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100144,2,12,0,1,9:49 PM,12:00,,Start of 1st Period (9:49 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,4,10,0,1,9:49 PM,12:00,Jump Ball Valanciunas vs. Ayton: Tip to Crowder,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1
+0042100144,7,5,2,1,9:50 PM,11:37,McCollum STEAL (1 STL),,Paul Lost Ball Turnover (P1.T1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,9,2,103,1,9:50 PM,11:33,MISS McCollum 26' 3PT Running Pull-Up Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,10,4,0,1,9:50 PM,11:29,,,Crowder REBOUND (Off:0 Def:1),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,11,2,1,1,9:50 PM,11:21,,,MISS Ayton 14' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,12,4,0,1,9:50 PM,11:12,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,15,5,1,1,9:50 PM,11:02,Hayes Bad Pass Turnover (P1.T1),,Paul STEAL (1 STL),,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,17,1,41,1,9:50 PM,10:57,,,Bridges 4' Running Layup (2 PTS) (Crowder 1 AST),2 - 0,-2,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,19,1,79,1,9:51 PM,10:36,Ingram 16' Pullup Jump Shot (2 PTS),,,2 - 2,TIE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,20,1,86,1,9:51 PM,10:22,,,Ayton 8' Turnaround Fadeaway (2 PTS) (Johnson 1 AST),4 - 2,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,22,1,1,1,9:51 PM,10:02,Ingram 3PT Jump Shot (5 PTS) (Jones 1 AST),,,4 - 5,1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,24,1,1,1,9:51 PM,9:51,,,Ayton 14' Jump Shot (4 PTS) (Paul 1 AST),6 - 5,-1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,26,1,86,1,9:52 PM,9:29,Valanciunas 5' Turnaround Fadeaway (2 PTS) (Jones 2 AST),,,6 - 7,1,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,28,2,1,1,9:52 PM,9:11,,,MISS Bridges 25' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,29,4,0,1,9:52 PM,9:09,Hayes REBOUND (Off:0 Def:1),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,30,2,1,1,9:52 PM,8:56,MISS Valanciunas 15' Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,31,4,0,1,9:52 PM,8:54,,,Bridges REBOUND (Off:0 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,32,1,75,1,9:53 PM,8:44,,,Paul 4' Driving Finger Roll Layup (2 PTS),8 - 7,-1,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,33,2,80,1,9:53 PM,8:32,MISS McCollum 25' 3PT Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,34,4,0,1,9:53 PM,8:29,,,Johnson REBOUND (Off:0 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,35,2,1,1,9:53 PM,8:26,,,MISS Crowder 25' 3PT Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,36,4,0,1,9:53 PM,8:23,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,37,2,1,1,9:53 PM,8:12,MISS Valanciunas 16' Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,38,4,0,1,9:53 PM,8:09,,,Ayton REBOUND (Off:0 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,39,1,108,1,9:53 PM,7:47,,,Ayton 3' Cutting Dunk Shot (6 PTS) (Crowder 2 AST),10 - 7,-3,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,41,1,80,1,9:54 PM,7:26,McCollum 27' 3PT Step Back Jump Shot (3 PTS),,,10 - 10,TIE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,42,2,101,1,9:54 PM,7:01,,,MISS Crowder 3' Driving Floating Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,43,4,0,1,9:54 PM,6:58,Valanciunas REBOUND (Off:0 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,44,2,6,1,9:54 PM,6:52,MISS Hayes 7' Driving Layup,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,45,4,0,1,9:54 PM,6:50,Valanciunas REBOUND (Off:1 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,46,1,72,1,9:54 PM,6:47,Valanciunas 5' Putback Layup (4 PTS),,,10 - 12,2,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,47,6,1,1,9:55 PM,6:34,Jones P.FOUL (P1.T1) (J.Tiven),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,49,9,1,1,9:55 PM,6:34,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,50,1,79,1,9:59 PM,6:27,,,Paul 20' Pullup Jump Shot (4 PTS) (Crowder 3 AST),12 - 12,TIE,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,52,1,102,1,9:59 PM,6:03,McCollum 6' Driving Floating Bank Jump Shot (5 PTS) (Ingram 1 AST),,,12 - 14,2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,54,2,79,1,9:59 PM,5:47,,,MISS Crowder 16' Pullup Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,58,4,0,1,9:59 PM,5:46,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,55,10,0,1,10:00 PM,5:46,Jump Ball Hayes vs. Ayton: Tip to McCollum,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1
+0042100144,61,8,0,1,10:00 PM,5:46,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,59,1,73,1,10:00 PM,5:30,Ingram 2' Driving Reverse Layup (7 PTS) (Jones 3 AST),,,12 - 16,4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,63,1,5,1,10:01 PM,5:06,,,Ayton 3' Layup (8 PTS) (Bridges 1 AST),14 - 16,2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,65,6,2,1,10:01 PM,4:48,,,Ayton S.FOUL (P1.T1) (T.Washington),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,67,3,11,1,10:02 PM,4:48,Ingram Free Throw 1 of 2 (8 PTS),,,14 - 17,3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,68,8,0,1,10:02 PM,4:48,SUB: Murphy III FOR Hayes,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,69,8,0,1,10:02 PM,4:48,,,SUB: Shamet FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,72,3,12,1,10:02 PM,4:48,Ingram Free Throw 2 of 2 (9 PTS),,,14 - 18,4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,73,2,86,1,10:02 PM,4:27,,,MISS Bridges 8' Turnaround Fadeaway Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,74,4,0,1,10:02 PM,4:23,,,Crowder REBOUND (Off:1 Def:1),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,75,1,5,1,10:02 PM,4:19,,,Ayton 4' Layup (10 PTS) (Crowder 4 AST),16 - 18,2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,77,6,1,1,10:03 PM,4:08,,,Shamet P.FOUL (P1.T2) (M.Davis),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,79,8,0,1,10:03 PM,4:08,,,SUB: Payne FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,81,6,1,1,10:03 PM,4:01,,,Bridges P.FOUL (P1.T3) (T.Washington),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,83,5,9,1,10:04 PM,4:01,PELICANS Turnover: 5 Second Violation (T#2),,,,,2,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100144,84,2,1,1,10:04 PM,3:49,,,MISS Shamet 25' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,85,4,0,1,10:04 PM,3:46,Jones REBOUND (Off:0 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,86,2,80,1,10:05 PM,3:34,MISS McCollum 25' 3PT Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,87,4,0,1,10:05 PM,3:30,,,Ayton REBOUND (Off:0 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,88,5,40,1,10:05 PM,3:19,,,Ayton Out of Bounds Lost Ball Turnover (P1.T2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100144,89,8,0,1,10:05 PM,3:19,SUB: Graham FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,90,8,0,1,10:05 PM,3:19,SUB: Valanciunas FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,91,8,0,1,10:05 PM,3:19,,,SUB: Craig FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,92,8,0,1,10:05 PM,3:19,,,SUB: McGee FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,97,2,79,1,10:06 PM,2:55,MISS Ingram 25' 3PT Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,98,4,0,1,10:06 PM,2:52,Nance Jr. REBOUND (Off:1 Def:0),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,99,1,80,1,10:06 PM,2:48,Ingram 16' Step Back Jump Shot (11 PTS) (Nance Jr. 1 AST),,,16 - 20,4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,101,2,102,1,10:06 PM,2:31,,,MISS Payne 5' Driving Floating Bank Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,103,1,97,1,10:06 PM,2:25,,,McGee Tip Layup Shot (2 PTS),18 - 20,2,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,102,4,0,1,10:06 PM,2:25,,,McGee REBOUND (Off:1 Def:0),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,104,6,2,1,10:06 PM,2:09,,,McGee S.FOUL (P1.T4) (M.Davis),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,106,9,1,1,10:07 PM,2:09,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,107,8,0,1,10:09 PM,2:09,,,SUB: Johnson FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,109,3,11,1,10:11 PM,2:09,Valanciunas Free Throw 1 of 2 (5 PTS),,,18 - 21,3,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,110,3,12,1,10:11 PM,2:09,MISS Valanciunas Free Throw 2 of 2,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,111,4,0,1,10:11 PM,2:06,,,Craig REBOUND (Off:0 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,112,2,1,1,10:11 PM,1:54,,,MISS Johnson 21' Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,113,4,0,1,10:11 PM,1:51,,,McGee REBOUND (Off:2 Def:0),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,114,1,63,1,10:11 PM,1:46,,,Shamet 10' Fadeaway Jumper (2 PTS) (McGee 1 AST),20 - 21,1,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,116,2,1,1,10:11 PM,1:30,MISS Ingram 26' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,117,4,0,1,10:11 PM,1:27,Ingram REBOUND (Off:1 Def:0),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,118,2,86,1,10:12 PM,1:19,MISS Ingram 10' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,119,4,0,1,10:12 PM,1:16,Valanciunas REBOUND (Off:2 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,120,1,87,1,10:12 PM,1:14,Valanciunas 2' Putback Dunk (7 PTS),,,20 - 23,3,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,121,6,4,1,10:12 PM,1:03,,,Payne OFF.Foul (P1) (T.Washington),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,123,5,37,1,10:12 PM,1:03,,,Payne Offensive Foul Turnover (P1.T3),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100144,124,1,57,1,10:12 PM,0:47,Valanciunas 7' Driving Hook Shot (9 PTS) (Murphy III 1 AST),,,20 - 25,5,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,126,2,79,1,10:13 PM,0:35,,,MISS Payne 26' 3PT Pullup Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,127,4,0,1,10:13 PM,0:31,Graham REBOUND (Off:0 Def:1),,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,128,2,1,1,10:13 PM,0:24,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,129,4,0,1,10:13 PM,0:21,,,McGee REBOUND (Off:2 Def:1),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,130,2,1,1,10:13 PM,0:04,,,MISS Johnson 28' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,131,4,0,1,10:13 PM,0:00,,,Craig REBOUND (Off:1 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,132,1,5,1,10:13 PM,0:00,,,McGee 2' Layup (4 PTS) (Craig 1 AST),22 - 25,3,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,134,13,0,1,10:14 PM,0:00,,End of 1st Period (10:14 PM EST),,22 - 25,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100144,143,12,0,2,10:17 PM,12:00,,Start of 2nd Period (10:17 PM EST),,22 - 25,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,144,1,1,2,10:17 PM,11:41,Graham 27' 3PT Jump Shot (3 PTS) (McCollum 1 AST),,,22 - 28,6,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,146,1,52,2,10:18 PM,11:24,,,McGee 3' Alley Oop Dunk (6 PTS) (Paul 2 AST),24 - 28,4,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,149,1,79,2,10:18 PM,11:06,McCollum 19' Pullup Jump Shot (7 PTS),,,24 - 30,6,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,150,1,1,2,10:19 PM,10:51,,,Johnson 3PT Jump Shot (3 PTS) (Paul 3 AST),27 - 30,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,152,6,2,2,10:19 PM,10:34,,,Paul S.FOUL (P1.T1) (J.Tiven),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,154,3,11,2,10:19 PM,10:34,Marshall Free Throw 1 of 2 (1 PTS),,,27 - 31,4,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,155,3,12,2,10:20 PM,10:34,Marshall Free Throw 2 of 2 (2 PTS),,,27 - 32,5,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,156,5,2,2,10:20 PM,10:25,Graham STEAL (1 STL),,Shamet Lost Ball Turnover (P1.T4),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,158,2,1,2,10:20 PM,10:21,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,159,4,0,2,10:20 PM,10:17,Murphy III REBOUND (Off:1 Def:0),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,160,6,2,2,10:20 PM,10:17,,,Johnson S.FOUL (P1.T2) (M.Davis),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,162,3,11,2,10:21 PM,10:17,Murphy III Free Throw 1 of 2 (1 PTS),,,27 - 33,6,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,163,3,12,2,10:21 PM,10:17,MISS Murphy III Free Throw 2 of 2,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,164,4,0,2,10:21 PM,10:14,,,McGee REBOUND (Off:2 Def:2),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,165,1,9,2,10:21 PM,9:57,,,McGee 2' Driving Dunk (8 PTS) (Paul 4 AST),29 - 33,4,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,167,1,9,2,10:21 PM,9:40,McCollum 4' Driving Dunk (9 PTS) (Valanciunas 1 AST),,,29 - 35,6,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,169,1,75,2,10:22 PM,9:20,,,Johnson 2' Driving Finger Roll Layup (5 PTS) (Paul 5 AST),31 - 35,4,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,170,1,73,2,10:22 PM,9:07,Valanciunas 3' Driving Reverse Layup (11 PTS),,,31 - 37,6,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,171,6,2,2,10:22 PM,9:07,,,McGee S.FOUL (P2.T3) (T.Washington),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,173,8,0,2,10:22 PM,9:07,SUB: Nance Jr. FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,175,8,0,2,10:22 PM,9:07,,,SUB: Ayton FOR McGee,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,185,8,0,2,10:22 PM,9:07,SUB: Alvarado FOR Graham,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,179,3,10,2,10:23 PM,9:07,MISS Valanciunas Free Throw 1 of 1,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,180,4,0,2,10:23 PM,9:04,,,Ayton REBOUND (Off:0 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,182,2,1,2,10:23 PM,8:52,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,183,4,0,2,10:23 PM,8:47,Valanciunas REBOUND (Off:2 Def:3),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,184,1,101,2,10:23 PM,8:42,McCollum 7' Driving Floating Jump Shot (11 PTS),,,31 - 39,8,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,186,9,1,2,10:24 PM,8:42,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,187,8,0,2,10:25 PM,8:42,SUB: Jones FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,188,8,0,2,10:25 PM,8:42,,,SUB: Crowder FOR Shamet,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,191,1,98,2,10:27 PM,8:21,,,Bridges 4' Cutting Layup Shot (4 PTS) (Crowder 5 AST),33 - 39,6,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,193,2,1,2,10:28 PM,7:57,MISS McCollum 27' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,194,4,0,2,10:28 PM,7:57,,,Paul REBOUND (Off:0 Def:1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,195,1,98,2,10:28 PM,7:47,,,Bridges 2' Cutting Layup Shot (6 PTS) (Paul 6 AST),35 - 39,4,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,197,9,1,2,10:28 PM,7:46,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,198,8,0,2,10:30 PM,7:46,SUB: Ingram FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,200,1,108,2,10:32 PM,7:31,Nance Jr. 3' Cutting Dunk Shot (2 PTS) (McCollum 2 AST),,,35 - 41,6,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,202,6,1,2,10:32 PM,7:21,Jones P.FOUL (P2.T1) (T.Washington),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,204,2,79,2,10:32 PM,7:10,,,MISS Johnson 18' Pullup Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,205,4,0,2,10:32 PM,7:06,Alvarado REBOUND (Off:0 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,206,2,1,2,10:33 PM,6:58,MISS Alvarado 25' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,207,4,0,2,10:33 PM,6:53,,,Bridges REBOUND (Off:0 Def:2),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,208,6,1,2,10:33 PM,6:53,Nance Jr. P.FOUL (P1.T2) (M.Davis),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,210,6,1,2,10:33 PM,6:40,Alvarado P.FOUL (P1.T3) (J.Tiven),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,212,2,73,2,10:34 PM,6:31,,,MISS Bridges 6' Driving Reverse Layup,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,213,4,0,2,10:34 PM,6:26,,,Ayton REBOUND (Off:1 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,214,1,97,2,10:34 PM,6:26,,,Ayton Tip Layup Shot (12 PTS),37 - 41,4,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,215,1,98,2,10:34 PM,6:10,Nance Jr. 2' Cutting Layup Shot (4 PTS) (Ingram 2 AST),,,37 - 43,6,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,219,2,1,2,10:35 PM,5:44,,,MISS Johnson 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,220,4,0,2,10:35 PM,5:40,McCollum REBOUND (Off:0 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,221,2,1,2,10:35 PM,5:35,MISS Ingram 25' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,222,4,0,2,10:35 PM,5:31,McCollum REBOUND (Off:1 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,223,2,101,2,10:35 PM,5:28,MISS McCollum 6' Driving Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,224,4,0,2,10:35 PM,5:28,,,Crowder REBOUND (Off:1 Def:2),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,225,1,1,2,10:36 PM,5:14,,,Johnson 3PT Jump Shot (8 PTS) (Bridges 2 AST),40 - 43,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,227,6,2,2,10:36 PM,4:54,,,Paul S.FOUL (P2.T4) (M.Davis),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,229,3,11,2,10:37 PM,4:54,Ingram Free Throw 1 of 2 (12 PTS),,,40 - 44,4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,230,8,0,2,10:37 PM,4:54,SUB: Valanciunas FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,231,8,0,2,10:37 PM,4:54,,,SUB: Payne FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,234,3,12,2,10:37 PM,4:54,Ingram Free Throw 2 of 2 (13 PTS),,,40 - 45,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,235,6,2,2,10:37 PM,4:42,Valanciunas S.FOUL (P1.T4) (M.Davis),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,245,3,11,2,10:38 PM,4:42,,,Johnson Free Throw 1 of 2 (9 PTS),41 - 45,4,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,246,3,12,2,10:38 PM,4:42,,,Johnson Free Throw 2 of 2 (10 PTS),42 - 45,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,237,6,4,2,10:39 PM,4:26,Valanciunas OFF.Foul (P2) (J.Tiven),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,239,5,37,2,10:39 PM,4:26,Valanciunas Offensive Foul Turnover (P1.T3),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0042100144,240,1,47,2,10:40 PM,4:10,,,Ayton 9' Turnaround Jump Shot (14 PTS) (Payne 1 AST),44 - 45,1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,242,6,2,2,10:40 PM,4:00,,,Payne S.FOUL (P2.PN) (M.Davis),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,244,3,11,2,10:40 PM,4:00,Alvarado Free Throw 1 of 2 (1 PTS),,,44 - 46,2,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,249,3,12,2,10:40 PM,4:00,MISS Alvarado Free Throw 2 of 2,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,247,8,0,2,10:40 PM,4:00,SUB: Jones FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,250,4,0,2,10:40 PM,3:57,,,Johnson REBOUND (Off:0 Def:2),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,251,2,101,2,10:41 PM,3:47,,,MISS Payne 6' Driving Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,252,4,0,2,10:41 PM,3:45,Ingram REBOUND (Off:1 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,253,2,1,2,10:41 PM,3:30,MISS Alvarado 25' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,254,4,0,2,10:41 PM,3:26,Jones REBOUND (Off:1 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,255,2,72,2,10:41 PM,3:24,MISS Jones 4' Putback Layup,,Bridges BLOCK (1 BLK),,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0042100144,257,4,0,2,10:41 PM,3:20,,,Johnson REBOUND (Off:0 Def:3),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,258,2,86,2,10:41 PM,3:06,,,MISS Bridges 10' Turnaround Fadeaway Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,259,4,0,2,10:42 PM,3:03,Valanciunas REBOUND (Off:2 Def:4),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,260,6,2,2,10:42 PM,3:01,,,Johnson S.FOUL (P2.PN) (T.Washington),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,262,3,11,2,10:42 PM,3:01,Jones Free Throw 1 of 2 (1 PTS),,,44 - 47,3,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,263,8,0,2,10:42 PM,3:01,,,SUB: Paul FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,265,3,12,2,10:43 PM,3:01,Jones Free Throw 2 of 2 (2 PTS),,,44 - 48,4,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,266,1,75,2,10:43 PM,2:40,,,Bridges 5' Driving Finger Roll Layup (8 PTS) (Ayton 1 AST),46 - 48,2,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,268,2,1,2,10:43 PM,2:20,MISS Ingram 26' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,269,4,0,2,10:43 PM,2:18,,,Bridges REBOUND (Off:0 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,270,1,79,2,10:44 PM,2:09,,,Payne 18' Pullup Jump Shot (2 PTS),48 - 48,TIE,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,271,6,4,2,10:44 PM,2:03,Ingram OFF.Foul (P1) (T.Washington),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,273,5,37,2,10:44 PM,2:03,Ingram Offensive Foul Turnover (P1.T4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0042100144,296,8,0,2,10:44 PM,2:03,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,274,1,1,2,10:44 PM,1:46,,,Crowder 27' 3PT Jump Shot (3 PTS) (Bridges 3 AST),51 - 48,-3,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,276,2,1,2,10:45 PM,1:28,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,277,4,0,2,10:45 PM,1:22,McCollum REBOUND (Off:2 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,278,2,78,2,10:45 PM,1:21,MISS McCollum 6' Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,279,4,0,2,10:45 PM,1:20,McCollum REBOUND (Off:3 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,306,2,72,2,10:45 PM,1:18,MISS McCollum 1' Putback Layup,,Payne BLOCK (1 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1
+0042100144,308,4,0,2,10:45 PM,1:18,McCollum REBOUND (Off:4 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,280,5,1,2,10:45 PM,1:09,Alvarado Bad Pass Turnover (P1.T5),,Paul STEAL (2 STL),,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,282,6,4,2,10:45 PM,1:08,,,Crowder OFF.Foul (P1) (T.Washington),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,284,5,37,2,10:45 PM,1:08,,,Crowder Offensive Foul Turnover (P1.T5),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100144,286,2,73,2,10:46 PM,0:45,MISS McCollum 3' Driving Reverse Layup,,Ayton BLOCK (1 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+0042100144,288,4,0,2,10:46 PM,0:45,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,290,2,79,2,10:46 PM,0:27,,,MISS Paul 29' 3PT Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,291,4,0,2,10:46 PM,0:24,,,Bridges REBOUND (Off:1 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,292,2,1,2,10:47 PM,0:14,,,MISS Ayton 19' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,293,4,0,2,10:47 PM,0:11,McCollum REBOUND (Off:4 Def:3),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,294,6,1,2,10:47 PM,0:02,,,Crowder P.FOUL (P2.PN) (J.Tiven),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,298,3,11,2,10:47 PM,0:02,Ingram Free Throw 1 of 2 (14 PTS),,,51 - 49,-2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,303,3,12,2,10:47 PM,0:02,MISS Ingram Free Throw 2 of 2,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,299,8,0,2,10:47 PM,0:02,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,300,8,0,2,10:47 PM,0:02,,,SUB: Johnson FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,304,4,0,2,10:47 PM,0:00,,,Ayton REBOUND (Off:1 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,305,13,0,2,10:48 PM,0:00,,End of 2nd Period (10:48 PM EST),,51 - 49,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100144,316,12,0,3,11:05 PM,12:00,,Start of 3rd Period (11:05 PM EST),,51 - 49,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,317,6,1,3,11:05 PM,11:46,,,Crowder P.FOUL (P3.T1) (M.Davis),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,319,1,79,3,11:05 PM,11:35,Ingram 15' Pullup Jump Shot (16 PTS),,,51 - 51,TIE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,321,2,1,3,11:06 PM,11:08,,,MISS Ayton 9' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,322,4,0,3,11:06 PM,11:05,Valanciunas REBOUND (Off:2 Def:5),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,323,1,63,3,11:06 PM,10:50,Ingram 15' Fadeaway Jumper (18 PTS),,,51 - 53,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,324,2,79,3,11:06 PM,10:37,,,MISS Bridges 16' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,325,4,0,3,11:06 PM,10:33,,,Ayton REBOUND (Off:2 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,326,1,58,3,11:06 PM,10:31,,,Ayton 10' Turnaround Hook Shot (16 PTS),53 - 53,TIE,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,327,1,98,3,11:07 PM,10:16,Ingram 5' Cutting Layup Shot (20 PTS) (Valanciunas 2 AST),,,53 - 55,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,329,2,79,3,11:07 PM,10:00,,,MISS Paul 19' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,330,4,0,3,11:07 PM,9:58,McCollum REBOUND (Off:4 Def:4),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,331,2,79,3,11:07 PM,9:52,MISS McCollum 26' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,332,4,0,3,11:07 PM,9:47,Valanciunas REBOUND (Off:3 Def:5),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,333,2,1,3,11:07 PM,9:45,MISS Valanciunas 14' Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,334,4,0,3,11:07 PM,9:45,,,Ayton REBOUND (Off:2 Def:5),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,335,2,103,3,11:07 PM,9:39,,,MISS Bridges 10' Running Pull-Up Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,336,4,0,3,11:07 PM,9:39,Valanciunas REBOUND (Off:3 Def:6),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,337,1,98,3,11:07 PM,9:31,Valanciunas 4' Cutting Layup Shot (13 PTS) (Ingram 3 AST),,,53 - 57,4,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,339,6,1,3,11:08 PM,9:16,Jones P.FOUL (P3.T1) (J.Tiven),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,341,2,47,3,11:08 PM,9:08,,,MISS Johnson 12' Turnaround Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,342,4,0,3,11:08 PM,9:07,McCollum REBOUND (Off:4 Def:5),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,343,5,1,3,11:09 PM,9:00,McCollum Bad Pass Turnover (P1.T6),,Crowder STEAL (1 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,345,2,76,3,11:09 PM,8:55,,,MISS Johnson 3' Running Finger Roll Layup,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,346,4,0,3,11:09 PM,8:55,Ingram REBOUND (Off:1 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,348,6,1,3,11:09 PM,8:55,,,Bridges P.FOUL (P2.T2) (M.Davis),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,350,1,108,3,11:09 PM,8:34,Hayes 3' Cutting Dunk Shot (2 PTS) (Ingram 4 AST),,,53 - 59,6,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,352,9,1,3,11:09 PM,8:33,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,353,6,2,3,11:13 PM,8:21,Hayes S.FOUL (P1.T2) (T.Washington),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,355,3,11,3,11:14 PM,8:21,,,MISS Ayton Free Throw 1 of 2,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,356,4,1,3,11:14 PM,8:21,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,357,3,12,3,11:14 PM,8:21,,,Ayton Free Throw 2 of 2 (17 PTS),54 - 59,5,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,358,6,2,3,11:14 PM,8:09,,,Johnson S.FOUL (P3.T3) (J.Tiven),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,360,3,11,3,11:15 PM,8:09,Jones Free Throw 1 of 2 (3 PTS),,,54 - 60,6,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,361,3,12,3,11:15 PM,8:09,Jones Free Throw 2 of 2 (4 PTS),,,54 - 61,7,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,362,1,1,3,11:15 PM,7:54,,,Crowder 21' Jump Shot (5 PTS) (Johnson 2 AST),56 - 61,5,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,364,2,86,3,11:15 PM,7:37,MISS McCollum 14' Turnaround Fadeaway Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,365,4,0,3,11:15 PM,7:35,,,Crowder REBOUND (Off:1 Def:3),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,366,6,2,3,11:16 PM,7:28,Ingram S.FOUL (P2.T3) (T.Washington),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,370,3,13,3,11:17 PM,7:28,,,Crowder Free Throw 1 of 3 (6 PTS),57 - 61,4,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,371,3,14,3,11:17 PM,7:28,,,MISS Crowder Free Throw 2 of 3,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,372,4,1,3,11:17 PM,7:28,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,373,3,15,3,11:17 PM,7:28,,,MISS Crowder Free Throw 3 of 3,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,374,4,0,3,11:17 PM,7:26,Valanciunas REBOUND (Off:3 Def:7),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,375,1,79,3,11:18 PM,7:11,Ingram 15' Pullup Jump Shot (22 PTS),,,57 - 63,6,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,376,1,1,3,11:18 PM,6:58,,,Johnson 25' 3PT Jump Shot (13 PTS) (Paul 7 AST),60 - 63,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,378,6,2,3,11:19 PM,6:41,,,Johnson S.FOUL (P4.T4) (T.Washington),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,380,3,11,3,11:19 PM,6:41,Jones Free Throw 1 of 2 (5 PTS),,,60 - 64,4,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,381,8,0,3,11:19 PM,6:41,,,SUB: Shamet FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,383,3,12,3,11:20 PM,6:41,Jones Free Throw 2 of 2 (6 PTS),,,60 - 65,5,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,384,2,79,3,11:20 PM,6:28,,,MISS Paul 16' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,385,4,0,3,11:20 PM,6:26,Hayes REBOUND (Off:0 Def:2),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,386,2,79,3,11:20 PM,6:13,MISS Ingram 16' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,387,4,0,3,11:20 PM,6:11,,,Ayton REBOUND (Off:2 Def:6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,388,6,26,3,11:20 PM,6:06,,,Ayton Offensive Charge Foul (P2) (J.Tiven),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,390,5,37,3,11:20 PM,6:06,,,Ayton Offensive Foul Turnover (P2.T6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100144,391,2,1,3,11:21 PM,5:56,MISS Jones 26' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,392,4,0,3,11:21 PM,5:52,,,Shamet REBOUND (Off:0 Def:1),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,393,6,2,3,11:21 PM,5:48,Hayes S.FOUL (P2.T4) (J.Tiven),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,397,8,0,3,11:22 PM,5:48,SUB: Nance Jr. FOR Hayes,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,398,8,0,3,11:22 PM,5:48,SUB: Murphy III FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,395,3,13,3,11:22 PM,5:48,,,Crowder Free Throw 1 of 3 (7 PTS),61 - 65,4,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,396,3,14,3,11:22 PM,5:48,,,Crowder Free Throw 2 of 3 (8 PTS),62 - 65,3,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,401,3,15,3,11:22 PM,5:48,,,Crowder Free Throw 3 of 3 (9 PTS),63 - 65,2,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,402,1,93,3,11:23 PM,5:27,Jones 3' Driving Bank Hook Shot (8 PTS) (Nance Jr. 2 AST),,,63 - 67,4,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,404,2,80,3,11:23 PM,5:16,,,MISS Paul 16' Step Back Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,405,4,0,3,11:23 PM,5:16,Murphy III REBOUND (Off:1 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,406,2,79,3,11:23 PM,5:06,MISS Ingram 20' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,407,4,0,3,11:23 PM,5:05,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,409,2,102,3,11:24 PM,4:56,MISS Jones 7' Driving Floating Bank Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,410,4,0,3,11:24 PM,4:53,,,Crowder REBOUND (Off:1 Def:4),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,411,2,1,3,11:24 PM,4:37,Jones BLOCK (1 BLK),,MISS Shamet 28' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0042100144,412,4,0,3,11:24 PM,4:37,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,414,6,3,3,11:25 PM,4:36,,,Crowder L.B.FOUL (P4.PN) (M.Davis),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,417,3,11,3,11:25 PM,4:36,Ingram Free Throw 1 of 2 (23 PTS),,,63 - 68,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,418,8,0,3,11:25 PM,4:36,,,SUB: Payne FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,419,8,0,3,11:25 PM,4:36,,,SUB: Craig FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,420,8,0,3,11:25 PM,4:36,,,SUB: McGee FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,424,3,12,3,11:26 PM,4:36,Ingram Free Throw 2 of 2 (24 PTS),,,63 - 69,6,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,425,1,43,3,11:27 PM,4:23,,,McGee 3' Alley Oop Layup (10 PTS) (Shamet 1 AST),65 - 69,4,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,427,1,79,3,11:27 PM,4:05,McCollum 18' Pullup Jump Shot (13 PTS),,,65 - 71,6,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,428,2,6,3,11:27 PM,3:47,,,MISS Craig 4' Driving Layup,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,429,4,0,3,11:27 PM,3:46,,,Craig REBOUND (Off:2 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,481,2,97,3,11:27 PM,3:45,,,MISS Craig 1' Tip Layup Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,482,4,0,3,11:27 PM,3:44,,,Craig REBOUND (Off:3 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,430,1,72,3,11:27 PM,3:43,,,Craig 2' Putback Layup (2 PTS),67 - 71,4,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,431,5,1,3,11:28 PM,3:27,McCollum Bad Pass Turnover (P2.T7),,Craig STEAL (1 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,434,6,1,3,11:28 PM,3:27,McCollum P.FOUL (P1.PN) (M.Davis),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,436,3,11,3,11:28 PM,3:27,,,Craig Free Throw 1 of 2 (3 PTS),68 - 71,3,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,441,3,12,3,11:28 PM,3:27,,,MISS Craig Free Throw 2 of 2,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,437,8,0,3,11:28 PM,3:27,SUB: Valanciunas FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,438,8,0,3,11:28 PM,3:27,SUB: Graham FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,442,4,0,3,11:28 PM,3:25,Nance Jr. REBOUND (Off:1 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,443,1,9,3,11:29 PM,3:07,Ingram 2' Driving Dunk (26 PTS),,,68 - 73,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,444,2,1,3,11:29 PM,2:48,,,MISS Craig 26' 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,445,4,0,3,11:29 PM,2:43,Nance Jr. REBOUND (Off:1 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,446,2,102,3,11:29 PM,2:41,MISS Graham 23' Driving Floating Bank Jump Shot,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,447,4,0,3,11:30 PM,2:38,Nance Jr. REBOUND (Off:2 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,448,6,1,3,11:30 PM,2:33,,,McGee P.FOUL (P3.PN) (J.Tiven),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,450,9,1,3,11:30 PM,2:33,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,451,8,0,3,11:33 PM,2:33,,,SUB: Johnson FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,453,3,11,3,11:34 PM,2:33,Valanciunas Free Throw 1 of 2 (14 PTS),,,68 - 74,6,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,454,3,12,3,11:34 PM,2:33,Valanciunas Free Throw 2 of 2 (15 PTS),,,68 - 75,7,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,455,1,98,3,11:34 PM,2:18,,,McGee 5' Cutting Layup Shot (12 PTS) (Johnson 3 AST),70 - 75,5,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,457,1,108,3,11:34 PM,1:56,Ingram 4' Cutting Dunk Shot (28 PTS) (Valanciunas 3 AST),,,70 - 77,7,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,459,1,101,3,11:35 PM,1:37,,,Payne 8' Driving Floating Jump Shot (4 PTS),72 - 77,5,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,460,1,99,3,11:35 PM,1:22,Ingram 3' Cutting Finger Roll Layup Shot (30 PTS) (Valanciunas 4 AST),,,72 - 79,7,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,462,1,9,3,11:35 PM,1:11,,,Payne 3' Driving Dunk (6 PTS),74 - 79,5,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,463,1,79,3,11:35 PM,1:02,Graham 26' 3PT Pullup Jump Shot (6 PTS),,,74 - 82,8,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,464,2,80,3,11:36 PM,0:39,,,MISS Payne 25' 3PT Step Back Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,465,4,0,3,11:36 PM,0:37,Valanciunas REBOUND (Off:3 Def:8),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,466,2,63,3,11:36 PM,0:30,MISS Ingram 12' Fadeaway Jumper,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,467,4,0,3,11:36 PM,0:27,Murphy III REBOUND (Off:2 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,468,6,1,3,11:36 PM,0:21,,,Payne P.FOUL (P3.PN) (J.Tiven),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,470,3,11,3,11:37 PM,0:21,Graham Free Throw 1 of 2 (7 PTS),,,74 - 83,9,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,471,8,0,3,11:37 PM,0:21,SUB: Marshall FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,472,8,0,3,11:37 PM,0:21,,,SUB: Bridges FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,475,3,12,3,11:37 PM,0:21,Graham Free Throw 2 of 2 (8 PTS),,,74 - 84,10,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,476,5,1,3,11:38 PM,0:02,Nance Jr. STEAL (1 STL),,Payne Bad Pass Turnover (P2.T7),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,478,2,79,3,11:38 PM,0:00,MISS Ingram 19' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,479,4,0,3,11:38 PM,0:00,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,480,13,0,3,11:38 PM,0:00,,End of 3rd Period (11:38 PM EST),,74 - 84,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100144,491,12,0,4,11:42 PM,12:00,,Start of 4th Period (11:42 PM EST),,74 - 84,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,492,1,1,4,11:42 PM,11:45,,,Shamet 26' 3PT Jump Shot (5 PTS) (Paul 8 AST),77 - 84,7,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,494,2,86,4,11:42 PM,11:18,MISS Valanciunas 2' Turnaround Fadeaway Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,495,4,0,4,11:42 PM,11:16,,,Bridges REBOUND (Off:1 Def:4),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,496,2,79,4,11:42 PM,11:04,,,MISS Paul 27' 3PT Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,497,4,0,4,11:42 PM,11:01,,,Paul REBOUND (Off:1 Def:1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,498,1,1,4,11:43 PM,10:50,,,McGee 18' Jump Shot (14 PTS) (Bridges 4 AST),79 - 84,5,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,500,1,101,4,11:43 PM,10:32,McCollum 6' Driving Floating Jump Shot (15 PTS) (Marshall 1 AST),,,79 - 86,7,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,502,7,2,4,11:43 PM,10:32,,,McGee Violation:Defensive Goaltending (M.Davis),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100144,503,5,1,4,11:43 PM,10:21,Jones STEAL (1 STL),,Paul Bad Pass Turnover (P2.T8),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,505,6,28,4,11:44 PM,10:19,,,Bridges Personal Take Foul (P3.T1) (T.Washington),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,507,6,2,4,11:44 PM,10:02,,,McGee S.FOUL (P4.T2) (J.Tiven),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,509,3,11,4,11:45 PM,10:02,Valanciunas Free Throw 1 of 2 (16 PTS),,,79 - 87,8,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,510,8,0,4,11:45 PM,10:02,,,SUB: Ayton FOR McGee,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,512,3,12,4,11:45 PM,10:02,Valanciunas Free Throw 2 of 2 (17 PTS),,,79 - 88,9,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,513,1,78,4,11:46 PM,9:47,,,Ayton 8' Floating Jump Shot (19 PTS) (Paul 9 AST),81 - 88,7,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,515,2,1,4,11:46 PM,9:26,MISS Graham 28' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,516,4,0,4,11:46 PM,9:21,,,Johnson REBOUND (Off:0 Def:4),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,517,2,1,4,11:46 PM,9:11,Jones BLOCK (2 BLK),,MISS Bridges 24' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0042100144,519,4,0,4,11:46 PM,9:11,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,521,1,108,4,11:47 PM,9:02,,,Ayton 5' Cutting Dunk Shot (21 PTS) (Paul 10 AST),83 - 88,5,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,523,6,2,4,11:47 PM,8:41,,,Ayton S.FOUL (P3.T3) (T.Washington),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,525,3,11,4,11:47 PM,8:41,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,526,4,1,4,11:47 PM,8:41,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,527,8,0,4,11:47 PM,8:41,SUB: Nance Jr. FOR Graham,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,528,8,0,4,11:47 PM,8:41,SUB: Alvarado FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,531,3,12,4,11:48 PM,8:41,Valanciunas Free Throw 2 of 2 (18 PTS),,,83 - 89,6,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,533,5,10,4,11:48 PM,8:32,,,Suns Turnover: 8 Second Violation (T#9),,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100144,534,2,80,4,11:49 PM,8:21,MISS McCollum 17' Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,535,4,0,4,11:49 PM,8:18,,,Johnson REBOUND (Off:0 Def:5),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,536,1,80,4,11:49 PM,8:03,,,Shamet 15' Step Back Jump Shot (7 PTS) (Paul 11 AST),85 - 89,4,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,538,1,47,4,11:50 PM,7:37,Valanciunas 4' Turnaround Jump Shot (20 PTS),,,85 - 91,6,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,539,2,79,4,11:50 PM,7:18,,,MISS Paul 26' 3PT Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,540,4,0,4,11:50 PM,7:14,Alvarado REBOUND (Off:0 Def:2),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,541,1,1,4,11:50 PM,7:07,Valanciunas 27' 3PT Jump Shot (23 PTS) (Alvarado 1 AST),,,85 - 94,9,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,543,9,1,4,11:50 PM,7:06,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,544,8,0,4,11:53 PM,7:06,SUB: Ingram FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,545,8,0,4,11:53 PM,7:06,,,SUB: Crowder FOR Shamet,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,548,2,1,4,11:54 PM,6:53,,,MISS Johnson 26' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,549,4,0,4,11:54 PM,6:49,Nance Jr. REBOUND (Off:2 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,550,2,43,4,11:55 PM,6:31,MISS Valanciunas 4' Alley Oop Layup,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,551,4,0,4,11:55 PM,6:27,Valanciunas REBOUND (Off:4 Def:8),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,552,1,97,4,11:55 PM,6:27,Valanciunas Tip Layup Shot (25 PTS),,,85 - 96,11,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,553,6,1,4,11:55 PM,6:25,Alvarado P.FOUL (P2.T1) (J.Tiven),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,555,5,1,4,11:55 PM,6:24,Jones STEAL (2 STL),,Crowder Bad Pass Turnover (P2.T10),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,557,1,75,4,11:55 PM,6:23,Jones 3' Driving Finger Roll Layup (10 PTS),,,85 - 98,13,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,558,6,14,4,11:55 PM,6:23,,,Paul FLAGRANT.FOUL.TYPE1 (P3.T4) (T.Washington),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,560,18,1,4,11:56 PM,6:23,,Instant Replay4th Period (11:56 PM EST),,85 - 98,13,0,553,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100144,561,8,0,4,11:58 PM,6:23,,,SUB: Payne FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,563,3,18,4,11:58 PM,6:23,MISS Jones Free Throw Flagrant 1 of 2,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,564,4,1,4,11:58 PM,6:23,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,569,3,19,4,11:58 PM,6:23,Jones Free Throw Flagrant 2 of 2 (11 PTS),,,85 - 99,14,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,565,2,75,4,11:59 PM,6:11,MISS Ingram 3' Driving Finger Roll Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,566,4,0,4,11:59 PM,6:07,Valanciunas REBOUND (Off:5 Def:8),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,567,2,107,4,11:59 PM,6:07,MISS Valanciunas Tip Dunk Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,568,4,0,4,11:59 PM,6:06,,,Paul REBOUND (Off:1 Def:2),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,570,2,1,4,11:59 PM,6:01,,,MISS Payne 26' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,571,4,0,4,11:59 PM,5:58,Valanciunas REBOUND (Off:5 Def:9),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,572,6,2,4,11:59 PM,5:44,,,Paul S.FOUL (P4.PN) (M.Davis),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,574,3,11,4,12:00 AM,5:44,Alvarado Free Throw 1 of 2 (2 PTS),,,85 - 100,15,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,575,3,12,4,12:00 AM,5:44,Alvarado Free Throw 2 of 2 (3 PTS),,,85 - 101,16,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,576,2,1,4,12:00 AM,5:26,Jones BLOCK (3 BLK),,MISS Payne 27' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0042100144,578,4,0,4,12:00 AM,5:24,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,580,2,79,4,12:01 AM,5:21,,,MISS Payne 26' 3PT Pullup Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,581,4,0,4,12:01 AM,5:17,Ingram REBOUND (Off:1 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,583,5,1,4,12:01 AM,5:08,Alvarado Bad Pass Turnover (P2.T8),,Crowder STEAL (2 STL),,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,585,1,76,4,12:01 AM,5:04,,,Crowder 4' Running Finger Roll Layup (11 PTS),87 - 101,14,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,586,6,1,4,12:02 AM,4:44,,,Crowder P.FOUL (P5.PN) (T.Washington),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,588,6,11,4,12:02 AM,4:44,,Monty Williams Foul:T.FOUL (M.Davis),,,,7,101273,,,,,,0,0,,,,,,1,0,,,,,,1
+0042100144,589,18,6,4,12:02 AM,4:44,,Instant Replay4th Period (12:02 AM EST),,87 - 101,14,0,586,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100144,590,9,1,4,12:02 AM,4:44,,,Suns Timeout: Regular (Reg.5 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,623,6,11,4,12:02 AM,4:44,,,Paul T.FOUL (P4.PN) (M.Davis),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0042100144,591,8,0,4,12:05 AM,4:44,SUB: McCollum FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,625,3,16,4,12:06 AM,4:44,MISS Ingram Free Throw Technical,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,626,4,1,4,12:06 AM,4:44,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,593,3,16,4,12:06 AM,4:44,MISS Ingram Free Throw Technical,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,594,4,1,4,12:06 AM,4:44,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,596,3,11,4,12:07 AM,4:44,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,597,4,1,4,12:07 AM,4:44,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,598,3,12,4,12:07 AM,4:44,Valanciunas Free Throw 2 of 2 (26 PTS),,,87 - 102,15,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,601,2,1,4,12:07 AM,4:31,,,MISS Crowder 27' 3PT Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,602,4,0,4,12:07 AM,4:28,Valanciunas REBOUND (Off:5 Def:10),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,604,9,1,4,12:08 AM,4:22,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,607,8,0,4,12:09 AM,4:22,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,608,2,101,4,12:10 AM,4:08,MISS Ingram 9' Driving Floating Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,609,4,0,4,12:10 AM,4:06,Nance Jr. REBOUND (Off:3 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,610,1,72,4,12:10 AM,4:05,Nance Jr. Putback Layup (6 PTS),,,87 - 104,17,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,611,1,1,4,12:11 AM,3:44,,,Ayton 19' Jump Shot (23 PTS) (Bridges 5 AST),89 - 104,15,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,613,2,6,4,12:11 AM,3:29,MISS Jones 5' Driving Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,614,4,0,4,12:11 AM,3:29,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100144,616,2,1,4,12:11 AM,3:20,MISS Alvarado 27' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,617,4,0,4,12:12 AM,3:16,Nance Jr. REBOUND (Off:4 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,618,1,1,4,12:12 AM,3:14,McCollum 29' 3PT Jump Shot (18 PTS) (Nance Jr. 3 AST),,,89 - 107,18,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,620,6,2,4,12:12 AM,3:05,Nance Jr. S.FOUL (P2.T2) (T.Washington),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,622,3,11,4,12:12 AM,3:05,,,Payne Free Throw 1 of 2 (7 PTS),90 - 107,17,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,624,3,12,4,12:13 AM,3:05,,,Payne Free Throw 2 of 2 (8 PTS),91 - 107,16,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,627,2,102,4,12:13 AM,2:42,MISS Ingram 7' Driving Floating Bank Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,628,4,0,4,12:13 AM,2:40,,,Bridges REBOUND (Off:1 Def:5),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,629,5,2,4,12:13 AM,2:37,Alvarado STEAL (1 STL),,Paul Lost Ball Turnover (P3.T11),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,631,1,74,4,12:13 AM,2:31,Jones 3' Running Reverse Layup (13 PTS) (Ingram 5 AST),,,91 - 109,18,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,633,6,1,4,12:13 AM,2:24,Alvarado P.FOUL (P3.T3) (J.Tiven),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,635,8,0,4,12:14 AM,2:24,SUB: Murphy III FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,636,8,0,4,12:14 AM,2:24,SUB: Marshall FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,637,8,0,4,12:14 AM,2:24,,,SUB: Holiday FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,638,8,0,4,12:14 AM,2:24,,,SUB: Payton FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,639,8,0,4,12:14 AM,2:24,,,SUB: Biyombo FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,640,8,0,4,12:14 AM,2:24,,,SUB: Wainright FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,641,8,0,4,12:14 AM,2:24,,,SUB: Craig FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0042100144,649,1,1,4,12:14 AM,2:18,,,Holiday 27' 3PT Jump Shot (3 PTS) (Payton 1 AST),94 - 109,15,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,651,6,2,4,12:15 AM,1:55,,,Biyombo S.FOUL (P1.PN) (J.Tiven),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0042100144,653,3,11,4,12:15 AM,1:55,Marshall Free Throw 1 of 2 (3 PTS),,,94 - 110,16,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,654,8,0,4,12:15 AM,1:55,SUB: Hernangomez FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,655,8,0,4,12:15 AM,1:55,SUB: Temple FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0042100144,658,3,12,4,12:16 AM,1:55,Marshall Free Throw 2 of 2 (4 PTS),,,94 - 111,17,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,659,1,6,4,12:16 AM,1:48,,,Holiday 4' Driving Layup (5 PTS),96 - 111,15,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,660,6,2,4,12:16 AM,1:48,Hernangomez S.FOUL (P1.T4) (J.Tiven),,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0042100144,662,3,10,4,12:16 AM,1:48,,,MISS Holiday Free Throw 1 of 1,,,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,663,4,0,4,12:17 AM,1:46,,,Biyombo REBOUND (Off:1 Def:0),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,664,1,6,4,12:17 AM,1:45,,,Holiday 4' Driving Layup (7 PTS) (Biyombo 1 AST),98 - 111,13,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,666,6,11,4,12:17 AM,1:45,,,Holiday T.FOUL (P0.PN) (M.Davis),,,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0042100144,667,3,16,4,12:17 AM,1:45,Murphy III Free Throw Technical (2 PTS),,,98 - 112,14,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,668,2,108,4,12:17 AM,1:28,MISS Hernangomez 5' Cutting Dunk Shot,,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,669,4,0,4,12:17 AM,1:25,Hernangomez REBOUND (Off:1 Def:0),,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,670,2,72,4,12:18 AM,1:25,MISS Hernangomez Putback Layup,,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,671,4,0,4,12:18 AM,1:15,Hernangomez REBOUND (Off:2 Def:0),,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,672,1,72,4,12:18 AM,1:15,Hernangomez Putback Layup (2 PTS),,,98 - 114,16,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,673,5,1,4,12:18 AM,1:13,Alvarado STEAL (2 STL),,Biyombo Bad Pass Turnover (P1.T12),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,675,2,1,4,12:18 AM,1:09,MISS Hernangomez 26' 3PT Jump Shot,,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,676,4,0,4,12:18 AM,1:06,,,Biyombo REBOUND (Off:1 Def:1),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,677,5,1,4,12:18 AM,0:59,Marshall STEAL (1 STL),,Biyombo Bad Pass Turnover (P2.T13),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0042100144,679,1,50,4,12:18 AM,0:57,Marshall 2' Running Dunk (6 PTS),,,98 - 116,18,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,680,1,1,4,12:18 AM,0:51,,,Craig 3PT Jump Shot (6 PTS) (Holiday 1 AST),101 - 116,15,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,682,5,2,4,12:18 AM,0:42,Marshall Lost Ball Turnover (P1.T9),,Wainright STEAL (1 STL),,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,684,2,76,4,12:18 AM,0:38,,,MISS Wainright 3' Running Finger Roll Layup,,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,685,4,0,4,12:19 AM,0:35,,,Wainright REBOUND (Off:1 Def:0),,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,686,2,1,4,12:19 AM,0:33,,,MISS Wainright 3PT Jump Shot,,,5,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0042100144,687,4,0,4,12:19 AM,0:30,Temple REBOUND (Off:0 Def:1),,,,,4,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,689,1,75,4,12:19 AM,0:13,Alvarado 3' Driving Finger Roll Layup (5 PTS),,,101 - 118,17,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0042100144,690,1,75,4,12:19 AM,0:03,,,Payton 4' Driving Finger Roll Layup (2 PTS) (Holiday 2 AST),103 - 118,15,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,5,1628988,Aaron Holiday,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0042100144,692,13,0,4,12:21 AM,0:00,,End of 4th Period (12:21 AM EST),,103 - 118,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

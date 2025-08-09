@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200908,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,4,10,0,1,8:42 PM,12:00,Jump Ball Embiid vs. Williams III: Tip to Brown,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0022200908,7,2,86,1,8:42 PM,11:42,,,MISS Smart 8' Turnaround Fadeaway Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,8,4,0,1,8:42 PM,11:38,Embiid REBOUND (Off:0 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,9,6,2,1,8:42 PM,11:23,,,Brown S.FOUL (P1.T1) (M.Davis),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,11,3,11,1,8:43 PM,11:23,Embiid Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,12,3,12,1,8:43 PM,11:23,Embiid Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,13,2,63,1,8:43 PM,11:10,,,MISS Brown 9' Fadeaway Jumper,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,14,4,0,1,8:43 PM,11:07,Embiid REBOUND (Off:0 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,15,1,86,1,8:43 PM,11:00,Embiid 9' Turnaround Fadeaway (4 PTS),,,0 - 4,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,16,2,1,1,8:44 PM,10:41,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,17,4,0,1,8:44 PM,10:38,Melton REBOUND (Off:0 Def:1),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,18,1,2,1,8:44 PM,10:36,Harris 25' 3PT Running Jump Shot (3 PTS) (Melton 1 AST),,,0 - 7,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,20,5,1,1,8:44 PM,10:22,Harris STEAL (1 STL),,Brown Bad Pass Turnover (P1.T1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,22,2,2,1,8:44 PM,10:17,MISS Melton 27' 3PT Running Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,23,4,0,1,8:44 PM,10:12,,,Brown REBOUND (Off:0 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,24,1,103,1,8:44 PM,10:07,,,Brown 27' 3PT Running Pull-Up Jump Shot (3 PTS),3 - 7,4,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,25,1,79,1,8:44 PM,9:58,Harris 26' 3PT Pullup Jump Shot (6 PTS) (Harden 1 AST),,,3 - 10,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,27,2,6,1,8:45 PM,9:39,,,MISS Tatum 5' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,28,4,0,1,8:45 PM,9:36,Embiid REBOUND (Off:0 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,29,5,6,1,8:45 PM,9:35,Embiid Double Dribble Turnover (P1.T1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200908,30,1,79,1,8:45 PM,9:25,,,Brown 26' 3PT Pullup Jump Shot (6 PTS),6 - 10,4,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,31,1,1,1,8:45 PM,9:02,Tucker 24' 3PT Jump Shot (3 PTS) (Embiid 1 AST),,,6 - 13,7,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,33,6,2,1,8:46 PM,8:55,Harris S.FOUL (P1.T1) (K.Lane),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,35,3,11,1,8:46 PM,8:55,,,Brown Free Throw 1 of 2 (7 PTS),7 - 13,6,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,36,3,12,1,8:46 PM,8:55,,,Brown Free Throw 2 of 2 (8 PTS),8 - 13,5,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,37,5,2,1,8:47 PM,8:42,Harris Lost Ball Turnover (P1.T2),,Smart STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,39,1,76,1,8:47 PM,8:38,,,Smart 1' Running Finger Roll Layup (2 PTS),10 - 13,3,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,40,2,80,1,8:47 PM,8:26,MISS Embiid 10' Step Back Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,41,4,0,1,8:47 PM,8:23,,,Horford REBOUND (Off:0 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,42,2,86,1,8:47 PM,8:15,,,MISS Brown 8' Turnaround Fadeaway Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,43,4,0,1,8:47 PM,8:12,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,44,1,75,1,8:47 PM,8:05,Harden 1' Driving Finger Roll Layup (2 PTS),,,10 - 15,5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,45,1,1,1,8:48 PM,7:47,,,Smart 27' 3PT Jump Shot (5 PTS) (Tatum 1 AST),13 - 15,2,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,47,5,45,1,8:48 PM,7:23,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200908,48,2,1,1,8:48 PM,7:15,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,49,4,0,1,8:48 PM,7:12,Tucker REBOUND (Off:0 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,51,2,79,1,8:49 PM,7:00,MISS Harden 27' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,52,4,0,1,8:49 PM,6:57,Tucker REBOUND (Off:1 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,60,2,1,1,8:49 PM,6:46,MISS Embiid 17' Jump Shot,,Tatum BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1
+0022200908,62,4,0,1,8:49 PM,6:44,,,Smart REBOUND (Off:0 Def:1),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0022200908,55,5,1,1,8:49 PM,6:41,Harden STEAL (1 STL),,Smart Bad Pass Turnover (P1.T2),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,57,6,1,1,8:49 PM,6:40,,,Brown P.FOUL (P2.T2) (M.Kogut),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,59,9,1,1,8:49 PM,6:40,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,63,8,0,1,8:52 PM,6:40,,,SUB: White FOR Williams III,,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,65,2,1,1,8:53 PM,6:23,MISS Harris 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,66,4,0,1,8:53 PM,6:20,Tucker REBOUND (Off:2 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,67,1,79,1,8:53 PM,6:17,Harden 26' 3PT Pullup Jump Shot (5 PTS) (Tucker 1 AST),,,13 - 18,5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,69,2,1,1,8:53 PM,5:57,,,MISS Horford 26' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,70,4,0,1,8:53 PM,5:55,Tucker REBOUND (Off:2 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,71,5,1,1,8:54 PM,5:49,Harden Bad Pass Turnover (P2.T4),,Brown STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,73,1,50,1,8:54 PM,5:44,,,Tatum Running Dunk (2 PTS) (Brown 1 AST),15 - 18,3,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,75,1,108,1,8:54 PM,5:25,Harris 1' Cutting Dunk Shot (8 PTS) (Embiid 2 AST),,,15 - 20,5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,77,5,21,1,8:54 PM,5:11,,,Tatum Palming Turnover (P1.T3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200908,90,8,0,1,8:54 PM,5:11,,,SUB: Williams FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,82,2,5,1,8:55 PM,4:57,MISS Harris 2' Layup,,Williams BLOCK (1 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0022200908,84,4,0,1,8:55 PM,4:52,,,Williams REBOUND (Off:0 Def:1),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,85,2,79,1,8:55 PM,4:33,,,MISS Smart 14' Pullup Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,86,4,0,1,8:55 PM,4:29,Tucker REBOUND (Off:2 Def:3),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,87,1,86,1,8:55 PM,4:17,Embiid 18' Turnaround Fadeaway (6 PTS),,,15 - 22,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,92,1,6,1,8:56 PM,3:59,,,White 2' Driving Layup (2 PTS),17 - 22,5,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,93,1,6,1,8:56 PM,3:43,Embiid 1' Driving Layup (8 PTS),,,17 - 24,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,94,2,1,1,8:56 PM,3:29,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,95,4,0,1,8:56 PM,3:25,Tucker REBOUND (Off:2 Def:4),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,96,2,6,1,8:57 PM,3:17,MISS Harden 2' Driving Layup,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,97,4,0,1,8:57 PM,3:15,,,Tatum REBOUND (Off:0 Def:1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,98,2,50,1,8:57 PM,3:11,Embiid BLOCK (1 BLK),,MISS White 2' Running Dunk,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200908,100,4,0,1,8:57 PM,3:07,,,Tatum REBOUND (Off:1 Def:1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,101,1,87,1,8:57 PM,3:07,,,Tatum Putback Dunk (4 PTS),19 - 24,5,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,102,9,1,1,8:57 PM,3:07,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,103,8,0,1,8:57 PM,3:07,SUB: Maxey FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,104,8,0,1,8:57 PM,3:07,SUB: McDaniels FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,105,8,0,1,8:57 PM,3:07,SUB: Niang FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,106,8,0,1,8:57 PM,3:07,,,SUB: Brogdon FOR Smart,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,107,8,0,1,8:57 PM,3:07,,,SUB: Williams III FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,113,1,79,1,9:01 PM,2:44,Harris 11' Pullup Jump Shot (10 PTS) (Maxey 1 AST),,,19 - 26,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,115,2,75,1,9:01 PM,2:31,,,MISS Tatum 3' Driving Finger Roll Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,116,4,0,1,9:01 PM,2:29,Maxey REBOUND (Off:0 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,117,1,101,1,9:01 PM,2:23,McDaniels 5' Driving Floating Jump Shot (2 PTS) (Maxey 2 AST),,,19 - 28,9,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,119,1,43,1,9:01 PM,2:09,,,Williams III 2' Alley Oop Layup (2 PTS) (Tatum 2 AST),21 - 28,7,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,121,2,86,1,9:02 PM,1:47,MISS Embiid 9' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,122,4,0,1,9:02 PM,1:45,,,Tatum REBOUND (Off:1 Def:2),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,123,1,79,1,9:02 PM,1:29,,,White 14' Pullup Jump Shot (4 PTS) (Tatum 3 AST),23 - 28,5,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,125,1,6,1,9:02 PM,1:09,Harris Driving Layup (12 PTS),,,23 - 30,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,126,5,2,1,9:03 PM,0:50,Niang STEAL (1 STL),,Tatum Lost Ball Turnover (P2.T4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,128,6,2,1,9:03 PM,0:46,,,Brogdon S.FOUL (P1.T3) (M.Davis),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,130,3,11,1,9:03 PM,0:46,MISS Harris Free Throw 1 of 2,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,131,4,1,1,9:03 PM,0:46,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,132,3,12,1,9:03 PM,0:46,MISS Harris Free Throw 2 of 2,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,133,4,0,1,9:03 PM,0:43,,,Williams III REBOUND (Off:0 Def:1),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,134,1,79,1,9:04 PM,0:34,,,White 26' 3PT Pullup Jump Shot (7 PTS),26 - 30,4,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,135,2,75,1,9:04 PM,0:23,MISS Maxey 6' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,136,4,0,1,9:04 PM,0:21,,,Brogdon REBOUND (Off:0 Def:1),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,137,1,1,1,9:05 PM,0:00,,,Williams III 15' Jump Shot (4 PTS) (White 1 AST),28 - 30,2,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,139,13,0,1,9:05 PM,0:00,,End of 1st Period (9:05 PM EST),,28 - 30,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200908,146,12,0,2,9:08 PM,12:00,,Start of 2nd Period (9:08 PM EST),,28 - 30,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,147,2,101,2,9:09 PM,11:39,MISS McDaniels 10' Driving Floating Jump Shot,,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,148,4,0,2,9:09 PM,11:37,Reed REBOUND (Off:1 Def:0),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,149,5,15,2,9:09 PM,11:30,Reed Offensive Goaltending Turnover (P1.T5),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200908,150,1,79,2,9:09 PM,11:12,,,Brown 7' Pullup Jump Shot (10 PTS),30 - 30,TIE,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,151,2,1,2,9:10 PM,10:56,MISS Niang 26' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,152,4,0,2,9:10 PM,10:53,,,Williams REBOUND (Off:0 Def:2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,153,1,1,2,9:10 PM,10:43,,,Williams 27' 3PT Jump Shot (3 PTS) (Williams III 1 AST),33 - 30,-3,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,155,2,1,2,9:10 PM,10:24,MISS McDaniels 3PT Jump Shot,,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,156,4,0,2,9:10 PM,10:22,,,Brogdon REBOUND (Off:0 Def:2),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,157,6,2,2,9:10 PM,10:18,Niang S.FOUL (P1.T1) (M.Kogut),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,159,3,11,2,9:11 PM,10:18,,,Brown Free Throw 1 of 2 (11 PTS),34 - 30,-4,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,160,3,12,2,9:11 PM,10:18,,,MISS Brown Free Throw 2 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,161,4,0,2,9:11 PM,10:15,Harden REBOUND (Off:0 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,162,2,80,2,9:11 PM,10:05,MISS Harden 25' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,163,4,0,2,9:11 PM,10:02,,,Brogdon REBOUND (Off:0 Def:3),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,164,2,103,2,9:11 PM,9:58,,,MISS Brogdon 26' 3PT Running Pull-Up Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,165,4,0,2,9:11 PM,9:53,,,Williams III REBOUND (Off:1 Def:1),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,166,1,97,2,9:11 PM,9:53,,,Williams III Tip Layup Shot (6 PTS),36 - 30,-6,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,167,6,2,2,9:12 PM,9:33,,,Williams S.FOUL (P1.T1) (M.Kogut),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,169,3,11,2,9:12 PM,9:33,Harden Free Throw 1 of 2 (6 PTS),,,36 - 31,-5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,170,3,12,2,9:13 PM,9:33,Harden Free Throw 2 of 2 (7 PTS),,,36 - 32,-4,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,171,5,1,2,9:13 PM,9:18,Reed STEAL (1 STL),,Brown Bad Pass Turnover (P2.T5),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,173,2,6,2,9:13 PM,9:09,MISS Niang 3' Driving Layup,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,174,4,0,2,9:13 PM,9:06,,,Williams III REBOUND (Off:1 Def:2),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,175,2,2,2,9:13 PM,9:02,,,MISS Williams 3PT Running Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,176,4,0,2,9:13 PM,9:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,177,6,3,2,9:13 PM,9:00,,,Williams III L.B.FOUL (P1.T2) (M.Davis),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,179,8,0,2,9:13 PM,9:00,,,SUB: Hauser FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,181,5,39,2,9:14 PM,8:44,Reed Step Out of Bounds Turnover (P2.T6),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200908,182,1,79,2,9:14 PM,8:35,,,Brogdon 26' 3PT Pullup Jump Shot (3 PTS),39 - 32,-7,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,183,9,1,2,9:14 PM,8:28,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,186,8,0,2,9:17 PM,8:28,SUB: Tucker FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,188,1,75,2,9:18 PM,8:15,Maxey 2' Driving Finger Roll Layup (2 PTS),,,39 - 34,-5,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,288,5,2,2,9:18 PM,8:01,McDaniels STEAL (1 STL),,Brown Lost Ball Turnover (P3.T6),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,192,2,79,2,9:18 PM,7:52,MISS Maxey 25' 3PT Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,193,4,0,2,9:18 PM,7:49,Tucker REBOUND (Off:3 Def:4),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,194,2,5,2,9:18 PM,7:49,MISS Tucker 1' Layup,,White BLOCK (1 BLK),,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0022200908,196,4,0,2,9:18 PM,7:49,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,198,2,75,2,9:19 PM,7:34,,,MISS Brogdon 4' Driving Finger Roll Layup,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,199,4,0,2,9:19 PM,7:32,Niang REBOUND (Off:0 Def:1),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,200,1,76,2,9:19 PM,7:27,McDaniels 1' Running Finger Roll Layup (4 PTS) (Harden 2 AST),,,39 - 36,-3,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,202,2,6,2,9:19 PM,7:18,,,MISS Brown 6' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,203,4,0,2,9:19 PM,7:14,,,Brown REBOUND (Off:1 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,204,1,97,2,9:19 PM,7:14,,,Brown Tip Layup Shot (13 PTS),41 - 36,-5,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,205,6,2,2,9:19 PM,7:06,,,Hauser S.FOUL (P1.T3) (K.Lane),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,207,3,11,2,9:20 PM,7:06,Harden Free Throw 1 of 2 (8 PTS),,,41 - 37,-4,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,208,8,0,2,9:20 PM,7:06,SUB: Embiid FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,209,8,0,2,9:20 PM,7:06,,,SUB: Williams FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,210,8,0,2,9:20 PM,7:06,,,SUB: Smart FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,211,8,0,2,9:20 PM,7:06,,,SUB: Tatum FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,216,8,0,2,9:20 PM,7:06,,,SUB: Horford FOR Williams III,,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,218,3,12,2,9:20 PM,7:06,Harden Free Throw 2 of 2 (9 PTS),,,41 - 38,-3,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,219,2,1,2,9:21 PM,6:55,,,MISS Brown 12' Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,220,4,0,2,9:21 PM,6:52,McDaniels REBOUND (Off:0 Def:1),,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,221,2,1,2,9:21 PM,6:41,MISS Harden 27' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,222,4,0,2,9:21 PM,6:38,,,Horford REBOUND (Off:0 Def:2),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,223,1,101,2,9:21 PM,6:32,,,Smart 1' Driving Floating Jump Shot (7 PTS),43 - 38,-5,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,225,8,0,2,9:21 PM,6:13,SUB: Harris FOR McDaniels,,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,229,18,0,2,9:22 PM,6:13,,Instant Replay2nd Period (9:22 PM EST),,43 - 38,-5,0,227,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200908,230,6,6,2,9:23 PM,6:13,,,Tatum AWAY.FROM.PLAY.FOUL (P1.T4) (K.Lane),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0022200908,242,3,10,2,9:24 PM,6:13,Embiid Free Throw 1 of 1 (9 PTS),,,43 - 39,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,233,2,66,2,9:24 PM,6:06,MISS Embiid 7' Jump Bank Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,234,4,0,2,9:24 PM,6:04,,,Tatum REBOUND (Off:1 Def:3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,235,2,76,2,9:24 PM,6:00,Embiid BLOCK (2 BLK),,MISS Smart 6' Running Finger Roll Layup,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200908,237,4,0,2,9:24 PM,6:00,Maxey REBOUND (Off:0 Def:2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,238,1,6,2,9:24 PM,5:43,Embiid 1' Driving Layup (11 PTS) (Harden 3 AST),,,43 - 41,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,240,2,47,2,9:25 PM,5:22,,,MISS Brown 12' Turnaround Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,241,4,0,2,9:25 PM,5:22,Harden REBOUND (Off:0 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,243,1,79,2,9:25 PM,5:14,Tucker 24' 3PT Pullup Jump Shot (6 PTS) (Harris 1 AST),,,43 - 44,1,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,245,6,1,2,9:25 PM,4:57,Maxey P.FOUL (P1.T2) (M.Davis),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,247,8,0,2,9:25 PM,4:57,SUB: Melton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,249,2,78,2,9:26 PM,4:44,,,MISS Williams 3' Floating Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,250,4,0,2,9:26 PM,4:42,Tucker REBOUND (Off:3 Def:5),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,251,6,2,2,9:26 PM,4:35,,,Horford S.FOUL (P1.PN) (K.Lane),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,253,3,11,2,9:26 PM,4:35,Embiid Free Throw 1 of 2 (12 PTS),,,43 - 45,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,254,3,12,2,9:26 PM,4:35,MISS Embiid Free Throw 2 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,255,4,0,2,9:26 PM,4:32,,,Horford REBOUND (Off:0 Def:3),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,256,2,6,2,9:27 PM,4:21,,,MISS Brown 3' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,257,4,0,2,9:27 PM,4:19,Tucker REBOUND (Off:3 Def:6),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,258,6,1,2,9:27 PM,4:17,,,Smart P.FOUL (P1.PN) (M.Kogut),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,260,3,11,2,9:28 PM,4:17,Tucker Free Throw 1 of 2 (7 PTS),,,43 - 46,3,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,261,3,12,2,9:28 PM,4:17,MISS Tucker Free Throw 2 of 2,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,262,4,0,2,9:28 PM,4:14,,,Tatum REBOUND (Off:1 Def:4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,263,2,1,2,9:28 PM,4:05,,,MISS Williams 25' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,264,4,0,2,9:28 PM,4:04,Tucker REBOUND (Off:3 Def:7),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,265,2,44,2,9:29 PM,3:55,MISS Tucker 3' Reverse Layup,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,266,4,0,2,9:29 PM,3:54,Tucker REBOUND (Off:4 Def:7),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,267,6,2,2,9:29 PM,3:43,,,Williams S.FOUL (P2.PN) (M.Davis),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,269,3,11,2,9:29 PM,3:43,Embiid Free Throw 1 of 2 (13 PTS),,,43 - 47,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,270,3,12,2,9:30 PM,3:43,Embiid Free Throw 2 of 2 (14 PTS),,,43 - 48,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,271,1,101,2,9:30 PM,3:25,,,Brown 7' Driving Floating Jump Shot (15 PTS) (Smart 1 AST),45 - 48,3,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,273,6,2,2,9:30 PM,3:25,Harden S.FOUL (P1.T3) (M.Kogut),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,275,3,10,2,9:31 PM,3:25,,,Brown Free Throw 1 of 1 (16 PTS),46 - 48,2,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,276,6,1,2,9:31 PM,3:13,,,Smart P.FOUL (P2.PN) (K.Lane),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,278,3,11,2,9:31 PM,3:13,Embiid Free Throw 1 of 2 (15 PTS),,,46 - 49,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,279,3,12,2,9:32 PM,3:13,Embiid Free Throw 2 of 2 (16 PTS),,,46 - 50,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,280,2,79,2,9:32 PM,3:01,,,MISS Tatum 21' Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,281,4,0,2,9:32 PM,2:59,,,Williams REBOUND (Off:1 Def:2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,282,1,1,2,9:32 PM,2:56,,,Smart 25' 3PT Jump Shot (10 PTS) (Horford 1 AST),49 - 50,1,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,284,1,6,2,9:32 PM,2:34,Embiid 2' Driving Layup (18 PTS),,,49 - 52,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,285,6,1,2,9:33 PM,2:22,Melton P.FOUL (P1.T4) (M.Kogut),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,287,9,1,2,9:33 PM,2:22,,,Celtics Timeout: Regular (Reg.1 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,292,8,0,2,9:35 PM,2:22,,,SUB: Brogdon FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,290,2,1,2,9:36 PM,2:08,,,MISS Smart 26' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,291,4,0,2,9:36 PM,2:06,Embiid REBOUND (Off:0 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,294,1,63,2,9:37 PM,1:55,Embiid 16' Fadeaway Jumper (20 PTS),,,49 - 54,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,295,5,2,2,9:37 PM,1:38,Harden STEAL (2 STL),,Tatum Lost Ball Turnover (P3.T7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,297,1,75,2,9:37 PM,1:29,Harris 1' Driving Finger Roll Layup (14 PTS) (Embiid 3 AST),,,49 - 56,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,299,6,1,2,9:38 PM,1:02,Tucker P.FOUL (P1.PN) (M.Davis),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,301,3,11,2,9:38 PM,1:02,,,MISS Williams Free Throw 1 of 2,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0022200908,302,4,1,2,9:38 PM,1:02,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,303,3,12,2,9:38 PM,1:02,,,Williams Free Throw 2 of 2 (4 PTS),50 - 56,6,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,304,2,80,2,9:39 PM,0:41,MISS Harden 26' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,305,4,0,2,9:39 PM,0:38,,,Smart REBOUND (Off:0 Def:2),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,306,5,45,2,9:39 PM,0:29,,,Tatum Out of Bounds - Bad Pass Turnover Turnover (P4.T8),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200908,307,2,1,2,9:40 PM,0:02,MISS Embiid 28' 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,308,4,0,2,9:40 PM,0:00,,,Tatum REBOUND (Off:1 Def:5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,309,13,0,2,9:40 PM,0:00,,End of 2nd Period (9:40 PM EST),,50 - 56,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200908,314,12,0,3,9:56 PM,12:00,,Start of 3rd Period (9:56 PM EST),,50 - 56,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,315,1,86,3,9:57 PM,11:37,Harris 19' Turnaround Fadeaway (16 PTS),,,50 - 58,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,316,2,1,3,9:57 PM,11:17,,,MISS Smart 25' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,317,4,0,3,9:57 PM,11:14,Melton REBOUND (Off:0 Def:2),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,318,1,1,3,9:57 PM,11:04,Harris 26' 3PT Jump Shot (19 PTS) (Embiid 4 AST),,,50 - 61,11,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,320,1,98,3,9:58 PM,10:37,,,Williams III 1' Cutting Layup Shot (8 PTS) (Horford 2 AST),52 - 61,9,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,322,5,1,3,9:58 PM,10:19,Harden Bad Pass Turnover (P3.T7),,Brown STEAL (2 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,324,6,1,3,9:58 PM,10:15,Melton P.FOUL (P2.T1) (M.Kogut),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,326,2,1,3,9:59 PM,10:09,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,327,4,0,3,9:59 PM,10:06,Embiid REBOUND (Off:0 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,328,2,103,3,9:59 PM,10:02,MISS Melton 26' 3PT Running Pull-Up Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,329,4,0,3,9:59 PM,9:59,,,Tatum REBOUND (Off:1 Def:6),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,330,2,1,3,9:59 PM,9:55,,,MISS Smart 25' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,331,4,0,3,9:59 PM,9:51,Embiid REBOUND (Off:0 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,333,1,1,3,9:59 PM,9:34,Melton 26' 3PT Jump Shot (3 PTS) (Harden 4 AST),,,52 - 64,12,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,335,5,45,3,10:00 PM,9:10,,,Tatum Out of Bounds - Bad Pass Turnover Turnover (P5.T9),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200908,336,2,98,3,10:00 PM,8:55,MISS Harris 4' Cutting Layup Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,337,4,0,3,10:00 PM,8:53,,,Tatum REBOUND (Off:1 Def:7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,338,6,4,3,10:00 PM,8:42,,,Smart OFF.Foul (P3) (M.Davis),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,340,5,37,3,10:00 PM,8:42,,,Smart Offensive Foul Turnover (P2.T10),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200908,341,1,80,3,10:01 PM,8:21,Harden 26' 3PT Step Back Jump Shot (12 PTS),,,52 - 67,15,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,342,9,1,3,10:01 PM,8:20,,,Celtics Timeout: Regular (Reg.2 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,343,18,0,3,10:03 PM,8:20,,Instant Replay3rd Period (10:03 PM EST),,52 - 67,15,0,341,Joe Wolf,,,,,0,0,,,,,,1,0,,,,,,0
+0022200908,344,2,79,3,10:05 PM,8:06,,,MISS Tatum 26' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,345,4,0,3,10:05 PM,8:03,Tucker REBOUND (Off:4 Def:8),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,346,5,1,3,10:05 PM,7:54,Harden Bad Pass Turnover (P4.T8),,Horford STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,348,2,41,3,10:05 PM,7:51,,,MISS Horford 2' Running Layup,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,349,4,0,3,10:05 PM,7:50,,,Tatum REBOUND (Off:2 Def:7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,350,1,107,3,10:05 PM,7:49,,,Tatum Tip Dunk Shot (6 PTS),54 - 67,13,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,351,2,1,3,10:05 PM,7:27,MISS Tucker 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,352,4,0,3,10:05 PM,7:24,,,Brown REBOUND (Off:1 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,353,2,6,3,10:06 PM,7:14,,,MISS Tatum 2' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,354,4,0,3,10:06 PM,7:10,,,Williams III REBOUND (Off:2 Def:2),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,355,1,72,3,10:06 PM,7:10,,,Williams III Putback Layup (10 PTS),56 - 67,11,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,356,6,1,3,10:06 PM,6:51,,,Smart P.FOUL (P4.T1) (K.Lane),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,358,8,0,3,10:06 PM,6:51,,,SUB: White FOR Smart,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,360,2,1,3,10:07 PM,6:37,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,361,4,0,3,10:07 PM,6:35,,,Williams III REBOUND (Off:2 Def:3),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,363,6,2,3,10:07 PM,6:23,Melton S.FOUL (P3.T2) (M.Davis),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,365,3,11,3,10:08 PM,6:23,,,Tatum Free Throw 1 of 2 (7 PTS),57 - 67,10,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,366,3,12,3,10:08 PM,6:23,,,MISS Tatum Free Throw 2 of 2,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,367,4,0,3,10:08 PM,6:20,,,White REBOUND (Off:1 Def:0),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,368,1,72,3,10:08 PM,6:19,,,White Putback Layup (9 PTS),59 - 67,8,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,369,1,5,3,10:08 PM,6:05,Embiid 1' Layup (22 PTS),,,59 - 69,10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,370,6,2,3,10:08 PM,6:05,,,White S.FOUL (P1.T2) (M.Davis),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,372,3,10,3,10:09 PM,6:05,Embiid Free Throw 1 of 1 (23 PTS),,,59 - 70,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,373,1,75,3,10:09 PM,5:53,,,White 1' Driving Finger Roll Layup (11 PTS),61 - 70,9,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,374,6,2,3,10:09 PM,5:53,Embiid S.FOUL (P1.T3) (M.Kogut),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,376,3,10,3,10:10 PM,5:53,,,White Free Throw 1 of 1 (12 PTS),62 - 70,8,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,377,5,1,3,10:10 PM,5:42,Embiid Bad Pass Turnover (P2.T9),,Williams III STEAL (1 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,379,2,2,3,10:10 PM,5:38,,,MISS Tatum 27' 3PT Running Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,380,4,0,3,10:10 PM,5:33,Harden REBOUND (Off:0 Def:4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,381,1,1,3,10:10 PM,5:16,Melton 26' 3PT Jump Shot (6 PTS) (Embiid 5 AST),,,62 - 73,11,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,383,2,1,3,10:11 PM,4:48,,,MISS Brown 27' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,384,4,0,3,10:11 PM,4:46,Embiid REBOUND (Off:0 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,385,1,75,3,10:11 PM,4:31,Embiid 2' Driving Finger Roll Layup (25 PTS) (Melton 2 AST),,,62 - 75,13,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,387,2,1,3,10:11 PM,4:19,,,MISS Brown 25' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,388,4,0,3,10:11 PM,4:17,Embiid REBOUND (Off:0 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,389,2,79,3,10:11 PM,4:11,MISS Harden 27' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,390,4,0,3,10:11 PM,4:09,,,Williams III REBOUND (Off:2 Def:4),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,391,1,2,3,10:11 PM,4:04,,,Horford 25' 3PT Running Jump Shot (3 PTS) (Tatum 4 AST),65 - 75,10,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,393,2,1,3,10:12 PM,3:39,MISS Tucker 26' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,394,4,0,3,10:12 PM,3:36,,,Horford REBOUND (Off:0 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,395,1,103,3,10:12 PM,3:31,,,Horford 25' 3PT Running Pull-Up Jump Shot (6 PTS),68 - 75,7,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,396,9,1,3,10:12 PM,3:30,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,397,8,0,3,10:15 PM,3:30,SUB: Maxey FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,398,8,0,3,10:15 PM,3:30,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,399,8,0,3,10:15 PM,3:30,,,SUB: Williams FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,400,8,0,3,10:15 PM,3:30,,,SUB: Brogdon FOR Williams III,,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,405,2,86,3,10:16 PM,3:11,MISS Embiid 8' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,406,4,0,3,10:16 PM,3:11,,,Tatum REBOUND (Off:2 Def:8),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,407,1,1,3,10:16 PM,3:00,,,Horford 24' 3PT Jump Shot (9 PTS) (Brogdon 1 AST),71 - 75,4,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,409,6,2,3,10:16 PM,2:39,,,Horford S.FOUL (P2.T3) (M.Davis),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,411,3,11,3,10:17 PM,2:39,MISS Melton Free Throw 1 of 2,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,412,4,1,3,10:17 PM,2:39,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,413,8,0,3,10:17 PM,2:39,SUB: McDaniels FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,415,3,12,3,10:17 PM,2:39,Melton Free Throw 2 of 2 (7 PTS),,,71 - 76,5,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,416,1,75,3,10:18 PM,2:23,,,Brogdon 1' Driving Finger Roll Layup (5 PTS),73 - 76,3,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,417,2,1,3,10:18 PM,2:02,MISS Niang 27' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,418,4,0,3,10:18 PM,2:02,,,Brogdon REBOUND (Off:0 Def:4),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,421,6,2,3,10:18 PM,1:48,Melton S.FOUL (P4.T4) (K.Lane),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0022200908,423,3,11,3,10:19 PM,1:48,,,MISS White Free Throw 1 of 2,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,424,4,1,3,10:19 PM,1:48,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,425,8,0,3,10:19 PM,1:48,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,427,3,12,3,10:19 PM,1:48,,,White Free Throw 2 of 2 (13 PTS),74 - 76,2,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,428,1,79,3,10:19 PM,1:33,Embiid 10' Pullup Jump Shot (27 PTS),,,74 - 78,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,429,1,1,3,10:20 PM,1:19,,,Horford 27' 3PT Jump Shot (12 PTS) (Tatum 5 AST),77 - 78,1,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,431,6,2,3,10:20 PM,0:54,,,Horford S.FOUL (P3.T4) (K.Lane),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,433,3,11,3,10:21 PM,0:54,MISS McDaniels Free Throw 1 of 2,,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,434,4,1,3,10:21 PM,0:54,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,437,3,12,3,10:21 PM,0:54,MISS McDaniels Free Throw 2 of 2,,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,435,8,0,3,10:21 PM,0:54,,,SUB: Williams III FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,438,4,0,3,10:21 PM,0:53,,,Tatum REBOUND (Off:2 Def:9),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,439,1,80,3,10:21 PM,0:38,,,Tatum 27' 3PT Step Back Jump Shot (10 PTS),80 - 78,-2,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,440,2,75,3,10:21 PM,0:29,MISS Maxey 3' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,441,4,0,3,10:21 PM,0:27,,,Brogdon REBOUND (Off:0 Def:5),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,442,2,1,3,10:22 PM,0:04,,,MISS White 29' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,443,4,0,3,10:22 PM,0:01,,,Williams III REBOUND (Off:3 Def:4),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,444,5,1,3,10:22 PM,0:00,Maxey STEAL (1 STL),,Williams III Bad Pass Turnover (P1.T11),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,446,13,0,3,10:22 PM,0:00,,End of 3rd Period (10:22 PM EST),,80 - 78,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200908,453,12,0,4,10:25 PM,12:00,,Start of 4th Period (10:25 PM EST),,80 - 78,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,454,1,52,4,10:26 PM,11:46,,,Williams III Alley Oop Dunk (12 PTS) (Williams 1 AST),82 - 78,-4,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,456,2,7,4,10:26 PM,11:22,MISS Reed 6' Dunk,,Brogdon BLOCK (1 BLK),,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1
+0022200908,458,4,0,4,10:26 PM,11:18,,,Brogdon REBOUND (Off:0 Def:6),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,459,1,2,4,10:26 PM,11:16,,,White 24' 3PT Running Jump Shot (16 PTS) (Brown 2 AST),85 - 78,-7,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,461,2,80,4,10:27 PM,10:52,MISS Harden 18' Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,462,4,0,4,10:27 PM,10:50,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200908,464,8,0,4,10:27 PM,10:50,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,466,8,0,4,10:27 PM,10:50,SUB: Tucker FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,468,2,80,4,10:27 PM,10:44,MISS Harden 18' Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,469,4,0,4,10:27 PM,10:41,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200908,471,2,1,4,10:28 PM,10:36,MISS Maxey 28' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,472,4,0,4,10:28 PM,10:32,,,Brogdon REBOUND (Off:0 Def:7),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,473,2,75,4,10:28 PM,10:23,,,MISS Brogdon 3' Driving Finger Roll Layup,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,474,4,0,4,10:28 PM,10:22,McDaniels REBOUND (Off:0 Def:2),,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,475,2,101,4,10:28 PM,10:17,MISS Harden 9' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,476,4,0,4,10:28 PM,10:13,Harden REBOUND (Off:1 Def:4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,477,1,97,4,10:28 PM,10:13,Harden Tip Layup Shot (14 PTS),,,85 - 80,-5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,478,2,6,4,10:28 PM,10:08,,,MISS Brown 2' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,479,4,0,4,10:28 PM,10:06,Tucker REBOUND (Off:4 Def:9),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,480,6,2,4,10:28 PM,9:59,,,Brogdon S.FOUL (P2.T1) (K.Lane),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,482,3,13,4,10:29 PM,9:59,Harden Free Throw 1 of 3 (15 PTS),,,85 - 81,-4,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,483,3,14,4,10:29 PM,9:59,Harden Free Throw 2 of 3 (16 PTS),,,85 - 82,-3,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200908,484,3,15,4,10:30 PM,9:59,Harden Free Throw 3 of 3 (17 PTS),,,85 - 83,-2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,485,1,6,4,10:30 PM,9:44,,,White Driving Layup (18 PTS),87 - 83,-4,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,486,2,79,4,10:30 PM,9:19,MISS Harden 11' Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,487,4,0,4,10:31 PM,9:15,Tucker REBOUND (Off:5 Def:9),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,488,2,97,4,10:31 PM,9:15,MISS Tucker Tip Layup Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,489,4,0,4,10:31 PM,9:14,,,Williams REBOUND (Off:1 Def:3),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,490,1,101,4,10:31 PM,9:06,,,Brown 7' Driving Floating Jump Shot (18 PTS),89 - 83,-6,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,491,2,102,4,10:31 PM,8:46,MISS Maxey 8' Driving Floating Bank Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,492,4,0,4,10:31 PM,8:45,,,Williams REBOUND (Off:1 Def:4),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,493,1,50,4,10:31 PM,8:43,,,Brown 1' Running Dunk (20 PTS) (Williams 2 AST),91 - 83,-8,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,495,9,1,4,10:31 PM,8:43,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,496,8,0,4,10:34 PM,8:43,SUB: Embiid FOR McDaniels,,,,,4,1629667,Jalen McDaniels,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,498,2,79,4,10:35 PM,8:28,MISS Embiid 21' Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,499,4,0,4,10:35 PM,8:26,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,501,1,101,4,10:35 PM,8:14,Maxey 5' Driving Floating Jump Shot (4 PTS) (Harden 5 AST),,,91 - 85,-6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,503,2,79,4,10:36 PM,7:51,,,MISS Brown 20' Pullup Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,504,4,0,4,10:36 PM,7:49,Embiid REBOUND (Off:0 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,505,2,101,4,10:36 PM,7:39,MISS Maxey 5' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,506,4,0,4,10:36 PM,7:37,Embiid REBOUND (Off:1 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,507,2,1,4,10:36 PM,7:36,MISS Harden 27' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,508,4,0,4,10:36 PM,7:33,,,Brown REBOUND (Off:1 Def:3),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,509,1,50,4,10:36 PM,7:30,,,Williams III 1' Running Dunk (14 PTS) (Brown 3 AST),93 - 85,-8,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,511,5,2,4,10:36 PM,7:15,Embiid Lost Ball Turnover (P3.T10),,Brown STEAL (3 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,513,1,76,4,10:36 PM,7:11,,,Brown 1' Running Finger Roll Layup (22 PTS),95 - 85,-10,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,514,9,1,4,10:36 PM,7:11,76ERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,515,1,1,4,10:40 PM,6:52,Embiid 20' Jump Shot (29 PTS),,,95 - 87,-8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,516,1,6,4,10:40 PM,6:31,,,Brown 1' Driving Layup (24 PTS) (White 2 AST),97 - 87,-10,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,518,2,63,4,10:41 PM,6:11,MISS Embiid 21' Fadeaway Jumper,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,519,4,0,4,10:41 PM,6:08,,,Williams III REBOUND (Off:3 Def:5),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,520,2,98,4,10:41 PM,5:53,,,MISS Brogdon Cutting Layup Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,521,4,0,4,10:41 PM,5:50,Embiid REBOUND (Off:1 Def:10),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,522,1,76,4,10:41 PM,5:44,Maxey 2' Running Finger Roll Layup (6 PTS),,,97 - 89,-8,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,523,5,1,4,10:42 PM,5:24,Harden STEAL (3 STL),,Brown Bad Pass Turnover (P4.T12),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,525,6,2,4,10:42 PM,5:20,,,Williams III S.FOUL (P2.T2) (M.Kogut),,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,527,3,11,4,10:42 PM,5:20,Embiid Free Throw 1 of 2 (30 PTS),,,97 - 90,-7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,528,8,0,4,10:42 PM,5:20,,,SUB: Horford FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,529,8,0,4,10:42 PM,5:20,,,SUB: Smart FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,530,8,0,4,10:42 PM,5:20,,,SUB: Tatum FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,534,3,12,4,10:43 PM,5:20,Embiid Free Throw 2 of 2 (31 PTS),,,97 - 91,-6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,535,2,1,4,10:43 PM,5:07,,,MISS Tatum 24' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,536,4,0,4,10:43 PM,5:03,Tucker REBOUND (Off:5 Def:10),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,537,1,1,4,10:43 PM,4:54,Embiid 18' Jump Shot (33 PTS) (Harden 6 AST),,,97 - 93,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,539,6,1,4,10:44 PM,4:29,Maxey P.FOUL (P2.T1) (K.Lane),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,541,6,1,4,10:44 PM,4:25,Harris P.FOUL (P2.T2) (K.Lane),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,543,2,1,4,10:44 PM,4:19,,,MISS Smart 26' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,544,4,0,4,10:44 PM,4:16,Tucker REBOUND (Off:5 Def:11),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,545,1,41,4,10:45 PM,4:09,Harden 2' Running Layup (19 PTS),,,97 - 95,-2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,546,9,1,4,10:45 PM,4:09,,,Celtics Timeout: Regular (Reg.3 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,547,1,80,4,10:47 PM,3:52,,,Brown 20' Step Back Jump Shot (26 PTS),99 - 95,-4,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,550,8,0,4,10:47 PM,3:35,,,SUB: Williams FOR Williams III,,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,552,6,2,4,10:48 PM,3:28,,,Williams S.FOUL (P3.T3) (M.Kogut),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,554,3,11,4,10:48 PM,3:28,Embiid Free Throw 1 of 2 (34 PTS),,,99 - 96,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,555,3,12,4,10:48 PM,3:28,Embiid Free Throw 2 of 2 (35 PTS),,,99 - 97,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,556,1,1,4,10:49 PM,3:16,,,Tatum 25' 3PT Jump Shot (13 PTS) (Smart 2 AST),102 - 97,-5,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,558,6,2,4,10:49 PM,2:54,,,Horford S.FOUL (P4.T4) (M.Davis),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,560,3,11,4,10:49 PM,2:54,Embiid Free Throw 1 of 2 (36 PTS),,,102 - 98,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,561,3,12,4,10:50 PM,2:54,Embiid Free Throw 2 of 2 (37 PTS),,,102 - 99,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,562,2,1,4,10:50 PM,2:32,,,MISS Williams 26' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,563,4,0,4,10:50 PM,2:27,Harden REBOUND (Off:1 Def:5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,564,1,63,4,10:50 PM,2:20,Embiid 14' Fadeaway Jumper (39 PTS) (Harden 7 AST),,,102 - 101,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,566,2,98,4,10:51 PM,2:02,Embiid BLOCK (3 BLK),,MISS Brown 3' Cutting Layup Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200908,568,4,0,4,10:51 PM,1:59,Embiid REBOUND (Off:1 Def:11),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,569,1,76,4,10:51 PM,1:58,Maxey 2' Running Finger Roll Layup (8 PTS) (Harden 8 AST),,,102 - 103,1,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200908,571,1,1,4,10:51 PM,1:38,,,Horford 25' 3PT Jump Shot (15 PTS) (Tatum 6 AST),105 - 103,-2,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,573,2,86,4,10:51 PM,1:23,MISS Embiid 14' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,574,4,0,4,10:51 PM,1:21,,,Tatum REBOUND (Off:2 Def:10),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,575,2,1,4,10:52 PM,1:02,,,MISS Williams 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,576,4,0,4,10:52 PM,1:00,,,Tatum REBOUND (Off:3 Def:10),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,577,1,97,4,10:52 PM,1:00,,,Tatum Tip Layup Shot (15 PTS),107 - 103,-4,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,578,6,2,4,10:52 PM,0:46,,,Williams S.FOUL (P4.PN) (M.Kogut),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200908,580,3,11,4,10:53 PM,0:46,Harden Free Throw 1 of 2 (20 PTS),,,107 - 104,-3,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,581,8,0,4,10:53 PM,0:46,SUB: Melton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,583,3,12,4,10:53 PM,0:46,Harden Free Throw 2 of 2 (21 PTS),,,107 - 105,-2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,584,2,79,4,10:54 PM,0:23,,,MISS Tatum 24' Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200908,589,18,0,4,10:55 PM,0:22,,Instant Replay4th Period (10:55 PM EST),,107 - 105,-2,0,587,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200908,591,8,0,4,10:56 PM,0:22,SUB: Maxey FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,585,4,0,4,10:54 PM,0:22,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,587,5,11,4,10:54 PM,0:22,,,Celtics Turnover: Shot Clock (T#13),,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200908,590,9,1,4,10:54 PM,0:22,76ERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,593,6,2,4,10:57 PM,0:10,,,Brown S.FOUL (P3.PN) (M.Davis),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0022200908,595,3,11,4,10:57 PM,0:10,Embiid Free Throw 1 of 2 (40 PTS),,,107 - 106,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,600,3,12,4,10:57 PM,0:10,Embiid Free Throw 2 of 2 (41 PTS),,,107 - 107,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200908,596,8,0,4,10:58 PM,0:10,SUB: Melton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200908,598,8,0,4,10:58 PM,0:10,,,SUB: Williams III FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,601,9,1,4,10:58 PM,0:10,,,Celtics Timeout: Regular (Reg.4 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,602,8,0,4,10:59 PM,0:10,,,SUB: White FOR Williams III,,,5,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200908,604,6,28,4,11:00 PM,0:05,Harris Personal Take Foul (P3.T3) (K.Lane),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200908,606,9,1,4,11:00 PM,0:05,,,Celtics Timeout: Regular (Reg.5 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200908,607,1,79,4,11:02 PM,0:02,,,Tatum 26' 3PT Pullup Jump Shot (18 PTS) (Smart 3 AST),110 - 107,-3,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200908,609,13,0,4,11:02 PM,0:00,,End of 4th Period (11:02 PM EST),,110 - 107,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

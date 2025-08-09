@@ -1,0 +1,453 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022201111,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,4,10,0,1,10:11 PM,12:00,Jump Ball Sabonis vs. Kessler: Tip to Olynyk,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1
+0022201111,7,1,43,1,10:11 PM,11:44,,,Kessler 2' Alley Oop Layup (2 PTS) (Olynyk 1 AST),2 - 0,-2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,9,1,6,1,10:11 PM,11:27,Sabonis 4' Driving Layup (2 PTS),,,2 - 2,TIE,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,10,1,44,1,10:12 PM,11:06,,,Kessler 3' Reverse Layup (4 PTS) (Agbaji 1 AST),4 - 2,-2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,12,2,79,1,10:12 PM,10:51,MISS Mitchell 26' 3PT Pullup Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,13,4,0,1,10:12 PM,10:48,,,Olynyk REBOUND (Off:0 Def:1),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,14,2,79,1,10:12 PM,10:42,,,MISS Fontecchio 19' Pullup Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,15,4,0,1,10:12 PM,10:37,Huerter REBOUND (Off:0 Def:1),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,16,2,1,1,10:12 PM,10:31,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,17,4,0,1,10:12 PM,10:27,,,Kessler REBOUND (Off:0 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,18,6,26,1,10:13 PM,10:13,,,Fontecchio Offensive Charge Foul (P1) (B.Schwab),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,20,5,37,1,10:13 PM,10:13,,,Fontecchio Offensive Foul Turnover (P1.T1),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022201111,21,2,1,1,10:13 PM,9:53,MISS Barnes 26' 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,22,4,0,1,10:13 PM,9:50,Sabonis REBOUND (Off:1 Def:0),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,23,1,1,1,10:13 PM,9:44,Sabonis 15' Jump Shot (4 PTS) (Huerter 1 AST),,,4 - 4,TIE,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,25,1,6,1,10:14 PM,9:28,,,Olynyk 2' Driving Layup (2 PTS),6 - 4,-2,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,26,1,47,1,10:14 PM,9:12,Huerter 13' Turnaround Jump Shot (2 PTS),,,6 - 6,TIE,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,27,2,63,1,10:14 PM,9:00,,,MISS Horton-Tucker 15' Fadeaway Jumper,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,28,4,0,1,10:14 PM,8:57,Sabonis REBOUND (Off:1 Def:1),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,29,1,1,1,10:14 PM,8:51,Murray 3PT Jump Shot (3 PTS) (Barnes 1 AST),,,6 - 9,3,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,31,1,6,1,10:14 PM,8:34,,,Horton-Tucker 2' Driving Layup (2 PTS),8 - 9,1,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,32,6,2,1,10:15 PM,8:28,,,Olynyk S.FOUL (P1.T1) (P.Fraher),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,34,3,11,1,10:15 PM,8:28,MISS Murray Free Throw 1 of 2,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022201111,35,4,1,1,10:15 PM,8:28,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,36,3,12,1,10:15 PM,8:28,MISS Murray Free Throw 2 of 2,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,37,4,0,1,10:15 PM,8:25,,,Olynyk REBOUND (Off:0 Def:2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,38,2,1,1,10:16 PM,8:09,,,MISS Fontecchio 25' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,39,4,0,1,10:16 PM,8:06,Sabonis REBOUND (Off:1 Def:2),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,40,1,41,1,10:16 PM,8:01,Sabonis 3' Running Layup (6 PTS),,,8 - 11,3,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,41,2,1,1,10:16 PM,7:51,,,MISS Agbaji 25' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,42,4,0,1,10:16 PM,7:48,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,43,1,101,1,10:16 PM,7:31,Mitchell 8' Driving Floating Jump Shot (2 PTS) (Sabonis 1 AST),,,8 - 13,5,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,45,2,79,1,10:16 PM,7:17,,,MISS Horton-Tucker 6' Pullup Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,46,4,0,1,10:16 PM,7:15,Murray REBOUND (Off:0 Def:1),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,47,6,2,1,10:17 PM,7:08,,,Kessler S.FOUL (P1.T2) (J.Goble),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,49,3,11,1,10:17 PM,7:08,MISS Sabonis Free Throw 1 of 2,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,50,4,1,1,10:17 PM,7:08,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,51,8,0,1,10:17 PM,7:08,,,SUB: Azubuike FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,52,8,0,1,10:17 PM,7:08,,,SUB: Dunn FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,55,3,12,1,10:18 PM,7:08,Sabonis Free Throw 2 of 2 (7 PTS),,,8 - 14,6,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,56,2,3,1,10:18 PM,6:48,,,MISS Azubuike 6' Hook Shot,,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,57,4,0,1,10:18 PM,6:46,,,Azubuike REBOUND (Off:1 Def:0),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,58,1,79,1,10:18 PM,6:41,,,Fontecchio 15' Pullup Jump Shot (2 PTS) (Azubuike 1 AST),10 - 14,4,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,60,1,98,1,10:18 PM,6:29,Murray 3' Cutting Layup Shot (5 PTS) (Sabonis 2 AST),,,10 - 16,6,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,62,5,4,1,10:18 PM,6:19,,,Olynyk Traveling Turnover (P1.T2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022201111,63,9,1,1,10:19 PM,6:19,KINGS Timeout: Regular (Full 1 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,64,8,0,1,10:20 PM,6:19,SUB: Dellavedova FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,65,8,0,1,10:20 PM,6:19,SUB: Edwards FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,66,8,0,1,10:20 PM,6:19,,,SUB: Juzang FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,67,8,0,1,10:20 PM,6:19,,,SUB: Toscano-Anderson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,72,5,45,1,10:22 PM,6:10,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022201111,73,6,2,1,10:22 PM,5:51,Edwards S.FOUL (P1.T1) (J.Goble),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,75,3,11,1,10:23 PM,5:51,,,Agbaji Free Throw 1 of 2 (1 PTS),11 - 16,5,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,76,3,12,1,10:23 PM,5:51,,,MISS Agbaji Free Throw 2 of 2,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,77,4,0,1,10:23 PM,5:49,Sabonis REBOUND (Off:1 Def:3),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,78,2,1,1,10:23 PM,5:43,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,79,4,0,1,10:23 PM,5:39,,,Azubuike REBOUND (Off:1 Def:1),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,80,2,1,1,10:23 PM,5:28,,,MISS Agbaji 26' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,81,4,0,1,10:23 PM,5:25,Sabonis REBOUND (Off:1 Def:4),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,82,5,4,1,10:23 PM,5:21,Edwards Traveling Turnover (P1.T2),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022201111,83,5,4,1,10:24 PM,5:07,,,Azubuike Traveling Turnover (P1.T3),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022201111,84,1,1,1,10:24 PM,4:51,Murray 3PT Jump Shot (8 PTS) (Edwards 1 AST),,,11 - 19,8,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,86,2,79,1,10:25 PM,4:33,,,MISS Juzang 15' Pullup Jump Shot,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,87,4,0,1,10:25 PM,4:29,,,Juzang REBOUND (Off:1 Def:0),,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,88,1,5,1,10:25 PM,4:28,,,Juzang 3' Layup (2 PTS),13 - 19,6,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,89,2,1,1,10:25 PM,4:09,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,90,4,0,1,10:25 PM,4:04,,,Juzang REBOUND (Off:1 Def:1),,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,91,2,6,1,10:25 PM,3:58,,,MISS Dunn 4' Driving Layup,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,92,4,0,1,10:25 PM,3:54,Huerter REBOUND (Off:0 Def:2),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,93,2,2,1,10:25 PM,3:51,MISS Murray 26' 3PT Running Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,94,4,0,1,10:25 PM,3:47,,,Toscano-Anderson REBOUND (Off:0 Def:1),,,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,95,1,79,1,10:26 PM,3:33,,,Dunn 11' Pullup Jump Shot (2 PTS),15 - 19,4,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,96,1,1,1,10:26 PM,3:25,Murray 24' 3PT Jump Shot (11 PTS) (Huerter 2 AST),,,15 - 22,7,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,98,2,1,1,10:26 PM,3:07,,,MISS Dunn 25' 3PT Jump Shot,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,99,4,0,1,10:26 PM,3:04,Huerter REBOUND (Off:0 Def:3),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,100,2,1,1,10:26 PM,2:59,MISS Huerter 27' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,101,4,0,1,10:26 PM,2:56,,,Azubuike REBOUND (Off:1 Def:2),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,102,1,1,1,10:26 PM,2:50,,,Agbaji 26' 3PT Jump Shot (4 PTS) (Dunn 1 AST),18 - 22,4,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,104,1,1,1,10:27 PM,2:38,Murray 3PT Jump Shot (14 PTS) (Edwards 2 AST),,,18 - 25,7,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,106,9,1,1,10:27 PM,2:36,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,107,8,0,1,10:29 PM,2:36,SUB: Monk FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,108,8,0,1,10:29 PM,2:36,SUB: Mitchell FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,109,8,0,1,10:29 PM,2:36,SUB: Lyles FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,110,8,0,1,10:29 PM,2:36,SUB: Metu FOR Edwards,,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,111,8,0,1,10:29 PM,2:36,,,SUB: Kessler FOR Azubuike,,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,112,8,0,1,10:29 PM,2:36,,,SUB: Brantley FOR Juzang,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,121,6,2,1,10:30 PM,2:23,Lyles S.FOUL (P1.T2) (B.Schwab),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,123,3,11,1,10:30 PM,2:23,,,MISS Kessler Free Throw 1 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,133,4,1,1,10:30 PM,2:23,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,134,3,12,1,10:30 PM,2:23,,,Kessler Free Throw 2 of 2 (5 PTS),19 - 25,6,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,125,1,57,1,10:31 PM,2:05,Monk 8' Driving Hook Shot (2 PTS) (Murray 1 AST),,,19 - 27,8,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,127,2,5,1,10:31 PM,1:55,,,MISS Kessler 6' Layup,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,128,4,0,1,10:31 PM,1:55,Metu REBOUND (Off:0 Def:1),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,129,2,1,1,10:31 PM,1:49,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,130,4,0,1,10:31 PM,1:45,Metu REBOUND (Off:1 Def:1),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,131,2,58,1,10:31 PM,1:45,MISS Metu 5' Turnaround Hook Shot,,Brantley BLOCK (1 BLK),,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,1
+0022201111,135,4,0,1,10:31 PM,1:38,,,Toscano-Anderson REBOUND (Off:0 Def:2),,,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,136,2,47,1,10:31 PM,1:34,,,MISS Dunn 5' Turnaround Jump Shot,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,137,4,0,1,10:31 PM,1:32,Metu REBOUND (Off:1 Def:2),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,138,1,1,1,10:32 PM,1:24,Lyles 3PT Jump Shot (3 PTS) (Mitchell 1 AST),,,19 - 30,11,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,140,1,98,1,10:32 PM,1:09,,,Toscano-Anderson 2' Cutting Layup Shot (2 PTS) (Dunn 2 AST),21 - 30,9,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,142,2,1,1,10:32 PM,0:58,MISS Metu 25' 3PT Jump Shot,,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,143,4,0,1,10:32 PM,0:56,,,Dunn REBOUND (Off:0 Def:1),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,144,2,6,1,10:32 PM,0:52,,,MISS Dunn 2' Driving Layup,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,145,4,0,1,10:32 PM,0:50,Metu REBOUND (Off:1 Def:3),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,146,2,1,1,10:32 PM,0:44,MISS Monk 27' 3PT Jump Shot,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,147,4,0,1,10:32 PM,0:40,,,Dunn REBOUND (Off:0 Def:2),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,148,1,43,1,10:32 PM,0:36,,,Kessler 2' Alley Oop Layup (7 PTS) (Toscano-Anderson 1 AST),23 - 30,7,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,151,2,1,1,10:33 PM,0:32,MISS Mitchell 25' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,152,4,0,1,10:33 PM,0:32,,,Kessler REBOUND (Off:0 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,153,1,1,1,10:33 PM,0:19,,,Brantley 25' 3PT Jump Shot (3 PTS) (Kessler 1 AST),26 - 30,4,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,155,1,6,1,10:33 PM,0:04,Mitchell 2' Driving Layup (4 PTS),,,26 - 32,6,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,156,2,79,1,10:33 PM,0:00,,,MISS Agbaji 25' 3PT Pullup Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,157,4,0,1,10:33 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,158,13,0,1,10:33 PM,0:00,,End of 1st Period (10:33 PM EST),,26 - 32,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,169,12,0,2,10:36 PM,12:00,,Start of 2nd Period (10:36 PM EST),,26 - 32,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,170,6,1,2,10:36 PM,11:47,,,Brantley P.FOUL (P1.T1) (P.Fraher),,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,172,2,5,2,10:37 PM,11:37,MISS Holmes 3' Layup,,Jones BLOCK (1 BLK),,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1627745,Damian Jones,1610612762.0,Utah,Jazz,UTA,1
+0022201111,174,4,0,2,10:37 PM,11:34,,,Horton-Tucker REBOUND (Off:0 Def:1),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,175,2,2,2,10:37 PM,11:31,Monk BLOCK (1 BLK),,MISS Fontecchio 25' 3PT Running Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1
+0022201111,176,4,0,2,10:37 PM,11:29,Lyles REBOUND (Off:0 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,178,2,79,2,10:37 PM,11:21,MISS Barnes 8' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,179,4,0,2,10:37 PM,11:18,,,Jones REBOUND (Off:0 Def:1),,,5,1627745,Damian Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,180,1,6,2,10:37 PM,11:02,,,Brantley 6' Driving Layup (5 PTS),28 - 32,4,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,181,2,79,2,10:38 PM,10:45,MISS Holmes 7' Pullup Jump Shot,,Kessler BLOCK (1 BLK),,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022201111,183,4,0,2,10:38 PM,10:41,Holmes REBOUND (Off:1 Def:0),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,184,2,1,2,10:38 PM,10:39,MISS Lyles 26' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,185,4,0,2,10:38 PM,10:37,,,Kessler REBOUND (Off:0 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,186,2,5,2,10:38 PM,10:30,,,MISS Kessler 3' Layup,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,187,4,0,2,10:38 PM,10:29,,,Kessler REBOUND (Off:1 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,188,1,97,2,10:39 PM,10:28,,,Kessler 3' Tip Layup Shot (9 PTS),30 - 32,2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,189,6,2,2,10:39 PM,10:28,Holmes S.FOUL (P1.T1) (P.Fraher),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,191,3,10,2,10:39 PM,10:28,,,Kessler Free Throw 1 of 1 (10 PTS),31 - 32,1,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,192,2,1,2,10:39 PM,10:17,MISS Lyles 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,193,4,0,2,10:39 PM,10:17,,,Fontecchio REBOUND (Off:0 Def:1),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,194,2,6,2,10:39 PM,10:04,,,MISS Horton-Tucker 6' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,195,4,0,2,10:39 PM,10:04,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,197,1,1,2,10:39 PM,9:54,Monk 27' 3PT Jump Shot (5 PTS) (Mitchell 2 AST),,,31 - 35,4,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,199,1,79,2,10:40 PM,9:35,,,Fontecchio 25' 3PT Pullup Jump Shot (5 PTS) (Jones 1 AST),34 - 35,1,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1627745,Damian Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,201,2,78,2,10:40 PM,9:19,MISS Holmes 12' Floating Jump Shot,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,202,4,0,2,10:40 PM,9:16,,,Kessler REBOUND (Off:1 Def:4),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,203,1,1,2,10:40 PM,9:07,,,Brantley 25' 3PT Jump Shot (8 PTS) (Fontecchio 1 AST),37 - 35,-2,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,205,5,1,2,10:40 PM,8:56,Monk Bad Pass Turnover (P1.T3),,Jones STEAL (1 STL),,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627745,Damian Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,207,2,78,2,10:41 PM,8:36,,,MISS Fontecchio 12' Floating Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,208,4,0,2,10:41 PM,8:33,Monk REBOUND (Off:0 Def:1),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,209,6,2,2,10:41 PM,8:27,,,Kessler S.FOUL (P2.T2) (B.Schwab),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,211,3,11,2,10:42 PM,8:27,Lyles Free Throw 1 of 2 (4 PTS),,,37 - 36,-1,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,212,8,0,2,10:42 PM,8:27,SUB: Sabonis FOR Monk,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,213,8,0,2,10:42 PM,8:27,SUB: Huerter FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,214,8,0,2,10:42 PM,8:27,SUB: Dellavedova FOR Holmes,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,215,8,0,2,10:42 PM,8:27,,,SUB: Olynyk FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,220,3,12,2,10:42 PM,8:27,Lyles Free Throw 2 of 2 (5 PTS),,,37 - 37,TIE,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,221,1,58,2,10:42 PM,8:14,,,Brantley 7' Turnaround Hook Shot (10 PTS),39 - 37,-2,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,222,5,4,2,10:42 PM,8:06,Huerter Traveling Turnover (P1.T4),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022201111,223,1,79,2,10:43 PM,7:48,,,Horton-Tucker 28' 3PT Pullup Jump Shot (5 PTS) (Olynyk 2 AST),42 - 37,-5,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,225,9,1,2,10:43 PM,7:46,KINGS Timeout: Regular (Full 2 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,226,8,0,2,10:44 PM,7:46,SUB: Murray FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,228,2,78,2,10:46 PM,7:27,MISS Dellavedova 13' Floating Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,229,4,0,2,10:46 PM,7:24,Barnes REBOUND (Off:1 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,230,1,1,2,10:46 PM,7:20,Dellavedova 24' 3PT Jump Shot (3 PTS) (Sabonis 3 AST),,,42 - 40,-2,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,232,6,1,2,10:46 PM,7:17,Dellavedova P.FOUL (P1.T2) (J.Goble),,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,234,2,1,2,10:47 PM,6:57,,,MISS Horton-Tucker 26' 3PT Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,235,4,0,2,10:47 PM,6:54,Huerter REBOUND (Off:0 Def:4),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,236,7,5,2,10:47 PM,6:52,,,Horton-Tucker Violation:Kicked Ball (P.Fraher),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0022201111,237,2,63,2,10:47 PM,6:40,MISS Huerter 9' Fadeaway Jumper,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,238,4,0,2,10:48 PM,6:37,,,Olynyk REBOUND (Off:0 Def:3),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,239,2,6,2,10:48 PM,6:29,,,MISS Olynyk 6' Driving Layup,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,240,4,0,2,10:48 PM,6:27,Sabonis REBOUND (Off:1 Def:5),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,241,1,1,2,10:48 PM,6:22,Huerter 26' 3PT Jump Shot (5 PTS) (Sabonis 4 AST),,,42 - 43,1,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,243,2,6,2,10:48 PM,6:00,,,MISS Horton-Tucker 3' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,244,4,0,2,10:48 PM,5:57,Sabonis REBOUND (Off:1 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,245,2,2,2,10:48 PM,5:54,MISS Murray 28' 3PT Running Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,246,4,0,2,10:48 PM,5:51,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,248,8,0,2,10:48 PM,5:51,,,SUB: Agbaji FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,249,8,0,2,10:48 PM,5:51,,,SUB: Dunn FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,252,2,1,2,10:49 PM,5:37,,,MISS Agbaji 25' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,253,4,0,2,10:49 PM,5:34,,,Jones REBOUND (Off:1 Def:1),,,5,1627745,Damian Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,254,2,79,2,10:49 PM,5:29,,,MISS Olynyk 17' Pullup Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,255,4,0,2,10:49 PM,5:21,,,Brantley REBOUND (Off:1 Def:0),,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,256,5,1,2,10:49 PM,5:20,Huerter STEAL (1 STL),,Brantley Bad Pass Turnover (P1.T4),,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,258,2,1,2,10:49 PM,5:15,MISS Dellavedova 3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,259,4,0,2,10:49 PM,5:14,Sabonis REBOUND (Off:2 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,260,2,97,2,10:49 PM,5:14,MISS Sabonis Tip Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,261,4,0,2,10:49 PM,5:13,Sabonis REBOUND (Off:3 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,275,2,97,2,10:49 PM,5:13,MISS Sabonis 2' Tip Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,276,4,0,2,10:49 PM,5:12,Sabonis REBOUND (Off:4 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,262,2,72,2,10:49 PM,5:08,MISS Sabonis 3' Putback Layup,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,263,4,0,2,10:49 PM,5:06,,,Olynyk REBOUND (Off:0 Def:4),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,264,1,6,2,10:49 PM,5:03,,,Olynyk 2' Driving Layup (4 PTS),44 - 43,-1,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,265,6,2,2,10:49 PM,5:03,Dellavedova S.FOUL (P2.T3) (B.Schwab),,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,267,3,10,2,10:50 PM,5:03,,,Olynyk Free Throw 1 of 1 (5 PTS),45 - 43,-2,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,268,1,98,2,10:50 PM,4:51,Dellavedova 3' Cutting Layup Shot (5 PTS) (Sabonis 5 AST),,,45 - 45,TIE,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,270,5,1,2,10:50 PM,4:39,Murray STEAL (1 STL),,Dunn Bad Pass Turnover (P1.T5),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,272,6,2,2,10:50 PM,4:37,,,Brantley S.FOUL (P2.T3) (B.Schwab),,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,274,3,11,2,10:51 PM,4:37,Huerter Free Throw 1 of 2 (6 PTS),,,45 - 46,1,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,277,8,0,2,10:51 PM,4:37,,,SUB: Kessler FOR Brantley,,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,278,8,0,2,10:51 PM,4:37,,,SUB: Fontecchio FOR Jones,,,5,1627745,Damian Jones,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,281,3,12,2,10:51 PM,4:37,Huerter Free Throw 2 of 2 (7 PTS),,,45 - 47,2,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,283,5,1,2,10:52 PM,4:20,Dellavedova STEAL (1 STL),,Dunn Bad Pass Turnover (P2.T6),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,285,5,1,2,10:52 PM,4:17,Barnes Bad Pass Turnover (P1.T5),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,288,1,6,2,10:52 PM,4:05,,,Agbaji 3' Driving Layup (6 PTS) (Dunn 3 AST),47 - 47,TIE,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,290,1,5,2,10:52 PM,3:51,Sabonis 4' Layup (9 PTS),,,47 - 49,2,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,291,6,2,2,10:53 PM,3:38,Sabonis S.FOUL (P1.T4) (P.Fraher),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,293,3,11,2,10:53 PM,3:38,,,MISS Kessler Free Throw 1 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,294,4,1,2,10:53 PM,3:38,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,295,3,12,2,10:53 PM,3:38,,,Kessler Free Throw 2 of 2 (11 PTS),48 - 49,1,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,296,2,1,2,10:54 PM,3:24,MISS Murray 26' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,297,4,0,2,10:54 PM,3:20,Barnes REBOUND (Off:2 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,298,5,2,2,10:54 PM,3:12,Sabonis Lost Ball Turnover (P2.T6),,Olynyk STEAL (1 STL),,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,300,2,5,2,10:54 PM,3:06,,,MISS Olynyk 4' Layup,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,302,4,0,2,10:54 PM,3:05,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,304,1,98,2,10:54 PM,2:56,,,Kessler 2' Cutting Layup Shot (13 PTS) (Olynyk 3 AST),50 - 49,-1,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,306,6,2,2,10:55 PM,2:44,,,Dunn S.FOUL (P1.T4) (J.Goble),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,308,9,1,2,10:55 PM,2:44,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,310,8,0,2,10:55 PM,2:44,SUB: Mitchell FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,312,3,11,2,10:58 PM,2:44,Barnes Free Throw 1 of 2 (1 PTS),,,50 - 50,TIE,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022201111,313,3,12,2,10:58 PM,2:44,Barnes Free Throw 2 of 2 (2 PTS),,,50 - 51,1,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,314,2,6,2,10:58 PM,2:32,,,MISS Agbaji 3' Driving Layup,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,315,4,0,2,10:58 PM,2:32,,,Kessler REBOUND (Off:2 Def:4),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,316,1,97,2,10:58 PM,2:32,,,Kessler Tip Layup Shot (15 PTS),52 - 51,-1,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,317,6,2,2,10:58 PM,2:32,Huerter S.FOUL (P1.PN) (J.Goble),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,319,3,10,2,10:59 PM,2:32,,,MISS Kessler Free Throw 1 of 1,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,320,4,0,2,10:59 PM,2:28,Huerter REBOUND (Off:0 Def:5),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,321,1,5,2,10:59 PM,2:13,Huerter 2' Layup (9 PTS) (Barnes 2 AST),,,52 - 53,1,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,323,1,57,2,10:59 PM,1:57,,,Kessler 3' Driving Hook Shot (17 PTS) (Olynyk 4 AST),54 - 53,-1,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,325,1,98,2,11:00 PM,1:39,Sabonis 4' Cutting Layup Shot (11 PTS) (Barnes 3 AST),,,54 - 55,1,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,327,1,108,2,11:00 PM,1:22,,,Kessler 1' Cutting Dunk Shot (19 PTS) (Dunn 4 AST),56 - 55,-1,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,330,5,45,2,11:00 PM,0:59,Barnes Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022201111,331,1,6,2,11:01 PM,0:49,,,Olynyk 6' Driving Layup (7 PTS),58 - 55,-3,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,332,6,2,2,11:01 PM,0:49,Mitchell S.FOUL (P1.PN) (J.Goble),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,334,3,10,2,11:01 PM,0:49,,,Olynyk Free Throw 1 of 1 (8 PTS),59 - 55,-4,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022201111,335,2,5,2,11:02 PM,0:31,MISS Sabonis 5' Layup,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,336,4,0,2,11:02 PM,0:28,,,Fontecchio REBOUND (Off:0 Def:2),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,337,1,47,2,11:02 PM,0:12,,,Dunn 5' Turnaround Jump Shot (4 PTS),61 - 55,-6,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,338,2,1,2,11:02 PM,0:04,MISS Huerter 29' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,339,4,0,2,11:02 PM,0:00,Barnes REBOUND (Off:3 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,340,2,63,2,11:02 PM,0:00,MISS Barnes 21' Fadeaway Jumper,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,341,4,0,2,11:02 PM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,342,13,0,2,11:02 PM,0:00,,End of 2nd Period (11:02 PM EST),,61 - 55,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,345,12,0,3,11:17 PM,12:00,,Start of 3rd Period (11:17 PM EST),,61 - 55,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,346,1,47,3,11:18 PM,11:40,Huerter 12' Turnaround Jump Shot (11 PTS),,,61 - 57,-4,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,347,2,1,3,11:18 PM,11:15,,,MISS Horton-Tucker 25' 3PT Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,348,4,0,3,11:18 PM,11:14,,,Agbaji REBOUND (Off:1 Def:0),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,349,5,11,3,11:18 PM,11:14,,,Jazz Turnover: Shot Clock (T#7),,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,1
+0022201111,350,1,1,3,11:19 PM,11:00,Huerter 25' 3PT Jump Shot (14 PTS) (Mitchell 3 AST),,,61 - 60,-1,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,352,1,98,3,11:19 PM,10:44,,,Agbaji 3' Cutting Layup Shot (8 PTS) (Olynyk 5 AST),63 - 60,-3,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,354,1,79,3,11:19 PM,10:17,Huerter 7' Pullup Jump Shot (16 PTS),,,63 - 62,-1,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,355,1,98,3,11:20 PM,10:07,,,Kessler 2' Cutting Layup Shot (21 PTS) (Horton-Tucker 1 AST),65 - 62,-3,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,357,2,6,3,11:20 PM,9:53,MISS Barnes 3' Driving Layup,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,358,4,0,3,11:20 PM,9:50,,,Fontecchio REBOUND (Off:0 Def:3),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,359,2,41,3,11:20 PM,9:46,,,MISS Fontecchio 4' Running Layup,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,360,4,0,3,11:20 PM,9:46,,,Kessler REBOUND (Off:3 Def:4),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,361,1,107,3,11:20 PM,9:41,,,Kessler Tip Dunk Shot (23 PTS),67 - 62,-5,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,362,1,6,3,11:20 PM,9:29,Barnes 2' Driving Layup (4 PTS),,,67 - 64,-3,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,363,2,1,3,11:20 PM,9:12,,,MISS Olynyk 27' 3PT Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,364,4,0,3,11:20 PM,9:12,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,366,7,5,3,11:21 PM,9:01,,,Agbaji Violation:Kicked Ball (P.Fraher),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0022201111,367,1,47,3,11:21 PM,8:53,Murray 7' Turnaround Jump Shot (16 PTS) (Mitchell 4 AST),,,67 - 66,-1,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,369,5,40,3,11:22 PM,8:42,,,Kessler Out of Bounds Lost Ball Turnover (P1.T8),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022201111,370,6,2,3,11:22 PM,8:33,,,Horton-Tucker S.FOUL (P1.T1) (P.Fraher),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,372,3,11,3,11:22 PM,8:33,Barnes Free Throw 1 of 2 (5 PTS),,,67 - 67,TIE,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,373,3,12,3,11:23 PM,8:33,Barnes Free Throw 2 of 2 (6 PTS),,,67 - 68,1,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,374,2,1,3,11:23 PM,8:20,,,MISS Fontecchio 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,375,4,0,3,11:23 PM,8:19,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,377,1,1,3,11:23 PM,8:07,Huerter 13' Jump Shot (18 PTS) (Barnes 4 AST),,,67 - 70,3,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,379,1,66,3,11:23 PM,7:51,,,Agbaji 23' Jump Bank Shot (10 PTS) (Olynyk 6 AST),69 - 70,1,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,381,1,1,3,11:24 PM,7:39,Barnes 27' 3PT Jump Shot (9 PTS) (Mitchell 5 AST),,,69 - 73,4,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,383,5,1,3,11:24 PM,7:27,Mitchell STEAL (1 STL),,Olynyk Bad Pass Turnover (P2.T9),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,385,1,50,3,11:24 PM,7:23,Mitchell 1' Running Dunk (6 PTS),,,69 - 75,6,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,386,5,1,3,11:24 PM,7:07,Huerter STEAL (2 STL),,Horton-Tucker Bad Pass Turnover (P1.T10),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,388,2,41,3,11:24 PM,7:03,MISS Murray 2' Running Layup,,Agbaji BLOCK (1 BLK),,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1
+0022201111,390,4,0,3,11:24 PM,6:59,,,Olynyk REBOUND (Off:0 Def:5),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,391,1,106,3,11:24 PM,6:57,,,Kessler 2' Running Alley Oop Dunk Shot (25 PTS) (Olynyk 7 AST),71 - 75,4,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,393,1,79,3,11:25 PM,6:38,Barnes 11' Pullup Jump Shot (11 PTS),,,71 - 77,6,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,394,5,1,3,11:25 PM,6:21,Mitchell STEAL (2 STL),,Agbaji Bad Pass Turnover (P1.T11),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,396,2,1,3,11:25 PM,6:14,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,397,4,0,3,11:25 PM,6:10,,,Kessler REBOUND (Off:3 Def:5),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,398,2,1,3,11:25 PM,6:02,,,MISS Olynyk 27' 3PT Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,399,4,0,3,11:25 PM,5:59,Barnes REBOUND (Off:3 Def:2),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,400,1,1,3,11:25 PM,5:51,Murray 3PT Jump Shot (19 PTS) (Huerter 3 AST),,,71 - 80,9,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,402,9,1,3,11:26 PM,5:50,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,403,8,0,3,11:28 PM,5:50,SUB: Dellavedova FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,404,8,0,3,11:28 PM,5:50,SUB: Edwards FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,405,8,0,3,11:28 PM,5:50,,,SUB: Dunn FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,406,8,0,3,11:28 PM,5:50,,,SUB: Juzang FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,407,8,0,3,11:28 PM,5:50,,,SUB: Brantley FOR Agbaji,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,408,8,0,3,11:28 PM,5:50,,,SUB: Toscano-Anderson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,409,8,0,3,11:28 PM,5:50,,,SUB: Azubuike FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,417,5,1,3,11:29 PM,5:24,Huerter STEAL (3 STL),,Toscano-Anderson Bad Pass Turnover (P1.T12),,,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,419,2,1,3,11:29 PM,5:09,MISS Murray 26' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,420,4,0,3,11:29 PM,5:04,Sabonis REBOUND (Off:5 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,421,2,1,3,11:29 PM,4:59,MISS Huerter 25' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,422,4,0,3,11:29 PM,4:54,,,Brantley REBOUND (Off:1 Def:1),,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,423,1,6,3,11:30 PM,4:39,,,Dunn 3' Driving Layup (6 PTS),73 - 80,7,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,424,1,98,3,11:30 PM,4:27,Sabonis 2' Cutting Layup Shot (13 PTS) (Murray 2 AST),,,73 - 82,9,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,426,2,1,3,11:30 PM,4:12,,,MISS Juzang 26' 3PT Jump Shot,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,427,4,0,3,11:30 PM,4:08,,,Azubuike REBOUND (Off:2 Def:2),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,428,1,52,3,11:30 PM,4:05,,,Azubuike 1' Alley Oop Dunk (2 PTS) (Brantley 1 AST),75 - 82,7,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,430,2,1,3,11:30 PM,3:57,MISS Huerter 27' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,431,4,0,3,11:30 PM,3:53,Huerter REBOUND (Off:1 Def:5),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,442,5,11,3,11:31 PM,3:37,KINGS Turnover: Shot Clock (T#8),,,,,2,1610612758,,,,,,0,0,,,,,,1,0,,,,,,1
+0022201111,434,2,1,3,11:31 PM,3:18,,,MISS Brantley 24' 3PT Jump Shot,,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,435,4,0,3,11:31 PM,3:12,Edwards REBOUND (Off:0 Def:1),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,436,2,103,3,11:31 PM,3:10,MISS Murray 25' 3PT Running Pull-Up Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,437,4,0,3,11:31 PM,3:05,,,Azubuike REBOUND (Off:2 Def:3),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,438,1,1,3,11:32 PM,2:47,,,Brantley 3PT Jump Shot (13 PTS) (Dunn 5 AST),78 - 82,4,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,440,9,1,3,11:32 PM,2:47,KINGS Timeout: Regular (Full 3 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,441,18,7,3,11:32 PM,2:47,,Instant Replay3rd Period (11:32 PM EST),,78 - 82,4,0,432,Pete Chilcutt,,,,,0,0,,,,,,1,0,,,,,,0
+0022201111,443,8,0,3,11:33 PM,2:47,SUB: Lyles FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,444,8,0,3,11:33 PM,2:47,SUB: Monk FOR Murray,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,447,1,1,3,11:35 PM,2:30,Monk 27' 3PT Jump Shot (8 PTS) (Lyles 1 AST),,,78 - 85,7,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,449,2,1,3,11:35 PM,2:14,,,MISS Juzang 26' 3PT Jump Shot,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,450,4,0,3,11:35 PM,2:11,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,452,2,5,3,11:36 PM,1:48,MISS Sabonis 2' Layup,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,453,4,0,3,11:36 PM,1:46,Sabonis REBOUND (Off:6 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,454,2,97,3,11:36 PM,1:46,MISS Sabonis Tip Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,455,4,0,3,11:36 PM,1:46,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,457,2,6,3,11:36 PM,1:21,,,MISS Brantley 5' Driving Layup,,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,458,4,0,3,11:36 PM,1:21,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,460,8,0,3,11:37 PM,1:21,SUB: Barnes FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,462,2,1,3,11:37 PM,1:13,,,MISS Brantley 26' 3PT Jump Shot,,,5,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,463,4,0,3,11:37 PM,1:10,,,Azubuike REBOUND (Off:3 Def:3),,,5,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,464,2,47,3,11:37 PM,1:00,,,MISS Dunn 8' Turnaround Jump Shot,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,465,4,0,3,11:37 PM,0:57,Edwards REBOUND (Off:0 Def:2),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,466,2,1,3,11:37 PM,0:51,MISS Lyles 25' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,467,4,0,3,11:37 PM,0:46,,,Dunn REBOUND (Off:0 Def:3),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,468,2,2,3,11:37 PM,0:43,,,MISS Juzang 26' 3PT Running Jump Shot,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,469,4,0,3,11:38 PM,0:39,Dellavedova REBOUND (Off:0 Def:1),,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,470,1,41,3,11:38 PM,0:39,Edwards 1' Running Layup (2 PTS) (Dellavedova 1 AST),,,78 - 87,9,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,472,5,2,3,11:38 PM,0:27,Monk STEAL (1 STL),,Dunn Lost Ball Turnover (P3.T13),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,474,1,1,3,11:38 PM,0:04,Lyles 25' 3PT Jump Shot (8 PTS) (Monk 1 AST),,,78 - 90,12,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,476,2,1,3,11:38 PM,0:00,,,MISS Toscano-Anderson 30' 3PT Jump Shot,,,5,1629308,Juan Toscano-Anderson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022201111,477,4,0,3,11:38 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,478,13,0,3,11:38 PM,0:00,,End of 3rd Period (11:38 PM EST),,78 - 90,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,489,12,0,4,11:41 PM,12:00,,Start of 4th Period (11:41 PM EST),,78 - 90,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,490,1,1,4,11:41 PM,11:45,,,Agbaji 26' 3PT Jump Shot (13 PTS) (Horton-Tucker 2 AST),81 - 90,9,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,492,5,1,4,11:42 PM,11:29,Monk Bad Pass Turnover (P2.T9),,Kessler STEAL (1 STL),,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,494,2,79,4,11:42 PM,11:21,,,MISS Fontecchio 10' Pullup Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,495,4,0,4,11:42 PM,11:18,Dellavedova REBOUND (Off:0 Def:2),,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,496,2,7,4,11:42 PM,11:12,MISS Monk 2' Dunk,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,497,4,0,4,11:42 PM,11:10,,,Agbaji REBOUND (Off:1 Def:1),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,498,6,11,4,11:42 PM,11:10,Monk T.FOUL (P0.T0) (J.Goble),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022201111,499,3,16,4,11:43 PM,11:10,,,Olynyk Free Throw Technical (9 PTS),82 - 90,8,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,503,11,4,4,11:43 PM,11:10,Monk Ejection:Other,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022201111,504,8,0,4,11:43 PM,11:10,SUB: Huerter FOR Monk,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,506,5,21,4,11:43 PM,11:07,,,Fontecchio Palming Turnover (P2.T14),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,507,2,5,4,11:44 PM,10:55,MISS Huerter 2' Layup,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,508,4,0,4,11:44 PM,10:55,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,509,6,2,4,11:44 PM,10:50,,,Fontecchio S.FOUL (P2.T1) (J.Goble),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,511,3,11,4,11:45 PM,10:50,Lyles Free Throw 1 of 2 (9 PTS),,,82 - 91,9,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,512,3,12,4,11:45 PM,10:50,Lyles Free Throw 2 of 2 (10 PTS),,,82 - 92,10,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022201111,513,6,2,4,11:45 PM,10:40,Dellavedova S.FOUL (P3.T1) (P.Fraher),,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,515,9,1,4,11:45 PM,10:40,KINGS Timeout: Regular (Full 4 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,516,18,4,4,11:46 PM,10:40,,Instant Replay4th Period (11:46 PM EST),,82 - 92,10,0,513,,,,,,0,0,,,,,,1,0,,,,,,0
+0022201111,517,3,11,4,11:48 PM,10:40,,,Horton-Tucker Free Throw 1 of 2 (6 PTS),83 - 92,9,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,518,3,12,4,11:49 PM,10:40,,,Horton-Tucker Free Throw 2 of 2 (7 PTS),84 - 92,8,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,519,2,79,4,11:49 PM,10:31,MISS Dellavedova 25' 3PT Pullup Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,520,4,0,4,11:49 PM,10:27,,,Olynyk REBOUND (Off:0 Def:6),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,521,5,2,4,11:49 PM,10:19,Edwards STEAL (1 STL),,Horton-Tucker Lost Ball Turnover (P2.T15),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,523,2,41,4,11:49 PM,10:14,MISS Edwards 3' Running Layup,,Horton-Tucker BLOCK (1 BLK),,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,1
+0022201111,525,4,0,4,11:49 PM,10:08,Lyles REBOUND (Off:1 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,526,1,6,4,11:49 PM,10:03,Huerter 2' Driving Layup (20 PTS) (Edwards 3 AST),,,84 - 94,10,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,527,2,78,4,11:50 PM,9:53,,,MISS Agbaji 5' Floating Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,528,4,0,4,11:50 PM,9:48,,,Kessler REBOUND (Off:4 Def:5),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,529,1,97,4,11:50 PM,9:48,,,Kessler Tip Layup Shot (27 PTS),86 - 94,8,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,530,6,1,4,11:50 PM,9:44,,,Olynyk P.FOUL (P2.T2) (J.Goble),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,532,6,2,4,11:50 PM,9:37,,,Kessler S.FOUL (P3.T3) (B.Schwab),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,534,3,11,4,11:51 PM,9:37,MISS Huerter Free Throw 1 of 2,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,535,4,1,4,11:51 PM,9:37,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,536,8,0,4,11:51 PM,9:37,SUB: Sabonis FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,538,3,12,4,11:51 PM,9:37,Huerter Free Throw 2 of 2 (21 PTS),,,86 - 95,9,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,540,1,6,4,11:51 PM,9:25,,,Olynyk 3' Driving Layup (11 PTS) (Agbaji 2 AST),88 - 95,7,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,542,1,1,4,11:52 PM,9:04,Sabonis 25' 3PT Jump Shot (16 PTS) (Dellavedova 2 AST),,,88 - 98,10,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,544,1,75,4,11:52 PM,8:44,,,Horton-Tucker 4' Driving Finger Roll Layup (9 PTS),90 - 98,8,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,545,7,5,4,11:52 PM,8:35,,,Agbaji Violation:Kicked Ball (J.Goble),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0022201111,546,8,0,4,11:52 PM,8:35,SUB: Murray FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,547,8,0,4,11:52 PM,8:35,SUB: Mitchell FOR Edwards,,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,550,6,2,4,11:53 PM,8:21,,,Kessler S.FOUL (P4.T4) (J.Goble),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,552,3,11,4,11:53 PM,8:21,Huerter Free Throw 1 of 2 (22 PTS),,,90 - 99,9,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,553,3,12,4,11:54 PM,8:21,Huerter Free Throw 2 of 2 (23 PTS),,,90 - 100,10,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,554,1,63,4,11:54 PM,8:07,,,Olynyk 5' Fadeaway Jumper (13 PTS) (Agbaji 3 AST),92 - 100,8,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,556,2,1,4,11:54 PM,7:47,MISS Huerter 11' Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,557,4,0,4,11:54 PM,7:44,,,Olynyk REBOUND (Off:0 Def:7),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,558,1,5,4,11:55 PM,7:28,,,Kessler 5' Layup (29 PTS) (Agbaji 4 AST),94 - 100,6,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,560,2,1,4,11:55 PM,7:12,MISS Mitchell 25' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,561,4,0,4,11:55 PM,7:10,,,Kessler REBOUND (Off:4 Def:6),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,563,8,0,4,11:55 PM,7:02,SUB: Barnes FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,566,6,1,4,11:56 PM,6:57,Mitchell P.FOUL (P2.T2) (P.Fraher),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,568,8,0,4,11:56 PM,6:57,,,SUB: Dunn FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,570,2,1,4,11:56 PM,6:50,,,MISS Fontecchio 25' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,571,4,0,4,11:56 PM,6:45,Murray REBOUND (Off:0 Def:2),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,572,2,5,4,11:56 PM,6:23,MISS Sabonis 2' Layup,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,573,4,0,4,11:56 PM,6:18,Huerter REBOUND (Off:2 Def:5),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,574,1,97,4,11:56 PM,6:18,Huerter Tip Layup Shot (25 PTS),,,94 - 102,8,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,575,1,52,4,11:57 PM,6:17,,,Kessler 2' Alley Oop Dunk (31 PTS) (Olynyk 8 AST),96 - 102,6,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,577,9,1,4,11:57 PM,6:16,KINGS Timeout: Regular (Full 5 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,578,8,0,4,11:58 PM,6:16,,,SUB: Horton-Tucker FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,580,1,1,4,12:00 AM,6:00,Barnes 3PT Jump Shot (14 PTS) (Mitchell 6 AST),,,96 - 105,9,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,582,5,1,4,12:00 AM,5:46,Mitchell STEAL (3 STL),,Olynyk Bad Pass Turnover (P3.T16),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,584,1,41,4,12:00 AM,5:43,Mitchell 2' Running Layup (8 PTS) (Huerter 4 AST),,,96 - 107,11,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,585,6,2,4,12:00 AM,5:43,,,Olynyk S.FOUL (P3.PN) (P.Fraher),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,588,9,1,4,12:01 AM,5:43,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,589,3,10,4,12:02 AM,5:43,Mitchell Free Throw 1 of 1 (9 PTS),,,96 - 108,12,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,590,1,71,4,12:02 AM,5:24,,,Olynyk 5' Finger Roll Layup (15 PTS),98 - 108,10,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,591,1,102,4,12:03 AM,5:04,Barnes 6' Driving Floating Bank Jump Shot (16 PTS),,,98 - 110,12,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,592,1,63,4,12:03 AM,4:38,,,Agbaji 18' Fadeaway Jumper (15 PTS) (Horton-Tucker 3 AST),100 - 110,10,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,594,2,1,4,12:03 AM,4:23,MISS Murray 24' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,595,4,0,4,12:03 AM,4:20,,,Kessler REBOUND (Off:4 Def:7),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,596,1,1,4,12:04 AM,4:12,,,Dunn 3PT Jump Shot (9 PTS) (Kessler 2 AST),103 - 110,7,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,598,1,98,4,12:04 AM,3:55,Huerter 2' Cutting Layup Shot (27 PTS) (Sabonis 6 AST),,,103 - 112,9,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,600,1,98,4,12:04 AM,3:45,,,Agbaji 2' Cutting Layup Shot (17 PTS) (Olynyk 9 AST),105 - 112,7,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,602,1,102,4,12:04 AM,3:28,Barnes 5' Driving Floating Bank Jump Shot (18 PTS),,,105 - 114,9,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,603,1,1,4,12:04 AM,3:15,,,Agbaji 3PT Jump Shot (20 PTS) (Olynyk 10 AST),108 - 114,6,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,605,1,6,4,12:05 AM,2:54,Mitchell 4' Driving Layup (11 PTS),,,108 - 116,8,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,606,1,58,4,12:05 AM,2:40,,,Olynyk 8' Turnaround Hook Shot (17 PTS),110 - 116,6,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,629,2,6,4,12:05 AM,2:29,MISS Barnes 4' Driving Layup,,Agbaji BLOCK (2 BLK),,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1
+0022201111,631,4,0,4,12:05 AM,2:29,,,Olynyk REBOUND (Off:0 Def:8),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022201111,609,9,7,4,12:06 AM,2:29,,,Jazz Timeout: Coach Challenge (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,610,18,5,4,12:06 AM,2:29,,Instant Replay4th Period (12:06 AM EST),,110 - 116,6,0,607,,,,,,0,0,,,,,,1,0,,,,,,0
+0022201111,611,6,1,4,12:09 AM,2:20,Murray P.FOUL (P1.T3) (P.Fraher),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,614,2,80,4,12:09 AM,2:11,,,MISS Horton-Tucker 19' Step Back Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,615,4,0,4,12:09 AM,2:07,Sabonis REBOUND (Off:6 Def:7),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,617,1,1,4,12:09 AM,1:56,Murray 3PT Jump Shot (22 PTS) (Sabonis 7 AST),,,110 - 119,9,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,619,2,101,4,12:10 AM,1:45,,,MISS Dunn 10' Driving Floating Jump Shot,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,620,4,0,4,12:10 AM,1:41,Sabonis REBOUND (Off:6 Def:8),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,621,2,79,4,12:10 AM,1:28,MISS Barnes 8' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,622,4,0,4,12:10 AM,1:25,,,Dunn REBOUND (Off:0 Def:4),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,623,6,2,4,12:10 AM,1:22,Mitchell S.FOUL (P3.T4) (J.Goble),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,625,3,11,4,12:11 AM,1:22,,,MISS Dunn Free Throw 1 of 2,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,626,4,1,4,12:11 AM,1:22,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022201111,627,3,12,4,12:11 AM,1:22,,,MISS Dunn Free Throw 2 of 2,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022201111,628,4,0,4,12:11 AM,1:19,Sabonis REBOUND (Off:6 Def:9),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,632,2,1,4,12:11 AM,1:00,MISS Mitchell 25' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,633,4,0,4,12:11 AM,0:56,,,Agbaji REBOUND (Off:1 Def:2),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,634,1,6,4,12:11 AM,0:49,,,Dunn 7' Driving Layup (11 PTS) (Horton-Tucker 4 AST),112 - 119,7,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022201111,636,6,2,4,12:12 AM,0:49,Murray S.FOUL (P2.PN) (P.Fraher),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022201111,638,3,10,4,12:12 AM,0:49,,,Dunn Free Throw 1 of 1 (12 PTS),113 - 119,6,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,639,2,101,4,12:12 AM,0:29,MISS Huerter 7' Driving Floating Jump Shot,,Agbaji BLOCK (3 BLK),,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1
+0022201111,641,4,0,4,12:12 AM,0:28,,,Horton-Tucker REBOUND (Off:0 Def:2),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,643,9,1,4,12:12 AM,0:28,,,Jazz Timeout: Regular (Reg.5 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,644,8,0,4,12:13 AM,0:28,SUB: Dellavedova FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,645,8,0,4,12:13 AM,0:28,SUB: Edwards FOR Murray,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022201111,646,8,0,4,12:13 AM,0:28,,,SUB: Fontecchio FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022201111,651,2,5,4,12:15 AM,0:25,,,MISS Agbaji 3' Layup,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022201111,652,4,0,4,12:15 AM,0:22,Edwards REBOUND (Off:0 Def:3),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,653,6,1,4,12:15 AM,0:19,,,Fontecchio P.FOUL (P3.PN) (B.Schwab),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022201111,655,3,11,4,12:16 AM,0:19,Edwards Free Throw 1 of 2 (3 PTS),,,113 - 120,7,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,656,3,12,4,12:16 AM,0:19,Edwards Free Throw 2 of 2 (4 PTS),,,113 - 121,8,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022201111,657,9,1,4,12:16 AM,0:19,,,Jazz Timeout: Regular (Reg.6 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022201111,658,5,1,4,12:18 AM,0:18,Mitchell STEAL (4 STL),,Olynyk Bad Pass Turnover (P4.T17),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022201111,660,13,0,4,12:18 AM,0:00,,End of 4th Period (12:18 AM EST),,113 - 121,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

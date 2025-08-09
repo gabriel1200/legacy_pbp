@@ -1,0 +1,511 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042100231,2,12,0,1,3:51 PM,12:00,,Start of 1st Period (3:51 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,4,10,0,1,3:51 PM,12:00,Jump Ball Jackson Jr. vs. Green: Tip to Brooks,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,7,1,1,1,3:52 PM,11:39,Morant 24' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),,,0 - 3,3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,9,6,1,1,3:52 PM,11:28,Morant P.FOUL (P1.T1) (K.Fitzgerald),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,11,2,1,1,3:52 PM,11:22,,,MISS Wiggins 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,12,4,0,1,3:52 PM,11:19,Morant REBOUND (Off:0 Def:1),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,13,2,1,1,3:52 PM,11:13,MISS Brooks 25' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,14,4,0,1,3:53 PM,11:09,,,Green REBOUND (Off:0 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,15,5,1,1,3:53 PM,11:05,Brooks STEAL (1 STL),,Green Bad Pass Turnover (P1.T1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,17,1,79,1,3:53 PM,10:52,Morant 26' 3PT Pullup Jump Shot (6 PTS),,,0 - 6,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,18,1,1,1,3:53 PM,10:38,,,Thompson 3PT Jump Shot (3 PTS) (Curry 1 AST),3 - 6,3,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,20,2,1,1,3:53 PM,10:30,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,21,4,0,1,3:53 PM,10:28,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,23,6,1,1,3:53 PM,10:23,Brooks P.FOUL (P1.T2) (K.Fitzgerald),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,25,2,1,1,3:54 PM,10:17,,,MISS Thompson 25' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,26,4,0,1,3:54 PM,10:12,Morant REBOUND (Off:0 Def:2),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,27,5,1,1,3:54 PM,10:10,Brooks Bad Pass Turnover (P1.T1),,Green STEAL (1 STL),,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,29,1,79,1,3:54 PM,9:55,,,Curry 27' 3PT Pullup Jump Shot (3 PTS) (Green 1 AST),6 - 6,TIE,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,31,2,1,1,3:55 PM,9:38,MISS Bane 26' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,32,4,0,1,3:55 PM,9:36,,,Green REBOUND (Off:0 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,33,2,79,1,3:55 PM,9:31,,,MISS Thompson 26' 3PT Pullup Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,34,4,0,1,3:55 PM,9:28,Tillman REBOUND (Off:0 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,35,2,79,1,3:55 PM,9:22,MISS Morant 25' 3PT Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,36,4,0,1,3:55 PM,9:19,Tillman REBOUND (Off:1 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,37,1,99,1,3:55 PM,9:16,Morant 1' Cutting Finger Roll Layup Shot (8 PTS) (Tillman 1 AST),,,6 - 8,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,39,2,80,1,3:55 PM,9:00,,,MISS Thompson 26' 3PT Step Back Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,40,4,0,1,3:55 PM,8:57,,,Wiggins REBOUND (Off:1 Def:0),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,41,1,72,1,3:55 PM,8:56,,,Wiggins 3' Putback Layup (2 PTS),8 - 8,TIE,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,42,6,1,1,3:55 PM,8:43,,,Payton II P.FOUL (P1.T1) (K.Fitzgerald),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,44,5,1,1,3:56 PM,8:39,Morant Bad Pass Turnover (P1.T2),,Green STEAL (2 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,46,1,76,1,3:56 PM,8:35,,,Curry 1' Running Finger Roll Layup (5 PTS) (Payton II 1 AST),10 - 8,-2,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,48,9,1,1,3:56 PM,8:34,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,49,6,2,1,4:00 PM,8:17,,,Thompson S.FOUL (P1.T2) (G.Petraitis),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,51,3,11,1,4:00 PM,8:17,MISS Jackson Jr. Free Throw 1 of 2,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,52,4,1,1,4:00 PM,8:17,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,53,3,12,1,4:01 PM,8:17,Jackson Jr. Free Throw 2 of 2 (1 PTS),,,10 - 9,-1,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,54,2,101,1,4:01 PM,8:10,,,MISS Green 9' Driving Floating Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,55,4,0,1,4:01 PM,8:10,,,Payton II REBOUND (Off:1 Def:0),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,142,2,97,1,4:01 PM,8:06,,,MISS Payton II 5' Tip Layup Shot,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,143,4,0,1,4:01 PM,8:06,Jackson Jr. REBOUND (Off:0 Def:1),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,56,10,0,1,4:02 PM,7:59,Jump Ball Jackson Jr. vs. Wiggins: Tip to Tillman,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,59,5,10,1,4:02 PM,7:58,GRIZZLIES Turnover: 8 Second Violation (T#3),,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100231,60,2,98,1,4:02 PM,7:54,,,MISS Thompson 2' Cutting Layup Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,61,4,0,1,4:02 PM,7:51,Jackson Jr. REBOUND (Off:0 Def:2),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,62,2,101,1,4:03 PM,7:41,MISS Bane 11' Driving Floating Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,63,4,0,1,4:03 PM,7:39,Jackson Jr. REBOUND (Off:1 Def:2),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,64,2,3,1,4:03 PM,7:38,MISS Jackson Jr. 2' Hook Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,65,4,0,1,4:03 PM,7:38,Bane REBOUND (Off:1 Def:0),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,66,2,97,1,4:03 PM,7:34,MISS Bane Tip Layup Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,67,4,0,1,4:03 PM,7:34,Jackson Jr. REBOUND (Off:2 Def:2),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,68,6,2,1,4:03 PM,7:34,,,Payton II S.FOUL (P2.T3) (G.Petraitis),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,70,3,11,1,4:03 PM,7:34,MISS Jackson Jr. Free Throw 1 of 2,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,71,4,1,1,4:03 PM,7:34,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,72,3,12,1,4:04 PM,7:34,Jackson Jr. Free Throw 2 of 2 (2 PTS),,,10 - 10,TIE,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,73,1,108,1,4:04 PM,7:24,,,Payton II 2' Cutting Dunk Shot (2 PTS) (Curry 2 AST),12 - 10,-2,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,76,6,2,1,4:04 PM,7:08,,,Curry S.FOUL (P1.T4) (G.Petraitis),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,78,3,11,1,4:05 PM,7:08,Morant Free Throw 1 of 2 (9 PTS),,,12 - 11,-1,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0042100231,79,3,12,1,4:05 PM,7:08,Morant Free Throw 2 of 2 (10 PTS),,,12 - 12,TIE,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,80,2,1,1,4:05 PM,6:54,,,MISS Curry 26' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,81,4,0,1,4:05 PM,6:50,Brooks REBOUND (Off:0 Def:1),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,82,1,80,1,4:05 PM,6:44,Bane 26' 3PT Step Back Jump Shot (3 PTS) (Tillman 2 AST),,,12 - 15,3,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,84,5,1,1,4:06 PM,6:33,Bane STEAL (1 STL),,Wiggins Bad Pass Turnover (P1.T2),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,86,6,1,1,4:06 PM,6:30,,,Thompson P.FOUL (P2.PN) (K.Fitzgerald),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,89,8,0,1,4:06 PM,6:30,SUB: Anderson FOR Jackson Jr.,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,92,8,0,1,4:06 PM,6:30,,,SUB: Poole FOR Payton II,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,93,8,0,1,4:06 PM,6:30,,,SUB: Porter Jr. FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,88,3,11,1,4:06 PM,6:30,Bane Free Throw 1 of 2 (4 PTS),,,12 - 16,4,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,96,3,12,1,4:06 PM,6:30,MISS Bane Free Throw 2 of 2,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,97,4,0,1,4:06 PM,6:30,,,Poole REBOUND (Off:0 Def:1),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,91,9,1,1,4:06 PM,6:30,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,98,2,79,1,4:11 PM,6:16,,,MISS Poole 27' 3PT Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,99,4,0,1,4:11 PM,6:12,,,Porter Jr. REBOUND (Off:1 Def:0),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,100,1,1,1,4:11 PM,6:11,,,Curry 27' 3PT Jump Shot (8 PTS) (Porter Jr. 1 AST),15 - 16,1,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,102,2,79,1,4:11 PM,5:51,MISS Brooks 19' Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,103,4,0,1,4:11 PM,5:49,,,Porter Jr. REBOUND (Off:1 Def:1),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,104,6,2,1,4:11 PM,5:37,Anderson S.FOUL (P1.T3) (J.Williams),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,106,3,11,1,4:12 PM,5:37,,,Wiggins Free Throw 1 of 2 (3 PTS),16 - 16,TIE,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,107,8,0,1,4:12 PM,5:37,SUB: Clarke FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,108,8,0,1,4:12 PM,5:37,SUB: Melton FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,111,3,12,1,4:12 PM,5:37,,,MISS Wiggins Free Throw 2 of 2,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,112,4,0,1,4:12 PM,5:35,Melton REBOUND (Off:0 Def:1),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,113,2,102,1,4:12 PM,5:14,MISS Brooks 9' Driving Floating Bank Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,114,4,0,1,4:13 PM,5:10,Anderson REBOUND (Off:1 Def:0),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,115,1,1,1,4:13 PM,5:02,Brooks 3PT Jump Shot (3 PTS) (Anderson 1 AST),,,16 - 19,3,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,117,1,98,1,4:13 PM,4:51,,,Poole 2' Cutting Layup Shot (2 PTS) (Curry 3 AST),18 - 19,1,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,119,1,52,1,4:13 PM,4:43,Clarke 1' Alley Oop Dunk (2 PTS) (Morant 1 AST),,,18 - 21,3,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,121,1,98,1,4:13 PM,4:29,,,Green 2' Cutting Layup Shot (2 PTS) (Wiggins 1 AST),20 - 21,1,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,124,2,1,1,4:14 PM,4:13,MISS Brooks 25' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,125,4,0,1,4:14 PM,4:10,,,Porter Jr. REBOUND (Off:1 Def:2),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,126,5,1,1,4:14 PM,4:01,Morant STEAL (1 STL),,Green Bad Pass Turnover (P2.T3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,128,2,74,1,4:14 PM,3:57,MISS Morant 1' Running Reverse Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,129,4,0,1,4:14 PM,3:56,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,131,6,6,1,4:15 PM,3:56,,,Curry AWAY.FROM.PLAY.FOUL (P2.PN) (K.Fitzgerald),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,133,3,10,1,4:15 PM,3:56,Melton Free Throw 1 of 1 (1 PTS),,,20 - 22,2,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,134,1,1,1,4:16 PM,3:45,Melton 26' 3PT Jump Shot (4 PTS) (Morant 2 AST),,,20 - 25,5,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,136,2,1,1,4:16 PM,3:29,,,MISS Wiggins 25' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,137,4,0,1,4:16 PM,3:26,Clarke REBOUND (Off:0 Def:1),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,138,5,4,1,4:16 PM,3:19,Clarke Traveling Turnover (P1.T4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100231,139,2,80,1,4:17 PM,3:08,,,MISS Curry 25' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,140,4,0,1,4:17 PM,3:06,Clarke REBOUND (Off:0 Def:2),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,141,2,1,1,4:17 PM,2:57,MISS Morant 26' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,144,4,0,1,4:17 PM,2:52,Melton REBOUND (Off:1 Def:1),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,146,8,0,1,4:17 PM,2:43,,,SUB: Thompson FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,147,8,0,1,4:17 PM,2:43,,,SUB: Looney FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,150,2,1,1,4:18 PM,2:40,MISS Melton 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,151,4,0,1,4:18 PM,2:38,,,Looney REBOUND (Off:0 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,152,2,101,1,4:18 PM,2:30,,,MISS Curry 10' Driving Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,153,4,0,1,4:18 PM,2:26,Clarke REBOUND (Off:0 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,154,2,101,1,4:18 PM,2:21,MISS Anderson 9' Driving Floating Jump Shot,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,155,4,0,1,4:18 PM,2:18,Anderson REBOUND (Off:2 Def:0),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,156,2,97,1,4:18 PM,2:18,MISS Anderson Tip Layup Shot,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,157,4,0,1,4:18 PM,2:18,,,Porter Jr. REBOUND (Off:1 Def:3),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,158,5,2,1,4:18 PM,2:07,Melton STEAL (1 STL),,Poole Lost Ball Turnover (P1.T4),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,160,2,1,1,4:18 PM,2:02,MISS Brooks 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,161,4,0,1,4:18 PM,1:58,,,Porter Jr. REBOUND (Off:1 Def:4),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,162,2,108,1,4:18 PM,1:52,Clarke BLOCK (1 BLK),,MISS Looney 1' Cutting Dunk Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,164,4,0,1,4:18 PM,1:47,Morant REBOUND (Off:0 Def:3),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,165,1,1,1,4:19 PM,1:44,Melton 3PT Jump Shot (7 PTS) (Brooks 1 AST),,,20 - 28,8,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,167,2,1,1,4:19 PM,1:19,,,MISS Thompson 27' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,168,4,0,1,4:19 PM,1:16,Morant REBOUND (Off:0 Def:4),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,169,1,101,1,4:19 PM,1:11,Morant 4' Driving Floating Jump Shot (12 PTS),,,20 - 30,10,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,170,2,101,1,4:19 PM,0:57,,,MISS Curry 4' Driving Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,171,4,0,1,4:19 PM,0:57,,,Looney REBOUND (Off:1 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,172,1,72,1,4:19 PM,0:57,,,Looney Putback Layup (2 PTS),22 - 30,8,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,173,2,101,1,4:20 PM,0:36,MISS Morant 11' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,174,4,0,1,4:20 PM,0:33,,,Poole REBOUND (Off:0 Def:2),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,175,2,5,1,4:20 PM,0:26,,,MISS Porter Jr. 2' Layup,,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,176,4,0,1,4:20 PM,0:24,Clarke REBOUND (Off:0 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,177,1,75,1,4:20 PM,0:03,Morant 1' Driving Finger Roll Layup (14 PTS),,,22 - 32,10,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,178,1,74,1,4:20 PM,0:00,,,Poole 1' Running Reverse Layup (4 PTS) (Porter Jr. 2 AST),24 - 32,8,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,180,13,0,1,4:21 PM,0:00,,End of 1st Period (4:21 PM EST),,24 - 32,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100231,191,12,0,2,4:24 PM,12:00,,Start of 2nd Period (4:24 PM EST),,24 - 32,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,192,1,43,2,4:25 PM,11:37,,,Looney 1' Alley Oop Layup (4 PTS) (Payton II 2 AST),26 - 32,6,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,194,1,6,2,4:25 PM,11:16,Jackson Jr. 2' Driving Layup (4 PTS) (Konchar 1 AST),,,26 - 34,8,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,196,2,1,2,4:25 PM,11:00,,,MISS Porter Jr. 26' 3PT Jump Shot,,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,197,4,0,2,4:25 PM,10:58,Konchar REBOUND (Off:0 Def:1),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,198,2,101,2,4:26 PM,10:51,MISS Jones 8' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,199,4,0,2,4:26 PM,10:49,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,200,6,3,2,4:26 PM,10:49,,,Thompson L.B.FOUL (P3.T1) (K.Fitzgerald),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,202,2,1,2,4:26 PM,10:43,MISS Bane 25' 3PT Jump Shot,,Thompson BLOCK (1 BLK),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1
+0042100231,204,4,0,2,4:26 PM,10:42,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,206,2,1,2,4:26 PM,10:40,MISS Jackson Jr. 24' 3PT Jump Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,207,4,0,2,4:26 PM,10:36,Konchar REBOUND (Off:1 Def:1),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,209,8,0,2,4:27 PM,10:35,,,SUB: Wiggins FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,211,5,2,2,4:27 PM,10:24,Jackson Jr. Lost Ball Turnover (P1.T5),,Looney STEAL (1 STL),,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,213,2,80,2,4:27 PM,10:17,,,MISS Poole 26' 3PT Step Back Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,214,4,0,2,4:27 PM,10:14,,,Payton II REBOUND (Off:2 Def:0),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,215,2,1,2,4:27 PM,10:11,,,MISS Poole 27' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,216,4,0,2,4:27 PM,10:08,,,Looney REBOUND (Off:2 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,217,6,1,2,4:27 PM,10:08,Konchar P.FOUL (P1.T1) (J.Williams),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,219,6,1,2,4:28 PM,10:05,Konchar P.FOUL (P2.T2) (G.Petraitis),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,221,6,2,2,4:28 PM,10:00,Jackson Jr. S.FOUL (P1.T3) (K.Fitzgerald),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,223,3,11,2,4:29 PM,10:00,,,MISS Wiggins Free Throw 1 of 2,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,224,4,1,2,4:29 PM,10:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,225,3,12,2,4:29 PM,10:00,,,Wiggins Free Throw 2 of 2 (4 PTS),27 - 34,7,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,226,1,57,2,4:29 PM,9:44,Jackson Jr. 7' Driving Hook Shot (6 PTS),,,27 - 36,9,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,227,6,2,2,4:30 PM,9:44,,,Wiggins S.FOUL (P1.T2) (K.Fitzgerald),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,229,3,10,2,4:30 PM,9:44,Jackson Jr. Free Throw 1 of 1 (7 PTS),,,27 - 37,10,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,230,6,4,2,4:30 PM,9:31,,,Payton II OFF.Foul (P3) (G.Petraitis),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,232,5,37,2,4:30 PM,9:31,,,Payton II Offensive Foul Turnover (P1.T5),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,233,1,79,2,4:31 PM,9:16,Bane 17' Pullup Jump Shot (6 PTS) (Jones 1 AST),,,27 - 39,12,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,235,6,2,2,4:31 PM,9:02,Jackson Jr. S.FOUL (P2.T4) (J.Williams),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,237,3,11,2,4:32 PM,9:02,,,Poole Free Throw 1 of 2 (5 PTS),28 - 39,11,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,238,8,0,2,4:32 PM,9:02,,,SUB: Lee FOR Payton II,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,241,8,0,2,4:32 PM,9:02,,,SUB: Green FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,240,3,12,2,4:32 PM,9:02,,,Poole Free Throw 2 of 2 (6 PTS),29 - 39,10,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,243,1,80,2,4:32 PM,8:46,Jackson Jr. 24' 3PT Step Back Jump Shot (10 PTS) (Bane 1 AST),,,29 - 42,13,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,245,2,80,2,4:33 PM,8:31,,,MISS Wiggins 21' Step Back Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042100231,246,4,0,2,4:33 PM,8:29,,,Green REBOUND (Off:1 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042100231,247,1,1,2,4:33 PM,8:24,,,Poole 26' 3PT Jump Shot (9 PTS) (Lee 1 AST),32 - 42,10,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,249,5,1,2,4:33 PM,8:13,Bane Bad Pass Turnover (P1.T6),,Green STEAL (3 STL),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,251,1,103,2,4:33 PM,8:09,,,Poole 26' 3PT Running Pull-Up Jump Shot (12 PTS) (Green 2 AST),35 - 42,7,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,253,9,1,2,4:33 PM,8:09,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,254,8,0,2,4:36 PM,8:09,SUB: Anderson FOR Jackson Jr.,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,256,2,79,2,4:37 PM,7:56,MISS Clarke 7' Pullup Jump Shot,,Green BLOCK (1 BLK),,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0042100231,258,4,0,2,4:37 PM,7:54,,,Green REBOUND (Off:1 Def:3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,259,2,98,2,4:37 PM,7:38,Konchar BLOCK (1 BLK),,MISS Wiggins 2' Cutting Layup Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,262,1,78,2,4:37 PM,7:30,,,Porter Jr. 5' Floating Jump Shot (2 PTS),37 - 42,5,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,261,4,0,2,4:37 PM,7:30,,,Porter Jr. REBOUND (Off:2 Def:4),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,263,2,6,2,4:37 PM,7:21,MISS Bane 2' Driving Layup,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,264,4,0,2,4:37 PM,7:19,,,Lee REBOUND (Off:0 Def:1),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,265,1,1,2,4:38 PM,7:05,,,Wiggins 21' Jump Shot (6 PTS),39 - 42,3,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,267,6,1,2,4:38 PM,6:50,,,Porter Jr. P.FOUL (P1.T3) (K.Fitzgerald),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,269,8,0,2,4:38 PM,6:50,SUB: Melton FOR Konchar,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,270,8,0,2,4:38 PM,6:50,,,SUB: Curry FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,271,8,0,2,4:38 PM,6:50,,,SUB: Kuminga FOR Porter Jr.,,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,275,1,6,2,4:39 PM,6:43,Clarke 1' Driving Layup (4 PTS) (Jones 2 AST),,,39 - 44,5,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,277,5,45,2,4:39 PM,6:38,,,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,278,2,102,2,4:40 PM,6:23,MISS Jones 2' Driving Floating Bank Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,280,4,0,2,4:40 PM,6:19,,,Kuminga REBOUND (Off:0 Def:1),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,281,5,2,2,4:40 PM,6:12,Bane STEAL (2 STL),,Lee Lost Ball Turnover (P1.T7),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,283,5,2,2,4:40 PM,5:59,Clarke Lost Ball Turnover (P2.T7),,Kuminga STEAL (1 STL),,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,285,2,2,2,4:40 PM,5:54,,,MISS Wiggins 24' 3PT Running Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,286,4,0,2,4:40 PM,5:50,Anderson REBOUND (Off:2 Def:1),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,287,1,75,2,4:40 PM,5:38,Melton 3' Driving Finger Roll Layup (9 PTS) (Jones 3 AST),,,39 - 46,7,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,289,9,1,2,4:40 PM,5:38,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,290,8,0,2,4:43 PM,5:38,SUB: Tillman FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,291,8,0,2,4:43 PM,5:38,SUB: Morant FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,292,8,0,2,4:43 PM,5:38,SUB: Brooks FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,293,8,0,2,4:43 PM,5:38,,,SUB: Poole FOR Lee,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,298,6,2,2,4:44 PM,5:25,Tillman S.FOUL (P1.PN) (K.Fitzgerald),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,300,3,11,2,4:45 PM,5:25,,,Green Free Throw 1 of 2 (3 PTS),40 - 46,6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,301,3,12,2,4:45 PM,5:25,,,MISS Green Free Throw 2 of 2,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,302,4,0,2,4:45 PM,5:19,,,Poole REBOUND (Off:1 Def:2),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,303,1,99,2,4:45 PM,5:13,,,Wiggins 2' Cutting Finger Roll Layup Shot (8 PTS) (Kuminga 1 AST),42 - 46,4,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,305,1,78,2,4:45 PM,4:56,Tillman 8' Floating Jump Shot (2 PTS) (Morant 3 AST),,,42 - 48,6,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,307,2,6,2,4:46 PM,4:46,,,MISS Curry 6' Driving Layup,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,308,4,0,2,4:46 PM,4:43,Anderson REBOUND (Off:2 Def:2),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,309,5,11,2,4:46 PM,4:21,GRIZZLIES Turnover: Shot Clock (T#8),,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0042100231,310,5,1,2,4:46 PM,4:05,Melton STEAL (2 STL),,Green Bad Pass Turnover (P4.T8),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,312,1,50,2,4:46 PM,4:02,Melton 1' Running Dunk (11 PTS),,,42 - 50,8,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,313,1,99,2,4:47 PM,3:39,,,Wiggins 1' Cutting Finger Roll Layup Shot (10 PTS) (Poole 1 AST),44 - 50,6,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,315,6,2,2,4:47 PM,3:39,Brooks S.FOUL (P2.PN) (J.Williams),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,317,3,10,2,4:48 PM,3:39,,,MISS Wiggins Free Throw 1 of 1,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,318,4,0,2,4:48 PM,3:36,Melton REBOUND (Off:1 Def:2),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,366,2,43,2,4:48 PM,3:28,MISS Morant 2' Alley Oop Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,367,4,0,2,4:48 PM,3:28,,,Poole REBOUND (Off:1 Def:3),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,321,6,4,2,4:48 PM,3:20,,,Kuminga OFF.Foul (P1) (G.Petraitis),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,323,5,37,2,4:48 PM,3:20,,,Kuminga Offensive Foul Turnover (P1.T9),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,324,8,0,2,4:48 PM,3:20,SUB: Jackson Jr. FOR Anderson,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,326,6,1,2,4:49 PM,3:07,,,Wiggins P.FOUL (P2.T4) (K.Fitzgerald),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,328,1,57,2,4:49 PM,3:02,Jackson Jr. 6' Driving Hook Shot (12 PTS) (Brooks 2 AST),,,44 - 52,8,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,330,1,98,2,4:49 PM,2:49,,,Green 3' Cutting Layup Shot (5 PTS) (Poole 2 AST),46 - 52,6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,332,6,2,2,4:49 PM,2:49,Brooks S.FOUL (P3.PN) (K.Fitzgerald),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,334,8,0,2,4:50 PM,2:49,SUB: Bane FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,335,8,0,2,4:50 PM,2:49,SUB: Clarke FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,338,3,10,2,4:50 PM,2:49,,,Green Free Throw 1 of 1 (6 PTS),47 - 52,5,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,339,2,1,2,4:50 PM,2:44,MISS Melton 26' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,340,4,0,2,4:50 PM,2:39,,,Wiggins REBOUND (Off:1 Def:1),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,341,5,45,2,4:50 PM,2:38,,,Green Out of Bounds - Bad Pass Turnover Turnover (P5.T10),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,342,2,1,2,4:51 PM,2:25,MISS Morant 25' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,343,4,0,2,4:51 PM,2:21,,,Poole REBOUND (Off:1 Def:4),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,344,1,50,2,4:51 PM,2:20,,,Kuminga 1' Running Dunk (2 PTS) (Poole 3 AST),49 - 52,3,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,346,2,47,2,4:51 PM,2:03,MISS Morant 5' Turnaround Jump Shot,,Poole BLOCK (1 BLK),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1
+0042100231,348,4,0,2,4:51 PM,1:58,,,Wiggins REBOUND (Off:1 Def:2),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,349,1,76,2,4:51 PM,1:55,,,Poole 1' Running Finger Roll Layup (14 PTS) (Green 3 AST),51 - 52,1,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,351,9,1,2,4:51 PM,1:55,GRIZZLIES Timeout: Regular (Full 3 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,352,6,1,2,4:53 PM,1:45,,,Poole P.FOUL (P1.PN) (K.Fitzgerald),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,354,3,11,2,4:54 PM,1:45,Jackson Jr. Free Throw 1 of 2 (13 PTS),,,51 - 53,2,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,355,3,12,2,4:54 PM,1:45,Jackson Jr. Free Throw 2 of 2 (14 PTS),,,51 - 54,3,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,357,6,2,2,4:54 PM,1:34,Jackson Jr. S.FOUL (P3.PN) (J.Williams),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,359,3,11,2,4:55 PM,1:34,,,Kuminga Free Throw 1 of 2 (3 PTS),52 - 54,2,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,360,8,0,2,4:55 PM,1:34,SUB: Anderson FOR Jackson Jr.,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,362,3,12,2,4:55 PM,1:34,,,Kuminga Free Throw 2 of 2 (4 PTS),53 - 54,1,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,363,6,15,2,4:55 PM,1:18,,,Green FLAGRANT.FOUL.TYPE2 (P1.PN) (J.Williams),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,365,18,1,2,4:56 PM,1:18,,Instant Replay2nd Period (4:56 PM EST),,53 - 54,1,0,363,Christian Laettner,,,,,0,0,,,,,,1,0,,,,,,0
+0042100231,369,11,4,2,4:59 PM,1:18,,,Green Ejection:Other,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,370,3,18,2,4:59 PM,1:18,Clarke Free Throw Flagrant 1 of 2 (5 PTS),,,53 - 55,2,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,371,3,19,2,4:59 PM,1:18,Clarke Free Throw Flagrant 2 of 2 (6 PTS),,,53 - 56,3,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,372,8,0,2,5:00 PM,1:18,,,SUB: Porter Jr. FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,375,6,1,2,5:00 PM,1:15,,,Curry P.FOUL (P3.PN) (K.Fitzgerald),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,377,3,11,2,5:01 PM,1:15,Clarke Free Throw 1 of 2 (7 PTS),,,53 - 57,4,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,378,3,12,2,5:01 PM,1:15,MISS Clarke Free Throw 2 of 2,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,379,4,0,2,5:01 PM,1:13,,,Porter Jr. REBOUND (Off:2 Def:5),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,380,2,101,2,5:01 PM,0:51,Melton BLOCK (1 BLK),,MISS Curry 2' Driving Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,382,4,0,2,5:01 PM,0:48,Melton REBOUND (Off:1 Def:3),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,383,1,106,2,5:01 PM,0:47,Morant 1' Running Alley Oop Dunk Shot (16 PTS) (Melton 1 AST),,,53 - 59,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,385,2,75,2,5:02 PM,0:27,Clarke BLOCK (2 BLK),,MISS Poole 1' Driving Finger Roll Layup,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,386,4,0,2,5:02 PM,0:25,Clarke REBOUND (Off:0 Def:5),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,387,5,1,2,5:02 PM,0:23,Clarke Bad Pass Turnover (P3.T9),,Porter Jr. STEAL (1 STL),,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,390,2,99,2,5:02 PM,0:14,,,MISS Kuminga 1' Cutting Finger Roll Layup Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,391,4,0,2,5:02 PM,0:12,,,Kuminga REBOUND (Off:1 Def:1),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,392,1,87,2,5:02 PM,0:12,,,Kuminga Putback Dunk (6 PTS),55 - 59,4,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,393,1,101,2,5:02 PM,0:00,Morant 7' Driving Floating Jump Shot (18 PTS),,,55 - 61,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,394,18,0,2,5:03 PM,0:00,,Instant Replay2nd Period (5:03 PM EST),,55 - 61,6,0,393,Rod Strickland,,,,,0,0,,,,,,1,0,,,,,,0
+0042100231,395,13,0,2,5:03 PM,0:00,,End of 2nd Period (5:03 PM EST),,55 - 61,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100231,406,12,0,3,5:19 PM,12:00,,Start of 3rd Period (5:19 PM EST),,55 - 61,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,407,2,79,3,5:19 PM,11:44,,,MISS Poole 25' 3PT Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,408,4,0,3,5:19 PM,11:42,Jackson Jr. REBOUND (Off:2 Def:3),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,409,5,1,3,5:19 PM,11:31,Jackson Jr. Bad Pass Turnover (P2.T10),,Thompson STEAL (1 STL),,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,411,1,76,3,5:19 PM,11:29,,,Thompson 2' Running Finger Roll Layup (5 PTS),57 - 61,4,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,412,1,79,3,5:20 PM,11:13,Bane 10' Pullup Jump Shot (8 PTS),,,57 - 63,6,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,413,1,98,3,5:20 PM,10:56,,,Looney 1' Cutting Layup Shot (6 PTS) (Poole 4 AST),59 - 63,4,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,415,2,47,3,5:20 PM,10:34,MISS Tillman 12' Turnaround Jump Shot,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,416,4,0,3,5:20 PM,10:31,,,Looney REBOUND (Off:2 Def:2),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,417,5,1,3,5:20 PM,10:20,Tillman STEAL (1 STL),,Looney Bad Pass Turnover (P1.T11),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,419,1,80,3,5:21 PM,10:09,Morant 26' 3PT Step Back Jump Shot (21 PTS),,,59 - 66,7,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,420,1,75,3,5:21 PM,9:59,,,Poole 1' Driving Finger Roll Layup (16 PTS),61 - 66,5,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,421,2,1,3,5:21 PM,9:43,MISS Bane 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,422,4,0,3,5:21 PM,9:39,,,Looney REBOUND (Off:2 Def:3),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,423,6,1,3,5:21 PM,9:35,Bane P.FOUL (P1.T1) (G.Petraitis),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,425,2,101,3,5:22 PM,9:27,,,MISS Thompson 3' Driving Floating Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,426,4,0,3,5:22 PM,9:23,Brooks REBOUND (Off:0 Def:2),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,427,2,79,3,5:22 PM,9:14,MISS Brooks 26' 3PT Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,428,4,0,3,5:22 PM,9:14,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,430,1,80,3,5:22 PM,9:04,,,Curry 22' Step Back Jump Shot (10 PTS),63 - 66,3,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,431,2,101,3,5:22 PM,8:51,MISS Jackson Jr. 7' Driving Floating Jump Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,432,4,0,3,5:22 PM,8:49,,,Thompson REBOUND (Off:0 Def:1),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,433,1,80,3,5:23 PM,8:35,,,Curry 18' Step Back Jump Shot (12 PTS),65 - 66,1,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,434,2,79,3,5:23 PM,8:14,MISS Morant 28' 3PT Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,435,4,0,3,5:23 PM,8:10,,,Wiggins REBOUND (Off:1 Def:3),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,436,1,1,3,5:23 PM,8:07,,,Curry 3PT Jump Shot (15 PTS) (Poole 5 AST),68 - 66,-2,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,438,6,2,3,5:23 PM,8:07,Morant S.FOUL (P2.T2) (K.Fitzgerald),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,440,9,1,3,5:24 PM,8:07,GRIZZLIES Timeout: Regular (Full 4 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,441,8,0,3,5:26 PM,8:07,SUB: Clarke FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,443,3,10,3,5:27 PM,8:07,,,MISS Curry Free Throw 1 of 1,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042100231,444,4,0,3,5:27 PM,8:05,Jackson Jr. REBOUND (Off:2 Def:4),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0042100231,445,2,1,3,5:28 PM,7:51,MISS Bane 26' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0042100231,446,4,0,3,5:28 PM,7:48,,,Looney REBOUND (Off:2 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,447,5,40,3,5:28 PM,7:37,,,Poole Out of Bounds Lost Ball Turnover (P2.T12),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,448,2,79,3,5:28 PM,7:26,MISS Brooks 15' Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,449,4,0,3,5:28 PM,7:24,,,Wiggins REBOUND (Off:1 Def:4),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,450,2,1,3,5:28 PM,7:17,,,MISS Curry 25' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,451,4,0,3,5:28 PM,7:11,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100231,452,6,1,3,5:29 PM,7:11,,,Looney P.FOUL (P1.T1) (J.Williams),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,455,6,1,3,5:29 PM,6:52,,,Wiggins P.FOUL (P3.T2) (K.Fitzgerald),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,457,1,1,3,5:30 PM,6:44,Jackson Jr. 26' 3PT Jump Shot (17 PTS) (Morant 4 AST),,,68 - 69,1,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,459,2,79,3,5:30 PM,6:25,Jackson Jr. BLOCK (1 BLK),,MISS Wiggins 12' Pullup Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,461,4,0,3,5:30 PM,6:22,Morant REBOUND (Off:0 Def:5),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,462,1,76,3,5:30 PM,6:20,Morant 1' Running Finger Roll Layup (23 PTS),,,68 - 71,3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,463,9,1,3,5:30 PM,6:20,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,464,6,2,3,5:34 PM,6:02,Brooks S.FOUL (P4.T3) (J.Williams),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,466,3,13,3,5:35 PM,6:02,,,Curry Free Throw 1 of 3 (16 PTS),69 - 71,2,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,467,3,14,3,5:35 PM,6:02,,,Curry Free Throw 2 of 3 (17 PTS),70 - 71,1,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,468,8,0,3,5:35 PM,6:02,SUB: Melton FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,470,3,15,3,5:35 PM,6:02,,,Curry Free Throw 3 of 3 (18 PTS),71 - 71,TIE,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,471,2,101,3,5:35 PM,5:53,MISS Morant 1' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,472,4,0,3,5:36 PM,5:50,Clarke REBOUND (Off:1 Def:5),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,473,2,97,3,5:36 PM,5:50,MISS Clarke Tip Layup Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,474,4,0,3,5:36 PM,5:50,,,Curry REBOUND (Off:0 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,475,1,108,3,5:36 PM,5:41,,,Looney Cutting Dunk Shot (8 PTS) (Thompson 1 AST),73 - 71,-2,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,478,5,45,3,5:36 PM,5:40,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100231,479,1,1,3,5:36 PM,5:31,,,Poole 25' 3PT Jump Shot (19 PTS) (Looney 1 AST),76 - 71,-5,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,481,1,57,3,5:37 PM,5:11,Jackson Jr. 6' Driving Hook Shot (19 PTS) (Morant 5 AST),,,76 - 73,-3,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,483,2,1,3,5:37 PM,5:02,,,MISS Thompson 9' Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,484,4,0,3,5:37 PM,5:00,Morant REBOUND (Off:0 Def:6),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,485,1,2,3,5:37 PM,4:54,Jackson Jr. 26' 3PT Running Jump Shot (22 PTS) (Morant 6 AST),,,76 - 76,TIE,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,487,1,1,3,5:37 PM,4:39,,,Wiggins 3PT Jump Shot (13 PTS) (Thompson 2 AST),79 - 76,-3,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,489,1,1,3,5:37 PM,4:30,Jackson Jr. 28' 3PT Jump Shot (25 PTS) (Morant 7 AST),,,79 - 79,TIE,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,491,2,1,3,5:38 PM,4:15,,,MISS Curry 18' Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,492,4,0,3,5:38 PM,4:15,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,494,8,0,3,5:38 PM,4:15,,,SUB: Payton II FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,496,2,3,3,5:38 PM,4:02,MISS Jackson Jr. 10' Hook Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,497,4,0,3,5:38 PM,4:01,Jackson Jr. REBOUND (Off:3 Def:4),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,498,2,1,3,5:38 PM,3:59,MISS Morant 26' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,499,4,0,3,5:38 PM,3:55,Clarke REBOUND (Off:2 Def:5),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,500,1,80,3,5:38 PM,3:54,Melton 27' 3PT Step Back Jump Shot (14 PTS) (Clarke 1 AST),,,79 - 82,3,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,502,1,71,3,5:39 PM,3:29,,,Poole 1' Finger Roll Layup (21 PTS) (Payton II 3 AST),81 - 82,1,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,504,2,1,3,5:39 PM,3:10,MISS Jackson Jr. 28' 3PT Jump Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,505,4,0,3,5:39 PM,3:08,Clarke REBOUND (Off:3 Def:5),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,506,1,1,3,5:39 PM,3:06,Jackson Jr. 26' 3PT Jump Shot (28 PTS) (Clarke 2 AST),,,81 - 85,4,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,508,1,1,3,5:39 PM,2:50,,,Poole 26' 3PT Jump Shot (24 PTS) (Curry 4 AST),84 - 85,1,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,510,5,4,3,5:40 PM,2:33,Morant Traveling Turnover (P3.T12),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100231,511,8,0,3,5:40 PM,2:33,,,SUB: Porter Jr. FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,512,8,0,3,5:40 PM,2:33,,,SUB: Thompson FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,515,1,1,3,5:40 PM,2:20,,,Curry 25' 3PT Jump Shot (21 PTS) (Looney 2 AST),87 - 85,-2,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,517,2,1,3,5:41 PM,2:01,MISS Morant 19' Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,518,4,0,3,5:41 PM,1:58,Jackson Jr. REBOUND (Off:4 Def:4),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,519,5,1,3,5:41 PM,1:57,Jackson Jr. Bad Pass Turnover (P3.T13),,Thompson STEAL (2 STL),,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,521,5,1,3,5:41 PM,1:47,Morant STEAL (2 STL),,Payton II Bad Pass Turnover (P2.T13),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,523,6,1,3,5:41 PM,1:46,,,Looney P.FOUL (P2.T3) (J.Williams),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,525,8,0,3,5:41 PM,1:46,SUB: Anderson FOR Morant,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,526,8,0,3,5:41 PM,1:46,SUB: Jones FOR Jackson Jr.,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,529,8,0,3,5:41 PM,1:46,,,SUB: Kuminga FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,531,6,2,3,5:42 PM,1:38,,,Porter Jr. S.FOUL (P2.PN) (K.Fitzgerald),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,533,3,11,3,5:42 PM,1:38,Clarke Free Throw 1 of 2 (8 PTS),,,87 - 86,-1,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,534,3,12,3,5:42 PM,1:38,MISS Clarke Free Throw 2 of 2,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0042100231,535,4,0,3,5:42 PM,1:35,,,Kuminga REBOUND (Off:1 Def:2),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042100231,536,1,108,3,5:43 PM,1:18,,,Thompson 1' Cutting Dunk Shot (7 PTS) (Porter Jr. 3 AST),89 - 86,-3,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,538,6,1,3,5:43 PM,1:03,,,Curry P.FOUL (P4.PN) (J.Williams),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,540,3,11,3,5:44 PM,1:03,Anderson Free Throw 1 of 2 (1 PTS),,,89 - 87,-2,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,541,8,0,3,5:44 PM,1:03,SUB: Konchar FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,542,8,0,3,5:44 PM,1:03,,,SUB: Poole FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,545,3,12,3,5:44 PM,1:03,Anderson Free Throw 2 of 2 (2 PTS),,,89 - 88,-1,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,546,2,102,3,5:44 PM,0:50,,,MISS Poole 4' Driving Floating Bank Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,547,4,0,3,5:44 PM,0:49,,,Payton II REBOUND (Off:3 Def:0),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,548,1,97,3,5:44 PM,0:49,,,Payton II Tip Layup Shot (4 PTS),91 - 88,-3,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,549,5,1,3,5:45 PM,0:28,Melton Bad Pass Turnover (P1.T14),,Payton II STEAL (1 STL),,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,551,5,2,3,5:45 PM,0:23,Melton STEAL (3 STL),,Payton II Lost Ball Turnover (P3.T14),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,553,1,79,3,5:45 PM,0:07,Jones 24' Pullup Jump Shot (2 PTS),,,91 - 90,-1,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,554,5,2,3,5:45 PM,0:00,Jones STEAL (1 STL),,Poole Lost Ball Turnover (P3.T15),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,556,13,0,3,5:45 PM,0:00,,End of 3rd Period (5:45 PM EST),,91 - 90,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042100231,559,12,0,4,5:49 PM,12:00,,Start of 4th Period (5:49 PM EST),,91 - 90,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,560,2,79,4,5:49 PM,11:41,MISS Brooks 12' Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,561,4,0,4,5:50 PM,11:36,,,Payton II REBOUND (Off:3 Def:1),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,562,2,80,4,5:50 PM,11:17,,,MISS Poole 3PT Step Back Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,563,4,0,4,5:50 PM,11:16,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,564,6,3,4,5:50 PM,11:16,Anderson L.B.FOUL (P2.T1) (K.Fitzgerald),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,566,1,1,4,5:50 PM,11:04,,,Poole 25' 3PT Jump Shot (27 PTS) (Thompson 3 AST),94 - 90,-4,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,568,1,1,4,5:51 PM,10:49,Brooks 26' 3PT Jump Shot (6 PTS) (Konchar 2 AST),,,94 - 93,-1,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,570,6,1,4,5:51 PM,10:37,Brooks P.FOUL (P5.T2) (G.Petraitis),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,572,8,0,4,5:51 PM,10:37,SUB: Morant FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,574,2,63,4,5:51 PM,10:27,,,MISS Thompson 16' Fadeaway Jumper,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,575,4,0,4,5:51 PM,10:25,Konchar REBOUND (Off:1 Def:2),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,576,2,58,4,5:52 PM,10:15,MISS Anderson 8' Turnaround Hook Shot,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,577,4,0,4,5:52 PM,10:13,,,Kuminga REBOUND (Off:1 Def:3),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,578,2,73,4,5:52 PM,10:02,Anderson BLOCK (1 BLK),,MISS Poole 3' Driving Reverse Layup,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,580,4,0,4,5:52 PM,10:02,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,582,2,1,4,5:52 PM,9:59,,,MISS Thompson 18' Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,583,4,0,4,5:52 PM,9:57,,,Poole REBOUND (Off:2 Def:4),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,584,1,44,4,5:52 PM,9:55,,,Poole 4' Reverse Layup (29 PTS),96 - 93,-3,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,585,2,1,4,5:53 PM,9:38,MISS Jones 3PT Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,586,4,0,4,5:53 PM,9:35,,,Porter Jr. REBOUND (Off:2 Def:6),,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,587,1,79,4,5:53 PM,9:28,,,Thompson 24' 3PT Pullup Jump Shot (10 PTS) (Poole 6 AST),99 - 93,-6,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,589,9,1,4,5:53 PM,9:28,GRIZZLIES Timeout: Regular (Full 5 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,590,8,0,4,5:56 PM,9:28,SUB: Melton FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,591,8,0,4,5:56 PM,9:28,SUB: Jackson Jr. FOR Konchar,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,594,5,1,4,5:57 PM,9:13,Anderson Bad Pass Turnover (P1.T15),,Porter Jr. STEAL (2 STL),,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,596,1,76,4,5:57 PM,9:08,,,Poole Running Finger Roll Layup (31 PTS),101 - 93,-8,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,597,2,101,4,5:57 PM,8:44,MISS Morant 8' Driving Floating Jump Shot,,Payton II BLOCK (1 BLK),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1
+0042100231,599,4,0,4,5:57 PM,8:41,,,Kuminga REBOUND (Off:1 Def:4),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,600,1,99,4,5:58 PM,8:25,,,Thompson 1' Cutting Finger Roll Layup Shot (12 PTS) (Poole 7 AST),103 - 93,-10,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,602,2,101,4,5:58 PM,8:09,MISS Jackson Jr. 8' Driving Floating Jump Shot,,Poole BLOCK (2 BLK),,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1
+0042100231,604,4,0,4,5:58 PM,8:08,Jackson Jr. REBOUND (Off:5 Def:4),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,605,6,1,4,5:58 PM,8:08,,,Poole P.FOUL (P2.T1) (G.Petraitis),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,607,8,0,4,5:58 PM,8:08,SUB: Bane FOR Anderson,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,608,8,0,4,5:58 PM,8:08,SUB: Brooks FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,611,6,6,4,5:59 PM,8:06,,,Payton II AWAY.FROM.PLAY.FOUL (P4.T2) (G.Petraitis),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,613,3,10,4,5:59 PM,8:06,Bane Free Throw 1 of 1 (9 PTS),,,103 - 94,-9,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,614,1,79,4,5:59 PM,7:57,Morant 27' 3PT Pullup Jump Shot (26 PTS),,,103 - 97,-6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,615,2,1,4,6:00 PM,7:39,,,MISS Thompson 25' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,616,4,0,4,6:00 PM,7:37,Melton REBOUND (Off:1 Def:4),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,617,2,1,4,6:00 PM,7:30,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,618,4,0,4,6:00 PM,7:26,,,Payton II REBOUND (Off:3 Def:2),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,619,9,1,4,6:00 PM,7:23,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,620,8,0,4,6:03 PM,7:23,,,SUB: Curry FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,622,2,101,4,6:04 PM,7:11,,,MISS Porter Jr. 5' Driving Floating Jump Shot,,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,624,4,0,4,6:04 PM,7:07,Morant REBOUND (Off:0 Def:7),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,626,6,2,4,6:05 PM,7:01,,,Kuminga S.FOUL (P2.T3) (J.Williams),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,628,3,11,4,6:05 PM,7:01,Jackson Jr. Free Throw 1 of 2 (29 PTS),,,103 - 98,-5,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,629,3,12,4,6:05 PM,7:01,Jackson Jr. Free Throw 2 of 2 (30 PTS),,,103 - 99,-4,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,630,2,86,4,6:06 PM,6:40,,,MISS Thompson 13' Turnaround Fadeaway Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,631,4,0,4,6:06 PM,6:38,Morant REBOUND (Off:0 Def:8),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,632,1,1,4,6:06 PM,6:29,Jackson Jr. 28' 3PT Jump Shot (33 PTS) (Brooks 3 AST),,,103 - 102,-1,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,634,2,1,4,6:06 PM,6:09,,,MISS Thompson 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,635,4,0,4,6:06 PM,6:06,,,Payton II REBOUND (Off:4 Def:2),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,636,2,1,4,6:06 PM,6:01,,,MISS Curry 25' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,637,4,0,4,6:07 PM,5:57,Melton REBOUND (Off:1 Def:5),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,638,2,1,4,6:07 PM,5:47,MISS Morant 25' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,639,4,0,4,6:07 PM,5:44,,,Kuminga REBOUND (Off:1 Def:5),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,640,1,108,4,6:07 PM,5:37,,,Payton II 1' Cutting Dunk Shot (6 PTS) (Porter Jr. 4 AST),105 - 102,-3,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,643,2,79,4,6:07 PM,5:22,MISS Morant 26' 3PT Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,644,4,0,4,6:07 PM,5:20,,,Curry REBOUND (Off:0 Def:2),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,645,6,26,4,6:08 PM,5:08,,,Curry Offensive Charge Foul (P5) (J.Williams),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,647,5,37,4,6:08 PM,5:08,,,Curry Offensive Foul Turnover (P1.T16),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042100231,648,9,1,4,6:08 PM,5:08,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,649,18,6,4,6:08 PM,5:08,,Instant Replay4th Period (6:08 PM EST),,105 - 102,-3,0,645,,,,,,0,0,,,,,,1,0,,,,,,1
+0042100231,650,8,0,4,6:10 PM,5:08,SUB: Clarke FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,651,8,0,4,6:10 PM,5:08,,,SUB: Looney FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,652,8,0,4,6:10 PM,5:08,,,SUB: Poole FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,653,8,0,4,6:10 PM,5:08,,,SUB: Wiggins FOR Porter Jr.,,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,658,2,1,4,6:11 PM,4:57,MISS Jackson Jr. 26' 3PT Jump Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,659,4,0,4,6:11 PM,4:54,Melton REBOUND (Off:2 Def:5),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,660,1,101,4,6:11 PM,4:46,Morant 8' Driving Floating Jump Shot (28 PTS),,,105 - 104,-1,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,661,1,79,4,6:11 PM,4:26,,,Curry 26' 3PT Pullup Jump Shot (24 PTS),108 - 104,-4,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,662,2,79,4,6:12 PM,4:02,MISS Melton 25' 3PT Pullup Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,663,4,0,4,6:12 PM,4:00,,,Curry REBOUND (Off:0 Def:3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,664,2,79,4,6:12 PM,3:49,,,MISS Curry 26' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,670,4,0,4,6:12 PM,3:46,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,665,8,0,4,6:12 PM,3:46,,,SUB: Thompson FOR Payton II,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,667,10,0,4,6:13 PM,3:42,Jump Ball Brooks vs. Looney: Tip to Morant,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,671,1,75,4,6:13 PM,3:39,Morant Driving Finger Roll Layup (30 PTS),,,108 - 106,-2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,672,5,1,4,6:13 PM,3:27,Morant STEAL (3 STL),,Poole Bad Pass Turnover (P4.T17),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,674,1,44,4,6:14 PM,3:22,Clarke 1' Reverse Layup (10 PTS) (Morant 8 AST),,,108 - 108,TIE,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,677,6,2,4,6:14 PM,3:05,Clarke S.FOUL (P1.T3) (K.Fitzgerald),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,679,3,11,4,6:14 PM,3:05,,,Wiggins Free Throw 1 of 2 (14 PTS),109 - 108,-1,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,680,8,0,4,6:15 PM,3:05,SUB: Bane FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,682,3,12,4,6:15 PM,3:05,,,Wiggins Free Throw 2 of 2 (15 PTS),110 - 108,-2,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,683,1,9,4,6:15 PM,2:53,Brooks 1' Driving Dunk (8 PTS) (Morant 9 AST),,,110 - 110,TIE,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,685,2,1,4,6:15 PM,2:37,,,MISS Wiggins 24' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,686,4,0,4,6:16 PM,2:35,Morant REBOUND (Off:0 Def:9),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,687,1,75,4,6:16 PM,2:19,Morant 1' Driving Finger Roll Layup (32 PTS),,,110 - 112,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,688,6,2,4,6:16 PM,2:19,,,Poole S.FOUL (P3.T4) (K.Fitzgerald),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042100231,690,8,0,4,6:16 PM,2:19,,,SUB: Payton II FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,692,3,10,4,6:17 PM,2:19,MISS Morant Free Throw 1 of 1,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,693,4,0,4,6:17 PM,2:19,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,695,2,80,4,6:17 PM,2:08,,,MISS Curry 26' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,696,4,0,4,6:17 PM,2:04,,,Poole REBOUND (Off:3 Def:4),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,697,1,7,4,6:17 PM,2:02,,,Wiggins Dunk (17 PTS) (Poole 8 AST),112 - 112,TIE,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,699,1,101,4,6:18 PM,1:43,Morant 8' Driving Floating Jump Shot (34 PTS),,,112 - 114,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,700,1,5,4,6:18 PM,1:35,,,Payton II Layup (8 PTS),114 - 114,TIE,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,702,2,75,4,6:18 PM,1:21,MISS Morant 3' Driving Finger Roll Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,703,4,0,4,6:18 PM,1:20,Jackson Jr. REBOUND (Off:6 Def:4),,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,704,2,97,4,6:18 PM,1:20,MISS Jackson Jr. Tip Layup Shot,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,705,4,0,4,6:18 PM,1:19,,,Payton II REBOUND (Off:4 Def:3),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042100231,762,5,40,4,6:18 PM,1:17,,,Payton II Out of Bounds Lost Ball Turnover (P4.T18),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0042100231,707,9,7,4,6:18 PM,1:17,GRIZZLIES Timeout: Coach Challenge (Full 5 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,708,18,5,4,6:19 PM,1:17,,Instant Replay4th Period (6:19 PM EST),,114 - 114,TIE,0,706,Jerome Allen,,,,,0,0,,,,,,1,0,,,,,,1
+0042100231,709,1,43,4,6:21 PM,1:16,Clarke 4' Alley Oop Layup (12 PTS) (Morant 10 AST),,,114 - 116,2,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042100231,711,2,79,4,6:22 PM,0:58,,,MISS Thompson 25' 3PT Pullup Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,712,4,0,4,6:22 PM,0:55,,,Wiggins REBOUND (Off:2 Def:4),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,713,2,1,4,6:22 PM,0:49,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,714,4,0,4,6:22 PM,0:45,,,Wiggins REBOUND (Off:3 Def:4),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,736,2,97,4,6:23 PM,0:44,,,MISS Wiggins 2' Tip Layup Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,737,4,0,4,6:23 PM,0:42,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,715,10,0,4,6:23 PM,0:39,Jump Ball Brooks vs. Thompson: Tip to Clarke,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,720,5,39,4,6:24 PM,0:39,Clarke Step Out of Bounds Turnover (P4.T16),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042100231,721,1,79,4,6:24 PM,0:36,,,Thompson 26' 3PT Pullup Jump Shot (15 PTS) (Poole 9 AST),117 - 116,-1,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042100231,723,2,6,4,6:24 PM,0:19,MISS Morant 2' Driving Layup,,Curry BLOCK (1 BLK),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1
+0042100231,725,4,0,4,6:24 PM,0:16,,,Poole REBOUND (Off:3 Def:5),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,726,6,28,4,6:24 PM,0:11,Morant Personal Take Foul (P3.T4) (J.Williams),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,728,9,1,4,6:25 PM,0:11,,,Warriors Timeout: Regular (Reg.6 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,729,8,0,4,6:26 PM,0:11,SUB: Melton FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,730,8,0,4,6:26 PM,0:11,,,SUB: Lee FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,731,8,0,4,6:26 PM,0:11,,,SUB: Porter Jr. FOR Payton II,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,735,6,1,4,6:27 PM,0:06,Clarke P.FOUL (P2.PN) (K.Fitzgerald),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042100231,739,3,11,4,6:27 PM,0:06,,,MISS Thompson Free Throw 1 of 2,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,740,4,1,4,6:27 PM,0:06,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,745,3,12,4,6:27 PM,0:06,,,MISS Thompson Free Throw 2 of 2,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042100231,741,8,0,4,6:27 PM,0:06,,,SUB: Wiggins FOR Lee,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,742,8,0,4,6:27 PM,0:06,,,SUB: Payton II FOR Porter Jr.,,,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,751,4,0,4,6:27 PM,0:04,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,746,8,0,4,6:29 PM,0:04,,,SUB: Porter Jr. FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,748,10,0,4,6:29 PM,0:03,Jump Ball Jackson Jr. vs. Wiggins: Tip to Clarke,,,,,4,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042100231,752,9,1,4,6:29 PM,0:03,GRIZZLIES Timeout: Regular (Full 6 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042100231,753,8,0,4,6:31 PM,0:03,SUB: Bane FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042100231,754,8,0,4,6:31 PM,0:03,,,SUB: Toscano-Anderson FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042100231,758,2,75,4,6:32 PM,0:00,MISS Morant 2' Driving Finger Roll Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042100231,759,4,0,4,6:32 PM,0:00,,,Wiggins REBOUND (Off:3 Def:5),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042100231,760,13,0,4,6:32 PM,0:00,,End of 4th Period (6:32 PM EST),,117 - 116,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
