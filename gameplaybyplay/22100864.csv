@@ -1,0 +1,473 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100864,2,12,0,1,9:14 PM,12:00,,Start of 1st Period (9:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,4,10,0,1,9:14 PM,12:00,Jump Ball Jokic vs. Bamba: Tip to Je. Green,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1
+0022100864,7,2,1,1,9:14 PM,11:36,MISS Jokic 15' Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,8,4,0,1,9:14 PM,11:33,,,Anthony REBOUND (Off:0 Def:1),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,9,5,1,1,9:14 PM,11:22,Gordon STEAL (1 STL),,Suggs Bad Pass Turnover (P1.T1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,11,5,2,1,9:14 PM,11:17,Jokic Lost Ball Turnover (P1.T1),,Wagner STEAL (1 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,13,1,100,1,9:14 PM,11:11,,,Suggs 3' Running Alley Oop Layup Shot (2 PTS) (Wagner 1 AST),2 - 0,-2,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,15,1,1,1,9:15 PM,10:55,Gordon 25' 3PT Jump Shot (3 PTS) (Jokic 1 AST),,,2 - 3,1,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,17,2,1,1,9:15 PM,10:38,,,MISS Bamba 26' 3PT Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,18,4,0,1,9:15 PM,10:36,Gordon REBOUND (Off:0 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,19,2,1,1,9:15 PM,10:30,MISS Je. Green 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,20,4,0,1,9:15 PM,10:27,Hyland REBOUND (Off:1 Def:0),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,21,2,1,1,9:15 PM,10:24,MISS Barton 24' 3PT Jump Shot,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,22,4,0,1,9:15 PM,10:20,,,Carter Jr. REBOUND (Off:0 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,23,1,63,1,9:15 PM,10:11,,,Carter Jr. 15' Fadeaway Jumper (2 PTS),4 - 3,-1,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,24,2,86,1,9:16 PM,9:50,MISS Gordon 14' Turnaround Fadeaway Shot,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,25,4,0,1,9:16 PM,9:48,,,Bamba REBOUND (Off:0 Def:1),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,26,2,1,1,9:16 PM,9:38,,,MISS Anthony 26' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,27,4,0,1,9:16 PM,9:34,Je. Green REBOUND (Off:0 Def:1),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,28,1,41,1,9:16 PM,9:30,Barton 4' Running Layup (2 PTS) (Je. Green 1 AST),,,4 - 5,1,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,30,2,78,1,9:16 PM,9:04,,,MISS Bamba 12' Floating Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,31,4,0,1,9:16 PM,9:00,Je. Green REBOUND (Off:0 Def:2),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,32,5,45,1,9:17 PM,8:50,Barton Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,33,2,1,1,9:17 PM,8:35,,,MISS Wagner 24' 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,34,4,0,1,9:17 PM,8:35,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,35,6,3,1,9:17 PM,8:35,,,Bamba L.B.FOUL (P1.T1) (D.Scott),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,37,2,41,1,9:17 PM,8:32,MISS Je. Green 3' Running Layup,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,38,4,0,1,9:17 PM,8:29,,,Bamba REBOUND (Off:0 Def:2),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,39,5,45,1,9:18 PM,8:13,,,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,40,1,1,1,9:18 PM,7:54,Jokic 16' Jump Shot (2 PTS),,,4 - 7,3,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,41,2,1,1,9:18 PM,7:40,,,MISS Bamba 27' 3PT Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,42,4,0,1,9:18 PM,7:38,Jokic REBOUND (Off:0 Def:1),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,43,2,1,1,9:18 PM,7:31,MISS Jokic 25' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,44,4,0,1,9:19 PM,7:26,,,Suggs REBOUND (Off:0 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,45,5,40,1,9:19 PM,7:23,,,Bamba Out of Bounds Lost Ball Turnover (P1.T3),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,46,1,50,1,9:19 PM,7:20,Je. Green Running Dunk (2 PTS) (Jokic 2 AST),,,4 - 9,5,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,48,9,1,1,9:19 PM,7:19,,,Magic Timeout: Regular (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,49,8,0,1,9:21 PM,7:19,,,SUB: Harris FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,50,8,0,1,9:21 PM,7:19,,,SUB: Okeke FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,53,5,1,1,9:22 PM,7:06,Jokic STEAL (1 STL),,Wagner Bad Pass Turnover (P1.T4),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,55,2,1,1,9:22 PM,6:59,MISS Jokic 25' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,56,4,0,1,9:22 PM,6:56,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,57,2,1,1,9:22 PM,6:41,,,MISS Wagner 26' 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,58,4,0,1,9:22 PM,6:39,Gordon REBOUND (Off:0 Def:2),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,59,1,1,1,9:23 PM,6:25,Jokic 26' 3PT Jump Shot (5 PTS),,,4 - 12,8,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,60,2,1,1,9:23 PM,6:00,,,MISS Harris 27' 3PT Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,61,4,0,1,9:23 PM,5:57,Jokic REBOUND (Off:0 Def:2),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,62,2,101,1,9:23 PM,5:49,MISS Barton 7' Driving Floating Jump Shot,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,63,4,0,1,9:23 PM,5:49,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,64,5,1,1,9:24 PM,5:48,Hyland Bad Pass Turnover (P1.T3),,Okeke STEAL (1 STL),,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,66,6,28,1,9:24 PM,5:48,Je. Green Personal Take Foul (P1.T1) (D.Scott),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,68,2,1,1,9:24 PM,5:37,,,MISS Carter Jr. 27' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,69,4,0,1,9:24 PM,5:33,,,Wagner REBOUND (Off:1 Def:0),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,70,1,1,1,9:24 PM,5:28,,,Okeke 3PT Jump Shot (3 PTS) (Wagner 2 AST),7 - 12,5,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,72,1,1,1,9:24 PM,5:10,Hyland 25' 3PT Jump Shot (3 PTS) (Jokic 3 AST),,,7 - 15,8,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,74,2,79,1,9:25 PM,5:02,,,MISS Anthony 31' 3PT Pullup Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,75,4,0,1,9:25 PM,4:59,Je. Green REBOUND (Off:0 Def:3),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,76,6,1,1,9:25 PM,4:49,,,Wagner P.FOUL (P1.T2) (P.Fraher),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,78,8,0,1,9:25 PM,4:49,,,SUB: Ross FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,80,1,79,1,9:25 PM,4:42,Barton 19' Pullup Jump Shot (4 PTS),,,7 - 17,10,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,81,5,45,1,9:26 PM,4:31,,,Anthony Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,82,1,99,1,9:26 PM,4:12,Je. Green 2' Cutting Finger Roll Layup Shot (4 PTS) (Jokic 4 AST),,,7 - 19,12,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,84,9,1,1,9:26 PM,4:12,,,Magic Timeout: Regular (Reg.2 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,85,8,0,1,9:29 PM,4:12,SUB: Campazzo FOR Hyland,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,86,8,0,1,9:29 PM,4:12,SUB: Ja. Green FOR Je. Green,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,87,8,0,1,9:29 PM,4:12,,,SUB: Suggs FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,114,2,78,1,9:30 PM,3:56,Ja. Green BLOCK (1 BLK),,MISS Suggs 8' Floating Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,1
+0022100864,116,4,0,1,9:30 PM,3:56,Jokic REBOUND (Off:0 Def:3),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,93,10,0,1,9:30 PM,3:49,Jump Ball Gordon vs. Harris: Tip to Ross,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1
+0022100864,96,5,2,1,9:30 PM,3:49,Gordon Lost Ball Turnover (P1.T4),,Harris STEAL (1 STL),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,98,2,79,1,9:30 PM,3:39,,,MISS Harris 23' Pullup Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,99,4,0,1,9:30 PM,3:38,Ja. Green REBOUND (Off:0 Def:1),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,100,5,2,1,9:30 PM,3:31,Gordon Lost Ball Turnover (P2.T5),,Suggs STEAL (1 STL),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,102,6,1,1,9:31 PM,3:31,Gordon P.FOUL (P1.T2) (D.Scott),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,104,8,0,1,9:31 PM,3:31,SUB: Rivers FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,106,2,79,1,9:31 PM,3:15,,,MISS Okeke 16' Pullup Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,107,4,0,1,9:31 PM,3:13,,,Carter Jr. REBOUND (Off:1 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,108,6,1,1,9:31 PM,3:13,Ja. Green P.FOUL (P1.T3) (D.Scott),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,111,8,0,1,9:32 PM,3:13,SUB: Forbes FOR Barton,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,113,1,1,1,9:32 PM,3:07,,,Okeke 25' 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),10 - 19,9,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,118,1,71,1,9:32 PM,2:44,Jokic 3' Finger Roll Layup (7 PTS),,,10 - 21,11,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,119,6,1,1,9:32 PM,2:40,Campazzo P.FOUL (P1.T4) (P.Fraher),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,121,8,0,1,9:33 PM,2:40,SUB: Cousins FOR Jokic,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,123,8,0,1,9:33 PM,2:40,,,SUB: Lopez FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,125,6,1,1,9:33 PM,2:36,Cousins P.FOUL (P1.PN) (M.Lindsay),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,127,3,11,1,9:34 PM,2:36,,,Lopez Free Throw 1 of 2 (1 PTS),11 - 21,10,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,128,3,12,1,9:34 PM,2:36,,,MISS Lopez Free Throw 2 of 2,,,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,129,4,0,1,9:34 PM,2:34,Campazzo REBOUND (Off:0 Def:1),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,130,2,1,1,9:34 PM,2:18,MISS Campazzo 26' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,131,4,0,1,9:34 PM,2:15,,,Ross REBOUND (Off:0 Def:1),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,132,6,1,1,9:35 PM,2:10,Cousins P.FOUL (P2.PN) (P.Fraher),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,134,3,11,1,9:35 PM,2:10,,,MISS Ross Free Throw 1 of 2,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,135,4,1,1,9:35 PM,2:10,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,136,3,12,1,9:35 PM,2:10,,,Ross Free Throw 2 of 2 (1 PTS),12 - 21,9,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,137,1,1,1,9:36 PM,2:04,Forbes 25' 3PT Jump Shot (3 PTS) (Campazzo 1 AST),,,12 - 24,12,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,139,2,80,1,9:36 PM,1:50,,,MISS Harris 27' 3PT Step Back Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,140,4,0,1,9:36 PM,1:48,Ja. Green REBOUND (Off:0 Def:2),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,141,1,1,1,9:36 PM,1:43,Cousins 25' 3PT Jump Shot (3 PTS) (Campazzo 2 AST),,,12 - 27,15,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,143,2,80,1,9:36 PM,1:25,,,MISS Okeke 26' 3PT Step Back Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,144,4,0,1,9:36 PM,1:21,Rivers REBOUND (Off:0 Def:1),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,145,5,1,1,9:36 PM,1:14,Rivers Bad Pass Turnover (P1.T6),,Okeke STEAL (2 STL),,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,147,2,74,1,9:36 PM,1:10,,,MISS Okeke 3' Running Reverse Layup,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,148,4,0,1,9:36 PM,1:08,Cousins REBOUND (Off:0 Def:1),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,149,5,1,1,9:37 PM,1:03,Cousins Bad Pass Turnover (P1.T7),,Suggs STEAL (2 STL),,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,151,1,76,1,9:37 PM,0:59,,,Suggs 2' Running Finger Roll Layup (4 PTS),14 - 27,13,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,152,1,79,1,9:37 PM,0:48,Forbes 19' Pullup Jump Shot (5 PTS),,,14 - 29,15,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,154,5,45,1,9:38 PM,0:30,,,Suggs Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,155,2,80,1,9:38 PM,0:15,MISS Cousins 25' 3PT Step Back Jump Shot,,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,156,4,0,1,9:38 PM,0:09,Ja. Green REBOUND (Off:1 Def:2),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,157,2,97,1,9:38 PM,0:09,MISS Ja. Green Tip Layup Shot,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,158,4,0,1,9:38 PM,0:08,,,Suggs REBOUND (Off:0 Def:2),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,159,2,47,1,9:38 PM,0:00,,,MISS Suggs 25' 3PT Turnaround Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,160,4,0,1,9:38 PM,0:00,Cousins REBOUND (Off:0 Def:2),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,161,13,0,1,9:39 PM,0:00,,End of 1st Period (9:39 PM EST),,14 - 29,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100864,164,12,0,2,9:41 PM,12:00,,Start of 2nd Period (9:41 PM EST),,14 - 29,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,165,5,1,2,9:41 PM,11:48,Rivers STEAL (1 STL),,Harris Bad Pass Turnover (P1.T7),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,167,6,28,2,9:41 PM,11:47,,,Ross Personal Take Foul (P1.T1) (P.Fraher),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,169,2,101,2,9:42 PM,11:35,MISS Rivers 12' Driving Floating Jump Shot,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,170,4,0,2,9:42 PM,11:33,,,Okeke REBOUND (Off:0 Def:1),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,171,1,3,2,9:42 PM,11:25,,,Lopez 6' Hook Shot (3 PTS) (Harris 1 AST),16 - 29,13,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,173,1,80,2,9:42 PM,11:05,Forbes 26' 3PT Step Back Jump Shot (8 PTS),,,16 - 32,16,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,174,6,2,2,9:43 PM,10:52,Rivers S.FOUL (P1.T1) (M.Lindsay),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,176,3,11,2,9:43 PM,10:52,,,Wagner Free Throw 1 of 2 (1 PTS),17 - 32,15,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,177,3,12,2,9:43 PM,10:52,,,Wagner Free Throw 2 of 2 (2 PTS),18 - 32,14,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,178,1,1,2,9:44 PM,10:37,Ja. Green 3PT Jump Shot (3 PTS) (Campazzo 3 AST),,,18 - 35,17,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,180,6,4,2,9:44 PM,10:25,,,Ross OFF.Foul (P2) (P.Fraher),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0022100864,182,5,37,2,9:44 PM,10:25,,,Ross Offensive Foul Turnover (P1.T8),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0022100864,184,2,1,2,9:44 PM,10:18,MISS Forbes 26' 3PT Jump Shot,,,,,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,186,1,107,2,9:44 PM,10:09,Ja. Green Tip Dunk Shot (5 PTS),,,18 - 37,19,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,185,4,0,2,9:44 PM,10:09,Ja. Green REBOUND (Off:2 Def:2),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,187,10,0,2,9:45 PM,9:47,Jump Ball Cousins vs. Lopez: Tip to Rivers,,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1
+0022100864,190,5,2,2,9:45 PM,9:47,Cousins STEAL (1 STL),,Lopez Lost Ball Turnover (P1.T9),,,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,192,1,79,2,9:46 PM,9:40,Campazzo 26' 3PT Pullup Jump Shot (3 PTS),,,18 - 40,22,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,193,9,1,2,9:46 PM,9:38,,,Magic Timeout: Regular (Reg.3 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,194,8,0,2,9:48 PM,9:38,,,SUB: Anthony FOR Okeke,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,196,1,75,2,9:49 PM,9:28,,,Harris 3' Driving Finger Roll Layup (2 PTS) (Ross 1 AST),20 - 40,20,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,198,2,5,2,9:49 PM,9:04,MISS Ja. Green 3' Layup,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,199,4,0,2,9:49 PM,9:03,Ja. Green REBOUND (Off:3 Def:2),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,200,2,5,2,9:49 PM,9:02,MISS Ja. Green 3' Layup,,Lopez BLOCK (1 BLK),,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,1
+0022100864,202,4,0,2,9:49 PM,8:59,Ja. Green REBOUND (Off:4 Def:2),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,203,2,5,2,9:49 PM,8:58,MISS Ja. Green 3' Layup,,Lopez BLOCK (2 BLK),,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,1
+0022100864,205,4,0,2,9:49 PM,8:55,,,Wagner REBOUND (Off:1 Def:1),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,206,1,1,2,9:49 PM,8:52,,,Wagner 25' 3PT Jump Shot (5 PTS) (Harris 2 AST),23 - 40,17,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,208,6,1,2,9:50 PM,8:29,,,Anthony P.FOUL (P1.T2) (M.Lindsay),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,210,2,1,2,9:50 PM,8:21,MISS Cousins 25' 3PT Jump Shot,,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,211,4,0,2,9:50 PM,8:18,,,Anthony REBOUND (Off:0 Def:2),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,212,1,75,2,9:50 PM,8:10,,,Wagner 6' Driving Finger Roll Layup (7 PTS) (Anthony 1 AST),25 - 40,15,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,214,9,1,2,9:50 PM,8:09,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,215,8,0,2,9:53 PM,8:09,SUB: Barton FOR Cousins,,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,216,8,0,2,9:53 PM,8:09,SUB: Jokic FOR Rivers,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,219,7,5,2,9:54 PM,7:59,,,Wagner Violation:Kicked Ball (M.Lindsay),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0022100864,220,7,5,2,9:54 PM,7:54,,,Wagner Violation:Kicked Ball (P.Fraher),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0022100864,222,8,0,2,9:54 PM,7:50,SUB: Gordon FOR Ja. Green,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,224,2,75,2,9:55 PM,7:39,MISS Jokic 3' Driving Finger Roll Layup,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,225,4,0,2,9:55 PM,7:37,Gordon REBOUND (Off:1 Def:2),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,226,1,97,2,9:55 PM,7:37,Gordon Tip Layup Shot (5 PTS),,,25 - 42,17,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,227,1,80,2,9:55 PM,7:15,,,Anthony 20' Step Back Jump Shot (2 PTS) (Lopez 1 AST),27 - 42,15,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,229,2,1,2,9:55 PM,7:01,MISS Campazzo 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,230,4,0,2,9:55 PM,6:58,,,Wagner REBOUND (Off:1 Def:2),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,231,6,1,2,9:55 PM,6:53,Campazzo P.FOUL (P2.T2) (M.Lindsay),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,233,8,0,2,9:56 PM,6:53,SUB: Hyland FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,234,8,0,2,9:56 PM,6:53,,,SUB: Carter Jr. FOR Lopez,,,5,201577,Robin Lopez,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,237,5,1,2,9:56 PM,6:44,Hyland STEAL (1 STL),,Wagner Bad Pass Turnover (P2.T10),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,239,5,4,2,9:56 PM,6:41,Gordon Traveling Turnover (P3.T8),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,240,1,79,2,9:57 PM,6:28,,,Wagner 27' 3PT Pullup Jump Shot (10 PTS),30 - 42,12,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,241,1,58,2,9:57 PM,6:10,Jokic 5' Turnaround Hook Shot (9 PTS),,,30 - 44,14,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,242,2,1,2,9:57 PM,5:48,,,MISS Anthony 27' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,243,4,0,2,9:57 PM,5:46,Gordon REBOUND (Off:1 Def:3),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,244,1,79,2,9:58 PM,5:32,Hyland 19' Pullup Jump Shot (5 PTS),,,30 - 46,16,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,245,2,75,2,9:58 PM,5:14,,,MISS Harris 3' Driving Finger Roll Layup,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,246,4,0,2,9:58 PM,5:10,Hyland REBOUND (Off:1 Def:1),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,247,2,1,2,9:58 PM,5:05,MISS Gordon 3PT Jump Shot,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,248,4,0,2,9:58 PM,5:02,Jokic REBOUND (Off:1 Def:3),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,249,6,2,2,9:58 PM,5:02,,,Anthony S.FOUL (P2.T3) (M.Lindsay),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,251,3,11,2,9:58 PM,5:02,Barton Free Throw 1 of 2 (5 PTS),,,30 - 47,17,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,252,8,0,2,9:58 PM,5:02,SUB: Je. Green FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,253,8,0,2,9:58 PM,5:02,,,SUB: Suggs FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,256,3,12,2,9:59 PM,5:02,Barton Free Throw 2 of 2 (6 PTS),,,30 - 48,18,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,257,1,6,2,9:59 PM,4:49,,,Carter Jr. 2' Driving Layup (4 PTS),32 - 48,16,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,258,2,75,2,9:59 PM,4:33,MISS Jokic 4' Driving Finger Roll Layup,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,259,4,0,2,9:59 PM,4:30,,,Carter Jr. REBOUND (Off:1 Def:2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,260,5,45,2,9:59 PM,4:27,,,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,261,8,0,2,10:00 PM,4:27,,,SUB: Okeke FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,263,2,1,2,10:00 PM,4:05,MISS Jokic 26' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,264,4,0,2,10:00 PM,4:02,,,Okeke REBOUND (Off:0 Def:2),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,265,2,1,2,10:00 PM,3:56,,,MISS Anthony 27' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,266,4,0,2,10:00 PM,3:53,Gordon REBOUND (Off:1 Def:4),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,267,5,1,2,10:00 PM,3:47,Gordon Bad Pass Turnover (P4.T9),,Carter Jr. STEAL (1 STL),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,269,1,41,2,10:01 PM,3:41,,,Harris 1' Running Layup (4 PTS),34 - 48,14,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,270,9,1,2,10:01 PM,3:41,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,271,5,1,2,10:02 PM,3:18,Hyland Bad Pass Turnover (P2.T10),,Harris STEAL (2 STL),,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,284,5,20,2,10:03 PM,3:10,,,Harris Illegal Assist Turnover (P2.T12),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,277,5,1,2,10:03 PM,3:00,Jokic Bad Pass Turnover (P2.T11),,Suggs STEAL (3 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,279,1,41,2,10:03 PM,2:56,,,Suggs 1' Running Layup (6 PTS),36 - 48,12,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,280,9,1,2,10:03 PM,2:56,NUGGETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,281,2,1,2,10:05 PM,2:41,MISS Hyland 28' 3PT Jump Shot,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,282,4,0,2,10:05 PM,2:37,,,Carter Jr. REBOUND (Off:1 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,283,1,80,2,10:05 PM,2:28,,,Carter Jr. 14' Step Back Jump Shot (6 PTS) (Harris 3 AST),38 - 48,10,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,286,2,1,2,10:06 PM,2:10,MISS Je. Green 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,287,4,0,2,10:06 PM,2:08,,,Carter Jr. REBOUND (Off:1 Def:4),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,288,2,1,2,10:06 PM,1:54,,,MISS Carter Jr. 18' Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,289,4,0,2,10:06 PM,1:48,Hyland REBOUND (Off:1 Def:2),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,290,1,41,2,10:06 PM,1:42,Barton 4' Running Layup (8 PTS),,,38 - 50,12,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,291,6,2,2,10:06 PM,1:42,,,Anthony S.FOUL (P3.T4) (M.Lindsay),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,293,3,10,2,10:06 PM,1:42,Barton Free Throw 1 of 1 (9 PTS),,,38 - 51,13,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,294,2,1,2,10:07 PM,1:26,,,MISS Okeke 25' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,295,4,0,2,10:07 PM,1:21,Barton REBOUND (Off:0 Def:1),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,296,1,76,2,10:07 PM,1:17,Jokic 3' Running Finger Roll Layup (11 PTS),,,38 - 53,15,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,297,6,2,2,10:07 PM,1:13,Hyland S.FOUL (P1.T3) (M.Lindsay),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,299,3,11,2,10:08 PM,1:13,,,Anthony Free Throw 1 of 2 (3 PTS),39 - 53,14,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,300,8,0,2,10:08 PM,1:13,,,SUB: Ross FOR Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,302,3,12,2,10:08 PM,1:13,,,Anthony Free Throw 2 of 2 (4 PTS),40 - 53,13,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,303,2,80,2,10:08 PM,1:01,MISS Hyland 25' 3PT Step Back Jump Shot,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,304,4,0,2,10:08 PM,0:59,,,Carter Jr. REBOUND (Off:1 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,305,2,78,2,10:09 PM,0:50,,,MISS Carter Jr. 5' Floating Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,306,4,0,2,10:09 PM,0:48,Barton REBOUND (Off:0 Def:2),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,307,5,45,2,10:09 PM,0:35,Je. Green Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,308,8,0,2,10:09 PM,0:35,,,SUB: Wagner FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,310,2,79,2,10:09 PM,0:30,,,MISS Okeke 26' 3PT Pullup Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,311,4,0,2,10:09 PM,0:27,Barton REBOUND (Off:0 Def:3),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,312,2,1,2,10:10 PM,0:11,MISS Je. Green 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,313,4,0,2,10:10 PM,0:07,,,Wagner REBOUND (Off:1 Def:3),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,314,2,1,2,10:10 PM,0:03,,,MISS Carter Jr. 26' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,315,4,0,2,10:10 PM,0:03,Hyland REBOUND (Off:1 Def:3),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,316,13,0,2,10:10 PM,0:00,,End of 2nd Period (10:10 PM EST),,40 - 53,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100864,321,12,0,3,10:25 PM,12:00,,Start of 3rd Period (10:25 PM EST),,40 - 53,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,322,1,1,3,10:26 PM,11:38,,,Anthony 28' 3PT Jump Shot (7 PTS) (Carter Jr. 2 AST),43 - 53,10,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,324,2,1,3,10:26 PM,11:21,MISS Jokic 26' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,325,4,0,3,10:26 PM,11:19,,,Anthony REBOUND (Off:0 Def:3),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,326,2,1,3,10:26 PM,11:12,,,MISS Suggs 24' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,327,4,0,3,10:26 PM,11:09,Barton REBOUND (Off:0 Def:4),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,328,6,2,3,10:26 PM,11:05,,,Bamba S.FOUL (P2.T1) (D.Scott),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,330,3,11,3,10:27 PM,11:05,Jokic Free Throw 1 of 2 (12 PTS),,,43 - 54,11,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,331,3,12,3,10:27 PM,11:05,Jokic Free Throw 2 of 2 (13 PTS),,,43 - 55,12,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,332,2,5,3,10:27 PM,10:47,Barton BLOCK (1 BLK),,MISS Carter Jr. 4' Layup,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1
+0022100864,334,4,0,3,10:27 PM,10:40,,,Carter Jr. REBOUND (Off:2 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,335,1,72,3,10:27 PM,10:40,,,Carter Jr. Putback Layup (8 PTS),45 - 55,10,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,336,2,1,3,10:27 PM,10:35,MISS Je. Green 25' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,337,4,0,3,10:27 PM,10:33,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,338,6,3,3,10:27 PM,10:33,,,Suggs L.B.FOUL (P1.T2) (D.Scott),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,340,1,1,3,10:28 PM,10:26,Jokic 26' 3PT Jump Shot (16 PTS) (Je. Green 2 AST),,,45 - 58,13,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,342,2,9,3,10:28 PM,10:13,,,MISS Suggs 3' Driving Dunk,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,344,4,0,3,10:28 PM,10:05,,,Carter Jr. REBOUND (Off:3 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,345,1,87,3,10:28 PM,10:05,,,Carter Jr. Putback Dunk (10 PTS),47 - 58,11,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,346,6,1,3,10:28 PM,10:05,,,Bamba P.FOUL (P3.T3) (M.Lindsay),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,348,2,1,3,10:29 PM,9:58,MISS Jokic 27' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,349,4,0,3,10:29 PM,9:55,,,Bamba REBOUND (Off:0 Def:3),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,350,1,57,3,10:29 PM,9:45,,,Carter Jr. 5' Driving Hook Shot (12 PTS) (Suggs 1 AST),49 - 58,9,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,352,6,17,3,10:29 PM,9:32,,,Magic T.Foul (Def. 3 Sec Bamba ) (M.Lindsay),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,353,3,16,3,10:30 PM,9:32,Jokic Free Throw Technical (17 PTS),,,49 - 59,10,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,354,1,1,3,10:30 PM,9:26,Hyland 25' 3PT Jump Shot (8 PTS) (Gordon 1 AST),,,49 - 62,13,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,356,2,1,3,10:30 PM,9:07,,,MISS Carter Jr. 25' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,357,4,0,3,10:30 PM,9:03,Barton REBOUND (Off:0 Def:5),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,358,2,44,3,10:30 PM,8:53,MISS Barton 3' Reverse Layup,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,359,4,0,3,10:30 PM,8:51,,,Carter Jr. REBOUND (Off:3 Def:6),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,360,2,41,3,10:31 PM,8:44,,,MISS Anthony 3' Running Layup,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,361,4,0,3,10:31 PM,8:42,,,Suggs REBOUND (Off:1 Def:2),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,362,5,1,3,10:31 PM,8:35,Hyland STEAL (2 STL),,Anthony Bad Pass Turnover (P2.T13),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,364,6,2,3,10:31 PM,8:32,,,Suggs S.FOUL (P2.T4) (M.Lindsay),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,366,3,11,3,10:31 PM,8:32,Hyland Free Throw 1 of 2 (9 PTS),,,49 - 63,14,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,367,3,12,3,10:32 PM,8:32,MISS Hyland Free Throw 2 of 2,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,368,4,0,3,10:32 PM,8:30,,,Carter Jr. REBOUND (Off:3 Def:7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,370,1,52,3,10:32 PM,8:14,,,Bamba 2' Alley Oop Dunk (2 PTS) (Carter Jr. 3 AST),51 - 63,12,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,372,1,1,3,10:33 PM,8:02,Je. Green 3PT Jump Shot (7 PTS) (Jokic 5 AST),,,51 - 66,15,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,374,2,79,3,10:33 PM,7:53,,,MISS Carter Jr. 9' Pullup Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,375,4,0,3,10:33 PM,7:50,Jokic REBOUND (Off:1 Def:4),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,376,1,7,3,10:33 PM,7:46,Je. Green 2' Dunk (9 PTS) (Gordon 2 AST),,,51 - 68,17,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,378,7,2,3,10:33 PM,7:46,,,Suggs Violation:Defensive Goaltending (P.Fraher),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,379,1,79,3,10:33 PM,7:30,,,Anthony 19' Pullup Jump Shot (9 PTS) (Carter Jr. 4 AST),53 - 68,15,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,380,1,47,3,10:34 PM,7:18,Barton 11' Turnaround Jump Shot (11 PTS) (Hyland 1 AST),,,53 - 70,17,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,382,2,102,3,10:34 PM,6:58,,,MISS Wagner 4' Driving Floating Bank Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,383,4,0,3,10:34 PM,6:56,Barton REBOUND (Off:0 Def:6),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,385,1,1,3,10:34 PM,6:34,Je. Green 3PT Jump Shot (12 PTS) (Jokic 6 AST),,,53 - 73,20,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,387,9,1,3,10:34 PM,6:32,,,Magic Timeout: Regular (Reg.4 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,388,8,0,3,10:37 PM,6:32,,,SUB: Harris FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,390,1,7,3,10:38 PM,6:19,,,Carter Jr. 1' Dunk (14 PTS) (Wagner 3 AST),55 - 73,18,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,392,2,1,3,10:38 PM,5:57,MISS Je. Green 24' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,393,4,0,3,10:38 PM,5:53,Jokic REBOUND (Off:2 Def:4),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,394,2,97,3,10:38 PM,5:53,MISS Jokic Tip Layup Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,395,4,0,3,10:38 PM,5:53,,,Wagner REBOUND (Off:1 Def:4),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,396,2,79,3,10:38 PM,5:48,,,MISS Wagner 25' 3PT Pullup Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,397,4,0,3,10:38 PM,5:43,Jokic REBOUND (Off:2 Def:5),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,398,5,2,3,10:38 PM,5:38,Je. Green Lost Ball Turnover (P2.T13),,Wagner STEAL (2 STL),,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,400,2,75,3,10:39 PM,5:30,,,MISS Wagner 3' Driving Finger Roll Layup,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,401,4,0,3,10:39 PM,5:28,Jokic REBOUND (Off:2 Def:6),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,402,6,2,3,10:39 PM,5:27,,,Carter Jr. S.FOUL (P1.PN) (P.Fraher),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,404,3,11,3,10:39 PM,5:27,Je. Green Free Throw 1 of 2 (13 PTS),,,55 - 74,19,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,405,8,0,3,10:39 PM,5:27,,,SUB: Okeke FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,407,3,12,3,10:40 PM,5:27,Je. Green Free Throw 2 of 2 (14 PTS),,,55 - 75,20,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,408,1,93,3,10:40 PM,5:11,,,Wagner 3' Driving Bank Hook Shot (12 PTS) (Harris 4 AST),57 - 75,18,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,410,5,21,3,10:40 PM,4:57,Hyland Palming Turnover (P3.T14),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,411,8,0,3,10:40 PM,4:57,SUB: Campazzo FOR Hyland,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,413,2,47,3,10:41 PM,4:37,,,MISS Wagner 5' Turnaround Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,414,4,0,3,10:41 PM,4:35,Jokic REBOUND (Off:2 Def:7),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,415,5,1,3,10:41 PM,4:33,Jokic Bad Pass Turnover (P3.T15),,Harris STEAL (3 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,417,1,79,3,10:41 PM,4:31,,,Harris 25' 3PT Pullup Jump Shot (7 PTS),60 - 75,15,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,418,1,6,3,10:41 PM,4:18,Barton 3' Driving Layup (13 PTS),,,60 - 77,17,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,420,2,79,3,10:41 PM,4:09,,,MISS Anthony 18' Pullup Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,421,4,0,3,10:41 PM,4:08,Barton REBOUND (Off:0 Def:7),,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,422,1,47,3,10:42 PM,3:52,Jokic 11' Turnaround Jump Shot (19 PTS),,,60 - 79,19,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,423,1,99,3,10:42 PM,3:39,,,Wagner 2' Cutting Finger Roll Layup Shot (14 PTS) (Harris 5 AST),62 - 79,17,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,425,2,79,3,10:42 PM,3:29,MISS Barton 26' 3PT Pullup Jump Shot,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,426,4,0,3,10:42 PM,3:25,,,Okeke REBOUND (Off:0 Def:3),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,427,2,1,3,10:42 PM,3:17,,,MISS Harris 26' 3PT Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,428,4,0,3,10:42 PM,3:14,,,Harris REBOUND (Off:1 Def:0),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,429,1,1,3,10:42 PM,3:09,,,Carter Jr. 15' Jump Shot (16 PTS),64 - 79,15,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,430,9,1,3,10:43 PM,3:08,NUGGETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,431,8,0,3,10:45 PM,3:08,SUB: Forbes FOR Barton,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,432,8,0,3,10:45 PM,3:08,SUB: Ja. Green FOR Je. Green,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,433,8,0,3,10:45 PM,3:08,SUB: Rivers FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,434,8,0,3,10:45 PM,3:08,,,SUB: Suggs FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,435,8,0,3,10:45 PM,3:08,,,SUB: Ross FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,441,2,1,3,10:46 PM,2:53,MISS Jokic 17' Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,442,4,0,3,10:46 PM,2:49,,,Harris REBOUND (Off:1 Def:1),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,443,2,63,3,10:46 PM,2:36,,,MISS Carter Jr. 10' Fadeaway Jumper,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,444,4,0,3,10:46 PM,2:34,Jokic REBOUND (Off:2 Def:8),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,445,2,101,3,10:46 PM,2:24,MISS Forbes 8' Driving Floating Jump Shot,,,,,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,446,4,0,3,10:46 PM,2:20,,,Suggs REBOUND (Off:1 Def:3),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,447,1,5,3,10:47 PM,2:06,,,Carter Jr. 3' Layup (18 PTS),66 - 79,13,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,448,1,101,3,10:47 PM,1:51,Jokic 5' Driving Floating Jump Shot (21 PTS) (Rivers 1 AST),,,66 - 81,15,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,450,2,79,3,10:47 PM,1:36,,,MISS Suggs 15' Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,451,4,0,3,10:47 PM,1:33,,,Carter Jr. REBOUND (Off:4 Def:7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,452,1,105,3,10:47 PM,1:28,,,Carter Jr. 7' Turnaround Fadeaway Bank Jump Shot (20 PTS),68 - 81,13,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,453,6,1,3,10:48 PM,1:16,,,Carter Jr. P.FOUL (P2.PN) (D.Scott),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,455,8,0,3,10:49 PM,1:16,SUB: Cousins FOR Jokic,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,456,8,0,3,10:49 PM,1:16,,,SUB: Schofield FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,459,3,11,3,10:49 PM,1:16,Campazzo Free Throw 1 of 2 (4 PTS),,,68 - 82,14,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,460,3,12,3,10:49 PM,1:16,Campazzo Free Throw 2 of 2 (5 PTS),,,68 - 83,15,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,461,2,73,3,10:50 PM,0:58,,,MISS Suggs 2' Driving Reverse Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,462,4,0,3,10:50 PM,0:56,Ja. Green REBOUND (Off:4 Def:3),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,463,5,2,3,10:50 PM,0:36,Forbes Lost Ball Turnover (P1.T16),,Okeke STEAL (3 STL),,,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,465,2,43,3,10:50 PM,0:30,,,MISS Suggs 2' Alley Oop Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,466,4,0,3,10:50 PM,0:28,,,Suggs REBOUND (Off:2 Def:3),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,467,2,1,3,10:50 PM,0:27,,,MISS Schofield 25' 3PT Jump Shot,,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,468,4,0,3,10:50 PM,0:22,Rivers REBOUND (Off:0 Def:2),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,470,5,2,3,10:50 PM,0:20,Rivers Lost Ball Turnover (P2.T17),,Harris STEAL (4 STL),,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,472,1,7,3,10:50 PM,0:20,,,Harris 1' Dunk (9 PTS),70 - 83,13,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,473,1,78,3,10:51 PM,0:00,Forbes 14' Floating Jump Shot (10 PTS) (Rivers 2 AST),,,70 - 85,15,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,475,13,0,3,10:51 PM,0:00,,End of 3rd Period (10:51 PM EST),,70 - 85,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100864,476,18,0,3,10:51 PM,0:00,,Instant Replay3rd Period (10:51 PM EST),,70 - 85,15,0,473,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100864,477,12,0,4,10:54 PM,12:00,,Start of 4th Period (10:54 PM EST),,70 - 85,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,478,1,108,4,10:54 PM,11:47,Cousins 1' Cutting Dunk Shot (5 PTS) (Campazzo 4 AST),,,70 - 87,17,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,480,6,2,4,10:54 PM,11:41,Forbes S.FOUL (P1.T1) (D.Scott),,,,,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0022100864,482,3,11,4,10:54 PM,11:41,,,Suggs Free Throw 1 of 2 (7 PTS),71 - 87,16,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,483,3,12,4,10:55 PM,11:41,,,Suggs Free Throw 2 of 2 (8 PTS),72 - 87,15,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,484,6,2,4,10:55 PM,11:26,,,Suggs S.FOUL (P3.T1) (D.Scott),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,486,3,11,4,10:55 PM,11:26,Cousins Free Throw 1 of 2 (6 PTS),,,72 - 88,16,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,487,3,12,4,10:56 PM,11:26,Cousins Free Throw 2 of 2 (7 PTS),,,72 - 89,17,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,488,1,1,4,10:56 PM,11:16,,,Okeke 24' 3PT Jump Shot (9 PTS) (Harris 6 AST),75 - 89,14,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,490,1,1,4,10:56 PM,11:00,Ja. Green 17' Jump Shot (7 PTS) (Campazzo 5 AST),,,75 - 91,16,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,492,5,1,4,10:56 PM,10:49,Rivers STEAL (2 STL),,Suggs Bad Pass Turnover (P3.T14),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,494,1,1,4,10:57 PM,10:39,Forbes 24' 3PT Jump Shot (13 PTS) (Ja. Green 1 AST),,,75 - 94,19,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,496,9,1,4,10:57 PM,10:37,,,Magic Timeout: Regular (Reg.5 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,497,2,1,4,11:01 PM,10:25,,,MISS Okeke 24' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,498,4,0,4,11:01 PM,10:23,Cousins REBOUND (Off:0 Def:3),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,499,1,5,4,11:02 PM,10:02,Cousins 2' Layup (9 PTS) (Forbes 1 AST),,,75 - 96,21,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,501,2,1,4,11:02 PM,9:52,,,MISS Suggs 26' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,502,4,0,4,11:02 PM,9:49,Cousins REBOUND (Off:0 Def:4),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,503,6,1,4,11:02 PM,9:35,,,Harris P.FOUL (P1.T2) (D.Scott),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,505,2,1,4,11:02 PM,9:23,MISS Cousins 25' 3PT Jump Shot,,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,506,4,0,4,11:02 PM,9:22,,,Ross REBOUND (Off:0 Def:2),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,507,6,1,4,11:03 PM,9:15,Campazzo P.FOUL (P3.T2) (D.Scott),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,509,6,2,4,11:03 PM,9:03,Campazzo S.FOUL (P4.T3) (P.Fraher),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,511,3,11,4,11:04 PM,9:03,,,Schofield Free Throw 1 of 2 (1 PTS),76 - 96,20,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,512,3,12,4,11:04 PM,9:03,,,Schofield Free Throw 2 of 2 (2 PTS),77 - 96,19,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,513,2,80,4,11:04 PM,8:49,MISS Rivers 24' 3PT Step Back Jump Shot,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,514,4,0,4,11:04 PM,8:46,Cousins REBOUND (Off:1 Def:4),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,515,5,1,4,11:04 PM,8:44,Cousins Bad Pass Turnover (P2.T18),,Schofield STEAL (1 STL),,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,517,1,76,4,11:04 PM,8:38,,,Suggs 3' Running Finger Roll Layup (10 PTS) (Okeke 1 AST),79 - 96,17,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,519,6,2,4,11:05 PM,8:17,,,Schofield S.FOUL (P1.T3) (D.Scott),,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,523,8,0,4,11:05 PM,8:17,,,SUB: Wagner FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,521,3,13,4,11:05 PM,8:17,Forbes Free Throw 1 of 3 (14 PTS),,,79 - 97,18,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100864,522,3,14,4,11:05 PM,8:17,Forbes Free Throw 2 of 3 (15 PTS),,,79 - 98,19,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,525,3,15,4,11:05 PM,8:17,Forbes Free Throw 3 of 3 (16 PTS),,,79 - 99,20,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,526,1,1,4,11:06 PM,8:10,,,Schofield 26' 3PT Jump Shot (5 PTS) (Suggs 2 AST),82 - 99,17,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,528,2,6,4,11:06 PM,7:53,MISS Rivers 3' Driving Layup,,Suggs BLOCK (1 BLK),,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022100864,530,4,0,4,11:06 PM,7:50,,,Okeke REBOUND (Off:0 Def:4),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,531,2,1,4,11:06 PM,7:42,,,MISS Wagner 24' 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,532,4,0,4,11:06 PM,7:41,Campazzo REBOUND (Off:0 Def:2),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,533,6,11,4,11:07 PM,7:41,Rivers T.FOUL (P1.T3) (M.Lindsay),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,534,3,16,4,11:07 PM,7:41,,,Harris Free Throw Technical (10 PTS),83 - 99,16,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,535,6,26,4,11:07 PM,7:23,Cousins Offensive Charge Foul (P3) (P.Fraher),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,537,5,37,4,11:07 PM,7:23,Cousins Offensive Foul Turnover (P3.T19),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,538,6,2,4,11:08 PM,7:20,Cousins S.FOUL (P4.T4) (D.Scott),,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0022100864,540,3,11,4,11:08 PM,7:20,,,Suggs Free Throw 1 of 2 (11 PTS),84 - 99,15,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,541,8,0,4,11:08 PM,7:20,SUB: Jokic FOR Cousins,,,,,4,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,542,8,0,4,11:08 PM,7:20,SUB: Barton FOR Rivers,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,545,3,12,4,11:09 PM,7:20,,,Suggs Free Throw 2 of 2 (12 PTS),85 - 99,14,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,546,5,45,4,11:09 PM,7:06,Jokic Out of Bounds - Bad Pass Turnover Turnover (P4.T20),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100864,547,8,0,4,11:09 PM,7:06,,,SUB: Carter Jr. FOR Schofield,,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022100864,549,1,108,4,11:10 PM,6:54,,,Carter Jr. 2' Cutting Dunk Shot (22 PTS) (Okeke 2 AST),87 - 99,12,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,551,9,1,4,11:10 PM,6:54,NUGGETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,552,8,0,4,11:12 PM,6:54,SUB: Hyland FOR Ja. Green,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,553,8,0,4,11:12 PM,6:54,SUB: Gordon FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,556,2,102,4,11:13 PM,6:42,MISS Jokic 5' Driving Floating Bank Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,557,4,0,4,11:13 PM,6:38,Jokic REBOUND (Off:3 Def:8),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,558,2,72,4,11:13 PM,6:38,MISS Jokic Putback Layup,,Carter Jr. BLOCK (1 BLK),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1
+0022100864,560,4,0,4,11:13 PM,6:36,Jokic REBOUND (Off:4 Def:8),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,561,1,1,4,11:13 PM,6:34,Hyland 26' 3PT Jump Shot (12 PTS) (Forbes 2 AST),,,87 - 102,15,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,563,2,74,4,11:13 PM,6:29,,,MISS Suggs 3' Running Reverse Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,564,4,0,4,11:13 PM,6:29,Jokic REBOUND (Off:4 Def:9),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,565,2,1,4,11:13 PM,6:18,MISS Jokic 27' 3PT Jump Shot,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,566,4,0,4,11:13 PM,6:16,,,Wagner REBOUND (Off:1 Def:5),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,567,1,1,4,11:13 PM,6:09,,,Harris 3PT Jump Shot (13 PTS) (Wagner 4 AST),90 - 102,12,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,569,2,5,4,11:14 PM,5:41,MISS Jokic 3' Layup,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,570,4,0,4,11:14 PM,5:40,,,Okeke REBOUND (Off:0 Def:5),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,571,1,74,4,11:14 PM,5:32,,,Wagner 2' Running Reverse Layup (16 PTS) (Okeke 3 AST),92 - 102,10,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,573,8,0,4,11:14 PM,5:16,SUB: Je. Green FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,575,10,0,4,11:15 PM,5:12,Jump Ball Jokic vs. Carter Jr.: Tip to Suggs,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022100864,578,5,2,4,11:15 PM,5:12,Jokic Lost Ball Turnover (P5.T21),,Carter Jr. STEAL (2 STL),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,580,2,75,4,11:15 PM,5:01,,,MISS Wagner 2' Driving Finger Roll Layup,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,581,4,0,4,11:15 PM,4:59,Gordon REBOUND (Off:1 Def:5),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,582,1,79,4,11:15 PM,4:53,Gordon 26' 3PT Pullup Jump Shot (8 PTS),,,92 - 105,13,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,583,6,2,4,11:15 PM,4:41,Jokic S.FOUL (P1.PN) (P.Fraher),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,585,3,11,4,11:16 PM,4:41,,,Wagner Free Throw 1 of 2 (17 PTS),93 - 105,12,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,586,3,12,4,11:16 PM,4:41,,,Wagner Free Throw 2 of 2 (18 PTS),94 - 105,11,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,587,1,1,4,11:16 PM,4:21,Jokic 13' Jump Shot (23 PTS) (Je. Green 3 AST),,,94 - 107,13,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,589,6,2,4,11:17 PM,4:07,Jokic S.FOUL (P2.PN) (P.Fraher),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,591,3,11,4,11:17 PM,4:07,,,Wagner Free Throw 1 of 2 (19 PTS),95 - 107,12,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,592,3,12,4,11:17 PM,4:07,,,Wagner Free Throw 2 of 2 (20 PTS),96 - 107,11,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,593,6,2,4,11:18 PM,3:52,,,Okeke S.FOUL (P1.T4) (P.Fraher),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,595,3,11,4,11:18 PM,3:52,MISS Je. Green Free Throw 1 of 2,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,596,4,1,4,11:18 PM,3:52,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,597,3,12,4,11:19 PM,3:52,Je. Green Free Throw 2 of 2 (15 PTS),,,96 - 108,12,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,598,2,1,4,11:19 PM,3:38,,,MISS Okeke 25' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,599,4,0,4,11:19 PM,3:33,,,Harris REBOUND (Off:2 Def:1),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,600,5,45,4,11:19 PM,3:33,,,Harris Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022100864,601,2,44,4,11:20 PM,3:15,MISS Jokic 3' Reverse Layup,,Okeke BLOCK (1 BLK),,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0022100864,603,4,0,4,11:20 PM,3:15,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,604,1,108,4,11:20 PM,3:12,Barton 2' Cutting Dunk Shot (15 PTS) (Jokic 7 AST),,,96 - 110,14,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,606,1,100,4,11:20 PM,3:04,,,Harris 3' Running Alley Oop Layup Shot (15 PTS) (Suggs 3 AST),98 - 110,12,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,608,2,1,4,11:20 PM,2:42,MISS Hyland 26' 3PT Jump Shot,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,609,4,0,4,11:21 PM,2:37,Jokic REBOUND (Off:5 Def:9),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,610,2,72,4,11:21 PM,2:37,MISS Jokic Putback Layup,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,611,4,0,4,11:21 PM,2:36,,,Suggs REBOUND (Off:2 Def:4),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,612,1,76,4,11:21 PM,2:32,,,Suggs 1' Running Finger Roll Layup (14 PTS),100 - 110,10,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,613,5,1,4,11:21 PM,2:29,Gordon Bad Pass Turnover (P5.T22),,Okeke STEAL (4 STL),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,615,2,1,4,11:21 PM,2:25,,,MISS Harris 25' 3PT Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,616,4,0,4,11:21 PM,2:23,,,Wagner REBOUND (Off:2 Def:5),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,617,6,2,4,11:21 PM,2:23,Gordon S.FOUL (P2.PN) (P.Fraher),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022100864,619,3,11,4,11:21 PM,2:23,,,MISS Wagner Free Throw 1 of 2,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,620,4,1,4,11:21 PM,2:23,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,621,3,12,4,11:22 PM,2:23,,,Wagner Free Throw 2 of 2 (21 PTS),101 - 110,9,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,622,2,79,4,11:22 PM,2:00,MISS Barton 17' Pullup Jump Shot,,,,,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,623,4,0,4,11:22 PM,1:56,,,Carter Jr. REBOUND (Off:4 Def:8),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,624,2,58,4,11:22 PM,1:50,,,MISS Carter Jr. 5' Turnaround Hook Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,625,4,0,4,11:22 PM,1:48,Jokic REBOUND (Off:5 Def:10),,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,626,1,9,4,11:22 PM,1:36,Gordon 1' Driving Dunk (10 PTS),,,101 - 112,11,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,627,9,1,4,11:23 PM,1:36,,,Magic Timeout: Regular (Reg.6 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,628,1,1,4,11:24 PM,1:32,,,Carter Jr. 25' 3PT Jump Shot (25 PTS) (Okeke 4 AST),104 - 112,8,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022100864,630,1,80,4,11:25 PM,1:10,Jokic 3PT Step Back Jump Shot (26 PTS) (Gordon 3 AST),,,104 - 115,11,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,632,6,1,4,11:25 PM,1:05,Hyland P.FOUL (P2.PN) (M.Lindsay),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0022100864,634,3,11,4,11:26 PM,1:05,,,Suggs Free Throw 1 of 2 (15 PTS),105 - 115,10,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,635,3,12,4,11:26 PM,1:05,,,Suggs Free Throw 2 of 2 (16 PTS),106 - 115,9,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,636,1,50,4,11:26 PM,1:01,Je. Green 2' Running Dunk (17 PTS) (Hyland 2 AST),,,106 - 117,11,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100864,638,2,79,4,11:26 PM,0:57,,,MISS Suggs 27' 3PT Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,639,4,0,4,11:26 PM,0:57,,,Wagner REBOUND (Off:3 Def:5),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,640,1,1,4,11:26 PM,0:52,,,Wagner 3PT Jump Shot (24 PTS),109 - 117,8,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,641,9,1,4,11:27 PM,0:52,NUGGETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,642,6,28,4,11:28 PM,0:45,,,Carter Jr. Personal Take Foul (P3.PN) (D.Scott),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,644,3,11,4,11:29 PM,0:45,Hyland Free Throw 1 of 2 (13 PTS),,,109 - 118,9,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,645,3,12,4,11:29 PM,0:45,Hyland Free Throw 2 of 2 (14 PTS),,,109 - 119,10,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,646,9,1,4,11:29 PM,0:45,,,Magic Timeout: Regular (Reg.7 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100864,647,8,0,4,11:30 PM,0:45,SUB: Rivers FOR Jokic,,,,,4,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100864,649,1,9,4,11:31 PM,0:41,,,Wagner 1' Driving Dunk (26 PTS),111 - 119,8,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,650,6,28,4,11:31 PM,0:40,,,Harris Personal Take Foul (P2.PN) (M.Lindsay),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100864,652,3,11,4,11:31 PM,0:40,Barton Free Throw 1 of 2 (16 PTS),,,111 - 120,9,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,653,3,12,4,11:31 PM,0:40,Barton Free Throw 2 of 2 (17 PTS),,,111 - 121,10,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,654,2,79,4,11:32 PM,0:35,,,MISS Carter Jr. 27' 3PT Pullup Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022100864,655,4,0,4,11:32 PM,0:32,Hyland REBOUND (Off:1 Def:4),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100864,656,5,11,4,11:32 PM,0:09,NUGGETS Turnover: Shot Clock (T#23),,,,,2,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100864,657,13,0,4,11:33 PM,0:00,,End of 4th Period (11:33 PM EST),,111 - 121,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

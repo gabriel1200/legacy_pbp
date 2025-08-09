@@ -1,0 +1,510 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042400155,2,12,0,1,7:37 PM,12:00,,Start of 1st Period (7:37 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,4,10,0,1,7:37 PM,12:00,Jump Ball Sengun vs. Green: Tip to Butler III,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1
+0042400155,7,1,5,1,7:37 PM,11:43,,,Green 2' Layup (2 PTS) (Curry 1 AST),2 - 0,-2,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,9,5,2,1,7:37 PM,11:27,Thompson Lost Ball Turnover (P1.T1),,Green STEAL (1 STL),,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,11,2,41,1,7:37 PM,11:22,,,MISS Hield 1' Running Layup,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,12,4,0,1,7:37 PM,11:20,Ja. Green REBOUND (Off:0 Def:1),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,13,6,1,1,7:37 PM,11:17,,,Green P.FOUL (P1.T1) (S.Wright),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,15,1,75,1,7:38 PM,11:07,Ja. Green 2' Driving Finger Roll Layup (2 PTS) (Sengun 1 AST),,,2 - 2,TIE,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,17,6,2,1,7:38 PM,11:07,,,Curry S.FOUL (P1.T2) (N.Buchert),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,19,3,10,1,7:38 PM,11:07,Ja. Green Free Throw 1 of 1 (3 PTS),,,2 - 3,1,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,20,1,79,1,7:39 PM,10:54,,,Podziemski 27' 3PT Pullup Jump Shot (3 PTS) (Curry 2 AST),5 - 3,-2,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,22,1,57,1,7:39 PM,10:33,Sengun 7' Driving Hook Shot (2 PTS),,,5 - 5,TIE,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,23,1,1,1,7:39 PM,10:21,,,Green 25' 3PT Jump Shot (5 PTS) (Podziemski 1 AST),8 - 5,-3,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,25,6,2,1,7:39 PM,10:07,,,Butler III S.FOUL (P1.T3) (Z.Zarba),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,27,3,11,1,7:40 PM,10:07,Brooks Free Throw 1 of 2 (1 PTS),,,8 - 6,-2,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,28,3,12,1,7:40 PM,10:07,Brooks Free Throw 2 of 2 (2 PTS),,,8 - 7,-1,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,29,2,1,1,7:41 PM,9:55,,,MISS Podziemski 26' 3PT Jump Shot,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,30,4,0,1,7:41 PM,9:52,,,Hield REBOUND (Off:1 Def:0),,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,31,2,1,1,7:41 PM,9:50,,,MISS Curry 29' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,32,4,0,1,7:41 PM,9:47,Ja. Green REBOUND (Off:0 Def:2),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,33,1,80,1,7:41 PM,9:36,Ja. Green 25' 3PT Step Back Jump Shot (6 PTS) (Sengun 2 AST),,,8 - 10,2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,35,2,1,1,7:41 PM,9:17,,,MISS Butler III 24' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,36,4,0,1,7:41 PM,9:14,Sengun REBOUND (Off:0 Def:1),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,37,6,17,1,7:42 PM,9:04,,,Warriors T.Foul (Def. 3 Sec Green ) (N.Buchert),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,38,3,16,1,7:42 PM,9:04,VanVleet Free Throw Technical (1 PTS),,,8 - 11,3,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,39,1,57,1,7:42 PM,8:57,Sengun 9' Driving Hook Shot (4 PTS),,,8 - 13,5,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,40,2,80,1,7:42 PM,8:42,,,MISS Podziemski 18' Step Back Jump Shot,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,41,4,0,1,7:43 PM,8:40,Ja. Green REBOUND (Off:0 Def:3),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,42,2,80,1,7:43 PM,8:32,MISS VanVleet 25' 3PT Step Back Jump Shot,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,43,4,0,1,7:43 PM,8:28,,,Curry REBOUND (Off:0 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,44,2,1,1,7:43 PM,8:20,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,45,4,0,1,7:43 PM,8:17,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,46,6,3,1,7:43 PM,8:17,Thompson L.B.FOUL (P1.T1) (Z.Zarba),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,48,5,1,1,7:43 PM,8:11,Sengun STEAL (1 STL),,Green Bad Pass Turnover (P1.T1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,50,6,2,1,7:43 PM,8:06,,,Curry S.FOUL (P2.T4) (Z.Zarba),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,52,3,11,1,7:44 PM,8:06,Brooks Free Throw 1 of 2 (3 PTS),,,8 - 14,6,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,53,3,12,1,7:44 PM,8:06,Brooks Free Throw 2 of 2 (4 PTS),,,8 - 15,7,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,54,5,2,1,7:45 PM,7:44,Thompson STEAL (1 STL),,Podziemski Lost Ball Turnover (P1.T2),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,56,6,1,1,7:45 PM,7:44,,,Hield P.FOUL (P1.PN) (N.Buchert),,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,58,3,11,1,7:45 PM,7:44,Thompson Free Throw 1 of 2 (1 PTS),,,8 - 16,8,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,59,3,12,1,7:45 PM,7:44,Thompson Free Throw 2 of 2 (2 PTS),,,8 - 17,9,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,60,2,1,1,7:46 PM,7:23,,,MISS Hield 24' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,61,4,0,1,7:46 PM,7:21,Sengun REBOUND (Off:0 Def:2),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,62,1,1,1,7:46 PM,7:13,VanVleet 3PT Jump Shot (4 PTS) (Brooks 1 AST),,,8 - 20,12,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,64,9,1,1,7:46 PM,7:12,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,65,8,0,1,7:49 PM,7:12,,,SUB: Post FOR Hield,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,66,8,0,1,7:49 PM,7:12,,,SUB: Payton II FOR Butler III,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,69,1,1,1,7:50 PM,6:54,,,Post 26' 3PT Jump Shot (3 PTS) (Curry 3 AST),11 - 20,9,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,71,1,43,1,7:51 PM,6:31,Brooks 3' Alley Oop Layup (6 PTS) (Sengun 3 AST),,,11 - 22,11,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,73,1,101,1,7:51 PM,6:12,,,Post 10' Driving Floating Jump Shot (5 PTS) (Payton II 1 AST),13 - 22,9,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,75,2,79,1,7:51 PM,6:00,MISS Brooks 27' 3PT Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,76,4,0,1,7:51 PM,6:00,,,Podziemski REBOUND (Off:0 Def:1),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,77,2,1,1,7:51 PM,5:49,,,MISS Payton II 3PT Jump Shot,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,78,4,0,1,7:51 PM,5:45,Ja. Green REBOUND (Off:0 Def:4),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,79,1,1,1,7:52 PM,5:32,Brooks 24' 3PT Jump Shot (9 PTS) (Sengun 4 AST),,,13 - 25,12,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,81,5,2,1,7:52 PM,5:19,Thompson STEAL (2 STL),,Curry Lost Ball Turnover (P1.T3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,83,2,50,1,7:52 PM,5:14,MISS Thompson 4' Running Dunk,,Post BLOCK (1 BLK),,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,1
+0042400155,85,4,0,1,7:52 PM,5:14,Thompson REBOUND (Off:1 Def:0),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,86,1,72,1,7:52 PM,5:14,Thompson 1' Putback Layup (4 PTS),,,13 - 27,14,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,87,6,2,1,7:52 PM,5:14,,,Payton II S.FOUL (P1.PN) (S.Wright),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,89,8,0,1,7:52 PM,5:14,SUB: Adams FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,91,3,10,1,7:53 PM,5:14,Thompson Free Throw 1 of 1 (5 PTS),,,13 - 28,15,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,92,5,1,1,7:53 PM,5:07,Thompson STEAL (3 STL),,Curry Bad Pass Turnover (P2.T4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,94,2,2,1,7:53 PM,5:02,MISS Ja. Green 25' 3PT Running Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,95,4,0,1,7:53 PM,4:59,,,Payton II REBOUND (Off:0 Def:1),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,96,6,1,1,7:53 PM,4:49,Brooks P.FOUL (P1.T2) (Z.Zarba),,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,98,8,0,1,7:54 PM,4:49,SUB: Eason FOR Thompson,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,99,8,0,1,7:54 PM,4:49,SUB: Holiday FOR Ja. Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,100,8,0,1,7:54 PM,4:49,,,SUB: Butler III FOR Podziemski,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,104,2,79,1,7:54 PM,4:35,,,MISS Butler III 22' Pullup Jump Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,105,4,0,1,7:54 PM,4:31,Adams REBOUND (Off:0 Def:1),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,106,1,79,1,7:54 PM,4:26,VanVleet 25' 3PT Pullup Jump Shot (7 PTS),,,13 - 31,18,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,107,9,1,1,7:54 PM,4:25,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,108,8,0,1,7:57 PM,4:25,,,SUB: Santos FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,110,1,1,1,7:58 PM,4:04,,,Santos 26' 3PT Jump Shot (3 PTS) (Butler III 1 AST),16 - 31,15,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,112,1,1,1,7:59 PM,3:37,VanVleet 28' 3PT Jump Shot (10 PTS) (Brooks 2 AST),,,16 - 34,18,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,114,1,1,1,7:59 PM,3:25,,,Payton II 25' 3PT Jump Shot (3 PTS) (Curry 4 AST),19 - 34,15,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,116,6,2,1,7:59 PM,3:10,,,Santos S.FOUL (P1.PN) (Z.Zarba),,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,118,3,11,1,8:00 PM,3:10,VanVleet Free Throw 1 of 2 (11 PTS),,,19 - 35,16,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,119,8,0,1,8:00 PM,3:10,SUB: Sengun FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,121,3,12,1,8:00 PM,3:10,VanVleet Free Throw 2 of 2 (12 PTS),,,19 - 36,17,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,122,2,1,1,8:00 PM,2:55,,,MISS Post 25' 3PT Jump Shot,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,123,4,0,1,8:00 PM,2:53,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,125,2,1,1,8:01 PM,2:34,MISS Eason 3PT Jump Shot,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,126,4,0,1,8:01 PM,2:32,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400155,127,6,3,1,8:01 PM,2:32,Adams L.B.FOUL (P1.T3) (N.Buchert),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,129,8,0,1,8:01 PM,2:32,,,SUB: Podziemski FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,131,1,1,1,8:01 PM,2:19,,,Santos 26' 3PT Jump Shot (6 PTS) (Payton II 2 AST),22 - 36,14,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,133,5,1,1,8:02 PM,1:57,Sengun Bad Pass Turnover (P1.T2),,Butler III STEAL (1 STL),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,135,1,98,1,8:02 PM,1:49,,,Payton II 1' Cutting Layup Shot (5 PTS) (Butler III 2 AST),24 - 36,12,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,137,1,79,1,8:02 PM,1:37,VanVleet 22' Pullup Jump Shot (14 PTS),,,24 - 38,14,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,138,2,1,1,8:02 PM,1:20,,,MISS Payton II 24' 3PT Jump Shot,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,139,4,0,1,8:02 PM,1:18,Sengun REBOUND (Off:0 Def:3),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,140,6,2,1,8:03 PM,1:01,,,Post S.FOUL (P1.PN) (Z.Zarba),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,142,3,11,1,8:03 PM,1:01,Sengun Free Throw 1 of 2 (5 PTS),,,24 - 39,15,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,143,8,0,1,8:03 PM,1:01,SUB: Smith Jr. FOR Holiday,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,144,8,0,1,8:03 PM,1:01,SUB: Thompson FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,145,8,0,1,8:03 PM,1:01,,,SUB: Hield FOR Payton II,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,149,3,12,1,8:04 PM,1:01,Sengun Free Throw 2 of 2 (6 PTS),,,24 - 40,16,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,150,2,1,1,8:04 PM,0:36,,,MISS Butler III 26' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,151,4,0,1,8:04 PM,0:34,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,153,8,0,1,8:05 PM,0:34,SUB: VanVleet FOR Adams,,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,155,2,98,1,8:05 PM,0:28,MISS Sengun 3' Cutting Layup Shot,,Post BLOCK (2 BLK),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,1
+0042400155,157,4,0,1,8:05 PM,0:26,,,Post REBOUND (Off:0 Def:1),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,158,6,4,1,8:05 PM,0:11,,,Post OFF.Foul (P2) (S.Wright),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,160,5,37,1,8:05 PM,0:11,,,Post Offensive Foul Turnover (P1.T5),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,161,8,0,1,8:06 PM,0:11,SUB: Ja. Green FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,162,8,0,1,8:06 PM,0:11,,,SUB: Payton II FOR Hield,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,163,8,0,1,8:06 PM,0:11,,,SUB: Green FOR Post,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,167,5,1,1,8:06 PM,0:04,Thompson Bad Pass Turnover (P2.T3),,Green STEAL (2 STL),,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,169,2,1,1,8:06 PM,0:00,,,MISS Payton II 25' 3PT Jump Shot,,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,170,4,0,1,8:06 PM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,171,13,0,1,8:06 PM,0:00,,End of 1st Period (8:06 PM EST),,24 - 40,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400155,180,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,24 - 40,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,181,1,79,2,8:10 PM,11:48,Smith Jr. 12' Pullup Jump Shot (2 PTS) (Thompson 1 AST),,,24 - 42,18,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,183,2,1,2,8:10 PM,11:20,,,MISS Butler III 26' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,184,4,0,2,8:10 PM,11:19,Sengun REBOUND (Off:0 Def:4),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,185,1,79,2,8:11 PM,11:11,Sengun 18' Pullup Jump Shot (8 PTS) (Holiday 1 AST),,,24 - 44,20,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,187,2,1,2,8:11 PM,10:45,,,MISS Green 26' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,188,4,0,2,8:11 PM,10:42,Smith Jr. REBOUND (Off:0 Def:1),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,189,1,108,2,8:11 PM,10:28,Thompson 2' Cutting Dunk Shot (7 PTS) (Sengun 5 AST),,,24 - 46,22,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,191,9,1,2,8:11 PM,10:28,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,192,8,0,2,8:14 PM,10:28,,,SUB: Santos FOR Butler III,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,194,5,1,2,8:16 PM,10:05,Sengun STEAL (2 STL),,Podziemski Bad Pass Turnover (P2.T6),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,196,1,1,2,8:16 PM,9:49,Smith Jr. 3PT Jump Shot (5 PTS) (Thompson 2 AST),,,24 - 49,25,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,198,5,2,2,8:16 PM,9:34,Thompson STEAL (4 STL),,Post Lost Ball Turnover (P2.T7),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,200,2,100,2,8:16 PM,9:30,MISS Thompson 3' Running Alley Oop Layup Shot,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,201,4,0,2,8:16 PM,9:28,,,Moody REBOUND (Off:0 Def:1),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,202,5,40,2,8:16 PM,9:25,,,Post Out of Bounds Lost Ball Turnover (P3.T8),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,203,5,40,2,8:17 PM,9:09,Smith Jr. Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0042400155,204,5,45,2,8:17 PM,9:03,,,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,205,2,1,2,8:17 PM,8:45,MISS Holiday 29' 3PT Jump Shot,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,206,4,0,2,8:17 PM,8:42,,,Moody REBOUND (Off:0 Def:2),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,207,2,1,2,8:18 PM,8:25,,,MISS Santos 25' 3PT Jump Shot,,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,208,4,0,2,8:18 PM,8:23,Adams REBOUND (Off:0 Def:2),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,209,2,63,2,8:18 PM,8:12,MISS Thompson 10' Fadeaway Jumper,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,210,4,0,2,8:18 PM,8:09,,,Green REBOUND (Off:0 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,211,6,1,2,8:18 PM,8:02,Sengun P.FOUL (P1.T1) (S.Wright),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,213,8,0,2,8:18 PM,8:02,SUB: Eason FOR Holiday,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,214,8,0,2,8:18 PM,8:02,SUB: Ja. Green FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,215,8,0,2,8:18 PM,8:02,,,SUB: Curry FOR Podziemski,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,216,8,0,2,8:18 PM,8:02,,,SUB: Looney FOR Post,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,217,8,0,2,8:18 PM,8:02,,,SUB: Butler III FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,223,6,1,2,8:19 PM,7:58,Adams P.FOUL (P2.T2) (Z.Zarba),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,225,2,96,2,8:19 PM,7:47,,,MISS Looney 14' Turnaround Bank Hook Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,226,4,0,2,8:19 PM,7:46,Eason REBOUND (Off:0 Def:1),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,227,1,1,2,8:19 PM,7:30,Eason 3PT Jump Shot (3 PTS) (Ja. Green 1 AST),,,24 - 52,28,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,229,2,1,2,8:20 PM,7:13,,,MISS Butler III 11' Jump Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,230,4,0,2,8:20 PM,7:10,Eason REBOUND (Off:0 Def:2),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,231,1,75,2,8:20 PM,7:02,Eason 2' Driving Finger Roll Layup (5 PTS),,,24 - 54,30,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,233,6,2,2,8:20 PM,6:53,Smith Jr. S.FOUL (P1.T3) (S.Wright),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,235,3,11,2,8:21 PM,6:53,,,Santos Free Throw 1 of 2 (7 PTS),25 - 54,29,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,236,3,12,2,8:21 PM,6:53,,,MISS Santos Free Throw 2 of 2,,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,237,4,0,2,8:21 PM,6:49,,,Moody REBOUND (Off:1 Def:2),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,238,1,87,2,8:21 PM,6:48,,,Moody 1' Putback Dunk (2 PTS),27 - 54,27,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,239,5,1,2,8:21 PM,6:28,Thompson Bad Pass Turnover (P3.T5),,Butler III STEAL (2 STL),,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,241,1,41,2,8:21 PM,6:24,,,Moody 3' Running Layup (4 PTS) (Curry 5 AST),29 - 54,25,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,243,6,2,2,8:22 PM,6:12,,,Looney S.FOUL (P1.T1) (S.Wright),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,245,3,11,2,8:22 PM,6:12,Ja. Green Free Throw 1 of 2 (7 PTS),,,29 - 55,26,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,246,8,0,2,8:22 PM,6:12,SUB: VanVleet FOR Thompson,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,247,8,0,2,8:22 PM,6:12,SUB: Sengun FOR Adams,,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,250,3,12,2,8:22 PM,6:12,MISS Ja. Green Free Throw 2 of 2,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,251,4,0,2,8:22 PM,6:12,,,Santos REBOUND (Off:0 Def:1),,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,252,1,80,2,8:23 PM,6:03,,,Curry 25' 3PT Step Back Jump Shot (3 PTS),32 - 55,23,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,253,2,1,2,8:23 PM,5:44,MISS Smith Jr. 25' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,254,4,0,2,8:23 PM,5:40,,,Looney REBOUND (Off:0 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,255,2,79,2,8:23 PM,5:33,,,MISS Curry 28' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,256,4,0,2,8:23 PM,5:33,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,257,6,3,2,8:23 PM,5:33,,,Looney L.B.FOUL (P2.T2) (S.Wright),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,259,8,0,2,8:23 PM,5:33,SUB: Brooks FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,261,2,79,2,8:24 PM,5:15,MISS Sengun 15' Pullup Jump Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,262,4,0,2,8:24 PM,5:12,,,Butler III REBOUND (Off:0 Def:1),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,263,2,1,2,8:24 PM,5:05,,,MISS Moody 3PT Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,264,4,0,2,8:24 PM,5:03,,,Looney REBOUND (Off:1 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,265,2,1,2,8:24 PM,5:00,,,MISS Moody 25' 3PT Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,266,4,0,2,8:24 PM,4:56,,,Curry REBOUND (Off:1 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,267,2,1,2,8:24 PM,4:52,,,MISS Santos 27' 3PT Jump Shot,,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,268,4,0,2,8:24 PM,4:51,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,269,6,3,2,8:24 PM,4:51,Brooks L.B.FOUL (P2.T4) (S.Wright),,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,271,2,1,2,8:25 PM,4:37,,,MISS Looney 19' Jump Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,272,4,0,2,8:25 PM,4:36,,,Butler III REBOUND (Off:1 Def:1),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,273,2,97,2,8:25 PM,4:35,,,MISS Butler III Tip Layup Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,274,4,0,2,8:25 PM,4:34,,,Butler III REBOUND (Off:2 Def:1),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,275,6,2,2,8:25 PM,4:34,VanVleet S.FOUL (P1.PN) (Z.Zarba),,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,277,3,11,2,8:25 PM,4:34,,,Butler III Free Throw 1 of 2 (1 PTS),33 - 55,22,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,278,8,0,2,8:25 PM,4:34,,,SUB: Hield FOR Santos,,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,280,3,12,2,8:25 PM,4:34,,,MISS Butler III Free Throw 2 of 2,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,281,4,0,2,8:25 PM,4:34,Eason REBOUND (Off:0 Def:3),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,282,1,6,2,8:26 PM,4:18,Eason 2' Driving Layup (7 PTS) (VanVleet 1 AST),,,33 - 57,24,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,284,6,2,2,8:26 PM,4:08,Eason S.FOUL (P1.PN) (S.Wright),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,286,3,13,2,8:26 PM,4:08,,,MISS Curry Free Throw 1 of 3,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,287,4,1,2,8:26 PM,4:08,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,288,3,14,2,8:27 PM,4:08,,,Curry Free Throw 2 of 3 (4 PTS),34 - 57,23,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,289,8,0,2,8:27 PM,4:08,,,SUB: Payton II FOR Moody,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,291,3,15,2,8:27 PM,4:08,,,Curry Free Throw 3 of 3 (5 PTS),35 - 57,22,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,292,1,101,2,8:27 PM,3:59,Sengun 10' Driving Floating Jump Shot (10 PTS) (Ja. Green 2 AST),,,35 - 59,24,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,294,1,80,2,8:27 PM,3:49,,,Curry 27' 3PT Step Back Jump Shot (8 PTS),38 - 59,21,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,295,1,44,2,8:28 PM,3:31,Eason 1' Reverse Layup (9 PTS) (Sengun 6 AST),,,38 - 61,23,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,297,2,80,2,8:28 PM,3:20,,,MISS Curry 27' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,298,4,0,2,8:28 PM,3:18,Eason REBOUND (Off:0 Def:4),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,299,6,26,2,8:28 PM,3:15,Eason Offensive Charge Foul (P2) (S.Wright),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,301,5,37,2,8:28 PM,3:15,Eason Offensive Foul Turnover (P1.T6),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0042400155,302,8,0,2,8:28 PM,3:15,SUB: Thompson FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,304,1,6,2,8:29 PM,2:57,,,Butler III 3' Driving Layup (3 PTS),40 - 61,21,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,305,6,2,2,8:29 PM,2:57,Sengun S.FOUL (P2.PN) (Z.Zarba),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,307,9,1,2,8:29 PM,2:57,ROCKETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,308,18,6,2,8:30 PM,2:57,,Instant Replay2nd Period (8:30 PM EST),,40 - 61,21,0,305,Robert Parish,,,,,0,0,,,,,,1,0,,,,,,1
+0042400155,309,3,10,2,8:33 PM,2:57,,,Butler III Free Throw 1 of 1 (4 PTS),41 - 61,20,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,310,1,79,2,8:33 PM,2:41,Brooks 25' 3PT Pullup Jump Shot (12 PTS) (Sengun 7 AST),,,41 - 64,23,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,312,1,1,2,8:34 PM,2:26,,,Payton II 3PT Jump Shot (8 PTS) (Curry 6 AST),44 - 64,20,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,314,1,1,2,8:34 PM,2:00,VanVleet 25' 3PT Jump Shot (17 PTS) (Sengun 8 AST),,,44 - 67,23,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,316,2,101,2,8:34 PM,1:48,Thompson BLOCK (1 BLK),,MISS Curry 12' Driving Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1
+0042400155,318,4,0,2,8:34 PM,1:46,Sengun REBOUND (Off:0 Def:5),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,319,6,2,2,8:34 PM,1:44,,,Payton II S.FOUL (P2.T3) (Z.Zarba),,,5,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,321,3,11,2,8:35 PM,1:44,MISS Thompson Free Throw 1 of 2,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,322,4,1,2,8:35 PM,1:44,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,323,3,12,2,8:35 PM,1:44,Thompson Free Throw 2 of 2 (8 PTS),,,44 - 68,24,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,324,2,83,2,8:36 PM,1:24,,,MISS Hield 11' Fadeaway Bank Shot,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,325,4,0,2,8:36 PM,1:22,Sengun REBOUND (Off:0 Def:6),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,326,6,1,2,8:36 PM,1:14,,,Looney P.FOUL (P3.PN) (S.Wright),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,328,3,11,2,8:36 PM,1:14,MISS Ja. Green Free Throw 1 of 2,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,329,4,1,2,8:36 PM,1:14,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,330,3,12,2,8:37 PM,1:14,Ja. Green Free Throw 2 of 2 (8 PTS),,,44 - 69,25,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,331,5,2,2,8:37 PM,1:04,Thompson STEAL (5 STL),,Curry Lost Ball Turnover (P3.T10),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,334,6,2,2,8:37 PM,1:03,,,Butler III S.FOUL (P2.PN) (Z.Zarba),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,333,1,50,2,8:37 PM,1:03,Thompson 2' Running Dunk (10 PTS),,,44 - 71,27,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,336,8,0,2,8:37 PM,1:03,,,SUB: Podziemski FOR Hield,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,338,3,10,2,8:38 PM,1:03,Thompson Free Throw 1 of 1 (11 PTS),,,44 - 72,28,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,339,2,75,2,8:38 PM,0:52,,,MISS Curry 9' Driving Finger Roll Layup,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,340,4,0,2,8:38 PM,0:50,,,Butler III REBOUND (Off:3 Def:1),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,341,1,1,2,8:38 PM,0:45,,,Curry 26' 3PT Jump Shot (11 PTS) (Podziemski 2 AST),47 - 72,25,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,343,1,6,2,8:38 PM,0:32,Sengun 3' Driving Layup (12 PTS),,,47 - 74,27,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,344,2,80,2,8:38 PM,0:25,,,MISS Curry 26' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,345,4,0,2,8:38 PM,0:23,,,Looney REBOUND (Off:2 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,346,6,2,2,8:39 PM,0:13,Sengun S.FOUL (P3.PN) (S.Wright),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,348,3,11,2,8:39 PM,0:13,,,Butler III Free Throw 1 of 2 (5 PTS),48 - 74,26,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,349,8,0,2,8:39 PM,0:13,SUB: Adams FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,350,8,0,2,8:39 PM,0:13,,,SUB: Moody FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,353,3,12,2,8:39 PM,0:13,,,Butler III Free Throw 2 of 2 (6 PTS),49 - 74,25,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,354,1,75,2,8:40 PM,0:01,VanVleet 5' Driving Finger Roll Layup (19 PTS),,,49 - 76,27,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,355,13,0,2,8:40 PM,0:00,,End of 2nd Period (8:40 PM EST),,49 - 76,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400155,364,12,0,3,8:57 PM,12:00,,Start of 3rd Period (8:57 PM EST),,49 - 76,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,365,1,86,3,8:57 PM,11:40,Brooks 16' Turnaround Fadeaway (14 PTS),,,49 - 78,29,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,366,2,6,3,8:57 PM,11:27,Thompson BLOCK (2 BLK),,MISS Butler III 5' Driving Layup,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1
+0042400155,368,4,0,3,8:57 PM,11:26,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,369,6,3,3,8:57 PM,11:26,Thompson L.B.FOUL (P2.T1) (N.Buchert),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,371,2,79,3,8:58 PM,11:12,,,MISS Curry 59' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,372,4,0,3,8:58 PM,11:08,Ja. Green REBOUND (Off:0 Def:5),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,373,2,103,3,8:59 PM,11:02,MISS Ja. Green 12' Running Pull-Up Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,374,4,0,3,8:59 PM,11:01,Sengun REBOUND (Off:1 Def:6),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,375,1,87,3,8:59 PM,10:59,Sengun 1' Putback Dunk (14 PTS),,,49 - 80,31,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,376,1,80,3,8:59 PM,10:43,,,Podziemski 26' 3PT Step Back Jump Shot (6 PTS) (Green 1 AST),52 - 80,28,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,378,1,80,3,8:59 PM,10:26,Ja. Green 26' 3PT Step Back Jump Shot (11 PTS),,,52 - 83,31,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,379,7,5,3,8:59 PM,10:15,Sengun Violation:Kicked Ball (Z.Zarba),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0042400155,380,2,79,3,9:00 PM,10:06,,,MISS Podziemski 18' Pullup Jump Shot,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,381,4,0,3,9:00 PM,10:03,Ja. Green REBOUND (Off:0 Def:6),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,382,6,1,3,9:00 PM,10:01,,,Podziemski P.FOUL (P1.T1) (N.Buchert),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,384,2,63,3,9:00 PM,9:52,MISS Brooks 8' Fadeaway Jumper,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,385,4,0,3,9:00 PM,9:50,,,Curry REBOUND (Off:1 Def:2),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,386,1,76,3,9:01 PM,9:44,,,Hield 2' Running Finger Roll Layup (2 PTS) (Curry 7 AST),54 - 83,29,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,388,2,80,3,9:01 PM,9:32,MISS VanVleet 19' Step Back Jump Shot,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,389,4,0,3,9:01 PM,9:27,,,Podziemski REBOUND (Off:0 Def:2),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,390,1,76,3,9:01 PM,9:21,,,Hield 2' Running Finger Roll Layup (4 PTS) (Podziemski 3 AST),56 - 83,27,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,392,2,101,3,9:01 PM,9:07,MISS Ja. Green 14' Driving Floating Jump Shot,,Hield BLOCK (1 BLK),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,1
+0042400155,394,4,0,3,9:01 PM,9:07,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,396,1,102,3,9:02 PM,9:00,VanVleet 13' Driving Floating Bank Jump Shot (21 PTS) (Sengun 9 AST),,,56 - 85,29,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,398,1,57,3,9:02 PM,8:37,,,Podziemski 8' Driving Hook Shot (8 PTS) (Hield 1 AST),58 - 85,27,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,399,2,86,3,9:02 PM,8:17,MISS Ja. Green 11' Turnaround Fadeaway Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,400,4,0,3,9:02 PM,8:17,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,401,6,3,3,9:02 PM,8:17,Sengun L.B.FOUL (P4.T2) (S.Wright),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,403,2,1,3,9:03 PM,7:59,,,MISS Podziemski 25' 3PT Jump Shot,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,404,4,0,3,9:03 PM,7:56,Thompson REBOUND (Off:1 Def:1),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,405,1,41,3,9:03 PM,7:50,Thompson 4' Running Layup (13 PTS),,,58 - 87,29,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,406,1,98,3,9:03 PM,7:33,,,Green 3' Cutting Layup Shot (7 PTS) (Podziemski 4 AST),60 - 87,27,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,409,8,0,3,9:04 PM,7:18,SUB: Adams FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,411,2,101,3,9:04 PM,7:13,MISS VanVleet 10' Driving Floating Jump Shot,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,412,4,0,3,9:04 PM,7:12,Adams REBOUND (Off:1 Def:2),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,413,2,72,3,9:04 PM,7:11,MISS Adams 5' Putback Layup,,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,414,4,0,3,9:04 PM,7:10,Thompson REBOUND (Off:2 Def:1),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,415,1,97,3,9:04 PM,7:09,Thompson Tip Layup Shot (15 PTS),,,60 - 89,29,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,416,2,98,3,9:04 PM,6:55,,,MISS Butler III 6' Cutting Layup Shot,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,417,4,0,3,9:04 PM,6:54,,,Butler III REBOUND (Off:4 Def:1),,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,418,1,97,3,9:04 PM,6:53,,,Butler III Tip Layup Shot (8 PTS),62 - 89,27,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,419,1,63,3,9:05 PM,6:29,Brooks 13' Fadeaway Jumper (16 PTS),,,62 - 91,29,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,420,1,75,3,9:05 PM,6:14,,,Curry 10' Driving Finger Roll Layup (13 PTS),64 - 91,27,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,421,1,98,3,9:05 PM,5:51,VanVleet 2' Cutting Layup Shot (23 PTS) (Adams 1 AST),,,64 - 93,29,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,423,9,1,3,9:05 PM,5:50,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,424,8,0,3,9:08 PM,5:50,SUB: Eason FOR Ja. Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,425,8,0,3,9:08 PM,5:50,,,SUB: Spencer FOR Podziemski,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,426,8,0,3,9:08 PM,5:50,,,SUB: Santos FOR Hield,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,427,8,0,3,9:08 PM,5:50,,,SUB: Post FOR Butler III,,,5,202710,Jimmy Butler III,1610612744.0,Golden State,Warriors,GSW,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,428,8,0,3,9:08 PM,5:50,,,SUB: Knox II FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,429,8,0,3,9:08 PM,5:50,,,SUB: Moody FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,436,5,45,3,9:10 PM,5:36,,,Spencer Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,437,6,2,3,9:10 PM,5:18,,,Post S.FOUL (P3.T2) (N.Buchert),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,439,3,11,3,9:10 PM,5:18,Brooks Free Throw 1 of 2 (17 PTS),,,64 - 94,30,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,440,3,12,3,9:11 PM,5:18,Brooks Free Throw 2 of 2 (18 PTS),,,64 - 95,31,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,441,2,1,3,9:11 PM,5:06,,,MISS Knox II 24' 3PT Jump Shot,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,442,4,0,3,9:11 PM,5:03,Thompson REBOUND (Off:2 Def:2),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,443,2,2,3,9:11 PM,4:58,MISS Brooks 29' 3PT Running Jump Shot,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,444,4,0,3,9:11 PM,4:54,,,Post REBOUND (Off:0 Def:2),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,445,2,101,3,9:11 PM,4:47,,,MISS Post 13' Driving Floating Jump Shot,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,446,4,0,3,9:11 PM,4:47,VanVleet REBOUND (Off:0 Def:1),,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,447,2,2,3,9:11 PM,4:41,MISS Brooks 3PT Running Jump Shot,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,448,4,0,3,9:11 PM,4:41,,,Knox II REBOUND (Off:0 Def:1),,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,449,1,98,3,9:12 PM,4:28,,,Knox II 1' Cutting Layup Shot (2 PTS) (Santos 1 AST),66 - 95,29,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,451,2,80,3,9:12 PM,4:09,MISS VanVleet 27' 3PT Step Back Jump Shot,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,452,4,0,3,9:12 PM,4:04,,,Spencer REBOUND (Off:0 Def:1),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,453,1,93,3,9:12 PM,3:53,,,Spencer 3' Driving Bank Hook Shot (2 PTS),68 - 95,27,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,454,1,101,3,9:12 PM,3:40,Thompson 4' Driving Floating Jump Shot (17 PTS),,,68 - 97,29,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,455,6,2,3,9:12 PM,3:40,,,Post S.FOUL (P4.T3) (S.Wright),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,457,8,0,3,9:13 PM,3:40,SUB: Smith Jr. FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,459,3,10,3,9:13 PM,3:40,Thompson Free Throw 1 of 1 (18 PTS),,,68 - 98,30,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,460,6,2,3,9:13 PM,3:21,Eason S.FOUL (P3.T3) (N.Buchert),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,462,3,11,3,9:14 PM,3:21,,,Moody Free Throw 1 of 2 (5 PTS),69 - 98,29,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,463,3,12,3,9:14 PM,3:21,,,Moody Free Throw 2 of 2 (6 PTS),70 - 98,28,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042400155,464,2,75,3,9:15 PM,3:00,MISS VanVleet 4' Driving Finger Roll Layup,,Knox II BLOCK (1 BLK),,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,1
+0042400155,466,4,0,3,9:15 PM,2:59,Adams REBOUND (Off:2 Def:2),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,467,2,97,3,9:15 PM,2:58,MISS Adams Tip Layup Shot,,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,468,4,0,3,9:15 PM,2:57,Adams REBOUND (Off:3 Def:2),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,469,6,2,3,9:15 PM,2:54,,,Post S.FOUL (P5.T4) (N.Buchert),,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,471,9,1,3,9:15 PM,2:54,ROCKETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,472,8,0,3,9:17 PM,2:54,SUB: Holiday FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,473,8,0,3,9:17 PM,2:54,,,SUB: Looney FOR Post,,,5,1642366,Quinten Post,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,476,3,11,3,9:19 PM,2:54,Smith Jr. Free Throw 1 of 2 (6 PTS),,,70 - 99,29,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,477,3,12,3,9:19 PM,2:54,Smith Jr. Free Throw 2 of 2 (7 PTS),,,70 - 100,30,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,478,1,101,3,9:19 PM,2:39,,,Moody 12' Driving Floating Jump Shot (8 PTS) (Knox II 1 AST),72 - 100,28,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,480,5,2,3,9:20 PM,2:16,Eason Lost Ball Turnover (P2.T7),,Moody STEAL (1 STL),,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,482,1,74,3,9:20 PM,2:11,,,Spencer 2' Running Reverse Layup (4 PTS) (Santos 2 AST),74 - 100,26,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,484,1,101,3,9:20 PM,1:56,Holiday 11' Driving Floating Jump Shot (2 PTS) (Thompson 3 AST),,,74 - 102,28,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,486,2,101,3,9:20 PM,1:44,,,MISS Moody 8' Driving Floating Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,487,4,0,3,9:20 PM,1:41,Adams REBOUND (Off:3 Def:3),,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,488,1,79,3,9:21 PM,1:22,Thompson 26' 3PT Pullup Jump Shot (21 PTS),,,74 - 105,31,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,489,1,80,3,9:21 PM,1:05,,,Spencer 13' Step Back Jump Shot (6 PTS),76 - 105,29,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,491,9,1,3,9:22 PM,0:50,ROCKETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,493,8,0,3,9:23 PM,0:50,SUB: Sheppard FOR Thompson,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,494,8,0,3,9:23 PM,0:50,SUB: Landale FOR Adams,,,,,4,203500,Steven Adams,1610612745.0,Houston,Rockets,HOU,4,1629111,Jock Landale,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,497,1,101,3,9:23 PM,0:44,Holiday 13' Driving Floating Jump Shot (4 PTS),,,76 - 107,31,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,498,1,58,3,9:24 PM,0:31,,,Looney 6' Turnaround Hook Shot (2 PTS) (Spencer 1 AST),78 - 107,29,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,500,5,1,3,9:24 PM,0:17,Sheppard Bad Pass Turnover (P1.T8),,Spencer STEAL (1 STL),,,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,502,1,75,3,9:24 PM,0:02,,,Moody 3' Driving Finger Roll Layup (10 PTS),80 - 107,27,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,503,2,79,3,9:24 PM,0:00,MISS Holiday 45' 3PT Pullup Jump Shot,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,504,4,0,3,9:24 PM,0:00,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,505,13,0,3,9:25 PM,0:00,,End of 3rd Period (9:25 PM EST),,80 - 107,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400155,510,12,0,4,9:28 PM,12:00,,Start of 4th Period (9:28 PM EST),,80 - 107,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,511,2,1,4,9:28 PM,11:47,,,MISS Moody 25' 3PT Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042400155,512,4,0,4,9:28 PM,11:44,,,Spencer REBOUND (Off:1 Def:1),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0042400155,513,2,72,4,9:28 PM,11:43,,,MISS Spencer 3' Putback Layup,,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,514,4,0,4,9:28 PM,11:41,Smith Jr. REBOUND (Off:0 Def:2),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,515,2,86,4,9:29 PM,11:19,MISS Landale 16' Turnaround Fadeaway Shot,,Moody BLOCK (1 BLK),,,4,1629111,Jock Landale,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1
+0042400155,517,4,0,4,9:29 PM,11:19,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,518,5,11,4,9:29 PM,11:19,ROCKETS Turnover: Shot Clock (T#9),,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400155,519,2,1,4,9:29 PM,11:06,,,MISS Knox II 26' 3PT Jump Shot,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,520,4,0,4,9:29 PM,11:04,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400155,522,1,98,4,9:30 PM,11:02,,,Knox II 1' Cutting Layup Shot (4 PTS) (Spencer 2 AST),82 - 107,25,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,524,2,1,4,9:30 PM,10:40,MISS Smith Jr. 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,525,4,0,4,9:30 PM,10:36,,,Jackson-Davis REBOUND (Off:0 Def:1),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,526,6,2,4,9:30 PM,10:27,Eason S.FOUL (P4.T1) (S.Wright),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,528,3,11,4,9:31 PM,10:27,,,MISS Jackson-Davis Free Throw 1 of 2,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,529,4,1,4,9:31 PM,10:27,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,530,3,12,4,9:31 PM,10:27,,,MISS Jackson-Davis Free Throw 2 of 2,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,531,4,0,4,9:31 PM,10:27,Eason REBOUND (Off:0 Def:5),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,532,5,1,4,9:31 PM,10:08,Eason Bad Pass Turnover (P3.T10),,Key STEAL (1 STL),,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,535,1,80,4,9:31 PM,9:53,,,Spencer 12' Step Back Jump Shot (8 PTS),84 - 107,23,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,536,6,1,4,9:32 PM,9:43,,,Key P.FOUL (P1.T1) (N.Buchert),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,538,9,1,4,9:32 PM,9:43,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,540,2,1,4,9:36 PM,9:33,MISS Smith Jr. 25' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,541,4,0,4,9:36 PM,9:30,,,Moody REBOUND (Off:1 Def:3),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,542,1,1,4,9:36 PM,9:24,,,Moody 25' 3PT Jump Shot (13 PTS) (Knox II 2 AST),87 - 107,20,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,544,6,1,4,9:37 PM,9:06,,,Key P.FOUL (P2.T2) (S.Wright),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,546,1,98,4,9:37 PM,9:02,Landale 6' Cutting Layup Shot (2 PTS) (Eason 1 AST),,,87 - 109,22,4,1629111,Jock Landale,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,548,5,2,4,9:37 PM,8:44,Sheppard STEAL (1 STL),,Key Lost Ball Turnover (P1.T12),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,550,2,2,4,9:37 PM,8:40,MISS Smith Jr. 25' 3PT Running Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,551,4,0,4,9:37 PM,8:37,,,Moody REBOUND (Off:1 Def:4),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,552,6,2,4,9:37 PM,8:30,Sheppard S.FOUL (P1.T2) (Z.Zarba),,,,,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,554,3,11,4,9:38 PM,8:30,,,Knox II Free Throw 1 of 2 (5 PTS),88 - 109,21,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,555,3,12,4,9:38 PM,8:30,,,Knox II Free Throw 2 of 2 (6 PTS),89 - 109,20,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,556,5,1,4,9:38 PM,8:24,Holiday Bad Pass Turnover (P1.T11),,Moody STEAL (2 STL),,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,558,2,9,4,9:38 PM,8:21,,,MISS Moody 3' Driving Dunk,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,559,4,0,4,9:38 PM,8:18,,,Spencer REBOUND (Off:2 Def:1),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,560,5,1,4,9:38 PM,8:17,Sheppard STEAL (2 STL),,Spencer Bad Pass Turnover (P2.T13),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,562,2,75,4,9:39 PM,8:10,MISS Holiday 2' Driving Finger Roll Layup,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,563,4,0,4,9:39 PM,8:08,,,Key REBOUND (Off:0 Def:1),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,564,2,41,4,9:39 PM,8:04,Sheppard BLOCK (1 BLK),,MISS Knox II 6' Running Layup,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,1
+0042400155,566,4,0,4,9:39 PM,8:04,,,Moody REBOUND (Off:2 Def:4),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,567,1,1,4,9:39 PM,7:59,,,Knox II 24' 3PT Jump Shot (9 PTS) (Moody 1 AST),92 - 109,17,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,569,9,1,4,9:39 PM,7:59,ROCKETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,570,8,0,4,9:40 PM,7:59,SUB: Ja. Green FOR Holiday,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,571,8,0,4,9:40 PM,7:59,SUB: Brooks FOR Landale,,,,,4,1629111,Jock Landale,1610612745.0,Houston,Rockets,HOU,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,572,8,0,4,9:40 PM,7:59,SUB: Thompson FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,573,8,0,4,9:40 PM,7:59,SUB: VanVleet FOR Sheppard,,,,,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,574,8,0,4,9:40 PM,7:59,SUB: Sengun FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,580,2,57,4,9:43 PM,7:34,MISS Sengun 4' Driving Hook Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,581,4,0,4,9:43 PM,7:32,Thompson REBOUND (Off:3 Def:2),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,582,1,101,4,9:43 PM,7:22,Brooks 8' Driving Floating Jump Shot (20 PTS),,,92 - 111,19,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,583,1,101,4,9:43 PM,7:08,,,Spencer 10' Driving Floating Jump Shot (10 PTS),94 - 111,17,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,584,6,2,4,9:43 PM,7:08,Brooks S.FOUL (P3.T3) (S.Wright),,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,586,3,10,4,9:44 PM,7:08,,,Spencer Free Throw 1 of 1 (11 PTS),95 - 111,16,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,587,2,1,4,9:44 PM,6:54,MISS Ja. Green 3PT Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,588,4,0,4,9:44 PM,6:50,,,Spencer REBOUND (Off:2 Def:2),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,589,2,2,4,9:44 PM,6:47,,,MISS Moody 25' 3PT Running Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,590,4,0,4,9:44 PM,6:46,,,Knox II REBOUND (Off:1 Def:1),,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,591,1,97,4,9:44 PM,6:45,,,Knox II Tip Layup Shot (11 PTS),97 - 111,14,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,592,6,1,4,9:45 PM,6:30,,,Jackson-Davis P.FOUL (P1.T3) (S.Wright),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,594,2,1,4,9:45 PM,6:20,MISS Thompson 21' Jump Shot,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,595,4,0,4,9:45 PM,6:19,Thompson REBOUND (Off:4 Def:2),,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,596,6,2,4,9:45 PM,6:08,,,Jackson-Davis S.FOUL (P2.T4) (N.Buchert),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,598,3,11,4,9:46 PM,6:08,MISS Sengun Free Throw 1 of 2,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,599,4,1,4,9:46 PM,6:08,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,600,3,12,4,9:46 PM,6:08,Sengun Free Throw 2 of 2 (15 PTS),,,97 - 112,15,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,601,6,1,4,9:46 PM,5:49,Sengun P.FOUL (P5.T4) (Z.Zarba),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,603,1,101,4,9:47 PM,5:38,,,Moody 12' Driving Floating Jump Shot (15 PTS),99 - 112,13,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,604,6,1,4,9:47 PM,5:22,,,Moody P.FOUL (P1.PN) (S.Wright),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,606,3,11,4,9:48 PM,5:22,VanVleet Free Throw 1 of 2 (24 PTS),,,99 - 113,14,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,607,3,12,4,9:48 PM,5:22,VanVleet Free Throw 2 of 2 (25 PTS),,,99 - 114,15,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,608,2,101,4,9:48 PM,5:10,,,MISS Knox II 11' Driving Floating Jump Shot,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,609,4,0,4,9:48 PM,5:08,Sengun REBOUND (Off:1 Def:7),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,610,5,2,4,9:48 PM,5:06,Brooks Lost Ball Turnover (P1.T12),,Jackson-Davis STEAL (1 STL),,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,624,2,102,4,9:48 PM,5:05,,,MISS Key 2' Driving Floating Bank Jump Shot,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,625,4,0,4,9:48 PM,5:04,,,Jackson-Davis REBOUND (Off:1 Def:1),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,612,1,87,4,9:48 PM,5:02,,,Jackson-Davis 3' Putback Dunk (2 PTS),101 - 114,13,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,613,2,1,4,9:49 PM,4:38,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,614,4,0,4,9:49 PM,4:35,,,Key REBOUND (Off:0 Def:2),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,615,2,6,4,9:49 PM,4:30,Thompson BLOCK (3 BLK),,MISS Moody 2' Driving Layup,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1
+0042400155,617,4,0,4,9:49 PM,4:29,,,Moody REBOUND (Off:3 Def:4),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,618,2,1,4,9:49 PM,4:24,,,MISS Spencer 3PT Jump Shot,,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,619,4,0,4,9:49 PM,4:21,,,Knox II REBOUND (Off:2 Def:1),,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,620,2,63,4,9:49 PM,4:19,,,MISS Knox II 11' Fadeaway Jumper,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,621,4,0,4,9:49 PM,4:16,,,Key REBOUND (Off:1 Def:2),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,622,2,72,4,9:49 PM,4:15,,,MISS Key 2' Putback Layup,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,623,4,0,4,9:49 PM,4:14,Brooks REBOUND (Off:0 Def:1),,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,626,6,1,4,9:54 PM,4:14,,,Spencer P.FOUL (P1.PN) (Z.Zarba),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,637,18,2,4,9:54 PM,4:14,,Instant Replay4th Period (9:54 PM EST),,101 - 114,13,0,626,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400155,628,6,16,4,9:54 PM,4:14,,"Double Technical - Jackson-Davis, Sengun (Z.Zarba)",,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0042400155,630,6,11,4,9:54 PM,4:14,,,Spencer T.FOUL (P1.PN) (Z.Zarba),,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0042400155,631,3,16,4,9:54 PM,4:14,VanVleet Free Throw Technical (26 PTS),,,101 - 115,14,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,632,11,4,4,9:54 PM,4:14,,,Spencer Ejection:Other,,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0042400155,633,8,0,4,9:54 PM,4:14,,,SUB: Hield FOR Spencer,,,5,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,635,3,11,4,9:55 PM,4:14,Brooks Free Throw 1 of 2 (21 PTS),,,101 - 116,15,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,636,3,12,4,9:56 PM,4:14,Brooks Free Throw 2 of 2 (22 PTS),,,101 - 117,16,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,638,2,6,4,9:56 PM,4:00,,,MISS Knox II 1' Driving Layup,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,639,4,0,4,9:56 PM,3:59,,,Key REBOUND (Off:2 Def:2),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,640,2,97,4,9:56 PM,3:58,,,MISS Key Tip Layup Shot,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,641,4,0,4,9:56 PM,3:57,,,Key REBOUND (Off:3 Def:2),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,642,2,72,4,9:56 PM,3:57,,,MISS Key 2' Putback Layup,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,643,4,0,4,9:56 PM,3:55,Sengun REBOUND (Off:1 Def:8),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,644,6,2,4,9:56 PM,3:46,,,Key S.FOUL (P3.PN) (S.Wright),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,646,3,11,4,9:57 PM,3:46,Thompson Free Throw 1 of 2 (22 PTS),,,101 - 118,17,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,647,3,12,4,9:57 PM,3:46,Thompson Free Throw 2 of 2 (23 PTS),,,101 - 119,18,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,648,1,75,4,9:57 PM,3:36,,,Moody 1' Driving Finger Roll Layup (17 PTS),103 - 119,16,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,649,5,2,4,9:57 PM,3:30,VanVleet Lost Ball Turnover (P1.T13),,Hield STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,651,2,1,4,9:57 PM,3:25,Sengun BLOCK (1 BLK),,MISS Hield 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0042400155,653,4,0,4,9:57 PM,3:24,Ja. Green REBOUND (Off:0 Def:7),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,654,10,0,4,9:58 PM,3:23,Jump Ball Ja. Green vs. Key: Tip to Brooks,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1
+0042400155,657,1,6,4,9:58 PM,3:18,Brooks 3' Driving Layup (24 PTS),,,103 - 121,18,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,658,7,2,4,9:58 PM,3:18,,,Jackson-Davis Violation:Defensive Goaltending (N.Buchert),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,659,2,80,4,9:59 PM,3:07,,,MISS Knox II 26' 3PT Step Back Jump Shot,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,660,4,0,4,9:59 PM,3:03,,,Hield REBOUND (Off:2 Def:0),,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,661,2,5,4,9:59 PM,3:00,Sengun BLOCK (2 BLK),,MISS Knox II 3' Layup,,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0042400155,663,4,0,4,9:59 PM,3:00,,,Key REBOUND (Off:4 Def:2),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,664,2,72,4,9:59 PM,2:55,,,MISS Key 5' Putback Layup,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,665,4,0,4,9:59 PM,2:54,,,Jackson-Davis REBOUND (Off:2 Def:1),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,666,1,97,4,9:59 PM,2:53,,,Jackson-Davis Tip Layup Shot (4 PTS),105 - 121,16,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,667,2,1,4,9:59 PM,2:33,MISS Brooks 25' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,668,4,0,4,9:59 PM,2:31,,,Knox II REBOUND (Off:2 Def:2),,,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,669,2,1,4,9:59 PM,2:24,,,MISS Key 3PT Jump Shot,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,670,4,0,4,9:59 PM,2:20,,,Moody REBOUND (Off:4 Def:4),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,730,2,5,4,9:59 PM,2:11,VanVleet BLOCK (1 BLK),,MISS Key 3' Layup,,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1
+0042400155,732,4,0,4,9:59 PM,2:10,Ja. Green REBOUND (Off:0 Def:8),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,673,1,7,4,10:00 PM,2:00,Thompson 3' Dunk (25 PTS) (VanVleet 2 AST),,,105 - 123,18,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,675,2,80,4,10:00 PM,1:49,,,MISS Moody 13' Step Back Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,676,4,0,4,10:00 PM,1:47,,,Key REBOUND (Off:5 Def:2),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,677,6,2,4,10:00 PM,1:43,Sengun S.FOUL (P6.PN) (S.Wright),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,679,8,0,4,10:00 PM,1:43,SUB: Holiday FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,681,3,11,4,10:01 PM,1:43,,,MISS Jackson-Davis Free Throw 1 of 2,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,682,4,1,4,10:01 PM,1:43,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,693,3,12,4,10:01 PM,1:43,,,MISS Jackson-Davis Free Throw 2 of 2,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,683,8,0,4,10:01 PM,1:43,SUB: Je. Green FOR Thompson,,,,,4,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,684,8,0,4,10:01 PM,1:43,SUB: Sheppard FOR Ja. Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,685,8,0,4,10:01 PM,1:43,SUB: Williams FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1631466,Nate Williams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,686,8,0,4,10:01 PM,1:43,SUB: Whitmore FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0042400155,687,8,0,4,10:01 PM,1:43,,,SUB: Santos FOR Hield,,,5,1627741,Buddy Hield,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0042400155,694,4,0,4,10:01 PM,1:40,,,Moody REBOUND (Off:5 Def:4),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,696,9,7,4,10:01 PM,1:38,,,Warriors Timeout: Coach Challenge (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400155,697,18,5,4,10:02 PM,1:38,,Instant Replay4th Period (10:02 PM EST),,105 - 123,18,0,695,Eldridge Recasner,,,,,0,0,,,,,,1,0,,,,,,1
+0042400155,698,6,1,4,10:03 PM,1:38,Williams P.FOUL (P1.PN) (Z.Zarba),,,,,4,1631466,Nate Williams,1610612745.0,Houston,Rockets,HOU,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,700,3,11,4,10:03 PM,1:38,,,Moody Free Throw 1 of 2 (18 PTS),106 - 123,17,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,701,3,12,4,10:04 PM,1:38,,,Moody Free Throw 2 of 2 (19 PTS),107 - 123,16,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,702,6,1,4,10:04 PM,1:38,,,Moody P.FOUL (P2.PN) (S.Wright),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,704,3,11,4,10:04 PM,1:38,MISS Holiday Free Throw 1 of 2,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,705,4,1,4,10:04 PM,1:38,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400155,706,3,12,4,10:04 PM,1:38,Holiday Free Throw 2 of 2 (5 PTS),,,107 - 124,17,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,707,5,45,4,10:04 PM,1:38,,,Key Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1630296,Braxton Key,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0042400155,708,1,1,4,10:05 PM,1:35,Holiday 26' 3PT Jump Shot (8 PTS) (Sheppard 1 AST),,,107 - 127,20,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,710,1,79,4,10:05 PM,1:29,,,Moody 27' 3PT Pullup Jump Shot (22 PTS),110 - 127,17,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,711,2,1,4,10:05 PM,1:13,MISS Williams 24' 3PT Jump Shot,,,,,4,1631466,Nate Williams,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,712,4,0,4,10:05 PM,1:09,,,Santos REBOUND (Off:0 Def:2),,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,713,1,9,4,10:06 PM,1:01,,,Knox II 3' Driving Dunk (13 PTS) (Moody 2 AST),112 - 127,15,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0042400155,715,6,2,4,10:06 PM,1:01,Holiday S.FOUL (P1.PN) (N.Buchert),,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0042400155,717,3,10,4,10:06 PM,1:01,,,Knox II Free Throw 1 of 1 (14 PTS),113 - 127,14,5,1628995,Kevin Knox II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,718,1,1,4,10:06 PM,0:44,Je. Green 3PT Jump Shot (3 PTS) (Holiday 2 AST),,,113 - 130,17,4,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0042400155,720,2,63,4,10:07 PM,0:35,,,MISS Moody 12' Fadeaway Jumper,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,721,4,0,4,10:07 PM,0:33,Sheppard REBOUND (Off:0 Def:1),,,,,4,1642263,Reed Sheppard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,722,6,1,4,10:07 PM,0:19,,,Jackson-Davis P.FOUL (P3.PN) (S.Wright),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0042400155,724,3,11,4,10:07 PM,0:19,Holiday Free Throw 1 of 2 (9 PTS),,,113 - 131,18,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,725,3,12,4,10:07 PM,0:19,MISS Holiday Free Throw 2 of 2,,,,,4,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0042400155,726,4,0,4,10:07 PM,0:18,,,Jackson-Davis REBOUND (Off:2 Def:2),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,727,1,103,4,10:07 PM,0:13,,,Moody 25' 3PT Running Pull-Up Jump Shot (25 PTS),116 - 131,15,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0042400155,728,13,0,4,10:08 PM,0:00,,End of 4th Period (10:08 PM EST),,116 - 131,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

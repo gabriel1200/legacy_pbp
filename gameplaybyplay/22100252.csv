@@ -1,0 +1,469 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100252,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,4,10,0,1,8:41 PM,12:00,Jump Ball Looney vs. Barnes: Tip to Green,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,7,2,1,1,8:42 PM,11:43,MISS Curry 25' 3PT Jump Shot,,VanVleet BLOCK (1 BLK),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1
+0022100252,9,4,0,1,8:42 PM,11:42,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,11,1,1,1,8:42 PM,11:38,Poole 3PT Jump Shot (3 PTS) (Curry 1 AST),,,0 - 3,3,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,13,2,1,1,8:42 PM,11:17,,,MISS Siakam 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,14,4,0,1,8:42 PM,11:14,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,15,6,2,1,8:43 PM,10:58,,,Barnes S.FOUL (P1.T1) (B.Kennedy),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,17,3,11,1,8:43 PM,10:58,Poole Free Throw 1 of 2 (4 PTS),,,0 - 4,4,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,18,3,12,1,8:43 PM,10:58,Poole Free Throw 2 of 2 (5 PTS),,,0 - 5,5,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,19,2,80,1,8:44 PM,10:37,,,MISS Trent Jr. 27' 3PT Step Back Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,20,4,0,1,8:44 PM,10:35,Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,21,5,1,1,8:44 PM,10:23,Curry Bad Pass Turnover (P1.T1),,Barnes STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,23,1,41,1,8:44 PM,10:19,,,Birch 6' Running Layup (2 PTS) (VanVleet 1 AST),2 - 5,3,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,25,6,2,1,8:44 PM,10:19,Poole S.FOUL (P1.T1) (B.Kennedy),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,27,3,10,1,8:44 PM,10:19,,,Birch Free Throw 1 of 1 (3 PTS),3 - 5,2,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0022100252,28,6,4,1,8:45 PM,10:08,Looney OFF.Foul (P1) (E.Scott),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,30,5,37,1,8:45 PM,10:08,Looney Offensive Foul Turnover (P1.T2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,31,2,86,1,8:45 PM,9:51,,,MISS Siakam 9' Turnaround Fadeaway Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,32,4,0,1,8:45 PM,9:49,Curry REBOUND (Off:0 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,33,1,1,1,8:45 PM,9:44,Wiggins 24' 3PT Jump Shot (3 PTS) (Poole 1 AST),,,3 - 8,5,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,35,2,98,1,8:46 PM,9:21,,,MISS Birch 5' Cutting Layup Shot,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,36,4,0,1,8:46 PM,9:18,Wiggins REBOUND (Off:0 Def:1),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,37,2,1,1,8:46 PM,9:17,MISS Curry 30' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,38,4,0,1,8:46 PM,9:15,,,Barnes REBOUND (Off:0 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,39,2,1,1,8:46 PM,9:09,,,MISS VanVleet 24' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,40,4,0,1,8:46 PM,9:07,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,41,1,6,1,8:46 PM,9:00,Wiggins 4' Driving Layup (5 PTS) (Poole 2 AST),,,3 - 10,7,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,43,6,2,1,8:46 PM,9:00,,,Birch S.FOUL (P1.T2) (A.Smith),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,45,3,10,1,8:46 PM,9:00,Wiggins Free Throw 1 of 1 (6 PTS),,,3 - 11,8,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,46,2,80,1,8:47 PM,8:43,,,MISS Trent Jr. 19' Step Back Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,47,4,0,1,8:47 PM,8:41,,,Barnes REBOUND (Off:1 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,48,2,101,1,8:47 PM,8:36,,,MISS Trent Jr. 8' Driving Floating Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,49,4,0,1,8:47 PM,8:34,Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,50,5,40,1,8:47 PM,8:29,Wiggins Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,51,1,6,1,8:47 PM,8:17,,,Siakam 6' Driving Layup (2 PTS),5 - 11,6,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,52,1,108,1,8:48 PM,7:56,Wiggins 4' Cutting Dunk Shot (8 PTS) (Looney 1 AST),,,5 - 13,8,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,54,6,26,1,8:48 PM,7:50,,,Barnes Offensive Charge Foul (P2) (A.Smith),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,56,5,37,1,8:48 PM,7:50,,,Barnes Offensive Foul Turnover (P1.T1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022100252,58,1,1,1,8:49 PM,7:46,Wiggins 3PT Jump Shot (11 PTS) (Green 1 AST),,,5 - 16,11,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,60,9,1,1,8:49 PM,7:38,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,61,8,0,1,8:50 PM,7:38,,,SUB: Mykhailiuk FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,63,2,79,1,8:52 PM,7:21,,,MISS VanVleet 27' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,64,4,0,1,8:52 PM,7:19,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,65,5,45,1,8:52 PM,7:14,Poole Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,66,1,75,1,8:52 PM,7:07,,,VanVleet 3' Driving Finger Roll Layup (2 PTS),7 - 16,9,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,67,5,1,1,8:52 PM,6:53,Poole Bad Pass Turnover (P2.T5),,VanVleet STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,69,2,6,1,8:53 PM,6:48,,,MISS VanVleet 5' Driving Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,70,4,0,1,8:53 PM,6:46,Wiggins REBOUND (Off:0 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,71,1,80,1,8:53 PM,6:31,Curry 25' 3PT Step Back Jump Shot (3 PTS) (Poole 3 AST),,,7 - 19,12,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,73,2,6,1,8:53 PM,6:13,Looney BLOCK (1 BLK),,MISS Trent Jr. 3' Driving Layup,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,75,4,0,1,8:53 PM,6:11,,,Trent Jr. REBOUND (Off:2 Def:0),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,76,2,72,1,8:53 PM,6:11,Looney BLOCK (2 BLK),,MISS Trent Jr. Putback Layup,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,78,4,0,1,8:53 PM,6:11,,,Trent Jr. REBOUND (Off:2 Def:0),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,80,6,2,1,8:54 PM,6:04,Poole S.FOUL (P2.T2) (A.Smith),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,82,3,11,1,8:54 PM,6:04,,,MISS Siakam Free Throw 1 of 2,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,83,4,1,1,8:54 PM,6:04,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,84,8,0,1,8:54 PM,6:04,SUB: Chiozza FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,86,3,12,1,8:55 PM,6:04,,,MISS Siakam Free Throw 2 of 2,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,87,4,0,1,8:55 PM,6:01,Green REBOUND (Off:0 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,88,2,98,1,8:55 PM,5:51,MISS Curry 3' Cutting Layup Shot,,Birch BLOCK (1 BLK),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0022100252,90,4,0,1,8:55 PM,5:49,Looney REBOUND (Off:1 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,91,2,1,1,8:55 PM,5:43,MISS Chiozza 3PT Jump Shot,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,92,4,0,1,8:55 PM,5:41,,,Siakam REBOUND (Off:0 Def:1),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,93,6,1,1,8:55 PM,5:36,Chiozza P.FOUL (P1.T3) (B.Kennedy),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,95,5,1,1,8:55 PM,5:28,Chiozza STEAL (1 STL),,VanVleet Bad Pass Turnover (P1.T2),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,97,2,58,1,8:56 PM,5:14,MISS Wiggins 7' Turnaround Hook Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,98,4,0,1,8:56 PM,5:12,Looney REBOUND (Off:2 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,99,1,1,1,8:56 PM,5:08,Chiozza 26' 3PT Jump Shot (3 PTS) (Looney 2 AST),,,7 - 22,15,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,101,1,79,1,8:56 PM,4:38,,,Mykhailiuk 14' Pullup Jump Shot (2 PTS),9 - 22,13,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,102,1,41,1,8:56 PM,4:31,Green 5' Running Layup (2 PTS) (Curry 2 AST),,,9 - 24,15,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,103,2,1,1,8:57 PM,4:09,,,MISS Trent Jr. 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,104,4,0,1,8:57 PM,4:07,Wiggins REBOUND (Off:0 Def:3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,106,1,79,1,8:57 PM,3:58,Wiggins 28' 3PT Pullup Jump Shot (14 PTS),,,9 - 27,18,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,107,9,1,1,8:57 PM,3:56,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,108,8,0,1,8:59 PM,3:56,SUB: Bjelica FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,109,8,0,1,8:59 PM,3:56,SUB: Kuminga FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,110,8,0,1,8:59 PM,3:56,,,SUB: Banton FOR Birch,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,111,8,0,1,8:59 PM,3:56,,,SUB: Achiuwa FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,116,1,108,1,9:00 PM,3:44,,,Achiuwa 1' Cutting Dunk Shot (2 PTS) (Banton 1 AST),11 - 27,16,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,118,6,2,1,9:00 PM,3:20,,,VanVleet S.FOUL (P1.T3) (A.Smith),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,120,3,13,1,9:01 PM,3:20,Curry Free Throw 1 of 3 (4 PTS),,,11 - 28,17,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,121,3,14,1,9:01 PM,3:20,Curry Free Throw 2 of 3 (5 PTS),,,11 - 29,18,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,122,3,15,1,9:01 PM,3:20,Curry Free Throw 3 of 3 (6 PTS),,,11 - 30,19,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,123,2,1,1,9:02 PM,3:10,,,MISS Mykhailiuk 3PT Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,124,4,0,1,9:02 PM,3:07,Kuminga REBOUND (Off:0 Def:1),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,125,6,2,1,9:02 PM,2:50,,,Siakam S.FOUL (P1.T4) (E.Scott),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,127,3,11,1,9:02 PM,2:50,MISS Bjelica Free Throw 1 of 2,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,128,4,1,1,9:02 PM,2:50,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,129,3,12,1,9:03 PM,2:50,Bjelica Free Throw 2 of 2 (1 PTS),,,11 - 31,20,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,130,1,80,1,9:03 PM,2:28,,,Siakam 19' Step Back Jump Shot (4 PTS),13 - 31,18,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,131,2,1,1,9:03 PM,2:16,MISS Bjelica 29' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,132,4,0,1,9:03 PM,2:14,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,133,6,3,1,9:03 PM,2:14,Green L.B.FOUL (P1.T4) (A.Smith),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,135,8,0,1,9:04 PM,2:14,SUB: Poole FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,136,8,0,1,9:04 PM,2:14,SUB: Porter Jr. FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,139,6,2,1,9:04 PM,2:05,Kuminga S.FOUL (P1.PN) (E.Scott),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,141,3,11,1,9:04 PM,2:05,,,VanVleet Free Throw 1 of 2 (3 PTS),14 - 31,17,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,142,3,12,1,9:04 PM,2:05,,,VanVleet Free Throw 2 of 2 (4 PTS),15 - 31,16,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,167,2,41,1,9:04 PM,1:51,MISS Bjelica 7' Running Layup,,Siakam BLOCK (1 BLK),,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1
+0022100252,169,4,0,1,9:05 PM,1:49,,,Siakam REBOUND (Off:0 Def:2),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,145,1,41,1,9:05 PM,1:45,,,Achiuwa 3' Running Layup (4 PTS) (Banton 2 AST),17 - 31,14,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,148,8,0,1,9:05 PM,1:35,,,SUB: Trent Jr. FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,150,1,80,1,9:05 PM,1:32,Poole 3PT Step Back Jump Shot (8 PTS),,,17 - 34,17,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,151,1,79,1,9:06 PM,1:21,,,Banton 16' Pullup Jump Shot (2 PTS) (Siakam 1 AST),19 - 34,15,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,153,1,101,1,9:06 PM,1:10,Poole 11' Driving Floating Jump Shot (10 PTS),,,19 - 36,17,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,154,1,1,1,9:06 PM,0:59,,,Trent Jr. 25' 3PT Jump Shot (3 PTS) (Siakam 2 AST),22 - 36,14,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,157,2,101,1,9:06 PM,0:51,MISS Bjelica 9' Driving Floating Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,158,4,0,1,9:06 PM,0:49,,,Siakam REBOUND (Off:0 Def:3),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,159,1,79,1,9:06 PM,0:40,,,Banton 18' Pullup Jump Shot (4 PTS),24 - 36,12,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,160,2,79,1,9:07 PM,0:29,MISS Bjelica 27' 3PT Pullup Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,161,4,0,1,9:07 PM,0:26,,,Achiuwa REBOUND (Off:0 Def:1),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,162,2,6,1,9:07 PM,0:07,,,MISS Siakam 7' Driving Layup,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,163,4,0,1,9:07 PM,0:05,Bjelica REBOUND (Off:0 Def:1),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,164,2,1,1,9:07 PM,0:01,MISS Poole 33' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,165,4,0,1,9:07 PM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,166,13,0,1,9:07 PM,0:00,,End of 1st Period (9:07 PM EST),,24 - 36,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100252,180,12,0,2,9:10 PM,12:00,,Start of 2nd Period (9:10 PM EST),,24 - 36,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,181,5,1,2,9:10 PM,11:46,Looney STEAL (1 STL),,Banton Bad Pass Turnover (P1.T3),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,186,7,5,2,9:11 PM,11:26,,,Achiuwa Violation:Kicked Ball (A.Smith),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0022100252,187,2,1,2,9:11 PM,11:16,MISS Toscano-Anderson 26' 3PT Jump Shot,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,188,4,0,2,9:11 PM,11:14,,,Boucher REBOUND (Off:0 Def:1),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,189,2,5,2,9:11 PM,11:08,Toscano-Anderson BLOCK (1 BLK),,MISS Boucher 3' Layup,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,191,4,0,2,9:11 PM,11:07,,,Boucher REBOUND (Off:1 Def:1),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,237,2,5,2,9:11 PM,11:06,Toscano-Anderson BLOCK (2 BLK),,MISS Boucher 4' Layup,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,239,4,0,2,9:11 PM,11:05,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,193,1,1,2,9:12 PM,11:01,,,Trent Jr. 27' 3PT Jump Shot (6 PTS) (VanVleet 2 AST),27 - 36,9,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,195,1,101,2,9:12 PM,10:34,Lee 10' Driving Floating Jump Shot (2 PTS),,,27 - 38,11,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,196,2,75,2,9:12 PM,10:14,,,MISS VanVleet 4' Driving Finger Roll Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,197,4,0,2,9:13 PM,10:12,,,Boucher REBOUND (Off:2 Def:1),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,198,1,97,2,9:13 PM,10:06,,,Boucher Tip Layup Shot (2 PTS),29 - 38,9,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,199,1,1,2,9:13 PM,10:00,Porter Jr. 27' 3PT Jump Shot (3 PTS) (Curry 3 AST),,,29 - 41,12,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,201,6,2,2,9:13 PM,9:42,Porter Jr. S.FOUL (P1.T1) (B.Kennedy),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,203,3,11,2,9:13 PM,9:42,,,Trent Jr. Free Throw 1 of 2 (7 PTS),30 - 41,11,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,204,3,12,2,9:14 PM,9:42,,,Trent Jr. Free Throw 2 of 2 (8 PTS),31 - 41,10,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,205,1,1,2,9:14 PM,9:29,Porter Jr. 3PT Jump Shot (6 PTS) (Toscano-Anderson 1 AST),,,31 - 44,13,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,207,2,101,2,9:14 PM,9:07,Lee BLOCK (1 BLK),,MISS Trent Jr. 7' Driving Floating Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,209,4,0,2,9:14 PM,9:06,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,211,2,80,2,9:15 PM,9:04,,,MISS Trent Jr. 3PT Step Back Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,212,4,0,2,9:15 PM,9:03,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,213,5,11,2,9:15 PM,9:03,,,Raptors Turnover: Shot Clock (T#4),,,3,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100252,214,2,1,2,9:15 PM,8:49,MISS Porter Jr. 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,215,4,0,2,9:15 PM,8:47,Looney REBOUND (Off:3 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,216,5,39,2,9:15 PM,8:44,Curry Step Out of Bounds Turnover (P2.T6),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,217,2,79,2,9:16 PM,8:30,,,MISS VanVleet 25' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,218,4,0,2,9:16 PM,8:27,,,VanVleet REBOUND (Off:1 Def:0),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,219,2,98,2,9:16 PM,8:17,,,MISS Achiuwa 6' Cutting Layup Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,220,4,0,2,9:16 PM,8:15,,,Boucher REBOUND (Off:3 Def:1),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,221,6,2,2,9:16 PM,8:15,Lee S.FOUL (P1.T2) (A.Smith),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,223,3,11,2,9:17 PM,8:15,,,MISS Boucher Free Throw 1 of 2,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,224,4,1,2,9:17 PM,8:15,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,225,8,0,2,9:17 PM,8:15,SUB: Poole FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,227,3,12,2,9:17 PM,8:15,,,Boucher Free Throw 2 of 2 (3 PTS),32 - 44,12,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,228,6,1,2,9:17 PM,8:06,,,Trent Jr. P.FOUL (P1.T1) (E.Scott),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,230,8,0,2,9:17 PM,8:06,SUB: Wiggins FOR Lee,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,231,8,0,2,9:17 PM,8:06,,,SUB: Barnes FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,232,8,0,2,9:17 PM,8:06,,,SUB: Mykhailiuk FOR Boucher,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,236,9,1,2,9:18 PM,8:06,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,240,1,79,2,9:21 PM,7:50,Poole 27' 3PT Pullup Jump Shot (13 PTS) (Wiggins 1 AST),,,32 - 47,15,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,242,2,80,2,9:21 PM,7:27,,,MISS Banton 12' Step Back Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,243,4,0,2,9:21 PM,7:25,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,244,1,5,2,9:21 PM,7:11,Looney 3' Layup (2 PTS) (Porter Jr. 1 AST),,,32 - 49,17,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,246,1,1,2,9:22 PM,6:56,,,Achiuwa 3PT Jump Shot (7 PTS) (Mykhailiuk 1 AST),35 - 49,14,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,248,5,39,2,9:22 PM,6:41,Porter Jr. Step Out of Bounds Turnover (P1.T7),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,249,2,79,2,9:22 PM,6:19,,,MISS Banton 26' 3PT Pullup Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,250,4,0,2,9:22 PM,6:17,Looney REBOUND (Off:3 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,251,2,73,2,9:23 PM,6:05,MISS Toscano-Anderson 3' Driving Reverse Layup,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,252,4,0,2,9:23 PM,6:03,Looney REBOUND (Off:4 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,253,1,87,2,9:23 PM,6:02,Looney Putback Dunk (4 PTS),,,35 - 51,16,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,254,1,79,2,9:23 PM,5:50,,,Mykhailiuk 26' 3PT Pullup Jump Shot (5 PTS),38 - 51,13,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,255,6,2,2,9:23 PM,5:37,,,Banton S.FOUL (P1.T2) (B.Kennedy),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,257,3,11,2,9:24 PM,5:37,Poole Free Throw 1 of 2 (14 PTS),,,38 - 52,14,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,258,8,0,2,9:24 PM,5:37,SUB: Green FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,259,8,0,2,9:24 PM,5:37,,,SUB: Birch FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,260,8,0,2,9:24 PM,5:37,,,SUB: VanVleet FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,261,8,0,2,9:24 PM,5:37,,,SUB: Siakam FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,266,3,12,2,9:24 PM,5:37,Poole Free Throw 2 of 2 (15 PTS),,,38 - 53,15,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,267,5,2,2,9:25 PM,5:20,Porter Jr. STEAL (1 STL),,Mykhailiuk Lost Ball Turnover (P1.T5),,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,269,2,1,2,9:25 PM,5:11,MISS Poole 27' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,270,4,0,2,9:25 PM,5:08,,,Barnes REBOUND (Off:1 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,271,1,1,2,9:25 PM,5:01,,,Birch 13' Jump Shot (5 PTS) (Barnes 1 AST),40 - 53,13,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,273,2,86,2,9:25 PM,4:41,MISS Wiggins 17' Turnaround Fadeaway Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,274,4,0,2,9:25 PM,4:38,,,Birch REBOUND (Off:0 Def:1),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,275,2,98,2,9:25 PM,4:31,,,MISS Barnes 3' Cutting Layup Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,276,4,0,2,9:25 PM,4:29,Porter Jr. REBOUND (Off:0 Def:2),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,278,8,0,2,9:26 PM,4:17,SUB: Curry FOR Toscano-Anderson,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,280,2,58,2,9:26 PM,4:13,MISS Wiggins 9' Turnaround Hook Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,281,4,0,2,9:26 PM,4:11,,,Siakam REBOUND (Off:0 Def:4),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,282,2,58,2,9:26 PM,4:06,,,MISS Siakam 6' Turnaround Hook Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,283,4,0,2,9:26 PM,4:04,Green REBOUND (Off:0 Def:4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,284,2,1,2,9:27 PM,3:51,MISS Poole 26' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,285,4,0,2,9:27 PM,3:48,,,Barnes REBOUND (Off:1 Def:3),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,286,6,2,2,9:27 PM,3:45,Poole S.FOUL (P3.T3) (B.Kennedy),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,288,3,11,2,9:27 PM,3:45,,,Siakam Free Throw 1 of 2 (5 PTS),41 - 53,12,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,289,8,0,2,9:27 PM,3:45,SUB: Looney FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,290,8,0,2,9:27 PM,3:45,SUB: Chiozza FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,291,8,0,2,9:27 PM,3:45,,,SUB: Trent Jr. FOR Mykhailiuk,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,295,3,12,2,9:28 PM,3:45,,,MISS Siakam Free Throw 2 of 2,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,296,4,0,2,9:28 PM,3:43,Green REBOUND (Off:0 Def:5),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,298,1,1,2,9:28 PM,3:28,Wiggins 3PT Jump Shot (17 PTS) (Green 2 AST),,,41 - 56,15,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,300,5,1,2,9:28 PM,3:11,Looney STEAL (2 STL),,Barnes Bad Pass Turnover (P2.T6),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,302,6,1,2,9:29 PM,3:05,,,Trent Jr. P.FOUL (P2.T3) (B.Kennedy),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,304,2,80,2,9:29 PM,2:54,MISS Wiggins 13' Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,305,4,0,2,9:29 PM,2:52,,,Barnes REBOUND (Off:1 Def:4),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,306,2,79,2,9:29 PM,2:46,,,MISS Barnes 16' Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,307,4,0,2,9:29 PM,2:44,Chiozza REBOUND (Off:0 Def:1),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,308,2,50,2,9:29 PM,2:40,MISS Green 5' Running Dunk,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,309,4,0,2,9:29 PM,2:38,,,VanVleet REBOUND (Off:1 Def:1),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,310,2,1,2,9:29 PM,2:33,,,MISS Trent Jr. 26' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,311,4,0,2,9:29 PM,2:31,Looney REBOUND (Off:4 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,312,6,1,2,9:30 PM,2:21,,,VanVleet P.FOUL (P2.T4) (E.Scott),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,314,9,1,2,9:30 PM,2:21,,,Raptors Timeout: Regular (Reg.3 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,315,2,80,2,9:33 PM,2:08,MISS Wiggins 16' Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,316,4,0,2,9:33 PM,2:06,,,Birch REBOUND (Off:0 Def:2),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,317,2,1,2,9:33 PM,2:00,,,MISS Barnes 29' 3PT Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,318,4,0,2,9:33 PM,1:58,Green REBOUND (Off:0 Def:6),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,319,2,98,2,9:33 PM,1:50,MISS Curry 4' Cutting Layup Shot,,Birch BLOCK (2 BLK),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0022100252,321,4,0,2,9:33 PM,1:47,Looney REBOUND (Off:5 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,322,2,72,2,9:33 PM,1:43,MISS Looney Putback Layup,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,323,4,0,2,9:33 PM,1:41,Wiggins REBOUND (Off:1 Def:3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,324,1,6,2,9:34 PM,1:30,Chiozza 6' Driving Layup (5 PTS) (Curry 4 AST),,,41 - 58,17,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,325,1,1,2,9:34 PM,1:14,,,Trent Jr. 24' 3PT Jump Shot (11 PTS) (VanVleet 3 AST),44 - 58,14,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,327,1,1,2,9:34 PM,0:55,Chiozza 26' 3PT Jump Shot (8 PTS) (Looney 3 AST),,,44 - 61,17,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,329,5,45,2,9:35 PM,0:42,,,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022100252,330,2,1,2,9:35 PM,0:32,MISS Chiozza 27' 3PT Jump Shot,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,331,4,0,2,9:35 PM,0:30,,,Barnes REBOUND (Off:1 Def:5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,332,2,86,2,9:35 PM,0:17,,,MISS Trent Jr. 16' Turnaround Fadeaway Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,333,4,0,2,9:35 PM,0:15,,,Barnes REBOUND (Off:2 Def:5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,334,1,1,2,9:35 PM,0:12,,,Siakam 26' 3PT Jump Shot (8 PTS) (Barnes 2 AST),47 - 61,14,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,336,2,79,2,9:35 PM,0:03,MISS Curry 29' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,337,4,0,2,9:35 PM,0:00,Wiggins REBOUND (Off:2 Def:3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,339,13,0,2,9:36 PM,0:00,,End of 2nd Period (9:36 PM EST),,47 - 61,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100252,343,12,0,3,9:51 PM,12:00,,Start of 3rd Period (9:51 PM EST),,47 - 61,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,344,2,1,3,9:51 PM,11:46,,,MISS VanVleet 27' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,345,4,0,3,9:51 PM,11:44,Looney REBOUND (Off:5 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,346,5,45,3,9:51 PM,11:22,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,348,1,1,3,9:52 PM,11:06,,,Siakam 26' 3PT Jump Shot (11 PTS) (Barnes 3 AST),50 - 61,11,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,350,1,1,3,9:52 PM,10:52,Wiggins 24' 3PT Jump Shot (20 PTS) (Curry 5 AST),,,50 - 64,14,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,352,1,1,3,9:52 PM,10:37,,,Siakam 27' 3PT Jump Shot (14 PTS) (VanVleet 4 AST),53 - 64,11,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,354,6,2,3,9:53 PM,10:20,,,Trent Jr. S.FOUL (P3.T1) (E.Scott),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,356,3,11,3,9:53 PM,10:20,MISS Looney Free Throw 1 of 2,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,357,4,1,3,9:53 PM,10:20,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,358,3,12,3,9:53 PM,10:20,MISS Looney Free Throw 2 of 2,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,359,4,0,3,9:53 PM,10:18,,,Birch REBOUND (Off:0 Def:3),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,360,1,98,3,9:53 PM,10:08,,,Birch 4' Cutting Layup Shot (7 PTS) (VanVleet 5 AST),55 - 64,9,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,362,2,98,3,9:54 PM,9:56,MISS Curry 6' Cutting Layup Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,363,4,0,3,9:54 PM,9:54,,,VanVleet REBOUND (Off:1 Def:2),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,364,2,1,3,9:54 PM,9:49,,,MISS VanVleet 24' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,365,4,0,3,9:54 PM,9:46,Green REBOUND (Off:0 Def:7),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,366,1,1,3,9:54 PM,9:33,Wiggins 3PT Jump Shot (23 PTS) (Poole 4 AST),,,55 - 67,12,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,368,2,1,3,9:54 PM,9:13,,,MISS Trent Jr. 28' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,369,4,0,3,9:54 PM,9:10,,,Barnes REBOUND (Off:3 Def:5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,370,2,79,3,9:54 PM,9:01,,,MISS VanVleet 28' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,371,4,0,3,9:54 PM,8:58,Wiggins REBOUND (Off:2 Def:4),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,372,2,1,3,9:55 PM,8:47,MISS Wiggins 24' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,373,4,0,3,9:55 PM,8:45,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100252,374,6,3,3,9:55 PM,8:45,,,VanVleet L.B.FOUL (P3.T2) (B.Kennedy),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,376,1,108,3,9:55 PM,8:38,Looney 2' Cutting Dunk Shot (6 PTS) (Curry 6 AST),,,55 - 69,14,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,378,2,78,3,9:56 PM,8:21,,,MISS Birch 11' Floating Jump Shot,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,379,4,0,3,9:56 PM,8:19,,,Birch REBOUND (Off:1 Def:3),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,380,2,72,3,9:56 PM,8:15,,,MISS Birch Putback Layup,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,381,4,0,3,9:56 PM,8:13,,,Siakam REBOUND (Off:1 Def:4),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,382,1,97,3,9:56 PM,8:13,,,Siakam Tip Layup Shot (16 PTS),57 - 69,12,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,383,6,2,3,9:56 PM,8:06,,,Trent Jr. S.FOUL (P4.T3) (E.Scott),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,385,3,11,3,9:56 PM,8:06,MISS Poole Free Throw 1 of 2,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,386,4,1,3,9:56 PM,8:06,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,387,3,12,3,9:57 PM,8:06,Poole Free Throw 2 of 2 (16 PTS),,,57 - 70,13,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,388,2,6,3,9:57 PM,7:47,Wiggins BLOCK (1 BLK),,MISS VanVleet 5' Driving Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,390,4,0,3,9:57 PM,7:45,Looney REBOUND (Off:5 Def:5),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,391,1,75,3,9:57 PM,7:37,Poole 2' Driving Finger Roll Layup (18 PTS),,,57 - 72,15,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,392,2,1,3,9:57 PM,7:15,,,MISS Siakam 30' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,393,4,0,3,9:58 PM,7:13,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,395,6,2,3,9:58 PM,7:00,,,Barnes S.FOUL (P3.T4) (E.Scott),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,397,3,11,3,9:58 PM,7:00,Green Free Throw 1 of 2 (3 PTS),,,57 - 73,16,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,398,3,12,3,9:59 PM,7:00,Green Free Throw 2 of 2 (4 PTS),,,57 - 74,17,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,399,9,1,3,9:59 PM,6:56,,,Raptors Timeout: Regular (Reg.4 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,401,2,6,3,10:02 PM,6:41,,,MISS Siakam 6' Driving Layup,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,402,4,0,3,10:02 PM,6:39,Poole REBOUND (Off:0 Def:3),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,403,1,108,3,10:02 PM,6:25,Wiggins 3' Cutting Dunk Shot (25 PTS) (Green 3 AST),,,57 - 76,19,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,405,2,79,3,10:02 PM,6:08,,,MISS Trent Jr. 17' Pullup Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,406,4,0,3,10:02 PM,6:05,Green REBOUND (Off:0 Def:8),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,407,2,80,3,10:03 PM,5:58,MISS Wiggins 18' Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,408,4,0,3,10:03 PM,5:55,Poole REBOUND (Off:1 Def:3),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,409,5,45,3,10:03 PM,5:55,Poole Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,410,1,1,3,10:03 PM,5:37,,,Barnes 27' 3PT Jump Shot (3 PTS) (Birch 1 AST),60 - 76,16,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,412,6,2,3,10:04 PM,5:16,,,Barnes S.FOUL (P4.PN) (E.Scott),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,414,3,11,3,10:04 PM,5:16,MISS Looney Free Throw 1 of 2,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,415,4,1,3,10:04 PM,5:16,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,416,8,0,3,10:04 PM,5:16,SUB: Chiozza FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,418,3,12,3,10:04 PM,5:16,Looney Free Throw 2 of 2 (7 PTS),,,60 - 77,17,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022100252,419,2,78,3,10:05 PM,4:59,,,MISS Barnes 8' Floating Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,420,4,0,3,10:05 PM,4:57,,,Birch REBOUND (Off:2 Def:3),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,421,2,97,3,10:05 PM,4:57,,,MISS Birch Tip Layup Shot,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,422,4,0,3,10:05 PM,4:56,Green REBOUND (Off:0 Def:9),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,423,1,41,3,10:05 PM,4:54,Chiozza 4' Running Layup (10 PTS),,,60 - 79,19,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,424,6,2,3,10:05 PM,4:54,,,Trent Jr. S.FOUL (P5.PN) (B.Kennedy),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,426,8,0,3,10:05 PM,4:54,,,SUB: Banton FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,428,3,10,3,10:05 PM,4:54,Chiozza Free Throw 1 of 1 (11 PTS),,,60 - 80,20,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,429,1,98,3,10:06 PM,4:42,,,Barnes 4' Cutting Layup Shot (5 PTS) (VanVleet 6 AST),62 - 80,18,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,431,6,2,3,10:06 PM,4:42,Looney S.FOUL (P2.T1) (B.Kennedy),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,433,3,10,3,10:06 PM,4:42,,,MISS Barnes Free Throw 1 of 1,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0022100252,434,4,0,3,10:06 PM,4:40,Green REBOUND (Off:0 Def:10),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022100252,435,1,1,3,10:06 PM,4:27,Poole 25' 3PT Jump Shot (21 PTS) (Looney 4 AST),,,62 - 83,21,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,437,1,1,3,10:06 PM,4:13,,,Barnes 26' 3PT Jump Shot (8 PTS) (VanVleet 7 AST),65 - 83,18,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,439,5,1,3,10:07 PM,4:02,Poole Bad Pass Turnover (P4.T10),,Birch STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,441,1,98,3,10:07 PM,3:55,,,Siakam 5' Cutting Layup Shot (18 PTS) (Barnes 4 AST),67 - 83,16,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,443,9,1,3,10:07 PM,3:55,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,444,8,0,3,10:09 PM,3:55,SUB: Toscano-Anderson FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,445,8,0,3,10:09 PM,3:55,,,SUB: Achiuwa FOR Birch,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,448,2,1,3,10:10 PM,3:34,MISS Green 27' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,449,4,0,3,10:10 PM,3:31,,,VanVleet REBOUND (Off:1 Def:3),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,450,1,6,3,10:10 PM,3:14,,,VanVleet 5' Driving Layup (6 PTS),69 - 83,14,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,451,1,1,3,10:11 PM,3:04,Poole 30' 3PT Jump Shot (24 PTS) (Wiggins 2 AST),,,69 - 86,17,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,453,2,47,3,10:11 PM,2:44,,,MISS Banton 11' Turnaround Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,454,4,0,3,10:11 PM,2:42,Toscano-Anderson REBOUND (Off:0 Def:1),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,455,1,1,3,10:11 PM,2:31,Poole 26' 3PT Jump Shot (27 PTS) (Green 4 AST),,,69 - 89,20,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,457,2,1,3,10:11 PM,2:13,,,MISS Siakam 28' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,458,4,0,3,10:12 PM,2:09,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,490,8,0,3,10:12 PM,2:09,SUB: Curry FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,491,8,0,3,10:12 PM,2:09,SUB: Kuminga FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,466,5,4,3,10:12 PM,1:54,Kuminga Traveling Turnover (P1.T11),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,467,8,0,3,10:13 PM,1:54,SUB: Porter Jr. FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,468,8,0,3,10:13 PM,1:54,,,SUB: Mykhailiuk FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,469,8,0,3,10:13 PM,1:54,,,SUB: Boucher FOR Siakam,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,473,2,1,3,10:13 PM,1:40,,,MISS Mykhailiuk 3PT Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,474,4,0,3,10:13 PM,1:37,Porter Jr. REBOUND (Off:0 Def:3),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,475,2,1,3,10:13 PM,1:31,MISS Chiozza 26' 3PT Jump Shot,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,476,4,0,3,10:13 PM,1:26,,,Boucher REBOUND (Off:3 Def:2),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,477,1,1,3,10:13 PM,1:20,,,VanVleet 3PT Jump Shot (9 PTS) (Achiuwa 1 AST),72 - 89,17,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,479,1,6,3,10:14 PM,1:08,Curry 3' Driving Layup (8 PTS),,,72 - 91,19,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,480,6,2,3,10:14 PM,1:08,,,Boucher S.FOUL (P1.PN) (A.Smith),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,482,3,10,3,10:14 PM,1:08,Curry Free Throw 1 of 1 (9 PTS),,,72 - 92,20,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,483,1,1,3,10:14 PM,0:57,,,Boucher 28' 3PT Jump Shot (6 PTS) (Banton 3 AST),75 - 92,17,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,485,2,1,3,10:15 PM,0:44,MISS Kuminga 3PT Jump Shot,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,486,4,0,3,10:15 PM,0:39,,,Banton REBOUND (Off:0 Def:1),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,487,1,6,3,10:15 PM,0:32,,,VanVleet 7' Driving Layup (11 PTS),77 - 92,15,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,488,2,1,3,10:15 PM,0:20,MISS Porter Jr. 26' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,489,4,0,3,10:15 PM,0:16,,,Achiuwa REBOUND (Off:0 Def:2),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,494,6,1,3,10:15 PM,0:04,Chiozza P.FOUL (P2.T2) (B.Kennedy),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,496,8,0,3,10:15 PM,0:04,SUB: Green FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,503,8,0,3,10:15 PM,0:04,SUB: Wiggins FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,498,8,0,3,10:16 PM,0:04,,,SUB: Siakam FOR Boucher,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,500,2,1,3,10:16 PM,0:02,,,MISS VanVleet 30' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,501,4,0,3,10:16 PM,0:00,Chiozza REBOUND (Off:0 Def:2),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,502,13,0,3,10:17 PM,0:00,,End of 3rd Period (10:17 PM EST),,77 - 92,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100252,515,12,0,4,10:19 PM,12:00,,Start of 4th Period (10:19 PM EST),,77 - 92,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,516,1,1,4,10:19 PM,11:43,Porter Jr. 24' 3PT Jump Shot (9 PTS) (Toscano-Anderson 2 AST),,,77 - 95,18,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,518,1,1,4,10:19 PM,11:19,,,Banton 26' 3PT Jump Shot (7 PTS),80 - 95,15,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,519,2,1,4,10:20 PM,11:04,MISS Chiozza 27' 3PT Jump Shot,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,520,4,0,4,10:20 PM,11:02,,,Achiuwa REBOUND (Off:0 Def:3),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,521,2,102,4,10:20 PM,10:56,,,MISS Achiuwa 10' Driving Floating Bank Jump Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,522,4,0,4,10:20 PM,10:55,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,523,6,3,4,10:20 PM,10:55,Lee L.B.FOUL (P2.T1) (E.Scott),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,525,2,63,4,10:20 PM,10:41,,,MISS Banton 12' Fadeaway Jumper,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,526,4,0,4,10:20 PM,10:37,,,Achiuwa REBOUND (Off:1 Def:3),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,527,1,80,4,10:21 PM,10:31,,,Mykhailiuk 19' Step Back Jump Shot (7 PTS),82 - 95,13,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,528,2,78,4,10:21 PM,10:01,MISS Porter Jr. 6' Floating Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,529,4,0,4,10:21 PM,9:56,,,Banton REBOUND (Off:0 Def:2),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,530,2,101,4,10:21 PM,9:38,,,MISS Flynn 10' Driving Floating Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,531,4,0,4,10:22 PM,9:38,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,533,1,1,4,10:22 PM,9:22,Porter Jr. 24' 3PT Jump Shot (12 PTS) (Chiozza 1 AST),,,82 - 98,16,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,535,5,2,4,10:22 PM,9:11,Curry STEAL (1 STL),,Boucher Lost Ball Turnover (P1.T8),,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,537,1,50,4,10:22 PM,9:08,Toscano-Anderson 3' Running Dunk (2 PTS) (Curry 7 AST),,,82 - 100,18,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,539,6,26,4,10:22 PM,9:01,,,Banton Offensive Charge Foul (P2) (B.Kennedy),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,541,5,37,4,10:22 PM,9:01,,,Banton Offensive Foul Turnover (P2.T9),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022100252,542,2,6,4,10:23 PM,8:49,MISS Chiozza 4' Driving Layup,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,543,4,0,4,10:23 PM,8:46,,,Banton REBOUND (Off:0 Def:3),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,545,8,0,4,10:23 PM,8:35,,,SUB: VanVleet FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,547,2,1,4,10:24 PM,8:29,,,MISS Boucher 26' 3PT Jump Shot,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,548,4,0,4,10:24 PM,8:26,Curry REBOUND (Off:0 Def:2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,550,5,2,4,10:24 PM,8:23,Curry Lost Ball Turnover (P3.T12),,Flynn STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,552,1,99,4,10:24 PM,8:19,,,Boucher 6' Cutting Finger Roll Layup Shot (8 PTS) (Flynn 1 AST),84 - 100,16,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,554,2,41,4,10:24 PM,8:13,MISS Porter Jr. 6' Running Layup,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,555,4,0,4,10:24 PM,8:11,,,Mykhailiuk REBOUND (Off:0 Def:1),,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,558,1,6,4,10:24 PM,8:09,,,Achiuwa 4' Driving Layup (9 PTS) (Mykhailiuk 2 AST),86 - 100,14,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,556,6,2,4,10:25 PM,8:09,Lee S.FOUL (P3.T2) (E.Scott),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,560,3,10,4,10:25 PM,8:09,,,Achiuwa Free Throw 1 of 1 (10 PTS),87 - 100,13,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,561,8,0,4,10:25 PM,8:09,SUB: Poole FOR Lee,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,562,8,0,4,10:25 PM,8:09,SUB: Wiggins FOR Chiozza,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,565,6,2,4,10:25 PM,7:59,,,VanVleet S.FOUL (P4.T1) (B.Kennedy),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,567,3,13,4,10:26 PM,7:59,Curry Free Throw 1 of 3 (10 PTS),,,87 - 101,14,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,568,3,14,4,10:26 PM,7:59,Curry Free Throw 2 of 3 (11 PTS),,,87 - 102,15,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,569,8,0,4,10:26 PM,7:59,SUB: Green FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,570,8,0,4,10:26 PM,7:59,,,SUB: Siakam FOR Flynn,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,573,3,15,4,10:26 PM,7:59,Curry Free Throw 3 of 3 (12 PTS),,,87 - 103,16,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,574,1,1,4,10:27 PM,7:41,,,VanVleet 3PT Jump Shot (14 PTS) (Mykhailiuk 3 AST),90 - 103,13,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,576,2,1,4,10:27 PM,7:25,MISS Wiggins 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,577,4,0,4,10:27 PM,7:22,,,Achiuwa REBOUND (Off:1 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,578,1,103,4,10:27 PM,7:16,,,VanVleet 29' 3PT Running Pull-Up Jump Shot (17 PTS),93 - 103,10,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,579,9,1,4,10:28 PM,7:16,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,580,1,1,4,10:30 PM,6:55,Poole 26' 3PT Jump Shot (30 PTS) (Green 5 AST),,,93 - 106,13,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,582,2,80,4,10:31 PM,6:30,,,MISS VanVleet 25' 3PT Step Back Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,583,4,0,4,10:31 PM,6:28,Green REBOUND (Off:0 Def:11),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,584,2,79,4,10:31 PM,6:14,MISS Curry 28' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,585,4,0,4,10:31 PM,6:12,,,Achiuwa REBOUND (Off:1 Def:5),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,586,6,4,4,10:31 PM,6:05,,,Siakam OFF.Foul (P2) (B.Kennedy),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,588,5,37,4,10:31 PM,6:05,,,Siakam Offensive Foul Turnover (P1.T10),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022100252,589,8,0,4,10:31 PM,6:05,SUB: Porter Jr. FOR Toscano-Anderson,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,591,1,1,4,10:32 PM,5:51,Porter Jr. 24' 3PT Jump Shot (15 PTS) (Wiggins 3 AST),,,93 - 109,16,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,593,6,1,4,10:32 PM,5:43,Poole P.FOUL (P4.T3) (B.Kennedy),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,595,8,0,4,10:32 PM,5:43,,,SUB: Trent Jr. FOR Mykhailiuk,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,596,8,0,4,10:32 PM,5:43,,,SUB: Barnes FOR Boucher,,,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,599,2,101,4,10:33 PM,5:27,Green BLOCK (1 BLK),,MISS Barnes 14' Driving Floating Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022100252,600,4,0,4,10:33 PM,5:25,Green REBOUND (Off:0 Def:12),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,601,1,76,4,10:33 PM,5:21,Wiggins 3' Running Finger Roll Layup (27 PTS) (Green 6 AST),,,93 - 111,18,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,603,6,2,4,10:33 PM,5:21,,,Achiuwa S.FOUL (P1.T2) (A.Smith),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,605,3,10,4,10:33 PM,5:21,Wiggins Free Throw 1 of 1 (28 PTS),,,93 - 112,19,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,606,2,78,4,10:34 PM,5:03,,,MISS Achiuwa 6' Floating Jump Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,607,4,0,4,10:34 PM,5:01,Green REBOUND (Off:0 Def:13),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,608,1,6,4,10:34 PM,4:54,Wiggins 3' Driving Layup (30 PTS) (Green 7 AST),,,93 - 114,21,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,609,2,63,4,10:34 PM,4:41,,,MISS Trent Jr. 10' Fadeaway Jumper,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,610,4,0,4,10:34 PM,4:38,,,Achiuwa REBOUND (Off:2 Def:5),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,611,1,98,4,10:34 PM,4:38,,,Siakam 3' Cutting Layup Shot (20 PTS) (Achiuwa 2 AST),95 - 114,19,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,613,6,2,4,10:34 PM,4:38,Wiggins S.FOUL (P1.T4) (B.Kennedy),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,615,3,10,4,10:35 PM,4:38,,,Siakam Free Throw 1 of 1 (21 PTS),96 - 114,18,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,616,9,1,4,10:35 PM,4:30,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,619,1,5,4,10:38 PM,4:18,Wiggins 5' Layup (32 PTS) (Curry 8 AST),,,96 - 116,20,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,621,2,6,4,10:38 PM,3:57,,,MISS Barnes 6' Driving Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,622,4,0,4,10:38 PM,3:57,,,Barnes REBOUND (Off:4 Def:5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,623,6,2,4,10:38 PM,3:57,Curry S.FOUL (P1.PN) (E.Scott),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,625,3,11,4,10:39 PM,3:57,,,MISS Barnes Free Throw 1 of 2,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,626,4,1,4,10:39 PM,3:57,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,627,8,0,4,10:39 PM,3:57,,,SUB: Flynn FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,629,3,12,4,10:39 PM,3:57,,,MISS Barnes Free Throw 2 of 2,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0022100252,630,4,0,4,10:39 PM,3:55,Green REBOUND (Off:0 Def:14),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022100252,631,2,1,4,10:39 PM,3:41,MISS Curry 26' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,632,4,0,4,10:39 PM,3:39,,,Barnes REBOUND (Off:4 Def:6),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,633,2,1,4,10:40 PM,3:28,,,MISS VanVleet 24' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,634,4,0,4,10:40 PM,3:26,,,Achiuwa REBOUND (Off:3 Def:5),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,635,1,6,4,10:40 PM,3:13,,,Flynn 3' Driving Layup (2 PTS),98 - 116,18,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,636,5,1,4,10:40 PM,2:55,Wiggins Bad Pass Turnover (P2.T13),,Siakam STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,638,1,43,4,10:40 PM,2:50,,,Achiuwa 4' Alley Oop Layup (12 PTS) (Barnes 5 AST),100 - 116,16,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,640,5,1,4,10:40 PM,2:47,Curry Bad Pass Turnover (P4.T14),,Barnes STEAL (2 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,642,2,6,4,10:40 PM,2:36,,,MISS Siakam 4' Driving Layup,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,643,4,0,4,10:41 PM,2:35,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,645,9,1,4,10:41 PM,2:35,,,Raptors Timeout: Regular (Reg.5 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,646,2,5,4,10:43 PM,2:24,,,MISS Barnes 6' Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,647,4,0,4,10:43 PM,2:21,,,Barnes REBOUND (Off:5 Def:6),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,648,2,97,4,10:43 PM,2:21,,,MISS Barnes Tip Layup Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,649,4,0,4,10:43 PM,2:19,,,Siakam REBOUND (Off:2 Def:4),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,688,2,97,4,10:43 PM,2:18,,,MISS Siakam 4' Tip Layup Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0022100252,689,4,0,4,10:43 PM,2:17,Porter Jr. REBOUND (Off:0 Def:4),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022100252,650,2,1,4,10:43 PM,2:07,MISS Porter Jr. 24' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,651,4,0,4,10:43 PM,2:05,,,Barnes REBOUND (Off:5 Def:7),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,652,6,2,4,10:43 PM,2:00,Poole S.FOUL (P5.PN) (B.Kennedy),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,654,3,11,4,10:43 PM,2:00,,,MISS Barnes Free Throw 1 of 2,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,655,4,1,4,10:43 PM,2:00,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100252,656,3,12,4,10:44 PM,2:00,,,Barnes Free Throw 2 of 2 (9 PTS),101 - 116,15,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,657,1,1,4,10:44 PM,1:41,Poole 27' 3PT Jump Shot (33 PTS) (Green 8 AST),,,101 - 119,18,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022100252,659,6,1,4,10:44 PM,1:33,Porter Jr. P.FOUL (P2.PN) (B.Kennedy),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022100252,661,3,11,4,10:45 PM,1:33,,,Barnes Free Throw 1 of 2 (10 PTS),102 - 119,17,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,662,8,0,4,10:45 PM,1:33,SUB: Chiozza FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,663,8,0,4,10:45 PM,1:33,SUB: Kuminga FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,664,8,0,4,10:45 PM,1:33,SUB: Moody FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022100252,665,8,0,4,10:45 PM,1:33,,,SUB: Banton FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,666,8,0,4,10:45 PM,1:33,,,SUB: Boucher FOR Siakam,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022100252,672,3,12,4,10:45 PM,1:33,,,MISS Barnes Free Throw 2 of 2,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,673,4,0,4,10:45 PM,1:30,Porter Jr. REBOUND (Off:0 Def:5),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,674,2,1,4,10:46 PM,1:12,MISS Porter Jr. 26' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,675,4,0,4,10:46 PM,1:10,,,Barnes REBOUND (Off:5 Def:8),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,676,6,4,4,10:46 PM,1:04,,,Banton OFF.Foul (P3) (A.Smith),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022100252,678,5,37,4,10:46 PM,1:04,,,Banton Offensive Foul Turnover (P3.T11),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022100252,679,5,1,4,10:46 PM,1:02,Poole Bad Pass Turnover (P5.T15),,Flynn STEAL (2 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,681,1,101,4,10:46 PM,0:46,,,Boucher 10' Driving Floating Jump Shot (10 PTS) (Achiuwa 3 AST),104 - 119,15,5,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022100252,683,5,45,4,10:47 PM,0:25,Chiozza Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022100252,684,2,75,4,10:47 PM,0:14,,,MISS Achiuwa 5' Driving Finger Roll Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022100252,685,4,0,4,10:47 PM,0:11,Porter Jr. REBOUND (Off:0 Def:6),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022100252,686,13,0,4,10:47 PM,0:00,,End of 4th Period (10:47 PM EST),,104 - 119,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

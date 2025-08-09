@@ -1,0 +1,438 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100616,2,12,0,1,10:41 PM,12:00,,Start of 1st Period (10:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,4,10,0,1,10:41 PM,12:00,Jump Ball Zubac vs. Jokic: Tip to Gordon,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1
+0022100616,7,6,1,1,10:42 PM,11:45,Batum P.FOUL (P1.T1) (C.Kirkland),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,9,1,58,1,10:42 PM,11:38,,,Jokic 7' Turnaround Hook Shot (2 PTS) (Morris 1 AST),2 - 0,-2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,11,2,1,1,10:42 PM,11:21,MISS Coffey 24' 3PT Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,12,4,0,1,10:42 PM,11:17,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,13,5,1,1,10:42 PM,11:14,Coffey STEAL (1 STL),,Morris Bad Pass Turnover (P1.T1),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,15,1,50,1,10:42 PM,11:11,Coffey 2' Running Dunk (2 PTS) (Batum 1 AST),,,2 - 2,TIE,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,17,2,1,1,10:43 PM,10:48,,,MISS Ja. Green 3PT Jump Shot,,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,18,4,0,1,10:43 PM,10:45,,,Jokic REBOUND (Off:1 Def:0),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,19,6,2,1,10:43 PM,10:43,Zubac S.FOUL (P1.T2) (J.Van Duyne),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,21,3,11,1,10:43 PM,10:43,,,Rivers Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,22,3,12,1,10:43 PM,10:43,,,Rivers Free Throw 2 of 2 (2 PTS),4 - 2,-2,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,23,2,80,1,10:44 PM,10:29,MISS Morris Sr. 26' 3PT Step Back Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,24,4,0,1,10:44 PM,10:24,,,Gordon REBOUND (Off:0 Def:1),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,25,5,1,1,10:44 PM,10:21,Jackson STEAL (1 STL),,Gordon Bad Pass Turnover (P1.T2),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,27,2,41,1,10:44 PM,10:14,MISS Zubac 2' Running Layup,,Ja. Green BLOCK (1 BLK),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,1
+0022100616,29,4,0,1,10:44 PM,10:12,,,Ja. Green REBOUND (Off:0 Def:1),,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,30,1,108,1,10:44 PM,9:59,,,Jokic 1' Cutting Dunk Shot (4 PTS) (Ja. Green 1 AST),6 - 2,-4,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,32,2,63,1,10:45 PM,9:35,MISS Morris Sr. 13' Fadeaway Jumper,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,33,4,0,1,10:45 PM,9:32,,,Jokic REBOUND (Off:1 Def:1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,34,2,71,1,10:45 PM,9:19,,,MISS Jokic 2' Finger Roll Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,35,4,0,1,10:45 PM,9:15,Coffey REBOUND (Off:0 Def:1),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,36,1,50,1,10:45 PM,9:10,Zubac 1' Running Dunk (2 PTS) (Jackson 1 AST),,,6 - 4,-2,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,38,5,45,1,10:45 PM,8:54,,,Jokic Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100616,39,2,79,1,10:46 PM,8:43,MISS Jackson 20' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,40,4,0,1,10:46 PM,8:36,,,Morris REBOUND (Off:0 Def:1),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,41,6,1,1,10:46 PM,8:32,Zubac P.FOUL (P2.T3) (J.Orr),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,43,8,0,1,10:46 PM,8:32,SUB: Ibaka FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,45,2,98,1,10:47 PM,8:25,,,MISS Ja. Green 2' Cutting Layup Shot,,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,46,4,0,1,10:47 PM,8:23,Ibaka REBOUND (Off:0 Def:1),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,47,1,6,1,10:47 PM,8:04,Coffey 2' Driving Layup (4 PTS) (Morris Sr. 1 AST),,,6 - 6,TIE,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,49,1,50,1,10:47 PM,7:58,,,Gordon 2' Running Dunk (2 PTS) (Jokic 1 AST),8 - 6,-2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,51,2,79,1,10:47 PM,7:44,MISS Jackson 14' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,52,4,0,1,10:47 PM,7:37,Jackson REBOUND (Off:1 Def:0),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,53,6,1,1,10:47 PM,7:37,,,Ja. Green P.FOUL (P1.T1) (C.Kirkland),,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,55,2,1,1,10:48 PM,7:30,MISS Jackson 24' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,56,4,0,1,10:48 PM,7:27,,,Rivers REBOUND (Off:0 Def:2),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,57,6,4,1,10:48 PM,7:23,,,Gordon OFF.Foul (P1) (C.Kirkland),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,59,5,37,1,10:48 PM,7:23,,,Gordon Offensive Foul Turnover (P2.T4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100616,60,2,78,1,10:48 PM,7:11,MISS Ibaka 12' Floating Jump Shot,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,61,4,0,1,10:48 PM,7:09,,,Gordon REBOUND (Off:0 Def:2),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,62,2,2,1,10:48 PM,7:06,,,MISS Morris 25' 3PT Running Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,63,4,0,1,10:49 PM,7:03,Batum REBOUND (Off:0 Def:1),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,64,1,98,1,10:49 PM,6:56,Ibaka 2' Cutting Layup Shot (2 PTS) (Coffey 1 AST),,,8 - 8,TIE,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,66,1,98,1,10:49 PM,6:39,,,Morris 2' Cutting Layup Shot (2 PTS) (Jokic 2 AST),10 - 8,-2,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,68,2,79,1,10:49 PM,6:18,MISS Morris Sr. 14' Pullup Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,69,4,0,1,10:49 PM,6:15,,,Ja. Green REBOUND (Off:0 Def:2),,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,70,2,1,1,10:49 PM,6:09,,,MISS Morris 27' 3PT Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,71,4,0,1,10:49 PM,6:04,,,Rivers REBOUND (Off:1 Def:2),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,72,2,80,1,10:50 PM,6:01,,,MISS Rivers 27' 3PT Step Back Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,73,4,0,1,10:50 PM,5:57,Ibaka REBOUND (Off:0 Def:2),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,74,5,1,1,10:50 PM,5:50,Jackson Bad Pass Turnover (P1.T1),,Morris STEAL (1 STL),,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,76,6,28,1,10:50 PM,5:48,Morris Sr. Personal Take Foul (P1.T4) (J.Van Duyne),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,78,9,1,1,10:50 PM,5:48,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,79,8,0,1,10:53 PM,5:48,,,SUB: Je. Green FOR Ja. Green,,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,81,2,1,1,10:53 PM,5:36,,,MISS Je. Green 26' 3PT Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,82,4,0,1,10:53 PM,5:33,Coffey REBOUND (Off:0 Def:2),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,83,2,1,1,10:53 PM,5:28,MISS Jackson 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,84,4,0,1,10:53 PM,5:26,,,Jokic REBOUND (Off:1 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,85,1,71,1,10:53 PM,5:19,,,Je. Green 2' Finger Roll Layup (2 PTS) (Jokic 3 AST),12 - 8,-4,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,87,1,1,1,10:54 PM,4:56,Morris Sr. 20' Jump Shot (2 PTS),,,12 - 10,-2,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,88,1,108,1,10:54 PM,4:36,,,Gordon 1' Cutting Dunk Shot (4 PTS) (Jokic 4 AST),14 - 10,-4,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,90,2,1,1,10:54 PM,4:14,MISS Batum 24' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,91,4,0,1,10:55 PM,4:11,,,Jokic REBOUND (Off:1 Def:3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,92,2,63,1,10:55 PM,3:53,Ibaka BLOCK (1 BLK),,MISS Morris 13' Fadeaway Jumper,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,1
+0022100616,94,4,0,1,10:55 PM,3:49,Batum REBOUND (Off:0 Def:2),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,95,6,28,1,10:55 PM,3:48,,,Gordon Personal Take Foul (P2.T2) (J.Van Duyne),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,97,8,0,1,10:55 PM,3:48,SUB: Bledsoe FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,98,8,0,1,10:55 PM,3:48,SUB: Mann FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,99,8,0,1,10:55 PM,3:48,,,SUB: Campazzo FOR Morris,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,100,8,0,1,10:55 PM,3:48,,,SUB: Reed FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,105,2,1,1,10:56 PM,3:38,MISS Morris Sr. 25' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,106,4,0,1,10:56 PM,3:36,,,Reed REBOUND (Off:0 Def:1),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,107,5,45,1,10:56 PM,3:20,,,Rivers Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100616,108,8,0,1,10:56 PM,3:20,,,SUB: Hyland FOR Rivers,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,110,2,1,1,10:56 PM,3:04,MISS Ibaka 26' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,111,4,0,1,10:57 PM,3:02,,,Je. Green REBOUND (Off:0 Def:1),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,112,2,1,1,10:57 PM,2:51,,,MISS Reed 3PT Jump Shot,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,113,4,0,1,10:57 PM,2:47,Morris Sr. REBOUND (Off:0 Def:1),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,114,2,103,1,10:57 PM,2:43,MISS Bledsoe 18' Running Pull-Up Jump Shot,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,115,4,0,1,10:57 PM,2:38,,,Jokic REBOUND (Off:1 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,116,2,1,1,10:57 PM,2:26,,,MISS Je. Green 3PT Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,117,4,0,1,10:57 PM,2:23,Morris Sr. REBOUND (Off:0 Def:2),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,118,5,45,1,10:57 PM,2:08,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022100616,119,9,1,1,10:58 PM,2:08,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,120,8,0,1,11:00 PM,2:08,,,SUB: Nnaji FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,122,2,57,1,11:01 PM,1:52,,,MISS Je. Green 5' Driving Hook Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,123,4,0,1,11:01 PM,1:52,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,125,2,80,1,11:01 PM,1:36,MISS Morris Sr. 16' Step Back Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,126,4,0,1,11:01 PM,1:33,,,Hyland REBOUND (Off:0 Def:1),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,127,1,98,1,11:01 PM,1:27,,,Nnaji 1' Cutting Layup Shot (2 PTS) (Campazzo 1 AST),16 - 10,-6,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,129,1,1,1,11:01 PM,1:12,Coffey 25' 3PT Jump Shot (7 PTS) (Bledsoe 1 AST),,,16 - 13,-3,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,131,2,79,1,11:02 PM,0:57,,,MISS Campazzo 25' 3PT Pullup Jump Shot,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,132,4,0,1,11:02 PM,0:54,Ibaka REBOUND (Off:0 Def:3),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,133,6,2,1,11:02 PM,0:50,,,Hyland S.FOUL (P1.T3) (C.Kirkland),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,135,3,11,1,11:02 PM,0:50,Mann Free Throw 1 of 2 (1 PTS),,,16 - 14,-2,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,138,3,12,1,11:02 PM,0:50,MISS Mann Free Throw 2 of 2,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,136,8,0,1,11:02 PM,0:50,SUB: Boston Jr. FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,139,4,0,1,11:02 PM,0:49,,,Reed REBOUND (Off:0 Def:2),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,140,2,105,1,11:03 PM,0:31,,,MISS Campazzo 10' Turnaround Fadeaway Bank Jump Shot,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,141,4,0,1,11:03 PM,0:28,Mann REBOUND (Off:0 Def:1),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,142,2,101,1,11:03 PM,0:14,MISS Bledsoe 6' Driving Floating Jump Shot,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,143,4,0,1,11:03 PM,0:11,,,Campazzo REBOUND (Off:0 Def:1),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,144,1,50,1,11:04 PM,0:09,,,Je. Green 2' Running Dunk (4 PTS) (Campazzo 2 AST),18 - 14,-4,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,146,6,1,1,11:04 PM,0:02,,,Hyland P.FOUL (P2.PN) (J.Van Duyne),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,148,3,11,1,11:04 PM,0:02,Boston Jr. Free Throw 1 of 2 (1 PTS),,,18 - 15,-3,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,149,3,12,1,11:05 PM,0:02,Boston Jr. Free Throw 2 of 2 (2 PTS),,,18 - 16,-2,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,151,2,1,1,11:05 PM,0:00,,,MISS Hyland 48' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,152,4,0,1,11:05 PM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,153,13,0,1,11:05 PM,0:00,,End of 1st Period (11:05 PM EST),,18 - 16,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100616,154,12,0,2,11:08 PM,12:00,,Start of 2nd Period (11:08 PM EST),,18 - 16,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,155,1,1,2,11:08 PM,11:48,Ibaka 12' Jump Shot (4 PTS) (Bledsoe 2 AST),,,18 - 18,TIE,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,157,2,98,2,11:08 PM,11:34,,,MISS Je. Green 8' Cutting Layup Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,158,4,0,2,11:08 PM,11:30,,,Je. Green REBOUND (Off:1 Def:1),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,159,2,97,2,11:08 PM,11:30,,,MISS Je. Green Tip Layup Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,160,4,0,2,11:08 PM,11:29,,,Nnaji REBOUND (Off:1 Def:0),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,161,2,97,2,11:08 PM,11:29,,,MISS Nnaji Tip Layup Shot,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,162,4,0,2,11:08 PM,11:27,,,Je. Green REBOUND (Off:2 Def:1),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,163,2,97,2,11:08 PM,11:27,,,MISS Je. Green Tip Layup Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,164,4,0,2,11:08 PM,11:26,Bledsoe REBOUND (Off:0 Def:1),,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,165,2,2,2,11:08 PM,11:25,MISS Coffey 25' 3PT Running Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,166,4,0,2,11:08 PM,11:21,,,Reed REBOUND (Off:0 Def:3),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,167,7,5,2,11:09 PM,11:03,Mann Violation:Kicked Ball (J.Orr),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0022100616,168,2,1,2,11:09 PM,10:57,,,MISS Hyland 29' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,169,4,0,2,11:09 PM,10:55,Coffey REBOUND (Off:0 Def:3),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,170,1,6,2,11:09 PM,10:39,Boston Jr. 2' Driving Layup (4 PTS) (Coffey 2 AST),,,18 - 20,2,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,172,2,63,2,11:10 PM,10:23,,,MISS Hyland 14' Fadeaway Jumper,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,173,4,0,2,11:10 PM,10:20,Coffey REBOUND (Off:0 Def:4),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,174,2,1,2,11:10 PM,10:09,MISS Bledsoe 24' 3PT Jump Shot,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,175,4,0,2,11:10 PM,10:06,,,Hyland REBOUND (Off:0 Def:2),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,176,1,76,2,11:10 PM,10:03,,,Je. Green 2' Running Finger Roll Layup (6 PTS) (Hyland 1 AST),20 - 20,TIE,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,178,2,1,2,11:10 PM,9:48,MISS Ibaka 26' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,179,4,0,2,11:10 PM,9:46,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,181,8,0,2,11:10 PM,9:46,SUB: Batum FOR Coffey,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,182,8,0,2,11:10 PM,9:46,SUB: Zubac FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,185,2,79,2,11:11 PM,9:37,MISS Mann 16' Pullup Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,186,4,0,2,11:11 PM,9:34,,,Campazzo REBOUND (Off:0 Def:2),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,187,5,1,2,11:11 PM,9:29,Batum STEAL (1 STL),,Campazzo Bad Pass Turnover (P1.T6),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,189,6,28,2,11:11 PM,9:29,,,Campazzo Personal Take Foul (P1.T1) (C.Kirkland),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,191,5,1,2,11:11 PM,9:19,Bledsoe Bad Pass Turnover (P2.T3),,Nnaji STEAL (1 STL),,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,193,1,1,2,11:12 PM,9:06,,,Nnaji 24' 3PT Jump Shot (5 PTS) (Reed 1 AST),23 - 20,-3,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,195,6,1,2,11:12 PM,8:58,,,Nnaji P.FOUL (P1.T2) (J.Orr),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,197,8,0,2,11:12 PM,8:58,SUB: Jackson FOR Bledsoe,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,199,2,79,2,11:12 PM,8:49,MISS Jackson 19' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,200,4,0,2,11:12 PM,8:46,,,Reed REBOUND (Off:0 Def:4),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,201,2,41,2,11:13 PM,8:41,Mann BLOCK (1 BLK),,MISS Hyland 4' Running Layup,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0022100616,203,4,0,2,11:13 PM,8:37,Boston Jr. REBOUND (Off:0 Def:1),,,,,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,204,2,79,2,11:13 PM,8:29,MISS Boston Jr. 19' Pullup Jump Shot,,,,,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,205,4,0,2,11:13 PM,8:28,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,207,1,6,2,11:13 PM,8:21,,,Je. Green 3' Driving Layup (8 PTS) (Campazzo 3 AST),25 - 20,-5,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,209,6,2,2,11:13 PM,8:21,Zubac S.FOUL (P3.T1) (J.Orr),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,211,8,0,2,11:13 PM,8:21,SUB: Morris Sr. FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,213,3,10,2,11:14 PM,8:21,,,Je. Green Free Throw 1 of 1 (9 PTS),26 - 20,-6,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,214,5,13,2,11:14 PM,8:05,Batum Backcourt Turnover (P1.T4),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022100616,215,2,1,2,11:15 PM,7:52,,,MISS Nnaji 21' Jump Shot,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,216,4,0,2,11:15 PM,7:50,,,Reed REBOUND (Off:1 Def:4),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,217,2,1,2,11:15 PM,7:41,,,MISS Je. Green 3PT Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,218,4,0,2,11:15 PM,7:37,Boston Jr. REBOUND (Off:0 Def:2),,,,,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,219,1,6,2,11:15 PM,7:28,Boston Jr. 2' Driving Layup (6 PTS) (Jackson 2 AST),,,26 - 22,-4,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,221,2,1,2,11:15 PM,7:08,,,MISS Hyland 27' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,222,4,0,2,11:15 PM,7:05,Boston Jr. REBOUND (Off:0 Def:3),,,,,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,223,2,1,2,11:16 PM,6:58,MISS Batum 22' Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,224,4,0,2,11:16 PM,6:52,,,Hyland REBOUND (Off:0 Def:3),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,225,9,1,2,11:16 PM,6:52,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,226,8,0,2,11:19 PM,6:52,,,SUB: Morris FOR Hyland,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,227,8,0,2,11:19 PM,6:52,,,SUB: Jokic FOR Reed,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,228,8,0,2,11:19 PM,6:52,,,SUB: Gordon FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,232,6,1,2,11:19 PM,6:47,Jackson P.FOUL (P1.T2) (C.Kirkland),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,234,5,2,2,11:20 PM,6:35,Morris Sr. STEAL (1 STL),,Jokic Lost Ball Turnover (P2.T7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,236,2,63,2,11:20 PM,6:28,MISS Mann 8' Fadeaway Jumper,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,237,4,0,2,11:20 PM,6:25,,,Gordon REBOUND (Off:0 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,238,5,1,2,11:20 PM,6:15,Jackson STEAL (2 STL),,Jokic Bad Pass Turnover (P3.T8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,240,1,79,2,11:20 PM,5:59,Morris Sr. 19' Pullup Jump Shot (4 PTS),,,26 - 24,-2,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,241,2,101,2,11:21 PM,5:34,,,MISS Je. Green 7' Driving Floating Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,242,4,0,2,11:21 PM,5:28,,,Gordon REBOUND (Off:1 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,243,1,97,2,11:21 PM,5:28,,,Gordon Tip Layup Shot (6 PTS),28 - 24,-4,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,244,2,79,2,11:21 PM,5:18,MISS Jackson 18' Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,245,4,0,2,11:21 PM,5:15,,,Jokic REBOUND (Off:1 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,246,2,1,2,11:21 PM,4:55,,,MISS Gordon 26' 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,247,4,0,2,11:21 PM,4:54,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,248,6,3,2,11:21 PM,4:54,Batum L.B.FOUL (P2.T3) (C.Kirkland),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,250,8,0,2,11:22 PM,4:54,SUB: Coffey FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,251,8,0,2,11:22 PM,4:54,SUB: Ibaka FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,252,8,0,2,11:22 PM,4:54,,,SUB: Rivers FOR Campazzo,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,253,8,0,2,11:22 PM,4:54,,,SUB: Ja. Green FOR Je. Green,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,258,1,80,2,11:22 PM,4:44,,,Morris 19' Step Back Jump Shot (4 PTS),30 - 24,-6,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,259,2,44,2,11:22 PM,4:24,MISS Morris Sr. 1' Reverse Layup,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,260,4,0,2,11:22 PM,4:21,,,Gordon REBOUND (Off:1 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,261,1,76,2,11:23 PM,4:18,,,Gordon 3' Running Finger Roll Layup (8 PTS),32 - 24,-8,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,262,9,1,2,11:23 PM,4:18,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,263,2,1,2,11:26 PM,3:54,MISS Coffey 25' 3PT Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,264,4,0,2,11:26 PM,3:51,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,266,1,79,2,11:27 PM,3:25,,,Morris 17' Pullup Jump Shot (6 PTS),34 - 24,-10,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,267,6,1,2,11:27 PM,3:06,,,Morris P.FOUL (P1.T3) (J.Orr),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,269,2,1,2,11:27 PM,3:00,MISS Jackson 26' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,270,4,0,2,11:27 PM,2:59,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,271,6,14,2,11:28 PM,2:59,Morris Sr. FLAGRANT.FOUL.TYPE1 (P2.T4) (C.Kirkland),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,273,18,0,2,11:28 PM,2:59,,Instant Replay2nd Period (11:28 PM EST),,34 - 24,-10,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100616,274,3,18,2,11:30 PM,2:59,,,MISS Rivers Free Throw Flagrant 1 of 2,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100616,275,4,1,2,11:30 PM,2:59,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,276,3,19,2,11:30 PM,2:59,,,MISS Rivers Free Throw Flagrant 2 of 2,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100616,277,4,1,2,11:30 PM,2:59,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,279,5,15,2,11:31 PM,2:45,,,Gordon Offensive Goaltending Turnover (P3.T9),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,280,1,79,2,11:32 PM,2:29,Morris Sr. 18' Pullup Jump Shot (6 PTS),,,34 - 26,-8,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,281,1,1,2,11:32 PM,2:12,,,Jokic 26' 3PT Jump Shot (7 PTS) (Morris 2 AST),37 - 26,-11,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,283,7,5,2,11:32 PM,2:01,,,Jokic Violation:Kicked Ball (J.Orr),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0022100616,284,8,0,2,11:32 PM,2:01,SUB: Mann FOR Boston Jr.,,,,,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,285,8,0,2,11:32 PM,2:01,SUB: Batum FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,288,1,101,2,11:32 PM,1:55,Jackson 9' Driving Floating Jump Shot (2 PTS),,,37 - 28,-9,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,289,5,11,2,11:33 PM,1:30,,,Nuggets Turnover: Shot Clock (T#10),,,3,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100616,290,2,1,2,11:33 PM,1:14,MISS Mann 24' 3PT Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,291,4,0,2,11:33 PM,1:12,,,Jokic REBOUND (Off:1 Def:6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,292,6,2,2,11:34 PM,1:06,Batum S.FOUL (P3.PN) (C.Kirkland),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,294,3,11,2,11:34 PM,1:06,,,Gordon Free Throw 1 of 2 (9 PTS),38 - 28,-10,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,295,3,12,2,11:34 PM,1:06,,,Gordon Free Throw 2 of 2 (10 PTS),39 - 28,-11,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,296,2,47,2,11:35 PM,0:47,MISS Morris Sr. 17' Turnaround Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,297,4,0,2,11:35 PM,0:44,,,Gordon REBOUND (Off:1 Def:5),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,298,6,28,2,11:35 PM,0:44,Batum Personal Take Foul (P4.PN) (J.Van Duyne),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,300,3,11,2,11:35 PM,0:44,,,Gordon Free Throw 1 of 2 (11 PTS),40 - 28,-12,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,301,8,0,2,11:35 PM,0:44,SUB: Ibaka FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,303,8,0,2,11:35 PM,0:44,SUB: Boston Jr. FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,305,3,12,2,11:36 PM,0:44,,,Gordon Free Throw 2 of 2 (12 PTS),41 - 28,-13,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,306,2,101,2,11:36 PM,0:35,MISS Jackson 6' Driving Floating Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,307,4,0,2,11:36 PM,0:32,,,Jokic REBOUND (Off:1 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,308,2,1,2,11:36 PM,0:22,,,MISS Rivers 26' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,309,4,0,2,11:36 PM,0:19,Ibaka REBOUND (Off:0 Def:4),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,310,6,1,2,11:36 PM,0:05,,,Rivers P.FOUL (P1.T4) (C.Kirkland),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,312,8,0,2,11:36 PM,0:05,,,SUB: Reed FOR Ja. Green,,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,313,8,0,2,11:36 PM,0:05,,,SUB: Campazzo FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,316,2,98,2,11:37 PM,0:02,MISS Ibaka 2' Cutting Layup Shot,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,317,4,0,2,11:37 PM,0:00,,,Morris REBOUND (Off:0 Def:2),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,318,13,0,2,11:37 PM,0:00,,End of 2nd Period (11:37 PM EST),,41 - 28,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100616,327,12,0,3,11:52 PM,12:00,,Start of 3rd Period (11:52 PM EST),,41 - 28,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,328,1,101,3,11:53 PM,11:37,Mann 6' Driving Floating Jump Shot (3 PTS),,,41 - 30,-11,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,329,2,1,3,11:53 PM,11:20,,,MISS Rivers 27' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,330,4,0,3,11:53 PM,11:17,Coffey REBOUND (Off:0 Def:5),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,331,2,79,3,11:53 PM,11:12,MISS Coffey 16' Pullup Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,332,4,0,3,11:53 PM,11:09,,,Rivers REBOUND (Off:1 Def:3),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,333,6,2,3,11:53 PM,10:57,Coffey S.FOUL (P1.T1) (C.Kirkland),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,335,3,11,3,11:54 PM,10:57,,,Rivers Free Throw 1 of 2 (3 PTS),42 - 30,-12,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,336,3,12,3,11:54 PM,10:57,,,Rivers Free Throw 2 of 2 (4 PTS),43 - 30,-13,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,337,2,1,3,11:54 PM,10:35,MISS Morris Sr. 25' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,338,4,0,3,11:54 PM,10:33,,,Gordon REBOUND (Off:1 Def:6),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,339,1,102,3,11:55 PM,10:26,,,Gordon 4' Driving Floating Bank Jump Shot (14 PTS),45 - 30,-15,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,340,6,2,3,11:55 PM,10:26,Jackson S.FOUL (P2.T2) (C.Kirkland),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,342,3,10,3,11:55 PM,10:26,,,Gordon Free Throw 1 of 1 (15 PTS),46 - 30,-16,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,343,6,26,3,11:55 PM,10:18,Zubac Offensive Charge Foul (P4) (C.Kirkland),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,345,5,37,3,11:55 PM,10:18,Zubac Offensive Foul Turnover (P1.T5),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022100616,346,1,1,3,11:56 PM,10:04,,,Jokic 19' Jump Shot (9 PTS) (Morris 3 AST),48 - 30,-18,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,348,1,79,3,11:56 PM,9:46,Mann 14' Pullup Jump Shot (5 PTS),,,48 - 32,-16,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,349,1,93,3,11:56 PM,9:20,,,Morris 6' Driving Bank Hook Shot (8 PTS),50 - 32,-18,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,350,2,1,3,11:57 PM,9:04,MISS Mann 26' 3PT Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,351,4,0,3,11:57 PM,9:01,,,Gordon REBOUND (Off:1 Def:7),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,352,6,1,3,11:57 PM,8:57,Jackson P.FOUL (P3.T3) (J.Orr),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,354,1,5,3,11:57 PM,8:48,,,Jokic 3' Layup (11 PTS) (Gordon 1 AST),52 - 32,-20,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,356,9,1,3,11:57 PM,8:48,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,357,1,79,3,12:00 AM,8:26,Morris Sr. 18' Pullup Jump Shot (8 PTS) (Coffey 3 AST),,,52 - 34,-18,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,359,5,2,3,12:01 AM,8:07,Coffey STEAL (2 STL),,Rivers Lost Ball Turnover (P2.T11),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,361,5,39,3,12:01 AM,8:05,Coffey Step Out of Bounds Turnover (P1.T6),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022100616,362,1,78,3,12:01 AM,7:52,,,Jokic 7' Floating Jump Shot (13 PTS) (Morris 4 AST),54 - 34,-20,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,364,5,2,3,12:02 AM,7:34,Morris Sr. Lost Ball Turnover (P1.T7),,Ja. Green STEAL (1 STL),,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,366,1,1,3,12:02 AM,7:25,,,Morris 25' 3PT Jump Shot (11 PTS) (Rivers 1 AST),57 - 34,-23,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,368,5,1,3,12:02 AM,7:15,Jackson Bad Pass Turnover (P2.T8),,Jokic STEAL (1 STL),,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,370,2,2,3,12:02 AM,7:10,,,MISS Morris 3PT Running Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,371,4,0,3,12:02 AM,7:07,,,Jokic REBOUND (Off:2 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,372,6,2,3,12:02 AM,7:04,Morris Sr. S.FOUL (P3.T4) (J.Van Duyne),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,374,3,11,3,12:03 AM,7:04,,,Jokic Free Throw 1 of 2 (14 PTS),58 - 34,-24,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,375,8,0,3,12:03 AM,7:04,SUB: Bledsoe FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,376,8,0,3,12:03 AM,7:04,SUB: Batum FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,379,3,12,3,12:03 AM,7:04,,,Jokic Free Throw 2 of 2 (15 PTS),59 - 34,-25,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,380,1,1,3,12:03 AM,6:55,Morris Sr. 26' 3PT Jump Shot (11 PTS) (Bledsoe 3 AST),,,59 - 37,-22,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,382,2,1,3,12:04 AM,6:35,,,MISS Gordon 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,383,4,0,3,12:04 AM,6:33,Batum REBOUND (Off:0 Def:3),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,384,2,1,3,12:04 AM,6:27,MISS Batum 26' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,385,4,0,3,12:04 AM,6:24,,,Ja. Green REBOUND (Off:0 Def:3),,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,386,6,4,3,12:04 AM,6:07,,,Gordon OFF.Foul (P3) (J.Orr),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,388,5,37,3,12:04 AM,6:07,,,Gordon Offensive Foul Turnover (P4.T12),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100616,389,1,1,3,12:05 AM,5:44,Coffey 26' 3PT Jump Shot (10 PTS) (Bledsoe 4 AST),,,59 - 40,-19,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,391,5,2,3,12:05 AM,5:28,Bledsoe STEAL (1 STL),,Morris Lost Ball Turnover (P2.T13),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,393,1,74,3,12:05 AM,5:25,Bledsoe 2' Running Reverse Layup (2 PTS),,,59 - 42,-17,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,394,9,1,3,12:05 AM,5:25,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,395,8,0,3,12:08 AM,5:25,,,SUB: Je. Green FOR Ja. Green,,,5,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,398,8,0,3,12:08 AM,5:10,,,SUB: Campazzo FOR Rivers,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,400,6,2,3,12:09 AM,5:04,Mann S.FOUL (P1.PN) (C.Kirkland),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,402,3,11,3,12:09 AM,5:04,,,MISS Je. Green Free Throw 1 of 2,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,403,4,1,3,12:09 AM,5:04,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,404,3,12,3,12:10 AM,5:04,,,Je. Green Free Throw 2 of 2 (10 PTS),60 - 42,-18,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,405,1,80,3,12:10 AM,4:51,Bledsoe 21' Step Back Jump Shot (4 PTS),,,60 - 44,-16,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,406,5,1,3,12:10 AM,4:36,Coffey STEAL (3 STL),,Je. Green Bad Pass Turnover (P1.T14),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,408,1,1,3,12:10 AM,4:26,Mann 26' 3PT Jump Shot (8 PTS) (Bledsoe 5 AST),,,60 - 47,-13,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,410,6,4,3,12:11 AM,4:11,,,Jokic OFF.Foul (P1) (C.Kirkland),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,412,5,37,3,12:11 AM,4:11,,,Jokic Offensive Foul Turnover (P4.T15),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100616,413,6,1,3,12:11 AM,4:04,,,Jokic P.FOUL (P2.T1) (J.Van Duyne),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0022100616,415,2,79,3,12:11 AM,3:51,MISS Bledsoe 26' 3PT Pullup Jump Shot,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,416,4,0,3,12:12 AM,3:48,,,Gordon REBOUND (Off:1 Def:8),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,417,6,2,3,12:12 AM,3:45,Bledsoe S.FOUL (P1.PN) (C.Kirkland),,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,419,3,11,3,12:12 AM,3:45,,,Gordon Free Throw 1 of 2 (16 PTS),61 - 47,-14,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,420,3,12,3,12:12 AM,3:45,,,Gordon Free Throw 2 of 2 (17 PTS),62 - 47,-15,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100616,421,6,17,3,12:13 AM,3:26,,,Nuggets T.Foul (Def. 3 Sec Jokic ) (J.Orr),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0022100616,422,3,16,3,12:13 AM,3:26,MISS Morris Sr. Free Throw Technical,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,423,4,1,3,12:13 AM,3:26,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,424,1,1,3,12:14 AM,3:19,Batum 28' 3PT Jump Shot (3 PTS) (Coffey 4 AST),,,62 - 50,-12,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,426,2,1,3,12:14 AM,2:59,,,MISS Campazzo 3PT Jump Shot,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,427,4,0,3,12:14 AM,2:57,Bledsoe REBOUND (Off:0 Def:2),,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,428,1,41,3,12:14 AM,2:54,Mann 2' Running Layup (10 PTS) (Coffey 5 AST),,,62 - 52,-10,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,430,2,79,3,12:14 AM,2:30,,,MISS Gordon 25' 3PT Pullup Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,431,4,0,3,12:15 AM,2:27,Batum REBOUND (Off:0 Def:4),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,432,2,1,3,12:15 AM,2:21,MISS Morris Sr. 27' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,433,4,0,3,12:15 AM,2:19,,,Morris REBOUND (Off:0 Def:3),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,434,5,1,3,12:15 AM,2:04,Bledsoe STEAL (2 STL),,Morris Bad Pass Turnover (P3.T16),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,437,8,0,3,12:15 AM,2:01,,,SUB: Reed FOR Morris,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,439,2,63,3,12:16 AM,1:54,MISS Bledsoe 12' Fadeaway Jumper,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,441,2,97,3,12:16 AM,1:48,MISS Mann Tip Layup Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,440,4,0,3,12:16 AM,1:48,Mann REBOUND (Off:1 Def:1),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,442,4,0,3,12:16 AM,1:47,,,Reed REBOUND (Off:1 Def:5),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,443,5,39,3,12:16 AM,1:39,,,Je. Green Step Out of Bounds Turnover (P2.T17),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100616,444,8,0,3,12:16 AM,1:39,,,SUB: Ennis III FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203516,James Ennis III,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,446,2,79,3,12:16 AM,1:26,MISS Bledsoe 18' Pullup Jump Shot,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,447,4,0,3,12:16 AM,1:25,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,448,6,3,3,12:16 AM,1:25,,,Campazzo L.B.FOUL (P2.T2) (J.Van Duyne),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,450,8,0,3,12:17 AM,1:25,,,SUB: Nnaji FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,452,1,6,3,12:17 AM,1:15,Coffey 5' Driving Layup (12 PTS) (Bledsoe 6 AST),,,62 - 54,-8,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,454,6,2,3,12:17 AM,1:15,,,Ennis III S.FOUL (P1.PN) (J.Orr),,,5,203516,James Ennis III,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,456,3,10,3,12:17 AM,1:15,Coffey Free Throw 1 of 1 (13 PTS),,,62 - 55,-7,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022100616,457,1,73,3,12:18 AM,0:58,,,Je. Green 2' Driving Reverse Layup (12 PTS) (Campazzo 4 AST),64 - 55,-9,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,459,2,1,3,12:18 AM,0:35,MISS Morris Sr. 11' Jump Shot,,Campazzo BLOCK (1 BLK),,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1
+0022100616,461,4,0,3,12:18 AM,0:33,,,Campazzo REBOUND (Off:0 Def:3),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,462,6,1,3,12:18 AM,0:33,Morris Sr. P.FOUL (P4.PN) (J.Van Duyne),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,464,3,11,3,12:19 AM,0:33,,,Campazzo Free Throw 1 of 2 (1 PTS),65 - 55,-10,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,465,8,0,3,12:19 AM,0:33,SUB: Boston Jr. FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,467,3,12,3,12:19 AM,0:33,,,Campazzo Free Throw 2 of 2 (2 PTS),66 - 55,-11,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,468,2,6,3,12:20 AM,0:14,MISS Bledsoe 5' Driving Layup,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,469,4,0,3,12:20 AM,0:13,Bledsoe REBOUND (Off:1 Def:2),,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,471,2,1,3,12:20 AM,0:09,MISS Bledsoe 17' Jump Shot,,,,,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,472,4,0,3,12:20 AM,0:06,,,Reed REBOUND (Off:1 Def:6),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,473,2,1,3,12:20 AM,0:01,,,MISS Je. Green 25' 3PT Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,474,4,0,3,12:20 AM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,475,13,0,3,12:20 AM,0:00,,End of 3rd Period (12:20 AM EST),,66 - 55,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100616,478,12,0,4,12:23 AM,12:00,,Start of 4th Period (12:23 AM EST),,66 - 55,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,479,2,1,4,12:23 AM,11:45,,,MISS Campazzo 25' 3PT Jump Shot,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,480,4,0,4,12:23 AM,11:41,,,Je. Green REBOUND (Off:3 Def:1),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,481,5,2,4,12:23 AM,11:39,Ibaka STEAL (1 STL),,Je. Green Lost Ball Turnover (P3.T18),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,483,1,1,4,12:23 AM,11:32,Mann 26' 3PT Jump Shot (13 PTS) (Bledsoe 7 AST),,,66 - 58,-8,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,485,2,93,4,12:24 AM,11:17,,,MISS Je. Green 5' Driving Bank Hook Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,486,4,0,4,12:24 AM,11:15,Ibaka REBOUND (Off:0 Def:5),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,487,1,6,4,12:24 AM,11:05,Bledsoe 1' Driving Layup (6 PTS) (Coffey 6 AST),,,66 - 60,-6,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,489,2,79,4,12:24 AM,10:44,,,MISS Reed 24' 3PT Pullup Jump Shot,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,490,4,0,4,12:24 AM,10:40,Ibaka REBOUND (Off:0 Def:6),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,491,1,50,4,12:24 AM,10:38,Boston Jr. 2' Running Dunk (8 PTS) (Mann 1 AST),,,66 - 62,-4,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,493,9,1,4,12:24 AM,10:38,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,494,2,63,4,12:27 AM,10:26,,,MISS Je. Green 16' Fadeaway Jumper,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,495,4,0,4,12:27 AM,10:25,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,497,5,45,4,12:28 AM,10:14,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022100616,498,2,1,4,12:28 AM,10:02,,,MISS Campazzo 25' 3PT Jump Shot,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,499,4,0,4,12:28 AM,10:00,Ibaka REBOUND (Off:0 Def:7),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,500,2,1,4,12:28 AM,9:44,MISS Mann 26' 3PT Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,501,4,0,4,12:28 AM,9:41,,,Campazzo REBOUND (Off:0 Def:4),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,502,5,2,4,12:29 AM,9:22,Coffey STEAL (4 STL),,Ennis III Lost Ball Turnover (P1.T19),,,5,203516,James Ennis III,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,504,6,2,4,12:29 AM,9:19,,,Reed S.FOUL (P1.T1) (J.Orr),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,506,3,11,4,12:29 AM,9:19,Coffey Free Throw 1 of 2 (14 PTS),,,66 - 63,-3,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022100616,515,3,12,4,12:29 AM,9:19,Coffey Free Throw 2 of 2 (15 PTS),,,66 - 64,-2,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,507,8,0,4,12:29 AM,9:19,SUB: Jackson FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,508,8,0,4,12:29 AM,9:19,,,SUB: Rivers FOR Reed,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,509,8,0,4,12:29 AM,9:19,,,SUB: Gordon FOR Ennis III,,,5,203516,James Ennis III,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,510,8,0,4,12:29 AM,9:19,,,SUB: Jokic FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,516,6,1,4,12:30 AM,9:08,Jackson P.FOUL (P4.T1) (C.Kirkland),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,518,8,0,4,12:30 AM,9:08,,,SUB: Morris FOR Je. Green,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100616,520,1,73,4,12:30 AM,9:04,,,Gordon 2' Driving Reverse Layup (19 PTS) (Rivers 2 AST),68 - 64,-4,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,522,1,73,4,12:31 AM,8:52,Bledsoe 3' Driving Reverse Layup (8 PTS),,,68 - 66,-2,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,523,2,1,4,12:31 AM,8:32,,,MISS Jokic 26' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,524,4,0,4,12:31 AM,8:29,Ibaka REBOUND (Off:0 Def:8),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,525,2,1,4,12:31 AM,8:21,MISS Coffey 30' 3PT Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,526,4,0,4,12:31 AM,8:19,,,Gordon REBOUND (Off:1 Def:9),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,527,1,103,4,12:31 AM,8:13,,,Gordon 25' 3PT Running Pull-Up Jump Shot (22 PTS),71 - 66,-5,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,528,1,1,4,12:32 AM,7:52,Bledsoe 26' 3PT Jump Shot (11 PTS) (Coffey 7 AST),,,71 - 69,-2,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,530,2,1,4,12:32 AM,7:27,,,MISS Morris 24' 3PT Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,531,4,0,4,12:32 AM,7:24,Ibaka REBOUND (Off:0 Def:9),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,532,1,63,4,12:32 AM,7:03,Jackson 10' Fadeaway Jumper (4 PTS),,,71 - 71,TIE,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,533,1,51,4,12:33 AM,6:52,,,Gordon 2' Reverse Dunk (24 PTS) (Jokic 5 AST),73 - 71,-2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,535,9,1,4,12:33 AM,6:52,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,536,1,79,4,12:36 AM,6:37,Jackson 16' Pullup Jump Shot (6 PTS) (Bledsoe 8 AST),,,73 - 73,TIE,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,538,2,1,4,12:36 AM,6:12,,,MISS Rivers 29' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,539,4,0,4,12:36 AM,6:08,,,Jokic REBOUND (Off:3 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,540,1,7,4,12:36 AM,6:06,,,Gordon 2' Dunk (26 PTS) (Jokic 6 AST),75 - 73,-2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,542,6,1,4,12:36 AM,5:54,,,Rivers P.FOUL (P2.T2) (C.Kirkland),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,544,6,1,4,12:37 AM,5:50,,,Rivers P.FOUL (P3.T3) (C.Kirkland),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,546,1,79,4,12:37 AM,5:40,Jackson 26' 3PT Pullup Jump Shot (9 PTS) (Bledsoe 9 AST),,,75 - 76,1,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,548,6,1,4,12:38 AM,5:29,Ibaka P.FOUL (P1.T2) (C.Kirkland),,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,550,6,1,4,12:38 AM,5:26,Jackson P.FOUL (P5.T3) (C.Kirkland),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,552,1,63,4,12:38 AM,5:12,,,Jokic 18' Fadeaway Jumper (17 PTS) (Morris 5 AST),77 - 76,-1,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,554,2,1,4,12:39 AM,4:56,MISS Ibaka 27' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,555,4,0,4,12:39 AM,4:53,,,Campazzo REBOUND (Off:0 Def:5),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,556,2,1,4,12:39 AM,4:36,,,MISS Morris 25' 3PT Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,557,4,0,4,12:39 AM,4:31,,,Jokic REBOUND (Off:4 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,558,1,72,4,12:39 AM,4:31,,,Jokic Putback Layup (19 PTS),79 - 76,-3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,559,9,1,4,12:39 AM,4:24,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,560,8,0,4,12:40 AM,4:24,SUB: Batum FOR Boston Jr.,,,,,4,1630527,Brandon Boston,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,561,8,0,4,12:40 AM,4:24,SUB: Morris Sr. FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022100616,564,1,9,4,12:41 AM,4:12,Jackson 1' Driving Dunk (11 PTS),,,79 - 78,-1,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,566,5,2,4,12:43 AM,3:43,Bledsoe STEAL (3 STL),,Jokic Lost Ball Turnover (P5.T20),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202339,Eric Bledsoe,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,568,2,2,4,12:43 AM,3:37,MISS Jackson 3PT Running Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,569,4,0,4,12:43 AM,3:32,,,Gordon REBOUND (Off:1 Def:10),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,570,9,1,4,12:43 AM,3:25,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,571,1,108,4,12:45 AM,3:15,,,Gordon 1' Cutting Dunk Shot (28 PTS) (Jokic 7 AST),81 - 78,-3,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,573,6,2,4,12:45 AM,3:04,,,Rivers S.FOUL (P4.T4) (C.Kirkland),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,575,7,1,4,12:45 AM,3:04,,,Nuggets Violation: Delay of game Violation,,,3,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100616,576,3,11,4,12:46 AM,3:04,Jackson Free Throw 1 of 2 (12 PTS),,,81 - 79,-2,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,577,3,12,4,12:46 AM,3:04,Jackson Free Throw 2 of 2 (13 PTS),,,81 - 80,-1,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,578,6,1,4,12:46 AM,2:53,Batum P.FOUL (P5.T4) (J.Van Duyne),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100616,580,2,105,4,12:47 AM,2:39,,,MISS Jokic 20' Turnaround Fadeaway Bank Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,581,4,0,4,12:47 AM,2:36,Jackson REBOUND (Off:1 Def:1),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,582,1,1,4,12:47 AM,2:30,Coffey 27' 3PT Jump Shot (18 PTS) (Jackson 3 AST),,,81 - 83,2,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,584,2,1,4,12:47 AM,2:02,,,MISS Campazzo 30' 3PT Jump Shot,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,585,4,0,4,12:48 AM,1:58,Jackson REBOUND (Off:1 Def:2),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,586,1,1,4,12:48 AM,1:47,Batum 27' 3PT Jump Shot (6 PTS) (Jackson 4 AST),,,81 - 86,5,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022100616,588,9,1,4,12:48 AM,1:47,,,Nuggets Timeout: Regular (Reg.6 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,589,1,98,4,12:50 AM,1:37,,,Gordon 1' Cutting Layup Shot (30 PTS) (Jokic 8 AST),83 - 86,3,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,591,6,1,4,12:50 AM,1:18,,,Gordon P.FOUL (P4.PN) (C.Kirkland),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022100616,593,3,11,4,12:51 AM,1:18,MISS Morris Sr. Free Throw 1 of 2,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,594,4,1,4,12:51 AM,1:18,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,595,3,12,4,12:51 AM,1:18,Morris Sr. Free Throw 2 of 2 (12 PTS),,,83 - 87,4,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022100616,596,2,5,4,12:51 AM,1:06,Morris Sr. BLOCK (1 BLK),,MISS Gordon 1' Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1
+0022100616,598,4,0,4,12:51 AM,1:03,,,Jokic REBOUND (Off:5 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,599,2,72,4,12:51 AM,1:02,Morris Sr. BLOCK (2 BLK),,MISS Jokic 3' Putback Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1
+0022100616,604,4,0,4,12:51 AM,1:02,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,601,10,0,4,12:52 AM,1:00,Jump Ball Batum vs. Jokic: Tip to Jackson,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1
+0022100616,605,2,1,4,12:52 AM,0:41,MISS Jackson 28' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,606,4,0,4,12:53 AM,0:37,,,Rivers REBOUND (Off:1 Def:4),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,607,1,47,4,12:53 AM,0:28,,,Jokic 6' Turnaround Jump Shot (21 PTS) (Campazzo 5 AST),85 - 87,2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100616,609,2,1,4,12:53 AM,0:09,MISS Batum 26' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022100616,610,4,0,4,12:53 AM,0:07,,,Jokic REBOUND (Off:5 Def:8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,611,2,103,4,12:53 AM,0:02,,,MISS Jokic 26' 3PT Running Pull-Up Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,612,4,0,4,12:53 AM,0:00,,,Gordon REBOUND (Off:2 Def:10),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,613,2,97,4,12:54 AM,0:00,,,MISS Gordon 13' Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100616,614,4,0,4,12:54 AM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100616,615,13,0,4,12:54 AM,0:00,,End of 4th Period (12:54 AM EST),,85 - 87,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

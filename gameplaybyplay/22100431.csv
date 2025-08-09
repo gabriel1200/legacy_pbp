@@ -1,0 +1,439 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100431,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,4,10,0,1,8:11 PM,12:00,Jump Ball Theis vs. Noel: Tip to Rose,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,1
+0022100431,7,2,1,1,8:11 PM,11:36,,,MISS Randle 24' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,8,4,0,1,8:11 PM,11:35,Mathews REBOUND (Off:0 Def:1),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,9,2,1,1,8:12 PM,11:17,MISS Mathews 24' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,10,4,0,1,8:12 PM,11:16,,,Burks REBOUND (Off:0 Def:1),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,11,5,1,1,8:12 PM,10:59,Brooks STEAL (1 STL),,Burks Bad Pass Turnover (P1.T1),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1629717,Armoni Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,13,2,75,1,8:12 PM,10:45,MISS Theis 2' Driving Finger Roll Layup,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,14,4,0,1,8:12 PM,10:45,,,Noel REBOUND (Off:0 Def:1),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,15,2,6,1,8:12 PM,10:37,,,MISS Rose 1' Driving Layup,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,16,4,0,1,8:12 PM,10:37,,,Rose REBOUND (Off:1 Def:0),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,17,1,1,1,8:12 PM,10:31,,,Randle 26' 3PT Jump Shot (3 PTS) (Fournier 1 AST),3 - 0,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,19,1,1,1,8:13 PM,10:16,Brooks 3PT Jump Shot (3 PTS) (Tate 1 AST),,,3 - 3,TIE,4,1629717,Armoni Brooks,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,21,1,63,1,8:13 PM,9:52,,,Fournier 9' Fadeaway Jumper (2 PTS) (Rose 1 AST),5 - 3,-2,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,23,2,79,1,8:13 PM,9:41,MISS Gordon 25' 3PT Pullup Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,24,4,0,1,8:13 PM,9:40,,,Noel REBOUND (Off:0 Def:2),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,25,6,4,1,8:13 PM,9:33,,,Noel OFF.Foul (P1) (B.Taylor),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,27,5,37,1,8:13 PM,9:33,,,Noel Offensive Foul Turnover (P1.T2),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,28,6,1,1,8:14 PM,9:19,,,Noel P.FOUL (P2.T1) (B.Taylor),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,30,8,0,1,8:14 PM,9:19,,,SUB: Robinson FOR Noel,,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,32,1,6,1,8:15 PM,9:10,Tate 1' Driving Layup (2 PTS),,,5 - 5,TIE,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,33,1,1,1,8:15 PM,8:57,,,Fournier 25' 3PT Jump Shot (5 PTS) (Randle 1 AST),8 - 5,-3,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,35,1,6,1,8:15 PM,8:43,Tate 1' Driving Layup (4 PTS),,,8 - 7,-1,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,36,1,86,1,8:15 PM,8:30,,,Randle 10' Turnaround Fadeaway (5 PTS),10 - 7,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,37,2,1,1,8:16 PM,8:20,MISS Tate 27' 3PT Jump Shot,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,38,4,0,1,8:16 PM,8:18,Tate REBOUND (Off:1 Def:0),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,39,1,87,1,8:16 PM,8:15,Tate 1' Putback Dunk (6 PTS),,,10 - 9,-1,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,40,1,108,1,8:16 PM,8:02,,,Robinson Cutting Dunk Shot (2 PTS) (Fournier 2 AST),12 - 9,-3,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,42,1,9,1,8:16 PM,7:39,Theis Driving Dunk (2 PTS) (Gordon 1 AST),,,12 - 11,-1,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,44,2,1,1,8:16 PM,7:24,,,MISS Fournier 26' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,45,4,0,1,8:16 PM,7:24,Mathews REBOUND (Off:0 Def:2),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,46,6,2,1,8:17 PM,7:17,,,Robinson S.FOUL (P1.T2) (B.Forte),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,48,3,11,1,8:17 PM,7:17,MISS Gordon Free Throw 1 of 2,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,49,4,1,1,8:17 PM,7:17,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,50,3,12,1,8:17 PM,7:17,Gordon Free Throw 2 of 2 (1 PTS),,,12 - 12,TIE,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,51,1,79,1,8:18 PM,6:59,,,Randle 25' 3PT Pullup Jump Shot (8 PTS) (Fournier 3 AST),15 - 12,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,53,1,6,1,8:18 PM,6:42,Gordon 2' Driving Layup (3 PTS),,,15 - 14,-1,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,54,6,2,1,8:18 PM,6:32,Mathews S.FOUL (P1.T1) (B.Forte),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,56,9,1,1,8:18 PM,6:32,ROCKETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,57,8,0,1,8:19 PM,6:32,,,SUB: Quickley FOR Burks,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,59,3,11,1,8:21 PM,6:32,,,Fournier Free Throw 1 of 2 (6 PTS),16 - 14,-2,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,60,3,12,1,8:22 PM,6:32,,,Fournier Free Throw 2 of 2 (7 PTS),17 - 14,-3,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,61,2,1,1,8:22 PM,6:06,MISS Gordon 28' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,62,4,0,1,8:22 PM,6:04,,,Quickley REBOUND (Off:0 Def:1),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,63,1,79,1,8:22 PM,5:58,,,Quickley 28' 3PT Pullup Jump Shot (3 PTS),20 - 14,-6,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,64,1,5,1,8:23 PM,5:44,Mathews 1' Layup (2 PTS) (Gordon 2 AST),,,20 - 16,-4,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,66,2,5,1,8:23 PM,5:24,,,MISS Randle 1' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,67,4,0,1,8:23 PM,5:22,,,Randle REBOUND (Off:1 Def:0),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,68,2,5,1,8:23 PM,5:21,Theis BLOCK (1 BLK),,MISS Randle 1' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1
+0022100431,70,4,0,1,8:23 PM,5:19,Tate REBOUND (Off:1 Def:1),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,71,2,1,1,8:23 PM,5:15,MISS Gordon 25' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,72,4,0,1,8:23 PM,5:14,,,Randle REBOUND (Off:1 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,73,2,79,1,8:23 PM,5:01,,,MISS Rose 25' 3PT Pullup Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,74,4,0,1,8:23 PM,5:00,Theis REBOUND (Off:0 Def:1),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,75,1,1,1,8:23 PM,4:50,Theis 27' 3PT Jump Shot (5 PTS) (Tate 2 AST),,,20 - 19,-1,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,77,2,86,1,8:24 PM,4:28,,,MISS Randle 10' Turnaround Fadeaway Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,78,4,0,1,8:24 PM,4:27,Theis REBOUND (Off:0 Def:2),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,79,2,1,1,8:24 PM,4:14,MISS Brooks 24' 3PT Jump Shot,,,,,4,1629717,Armoni Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,80,4,0,1,8:24 PM,4:11,Theis REBOUND (Off:1 Def:2),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,81,1,6,1,8:24 PM,4:06,Gordon 1' Driving Layup (5 PTS) (Tate 3 AST),,,20 - 21,1,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,83,9,1,1,8:24 PM,3:59,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,84,8,0,1,8:26 PM,3:59,SUB: Martin Jr. FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,85,8,0,1,8:26 PM,3:59,SUB: Sengun FOR Theis,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,86,8,0,1,8:26 PM,3:59,,,SUB: McBride FOR Rose,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,90,6,2,1,8:28 PM,3:48,Brooks S.FOUL (P1.T2) (B.Taylor),,,,,4,1629717,Armoni Brooks,1610612745.0,Houston,Rockets,HOU,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,92,3,11,1,8:28 PM,3:48,,,Fournier Free Throw 1 of 2 (8 PTS),21 - 21,TIE,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,93,3,12,1,8:28 PM,3:48,,,Fournier Free Throw 2 of 2 (9 PTS),22 - 21,-1,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,95,5,11,1,8:29 PM,3:24,ROCKETS Turnover: Shot Clock (T#1),,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100431,96,1,1,1,8:29 PM,3:14,,,Fournier 20' Jump Shot (11 PTS) (Randle 2 AST),24 - 21,-3,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,98,1,108,1,8:30 PM,3:00,Martin Jr. 1' Cutting Dunk Shot (2 PTS) (Gordon 3 AST),,,24 - 23,-1,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,100,6,2,1,8:30 PM,2:52,Martin Jr. S.FOUL (P1.T3) (B.Forte),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,102,3,11,1,8:30 PM,2:52,,,Randle Free Throw 1 of 2 (9 PTS),25 - 23,-2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,103,8,0,1,8:30 PM,2:52,SUB: Christopher FOR Brooks,,,,,4,1629717,Armoni Brooks,1610612745.0,Houston,Rockets,HOU,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,105,3,12,1,8:31 PM,2:52,,,Randle Free Throw 2 of 2 (10 PTS),26 - 23,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,106,2,1,1,8:31 PM,2:27,MISS Sengun 27' 3PT Jump Shot,,Robinson BLOCK (1 BLK),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022100431,108,4,0,1,8:31 PM,2:27,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,126,5,11,1,8:31 PM,2:27,ROCKETS Turnover: Shot Clock (T#2),,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100431,109,8,0,1,8:31 PM,2:27,,,SUB: Gibson FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,110,8,0,1,8:31 PM,2:27,,,SUB: Burks FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,113,2,79,1,8:32 PM,2:17,,,MISS Quickley 25' 3PT Pullup Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,115,1,97,1,8:32 PM,2:14,,,Robinson 1' Tip Layup Shot (4 PTS),28 - 23,-5,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,114,4,0,1,8:32 PM,2:14,,,Robinson REBOUND (Off:1 Def:0),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,116,1,108,1,8:32 PM,1:58,Martin Jr. 2' Cutting Dunk Shot (4 PTS) (Sengun 1 AST),,,28 - 25,-3,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,118,2,1,1,8:33 PM,1:38,,,MISS Burks 14' Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,119,4,0,1,8:33 PM,1:38,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,120,6,1,1,8:33 PM,1:38,Tate P.FOUL (P1.T4) (B.Forte),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,122,8,0,1,8:33 PM,1:38,SUB: Augustin FOR Tate,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,123,8,0,1,8:33 PM,1:38,SUB: Mathews FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,127,6,1,1,8:33 PM,1:34,Mathews P.FOUL (P2.PN) (B.Taylor),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,129,3,11,1,8:33 PM,1:34,,,Burks Free Throw 1 of 2 (1 PTS),29 - 25,-4,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,130,3,12,1,8:34 PM,1:34,,,Burks Free Throw 2 of 2 (2 PTS),30 - 25,-5,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,131,5,1,1,8:34 PM,1:19,Sengun Bad Pass Turnover (P1.T3),,McBride STEAL (1 STL),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,133,1,79,1,8:34 PM,1:10,,,McBride 25' 3PT Pullup Jump Shot (3 PTS),33 - 25,-8,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,135,2,1,1,8:35 PM,0:43,MISS Mathews 27' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,136,4,0,1,8:35 PM,0:42,Mathews REBOUND (Off:1 Def:2),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,137,1,6,1,8:35 PM,0:38,Martin Jr. 1' Driving Layup (6 PTS) (Mathews 1 AST),,,33 - 27,-6,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,139,6,2,1,8:35 PM,0:38,,,Burks S.FOUL (P1.T3) (B.Taylor),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,141,3,10,1,8:35 PM,0:38,Martin Jr. Free Throw 1 of 1 (7 PTS),,,33 - 28,-5,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,142,1,1,1,8:36 PM,0:30,,,McBride 3PT Jump Shot (6 PTS) (Quickley 1 AST),36 - 28,-8,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,144,1,98,1,8:36 PM,0:09,Mathews 2' Cutting Layup Shot (4 PTS) (Augustin 1 AST),,,36 - 30,-6,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,146,1,79,1,8:36 PM,0:02,,,Quickley 27' 3PT Pullup Jump Shot (6 PTS),39 - 30,-9,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,147,2,102,1,8:36 PM,0:00,MISS Christopher 26' 3PT Driving Floating Bank Jump Shot,,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,148,4,0,1,8:36 PM,0:00,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,149,13,0,1,8:37 PM,0:00,,End of 1st Period (8:37 PM EST),,39 - 30,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100431,150,12,0,2,8:40 PM,12:00,,Start of 2nd Period (8:40 PM EST),,39 - 30,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,151,7,5,2,8:40 PM,11:46,,,McBride Violation:Kicked Ball (B.Taylor),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0022100431,152,2,6,2,8:41 PM,11:40,MISS Augustin 3' Driving Layup,,Robinson BLOCK (2 BLK),,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022100431,154,4,0,2,8:41 PM,11:40,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,156,6,2,2,8:41 PM,11:34,,,Quickley S.FOUL (P1.T1) (S.Twardoski),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,158,3,11,2,8:41 PM,11:34,Christopher Free Throw 1 of 2 (1 PTS),,,39 - 31,-8,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,159,3,12,2,8:42 PM,11:34,Christopher Free Throw 2 of 2 (2 PTS),,,39 - 32,-7,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,160,6,1,2,8:42 PM,11:23,Sengun P.FOUL (P1.T1) (B.Forte),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,162,2,1,2,8:42 PM,11:08,,,MISS Gibson 25' 3PT Jump Shot,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,163,4,0,2,8:42 PM,11:07,Mathews REBOUND (Off:1 Def:3),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,164,5,45,2,8:43 PM,10:53,Augustin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,165,2,101,2,8:43 PM,10:37,,,MISS Quickley 4' Driving Floating Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,166,4,0,2,8:43 PM,10:37,Sengun REBOUND (Off:0 Def:1),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,167,5,1,2,8:43 PM,10:27,Mathews Bad Pass Turnover (P1.T5),,Gibson STEAL (1 STL),,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,169,2,47,2,8:43 PM,10:20,,,MISS Gibson 4' Turnaround Jump Shot,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,170,4,0,2,8:43 PM,10:18,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,172,2,80,2,8:44 PM,10:06,,,MISS McBride 25' 3PT Step Back Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,173,4,0,2,8:44 PM,10:06,Mathews REBOUND (Off:1 Def:4),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,174,5,1,2,8:44 PM,10:00,Christopher Bad Pass Turnover (P1.T6),,McBride STEAL (2 STL),,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,176,1,41,2,8:44 PM,9:56,,,McBride 2' Running Layup (8 PTS),41 - 32,-9,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,177,6,2,2,8:44 PM,9:56,Christopher S.FOUL (P1.T2) (B.Forte),,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,179,3,10,2,8:45 PM,9:56,,,McBride Free Throw 1 of 1 (9 PTS),42 - 32,-10,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,180,9,1,2,8:45 PM,9:51,ROCKETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,181,6,6,2,8:48 PM,9:51,,,Robinson AWAY.FROM.PLAY.FOUL (P2.T2) (S.Twardoski),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,188,3,10,2,8:48 PM,9:51,Augustin Free Throw 1 of 1 (1 PTS),,,42 - 33,-9,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,183,5,1,2,8:49 PM,9:39,Sengun Bad Pass Turnover (P2.T7),,McBride STEAL (3 STL),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,185,1,41,2,8:49 PM,9:33,,,McBride 1' Running Layup (11 PTS),44 - 33,-11,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,186,2,1,2,8:49 PM,9:15,MISS Mathews 26' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,187,4,0,2,8:49 PM,9:14,,,Gibson REBOUND (Off:0 Def:1),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,189,1,47,2,8:49 PM,8:59,,,Burks 10' Turnaround Jump Shot (4 PTS),46 - 33,-13,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,190,6,4,2,8:50 PM,8:52,Sengun OFF.Foul (P2) (B.Taylor),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,192,5,37,2,8:50 PM,8:52,Sengun Offensive Foul Turnover (P3.T8),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,193,8,0,2,8:50 PM,8:52,SUB: Theis FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,194,8,0,2,8:50 PM,8:52,,,SUB: Randle FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,195,8,0,2,8:50 PM,8:52,,,SUB: Noel FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,199,2,1,2,8:50 PM,8:36,,,MISS Randle 25' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,200,4,0,2,8:50 PM,8:33,,,Noel REBOUND (Off:1 Def:2),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,201,1,1,2,8:50 PM,8:30,,,Burks 26' 3PT Jump Shot (7 PTS) (McBride 1 AST),49 - 33,-16,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,203,9,1,2,8:50 PM,8:29,ROCKETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,204,8,0,2,8:52 PM,8:29,SUB: Tate FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,206,1,1,2,8:54 PM,8:10,Theis 3PT Jump Shot (8 PTS) (Martin Jr. 1 AST),,,49 - 36,-13,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,208,1,1,2,8:54 PM,7:47,,,Randle 26' 3PT Jump Shot (13 PTS) (Quickley 2 AST),52 - 36,-16,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,210,2,1,2,8:54 PM,7:33,MISS Martin Jr. 24' 3PT Jump Shot,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,211,4,0,2,8:54 PM,7:32,,,Burks REBOUND (Off:0 Def:2),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,212,6,2,2,8:54 PM,7:27,Martin Jr. S.FOUL (P2.T3) (B.Taylor),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,214,3,11,2,8:55 PM,7:27,,,Quickley Free Throw 1 of 2 (7 PTS),53 - 36,-17,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,215,3,12,2,8:55 PM,7:27,,,MISS Quickley Free Throw 2 of 2,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,216,4,0,2,8:55 PM,7:27,Martin Jr. REBOUND (Off:0 Def:1),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,217,2,1,2,8:55 PM,7:13,MISS Theis 27' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,218,4,0,2,8:55 PM,7:13,,,Randle REBOUND (Off:1 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,219,2,1,2,8:56 PM,6:51,,,MISS Quickley 25' 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,220,4,0,2,8:56 PM,6:49,Martin Jr. REBOUND (Off:0 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,221,1,1,2,8:56 PM,6:38,Christopher 3PT Jump Shot (5 PTS) (Tate 4 AST),,,53 - 39,-14,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,223,2,63,2,8:56 PM,6:17,,,MISS Burks 7' Fadeaway Jumper,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,224,4,0,2,8:56 PM,6:16,,,Noel REBOUND (Off:2 Def:2),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,225,6,1,2,8:56 PM,6:16,Christopher P.FOUL (P2.T4) (B.Taylor),,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,227,8,0,2,8:57 PM,6:16,SUB: Gordon FOR Augustin,,,,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,228,8,0,2,8:57 PM,6:16,,,SUB: Fournier FOR McBride,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,229,8,0,2,8:57 PM,6:16,,,SUB: Rose FOR Burks,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,233,2,80,2,8:57 PM,6:09,,,MISS Randle 25' 3PT Step Back Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,234,4,0,2,8:57 PM,6:08,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,236,5,45,2,8:57 PM,6:00,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,237,5,45,2,8:58 PM,5:46,,,Fournier Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,238,6,2,2,8:58 PM,5:36,,,Fournier S.FOUL (P1.T3) (B.Taylor),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,240,3,11,2,8:59 PM,5:36,Tate Free Throw 1 of 2 (7 PTS),,,53 - 40,-13,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,241,3,12,2,8:59 PM,5:36,Tate Free Throw 2 of 2 (8 PTS),,,53 - 41,-12,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,247,5,1,2,8:59 PM,5:23,Christopher STEAL (1 STL),,Quickley Bad Pass Turnover (P1.T4),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,245,1,6,2,8:59 PM,5:13,Tate 1' Driving Layup (10 PTS) (Gordon 4 AST),,,53 - 43,-10,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,246,9,1,2,8:59 PM,5:06,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,249,6,2,2,9:01 PM,4:49,Theis S.FOUL (P1.PN) (S.Twardoski),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,251,3,11,2,9:02 PM,4:49,,,Quickley Free Throw 1 of 2 (8 PTS),54 - 43,-11,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,252,3,12,2,9:02 PM,4:49,,,Quickley Free Throw 2 of 2 (9 PTS),55 - 43,-12,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,253,2,75,2,9:02 PM,4:26,MISS Christopher 3' Driving Finger Roll Layup,,Noel BLOCK (1 BLK),,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,1
+0022100431,255,4,0,2,9:03 PM,4:21,,,Quickley REBOUND (Off:0 Def:2),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,256,2,73,2,9:03 PM,4:17,Theis BLOCK (2 BLK),,MISS Quickley 3' Driving Reverse Layup,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1
+0022100431,258,4,0,2,9:03 PM,4:14,Tate REBOUND (Off:1 Def:2),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,259,2,6,2,9:03 PM,4:08,MISS Gordon 6' Driving Layup,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,260,4,0,2,9:03 PM,4:05,,,Randle REBOUND (Off:1 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,263,5,45,2,9:03 PM,4:04,,,Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,264,8,0,2,9:03 PM,4:04,,,SUB: Burks FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,266,1,1,2,9:04 PM,3:46,Tate 26' 3PT Jump Shot (13 PTS) (Martin Jr. 2 AST),,,55 - 46,-9,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,268,1,6,2,9:04 PM,3:19,,,Randle 1' Driving Layup (15 PTS),57 - 46,-11,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,269,2,3,2,9:04 PM,3:02,MISS Martin Jr. 5' Hook Shot,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,270,4,0,2,9:04 PM,3:00,Martin Jr. REBOUND (Off:1 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,271,2,72,2,9:04 PM,2:59,MISS Martin Jr. 9' Putback Layup,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,272,4,0,2,9:04 PM,2:57,,,Randle REBOUND (Off:1 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,273,2,6,2,9:05 PM,2:34,,,MISS Burks 3' Driving Layup,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,274,4,0,2,9:05 PM,2:32,Martin Jr. REBOUND (Off:1 Def:3),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,275,1,76,2,9:05 PM,2:26,Christopher 2' Running Finger Roll Layup (7 PTS) (Martin Jr. 3 AST),,,57 - 48,-9,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,277,6,2,2,9:05 PM,2:06,Tate S.FOUL (P2.PN) (S.Twardoski),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,279,3,11,2,9:06 PM,2:06,,,MISS Fournier Free Throw 1 of 2,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,280,4,1,2,9:06 PM,2:06,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,281,8,0,2,9:06 PM,2:06,SUB: Nwaba FOR Martin Jr.,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,282,8,0,2,9:06 PM,2:06,SUB: Mathews FOR Christopher,,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,283,8,0,2,9:06 PM,2:06,,,SUB: McBride FOR Rose,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,287,3,12,2,9:06 PM,2:06,,,MISS Fournier Free Throw 2 of 2,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,288,4,0,2,9:06 PM,2:06,Mathews REBOUND (Off:1 Def:5),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,289,6,1,2,9:06 PM,1:56,,,McBride P.FOUL (P1.T4) (B.Forte),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,291,6,1,2,9:07 PM,1:54,,,McBride P.FOUL (P2.PN) (S.Twardoski),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,293,3,11,2,9:07 PM,1:54,Theis Free Throw 1 of 2 (9 PTS),,,57 - 49,-8,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,294,3,12,2,9:07 PM,1:54,Theis Free Throw 2 of 2 (10 PTS),,,57 - 50,-7,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,295,2,86,2,9:08 PM,1:34,,,MISS Randle 9' Turnaround Fadeaway Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,296,4,0,2,9:08 PM,1:32,Mathews REBOUND (Off:1 Def:6),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,297,6,1,2,9:08 PM,1:25,,,Fournier P.FOUL (P2.PN) (B.Forte),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,299,3,11,2,9:08 PM,1:25,MISS Tate Free Throw 1 of 2,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,300,4,1,2,9:08 PM,1:25,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,301,3,12,2,9:09 PM,1:25,Tate Free Throw 2 of 2 (14 PTS),,,57 - 51,-6,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,303,2,1,2,9:09 PM,1:05,,,MISS Fournier 25' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,304,4,0,2,9:09 PM,1:05,Theis REBOUND (Off:1 Def:3),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,305,2,86,2,9:09 PM,0:56,MISS Gordon 7' Turnaround Fadeaway Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,306,4,0,2,9:09 PM,0:54,,,McBride REBOUND (Off:0 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,307,9,1,2,9:10 PM,0:44,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,308,5,11,2,9:11 PM,0:31,,,Knicks Turnover: Shot Clock (T#6),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100431,309,6,26,2,9:12 PM,0:12,Gordon Offensive Charge Foul (P1) (S.Twardoski),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,311,5,37,2,9:12 PM,0:12,Gordon Offensive Foul Turnover (P2.T10),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,312,2,63,2,9:13 PM,0:01,,,MISS Randle 10' Fadeaway Jumper,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,313,4,0,2,9:13 PM,0:01,Nwaba REBOUND (Off:0 Def:1),,,,,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,314,13,0,2,9:13 PM,0:00,,End of 2nd Period (9:13 PM EST),,57 - 51,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100431,317,12,0,3,9:28 PM,12:00,,Start of 3rd Period (9:28 PM EST),,57 - 51,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,318,2,98,3,9:28 PM,11:45,MISS Theis 2' Cutting Layup Shot,,Noel BLOCK (2 BLK),,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,1
+0022100431,320,4,0,3,9:28 PM,11:42,,,Fournier REBOUND (Off:0 Def:1),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,321,1,1,3,9:28 PM,11:36,,,Fournier 26' 3PT Jump Shot (14 PTS) (Randle 3 AST),60 - 51,-9,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,323,1,79,3,9:29 PM,11:14,Tate 25' 3PT Pullup Jump Shot (17 PTS) (Christopher 1 AST),,,60 - 54,-6,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,325,1,75,3,9:29 PM,10:47,,,McBride 1' Driving Finger Roll Layup (13 PTS) (Burks 1 AST),62 - 54,-8,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,327,6,2,3,9:29 PM,10:39,,,Fournier S.FOUL (P3.T1) (B.Forte),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,329,3,13,3,9:30 PM,10:39,Mathews Free Throw 1 of 3 (5 PTS),,,62 - 55,-7,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,330,3,14,3,9:30 PM,10:39,Mathews Free Throw 2 of 3 (6 PTS),,,62 - 56,-6,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,331,3,15,3,9:30 PM,10:39,Mathews Free Throw 3 of 3 (7 PTS),,,62 - 57,-5,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,332,2,78,3,9:31 PM,10:19,,,MISS Noel 7' Floating Jump Shot,,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,333,4,0,3,9:31 PM,10:17,Theis REBOUND (Off:1 Def:4),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,334,5,1,3,9:31 PM,10:08,Gordon Bad Pass Turnover (P3.T11),,McBride STEAL (4 STL),,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,336,1,5,3,9:31 PM,10:03,,,Randle 1' Layup (17 PTS) (McBride 2 AST),64 - 57,-7,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,338,1,108,3,9:31 PM,9:53,Theis 1' Cutting Dunk Shot (12 PTS) (Tate 5 AST),,,64 - 59,-5,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,340,1,102,3,9:31 PM,9:34,,,Fournier 9' Driving Floating Bank Jump Shot (16 PTS) (Randle 4 AST),66 - 59,-7,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,342,1,6,3,9:32 PM,9:13,Theis 1' Driving Layup (14 PTS) (Gordon 5 AST),,,66 - 61,-5,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,344,2,1,3,9:32 PM,8:45,,,MISS Fournier 27' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,345,4,0,3,9:32 PM,8:45,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,347,1,80,3,9:33 PM,8:32,Christopher 25' 3PT Step Back Jump Shot (10 PTS) (Gordon 6 AST),,,66 - 64,-2,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,349,9,1,3,9:33 PM,8:32,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,350,5,45,3,9:36 PM,8:21,,,Randle Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,351,5,1,3,9:36 PM,8:04,Tate Bad Pass Turnover (P1.T12),,Randle STEAL (1 STL),,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,353,6,28,3,9:36 PM,8:02,Tate Personal Take Foul (P3.T1) (S.Twardoski),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,355,6,4,3,9:37 PM,7:54,,,Randle OFF.Foul (P1) (B.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,357,5,37,3,9:37 PM,7:54,,,Randle Offensive Foul Turnover (P3.T8),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,358,2,1,3,9:37 PM,7:46,MISS Mathews 25' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,359,4,0,3,9:37 PM,7:45,,,Burks REBOUND (Off:0 Def:3),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,360,6,1,3,9:37 PM,7:36,Theis P.FOUL (P2.T2) (B.Taylor),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,362,5,1,3,9:38 PM,7:21,Theis STEAL (1 STL),,Fournier Bad Pass Turnover (P2.T9),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,364,6,2,3,9:38 PM,7:17,,,Randle S.FOUL (P2.T2) (B.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,366,3,11,3,9:38 PM,7:17,Tate Free Throw 1 of 2 (18 PTS),,,66 - 65,-1,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,367,3,12,3,9:38 PM,7:17,MISS Tate Free Throw 2 of 2,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,368,4,0,3,9:38 PM,7:17,,,Noel REBOUND (Off:2 Def:3),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,369,6,2,3,9:39 PM,6:53,Theis S.FOUL (P3.T3) (B.Taylor),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,371,3,11,3,9:39 PM,6:53,,,Burks Free Throw 1 of 2 (8 PTS),67 - 65,-2,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,372,3,12,3,9:40 PM,6:53,,,Burks Free Throw 2 of 2 (9 PTS),68 - 65,-3,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,375,6,4,3,9:40 PM,6:39,Tate OFF.Foul (P4) (B.Taylor),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,380,5,37,3,9:40 PM,6:39,Tate Offensive Foul Turnover (P2.T13),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,377,6,11,3,9:40 PM,6:39,Tate T.FOUL (P4.T3) (B.Taylor),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,395,8,0,3,9:40 PM,6:39,SUB: Martin Jr. FOR Tate,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,378,3,16,3,9:40 PM,6:39,,,MISS Fournier Free Throw Technical,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,379,4,1,3,9:40 PM,6:39,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,381,2,1,3,9:41 PM,6:25,,,MISS Randle 20' Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,382,4,0,3,9:41 PM,6:25,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,383,6,3,3,9:41 PM,6:25,,,Noel L.B.FOUL (P3.T3) (B.Taylor),,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,385,2,1,3,9:42 PM,6:02,MISS Martin Jr. 28' 3PT Jump Shot,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,386,4,0,3,9:42 PM,5:59,Theis REBOUND (Off:2 Def:4),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,388,8,0,3,9:42 PM,5:59,,,SUB: Robinson FOR Noel,,,5,203457,Nerlens Noel,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,391,6,2,3,9:43 PM,5:58,,,Randle S.FOUL (P3.T4) (B.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,393,3,11,3,9:43 PM,5:58,Mathews Free Throw 1 of 2 (8 PTS),,,68 - 66,-2,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,394,3,12,3,9:43 PM,5:58,Mathews Free Throw 2 of 2 (9 PTS),,,68 - 67,-1,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,397,2,78,3,9:43 PM,5:38,,,MISS Burks 8' Floating Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,398,4,0,3,9:43 PM,5:35,,,Robinson REBOUND (Off:2 Def:0),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,399,2,1,3,9:43 PM,5:33,,,MISS Randle 27' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,400,4,0,3,9:43 PM,5:32,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,402,6,2,3,9:44 PM,5:26,Martin Jr. S.FOUL (P3.T4) (S.Twardoski),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,404,3,11,3,9:44 PM,5:26,,,Randle Free Throw 1 of 2 (18 PTS),69 - 67,-2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,405,8,0,3,9:44 PM,5:26,,,SUB: Quickley FOR Burks,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,407,3,12,3,9:45 PM,5:26,,,Randle Free Throw 2 of 2 (19 PTS),70 - 67,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,408,1,1,3,9:45 PM,5:13,Mathews 28' 3PT Jump Shot (12 PTS) (Gordon 7 AST),,,70 - 70,TIE,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,410,1,102,3,9:45 PM,4:55,,,McBride 5' Driving Floating Bank Jump Shot (15 PTS),72 - 70,-2,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,411,1,1,3,9:46 PM,4:41,Theis 7' Jump Shot (16 PTS) (Martin Jr. 4 AST),,,72 - 72,TIE,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,413,2,79,3,9:46 PM,4:25,,,MISS McBride 27' 3PT Pullup Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,414,4,0,3,9:46 PM,4:24,,,Quickley REBOUND (Off:1 Def:2),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,415,5,2,3,9:46 PM,4:16,Christopher STEAL (2 STL),,Quickley Lost Ball Turnover (P2.T10),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,417,1,41,3,9:46 PM,4:10,Christopher 1' Running Layup (12 PTS),,,72 - 74,2,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,418,2,1,3,9:46 PM,3:54,,,MISS Fournier 18' Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,419,4,0,3,9:46 PM,3:53,Martin Jr. REBOUND (Off:1 Def:4),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,420,2,63,3,9:46 PM,3:45,MISS Christopher 12' Fadeaway Jumper,,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,421,4,0,3,9:46 PM,3:44,,,Robinson REBOUND (Off:2 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,422,1,86,3,9:47 PM,3:27,,,Fournier 14' Turnaround Fadeaway (18 PTS),74 - 74,TIE,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,423,5,45,3,9:47 PM,3:15,Gordon Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,425,8,0,3,9:47 PM,3:15,SUB: Augustin FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,426,8,0,3,9:47 PM,3:15,SUB: Sengun FOR Theis,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,427,8,0,3,9:47 PM,3:15,,,SUB: Gibson FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,432,1,1,3,9:47 PM,3:01,,,Fournier 24' 3PT Jump Shot (21 PTS) (McBride 3 AST),77 - 74,-3,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,435,6,2,3,9:48 PM,2:44,,,Robinson S.FOUL (P3.PN) (B.Taylor),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,437,9,1,3,9:48 PM,2:44,ROCKETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,438,8,0,3,9:51 PM,2:44,SUB: Nwaba FOR Christopher,,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,440,3,13,3,9:51 PM,2:44,Mathews Free Throw 1 of 3 (13 PTS),,,77 - 75,-2,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,441,3,14,3,9:51 PM,2:44,Mathews Free Throw 2 of 3 (14 PTS),,,77 - 76,-1,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,442,3,15,3,9:51 PM,2:44,MISS Mathews Free Throw 3 of 3,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,443,4,0,3,9:51 PM,2:44,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,450,5,17,3,9:52 PM,2:44,Mathews Lane Violation Turnover (P2.T15),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,444,1,80,3,9:52 PM,2:25,,,Fournier 9' Step Back Jump Shot (23 PTS) (McBride 4 AST),79 - 76,-3,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,445,2,1,3,9:52 PM,2:09,MISS Mathews 9' Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,446,4,0,3,9:52 PM,2:09,,,Quickley REBOUND (Off:1 Def:3),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,447,6,4,3,9:53 PM,1:57,,,Quickley OFF.Foul (P2) (B.Forte),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,449,5,37,3,9:53 PM,1:57,,,Quickley Offensive Foul Turnover (P3.T11),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,452,6,2,3,9:53 PM,1:38,,,Robinson S.FOUL (P4.PN) (S.Twardoski),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,454,3,11,3,9:54 PM,1:38,MISS Sengun Free Throw 1 of 2,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,455,4,1,3,9:54 PM,1:38,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,456,3,12,3,9:54 PM,1:38,Sengun Free Throw 2 of 2 (1 PTS),,,79 - 77,-2,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,457,1,1,3,9:54 PM,1:20,,,Gibson 3PT Jump Shot (3 PTS) (McBride 5 AST),82 - 77,-5,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,459,2,1,3,9:55 PM,1:08,MISS Mathews 27' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,460,4,0,3,9:55 PM,1:07,,,Gibson REBOUND (Off:0 Def:2),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,461,2,6,3,9:55 PM,0:56,Sengun BLOCK (1 BLK),,MISS McBride 2' Driving Layup,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022100431,463,4,0,3,9:55 PM,0:55,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100431,465,2,79,3,9:56 PM,0:35,MISS Augustin 26' 3PT Pullup Jump Shot,,Quickley BLOCK (1 BLK),,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1
+0022100431,467,4,0,3,9:56 PM,0:34,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,469,1,47,3,9:57 PM,0:31,Nwaba 12' Turnaround Jump Shot (2 PTS) (Augustin 2 AST),,,82 - 79,-3,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,471,6,2,3,9:57 PM,0:14,Mathews S.FOUL (P3.PN) (B.Taylor),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,473,9,1,3,9:58 PM,0:14,ROCKETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,474,18,6,3,9:58 PM,0:14,,Instant Replay3rd Period (9:58 PM EST),,82 - 79,-3,0,471,,,,,,0,0,,,,,,1,0,,,,,,1
+0022100431,475,8,0,3,9:59 PM,0:14,SUB: Gordon FOR Nwaba,,,,,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,476,8,0,3,9:59 PM,0:14,,,SUB: Burks FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,479,3,11,3,10:00 PM,0:14,,,Gibson Free Throw 1 of 2 (4 PTS),83 - 79,-4,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,480,3,12,3,10:00 PM,0:14,,,Gibson Free Throw 2 of 2 (5 PTS),84 - 79,-5,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,481,1,98,3,10:01 PM,0:02,Martin Jr. 1' Cutting Layup Shot (9 PTS) (Augustin 3 AST),,,84 - 81,-3,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,483,6,2,3,10:01 PM,0:02,,,Gibson S.FOUL (P1.PN) (B.Taylor),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,485,3,10,3,10:01 PM,0:02,Martin Jr. Free Throw 1 of 1 (10 PTS),,,84 - 82,-2,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,486,13,0,3,10:01 PM,0:00,,End of 3rd Period (10:01 PM EST),,84 - 82,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100431,491,12,0,4,10:04 PM,12:00,,Start of 4th Period (10:04 PM EST),,84 - 82,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,492,2,6,4,10:04 PM,11:42,Sengun BLOCK (2 BLK),,MISS Burks 4' Driving Layup,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022100431,494,4,0,4,10:04 PM,11:40,Sengun REBOUND (Off:0 Def:2),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,529,5,1,4,10:04 PM,11:33,Tate Bad Pass Turnover (P3.T16),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022100431,497,6,3,4,10:04 PM,11:33,Tate L.B.FOUL (P5.T1) (B.Forte),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,499,2,44,4,10:05 PM,11:11,,,MISS Burks 2' Reverse Layup,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,500,4,0,4,10:05 PM,11:09,,,Robinson REBOUND (Off:3 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,501,1,97,4,10:05 PM,11:09,,,Robinson Tip Layup Shot (6 PTS),86 - 82,-4,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,502,6,4,4,10:06 PM,10:53,Sengun OFF.Foul (P3) (B.Taylor),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,504,5,37,4,10:06 PM,10:53,Sengun Offensive Foul Turnover (P4.T17),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100431,505,8,0,4,10:06 PM,10:53,SUB: Christopher FOR Tate,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,507,2,101,4,10:06 PM,10:33,,,MISS Gibson 5' Driving Floating Jump Shot,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,508,4,0,4,10:06 PM,10:32,,,Robinson REBOUND (Off:4 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,509,1,87,4,10:06 PM,10:32,,,Robinson Putback Dunk (8 PTS),88 - 82,-6,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,510,6,1,4,10:06 PM,10:20,,,Burks P.FOUL (P2.T1) (B.Forte),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,512,6,1,4,10:07 PM,10:13,,,Gibson P.FOUL (P2.T2) (S.Twardoski),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,521,2,6,4,10:07 PM,10:02,MISS Sengun 3' Driving Layup,,Robinson BLOCK (3 BLK),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022100431,523,4,0,4,10:07 PM,10:02,,,Burks REBOUND (Off:0 Def:4),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,516,2,41,4,10:07 PM,9:56,,,MISS Quickley 8' Running Layup,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,517,4,0,4,10:07 PM,9:53,,,Burks REBOUND (Off:1 Def:4),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,518,1,80,4,10:08 PM,9:48,,,Quickley 26' 3PT Step Back Jump Shot (12 PTS) (McBride 6 AST),91 - 82,-9,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,520,9,1,4,10:08 PM,9:48,ROCKETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,525,1,1,4,10:11 PM,9:33,Augustin 26' 3PT Jump Shot (4 PTS) (Martin Jr. 5 AST),,,91 - 85,-6,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,527,1,79,4,10:11 PM,9:14,,,Quickley 27' 3PT Pullup Jump Shot (15 PTS) (Gibson 1 AST),94 - 85,-9,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,530,2,1,4,10:11 PM,9:01,MISS Augustin 26' 3PT Jump Shot,,,,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,531,4,0,4,10:11 PM,9:01,,,Burks REBOUND (Off:1 Def:5),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,532,5,45,4,10:12 PM,8:45,,,Quickley Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100431,533,1,108,4,10:12 PM,8:23,Martin Jr. 2' Cutting Dunk Shot (12 PTS) (Christopher 2 AST),,,94 - 87,-7,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,535,1,58,4,10:13 PM,7:54,,,Gibson 9' Turnaround Hook Shot (7 PTS) (Quickley 3 AST),96 - 87,-9,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,537,6,1,4,10:13 PM,7:32,,,Quickley P.FOUL (P3.T3) (B.Taylor),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,539,2,1,4,10:14 PM,7:23,MISS Sengun 26' 3PT Jump Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,540,4,0,4,10:14 PM,7:23,,,Gibson REBOUND (Off:0 Def:3),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,541,2,102,4,10:14 PM,7:05,,,MISS Burks 8' Driving Floating Bank Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,542,4,0,4,10:14 PM,7:03,,,Burks REBOUND (Off:2 Def:5),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,543,2,1,4,10:14 PM,6:59,,,MISS McBride 26' 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,544,4,0,4,10:14 PM,6:59,,,Burks REBOUND (Off:3 Def:5),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,545,6,1,4,10:14 PM,6:58,Nwaba P.FOUL (P1.T2) (B.Forte),,,,,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,547,8,0,4,10:14 PM,6:58,SUB: Theis FOR Nwaba,,,,,4,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,548,8,0,4,10:14 PM,6:58,SUB: Gordon FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,551,1,108,4,10:15 PM,6:55,,,Robinson 2' Cutting Dunk Shot (10 PTS) (McBride 7 AST),98 - 87,-11,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,553,6,2,4,10:15 PM,6:55,Theis S.FOUL (P4.T3) (S.Twardoski),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,555,3,10,4,10:15 PM,6:55,,,Robinson Free Throw 1 of 1 (11 PTS),99 - 87,-12,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,556,2,1,4,10:15 PM,6:43,MISS Theis 26' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,557,4,0,4,10:15 PM,6:42,,,Burks REBOUND (Off:3 Def:6),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,558,2,105,4,10:16 PM,6:22,,,MISS Gibson 7' Turnaround Fadeaway Bank Jump Shot,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,559,4,0,4,10:16 PM,6:20,,,McBride REBOUND (Off:1 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,560,2,107,4,10:16 PM,6:20,,,MISS McBride Tip Dunk Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,561,4,0,4,10:16 PM,6:20,,,Robinson REBOUND (Off:5 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,562,1,1,4,10:16 PM,6:15,,,Quickley 27' 3PT Jump Shot (18 PTS) (McBride 8 AST),102 - 87,-15,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,563,2,1,4,10:16 PM,6:01,MISS Gordon 26' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,564,4,0,4,10:16 PM,5:58,,,Robinson REBOUND (Off:5 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,565,2,1,4,10:16 PM,5:39,,,MISS Gibson 27' 3PT Jump Shot,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,566,4,0,4,10:16 PM,5:39,Theis REBOUND (Off:2 Def:5),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,567,2,73,4,10:16 PM,5:26,MISS Augustin 1' Driving Reverse Layup,,,,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,568,4,0,4,10:16 PM,5:25,,,Robinson REBOUND (Off:5 Def:3),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,569,2,1,4,10:17 PM,5:05,,,MISS Gibson 26' 3PT Jump Shot,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,570,4,0,4,10:17 PM,5:04,Theis REBOUND (Off:2 Def:6),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,571,1,1,4,10:17 PM,4:52,Martin Jr. 25' 3PT Jump Shot (15 PTS) (Gordon 8 AST),,,102 - 90,-12,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,573,2,80,4,10:17 PM,4:30,,,MISS Burks 27' 3PT Step Back Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,574,4,0,4,10:17 PM,4:29,Theis REBOUND (Off:2 Def:7),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,575,6,1,4,10:18 PM,4:22,,,McBride P.FOUL (P3.T4) (B.Forte),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,577,8,0,4,10:18 PM,4:22,SUB: Tate FOR Martin Jr.,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,578,8,0,4,10:18 PM,4:22,SUB: Mathews FOR Augustin,,,,,4,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,579,8,0,4,10:18 PM,4:22,,,SUB: Randle FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100431,583,5,2,4,10:18 PM,4:15,Tate Lost Ball Turnover (P4.T18),,Robinson STEAL (1 STL),,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,585,1,1,4,10:18 PM,3:59,,,Quickley 29' 3PT Jump Shot (21 PTS) (Randle 5 AST),105 - 90,-15,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,590,9,1,4,10:19 PM,3:43,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,591,18,6,4,10:20 PM,3:43,,Instant Replay4th Period (10:20 PM EST),,105 - 90,-15,0,589,,,,,,0,0,,,,,,1,0,,,,,,1
+0022100431,592,1,5,4,10:22 PM,3:36,Theis 1' Layup (18 PTS) (Gordon 9 AST),,,105 - 92,-13,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,594,6,2,4,10:22 PM,3:36,,,Burks S.FOUL (P3.PN) (B.Forte),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,596,3,10,4,10:23 PM,3:36,Theis Free Throw 1 of 1 (19 PTS),,,105 - 93,-12,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,597,6,1,4,10:23 PM,3:31,Christopher P.FOUL (P3.T4) (B.Taylor),,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,599,1,52,4,10:24 PM,3:18,,,Robinson 1' Alley Oop Dunk (13 PTS) (Quickley 4 AST),107 - 93,-14,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,601,5,2,4,10:24 PM,3:02,Theis Lost Ball Turnover (P1.T19),,Quickley STEAL (1 STL),,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,603,2,6,4,10:24 PM,2:45,,,MISS Randle Driving Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,604,4,0,4,10:25 PM,2:39,,,Robinson REBOUND (Off:6 Def:3),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,605,1,107,4,10:25 PM,2:39,,,Robinson Tip Dunk Shot (15 PTS),109 - 93,-16,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,606,2,1,4,10:25 PM,2:28,MISS Tate 26' 3PT Jump Shot,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,607,4,0,4,10:25 PM,2:28,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,608,6,3,4,10:25 PM,2:28,,,Randle L.B.FOUL (P4.PN) (B.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,610,3,11,4,10:25 PM,2:28,MISS Theis Free Throw 1 of 2,,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,611,4,1,4,10:25 PM,2:28,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100431,612,8,0,4,10:25 PM,2:28,SUB: Garuba FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,614,3,12,4,10:26 PM,2:28,Theis Free Throw 2 of 2 (20 PTS),,,109 - 94,-15,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,615,1,80,4,10:26 PM,2:12,,,Quickley 26' 3PT Step Back Jump Shot (24 PTS) (Randle 6 AST),112 - 94,-18,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,617,1,108,4,10:26 PM,2:00,Theis 1' Cutting Dunk Shot (22 PTS) (Christopher 3 AST),,,112 - 96,-16,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,619,1,52,4,10:26 PM,1:51,,,Robinson 1' Alley Oop Dunk (17 PTS) (McBride 9 AST),114 - 96,-18,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100431,621,6,1,4,10:27 PM,1:44,,,McBride P.FOUL (P4.PN) (B.Taylor),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100431,623,3,11,4,10:27 PM,1:44,Tate Free Throw 1 of 2 (19 PTS),,,114 - 97,-17,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,624,3,12,4,10:27 PM,1:44,Tate Free Throw 2 of 2 (20 PTS),,,114 - 98,-16,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,625,2,80,4,10:28 PM,1:21,,,MISS Randle 26' 3PT Step Back Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,626,4,0,4,10:28 PM,1:20,Garuba REBOUND (Off:0 Def:1),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,627,2,6,4,10:28 PM,1:12,MISS Christopher 1' Driving Layup,,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,629,4,0,4,10:28 PM,1:10,,,Randle REBOUND (Off:1 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,630,2,79,4,10:28 PM,0:53,,,MISS Quickley 31' 3PT Pullup Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,631,4,0,4,10:28 PM,0:52,Theis REBOUND (Off:2 Def:8),,,,,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100431,632,1,6,4,10:28 PM,0:43,Christopher 8' Driving Layup (14 PTS) (Tate 6 AST),,,114 - 100,-14,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,633,6,2,4,10:29 PM,0:25,Tate S.FOUL (P6.PN) (B.Taylor),,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100431,635,8,0,4,10:29 PM,0:25,SUB: Martin Jr. FOR Tate,,,,,4,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100431,637,3,11,4,10:29 PM,0:25,,,Randle Free Throw 1 of 2 (20 PTS),115 - 100,-15,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,639,3,12,4,10:30 PM,0:25,,,Randle Free Throw 2 of 2 (21 PTS),116 - 100,-16,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100431,640,1,1,4,10:30 PM,0:11,Mathews 26' 3PT Jump Shot (17 PTS) (Theis 1 AST),,,116 - 103,-13,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100431,642,13,0,4,10:30 PM,0:00,,End of 4th Period (10:30 PM EST),,116 - 103,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,464 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100974,2,12,0,1,10:41 PM,12:00,,Start of 1st Period (10:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,4,10,0,1,10:41 PM,12:00,Jump Ball Sabonis vs. Robinson: Tip to Lyles,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1
+0022100974,7,6,2,1,10:41 PM,11:39,,,Robinson S.FOUL (P1.T1) (R.Acosta),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,9,3,11,1,10:42 PM,11:39,Sabonis Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,10,3,12,1,10:42 PM,11:39,Sabonis Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,11,2,79,1,10:42 PM,11:27,,,MISS Barrett 26' 3PT Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,12,4,0,1,10:42 PM,11:24,Fox REBOUND (Off:0 Def:1),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,13,1,2,1,10:42 PM,11:21,Lyles 25' 3PT Running Jump Shot (3 PTS) (Fox 1 AST),,,0 - 5,5,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,15,2,79,1,10:42 PM,11:07,,,MISS Randle 26' 3PT Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,16,4,0,1,10:42 PM,11:05,Sabonis REBOUND (Off:0 Def:1),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,17,1,6,1,10:43 PM,10:58,Sabonis 2' Driving Layup (4 PTS),,,0 - 7,7,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,18,1,6,1,10:43 PM,10:35,,,Randle 4' Driving Layup (2 PTS),2 - 7,5,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,19,1,5,1,10:43 PM,10:20,Sabonis 2' Layup (6 PTS) (Fox 2 AST),,,2 - 9,7,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,21,6,2,1,10:43 PM,10:20,,,Robinson S.FOUL (P2.T2) (J.Tiven),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,23,8,0,1,10:44 PM,10:20,,,SUB: Sims FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,25,3,10,1,10:44 PM,10:20,Sabonis Free Throw 1 of 1 (7 PTS),,,2 - 10,8,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,26,2,6,1,10:44 PM,10:07,,,MISS Barrett 4' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,27,4,0,1,10:44 PM,10:05,Holiday REBOUND (Off:0 Def:1),,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,28,2,1,1,10:44 PM,9:56,MISS Barnes 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,29,4,0,1,10:44 PM,9:52,,,Sims REBOUND (Off:0 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,30,2,101,1,10:45 PM,9:41,,,MISS Fournier 6' Driving Floating Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,31,4,0,1,10:45 PM,9:38,Sabonis REBOUND (Off:0 Def:2),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,32,1,50,1,10:45 PM,9:33,Sabonis 1' Running Dunk (9 PTS) (Fox 3 AST),,,2 - 12,10,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,34,9,1,1,10:45 PM,9:27,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,35,2,63,1,10:48 PM,9:11,,,MISS Burks 15' Fadeaway Jumper,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,36,4,0,1,10:48 PM,9:08,Fox REBOUND (Off:0 Def:2),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,37,5,2,1,10:48 PM,9:03,Fox Lost Ball Turnover (P1.T1),,Randle STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,39,1,41,1,10:48 PM,8:57,,,Randle 2' Running Layup (4 PTS),4 - 12,8,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,40,2,1,1,10:48 PM,8:41,MISS Sabonis 18' Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,41,4,0,1,10:49 PM,8:38,,,Randle REBOUND (Off:0 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,42,2,5,1,10:49 PM,8:28,,,MISS Randle 3' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,43,4,0,1,10:49 PM,8:22,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,44,6,1,1,10:49 PM,8:20,,,Sims P.FOUL (P1.T3) (R.Acosta),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,46,2,5,1,10:49 PM,8:08,MISS Holiday 4' Layup,,Burks BLOCK (1 BLK),,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1
+0022100974,48,4,0,1,10:49 PM,8:08,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,50,2,1,1,10:50 PM,7:54,,,MISS Fournier 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,51,4,0,1,10:50 PM,7:51,Fox REBOUND (Off:0 Def:3),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,52,2,41,1,10:50 PM,7:48,MISS Holiday 2' Running Layup,,Randle BLOCK (1 BLK),,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1
+0022100974,54,4,0,1,10:50 PM,7:45,,,Burks REBOUND (Off:0 Def:1),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,55,2,79,1,10:50 PM,7:38,,,MISS Barrett 13' Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,56,4,0,1,10:50 PM,7:35,Lyles REBOUND (Off:0 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,57,1,5,1,10:50 PM,7:28,Sabonis 3' Layup (11 PTS) (Holiday 1 AST),,,4 - 14,10,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,59,2,6,1,10:50 PM,7:12,,,MISS Barrett 6' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,60,4,0,1,10:50 PM,7:09,Lyles REBOUND (Off:0 Def:2),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,61,6,1,1,10:51 PM,7:07,,,Randle P.FOUL (P1.T4) (M.Lindsay),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,63,2,1,1,10:51 PM,7:01,MISS Holiday 25' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,64,4,0,1,10:51 PM,6:57,,,Barrett REBOUND (Off:0 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,65,6,2,1,10:51 PM,6:54,Fox S.FOUL (P1.T1) (J.Tiven),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,67,3,11,1,10:52 PM,6:54,,,Barrett Free Throw 1 of 2 (1 PTS),5 - 14,9,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022100974,68,3,12,1,10:52 PM,6:54,,,Barrett Free Throw 2 of 2 (2 PTS),6 - 14,8,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,69,1,1,1,10:52 PM,6:40,Barnes 6' Jump Shot (2 PTS),,,6 - 16,10,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,70,6,2,1,10:52 PM,6:40,,,Barrett S.FOUL (P1.PN) (J.Tiven),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,72,8,0,1,10:52 PM,6:40,SUB: Jones FOR Holiday,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,73,8,0,1,10:52 PM,6:40,SUB: Mitchell FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,76,3,10,1,10:52 PM,6:40,Barnes Free Throw 1 of 1 (3 PTS),,,6 - 17,11,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,77,2,79,1,10:53 PM,6:25,,,MISS Randle 26' 3PT Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,78,4,0,1,10:53 PM,6:22,Sabonis REBOUND (Off:0 Def:3),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,79,2,5,1,10:53 PM,6:13,MISS Jones 3' Layup,,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,80,4,0,1,10:53 PM,6:09,,,Barrett REBOUND (Off:0 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,81,1,50,1,10:53 PM,6:07,,,Barrett 1' Running Dunk (4 PTS),8 - 17,9,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,82,2,6,1,10:53 PM,5:52,MISS Fox 1' Driving Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,83,4,0,1,10:53 PM,5:49,,,Sims REBOUND (Off:0 Def:2),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,84,1,1,1,10:54 PM,5:41,,,Randle 3PT Jump Shot (7 PTS) (Barrett 1 AST),11 - 17,6,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,86,6,2,1,10:54 PM,5:26,,,Barrett S.FOUL (P2.PN) (R.Acosta),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,88,3,11,1,10:54 PM,5:26,Barnes Free Throw 1 of 2 (4 PTS),,,11 - 18,7,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,89,8,0,1,10:54 PM,5:26,,,SUB: Quickley FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,91,3,12,1,10:55 PM,5:26,Barnes Free Throw 2 of 2 (5 PTS),,,11 - 19,8,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,92,2,1,1,10:55 PM,5:12,,,MISS Fournier 24' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,93,4,0,1,10:55 PM,5:10,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,95,8,0,1,10:55 PM,5:10,SUB: Lyles FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,97,2,86,1,10:56 PM,5:00,,,MISS Burks 11' Turnaround Fadeaway Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,98,4,0,1,10:56 PM,4:57,Jones REBOUND (Off:0 Def:1),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,99,6,2,1,10:56 PM,4:50,,,Sims S.FOUL (P2.PN) (J.Tiven),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,101,3,11,1,10:56 PM,4:50,Barnes Free Throw 1 of 2 (6 PTS),,,11 - 20,9,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,104,3,12,1,10:56 PM,4:50,MISS Barnes Free Throw 2 of 2,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,102,8,0,1,10:56 PM,4:50,,,SUB: Reddish FOR Burks,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,105,4,0,1,10:56 PM,4:46,,,Randle REBOUND (Off:0 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,106,2,1,1,10:57 PM,4:36,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,107,4,0,1,10:57 PM,4:33,Jones REBOUND (Off:0 Def:2),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,108,2,103,1,10:57 PM,4:27,MISS Fox 25' 3PT Running Pull-Up Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,109,4,0,1,10:57 PM,4:24,,,Sims REBOUND (Off:0 Def:3),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,110,6,4,1,10:57 PM,4:20,,,Sims OFF.Foul (P3) (J.Tiven),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,112,5,37,1,10:57 PM,4:20,,,Sims Offensive Foul Turnover (P1.T1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100974,113,8,0,1,10:57 PM,4:20,,,SUB: Gibson FOR Sims,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,115,1,1,1,10:58 PM,4:06,Barnes 3PT Jump Shot (9 PTS) (Mitchell 1 AST),,,11 - 23,12,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,117,6,1,1,10:58 PM,3:59,Lyles P.FOUL (P1.T2) (J.Tiven),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,119,2,6,1,10:59 PM,3:41,,,MISS Quickley 4' Driving Layup,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,120,4,0,1,10:59 PM,3:39,,,Gibson REBOUND (Off:1 Def:0),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,121,2,1,1,10:59 PM,3:28,,,MISS Fournier 26' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,122,4,0,1,10:59 PM,3:27,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,123,6,3,1,10:59 PM,3:27,,,Randle L.B.FOUL (P2.PN) (J.Tiven),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,125,3,11,1,10:59 PM,3:27,Jones Free Throw 1 of 2 (1 PTS),,,11 - 24,13,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,126,8,0,1,10:59 PM,3:27,,,SUB: McBride FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,128,3,12,1,11:00 PM,3:27,Jones Free Throw 2 of 2 (2 PTS),,,11 - 25,14,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,129,1,9,1,11:00 PM,3:10,,,Randle 1' Driving Dunk (9 PTS),13 - 25,12,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,130,1,108,1,11:00 PM,3:01,Jones 1' Cutting Dunk Shot (4 PTS) (Fox 4 AST),,,13 - 27,14,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,132,6,1,1,11:01 PM,2:49,Mitchell P.FOUL (P1.T3) (R.Acosta),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,134,9,1,1,11:01 PM,2:49,KINGS Timeout: Regular (Full 1 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,135,1,63,1,11:04 PM,2:41,,,Randle 13' Fadeaway Jumper (11 PTS) (Reddish 1 AST),15 - 27,12,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,137,2,5,1,11:04 PM,2:26,MISS Barnes 3' Layup,,Reddish BLOCK (1 BLK),,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,1
+0022100974,139,4,0,1,11:04 PM,2:26,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,141,5,8,1,11:04 PM,2:18,Jones 3 Second Violation Turnover (P1.T2),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,142,2,63,1,11:05 PM,2:06,,,MISS Randle 10' Fadeaway Jumper,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,143,4,0,1,11:05 PM,2:02,Barnes REBOUND (Off:0 Def:2),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,144,2,79,1,11:05 PM,1:56,MISS Fox 25' 3PT Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,145,4,0,1,11:05 PM,1:53,,,Gibson REBOUND (Off:1 Def:1),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,146,6,2,1,11:05 PM,1:47,Lyles S.FOUL (P2.T4) (M.Lindsay),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,148,3,11,1,11:05 PM,1:47,,,MISS McBride Free Throw 1 of 2,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,149,4,1,1,11:05 PM,1:47,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,154,3,12,1,11:05 PM,1:47,,,MISS McBride Free Throw 2 of 2,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,150,8,0,1,11:05 PM,1:47,SUB: DiVincenzo FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,151,8,0,1,11:05 PM,1:47,SUB: Sabonis FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,155,4,0,1,11:05 PM,1:44,Jones REBOUND (Off:0 Def:3),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,156,1,1,1,11:06 PM,1:27,Mitchell 25' 3PT Jump Shot (3 PTS) (Sabonis 1 AST),,,15 - 30,15,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,158,2,5,1,11:07 PM,1:02,Jones BLOCK (1 BLK),,MISS Randle 8' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,1
+0022100974,159,4,0,1,11:07 PM,0:59,,,Randle REBOUND (Off:1 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,160,2,5,1,11:07 PM,0:58,,,MISS Randle 5' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,161,4,0,1,11:07 PM,0:58,,,Randle REBOUND (Off:2 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,162,1,97,1,11:07 PM,0:58,,,Randle Tip Layup Shot (13 PTS),17 - 30,13,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,164,6,1,1,11:07 PM,0:53,,,McBride P.FOUL (P1.PN) (M.Lindsay),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0022100974,167,3,11,1,11:07 PM,0:53,MISS Fox Free Throw 1 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,168,4,1,1,11:07 PM,0:53,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,169,3,12,1,11:08 PM,0:53,Fox Free Throw 2 of 2 (1 PTS),,,17 - 31,14,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,170,5,2,1,11:08 PM,0:37,Fox STEAL (1 STL),,Randle Lost Ball Turnover (P1.T2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,172,1,50,1,11:08 PM,0:35,Fox 2' Running Dunk (3 PTS) (DiVincenzo 1 AST),,,17 - 33,16,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,174,2,1,1,11:08 PM,0:23,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,175,4,0,1,11:08 PM,0:19,Fox REBOUND (Off:0 Def:4),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,176,2,98,1,11:09 PM,0:03,MISS Sabonis 2' Cutting Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,177,4,0,1,11:09 PM,0:00,,,McBride REBOUND (Off:0 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,178,13,0,1,11:09 PM,0:00,,End of 1st Period (11:09 PM EST),,17 - 33,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100974,186,12,0,2,11:12 PM,12:00,,Start of 2nd Period (11:12 PM EST),,17 - 33,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,187,1,58,2,11:12 PM,11:41,,,Barrett 8' Turnaround Hook Shot (6 PTS),19 - 33,14,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,188,1,1,2,11:12 PM,11:25,DiVincenzo 25' 3PT Jump Shot (3 PTS) (Sabonis 2 AST),,,19 - 36,17,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,190,1,79,2,11:12 PM,11:12,,,Reddish 20' Pullup Jump Shot (2 PTS),21 - 36,15,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,191,6,2,2,11:13 PM,11:01,,,Gibson S.FOUL (P1.T1) (J.Tiven),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,193,3,11,2,11:13 PM,11:01,Jackson Free Throw 1 of 2 (1 PTS),,,21 - 37,16,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022100974,194,3,12,2,11:13 PM,11:01,Jackson Free Throw 2 of 2 (2 PTS),,,21 - 38,17,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,195,1,78,2,11:13 PM,10:47,,,Quickley 9' Floating Jump Shot (2 PTS) (Barrett 2 AST),23 - 38,15,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,197,2,1,2,11:14 PM,10:35,MISS Sabonis 25' 3PT Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,198,4,0,2,11:14 PM,10:29,,,Reddish REBOUND (Off:0 Def:1),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,199,1,79,2,11:14 PM,10:18,,,Quickley 26' 3PT Pullup Jump Shot (5 PTS),26 - 38,12,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,200,1,105,2,11:14 PM,10:09,Jackson 3' Turnaround Fadeaway Bank Jump Shot (4 PTS),,,26 - 40,14,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,202,2,1,2,11:14 PM,9:45,,,MISS Barrett 25' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,203,4,0,2,11:15 PM,9:42,Jackson REBOUND (Off:0 Def:1),,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,204,6,1,2,11:15 PM,9:39,,,McBride P.FOUL (P2.T2) (R.Acosta),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,206,2,1,2,11:15 PM,9:27,MISS Jackson 25' 3PT Jump Shot,,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,207,4,0,2,11:15 PM,9:25,,,Quickley REBOUND (Off:0 Def:1),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,208,2,1,2,11:15 PM,9:18,,,MISS McBride 26' 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,209,4,0,2,11:15 PM,9:12,Jackson REBOUND (Off:0 Def:2),,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,210,6,2,2,11:15 PM,9:05,,,Gibson S.FOUL (P2.T3) (J.Tiven),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,212,3,11,2,11:16 PM,9:05,Sabonis Free Throw 1 of 2 (12 PTS),,,26 - 41,15,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,213,3,12,2,11:16 PM,9:05,MISS Sabonis Free Throw 2 of 2,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,214,4,0,2,11:16 PM,9:02,,,Quickley REBOUND (Off:0 Def:2),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,215,2,58,2,11:16 PM,8:52,,,MISS Barrett 9' Turnaround Hook Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,216,4,0,2,11:17 PM,8:49,Sabonis REBOUND (Off:0 Def:4),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,217,5,40,2,11:17 PM,8:48,Jackson Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,218,6,2,2,11:17 PM,8:35,Jackson S.FOUL (P1.T1) (R.Acosta),,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,220,3,11,2,11:17 PM,8:35,,,Quickley Free Throw 1 of 2 (6 PTS),27 - 41,14,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,221,3,12,2,11:17 PM,8:35,,,MISS Quickley Free Throw 2 of 2,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,222,4,0,2,11:17 PM,8:32,Sabonis REBOUND (Off:0 Def:5),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,223,1,1,2,11:18 PM,8:10,Holiday 26' 3PT Jump Shot (3 PTS) (Jackson 1 AST),,,27 - 44,17,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,225,5,2,2,11:18 PM,7:58,Jackson STEAL (1 STL),,Barrett Lost Ball Turnover (P1.T3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,227,2,41,2,11:18 PM,7:53,MISS Jackson 2' Running Layup,,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,228,4,0,2,11:19 PM,7:51,,,Barrett REBOUND (Off:0 Def:3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,229,2,1,2,11:19 PM,7:47,,,MISS Quickley 26' 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,230,4,0,2,11:19 PM,7:44,,,Reddish REBOUND (Off:1 Def:1),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,231,6,1,2,11:19 PM,7:44,Sabonis P.FOUL (P1.T2) (J.Tiven),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,233,9,1,2,11:19 PM,7:44,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,234,8,0,2,11:21 PM,7:44,SUB: Fox FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,235,8,0,2,11:21 PM,7:44,SUB: Barnes FOR Jackson,,,,,4,1628367,Josh Jackson,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,238,5,45,2,11:22 PM,7:34,,,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100974,240,8,0,2,11:23 PM,7:13,,,SUB: Fournier FOR McBride,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,241,8,0,2,11:23 PM,7:13,,,SUB: Burks FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,244,8,0,2,11:23 PM,7:13,,,SUB: Randle FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,246,6,2,2,11:23 PM,7:11,,,Reddish S.FOUL (P1.T4) (R.Acosta),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,248,3,11,2,11:24 PM,7:11,Barnes Free Throw 1 of 2 (10 PTS),,,27 - 45,18,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,249,3,12,2,11:24 PM,7:11,Barnes Free Throw 2 of 2 (11 PTS),,,27 - 46,19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,252,1,6,2,11:25 PM,6:47,,,Fournier 3' Driving Layup (2 PTS),29 - 46,17,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,253,1,6,2,11:25 PM,6:37,Fox 2' Driving Layup (5 PTS),,,29 - 48,19,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,254,6,1,2,11:25 PM,6:28,Fox P.FOUL (P2.T3) (M.Lindsay),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,256,2,6,2,11:26 PM,6:16,,,MISS Burks 5' Driving Layup,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,257,4,0,2,11:26 PM,6:16,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,258,6,3,2,11:26 PM,6:16,,,Randle L.B.FOUL (P3.PN) (M.Lindsay),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,260,3,11,2,11:26 PM,6:16,Sabonis Free Throw 1 of 2 (13 PTS),,,29 - 49,20,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,263,3,12,2,11:26 PM,6:16,MISS Sabonis Free Throw 2 of 2,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,261,8,0,2,11:26 PM,6:16,,,SUB: Gibson FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,264,4,0,2,11:26 PM,6:13,,,Barrett REBOUND (Off:0 Def:4),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,265,1,1,2,11:27 PM,6:01,,,Fournier 3PT Jump Shot (5 PTS) (Barrett 3 AST),32 - 49,17,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,267,1,41,2,11:27 PM,5:56,Holiday 2' Running Layup (5 PTS) (Fox 5 AST),,,32 - 51,19,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,269,1,79,2,11:27 PM,5:43,,,Barrett 26' 3PT Pullup Jump Shot (9 PTS),35 - 51,16,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,270,2,1,2,11:27 PM,5:31,MISS Holiday 25' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,271,4,0,2,11:27 PM,5:28,,,Barrett REBOUND (Off:0 Def:5),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,272,2,79,2,11:28 PM,5:20,,,MISS Barrett 25' 3PT Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,273,4,0,2,11:28 PM,5:17,Sabonis REBOUND (Off:0 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,274,1,79,2,11:28 PM,5:04,DiVincenzo 26' 3PT Pullup Jump Shot (6 PTS) (Sabonis 3 AST),,,35 - 54,19,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,276,1,6,2,11:28 PM,4:45,,,Barrett 4' Driving Layup (11 PTS),37 - 54,17,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,277,2,1,2,11:28 PM,4:32,MISS Holiday 25' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,278,4,0,2,11:28 PM,4:28,,,Gibson REBOUND (Off:1 Def:2),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,279,1,6,2,11:29 PM,4:19,,,Barrett 5' Driving Layup (13 PTS),39 - 54,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,280,1,6,2,11:29 PM,4:04,Fox 2' Driving Layup (7 PTS),,,39 - 56,17,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,281,2,63,2,11:29 PM,3:41,,,MISS Barrett 12' Fadeaway Jumper,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,282,4,0,2,11:29 PM,3:37,,,Gibson REBOUND (Off:2 Def:2),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,283,1,72,2,11:29 PM,3:36,,,Gibson 3' Putback Layup (2 PTS),41 - 56,15,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,284,5,2,2,11:29 PM,3:30,DiVincenzo Lost Ball Turnover (P1.T4),,Reddish STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,286,2,41,2,11:30 PM,3:26,,,MISS Reddish 5' Running Layup,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,287,4,0,2,11:30 PM,3:24,,,Reddish REBOUND (Off:2 Def:1),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,288,2,5,2,11:30 PM,3:23,,,MISS Reddish 2' Layup,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,289,4,0,2,11:30 PM,3:21,Barnes REBOUND (Off:0 Def:3),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,290,9,1,2,11:30 PM,3:18,KINGS Timeout: Regular (Full 2 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,291,8,0,2,11:30 PM,3:18,SUB: Mitchell FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,292,8,0,2,11:30 PM,3:18,,,SUB: Quickley FOR Reddish,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,295,5,1,2,11:33 PM,3:09,Sabonis Bad Pass Turnover (P1.T5),,Quickley STEAL (1 STL),,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,297,1,41,2,11:33 PM,3:06,,,Barrett 3' Running Layup (15 PTS),43 - 56,13,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,298,7,2,2,11:33 PM,3:06,Sabonis Violation:Defensive Goaltending (R.Acosta),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,299,1,6,2,11:33 PM,2:54,Barnes 2' Driving Layup (13 PTS),,,43 - 58,15,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,300,2,78,2,11:34 PM,2:39,,,MISS Barrett 7' Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,301,4,0,2,11:34 PM,2:37,Sabonis REBOUND (Off:0 Def:7),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,302,2,79,2,11:34 PM,2:26,MISS Holiday 16' Pullup Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,303,4,0,2,11:34 PM,2:23,Sabonis REBOUND (Off:1 Def:7),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,304,2,79,2,11:34 PM,2:11,MISS Mitchell 26' 3PT Pullup Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,305,4,0,2,11:34 PM,2:07,,,Barrett REBOUND (Off:0 Def:6),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,306,2,79,2,11:34 PM,2:00,,,MISS Burks 25' 3PT Pullup Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,307,4,0,2,11:34 PM,1:57,Sabonis REBOUND (Off:1 Def:8),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,308,2,1,2,11:35 PM,1:44,MISS Sabonis 3PT Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,309,4,0,2,11:35 PM,1:40,,,Burks REBOUND (Off:0 Def:2),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,310,2,6,2,11:35 PM,1:34,,,MISS Burks 2' Driving Layup,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,311,4,0,2,11:35 PM,1:31,Sabonis REBOUND (Off:1 Def:9),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,312,1,41,2,11:35 PM,1:27,Fox 2' Running Layup (9 PTS),,,43 - 60,17,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,313,6,2,2,11:35 PM,1:27,,,Fournier S.FOUL (P1.PN) (M.Lindsay),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,315,8,0,2,11:35 PM,1:27,SUB: Jones FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,317,3,10,2,11:35 PM,1:27,Fox Free Throw 1 of 1 (10 PTS),,,43 - 61,18,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022100974,318,2,1,2,11:36 PM,1:08,,,MISS Burks 3PT Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,319,4,0,2,11:36 PM,1:05,,,Gibson REBOUND (Off:3 Def:2),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,320,2,1,2,11:36 PM,1:03,,,MISS Fournier 25' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,321,4,0,2,11:36 PM,1:00,Fox REBOUND (Off:0 Def:5),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,322,1,6,2,11:36 PM,0:54,Mitchell 3' Driving Layup (5 PTS) (Holiday 2 AST),,,43 - 63,20,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,324,1,63,2,11:36 PM,0:30,,,Quickley 10' Fadeaway Jumper (8 PTS),45 - 63,18,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,325,2,1,2,11:37 PM,0:09,MISS Mitchell 25' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,326,4,0,2,11:37 PM,0:07,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,328,8,0,2,11:37 PM,0:07,SUB: DiVincenzo FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,330,6,2,2,11:37 PM,0:02,Jones S.FOUL (P1.T4) (M.Lindsay),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,332,6,11,2,11:38 PM,0:02,,Alvin Gentry Foul:T.FOUL (M.Lindsay),,,,6,1243,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100974,333,3,16,2,11:38 PM,0:02,,,Quickley Free Throw Technical (9 PTS),46 - 63,17,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,334,3,11,2,11:38 PM,0:02,,,Quickley Free Throw 1 of 2 (10 PTS),47 - 63,16,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,335,8,0,2,11:38 PM,0:02,SUB: Fox FOR Jones,,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,337,3,12,2,11:39 PM,0:02,,,Quickley Free Throw 2 of 2 (11 PTS),48 - 63,15,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,338,13,0,2,11:39 PM,0:00,,End of 2nd Period (11:39 PM EST),,48 - 63,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100974,345,12,0,3,11:55 PM,12:00,,Start of 3rd Period (11:55 PM EST),,48 - 63,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,346,1,1,3,11:55 PM,11:49,,,Randle 25' 3PT Jump Shot (16 PTS) (Burks 1 AST),51 - 63,12,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,348,2,44,3,11:55 PM,11:31,MISS Barnes 2' Reverse Layup,,Gibson BLOCK (1 BLK),,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1
+0022100974,349,4,0,3,11:55 PM,11:31,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,351,1,5,3,11:56 PM,11:08,,,Fournier 3' Layup (7 PTS),53 - 63,10,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,352,9,1,3,11:56 PM,11:07,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,353,5,1,3,11:59 PM,10:57,Fox Bad Pass Turnover (P2.T6),,Burks STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,355,6,2,3,11:59 PM,10:53,Holiday S.FOUL (P1.T1) (R.Acosta),,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,357,3,11,3,11:59 PM,10:53,,,Barrett Free Throw 1 of 2 (16 PTS),54 - 63,9,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,358,3,12,3,11:59 PM,10:53,,,Barrett Free Throw 2 of 2 (17 PTS),55 - 63,8,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,359,1,79,3,12:00 AM,10:36,Holiday 16' Pullup Jump Shot (7 PTS),,,55 - 65,10,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,360,1,79,3,12:00 AM,10:23,,,Burks 26' 3PT Pullup Jump Shot (3 PTS),58 - 65,7,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,361,2,66,3,12:00 AM,10:09,MISS Barnes 9' Jump Bank Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,362,4,0,3,12:00 AM,10:04,Fox REBOUND (Off:1 Def:5),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,363,1,1,3,12:00 AM,10:01,Fox 26' 3PT Jump Shot (13 PTS) (Barnes 1 AST),,,58 - 68,10,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,365,1,6,3,12:00 AM,9:46,,,Randle 3' Driving Layup (18 PTS),60 - 68,8,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,366,1,6,3,12:01 AM,9:41,Fox 3' Driving Layup (15 PTS),,,60 - 70,10,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,367,6,2,3,12:01 AM,9:41,,,Fournier S.FOUL (P2.T1) (R.Acosta),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,369,3,10,3,12:01 AM,9:41,Fox Free Throw 1 of 1 (16 PTS),,,60 - 71,11,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,370,2,1,3,12:01 AM,9:30,,,MISS Randle 24' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,371,4,0,3,12:01 AM,9:26,Holiday REBOUND (Off:0 Def:2),,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,372,2,80,3,12:01 AM,9:20,MISS Fox 15' Step Back Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,374,4,0,3,12:01 AM,9:20,Sabonis REBOUND (Off:2 Def:9),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,375,2,97,3,12:02 AM,9:15,MISS Sabonis Tip Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,376,4,0,3,12:02 AM,9:14,,,Randle REBOUND (Off:2 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,377,1,80,3,12:02 AM,9:10,,,Fournier 25' 3PT Step Back Jump Shot (10 PTS),63 - 71,8,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,378,1,1,3,12:02 AM,8:55,Lyles 24' 3PT Jump Shot (6 PTS) (Sabonis 4 AST),,,63 - 74,11,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,380,2,1,3,12:02 AM,8:41,,,MISS Burks 25' 3PT Jump Shot,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,381,4,0,3,12:02 AM,8:36,Lyles REBOUND (Off:0 Def:3),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,382,5,1,3,12:02 AM,8:30,Fox Bad Pass Turnover (P3.T7),,Gibson STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,384,1,50,3,12:02 AM,8:26,,,Burks 1' Running Dunk (5 PTS) (Randle 1 AST),65 - 74,9,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,386,1,6,3,12:03 AM,8:16,Fox 3' Driving Layup (18 PTS),,,65 - 76,11,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,387,1,98,3,12:03 AM,8:02,,,Gibson 2' Cutting Layup Shot (4 PTS) (Barrett 4 AST),67 - 76,9,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,389,2,6,3,12:03 AM,7:38,MISS Lyles 6' Driving Layup,,Gibson BLOCK (2 BLK),,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1
+0022100974,391,4,0,3,12:03 AM,7:35,,,Gibson REBOUND (Off:3 Def:3),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,392,2,2,3,12:03 AM,7:33,,,MISS Fournier 24' 3PT Running Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,393,4,0,3,12:03 AM,7:31,Sabonis REBOUND (Off:2 Def:10),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,394,6,26,3,12:03 AM,7:25,Sabonis Offensive Charge Foul (P2) (J.Tiven),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,396,5,37,3,12:03 AM,7:25,Sabonis Offensive Foul Turnover (P2.T8),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,397,1,1,3,12:04 AM,7:06,,,Barrett 25' 3PT Jump Shot (20 PTS) (Randle 2 AST),70 - 76,6,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,399,9,1,3,12:04 AM,7:05,KINGS Timeout: Regular (Full 3 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,400,2,1,3,12:08 AM,6:48,MISS Fox 24' 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,401,4,0,3,12:08 AM,6:44,,,Fournier REBOUND (Off:0 Def:1),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,402,1,41,3,12:08 AM,6:39,,,Randle 3' Running Layup (20 PTS),72 - 76,4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,403,2,1,3,12:08 AM,6:18,MISS Holiday 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,404,4,0,3,12:08 AM,6:15,,,Burks REBOUND (Off:0 Def:3),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,405,2,1,3,12:08 AM,6:07,,,MISS Fournier 25' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,406,4,0,3,12:08 AM,6:07,Sabonis REBOUND (Off:2 Def:11),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,407,1,108,3,12:08 AM,5:58,Fox 1' Cutting Dunk Shot (20 PTS) (Sabonis 5 AST),,,72 - 78,6,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,409,1,1,3,12:09 AM,5:37,,,Randle 25' 3PT Jump Shot (23 PTS) (Barrett 5 AST),75 - 78,3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,411,6,1,3,12:09 AM,5:29,,,Burks P.FOUL (P1.T2) (M.Lindsay),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,413,8,0,3,12:09 AM,5:29,SUB: Jones FOR Holiday,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,414,8,0,3,12:09 AM,5:29,SUB: Mitchell FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,415,8,0,3,12:09 AM,5:29,,,SUB: Quickley FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,419,1,63,3,12:10 AM,5:16,Fox 10' Fadeaway Jumper (22 PTS),,,75 - 80,5,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,420,1,1,3,12:10 AM,4:55,,,Fournier 25' 3PT Jump Shot (13 PTS) (Burks 2 AST),78 - 80,2,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,422,2,1,3,12:10 AM,4:40,MISS Jones 3PT Jump Shot,,Gibson BLOCK (3 BLK),,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1
+0022100974,424,4,0,3,12:10 AM,4:37,,,Quickley REBOUND (Off:0 Def:3),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,425,1,2,3,12:10 AM,4:34,,,Randle 26' 3PT Running Jump Shot (26 PTS) (Quickley 1 AST),81 - 80,-1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,427,5,2,3,12:11 AM,4:09,Barnes Lost Ball Turnover (P1.T9),,Fournier STEAL (1 STL),,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,429,6,2,3,12:11 AM,4:07,Mitchell S.FOUL (P2.T2) (J.Tiven),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,431,3,11,3,12:11 AM,4:07,,,Quickley Free Throw 1 of 2 (12 PTS),82 - 80,-2,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,432,8,0,3,12:12 AM,4:07,SUB: DiVincenzo FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,434,3,12,3,12:12 AM,4:07,,,Quickley Free Throw 2 of 2 (13 PTS),83 - 80,-3,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,435,1,108,3,12:12 AM,3:50,Jones 2' Cutting Dunk Shot (6 PTS) (Fox 6 AST),,,83 - 82,-1,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,437,1,6,3,12:13 AM,3:30,,,Quickley 1' Driving Layup (15 PTS),85 - 82,-3,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,438,2,78,3,12:13 AM,3:13,MISS Fox 11' Floating Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,439,4,0,3,12:13 AM,3:09,,,Gibson REBOUND (Off:3 Def:4),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,440,2,1,3,12:13 AM,3:04,,,MISS Randle 30' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,441,4,0,3,12:13 AM,3:01,,,Quickley REBOUND (Off:1 Def:3),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,442,2,1,3,12:13 AM,2:59,,,MISS Fournier 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,443,4,0,3,12:13 AM,2:57,,,Gibson REBOUND (Off:4 Def:4),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,444,6,2,3,12:13 AM,2:53,Fox S.FOUL (P3.T3) (R.Acosta),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,446,3,11,3,12:14 AM,2:53,,,Fournier Free Throw 1 of 2 (14 PTS),86 - 82,-4,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022100974,447,3,12,3,12:14 AM,2:53,,,Fournier Free Throw 2 of 2 (15 PTS),87 - 82,-5,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,448,6,2,3,12:14 AM,2:44,,,Quickley S.FOUL (P1.T3) (R.Acosta),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,450,3,11,3,12:15 AM,2:44,MISS Fox Free Throw 1 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,451,4,1,3,12:15 AM,2:44,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,453,3,12,3,12:15 AM,2:44,MISS Fox Free Throw 2 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,452,9,1,3,12:15 AM,2:44,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,454,4,0,3,12:15 AM,2:41,,,Burks REBOUND (Off:0 Def:4),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,455,2,78,3,12:17 AM,2:25,,,MISS Fournier 12' Floating Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,456,4,0,3,12:17 AM,2:21,Mitchell REBOUND (Off:0 Def:1),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,457,1,1,3,12:17 AM,2:14,Sabonis 21' Jump Shot (15 PTS) (Mitchell 2 AST),,,87 - 84,-3,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,459,6,2,3,12:18 AM,1:52,Sabonis S.FOUL (P3.T4) (R.Acosta),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,461,3,11,3,12:18 AM,1:52,,,Gibson Free Throw 1 of 2 (5 PTS),88 - 84,-4,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,466,3,12,3,12:18 AM,1:52,,,MISS Gibson Free Throw 2 of 2,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,462,8,0,3,12:18 AM,1:52,SUB: Lyles FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,463,8,0,3,12:18 AM,1:52,,,SUB: Reddish FOR Burks,,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,467,4,0,3,12:18 AM,1:49,Lyles REBOUND (Off:0 Def:4),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,468,6,1,3,12:19 AM,1:39,,,Quickley P.FOUL (P2.T4) (R.Acosta),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,470,8,0,3,12:19 AM,1:39,,,SUB: Sims FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,472,1,1,3,12:19 AM,1:31,DiVincenzo 26' 3PT Jump Shot (9 PTS) (Mitchell 3 AST),,,88 - 87,-1,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,474,6,2,3,12:20 AM,1:06,Jones S.FOUL (P2.PN) (R.Acosta),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,476,3,11,3,12:20 AM,1:06,,,Randle Free Throw 1 of 2 (27 PTS),89 - 87,-2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,477,8,0,3,12:20 AM,1:06,,,SUB: Barrett FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,479,3,12,3,12:21 AM,1:06,,,Randle Free Throw 2 of 2 (28 PTS),90 - 87,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,480,5,40,3,12:21 AM,1:01,Fox Out of Bounds Lost Ball Turnover (P4.T10),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,481,2,79,3,12:21 AM,0:44,,,MISS Randle 18' Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,482,4,0,3,12:21 AM,0:41,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,483,2,63,3,12:22 AM,0:34,MISS Mitchell 10' Fadeaway Jumper,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,484,4,0,3,12:22 AM,0:31,,,Randle REBOUND (Off:2 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,485,1,63,3,12:22 AM,0:25,,,Randle 11' Fadeaway Jumper (30 PTS),92 - 87,-5,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,486,2,79,3,12:22 AM,0:02,MISS Fox 17' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,487,4,0,3,12:22 AM,0:01,,,Sims REBOUND (Off:0 Def:4),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,488,13,0,3,12:22 AM,0:00,,End of 3rd Period (12:22 AM EST),,92 - 87,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100974,497,12,0,4,12:25 AM,12:00,,Start of 4th Period (12:25 AM EST),,92 - 87,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,498,2,3,4,12:25 AM,11:37,MISS Sabonis 7' Hook Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,499,4,0,4,12:25 AM,11:34,,,Barrett REBOUND (Off:0 Def:7),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,500,2,5,4,12:26 AM,11:13,Holiday BLOCK (1 BLK),,MISS Barrett 4' Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,1
+0022100974,502,4,0,4,12:26 AM,11:11,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,503,6,2,4,12:26 AM,11:11,,,McBride S.FOUL (P3.T1) (M.Lindsay),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,505,8,0,4,12:27 AM,11:11,,,SUB: Burks FOR Reddish,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,507,3,11,4,12:28 AM,11:11,MISS Mitchell Free Throw 1 of 2,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,508,4,1,4,12:28 AM,11:11,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,509,3,12,4,12:28 AM,11:11,Mitchell Free Throw 2 of 2 (6 PTS),,,92 - 88,-4,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,510,1,6,4,12:28 AM,10:48,,,Barrett 3' Driving Layup (22 PTS) (Quickley 2 AST),94 - 88,-6,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,512,2,1,4,12:29 AM,10:33,MISS Holiday 26' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,513,4,0,4,12:29 AM,10:31,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,514,6,3,4,12:29 AM,10:31,,,Quickley L.B.FOUL (P3.T2) (J.Tiven),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,516,1,79,4,12:29 AM,10:25,Mitchell 19' Pullup Jump Shot (8 PTS),,,94 - 90,-4,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,517,5,1,4,12:29 AM,10:10,DiVincenzo STEAL (1 STL),,Barrett Bad Pass Turnover (P2.T5),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,519,6,28,4,12:30 AM,10:10,,,McBride Personal Take Foul (P4.T3) (J.Tiven),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,521,18,0,4,12:30 AM,10:10,,Instant Replay4th Period (12:30 AM EST),,94 - 90,-4,0,519,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100974,522,8,0,4,12:31 AM,10:10,,,SUB: Randle FOR Sims,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,524,5,2,4,12:31 AM,10:01,Sabonis Lost Ball Turnover (P3.T11),,McBride STEAL (1 STL),,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,526,6,1,4,12:32 AM,10:01,Sabonis P.FOUL (P4.T1) (J.Tiven),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,528,18,0,4,12:32 AM,10:01,,Instant Replay4th Period (12:32 AM EST),,94 - 90,-4,0,526,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100974,529,6,4,4,12:33 AM,9:44,,,Barrett OFF.Foul (P3) (R.Acosta),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,531,5,37,4,12:33 AM,9:44,,,Barrett Offensive Foul Turnover (P3.T6),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100974,532,8,0,4,12:34 AM,9:32,SUB: Fox FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,534,10,0,4,12:34 AM,9:27,Jump Ball Barnes vs. McBride: Tip to Fox,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0022100974,537,1,66,4,12:34 AM,9:23,Sabonis 4' Jump Bank Shot (17 PTS),,,94 - 92,-2,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,538,2,1,4,12:35 AM,9:09,,,MISS Randle 25' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,539,4,0,4,12:35 AM,9:05,DiVincenzo REBOUND (Off:0 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,540,2,2,4,12:35 AM,9:01,MISS DiVincenzo 25' 3PT Running Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,541,4,0,4,12:35 AM,8:59,,,Burks REBOUND (Off:0 Def:5),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,542,1,6,4,12:35 AM,8:44,,,Randle 4' Driving Layup (32 PTS) (McBride 1 AST),96 - 92,-4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,544,1,6,4,12:35 AM,8:34,Barnes 3' Driving Layup (15 PTS),,,96 - 94,-2,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,545,1,1,4,12:36 AM,8:18,,,Quickley 24' 3PT Jump Shot (18 PTS) (Barrett 6 AST),99 - 94,-5,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,547,6,1,4,12:36 AM,8:08,,,Barrett P.FOUL (P4.T4) (M.Lindsay),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,549,2,1,4,12:36 AM,7:58,MISS Holiday 26' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,550,4,0,4,12:36 AM,7:55,,,Quickley REBOUND (Off:1 Def:4),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,551,1,41,4,12:36 AM,7:53,,,Barrett 2' Running Layup (24 PTS) (Quickley 3 AST),101 - 94,-7,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,552,2,1,4,12:37 AM,7:34,MISS Holiday 25' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,553,4,0,4,12:37 AM,7:32,,,Randle REBOUND (Off:2 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,555,8,0,4,12:37 AM,7:25,SUB: Mitchell FOR Holiday,,,,,4,203200,Justin Holiday,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,557,1,80,4,12:37 AM,7:18,,,Randle 25' 3PT Step Back Jump Shot (35 PTS),104 - 94,-10,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,558,2,79,4,12:38 AM,7:00,MISS DiVincenzo 27' 3PT Pullup Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,559,4,0,4,12:38 AM,6:56,,,Quickley REBOUND (Off:1 Def:5),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,560,1,80,4,12:38 AM,6:49,,,Randle 25' 3PT Step Back Jump Shot (38 PTS),107 - 94,-13,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,561,9,1,4,12:38 AM,6:48,KINGS Timeout: Regular (Full 4 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,563,6,1,4,12:41 AM,6:37,,,Randle P.FOUL (P4.PN) (R.Acosta),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,565,3,11,4,12:42 AM,6:37,Sabonis Free Throw 1 of 2 (18 PTS),,,107 - 95,-12,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,566,3,12,4,12:42 AM,6:37,Sabonis Free Throw 2 of 2 (19 PTS),,,107 - 96,-11,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,567,1,6,4,12:42 AM,6:13,,,Quickley 5' Driving Layup (20 PTS),109 - 96,-13,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,568,2,1,4,12:43 AM,6:00,MISS Sabonis 18' Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,569,4,0,4,12:43 AM,5:52,,,McBride REBOUND (Off:0 Def:2),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,570,1,1,4,12:43 AM,5:40,,,Barrett 24' 3PT Jump Shot (27 PTS) (Burks 3 AST),112 - 96,-16,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,572,1,6,4,12:43 AM,5:29,Fox 2' Driving Layup (24 PTS),,,112 - 98,-14,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,573,2,1,4,12:44 AM,5:04,,,MISS Randle 29' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,574,4,0,4,12:44 AM,5:00,Mitchell REBOUND (Off:0 Def:2),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,575,2,1,4,12:44 AM,4:52,MISS Mitchell 25' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,576,4,0,4,12:44 AM,4:48,,,Randle REBOUND (Off:2 Def:6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,577,6,2,4,12:44 AM,4:35,Sabonis S.FOUL (P5.T2) (J.Tiven),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022100974,579,6,11,4,12:44 AM,4:35,Sabonis T.FOUL (P5.T2) (J.Tiven),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,580,3,16,4,12:45 AM,4:35,,,Quickley Free Throw Technical (21 PTS),113 - 98,-15,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,581,6,11,4,12:45 AM,4:35,Sabonis T.FOUL (P5.T2) (J.Tiven),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,582,3,16,4,12:45 AM,4:35,,,Quickley Free Throw Technical (22 PTS),114 - 98,-16,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,583,11,4,4,12:45 AM,4:35,Sabonis Ejection:Other,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022100974,584,8,0,4,12:45 AM,4:35,SUB: Jones FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022100974,586,3,11,4,12:45 AM,4:35,,,Quickley Free Throw 1 of 2 (23 PTS),115 - 98,-17,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,587,3,12,4,12:46 AM,4:35,,,Quickley Free Throw 2 of 2 (24 PTS),116 - 98,-18,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,588,1,1,4,12:46 AM,4:26,Barnes 25' 3PT Jump Shot (18 PTS) (DiVincenzo 2 AST),,,116 - 101,-15,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,590,1,47,4,12:46 AM,4:04,,,Randle 11' Turnaround Jump Shot (40 PTS),118 - 101,-17,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,591,6,2,4,12:47 AM,3:54,,,Randle S.FOUL (P5.PN) (J.Tiven),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,593,9,1,4,12:47 AM,3:54,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,594,18,4,4,12:47 AM,3:54,,Instant Replay4th Period (12:47 AM EST),,118 - 101,-17,0,591,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100974,595,3,11,4,12:50 AM,3:54,MISS Fox Free Throw 1 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,596,4,1,4,12:50 AM,3:54,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,597,3,12,4,12:50 AM,3:54,MISS Fox Free Throw 2 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,598,4,0,4,12:50 AM,3:51,,,McBride REBOUND (Off:0 Def:3),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,599,1,1,4,12:50 AM,3:35,,,Randle 3PT Jump Shot (43 PTS) (Burks 4 AST),121 - 101,-20,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,601,1,1,4,12:51 AM,3:21,Barnes 25' 3PT Jump Shot (21 PTS) (DiVincenzo 3 AST),,,121 - 104,-17,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,603,9,1,4,12:51 AM,3:19,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,604,1,80,4,12:53 AM,2:57,,,Randle 25' 3PT Step Back Jump Shot (46 PTS),124 - 104,-20,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,605,1,6,4,12:53 AM,2:46,Mitchell 2' Driving Layup (10 PTS) (DiVincenzo 4 AST),,,124 - 106,-18,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,607,6,2,4,12:53 AM,2:46,,,Quickley S.FOUL (P4.PN) (M.Lindsay),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,609,3,10,4,12:53 AM,2:46,MISS Mitchell Free Throw 1 of 1,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,610,4,0,4,12:53 AM,2:43,,,Barrett REBOUND (Off:0 Def:8),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,611,1,80,4,12:54 AM,2:22,,,Quickley 26' 3PT Step Back Jump Shot (27 PTS),127 - 106,-21,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,612,2,5,4,12:54 AM,2:10,MISS Fox 5' Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,613,4,0,4,12:54 AM,2:07,,,Randle REBOUND (Off:2 Def:7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,614,1,106,4,12:54 AM,2:04,,,Barrett 1' Running Alley Oop Dunk Shot (29 PTS) (McBride 2 AST),129 - 106,-23,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,616,6,2,4,12:54 AM,1:53,,,Burks S.FOUL (P2.PN) (R.Acosta),,,5,202692,Alec Burks,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,618,3,11,4,12:55 AM,1:53,DiVincenzo Free Throw 1 of 2 (10 PTS),,,129 - 107,-22,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,619,3,12,4,12:55 AM,1:53,DiVincenzo Free Throw 2 of 2 (11 PTS),,,129 - 108,-21,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022100974,620,1,6,4,12:55 AM,1:29,,,McBride 2' Driving Layup (2 PTS) (Quickley 4 AST),131 - 108,-23,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022100974,622,6,2,4,12:55 AM,1:23,,,Barrett S.FOUL (P5.PN) (J.Tiven),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,624,3,11,4,12:56 AM,1:23,DiVincenzo Free Throw 1 of 2 (12 PTS),,,131 - 109,-22,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,625,8,0,4,12:56 AM,1:23,,,SUB: Arcidiacono FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1627853,Ryan Arcidiacono,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,626,8,0,4,12:56 AM,1:23,,,SUB: Sims FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022100974,629,3,12,4,12:56 AM,1:23,DiVincenzo Free Throw 2 of 2 (13 PTS),,,131 - 110,-21,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,630,2,80,4,12:57 AM,0:58,,,MISS Quickley 25' 3PT Step Back Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022100974,631,4,0,4,12:57 AM,0:55,Jones REBOUND (Off:0 Def:4),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,632,1,6,4,12:57 AM,0:51,Barnes 2' Driving Layup (23 PTS) (Fox 7 AST),,,131 - 112,-19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,634,5,1,4,12:57 AM,0:39,Jones STEAL (1 STL),,Quickley Bad Pass Turnover (P2.T7),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022100974,636,2,1,4,12:57 AM,0:34,MISS DiVincenzo 26' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,637,4,0,4,12:57 AM,0:32,Jones REBOUND (Off:1 Def:4),,,,,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,638,1,5,4,12:57 AM,0:32,Jones 3' Layup (8 PTS),,,131 - 114,-17,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,639,6,2,4,12:57 AM,0:32,,,McBride S.FOUL (P5.PN) (M.Lindsay),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022100974,641,3,10,4,12:57 AM,0:32,Jones Free Throw 1 of 1 (9 PTS),,,131 - 115,-16,4,1627745,Damian Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022100974,642,5,10,4,12:58 AM,0:07,,,Knicks Turnover: 8 Second Violation (T#8),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100974,643,5,10,4,12:58 AM,0:00,KINGS Turnover: 8 Second Violation (T#12),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100974,644,5,12,4,12:59 AM,0:00,,,McBride Inbound Turnover (P1.T9),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022100974,645,13,0,4,12:59 AM,0:00,,End of 4th Period (12:59 AM EST),,131 - 115,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

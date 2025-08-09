@@ -1,0 +1,455 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100223,2,12,0,1,10:12 PM,12:00,,Start of 1st Period (10:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,4,10,0,1,10:12 PM,12:00,Jump Ball Nurkic vs. Bradley: Tip to Lillard,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1
+0022100223,7,6,1,1,10:12 PM,11:48,,,Bradley P.FOUL (P1.T1) (M.Dagher),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,49,2,6,1,10:12 PM,11:45,MISS Nurkic 6' Driving Layup,,DeRozan BLOCK (1 BLK),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,51,4,0,1,10:12 PM,11:44,Nurkic REBOUND (Off:1 Def:0),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,9,2,5,1,10:12 PM,11:38,MISS Nurkic Layup,,Bradley BLOCK (1 BLK),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,11,4,0,1,10:12 PM,11:36,Nurkic REBOUND (Off:2 Def:0),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,12,6,2,1,10:12 PM,11:35,,,Bradley S.FOUL (P2.T2) (S.Foster),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,14,3,11,1,10:13 PM,11:35,Nurkic Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,15,3,12,1,10:13 PM,11:35,Nurkic Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,16,2,58,1,10:13 PM,11:13,,,MISS Bradley 3' Turnaround Hook Shot,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,17,4,0,1,10:13 PM,11:12,Nurkic REBOUND (Off:2 Def:1),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,18,5,2,1,10:14 PM,11:04,Covington Lost Ball Turnover (P1.T1),,Caruso STEAL (1 STL),,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,20,1,86,1,10:14 PM,10:54,,,DeRozan 12' Turnaround Fadeaway (2 PTS),2 - 2,TIE,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,21,1,6,1,10:14 PM,10:39,Nurkic Driving Layup (4 PTS) (Lillard 1 AST),,,2 - 4,2,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,23,2,1,1,10:14 PM,10:24,,,MISS DeRozan 25' 3PT Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,24,4,0,1,10:14 PM,10:21,,,Caruso REBOUND (Off:1 Def:0),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,25,1,1,1,10:14 PM,10:20,,,Ball 24' 3PT Jump Shot (3 PTS) (Caruso 1 AST),5 - 4,-1,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,27,2,79,1,10:15 PM,10:02,MISS Lillard 27' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,28,4,0,1,10:15 PM,10:00,Nurkic REBOUND (Off:3 Def:1),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,29,2,57,1,10:15 PM,9:51,MISS Nurkic 4' Driving Hook Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,30,4,0,1,10:15 PM,9:49,,,LaVine REBOUND (Off:0 Def:1),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,31,1,103,1,10:15 PM,9:45,,,Ball 26' 3PT Running Pull-Up Jump Shot (6 PTS),8 - 4,-4,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,32,1,93,1,10:15 PM,9:29,Nurkic 2' Driving Bank Hook Shot (6 PTS) (Powell 1 AST),,,8 - 6,-2,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,34,1,80,1,10:15 PM,9:18,,,LaVine 26' 3PT Step Back Jump Shot (3 PTS),11 - 6,-5,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,35,6,4,1,10:16 PM,9:05,Nurkic OFF.Foul (P1) (S.Foster),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,37,5,37,1,10:16 PM,9:05,Nurkic Offensive Foul Turnover (P1.T2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,38,2,1,1,10:16 PM,8:52,,,MISS Caruso 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,39,4,0,1,10:16 PM,8:49,Lillard REBOUND (Off:0 Def:1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,40,2,103,1,10:16 PM,8:44,MISS Lillard 12' Running Pull-Up Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,41,4,0,1,10:16 PM,8:42,Covington REBOUND (Off:1 Def:0),,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,42,5,2,1,10:16 PM,8:41,Covington Lost Ball Turnover (P2.T3),,Caruso STEAL (2 STL),,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,44,1,47,1,10:16 PM,8:25,,,DeRozan 19' Turnaround Jump Shot (4 PTS),13 - 6,-7,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,45,2,86,1,10:17 PM,8:08,MISS McCollum 16' Turnaround Fadeaway Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,46,4,0,1,10:17 PM,8:05,,,Bradley REBOUND (Off:0 Def:1),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,47,1,63,1,10:17 PM,7:58,,,LaVine 17' Fadeaway Jumper (5 PTS),15 - 6,-9,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,48,9,1,1,10:17 PM,7:57,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,52,1,102,1,10:20 PM,7:36,Covington 3' Driving Floating Bank Jump Shot (2 PTS) (Lillard 2 AST),,,15 - 8,-7,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,55,7,5,1,10:20 PM,7:30,McCollum Violation:Kicked Ball (N.Sago),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0022100223,104,2,6,1,10:21 PM,7:13,Nurkic BLOCK (1 BLK),,MISS Caruso 4' Driving Layup,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1
+0022100223,106,4,0,1,10:21 PM,7:12,Powell REBOUND (Off:0 Def:1),,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,58,6,2,1,10:21 PM,7:10,,,Ball S.FOUL (P1.T3) (S.Foster),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,60,3,11,1,10:21 PM,7:10,Powell Free Throw 1 of 2 (1 PTS),,,15 - 9,-6,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,61,3,12,1,10:22 PM,7:10,Powell Free Throw 2 of 2 (2 PTS),,,15 - 10,-5,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,62,2,79,1,10:22 PM,6:47,,,MISS DeRozan 24' 3PT Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,63,4,0,1,10:22 PM,6:44,,,Caruso REBOUND (Off:2 Def:0),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,64,1,98,1,10:22 PM,6:43,,,DeRozan 1' Cutting Layup Shot (6 PTS) (Caruso 2 AST),17 - 10,-7,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,66,2,98,1,10:22 PM,6:32,MISS Nurkic 1' Cutting Layup Shot,,LaVine BLOCK (1 BLK),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,68,4,0,1,10:22 PM,6:32,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,70,2,75,1,10:23 PM,6:18,MISS Powell 2' Driving Finger Roll Layup,,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,71,4,0,1,10:23 PM,6:18,Nurkic REBOUND (Off:4 Def:1),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,72,2,1,1,10:23 PM,6:16,MISS Covington 26' 3PT Jump Shot,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,73,4,0,1,10:23 PM,6:11,,,LaVine REBOUND (Off:0 Def:2),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,74,2,1,1,10:23 PM,6:02,,,MISS DeRozan 3PT Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,75,4,0,1,10:23 PM,6:01,,,Caruso REBOUND (Off:3 Def:0),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,76,6,2,1,10:23 PM,5:58,Lillard S.FOUL (P1.T1) (N.Sago),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,78,3,11,1,10:24 PM,5:58,,,MISS Caruso Free Throw 1 of 2,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022100223,79,4,1,1,10:24 PM,5:58,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,80,8,0,1,10:24 PM,5:58,,,SUB: Dosunmu FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,83,8,0,1,10:24 PM,5:58,SUB: Simons FOR McCollum,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,82,3,12,1,10:24 PM,5:58,,,Caruso Free Throw 2 of 2 (1 PTS),18 - 10,-8,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,85,1,1,1,10:25 PM,5:36,Covington 25' 3PT Jump Shot (5 PTS) (Lillard 3 AST),,,18 - 13,-5,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,87,2,108,1,10:25 PM,5:22,Lillard BLOCK (1 BLK),,MISS Bradley 3' Cutting Dunk Shot,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1
+0022100223,89,4,0,1,10:25 PM,5:20,Nurkic REBOUND (Off:4 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,90,1,79,1,10:25 PM,5:11,Powell 17' Pullup Jump Shot (4 PTS) (Lillard 4 AST),,,18 - 15,-3,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,92,2,80,1,10:25 PM,4:44,,,MISS Ball 18' Step Back Jump Shot,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,93,4,0,1,10:25 PM,4:43,Covington REBOUND (Off:1 Def:1),,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,94,5,1,1,10:26 PM,4:25,Lillard Bad Pass Turnover (P1.T4),,Ball STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,96,1,2,1,10:26 PM,4:23,,,LaVine 27' 3PT Running Jump Shot (8 PTS) (Caruso 3 AST),21 - 15,-6,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,98,6,2,1,10:26 PM,4:01,,,Caruso S.FOUL (P1.T4) (N.Sago),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,100,3,13,1,10:27 PM,4:01,MISS Simons Free Throw 1 of 3,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,101,3,14,1,10:27 PM,4:01,Simons Free Throw 2 of 3 (1 PTS),,,21 - 16,-5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,102,4,1,1,10:27 PM,4:01,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,113,3,15,1,10:27 PM,4:01,Simons Free Throw 3 of 3 (2 PTS),,,21 - 17,-4,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,103,9,1,1,10:27 PM,4:01,,,Bulls Timeout: Regular (Reg.1 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,107,8,0,1,10:28 PM,4:01,SUB: Zeller FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,108,8,0,1,10:28 PM,4:01,,,SUB: Green FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,109,8,0,1,10:28 PM,4:01,,,SUB: Jones Jr. FOR Bradley,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,114,1,1,1,10:31 PM,3:39,,,Dosunmu 28' 3PT Jump Shot (3 PTS) (Jones Jr. 1 AST),24 - 17,-7,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,116,2,79,1,10:31 PM,3:18,MISS Lillard 40' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,117,4,0,1,10:31 PM,3:16,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,119,8,0,1,10:31 PM,3:16,SUB: Little FOR Powell,,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,120,8,0,1,10:31 PM,3:16,SUB: Nance Jr. FOR Covington,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,123,5,1,1,10:32 PM,2:52,Lillard STEAL (1 STL),,LaVine Bad Pass Turnover (P1.T1),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,125,1,1,1,10:32 PM,2:41,Nance Jr. 25' 3PT Jump Shot (3 PTS) (Lillard 5 AST),,,24 - 20,-4,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,127,1,79,1,10:32 PM,2:31,,,LaVine 28' 3PT Pullup Jump Shot (11 PTS) (Ball 1 AST),27 - 20,-7,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,129,5,1,1,10:32 PM,2:20,Lillard Bad Pass Turnover (P2.T5),,Ball STEAL (2 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,131,2,74,1,10:32 PM,2:15,,,MISS Jones Jr. 3' Running Reverse Layup,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,132,4,0,1,10:32 PM,2:11,Little REBOUND (Off:0 Def:1),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,133,6,2,1,10:32 PM,2:09,,,Jones Jr. S.FOUL (P1.PN) (M.Dagher),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,135,3,11,1,10:33 PM,2:09,Zeller Free Throw 1 of 2 (1 PTS),,,27 - 21,-6,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,136,8,0,1,10:33 PM,2:09,SUB: McCollum FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,137,8,0,1,10:33 PM,2:09,,,SUB: DeRozan FOR Ball,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,138,8,0,1,10:33 PM,2:09,,,SUB: Caruso FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,142,3,12,1,10:33 PM,2:09,Zeller Free Throw 2 of 2 (2 PTS),,,27 - 22,-5,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,143,1,80,1,10:33 PM,1:52,,,DeRozan 14' Step Back Jump Shot (8 PTS),29 - 22,-7,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,144,6,1,1,10:34 PM,1:35,,,Jones Jr. P.FOUL (P2.PN) (S.Foster),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,146,3,11,1,10:34 PM,1:35,Zeller Free Throw 1 of 2 (3 PTS),,,29 - 23,-6,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,147,3,12,1,10:34 PM,1:35,Zeller Free Throw 2 of 2 (4 PTS),,,29 - 24,-5,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,148,1,80,1,10:35 PM,1:20,,,DeRozan 19' Step Back Jump Shot (10 PTS),31 - 24,-7,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,149,2,79,1,10:35 PM,1:00,MISS Simons 25' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,150,4,0,1,10:35 PM,0:59,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,152,2,44,1,10:35 PM,0:49,,,MISS Jones Jr. 2' Reverse Layup,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,153,4,0,1,10:35 PM,0:46,Zeller REBOUND (Off:0 Def:1),,,,,4,203469,Cody Zeller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,154,2,79,1,10:36 PM,0:30,MISS Little 20' Pullup Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,155,4,0,1,10:36 PM,0:28,,,Jones Jr. REBOUND (Off:0 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,156,2,6,1,10:36 PM,0:10,,,MISS Caruso 3' Driving Layup,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,157,4,0,1,10:36 PM,0:10,,,Jones Jr. REBOUND (Off:1 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,158,1,72,1,10:36 PM,0:10,,,Jones Jr. Putback Layup (2 PTS),33 - 24,-9,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,159,2,80,1,10:36 PM,0:00,MISS McCollum 26' 3PT Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,160,4,0,1,10:36 PM,0:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,161,13,0,1,10:36 PM,0:00,,End of 1st Period (10:36 PM EST),,33 - 24,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100223,164,12,0,2,10:39 PM,12:00,,Start of 2nd Period (10:39 PM EST),,33 - 24,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,165,2,79,2,10:39 PM,11:37,,,MISS Caruso 26' 3PT Pullup Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,166,4,0,2,10:39 PM,11:35,Nance Jr. REBOUND (Off:0 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,167,5,45,2,10:39 PM,11:28,Snell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,169,1,63,2,10:40 PM,11:08,,,DeRozan 18' Fadeaway Jumper (12 PTS),35 - 24,-11,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,170,6,4,2,10:40 PM,10:56,Nance Jr. OFF.Foul (P1) (S.Foster),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,172,5,37,2,10:40 PM,10:56,Nance Jr. Offensive Foul Turnover (P1.T7),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,173,8,0,2,10:40 PM,10:56,,,SUB: White FOR Dosunmu,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,175,6,1,2,10:41 PM,10:47,Simons P.FOUL (P1.T1) (M.Dagher),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,177,2,101,2,10:41 PM,10:32,,,MISS Caruso 7' Driving Floating Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,178,4,0,2,10:41 PM,10:32,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,180,6,2,2,10:42 PM,10:22,,,Green S.FOUL (P1.T1) (S.Foster),,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,182,3,11,2,10:42 PM,10:22,Little Free Throw 1 of 2 (1 PTS),,,35 - 25,-10,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,183,3,12,2,10:42 PM,10:22,Little Free Throw 2 of 2 (2 PTS),,,35 - 26,-9,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,184,2,1,2,10:43 PM,10:05,,,MISS White 26' 3PT Jump Shot,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,185,4,0,2,10:43 PM,10:02,Nance Jr. REBOUND (Off:0 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,186,5,4,2,10:43 PM,9:51,Nance Jr. Traveling Turnover (P2.T8),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,187,5,1,2,10:43 PM,9:40,Nance Jr. STEAL (1 STL),,DeRozan Bad Pass Turnover (P1.T2),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,189,2,41,2,10:44 PM,9:36,MISS Little 4' Running Layup,,Caruso BLOCK (1 BLK),,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,191,4,0,2,10:44 PM,9:34,,,Caruso REBOUND (Off:3 Def:1),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,192,1,41,2,10:44 PM,9:30,,,Green 1' Running Layup (2 PTS) (DeRozan 1 AST),37 - 26,-11,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,194,1,58,2,10:44 PM,9:11,Nance Jr. 5' Turnaround Hook Shot (5 PTS) (Simons 1 AST),,,37 - 28,-9,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,196,2,63,2,10:44 PM,8:49,,,MISS DeRozan 17' Fadeaway Jumper,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,197,4,0,2,10:44 PM,8:45,Snell REBOUND (Off:0 Def:1),,,,,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,198,2,79,2,10:45 PM,8:36,MISS McCollum 24' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,199,4,0,2,10:45 PM,8:32,,,Caruso REBOUND (Off:3 Def:2),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,200,1,6,2,10:45 PM,8:19,,,Caruso 2' Driving Layup (3 PTS) (White 1 AST),39 - 28,-11,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,202,9,1,2,10:45 PM,8:19,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,203,8,0,2,10:47 PM,8:19,SUB: Lillard FOR McCollum,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,204,8,0,2,10:47 PM,8:19,,,SUB: Ball FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,205,8,0,2,10:47 PM,8:19,,,SUB: LaVine FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,209,5,1,2,10:48 PM,7:59,Little Bad Pass Turnover (P1.T9),,Jones Jr. STEAL (1 STL),,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,211,1,41,2,10:48 PM,7:54,,,Jones Jr. 1' Running Layup (4 PTS),41 - 28,-13,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,212,1,96,2,10:48 PM,7:41,Nance Jr. 2' Turnaround Bank Hook Shot (7 PTS),,,41 - 30,-11,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,214,1,1,2,10:49 PM,7:20,,,LaVine 31' 3PT Jump Shot (14 PTS) (Green 1 AST),44 - 30,-14,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,216,2,73,2,10:49 PM,7:05,MISS Lillard 1' Driving Reverse Layup,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,217,4,0,2,10:49 PM,7:04,,,LaVine REBOUND (Off:0 Def:3),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,218,1,41,2,10:49 PM,6:59,,,Jones Jr. 2' Running Layup (6 PTS) (Ball 2 AST),46 - 30,-16,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,220,6,1,2,10:49 PM,6:48,,,Jones Jr. P.FOUL (P3.T2) (S.Foster),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,222,8,0,2,10:49 PM,6:48,SUB: Powell FOR Little,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,224,8,0,2,10:49 PM,6:48,SUB: Covington FOR Snell,,,,,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,226,6,1,2,10:50 PM,6:39,,,Jones Jr. P.FOUL (P4.T3) (S.Foster),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,228,8,0,2,10:50 PM,6:39,,,SUB: Johnson FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,230,5,45,2,10:51 PM,6:27,Lillard Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,231,2,1,2,10:51 PM,6:16,,,MISS LaVine 26' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,232,4,0,2,10:51 PM,6:13,Nance Jr. REBOUND (Off:0 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,233,1,6,2,10:51 PM,6:03,Powell Driving Layup (6 PTS) (Nance Jr. 1 AST),,,46 - 32,-14,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,235,2,1,2,10:52 PM,5:45,,,MISS White 3PT Jump Shot,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,236,4,0,2,10:52 PM,5:42,,,Johnson REBOUND (Off:1 Def:0),,,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,237,5,2,2,10:52 PM,5:40,Covington STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T3),,,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,239,1,6,2,10:52 PM,5:32,Powell Driving Layup (8 PTS),,,46 - 34,-12,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,240,6,2,2,10:52 PM,5:32,,,White S.FOUL (P1.T4) (M.Dagher),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,242,8,0,2,10:52 PM,5:32,SUB: Nurkic FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,243,8,0,2,10:52 PM,5:32,SUB: McCollum FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,246,3,10,2,10:52 PM,5:32,Powell Free Throw 1 of 1 (9 PTS),,,46 - 35,-11,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,247,9,1,2,10:52 PM,5:32,,,Bulls Timeout: Regular (Reg.2 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,248,1,75,2,10:55 PM,5:25,,,Ball 2' Driving Finger Roll Layup (8 PTS),48 - 35,-13,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,249,1,6,2,10:56 PM,5:13,Lillard 1' Driving Layup (2 PTS),,,48 - 37,-11,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,250,7,2,2,10:56 PM,5:13,,,Johnson Violation:Defensive Goaltending (M.Dagher),,,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,251,2,6,2,10:56 PM,4:59,Covington BLOCK (1 BLK),,MISS Johnson 2' Driving Layup,,,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,1
+0022100223,253,4,0,2,10:56 PM,4:59,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,255,8,0,2,10:56 PM,4:59,,,SUB: Caruso FOR White,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,256,8,0,2,10:56 PM,4:59,,,SUB: DeRozan FOR Johnson,,,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,257,8,0,2,10:56 PM,4:59,,,SUB: Bradley FOR Green,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,261,5,2,2,10:57 PM,4:52,Nurkic STEAL (1 STL),,Bradley Lost Ball Turnover (P1.T4),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,263,2,41,2,10:57 PM,4:47,MISS Powell 2' Running Layup,,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,264,4,0,2,10:57 PM,4:46,Nurkic REBOUND (Off:5 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,265,1,72,2,10:57 PM,4:46,Nurkic Putback Layup (8 PTS),,,48 - 39,-9,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,266,1,43,2,10:57 PM,4:21,,,Bradley 1' Alley Oop Layup (2 PTS) (Ball 3 AST),50 - 39,-11,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,268,1,6,2,10:57 PM,4:09,Nurkic 1' Driving Layup (10 PTS) (Lillard 6 AST),,,50 - 41,-9,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,270,1,79,2,10:58 PM,3:46,,,Caruso 11' Pullup Jump Shot (5 PTS),52 - 41,-11,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,271,2,57,2,10:58 PM,3:29,MISS Nurkic 3' Driving Hook Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,272,4,0,2,10:58 PM,3:28,,,Ball REBOUND (Off:0 Def:1),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,273,1,1,2,10:58 PM,3:19,,,DeRozan 25' 3PT Jump Shot (15 PTS) (Caruso 4 AST),55 - 41,-14,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,275,2,1,2,10:59 PM,3:00,MISS Covington 26' 3PT Jump Shot,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,276,4,0,2,10:59 PM,2:58,,,Ball REBOUND (Off:0 Def:2),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,277,1,79,2,10:59 PM,2:51,,,LaVine 17' Pullup Jump Shot (16 PTS),57 - 41,-16,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,278,9,1,2,10:59 PM,2:50,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,279,8,0,2,11:00 PM,2:50,SUB: Nance Jr. FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,281,2,1,2,11:01 PM,2:33,MISS McCollum 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,282,4,0,2,11:01 PM,2:30,Nance Jr. REBOUND (Off:1 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,283,2,101,2,11:01 PM,2:26,MISS Powell 5' Driving Floating Jump Shot,,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,284,4,0,2,11:01 PM,2:24,,,LaVine REBOUND (Off:0 Def:4),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,285,1,41,2,11:01 PM,2:18,,,LaVine 1' Running Layup (18 PTS),59 - 41,-18,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,286,6,1,2,11:01 PM,2:07,,,Bradley P.FOUL (P3.PN) (M.Dagher),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,288,3,11,2,11:01 PM,2:07,Lillard Free Throw 1 of 2 (3 PTS),,,59 - 42,-17,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,289,3,12,2,11:02 PM,2:07,Lillard Free Throw 2 of 2 (4 PTS),,,59 - 43,-16,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,291,8,0,2,11:02 PM,1:57,,,SUB: Green FOR Bradley,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,293,1,7,2,11:02 PM,1:48,,,Green 1' Dunk (4 PTS) (Caruso 5 AST),61 - 43,-18,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,295,6,4,2,11:03 PM,1:39,Covington OFF.Foul (P1) (S.Foster),,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,297,5,37,2,11:03 PM,1:39,Covington Offensive Foul Turnover (P3.T11),,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,298,6,2,2,11:03 PM,1:22,McCollum S.FOUL (P1.T2) (N.Sago),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,300,3,11,2,11:04 PM,1:22,,,Caruso Free Throw 1 of 2 (6 PTS),62 - 43,-19,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,301,3,12,2,11:04 PM,1:22,,,Caruso Free Throw 2 of 2 (7 PTS),63 - 43,-20,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,302,1,1,2,11:04 PM,1:07,Covington 25' 3PT Jump Shot (8 PTS) (Powell 2 AST),,,63 - 46,-17,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,304,2,1,2,11:05 PM,0:45,,,MISS DeRozan 3PT Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,305,4,0,2,11:05 PM,0:43,Nance Jr. REBOUND (Off:1 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,306,2,6,2,11:05 PM,0:35,MISS Lillard 3' Driving Layup,,Ball BLOCK (1 BLK),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,308,4,0,2,11:05 PM,0:35,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,310,6,1,2,11:05 PM,0:28,,,Ball P.FOUL (P2.PN) (N.Sago),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,312,3,11,2,11:06 PM,0:28,Lillard Free Throw 1 of 2 (5 PTS),,,63 - 47,-16,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,313,3,12,2,11:06 PM,0:28,Lillard Free Throw 2 of 2 (6 PTS),,,63 - 48,-15,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,314,2,79,2,11:07 PM,0:04,,,MISS LaVine 31' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,315,4,0,2,11:07 PM,0:02,Nance Jr. REBOUND (Off:1 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,316,2,103,2,11:07 PM,0:00,MISS Nance Jr. 44' 3PT Running Pull-Up Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,317,4,0,2,11:07 PM,0:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,318,13,0,2,11:07 PM,0:00,,End of 2nd Period (11:07 PM EST),,63 - 48,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100223,323,12,0,3,11:22 PM,12:00,,Start of 3rd Period (11:22 PM EST),,63 - 48,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,324,1,1,3,11:22 PM,11:45,,,LaVine 27' 3PT Jump Shot (21 PTS) (DeRozan 2 AST),66 - 48,-18,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,326,2,1,3,11:23 PM,11:24,MISS Lillard 26' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,327,4,0,3,11:23 PM,11:22,,,Caruso REBOUND (Off:3 Def:3),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,328,5,1,3,11:23 PM,11:11,Covington STEAL (2 STL),,DeRozan Bad Pass Turnover (P2.T5),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,330,6,28,3,11:23 PM,11:08,,,Caruso Personal Take Foul (P2.T1) (S.Foster),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,332,1,101,3,11:23 PM,11:02,McCollum 7' Driving Floating Jump Shot (2 PTS) (Covington 1 AST),,,66 - 50,-16,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,333,1,98,3,11:24 PM,10:45,,,Bradley 1' Cutting Layup Shot (4 PTS) (LaVine 1 AST),68 - 50,-18,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,335,1,98,3,11:24 PM,10:35,Nurkic 1' Cutting Layup Shot (12 PTS) (McCollum 1 AST),,,68 - 52,-16,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,338,6,1,3,11:24 PM,10:26,Nurkic P.FOUL (P2.T1) (N.Sago),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,340,5,2,3,11:25 PM,10:13,Powell STEAL (1 STL),,LaVine Lost Ball Turnover (P2.T6),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,342,1,98,3,11:25 PM,10:04,Nurkic 1' Cutting Layup Shot (14 PTS) (McCollum 2 AST),,,68 - 54,-14,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,344,9,1,3,11:25 PM,10:04,,,Bulls Timeout: Regular (Reg.3 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,346,1,1,3,11:28 PM,9:48,,,Caruso 3PT Jump Shot (10 PTS) (DeRozan 3 AST),71 - 54,-17,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,348,2,101,3,11:28 PM,9:31,MISS Lillard 14' Driving Floating Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,349,4,0,3,11:28 PM,9:28,,,LaVine REBOUND (Off:0 Def:5),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,350,2,98,3,11:28 PM,9:19,Covington BLOCK (2 BLK),,MISS Bradley 1' Cutting Layup Shot,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,1
+0022100223,352,4,0,3,11:28 PM,9:18,,,Ball REBOUND (Off:1 Def:2),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,353,6,1,3,11:28 PM,9:18,Nurkic P.FOUL (P3.T2) (S.Foster),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,355,6,4,3,11:29 PM,9:18,,,DeRozan OFF.Foul (P1) (M.Dagher),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,357,5,37,3,11:29 PM,9:18,,,DeRozan Offensive Foul Turnover (P3.T7),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,358,5,2,3,11:29 PM,9:06,Powell Lost Ball Turnover (P1.T12),,DeRozan STEAL (1 STL),,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,360,6,28,3,11:29 PM,9:06,Covington Personal Take Foul (P2.T3) (M.Dagher),,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,362,5,4,3,11:30 PM,8:55,,,DeRozan Traveling Turnover (P4.T8),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,363,6,4,3,11:30 PM,8:40,Nurkic OFF.Foul (P4) (N.Sago),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,365,5,37,3,11:30 PM,8:40,Nurkic Offensive Foul Turnover (P2.T13),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,366,8,0,3,11:30 PM,8:40,SUB: Nance Jr. FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,368,5,1,3,11:31 PM,8:26,Nance Jr. STEAL (2 STL),,Caruso Bad Pass Turnover (P1.T9),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,370,2,41,3,11:31 PM,8:23,MISS Powell 2' Running Layup,,Ball BLOCK (2 BLK),,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,371,4,0,3,11:31 PM,8:22,Powell REBOUND (Off:1 Def:1),,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,372,2,5,3,11:31 PM,8:19,MISS Powell 2' Layup,,Caruso BLOCK (2 BLK),,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,374,4,0,3,11:31 PM,8:15,Nance Jr. REBOUND (Off:2 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,375,1,1,3,11:31 PM,8:14,Lillard 3PT Jump Shot (9 PTS) (Nance Jr. 2 AST),,,71 - 57,-14,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,378,2,79,3,11:31 PM,7:51,,,MISS DeRozan 21' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,379,4,0,3,11:31 PM,7:50,Lillard REBOUND (Off:0 Def:2),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,380,1,101,3,11:32 PM,7:37,Covington 2' Driving Floating Jump Shot (10 PTS) (Nance Jr. 3 AST),,,71 - 59,-12,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,382,5,1,3,11:32 PM,7:17,Covington STEAL (3 STL),,Ball Bad Pass Turnover (P1.T10),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,384,6,1,3,11:32 PM,7:08,,,Ball P.FOUL (P3.T2) (M.Dagher),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,386,2,79,3,11:33 PM,7:03,MISS McCollum 27' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,387,4,0,3,11:33 PM,7:01,,,Bradley REBOUND (Off:0 Def:2),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,388,9,1,3,11:33 PM,7:01,,,Bulls Timeout: Regular (Reg.4 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,389,5,39,3,11:36 PM,6:48,,,LaVine Step Out of Bounds Turnover (P3.T11),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,390,1,73,3,11:36 PM,6:38,Powell 1' Driving Reverse Layup (11 PTS) (Covington 2 AST),,,71 - 61,-10,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,391,6,2,3,11:36 PM,6:38,,,DeRozan S.FOUL (P2.T3) (S.Foster),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,393,3,10,3,11:37 PM,6:38,Powell Free Throw 1 of 1 (12 PTS),,,71 - 62,-9,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,394,1,5,3,11:37 PM,6:19,,,Bradley 1' Layup (6 PTS) (LaVine 2 AST),73 - 62,-11,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,396,2,78,3,11:37 PM,6:01,MISS Nance Jr. 11' Floating Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,397,4,0,3,11:37 PM,6:00,,,Bradley REBOUND (Off:0 Def:3),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,399,6,1,3,11:37 PM,6:00,Nance Jr. P.FOUL (P2.T4) (N.Sago),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0022100223,401,1,1,3,11:38 PM,5:41,,,Ball 26' 3PT Jump Shot (11 PTS) (DeRozan 4 AST),76 - 62,-14,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,403,1,7,3,11:38 PM,5:20,Nance Jr. 1' Dunk (9 PTS) (Covington 3 AST),,,76 - 64,-12,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,405,5,1,3,11:38 PM,5:04,Nance Jr. STEAL (3 STL),,LaVine Bad Pass Turnover (P4.T12),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,407,1,1,3,11:39 PM,4:56,Nance Jr. 25' 3PT Jump Shot (12 PTS) (McCollum 3 AST),,,76 - 67,-9,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,410,6,1,3,11:39 PM,4:41,Powell P.FOUL (P1.PN) (M.Dagher),,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,412,3,11,3,11:40 PM,4:41,,,MISS LaVine Free Throw 1 of 2,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,413,4,1,3,11:40 PM,4:41,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,414,8,0,3,11:40 PM,4:41,,,SUB: Green FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,415,8,0,3,11:40 PM,4:41,,,SUB: Jones Jr. FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,416,8,0,3,11:40 PM,4:41,,,SUB: Dosunmu FOR Bradley,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,420,3,12,3,11:40 PM,4:41,,,LaVine Free Throw 2 of 2 (22 PTS),77 - 67,-10,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,421,2,1,3,11:40 PM,4:28,MISS Covington 25' 3PT Jump Shot,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,422,4,0,3,11:40 PM,4:25,,,Ball REBOUND (Off:1 Def:3),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,423,1,41,3,11:40 PM,4:20,,,Dosunmu Running Layup (5 PTS) (Ball 4 AST),79 - 67,-12,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,425,2,101,3,11:40 PM,4:10,MISS McCollum 13' Driving Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,426,4,0,3,11:41 PM,4:08,,,Dosunmu REBOUND (Off:0 Def:1),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,427,2,79,3,11:41 PM,3:56,,,MISS Ball 26' 3PT Pullup Jump Shot,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,428,4,0,3,11:41 PM,3:53,Covington REBOUND (Off:1 Def:2),,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,429,1,1,3,11:41 PM,3:46,Powell 3PT Jump Shot (15 PTS) (Lillard 7 AST),,,79 - 70,-9,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,431,6,26,3,11:41 PM,3:32,,,Jones Jr. Offensive Charge Foul (P5) (M.Dagher),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,433,5,37,3,11:41 PM,3:32,,,Jones Jr. Offensive Foul Turnover (P1.T13),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,434,8,0,3,11:41 PM,3:32,SUB: Little FOR McCollum,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,435,8,0,3,11:41 PM,3:32,SUB: Simons FOR Covington,,,,,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,439,1,6,3,11:42 PM,3:19,Lillard 1' Driving Layup (11 PTS) (Simons 2 AST),,,79 - 72,-7,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,440,5,2,3,11:42 PM,3:08,Simons STEAL (1 STL),,Jones Jr. Lost Ball Turnover (P2.T14),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,442,1,2,3,11:42 PM,3:03,Powell 25' 3PT Running Jump Shot (18 PTS) (Lillard 8 AST),,,79 - 75,-4,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,444,2,6,3,11:42 PM,2:39,,,MISS Ball 2' Driving Layup,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,445,4,0,3,11:42 PM,2:38,Lillard REBOUND (Off:0 Def:3),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,446,2,80,3,11:43 PM,2:18,MISS Lillard 31' 3PT Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,447,4,0,3,11:43 PM,2:16,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,450,8,0,3,11:43 PM,2:16,,,SUB: DeRozan FOR Ball,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,451,8,0,3,11:43 PM,2:16,,,SUB: Caruso FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,454,2,79,3,11:44 PM,2:01,,,MISS DeRozan 20' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,455,4,0,3,11:44 PM,1:57,,,Green REBOUND (Off:1 Def:0),,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,456,2,97,3,11:44 PM,1:57,,,MISS Green Tip Layup Shot,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,457,4,0,3,11:44 PM,1:56,Little REBOUND (Off:0 Def:2),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,458,2,1,3,11:44 PM,1:46,MISS Little 26' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,459,4,0,3,11:44 PM,1:41,,,DeRozan REBOUND (Off:0 Def:1),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,460,6,2,3,11:44 PM,1:34,Powell S.FOUL (P2.PN) (S.Foster),,,,,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,462,3,11,3,11:45 PM,1:34,,,DeRozan Free Throw 1 of 2 (16 PTS),80 - 75,-5,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,463,3,12,3,11:45 PM,1:34,,,DeRozan Free Throw 2 of 2 (17 PTS),81 - 75,-6,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,465,5,2,3,11:45 PM,1:28,Simons Lost Ball Turnover (P1.T14),,Dosunmu STEAL (1 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,467,1,5,3,11:45 PM,1:28,,,Dosunmu 1' Layup (7 PTS),83 - 75,-8,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,468,1,75,3,11:45 PM,1:11,Simons 2' Driving Finger Roll Layup (4 PTS),,,83 - 77,-6,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,469,2,1,3,11:46 PM,0:56,,,MISS Caruso 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,470,4,0,3,11:46 PM,0:56,,,Jones Jr. REBOUND (Off:2 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,471,2,78,3,11:46 PM,0:53,Nance Jr. BLOCK (1 BLK),,MISS Jones Jr. 7' Floating Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,1
+0022100223,473,4,0,3,11:46 PM,0:53,Simons REBOUND (Off:0 Def:1),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,475,2,6,3,11:46 PM,0:31,MISS Lillard 1' Driving Layup,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,476,4,0,3,11:47 PM,0:29,Nance Jr. REBOUND (Off:3 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,477,1,58,3,11:47 PM,0:29,Nance Jr. 1' Turnaround Hook Shot (14 PTS),,,83 - 79,-4,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,478,6,1,3,11:47 PM,0:14,Little P.FOUL (P1.PN) (S.Foster),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,480,3,11,3,11:47 PM,0:14,,,Caruso Free Throw 1 of 2 (11 PTS),84 - 79,-5,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,481,8,0,3,11:47 PM,0:14,,,SUB: Johnson FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,483,3,12,3,11:48 PM,0:14,,,Caruso Free Throw 2 of 2 (12 PTS),85 - 79,-6,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,484,6,28,3,11:48 PM,0:07,,,Caruso Personal Take Foul (P3.T4) (M.Dagher),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,486,6,2,3,11:48 PM,0:02,,,Johnson S.FOUL (P1.PN) (N.Sago),,,5,1628993,Alize Johnson,1610612741.0,Chicago,Bulls,CHI,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,488,3,11,3,11:49 PM,0:02,Simons Free Throw 1 of 2 (5 PTS),,,85 - 80,-5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,489,8,0,3,11:49 PM,0:02,SUB: Covington FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,491,3,12,3,11:49 PM,0:02,Simons Free Throw 2 of 2 (6 PTS),,,85 - 81,-4,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,492,13,0,3,11:49 PM,0:00,,End of 3rd Period (11:49 PM EST),,85 - 81,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100223,499,12,0,4,11:52 PM,12:00,,Start of 4th Period (11:52 PM EST),,85 - 81,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,501,2,86,4,11:53 PM,11:41,MISS Simons 11' Turnaround Fadeaway Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,502,4,0,4,11:53 PM,11:41,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,504,2,1,4,11:54 PM,11:29,MISS Snell 24' 3PT Jump Shot,,,,,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,505,4,0,4,11:54 PM,11:27,,,Dosunmu REBOUND (Off:0 Def:2),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,506,6,14,4,11:54 PM,11:14,Nance Jr. FLAGRANT.FOUL.TYPE1 (P3.T1) (N.Sago),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,508,18,1,4,11:54 PM,11:14,,Instant Replay4th Period (11:54 PM EST),,85 - 81,-4,0,506,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100223,509,3,18,4,11:55 PM,11:14,,,DeRozan Free Throw Flagrant 1 of 2 (18 PTS),86 - 81,-5,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,510,3,19,4,11:55 PM,11:14,,,DeRozan Free Throw Flagrant 2 of 2 (19 PTS),87 - 81,-6,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,511,2,79,4,11:56 PM,11:02,,,MISS DeRozan 15' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,512,4,0,4,11:56 PM,11:00,Little REBOUND (Off:0 Def:3),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,513,2,57,4,11:56 PM,10:43,MISS McCollum 5' Driving Hook Shot,,DeRozan BLOCK (2 BLK),,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,514,4,0,4,11:57 PM,10:41,,,White REBOUND (Off:0 Def:1),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,516,6,2,4,11:57 PM,10:39,Simons S.FOUL (P2.T2) (S.Foster),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,518,3,11,4,11:57 PM,10:39,,,Green Free Throw 1 of 2 (5 PTS),88 - 81,-7,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,519,3,12,4,11:57 PM,10:39,,,Green Free Throw 2 of 2 (6 PTS),89 - 81,-8,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,520,2,58,4,11:58 PM,10:23,MISS Nance Jr. 7' Turnaround Hook Shot,,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,521,4,0,4,11:58 PM,10:21,,,DeRozan REBOUND (Off:0 Def:2),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,522,6,26,4,11:58 PM,10:10,,,DeRozan Offensive Charge Foul (P3) (M.Dagher),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,524,5,37,4,11:58 PM,10:10,,,DeRozan Offensive Foul Turnover (P5.T15),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,525,8,0,4,11:58 PM,10:10,SUB: Nurkic FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,526,8,0,4,11:58 PM,10:10,SUB: Lillard FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,530,1,1,4,11:59 PM,9:54,Snell 3PT Jump Shot (3 PTS) (Lillard 9 AST),,,89 - 84,-5,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,533,2,79,4,11:59 PM,9:39,,,MISS DeRozan 15' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,534,4,0,4,11:59 PM,9:37,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,535,1,105,4,11:59 PM,9:28,McCollum 8' Turnaround Fadeaway Bank Jump Shot (4 PTS),,,89 - 86,-3,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,536,9,1,4,11:59 PM,9:28,,,Bulls Timeout: Regular (Reg.5 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,537,8,0,4,12:02 AM,9:28,,,SUB: Ball FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,538,8,0,4,12:02 AM,9:28,,,SUB: LaVine FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,539,8,0,4,12:02 AM,9:28,,,SUB: Bradley FOR Green,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,543,2,86,4,12:03 AM,9:11,,,MISS LaVine 19' Turnaround Fadeaway Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,544,4,0,4,12:03 AM,9:08,Snell REBOUND (Off:0 Def:2),,,,,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,545,5,45,4,12:03 AM,9:06,Lillard Out of Bounds - Bad Pass Turnover Turnover (P4.T15),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,546,2,1,4,12:03 AM,8:51,,,MISS Ball 25' 3PT Jump Shot,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,547,4,0,4,12:03 AM,8:48,Little REBOUND (Off:0 Def:4),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,548,2,79,4,12:03 AM,8:39,MISS Lillard 25' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,549,4,0,4,12:03 AM,8:35,,,Bradley REBOUND (Off:0 Def:4),,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,550,1,6,4,12:04 AM,8:28,,,Ball 1' Driving Layup (13 PTS),91 - 86,-5,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,551,2,79,4,12:04 AM,8:12,MISS McCollum 17' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,552,4,0,4,12:04 AM,8:10,McCollum REBOUND (Off:1 Def:1),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,553,1,73,4,12:04 AM,8:09,McCollum 2' Driving Reverse Layup (6 PTS),,,91 - 88,-3,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,554,2,6,4,12:04 AM,7:55,,,MISS Ball 2' Driving Layup,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,555,4,0,4,12:04 AM,7:53,Nurkic REBOUND (Off:5 Def:3),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,556,1,79,4,12:04 AM,7:43,Lillard 25' 3PT Pullup Jump Shot (14 PTS),,,91 - 91,TIE,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,557,6,2,4,12:05 AM,7:28,Little S.FOUL (P2.T3) (S.Foster),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,559,3,11,4,12:05 AM,7:28,,,MISS Dosunmu Free Throw 1 of 2,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,560,4,1,4,12:05 AM,7:28,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,561,8,0,4,12:05 AM,7:28,SUB: Powell FOR Snell,,,,,4,203503,Tony Snell,1610612757.0,Portland,Trail Blazers,POR,4,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,562,8,0,4,12:05 AM,7:28,,,SUB: DeRozan FOR White,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,565,3,12,4,12:05 AM,7:28,,,Dosunmu Free Throw 2 of 2 (8 PTS),92 - 91,-1,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,566,2,79,4,12:06 AM,7:04,MISS Little 25' 3PT Pullup Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,567,4,0,4,12:06 AM,7:01,Nurkic REBOUND (Off:6 Def:3),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,568,1,1,4,12:06 AM,7:00,McCollum 28' 3PT Jump Shot (9 PTS) (Nurkic 1 AST),,,92 - 94,2,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,570,2,79,4,12:06 AM,6:43,,,MISS Ball 15' Pullup Jump Shot,,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,571,4,0,4,12:06 AM,6:41,Little REBOUND (Off:0 Def:5),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,572,5,40,4,12:06 AM,6:41,Little Out of Bounds Lost Ball Turnover (P2.T16),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022100223,573,8,0,4,12:06 AM,6:41,,,SUB: Caruso FOR Dosunmu,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,574,8,0,4,12:06 AM,6:41,,,SUB: Jones Jr. FOR Bradley,,,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,577,2,73,4,12:07 AM,6:37,,,MISS LaVine 1' Driving Reverse Layup,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,578,4,0,4,12:07 AM,6:35,,,DeRozan REBOUND (Off:1 Def:2),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,579,2,1,4,12:07 AM,6:32,,,MISS DeRozan 22' Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,580,4,0,4,12:07 AM,6:30,McCollum REBOUND (Off:1 Def:2),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,581,2,101,4,12:07 AM,6:23,MISS McCollum 8' Driving Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,582,4,0,4,12:07 AM,6:21,,,Caruso REBOUND (Off:3 Def:4),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,583,1,2,4,12:07 AM,6:16,,,LaVine 3PT Running Jump Shot (25 PTS) (Caruso 6 AST),95 - 94,-1,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,584,6,11,4,12:07 AM,6:15,,,LaVine T.FOUL (P0.T0) (N.Sago),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022100223,585,3,16,4,12:08 AM,6:15,Lillard Free Throw Technical (15 PTS),,,95 - 95,TIE,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,587,1,6,4,12:08 AM,5:58,Little 2' Driving Layup (4 PTS) (Lillard 10 AST),,,95 - 97,2,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,589,6,2,4,12:08 AM,5:42,Nurkic S.FOUL (P5.T4) (S.Foster),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,591,3,11,4,12:09 AM,5:42,,,DeRozan Free Throw 1 of 2 (20 PTS),96 - 97,1,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,592,3,12,4,12:09 AM,5:42,,,DeRozan Free Throw 2 of 2 (21 PTS),97 - 97,TIE,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,593,2,1,4,12:10 AM,5:17,MISS Little 28' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,594,4,0,4,12:10 AM,5:15,,,LaVine REBOUND (Off:0 Def:6),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,595,6,1,4,12:10 AM,5:11,Little P.FOUL (P3.PN) (N.Sago),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022100223,597,3,11,4,12:10 AM,5:11,,,DeRozan Free Throw 1 of 2 (22 PTS),98 - 97,-1,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,598,3,12,4,12:10 AM,5:11,,,MISS DeRozan Free Throw 2 of 2,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,599,4,0,4,12:10 AM,5:08,Nurkic REBOUND (Off:6 Def:4),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,600,1,58,4,12:11 AM,4:49,Nurkic 2' Turnaround Hook Shot (16 PTS) (McCollum 4 AST),,,98 - 99,1,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,602,2,79,4,12:11 AM,4:29,,,MISS LaVine 22' Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,603,4,0,4,12:11 AM,4:27,Little REBOUND (Off:0 Def:6),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,604,1,79,4,12:12 AM,4:14,Lillard 30' 3PT Pullup Jump Shot (18 PTS),,,98 - 102,4,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,605,2,98,4,12:12 AM,3:53,,,MISS Jones Jr. 2' Cutting Layup Shot,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,606,4,0,4,12:12 AM,3:51,Nurkic REBOUND (Off:6 Def:5),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,608,9,1,4,12:12 AM,3:44,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,609,1,108,4,12:15 AM,3:39,Nurkic 1' Cutting Dunk Shot (18 PTS) (McCollum 5 AST),,,98 - 104,6,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022100223,611,2,47,4,12:16 AM,3:21,,,MISS DeRozan 15' Turnaround Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,612,4,0,4,12:16 AM,3:19,Nurkic REBOUND (Off:6 Def:6),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,613,2,79,4,12:16 AM,3:06,MISS Lillard 30' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,614,4,0,4,12:16 AM,3:03,,,Caruso REBOUND (Off:3 Def:5),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,615,1,41,4,12:16 AM,3:00,,,Ball 2' Running Layup (15 PTS) (Caruso 7 AST),100 - 104,4,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,617,2,80,4,12:16 AM,2:39,MISS McCollum 17' Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,618,4,0,4,12:16 AM,2:37,,,Caruso REBOUND (Off:3 Def:6),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,619,1,41,4,12:17 AM,2:32,,,Ball Running Layup (17 PTS) (Caruso 8 AST),102 - 104,2,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,620,1,73,4,12:17 AM,2:14,Lillard Driving Reverse Layup (20 PTS),,,102 - 106,4,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,621,1,1,4,12:17 AM,2:00,,,LaVine 26' 3PT Jump Shot (28 PTS) (DeRozan 5 AST),105 - 106,1,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,623,2,1,4,12:17 AM,1:36,MISS Little 35' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,624,4,0,4,12:17 AM,1:36,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,625,5,11,4,12:18 AM,1:36,TRAIL BLAZERS Turnover: Shot Clock (T#17),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,626,8,0,4,12:18 AM,1:36,SUB: Nance Jr. FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022100223,628,2,79,4,12:18 AM,1:27,,,MISS LaVine 20' Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,629,4,0,4,12:18 AM,1:23,,,Caruso REBOUND (Off:4 Def:6),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,630,1,6,4,12:19 AM,1:20,,,LaVine 1' Driving Layup (30 PTS) (Caruso 9 AST),107 - 106,-1,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022100223,632,6,2,4,12:19 AM,1:05,,,Ball S.FOUL (P4.T1) (M.Dagher),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,635,3,11,4,12:19 AM,1:05,Lillard Free Throw 1 of 2 (21 PTS),,,107 - 107,TIE,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,636,3,12,4,12:20 AM,1:05,Lillard Free Throw 2 of 2 (22 PTS),,,107 - 108,1,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,637,2,79,4,12:20 AM,0:50,,,MISS LaVine 26' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,638,4,0,4,12:20 AM,0:49,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,640,2,6,4,12:20 AM,0:30,MISS Lillard 1' Driving Layup,,Jones Jr. BLOCK (1 BLK),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1
+0022100223,642,4,0,4,12:20 AM,0:28,,,DeRozan REBOUND (Off:1 Def:3),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,643,2,79,4,12:21 AM,0:13,,,MISS DeRozan 17' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,644,4,0,4,12:21 AM,0:12,Nance Jr. REBOUND (Off:3 Def:6),,,,,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,645,6,28,4,12:21 AM,0:12,,,Caruso Personal Take Foul (P4.PN) (M.Dagher),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,647,3,11,4,12:21 AM,0:12,Nance Jr. Free Throw 1 of 2 (15 PTS),,,107 - 109,2,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,648,3,12,4,12:22 AM,0:12,Nance Jr. Free Throw 2 of 2 (16 PTS),,,107 - 110,3,4,1626204,Larry Nance Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,649,9,1,4,12:22 AM,0:12,,,Bulls Timeout: Regular (Reg.6 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,650,8,0,4,12:23 AM,0:12,,,SUB: Bradley FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022100223,652,2,1,4,12:24 AM,0:10,,,MISS LaVine 30' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,653,4,0,4,12:24 AM,0:07,Little REBOUND (Off:0 Def:7),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,654,6,28,4,12:24 AM,0:06,,,Ball Personal Take Foul (P5.PN) (M.Dagher),,,5,1628366,Lonzo Ball,1610612741.0,Chicago,Bulls,CHI,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022100223,656,3,11,4,12:24 AM,0:06,Little Free Throw 1 of 2 (5 PTS),,,107 - 111,4,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,657,3,12,4,12:25 AM,0:06,Little Free Throw 2 of 2 (6 PTS),,,107 - 112,5,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,658,9,1,4,12:25 AM,0:06,,,Bulls Timeout: Regular (Reg.7 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100223,659,2,79,4,12:26 AM,0:02,,,MISS LaVine 29' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022100223,660,4,0,4,12:26 AM,0:00,Lillard REBOUND (Off:0 Def:4),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022100223,661,13,0,4,12:26 AM,0:00,,End of 4th Period (12:26 AM EST),,107 - 112,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

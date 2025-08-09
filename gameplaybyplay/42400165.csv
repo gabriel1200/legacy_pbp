@@ -1,0 +1,490 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042400165,2,12,0,1,10:13 PM,12:00,,Start of 1st Period (10:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,4,10,0,1,10:13 PM,12:00,Jump Ball Hachimura vs. Gobert: Tip to Randle,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,7,1,80,1,10:14 PM,11:45,,,Randle 16' Step Back Jump Shot (2 PTS),2 - 0,-2,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,8,2,80,1,10:14 PM,11:26,MISS Doncic 25' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,9,4,0,1,10:14 PM,11:22,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,10,2,103,1,10:14 PM,11:18,,,MISS Edwards 28' 3PT Running Pull-Up Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,11,4,0,1,10:14 PM,11:17,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,14,5,2,1,10:14 PM,11:15,Doncic Lost Ball Turnover (P1.T1),,Randle STEAL (1 STL),,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,16,1,44,1,10:14 PM,11:14,,,Gobert 1' Reverse Layup (2 PTS),4 - 0,-4,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,17,6,1,1,10:14 PM,10:57,,,Edwards P.FOUL (P1.T1) (J.Williams),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,80,5,40,1,10:15 PM,10:50,Reaves Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042400165,23,1,99,1,10:15 PM,10:31,,,Gobert 4' Cutting Finger Roll Layup Shot (4 PTS) (Randle 1 AST),6 - 0,-6,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,25,6,2,1,10:16 PM,10:15,,,McDaniels S.FOUL (P1.T2) (J.Goble),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,27,3,11,1,10:16 PM,10:15,Doncic Free Throw 1 of 2 (1 PTS),,,6 - 1,-5,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,28,3,12,1,10:16 PM,10:15,Doncic Free Throw 2 of 2 (2 PTS),,,6 - 2,-4,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,29,2,1,1,10:17 PM,10:01,,,MISS Conley 24' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,30,4,0,1,10:17 PM,9:57,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,31,2,1,1,10:17 PM,9:50,MISS Reaves 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,32,4,0,1,10:17 PM,9:45,,,Edwards REBOUND (Off:0 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,33,2,79,1,10:17 PM,9:32,,,MISS Randle 28' 3PT Pullup Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,34,4,0,1,10:17 PM,9:27,,,McDaniels REBOUND (Off:1 Def:0),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,35,2,1,1,10:17 PM,9:25,,,MISS Edwards 28' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,36,4,0,1,10:17 PM,9:20,,,Randle REBOUND (Off:1 Def:0),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,37,2,1,1,10:17 PM,9:19,,,MISS Conley 24' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,38,4,0,1,10:18 PM,9:13,,,Edwards REBOUND (Off:1 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,39,2,1,1,10:18 PM,9:09,,,MISS McDaniels 25' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,40,4,0,1,10:18 PM,9:06,L. James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,41,1,101,1,10:18 PM,8:59,Reaves 8' Driving Floating Jump Shot (2 PTS) (L. James 1 AST),,,6 - 4,-2,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,43,2,1,1,10:18 PM,8:45,,,MISS Edwards 30' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,44,4,0,1,10:18 PM,8:42,L. James REBOUND (Off:0 Def:2),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,45,2,80,1,10:18 PM,8:36,MISS Hachimura 14' Step Back Jump Shot,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,46,4,0,1,10:18 PM,8:30,,,McDaniels REBOUND (Off:1 Def:1),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,47,1,41,1,10:18 PM,8:27,,,Randle 4' Running Layup (4 PTS),8 - 4,-4,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,48,6,2,1,10:18 PM,8:27,Doncic S.FOUL (P1.T1) (J.Williams),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,50,3,10,1,10:19 PM,8:27,,,Randle Free Throw 1 of 1 (5 PTS),9 - 4,-5,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,51,6,2,1,10:19 PM,8:14,,,McDaniels S.FOUL (P2.T3) (J.Williams),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,53,3,11,1,10:20 PM,8:14,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,54,4,1,1,10:20 PM,8:14,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,55,3,12,1,10:20 PM,8:14,Doncic Free Throw 2 of 2 (3 PTS),,,9 - 5,-4,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,56,1,9,1,10:20 PM,7:56,,,McDaniels 1' Driving Dunk (2 PTS) (Conley 1 AST),11 - 5,-6,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,58,2,63,1,10:21 PM,7:38,MISS L. James 12' Fadeaway Jumper,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,59,4,0,1,10:21 PM,7:34,,,Randle REBOUND (Off:1 Def:1),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,60,6,2,1,10:21 PM,7:29,Doncic S.FOUL (P2.T2) (R.Acosta),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,62,3,11,1,10:21 PM,7:29,,,MISS Gobert Free Throw 1 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,63,4,1,1,10:21 PM,7:29,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,64,8,0,1,10:21 PM,7:29,,,SUB: DiVincenzo FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,66,3,12,1,10:22 PM,7:29,,,Gobert Free Throw 2 of 2 (5 PTS),12 - 5,-7,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,67,1,9,1,10:22 PM,7:16,Hachimura 2' Driving Dunk (2 PTS) (Doncic 1 AST),,,12 - 7,-5,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,69,5,45,1,10:23 PM,7:02,,,Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042400165,70,2,1,1,10:23 PM,6:52,MISS Hachimura 28' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,71,4,0,1,10:23 PM,6:48,Hachimura REBOUND (Off:1 Def:0),,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,72,1,72,1,10:23 PM,6:46,Hachimura 2' Putback Layup (4 PTS),,,12 - 9,-3,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,73,1,1,1,10:23 PM,6:29,,,Randle 28' 3PT Jump Shot (8 PTS) (Edwards 1 AST),15 - 9,-6,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,76,6,4,1,10:24 PM,6:10,Finney-Smith OFF.Foul (P1) (R.Acosta),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,78,5,37,1,10:24 PM,6:10,Finney-Smith Offensive Foul Turnover (P1.T3),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042400165,79,9,1,1,10:24 PM,6:10,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,81,8,0,1,10:27 PM,6:10,,,SUB: Alexander-Walker FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,82,8,0,1,10:27 PM,6:10,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,85,1,1,1,10:28 PM,5:59,,,DiVincenzo 26' 3PT Jump Shot (3 PTS) (Randle 2 AST),18 - 9,-9,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,87,2,6,1,10:28 PM,5:37,MISS L. James 6' Driving Layup,,Reid BLOCK (1 BLK),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,89,4,0,1,10:28 PM,5:34,,,DiVincenzo REBOUND (Off:0 Def:1),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,90,5,2,1,10:28 PM,5:31,Doncic STEAL (1 STL),,Randle Lost Ball Turnover (P2.T2),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,92,2,1,1,10:28 PM,5:22,MISS Reaves 26' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,93,4,0,1,10:28 PM,5:18,,,DiVincenzo REBOUND (Off:0 Def:2),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,94,1,1,1,10:28 PM,5:10,,,Alexander-Walker 3PT Jump Shot (3 PTS) (Randle 3 AST),21 - 9,-12,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,97,6,4,1,10:29 PM,4:52,Reaves OFF.Foul (P1) (J.Williams),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,99,5,37,1,10:29 PM,4:52,Reaves Offensive Foul Turnover (P2.T4),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042400165,100,8,0,1,10:29 PM,4:52,SUB: Vanderbilt FOR L. James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,101,8,0,1,10:29 PM,4:52,SUB: Vincent FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,104,2,1,1,10:29 PM,4:42,,,MISS Reid 29' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,105,4,0,1,10:29 PM,4:39,Doncic REBOUND (Off:0 Def:3),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,106,2,86,1,10:30 PM,4:32,MISS Doncic 14' Turnaround Fadeaway Shot,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,107,4,0,1,10:30 PM,4:27,,,Edwards REBOUND (Off:1 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,108,2,1,1,10:30 PM,4:16,,,MISS Alexander-Walker 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,109,4,0,1,10:30 PM,4:12,Vanderbilt REBOUND (Off:0 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,110,1,100,1,10:30 PM,4:09,Finney-Smith 1' Running Alley Oop Layup Shot (2 PTS) (Doncic 2 AST),,,21 - 11,-10,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,112,1,6,1,10:30 PM,3:53,,,Edwards 2' Driving Layup (2 PTS),23 - 11,-12,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,113,2,80,1,10:30 PM,3:40,MISS Doncic 29' 3PT Step Back Jump Shot,,Reid BLOCK (2 BLK),,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,115,4,0,1,10:31 PM,3:34,,,Alexander-Walker REBOUND (Off:0 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,116,2,41,1,10:31 PM,3:33,,,MISS Reid 3' Running Layup,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,117,4,0,1,10:31 PM,3:30,,,Randle REBOUND (Off:2 Def:1),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,118,2,1,1,10:31 PM,3:27,,,MISS Alexander-Walker 24' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,119,4,0,1,10:31 PM,3:25,Vincent REBOUND (Off:0 Def:1),,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,120,1,79,1,10:31 PM,3:19,Reaves 26' 3PT Pullup Jump Shot (5 PTS),,,23 - 14,-9,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,121,9,1,1,10:31 PM,3:18,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,122,8,0,1,10:34 PM,3:18,SUB: L. James FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,123,8,0,1,10:34 PM,3:18,,,SUB: Gobert FOR Randle,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,126,5,1,1,10:35 PM,3:04,Vanderbilt STEAL (1 STL),,Alexander-Walker Bad Pass Turnover (P1.T3),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,128,5,1,1,10:35 PM,3:02,L. James Bad Pass Turnover (P1.T5),,Alexander-Walker STEAL (1 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,130,6,2,1,10:35 PM,3:02,Vanderbilt S.FOUL (P1.T3) (J.Williams),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,132,3,11,1,10:36 PM,3:02,,,Alexander-Walker Free Throw 1 of 2 (4 PTS),24 - 14,-10,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,133,3,12,1,10:36 PM,3:02,,,Alexander-Walker Free Throw 2 of 2 (5 PTS),25 - 14,-11,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,134,6,2,1,10:36 PM,2:48,,,Reid S.FOUL (P1.T4) (J.Williams),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,136,3,11,1,10:37 PM,2:48,MISS L. James Free Throw 1 of 2,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,137,4,1,1,10:37 PM,2:48,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,138,8,0,1,10:37 PM,2:48,SUB: Kleber FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,140,3,12,1,10:37 PM,2:48,L. James Free Throw 2 of 2 (1 PTS),,,25 - 15,-10,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,142,1,58,1,10:37 PM,2:27,,,Reid 8' Turnaround Hook Shot (2 PTS) (Alexander-Walker 1 AST),27 - 15,-12,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,144,2,1,1,10:38 PM,2:00,MISS Vincent 27' 3PT Jump Shot,,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,145,4,0,1,10:38 PM,1:58,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,146,6,3,1,10:38 PM,1:58,Kleber L.B.FOUL (P1.T4) (R.Acosta),,,,,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,148,1,7,1,10:39 PM,1:46,,,Gobert 1' Dunk (7 PTS) (Reid 1 AST),29 - 15,-14,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,150,5,1,1,10:39 PM,1:37,L. James Bad Pass Turnover (P2.T6),,DiVincenzo STEAL (1 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,152,5,1,1,10:39 PM,1:33,L. James STEAL (1 STL),,DiVincenzo Bad Pass Turnover (P1.T4),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,154,1,6,1,10:39 PM,1:29,L. James 4' Driving Layup (3 PTS),,,29 - 17,-12,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,155,2,1,1,10:39 PM,1:23,,,MISS DiVincenzo 27' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,156,4,0,1,10:39 PM,1:21,Vanderbilt REBOUND (Off:0 Def:2),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,157,6,1,1,10:39 PM,1:21,,,Gobert P.FOUL (P1.PN) (J.Williams),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,159,3,11,1,10:40 PM,1:21,Kleber Free Throw 1 of 2 (1 PTS),,,29 - 18,-11,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,160,3,12,1,10:40 PM,1:21,Kleber Free Throw 2 of 2 (2 PTS),,,29 - 19,-10,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,161,5,45,1,10:40 PM,1:09,,,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042400165,162,2,85,1,10:40 PM,0:58,MISS Doncic 5' Turnaround Bank Shot,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,163,4,0,1,10:40 PM,0:56,,,Gobert REBOUND (Off:0 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,164,1,76,1,10:41 PM,0:51,,,Gobert 2' Running Finger Roll Layup (9 PTS) (DiVincenzo 1 AST),31 - 19,-12,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,166,2,63,1,10:41 PM,0:44,MISS L. James 20' Fadeaway Jumper,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,167,4,0,1,10:41 PM,0:42,,,Reid REBOUND (Off:0 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,170,2,1,1,10:42 PM,0:23,,,MISS Alexander-Walker 27' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,171,4,0,1,10:42 PM,0:20,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,173,8,0,1,10:42 PM,0:20,SUB: Reaves FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,175,8,0,1,10:42 PM,0:20,,,SUB: Randle FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,177,6,2,1,10:43 PM,0:02,,,Randle S.FOUL (P1.PN) (J.Goble),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,179,3,13,1,10:44 PM,0:02,Doncic Free Throw 1 of 3 (4 PTS),,,31 - 20,-11,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,180,3,14,1,10:44 PM,0:02,Doncic Free Throw 2 of 3 (5 PTS),,,31 - 21,-10,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,181,8,0,1,10:44 PM,0:02,SUB: Vanderbilt FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,183,3,15,1,10:44 PM,0:02,Doncic Free Throw 3 of 3 (6 PTS),,,31 - 22,-9,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,184,2,79,1,10:44 PM,0:01,,,MISS DiVincenzo 47' 3PT Pullup Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,185,4,0,1,10:44 PM,0:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,186,13,0,1,10:44 PM,0:00,,End of 1st Period (10:44 PM EST),,31 - 22,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,195,12,0,2,10:48 PM,12:00,,Start of 2nd Period (10:48 PM EST),,31 - 22,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,196,1,9,2,10:48 PM,11:47,L. James 1' Driving Dunk (5 PTS) (Vincent 1 AST),,,31 - 24,-7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,198,2,1,2,10:48 PM,11:32,,,MISS DiVincenzo 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,199,4,0,2,10:48 PM,11:28,,,McDaniels REBOUND (Off:2 Def:1),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,200,2,1,2,10:48 PM,11:27,,,MISS Randle 27' 3PT Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,201,4,0,2,10:49 PM,11:24,,,DiVincenzo REBOUND (Off:1 Def:2),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,202,6,26,2,10:49 PM,11:24,,,Randle Offensive Charge Foul (P2) (J.Williams),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,204,5,37,2,10:49 PM,11:24,,,Randle Offensive Foul Turnover (P3.T6),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042400165,205,6,1,2,10:49 PM,11:15,,,Randle P.FOUL (P3.T1) (J.Williams),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,207,8,0,2,10:49 PM,11:15,,,SUB: Gobert FOR Randle,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,209,2,86,2,10:50 PM,10:59,MISS L. James 13' Turnaround Fadeaway Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,210,4,0,2,10:50 PM,10:52,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,211,5,2,2,10:50 PM,10:45,L. James STEAL (2 STL),,Reid Lost Ball Turnover (P1.T7),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,213,1,41,2,10:50 PM,10:41,Reaves 3' Running Layup (7 PTS) (L. James 2 AST),,,31 - 26,-5,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,215,6,1,2,10:50 PM,10:34,Vanderbilt P.FOUL (P2.T1) (R.Acosta),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,218,6,2,2,10:51 PM,10:24,Reaves S.FOUL (P2.T2) (J.Goble),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,220,3,11,2,10:51 PM,10:24,,,DiVincenzo Free Throw 1 of 2 (4 PTS),32 - 26,-6,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,221,3,12,2,10:51 PM,10:24,,,MISS DiVincenzo Free Throw 2 of 2,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,222,4,0,2,10:51 PM,10:21,L. James REBOUND (Off:0 Def:3),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,223,1,41,2,10:52 PM,10:18,L. James 2' Running Layup (7 PTS) (Vincent 2 AST),,,32 - 28,-4,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,225,6,2,2,10:52 PM,10:18,,,McDaniels S.FOUL (P3.T2) (J.Goble),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,227,8,0,2,10:52 PM,10:18,,,SUB: Edwards FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,229,3,10,2,10:52 PM,10:18,L. James Free Throw 1 of 1 (8 PTS),,,32 - 29,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,230,2,80,2,10:53 PM,10:03,,,MISS DiVincenzo 27' 3PT Step Back Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,231,4,0,2,10:53 PM,9:59,,,Gobert REBOUND (Off:1 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,232,2,79,2,10:53 PM,9:54,,,MISS Edwards 27' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,233,4,0,2,10:53 PM,9:50,,,Gobert REBOUND (Off:2 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,234,1,87,2,10:53 PM,9:50,,,Gobert 3' Putback Dunk (11 PTS),34 - 29,-5,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,235,7,1,2,10:53 PM,9:50,,,Timberwolves Violation: Delay of game Violation,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400165,236,6,2,2,10:53 PM,9:32,,,Gobert S.FOUL (P2.T3) (J.Goble),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,238,3,11,2,10:54 PM,9:32,Vanderbilt Free Throw 1 of 2 (1 PTS),,,34 - 30,-4,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,239,3,12,2,10:54 PM,9:32,Vanderbilt Free Throw 2 of 2 (2 PTS),,,34 - 31,-3,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,240,1,6,2,10:55 PM,9:14,,,Edwards 2' Driving Layup (4 PTS),36 - 31,-5,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,241,1,1,2,10:55 PM,9:01,Hachimura 27' 3PT Jump Shot (7 PTS) (Vanderbilt 1 AST),,,36 - 34,-2,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,243,1,6,2,10:55 PM,8:44,,,Edwards 3' Driving Layup (6 PTS) (DiVincenzo 2 AST),38 - 34,-4,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,245,6,2,2,10:55 PM,8:44,Vincent S.FOUL (P1.T3) (J.Goble),,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,247,8,0,2,10:55 PM,8:44,SUB: Doncic FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,249,8,0,2,10:56 PM,8:44,SUB: Finney-Smith FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,251,3,10,2,10:56 PM,8:44,,,MISS Edwards Free Throw 1 of 1,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,252,4,0,2,10:56 PM,8:42,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,254,8,0,2,10:56 PM,8:42,,,SUB: Alexander-Walker FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,256,6,1,2,10:56 PM,8:41,Hachimura P.FOUL (P1.T4) (J.Goble),,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,258,1,1,2,10:57 PM,8:29,,,Conley 3PT Jump Shot (3 PTS) (Reid 2 AST),41 - 34,-7,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,260,5,40,2,10:57 PM,8:14,Reaves Out of Bounds Lost Ball Turnover (P3.T7),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042400165,261,2,1,2,10:58 PM,8:00,,,MISS Alexander-Walker 24' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,262,4,0,2,10:58 PM,7:56,L. James REBOUND (Off:0 Def:4),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,263,2,41,2,10:58 PM,7:53,MISS Hachimura 5' Running Layup,,Gobert BLOCK (1 BLK),,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,265,4,0,2,10:58 PM,7:50,,,Gobert REBOUND (Off:2 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,266,2,1,2,10:58 PM,7:35,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,267,4,0,2,10:58 PM,7:30,Doncic REBOUND (Off:0 Def:4),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,268,1,1,2,10:58 PM,7:15,Hachimura 3PT Jump Shot (10 PTS) (Doncic 3 AST),,,41 - 37,-4,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,270,1,1,2,10:59 PM,7:01,,,Alexander-Walker 24' 3PT Jump Shot (8 PTS) (Edwards 2 AST),44 - 37,-7,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,272,9,1,2,10:59 PM,6:53,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,273,8,0,2,11:02 PM,6:53,SUB: Vanderbilt FOR L. James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,274,8,0,2,11:02 PM,6:53,,,SUB: DiVincenzo FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,277,1,44,2,11:03 PM,6:41,Finney-Smith 2' Reverse Layup (4 PTS) (Vanderbilt 2 AST),,,44 - 39,-5,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,279,2,79,2,11:03 PM,6:15,,,MISS Edwards 26' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,280,4,0,2,11:03 PM,6:11,Vanderbilt REBOUND (Off:0 Def:3),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,281,1,80,2,11:03 PM,6:04,Doncic 10' Step Back Jump Shot (8 PTS),,,44 - 41,-3,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,282,2,1,2,11:04 PM,5:43,,,MISS DiVincenzo 24' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,283,4,0,2,11:04 PM,5:40,,,Gobert REBOUND (Off:3 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,284,2,97,2,11:04 PM,5:40,,,MISS Gobert Tip Layup Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,285,4,0,2,11:04 PM,5:40,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,290,2,5,2,11:05 PM,5:28,,,MISS Gobert 5' Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,292,4,0,2,11:05 PM,5:27,,,Gobert REBOUND (Off:4 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0042400165,287,2,72,2,11:05 PM,5:26,Hachimura BLOCK (1 BLK),,MISS Gobert 4' Putback Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,1
+0042400165,289,4,0,2,11:05 PM,5:26,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,293,5,11,2,11:05 PM,5:26,,,Timberwolves Turnover: Shot Clock (T#8),,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400165,294,2,1,2,11:05 PM,5:15,MISS Hachimura 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,295,4,0,2,11:05 PM,5:11,,,Edwards REBOUND (Off:1 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,296,1,1,2,11:05 PM,5:05,,,DiVincenzo 3PT Jump Shot (7 PTS) (Edwards 3 AST),47 - 41,-6,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,298,5,2,2,11:05 PM,4:48,Reaves Lost Ball Turnover (P4.T8),,Edwards STEAL (1 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,300,2,1,2,11:06 PM,4:34,,,MISS DiVincenzo 32' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,301,4,0,2,11:06 PM,4:30,Vanderbilt REBOUND (Off:0 Def:4),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,302,2,103,2,11:06 PM,4:28,MISS Doncic 28' 3PT Running Pull-Up Jump Shot,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,303,4,0,2,11:06 PM,4:21,Hachimura REBOUND (Off:2 Def:0),,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,304,5,1,2,11:06 PM,4:21,Hachimura Bad Pass Turnover (P1.T9),,DiVincenzo STEAL (2 STL),,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,306,6,2,2,11:06 PM,4:21,Finney-Smith S.FOUL (P2.PN) (R.Acosta),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,308,7,1,2,11:06 PM,4:21,LAKERS Violation: Delay of game Violation,,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400165,309,3,11,2,11:06 PM,4:21,,,Edwards Free Throw 1 of 2 (7 PTS),48 - 41,-7,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,316,3,12,2,11:06 PM,4:21,,,Edwards Free Throw 2 of 2 (8 PTS),49 - 41,-8,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,310,8,0,2,11:06 PM,4:21,SUB: Vincent FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,311,8,0,2,11:06 PM,4:21,SUB: L. James FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,312,8,0,2,11:06 PM,4:21,,,SUB: Conley FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,317,1,80,2,11:07 PM,4:08,Doncic 16' Step Back Jump Shot (10 PTS),,,49 - 43,-6,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,318,1,52,2,11:08 PM,3:43,,,Gobert Alley Oop Dunk (13 PTS) (Alexander-Walker 2 AST),51 - 43,-8,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,320,5,1,2,11:08 PM,3:25,L. James Bad Pass Turnover (P3.T10),,Edwards STEAL (2 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,322,6,1,2,11:08 PM,3:25,Vanderbilt P.FOUL (P3.PN) (R.Acosta),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,324,3,11,2,11:09 PM,3:25,,,Edwards Free Throw 1 of 2 (9 PTS),52 - 43,-9,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,325,8,0,2,11:09 PM,3:25,SUB: Reaves FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,327,3,12,2,11:09 PM,3:25,,,Edwards Free Throw 2 of 2 (10 PTS),53 - 43,-10,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,328,2,1,2,11:09 PM,3:02,MISS Reaves 29' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,329,4,0,2,11:09 PM,2:59,,,Conley REBOUND (Off:0 Def:2),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,330,2,1,2,11:10 PM,2:46,,,MISS DiVincenzo 26' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,331,4,0,2,11:10 PM,2:44,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,332,6,3,2,11:10 PM,2:44,,,Alexander-Walker L.B.FOUL (P1.T4) (J.Goble),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,334,9,1,2,11:10 PM,2:44,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,335,2,1,2,11:14 PM,2:30,MISS Reaves 26' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,336,4,0,2,11:14 PM,2:26,,,Gobert REBOUND (Off:4 Def:4),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,339,2,1,2,11:15 PM,2:07,,,MISS Alexander-Walker 27' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,340,4,0,2,11:15 PM,2:02,Doncic REBOUND (Off:0 Def:5),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,341,1,9,2,11:15 PM,1:57,L. James 2' Driving Dunk (10 PTS) (Doncic 4 AST),,,53 - 45,-8,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,343,1,7,2,11:15 PM,1:40,,,Gobert 2' Dunk (15 PTS) (DiVincenzo 3 AST),55 - 45,-10,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,345,1,6,2,11:16 PM,1:20,Reaves 2' Driving Layup (9 PTS) (L. James 3 AST),,,55 - 47,-8,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,347,10,0,2,11:16 PM,1:11,Jump Ball Finney-Smith vs. Conley: Tip to L. James,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0042400165,350,5,2,2,11:16 PM,1:11,Finney-Smith STEAL (1 STL),,Conley Lost Ball Turnover (P1.T9),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,352,6,2,2,11:17 PM,1:01,,,DiVincenzo S.FOUL (P1.PN) (J.Williams),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,354,18,3,2,11:17 PM,1:01,,Instant Replay2nd Period (11:17 PM EST),,55 - 47,-8,0,352,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400165,355,3,11,2,11:20 PM,1:01,Doncic Free Throw 1 of 2 (11 PTS),,,55 - 48,-7,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,356,3,12,2,11:20 PM,1:01,Doncic Free Throw 2 of 2 (12 PTS),,,55 - 49,-6,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,357,6,31,2,11:20 PM,1:00,Vincent Transition Take Foul (P2.PN) (J.Williams),,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0042400165,359,3,10,2,11:21 PM,1:00,,,MISS Edwards Free Throw 1 of 1,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,363,4,0,2,11:21 PM,1:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,361,8,0,2,11:21 PM,1:00,SUB: Hachimura FOR Doncic,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,364,1,44,2,11:21 PM,0:44,,,DiVincenzo 2' Reverse Layup (9 PTS) (Edwards 4 AST),57 - 49,-8,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,366,2,80,2,11:22 PM,0:36,MISS Reaves 28' 3PT Step Back Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,367,4,0,2,11:22 PM,0:33,,,Edwards REBOUND (Off:1 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,368,1,73,2,11:22 PM,0:22,,,Alexander-Walker 1' Driving Reverse Layup (10 PTS) (Edwards 5 AST),59 - 49,-10,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,370,2,101,2,11:22 PM,0:01,MISS L. James 8' Driving Floating Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,371,4,0,2,11:22 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,372,13,0,2,11:22 PM,0:00,,End of 2nd Period (11:22 PM EST),,59 - 49,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,379,12,0,3,11:39 PM,12:00,,Start of 3rd Period (11:39 PM EST),,59 - 49,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,380,1,1,3,11:39 PM,11:43,L. James 15' Jump Shot (12 PTS) (Doncic 5 AST),,,59 - 51,-8,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,382,2,80,3,11:39 PM,11:29,,,MISS Randle 26' 3PT Step Back Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,383,4,0,3,11:39 PM,11:27,Doncic REBOUND (Off:0 Def:6),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,384,5,1,3,11:40 PM,11:24,Doncic Bad Pass Turnover (P2.T11),,McDaniels STEAL (1 STL),,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,386,2,103,3,11:40 PM,11:19,,,MISS Edwards 28' 3PT Running Pull-Up Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,387,4,0,3,11:40 PM,11:19,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,388,6,3,3,11:40 PM,11:19,,,Gobert L.B.FOUL (P3.T1) (J.Goble),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,390,1,108,3,11:40 PM,10:57,L. James Cutting Dunk Shot (14 PTS) (Finney-Smith 1 AST),,,59 - 53,-6,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,392,2,79,3,11:40 PM,10:41,,,MISS Edwards 28' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,393,4,0,3,11:41 PM,10:40,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,395,2,1,3,11:41 PM,10:20,MISS Reaves 28' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,396,4,0,3,11:41 PM,10:15,,,Conley REBOUND (Off:0 Def:3),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,397,6,2,3,11:41 PM,10:12,Reaves S.FOUL (P3.T1) (J.Goble),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,399,3,11,3,11:41 PM,10:12,,,McDaniels Free Throw 1 of 2 (3 PTS),60 - 53,-7,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,400,3,12,3,11:42 PM,10:12,,,McDaniels Free Throw 2 of 2 (4 PTS),61 - 53,-8,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,401,2,63,3,11:42 PM,10:02,MISS Doncic 14' Fadeaway Jumper,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,402,4,0,3,11:42 PM,9:58,Reaves REBOUND (Off:1 Def:0),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,403,5,1,3,11:42 PM,9:57,Reaves Bad Pass Turnover (P5.T12),,Edwards STEAL (3 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,405,9,1,3,11:42 PM,9:57,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,406,6,2,3,11:46 PM,9:41,L. James S.FOUL (P1.T2) (J.Williams),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,408,3,11,3,11:47 PM,9:41,,,Gobert Free Throw 1 of 2 (16 PTS),62 - 53,-9,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,409,3,12,3,11:47 PM,9:41,,,MISS Gobert Free Throw 2 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,410,4,0,3,11:47 PM,9:37,Finney-Smith REBOUND (Off:0 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,411,1,80,3,11:47 PM,9:22,Doncic 28' 3PT Step Back Jump Shot (15 PTS),,,62 - 56,-6,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,412,2,1,3,11:48 PM,9:00,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,413,4,0,3,11:48 PM,8:55,Finney-Smith REBOUND (Off:0 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,415,2,1,3,11:48 PM,8:46,MISS Reaves 24' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,416,4,0,3,11:48 PM,8:43,,,Gobert REBOUND (Off:4 Def:5),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,417,1,6,3,11:48 PM,8:36,,,McDaniels 7' Driving Layup (6 PTS) (Conley 2 AST),64 - 56,-8,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,419,1,1,3,11:48 PM,8:21,Hachimura 25' 3PT Jump Shot (13 PTS) (Reaves 1 AST),,,64 - 59,-5,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,421,1,108,3,11:49 PM,8:05,,,Gobert 1' Cutting Dunk Shot (18 PTS) (Randle 4 AST),66 - 59,-7,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,423,1,98,3,11:49 PM,7:52,L. James 3' Cutting Layup Shot (16 PTS) (Reaves 2 AST),,,66 - 61,-5,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,425,6,2,3,11:49 PM,7:52,,,Gobert S.FOUL (P4.T2) (R.Acosta),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,427,3,10,3,11:49 PM,7:52,MISS L. James Free Throw 1 of 1,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,428,4,0,3,11:49 PM,7:48,,,Gobert REBOUND (Off:4 Def:6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,429,6,1,3,11:50 PM,7:33,Finney-Smith P.FOUL (P3.T3) (J.Goble),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,438,2,1,3,11:50 PM,7:22,,,MISS Randle 25' 3PT Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,439,4,0,3,11:50 PM,7:22,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,433,9,1,3,11:51 PM,7:22,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,434,18,5,3,11:51 PM,7:22,,Instant Replay3rd Period (11:51 PM EST),,66 - 61,-5,0,431,Shawn Kemp,,,,,0,0,,,,,,1,0,,,,,,1
+0042400165,435,10,1,3,11:55 PM,7:22,Jump Ball (CC) Hachimura vs. Gobert: Tip to McDaniels,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,440,1,57,3,11:55 PM,6:59,,,Edwards 9' Driving Hook Shot (12 PTS),68 - 61,-7,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,441,1,101,3,11:56 PM,6:43,Doncic 7' Driving Floating Jump Shot (17 PTS),,,68 - 63,-5,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,442,6,2,3,11:56 PM,6:30,Doncic S.FOUL (P3.T4) (J.Williams),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,444,3,11,3,11:56 PM,6:30,,,Conley Free Throw 1 of 2 (4 PTS),69 - 63,-6,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,445,3,12,3,11:57 PM,6:30,,,Conley Free Throw 2 of 2 (5 PTS),70 - 63,-7,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,446,2,79,3,11:57 PM,6:05,MISS Hachimura 18' Pullup Jump Shot,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,447,4,0,3,11:57 PM,6:01,Finney-Smith REBOUND (Off:1 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,448,1,1,3,11:57 PM,5:57,Hachimura 25' 3PT Jump Shot (16 PTS) (L. James 4 AST),,,70 - 66,-4,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,450,2,102,3,11:58 PM,5:36,,,MISS Randle 6' Driving Floating Bank Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,451,4,0,3,11:58 PM,5:32,,,Gobert REBOUND (Off:5 Def:6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,452,1,107,3,11:58 PM,5:32,,,Gobert Tip Dunk Shot (20 PTS),72 - 66,-6,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,453,1,6,3,11:58 PM,5:24,Doncic 3' Driving Layup (19 PTS) (Finney-Smith 2 AST),,,72 - 68,-4,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,455,6,1,3,11:58 PM,5:04,Finney-Smith P.FOUL (P4.PN) (J.Goble),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,457,3,11,3,11:59 PM,5:04,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,458,4,1,3,11:59 PM,5:04,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,459,8,0,3,11:59 PM,5:04,SUB: Vincent FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,460,8,0,3,11:59 PM,5:04,,,SUB: Reid FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,461,8,0,3,11:59 PM,5:04,,,SUB: DiVincenzo FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,465,3,12,3,11:59 PM,5:04,,,Edwards Free Throw 2 of 2 (13 PTS),73 - 68,-5,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,466,6,1,3,12:00 AM,4:51,,,McDaniels P.FOUL (P4.T3) (R.Acosta),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,468,8,0,3,12:00 AM,4:51,,,SUB: Alexander-Walker FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,470,2,80,3,12:00 AM,4:39,MISS Doncic 27' 3PT Step Back Jump Shot,,Reid BLOCK (3 BLK),,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,472,4,0,3,12:00 AM,4:35,,,Edwards REBOUND (Off:1 Def:5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,473,2,6,3,12:01 AM,4:30,,,MISS Edwards 4' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,474,4,0,3,12:01 AM,4:28,Doncic REBOUND (Off:0 Def:7),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,475,6,2,3,12:01 AM,4:20,,,Reid S.FOUL (P2.T4) (J.Goble),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,477,3,11,3,12:01 AM,4:20,Doncic Free Throw 1 of 2 (20 PTS),,,73 - 69,-4,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,478,8,0,3,12:01 AM,4:20,SUB: Vanderbilt FOR L. James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,480,3,12,3,12:02 AM,4:20,Doncic Free Throw 2 of 2 (21 PTS),,,73 - 70,-3,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,481,1,6,3,12:02 AM,4:10,,,Randle 2' Driving Layup (10 PTS) (DiVincenzo 4 AST),75 - 70,-5,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,483,2,1,3,12:02 AM,3:57,MISS Finney-Smith 27' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,484,4,0,3,12:02 AM,3:53,Vanderbilt REBOUND (Off:1 Def:4),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,485,1,63,3,12:02 AM,3:52,Doncic 3PT Fadeaway Jumper (24 PTS) (Vanderbilt 3 AST),,,75 - 73,-2,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,487,1,86,3,12:03 AM,3:39,,,Randle 9' Turnaround Fadeaway (12 PTS) (DiVincenzo 5 AST),77 - 73,-4,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,489,2,63,3,12:03 AM,3:21,MISS Doncic 8' Fadeaway Jumper,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,490,4,0,3,12:03 AM,3:18,,,Randle REBOUND (Off:2 Def:2),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,491,2,80,3,12:03 AM,3:14,,,MISS Edwards 3PT Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,492,4,0,3,12:03 AM,3:10,Vanderbilt REBOUND (Off:1 Def:5),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,493,1,106,3,12:03 AM,3:06,Hachimura 1' Running Alley Oop Dunk Shot (18 PTS) (Doncic 6 AST),,,77 - 75,-2,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,495,2,1,3,12:03 AM,2:53,,,MISS DiVincenzo 27' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,496,4,0,3,12:03 AM,2:49,Finney-Smith REBOUND (Off:1 Def:3),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,497,1,1,3,12:04 AM,2:38,Finney-Smith 27' 3PT Jump Shot (7 PTS) (Doncic 7 AST),,,77 - 78,1,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,499,2,73,3,12:04 AM,2:16,,,MISS Edwards 6' Driving Reverse Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,500,4,0,3,12:04 AM,2:14,Vanderbilt REBOUND (Off:1 Def:6),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,501,6,1,3,12:04 AM,2:09,,,DiVincenzo P.FOUL (P2.PN) (J.Goble),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,503,3,11,3,12:05 AM,2:09,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,504,4,1,3,12:05 AM,2:09,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,505,8,0,3,12:05 AM,2:09,SUB: L. James FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,506,8,0,3,12:05 AM,2:09,,,SUB: Gobert FOR Randle,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,509,3,12,3,12:06 AM,2:09,Doncic Free Throw 2 of 2 (25 PTS),,,77 - 79,2,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,510,1,108,3,12:06 AM,1:54,,,Gobert 1' Cutting Dunk Shot (22 PTS) (Alexander-Walker 3 AST),79 - 79,TIE,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,512,2,80,3,12:06 AM,1:36,MISS Doncic 27' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,513,4,0,3,12:06 AM,1:31,,,Gobert REBOUND (Off:5 Def:7),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,514,2,101,3,12:06 AM,1:19,,,MISS Alexander-Walker 16' Driving Floating Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,515,4,0,3,12:07 AM,1:16,Vincent REBOUND (Off:0 Def:2),,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,516,6,1,3,12:07 AM,1:11,,,Alexander-Walker P.FOUL (P2.PN) (J.Williams),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,518,3,11,3,12:07 AM,1:11,L. James Free Throw 1 of 2 (17 PTS),,,79 - 80,1,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0042400165,521,3,12,3,12:07 AM,1:11,MISS L. James Free Throw 2 of 2,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,519,8,0,3,12:07 AM,1:11,SUB: Reaves FOR Doncic,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,522,4,0,3,12:07 AM,1:08,,,Gobert REBOUND (Off:5 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,523,5,45,3,12:08 AM,0:58,,,Alexander-Walker Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042400165,524,2,1,3,12:08 AM,0:50,MISS L. James 26' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,525,4,0,3,12:08 AM,0:46,L. James REBOUND (Off:1 Def:4),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,526,2,105,3,12:08 AM,0:34,MISS L. James 6' Turnaround Fadeaway Bank Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,527,4,0,3,12:08 AM,0:31,,,Gobert REBOUND (Off:5 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,528,2,6,3,12:09 AM,0:21,,,MISS Edwards 4' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,529,4,0,3,12:09 AM,0:20,,,Gobert REBOUND (Off:6 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,530,1,72,3,12:09 AM,0:19,,,Gobert 5' Putback Layup (24 PTS),81 - 80,-1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,531,2,79,3,12:09 AM,0:02,MISS Reaves 26' 3PT Pullup Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,532,4,0,3,12:09 AM,0:00,,,Gobert REBOUND (Off:6 Def:10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,533,13,0,3,12:09 AM,0:00,,End of 3rd Period (12:09 AM EST),,81 - 80,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,540,12,0,4,12:13 AM,12:00,,Start of 4th Period (12:13 AM EST),,81 - 80,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,541,2,86,4,12:13 AM,11:39,,,MISS Randle 9' Turnaround Fadeaway Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,542,4,0,4,12:13 AM,11:37,Reaves REBOUND (Off:1 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,543,2,1,4,12:13 AM,11:27,MISS Finney-Smith 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,544,4,0,4,12:13 AM,11:24,,,DiVincenzo REBOUND (Off:1 Def:3),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,545,6,2,4,12:13 AM,11:22,Reaves S.FOUL (P4.T1) (J.Williams),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,547,3,11,4,12:14 AM,11:22,,,Reid Free Throw 1 of 2 (3 PTS),82 - 80,-2,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,548,3,12,4,12:14 AM,11:22,,,MISS Reid Free Throw 2 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,549,4,0,4,12:14 AM,11:20,Reaves REBOUND (Off:1 Def:2),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,550,1,6,4,12:14 AM,11:03,Hachimura 3' Driving Layup (20 PTS) (L. James 5 AST),,,82 - 82,TIE,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,552,2,1,4,12:15 AM,10:44,,,MISS Alexander-Walker 28' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,553,4,0,4,12:15 AM,10:41,Reaves REBOUND (Off:1 Def:3),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,554,5,2,4,12:15 AM,10:33,Reaves Lost Ball Turnover (P6.T13),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,555,6,3,4,12:15 AM,10:33,Finney-Smith L.B.FOUL (P5.T2) (J.Williams),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,557,18,0,4,12:16 AM,10:33,,Instant Replay4th Period (12:16 AM EST),,82 - 82,TIE,0,555,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400165,560,8,0,4,12:17 AM,10:33,SUB: Vanderbilt FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,558,2,96,4,12:19 AM,10:18,,,MISS Reid 16' Turnaround Bank Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,559,4,0,4,12:19 AM,10:15,L. James REBOUND (Off:1 Def:5),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,562,5,4,4,12:19 AM,10:05,Vanderbilt Traveling Turnover (P1.T14),,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042400165,563,8,0,4,12:19 AM,10:05,,,SUB: Gobert FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,565,5,4,4,12:20 AM,9:54,,,Alexander-Walker Traveling Turnover (P3.T11),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042400165,566,2,79,4,12:20 AM,9:32,MISS Hachimura 12' Pullup Jump Shot,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,567,4,0,4,12:20 AM,9:29,,,Gobert REBOUND (Off:6 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,568,1,86,4,12:21 AM,9:15,,,Randle 12' Turnaround Fadeaway (14 PTS),84 - 82,-2,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,570,8,0,4,12:21 AM,9:00,SUB: Doncic FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,571,8,0,4,12:21 AM,9:00,,,SUB: McDaniels FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,574,9,1,4,12:21 AM,9:00,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,575,18,6,4,12:21 AM,9:00,,Instant Replay4th Period (12:21 AM EST),,84 - 82,-2,0,569,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400165,576,2,79,4,12:25 AM,8:54,MISS L. James 3PT Pullup Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,577,4,0,4,12:25 AM,8:52,,,Conley REBOUND (Off:0 Def:4),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,578,2,1,4,12:25 AM,8:42,,,MISS DiVincenzo 27' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,579,4,0,4,12:25 AM,8:39,,,Gobert REBOUND (Off:7 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,580,6,4,4,12:25 AM,8:39,,,DiVincenzo OFF.Foul (P3) (R.Acosta),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,582,5,37,4,12:25 AM,8:39,,,DiVincenzo Offensive Foul Turnover (P3.T12),,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0042400165,583,8,0,4,12:26 AM,8:39,SUB: Hachimura FOR L. James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,584,8,0,4,12:26 AM,8:39,,,SUB: Edwards FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,587,1,79,4,12:27 AM,8:20,Reaves 28' 3PT Pullup Jump Shot (12 PTS),,,84 - 85,1,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,588,6,2,4,12:27 AM,8:00,Doncic S.FOUL (P4.T3) (J.Williams),,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,590,3,11,4,12:28 AM,8:00,,,Randle Free Throw 1 of 2 (15 PTS),85 - 85,TIE,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,591,3,12,4,12:28 AM,8:00,,,Randle Free Throw 2 of 2 (16 PTS),86 - 85,-1,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,592,2,1,4,12:29 AM,7:43,MISS Hachimura 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,593,4,0,4,12:29 AM,7:40,,,Edwards REBOUND (Off:1 Def:6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,594,2,79,4,12:29 AM,7:25,,,MISS Edwards 26' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,595,4,0,4,12:29 AM,7:23,,,Gobert REBOUND (Off:8 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,596,6,2,4,12:29 AM,7:23,Hachimura S.FOUL (P2.T4) (J.Goble),,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,598,3,11,4,12:30 AM,7:23,,,MISS Gobert Free Throw 1 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,599,4,1,4,12:30 AM,7:23,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,600,8,0,4,12:30 AM,7:23,SUB: L. James FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,602,3,12,4,12:30 AM,7:23,,,Gobert Free Throw 2 of 2 (25 PTS),87 - 85,-2,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,603,6,2,4,12:30 AM,7:10,,,McDaniels S.FOUL (P5.T1) (J.Goble),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,605,3,11,4,12:31 AM,7:10,Doncic Free Throw 1 of 2 (26 PTS),,,87 - 86,-1,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,606,3,12,4,12:31 AM,7:10,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0042400165,607,4,0,4,12:31 AM,7:07,,,Gobert REBOUND (Off:8 Def:12),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0042400165,608,2,101,4,12:31 AM,6:55,,,MISS Conley 9' Driving Floating Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,609,4,0,4,12:31 AM,6:51,Hachimura REBOUND (Off:2 Def:1),,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,610,2,5,4,12:32 AM,6:43,MISS Vanderbilt 5' Layup,,Gobert BLOCK (2 BLK),,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0042400165,612,4,0,4,12:32 AM,6:43,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,614,8,0,4,12:32 AM,6:43,SUB: Finney-Smith FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612747.0,Los Angeles,Lakers,LAL,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,616,1,63,4,12:32 AM,6:29,Doncic 10' Fadeaway Jumper (28 PTS),,,87 - 88,1,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,617,2,101,4,12:33 AM,6:07,,,MISS Randle 8' Driving Floating Jump Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,618,4,0,4,12:33 AM,6:07,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,619,6,3,4,12:33 AM,6:07,Finney-Smith L.B.FOUL (P6.PN) (J.Goble),,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,622,8,0,4,12:33 AM,6:07,SUB: Vincent FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,624,3,11,4,12:33 AM,6:07,,,McDaniels Free Throw 1 of 2 (7 PTS),88 - 88,TIE,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,625,8,0,4,12:33 AM,6:07,,,SUB: DiVincenzo FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,627,3,12,4,12:34 AM,6:07,,,McDaniels Free Throw 2 of 2 (8 PTS),89 - 88,-1,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,628,2,86,4,12:34 AM,5:46,MISS L. James 11' Turnaround Fadeaway Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,629,4,0,4,12:34 AM,5:43,,,Edwards REBOUND (Off:1 Def:7),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,630,2,80,4,12:34 AM,5:39,,,MISS DiVincenzo 26' 3PT Step Back Jump Shot,,,5,1628978,Donte DiVincenzo,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,631,4,0,4,12:34 AM,5:39,,,Gobert REBOUND (Off:9 Def:12),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,632,1,107,4,12:34 AM,5:36,,,Gobert Tip Dunk Shot (27 PTS),91 - 88,-3,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,633,9,1,4,12:34 AM,5:36,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,634,8,0,4,12:37 AM,5:36,SUB: Kleber FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,636,2,1,4,12:38 AM,5:20,MISS Kleber 25' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,637,4,0,4,12:38 AM,5:16,L. James REBOUND (Off:2 Def:5),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,638,2,63,4,12:38 AM,5:14,MISS L. James 15' Fadeaway Jumper,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,639,4,0,4,12:38 AM,5:12,,,Edwards REBOUND (Off:1 Def:8),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,640,2,1,4,12:38 AM,4:56,,,MISS McDaniels 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,641,4,0,4,12:38 AM,4:54,Reaves REBOUND (Off:1 Def:4),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,642,2,1,4,12:39 AM,4:34,MISS Doncic 28' 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,643,4,0,4,12:39 AM,4:29,Hachimura REBOUND (Off:3 Def:1),,,,,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,644,2,1,4,12:39 AM,4:28,MISS L. James 27' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,645,4,0,4,12:39 AM,4:28,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,646,6,3,4,12:39 AM,4:28,,,McDaniels L.B.FOUL (P6.T2) (J.Goble),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,648,8,0,4,12:39 AM,4:28,,,SUB: Alexander-Walker FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,650,6,1,4,12:40 AM,4:25,,,Alexander-Walker P.FOUL (P3.T3) (R.Acosta),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,652,5,39,4,12:40 AM,4:19,Kleber Step Out of Bounds Turnover (P1.T15),,,,,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0042400165,653,2,1,4,12:41 AM,4:00,,,MISS Alexander-Walker 27' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,654,4,0,4,12:41 AM,3:56,,,Randle REBOUND (Off:3 Def:2),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,655,2,80,4,12:41 AM,3:47,,,MISS Edwards 28' 3PT Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,656,4,0,4,12:41 AM,3:42,,,Edwards REBOUND (Off:2 Def:8),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,657,1,101,4,12:41 AM,3:29,,,Randle 7' Driving Floating Jump Shot (18 PTS) (Edwards 6 AST),93 - 88,-5,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,659,9,1,4,12:41 AM,3:27,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,660,8,0,4,12:43 AM,3:27,SUB: Vincent FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612747.0,Los Angeles,Lakers,LAL,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0042400165,663,1,1,4,12:44 AM,3:08,L. James 3PT Jump Shot (20 PTS) (Doncic 8 AST),,,93 - 91,-2,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,665,9,1,4,12:44 AM,3:01,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,666,8,0,4,12:45 AM,3:01,,,SUB: Conley FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,668,1,6,4,12:46 AM,2:45,,,Randle 5' Driving Layup (20 PTS) (Edwards 7 AST),95 - 91,-4,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,670,2,6,4,12:46 AM,2:29,MISS Doncic 4' Driving Layup,,,,,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,671,4,0,4,12:46 AM,2:26,,,Gobert REBOUND (Off:9 Def:13),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,672,1,76,4,12:46 AM,2:22,,,Edwards 4' Running Finger Roll Layup (15 PTS) (Conley 3 AST),97 - 91,-6,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,674,2,80,4,12:46 AM,2:09,MISS L. James 25' 3PT Step Back Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,675,4,0,4,12:46 AM,2:05,,,Edwards REBOUND (Off:2 Def:9),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,676,2,79,4,12:46 AM,1:53,,,MISS Edwards 25' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,677,4,0,4,12:46 AM,1:51,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,679,1,1,4,12:47 AM,1:42,Hachimura 26' 3PT Jump Shot (23 PTS) (L. James 6 AST),,,97 - 94,-3,4,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,681,1,1,4,12:47 AM,1:22,,,Conley 3PT Jump Shot (8 PTS) (Edwards 8 AST),100 - 94,-6,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0042400165,683,2,6,4,12:47 AM,1:10,MISS Reaves 3' Driving Layup,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,684,4,0,4,12:47 AM,1:08,,,Gobert REBOUND (Off:9 Def:14),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,685,2,66,4,12:48 AM,0:51,,,MISS Randle 27' 3PT Jump Bank Shot,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,686,4,0,4,12:48 AM,0:47,Vincent REBOUND (Off:0 Def:3),,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,687,2,2,4,12:48 AM,0:43,MISS Vincent 26' 3PT Running Jump Shot,,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0042400165,688,4,0,4,12:48 AM,0:39,,,Gobert REBOUND (Off:9 Def:15),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,689,6,28,4,12:48 AM,0:38,L. James Personal Take Foul (P2.PN) (J.Williams),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,691,3,11,4,12:49 AM,0:38,,,Randle Free Throw 1 of 2 (21 PTS),101 - 94,-7,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,692,8,0,4,12:49 AM,0:38,,,SUB: Alexander-Walker FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,693,8,0,4,12:49 AM,0:38,,,SUB: Reid FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0042400165,696,3,12,4,12:49 AM,0:38,,,Randle Free Throw 2 of 2 (22 PTS),102 - 94,-8,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,697,9,1,4,12:49 AM,0:38,LAKERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400165,698,6,1,4,12:51 AM,0:37,,,Randle P.FOUL (P4.T4) (J.Williams),,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0042400165,700,1,6,4,12:51 AM,0:33,L. James 1' Driving Layup (22 PTS) (Doncic 9 AST),,,102 - 96,-6,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629029,Luka Dončić,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0042400165,702,6,28,4,12:52 AM,0:22,Vincent Personal Take Foul (P3.PN) (R.Acosta),,,,,4,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0042400165,704,3,11,4,12:52 AM,0:22,,,Randle Free Throw 1 of 2 (23 PTS),103 - 96,-7,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,705,3,12,4,12:52 AM,0:22,,,MISS Randle Free Throw 2 of 2,,,5,203944,Julius Randle,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,706,4,0,4,12:52 AM,0:18,,,Reid REBOUND (Off:1 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0042400165,707,5,11,4,12:53 AM,0:07,,,Timberwolves Turnover: Shot Clock (T#13),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400165,708,13,0,4,12:53 AM,0:00,,End of 4th Period (12:53 AM EST),,103 - 96,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

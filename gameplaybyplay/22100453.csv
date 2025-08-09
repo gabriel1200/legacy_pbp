@@ -1,0 +1,475 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100453,2,12,0,1,8:12 PM,12:00,,Start of 1st Period (8:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,4,10,0,1,8:12 PM,12:00,Jump Ball Aldridge vs. Jokic: Tip to Edwards,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1
+0022100453,7,1,1,1,8:12 PM,11:40,Aldridge 20' Jump Shot (2 PTS) (Bembry 1 AST),,,0 - 2,2,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,9,1,1,1,8:12 PM,11:19,,,Barton 25' 3PT Jump Shot (3 PTS) (Jokic 1 AST),3 - 2,-1,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,11,2,1,1,8:13 PM,11:03,MISS Aldridge 25' 3PT Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,12,4,0,1,8:13 PM,11:01,,,Morris REBOUND (Off:0 Def:1),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,14,1,1,1,8:14 PM,10:51,,,Barton 24' 3PT Jump Shot (6 PTS) (Morris 1 AST),6 - 2,-4,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,16,2,6,1,8:14 PM,10:36,MISS Johnson 1' Driving Layup,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,17,4,0,1,8:14 PM,10:35,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,20,2,80,1,8:15 PM,10:24,MISS Johnson 26' 3PT Step Back Jump Shot,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,21,4,0,1,8:15 PM,10:19,Edwards REBOUND (Off:2 Def:0),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,22,2,97,1,8:15 PM,10:19,MISS Edwards Tip Layup Shot,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,23,4,0,1,8:15 PM,10:18,Edwards REBOUND (Off:2 Def:0),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,24,1,80,1,8:15 PM,10:12,Mills 17' Step Back Jump Shot (2 PTS),,,6 - 4,-2,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,25,2,1,1,8:15 PM,9:58,,,MISS Gordon 25' 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,26,4,0,1,8:15 PM,9:54,Bembry REBOUND (Off:0 Def:1),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,27,5,2,1,8:15 PM,9:51,Johnson Lost Ball Turnover (P1.T1),,Barton STEAL (1 STL),,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,29,2,103,1,8:15 PM,9:45,,,MISS Barton 25' 3PT Running Pull-Up Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,30,4,0,1,8:15 PM,9:40,Johnson REBOUND (Off:0 Def:1),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,31,2,63,1,8:16 PM,9:30,MISS Aldridge 12' Fadeaway Jumper,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,32,4,0,1,8:16 PM,9:26,,,Barton REBOUND (Off:0 Def:1),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,33,1,7,1,8:16 PM,9:24,,,Jokic 1' Dunk (2 PTS) (Barton 1 AST),8 - 4,-4,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,35,2,1,1,8:16 PM,9:00,MISS Edwards 21' Jump Shot,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,36,4,0,1,8:16 PM,8:56,,,Barton REBOUND (Off:0 Def:2),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,37,5,1,1,8:16 PM,8:53,Mills STEAL (1 STL),,Jokic Bad Pass Turnover (P1.T1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,39,6,28,1,8:16 PM,8:53,,,Jokic Personal Take Foul (P1.T1) (S.Wright),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,41,2,1,1,8:17 PM,8:38,MISS Bembry 24' 3PT Jump Shot,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,42,4,0,1,8:17 PM,8:33,,,Gordon REBOUND (Off:0 Def:1),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,43,2,80,1,8:17 PM,8:26,,,MISS Gordon 24' 3PT Step Back Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,44,4,0,1,8:17 PM,8:24,Aldridge REBOUND (Off:0 Def:1),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,45,2,1,1,8:17 PM,8:17,MISS Edwards 3PT Jump Shot,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,46,4,0,1,8:17 PM,8:13,,,Morris REBOUND (Off:0 Def:2),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,47,1,108,1,8:17 PM,8:04,,,Barton 2' Cutting Dunk Shot (8 PTS) (Jokic 2 AST),10 - 4,-6,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,50,2,1,1,8:18 PM,7:51,MISS Mills 27' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,51,4,0,1,8:18 PM,7:48,,,Gordon REBOUND (Off:0 Def:2),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,52,6,1,1,8:18 PM,7:44,Johnson P.FOUL (P1.T1) (S.Wright),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,54,1,1,1,8:18 PM,7:35,,,Jokic 26' 3PT Jump Shot (5 PTS) (Barton 2 AST),13 - 4,-9,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,56,2,57,1,8:19 PM,7:13,MISS Johnson 4' Driving Hook Shot,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,57,4,0,1,8:19 PM,7:11,,,Je. Green REBOUND (Off:0 Def:1),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,58,1,50,1,8:19 PM,7:08,,,Jokic 1' Running Dunk (7 PTS) (Barton 3 AST),15 - 4,-11,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,60,9,1,1,8:19 PM,7:08,NETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,61,6,2,1,8:22 PM,6:51,,,Jokic S.FOUL (P2.T2) (S.Wright),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,63,3,11,1,8:22 PM,6:51,Aldridge Free Throw 1 of 2 (3 PTS),,,15 - 5,-10,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,64,3,12,1,8:23 PM,6:51,Aldridge Free Throw 2 of 2 (4 PTS),,,15 - 6,-9,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,65,2,79,1,8:23 PM,6:36,,,MISS Barton 16' Pullup Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,66,4,0,1,8:23 PM,6:33,Aldridge REBOUND (Off:0 Def:2),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,67,1,57,1,8:23 PM,6:22,Bembry 6' Driving Hook Shot (2 PTS) (Mills 1 AST),,,15 - 8,-7,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,69,6,1,1,8:23 PM,6:06,Bembry P.FOUL (P1.T2) (S.Wright),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,71,1,101,1,8:24 PM,6:00,,,Morris 12' Driving Floating Jump Shot (2 PTS),17 - 8,-9,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,72,1,108,1,8:24 PM,5:47,Johnson 1' Cutting Dunk Shot (2 PTS) (Mills 2 AST),,,17 - 10,-7,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,74,2,79,1,8:24 PM,5:28,,,MISS Gordon 16' Pullup Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,75,4,0,1,8:24 PM,5:25,Edwards REBOUND (Off:2 Def:1),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,76,1,76,1,8:24 PM,5:22,Edwards 1' Running Finger Roll Layup (2 PTS),,,17 - 12,-5,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,77,6,2,1,8:25 PM,5:22,,,Gordon S.FOUL (P1.T3) (S.Wright),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,79,9,1,1,8:25 PM,5:22,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,80,8,0,1,8:25 PM,5:22,SUB: Carter FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,81,8,0,1,8:25 PM,5:22,,,SUB: Cousins FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,84,3,10,1,8:28 PM,5:22,Edwards Free Throw 1 of 1 (3 PTS),,,17 - 13,-4,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,85,2,1,1,8:28 PM,5:06,,,MISS Morris 25' 3PT Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,86,4,0,1,8:28 PM,5:02,Aldridge REBOUND (Off:0 Def:3),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,87,2,6,1,8:28 PM,4:54,MISS Bembry 4' Driving Layup,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,88,4,0,1,8:28 PM,4:51,,,Morris REBOUND (Off:0 Def:3),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,89,1,1,1,8:28 PM,4:42,,,Cousins 25' 3PT Jump Shot (3 PTS) (Morris 2 AST),20 - 13,-7,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,91,1,79,1,8:29 PM,4:23,Carter 26' 3PT Pullup Jump Shot (3 PTS) (Johnson 1 AST),,,20 - 16,-4,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,93,5,2,1,8:29 PM,4:02,Johnson STEAL (1 STL),,Cousins Lost Ball Turnover (P1.T2),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,95,2,1,1,8:29 PM,3:54,MISS Carter 26' 3PT Jump Shot,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,96,4,0,1,8:29 PM,3:50,,,Barton REBOUND (Off:0 Def:3),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,97,2,6,1,8:29 PM,3:41,Aldridge BLOCK (1 BLK),,MISS Cousins 3' Driving Layup,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1
+0022100453,99,4,0,1,8:29 PM,3:41,Bembry REBOUND (Off:0 Def:2),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,100,1,41,1,8:30 PM,3:35,Bembry 2' Running Layup (4 PTS),,,20 - 18,-2,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,101,1,1,1,8:30 PM,3:10,,,Morris 17' Jump Shot (4 PTS) (Barton 4 AST),22 - 18,-4,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,103,1,79,1,8:30 PM,2:54,Aldridge 16' Pullup Jump Shot (6 PTS),,,22 - 20,-2,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,104,2,103,1,8:30 PM,2:47,,,MISS Barton 22' Running Pull-Up Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,105,4,0,1,8:30 PM,2:47,Aldridge REBOUND (Off:0 Def:4),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,106,1,100,1,8:30 PM,2:39,Bembry Running Alley Oop Layup Shot (6 PTS) (Carter 1 AST),,,22 - 22,TIE,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,108,9,1,1,8:31 PM,2:39,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,109,8,0,1,8:31 PM,2:39,SUB: Brown FOR Edwards,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,110,8,0,1,8:31 PM,2:39,SUB: Griffin FOR Johnson,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,111,8,0,1,8:31 PM,2:39,SUB: Thomas FOR Aldridge,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,112,8,0,1,8:31 PM,2:39,SUB: Mills FOR Bembry,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,113,8,0,1,8:31 PM,2:39,,,SUB: Forbes FOR Barton,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,114,8,0,1,8:31 PM,2:39,,,SUB: Campazzo FOR Morris,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,115,8,0,1,8:31 PM,2:39,,,SUB: Nnaji FOR Je. Green,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,116,8,0,1,8:31 PM,2:39,,,SUB: Rivers FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,125,7,1,1,8:32 PM,2:39,,,Nuggets Violation: Delay of game Violation,,,3,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100453,126,2,79,1,8:33 PM,2:25,,,MISS Forbes 25' 3PT Pullup Jump Shot,,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,127,4,0,1,8:33 PM,2:21,Griffin REBOUND (Off:0 Def:1),,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,128,6,1,1,8:33 PM,2:15,,,Cousins P.FOUL (P1.T4) (S.Wright),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,130,1,79,1,8:33 PM,2:07,Thomas 17' Pullup Jump Shot (2 PTS) (Griffin 1 AST),,,22 - 24,2,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,132,6,1,1,8:33 PM,1:56,Carter P.FOUL (P1.T3) (S.Wright),,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,134,1,1,1,8:34 PM,1:47,,,Rivers 26' 3PT Jump Shot (3 PTS) (Campazzo 1 AST),25 - 24,-1,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,136,1,80,1,8:34 PM,1:34,Mills 19' Step Back Jump Shot (4 PTS),,,25 - 26,1,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,137,2,98,1,8:34 PM,1:18,,,MISS Cousins 2' Cutting Layup Shot,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,138,4,0,1,8:34 PM,1:16,Griffin REBOUND (Off:0 Def:2),,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,139,2,1,1,8:34 PM,1:12,MISS Mills 26' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,140,4,0,1,8:34 PM,1:11,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,142,6,2,1,8:35 PM,0:51,Brown S.FOUL (P1.PN) (D.Richardson),,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,144,3,11,1,8:35 PM,0:51,,,Nnaji Free Throw 1 of 2 (1 PTS),26 - 26,TIE,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,145,3,12,1,8:36 PM,0:51,,,Nnaji Free Throw 2 of 2 (2 PTS),27 - 26,-1,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100453,146,2,80,1,8:36 PM,0:34,MISS Griffin 3PT Step Back Jump Shot,,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,147,4,0,1,8:36 PM,0:30,,,Nnaji REBOUND (Off:0 Def:1),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,148,2,79,1,8:36 PM,0:24,,,MISS Rivers 24' 3PT Pullup Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,149,4,0,1,8:36 PM,0:20,Griffin REBOUND (Off:0 Def:3),,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,150,5,1,1,8:36 PM,0:09,Brown Bad Pass Turnover (P1.T2),,Cousins STEAL (1 STL),,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,152,6,1,1,8:36 PM,0:07,Brown P.FOUL (P2.PN) (R.Acosta),,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,154,3,11,1,8:37 PM,0:07,,,Campazzo Free Throw 1 of 2 (1 PTS),28 - 26,-2,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,155,8,0,1,8:37 PM,0:07,SUB: Edwards FOR Brown,,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,156,8,0,1,8:37 PM,0:07,,,SUB: Reed FOR Cousins,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,159,3,12,1,8:37 PM,0:07,,,Campazzo Free Throw 2 of 2 (2 PTS),29 - 26,-3,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,160,1,99,1,8:37 PM,0:00,Griffin 1' Cutting Finger Roll Layup Shot (2 PTS) (Mills 3 AST),,,29 - 28,-1,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,167,5,4,1,8:38 PM,0:00,,,Reed Traveling Turnover (P1.T3),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,165,2,43,1,8:39 PM,0:00,MISS Griffin 4' Alley Oop Layup,,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,166,4,0,1,8:39 PM,0:00,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,162,13,0,1,8:38 PM,0:00,,End of 1st Period (8:38 PM EST),,29 - 28,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100453,163,18,0,1,8:38 PM,0:00,,Instant Replay1st Period (8:38 PM EST),,29 - 28,-1,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100453,172,12,0,2,8:42 PM,12:00,,Start of 2nd Period (8:42 PM EST),,29 - 28,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,173,1,101,2,8:42 PM,11:44,,,Forbes 10' Driving Floating Jump Shot (2 PTS) (Campazzo 2 AST),31 - 28,-3,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,175,1,101,2,8:42 PM,11:31,Thomas 11' Driving Floating Jump Shot (4 PTS),,,31 - 30,-1,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,176,2,1,2,8:42 PM,11:13,,,MISS Cousins 25' 3PT Jump Shot,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,177,4,0,2,8:42 PM,11:10,Brown REBOUND (Off:0 Def:1),,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,178,2,73,2,8:43 PM,11:03,MISS Griffin 2' Driving Reverse Layup,,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,179,4,0,2,8:43 PM,11:03,Griffin REBOUND (Off:1 Def:3),,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,180,1,97,2,8:43 PM,11:00,Griffin Tip Layup Shot (4 PTS),,,31 - 32,1,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,181,1,5,2,8:43 PM,10:43,,,Cousins 2' Layup (5 PTS) (Campazzo 3 AST),33 - 32,-1,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,183,1,79,2,8:43 PM,10:31,Mills 26' 3PT Pullup Jump Shot (7 PTS) (Griffin 2 AST),,,33 - 35,2,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,185,6,1,2,8:43 PM,10:20,Carter P.FOUL (P2.T1) (S.Wright),,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,188,1,1,2,8:44 PM,10:06,,,Cousins 25' 3PT Jump Shot (8 PTS) (Forbes 1 AST),36 - 35,-1,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,190,6,2,2,8:45 PM,9:51,,,Rivers S.FOUL (P1.T1) (D.Richardson),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,192,3,11,2,8:45 PM,9:51,Mills Free Throw 1 of 2 (8 PTS),,,36 - 36,TIE,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,193,3,12,2,8:45 PM,9:51,Mills Free Throw 2 of 2 (9 PTS),,,36 - 37,1,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,194,2,1,2,8:46 PM,9:35,,,MISS Nnaji 24' 3PT Jump Shot,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,195,4,0,2,8:46 PM,9:34,,,Cousins REBOUND (Off:1 Def:0),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,196,2,72,2,8:46 PM,9:31,,,MISS Cousins Putback Layup,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,197,4,0,2,8:46 PM,9:31,,,Cousins REBOUND (Off:2 Def:0),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,198,2,72,2,8:46 PM,9:30,,,MISS Cousins 1' Putback Layup,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,199,4,0,2,8:46 PM,9:30,,,Cousins REBOUND (Off:3 Def:0),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,200,1,97,2,8:46 PM,9:26,,,Cousins Tip Layup Shot (10 PTS),38 - 37,-1,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,201,2,79,2,8:46 PM,9:21,MISS Mills 26' 3PT Pullup Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,202,4,0,2,8:46 PM,9:17,,,Cousins REBOUND (Off:3 Def:1),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,203,1,1,2,8:46 PM,9:07,,,Forbes 25' 3PT Jump Shot (5 PTS) (Campazzo 4 AST),41 - 37,-4,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,205,2,79,2,8:46 PM,8:53,MISS Carter 24' 3PT Pullup Jump Shot,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,206,4,0,2,8:46 PM,8:51,Brown REBOUND (Off:1 Def:1),,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,207,1,79,2,8:46 PM,8:49,Carter 24' 3PT Pullup Jump Shot (6 PTS) (Brown 1 AST),,,41 - 40,-1,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,209,2,102,2,8:47 PM,8:24,,,MISS Cousins 6' Driving Floating Bank Jump Shot,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,210,4,0,2,8:47 PM,8:22,,,Nnaji REBOUND (Off:1 Def:1),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,211,1,72,2,8:47 PM,8:21,,,Nnaji 1' Putback Layup (4 PTS),43 - 40,-3,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,212,6,2,2,8:47 PM,8:00,,,Nnaji S.FOUL (P1.T2) (D.Richardson),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,214,3,11,2,8:48 PM,8:00,Thomas Free Throw 1 of 2 (5 PTS),,,43 - 41,-2,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,217,3,12,2,8:48 PM,8:00,Thomas Free Throw 2 of 2 (6 PTS),,,43 - 42,-1,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,215,8,0,2,8:48 PM,8:00,SUB: Johnson FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,218,1,108,2,8:48 PM,7:48,,,Nnaji 2' Cutting Dunk Shot (6 PTS) (Campazzo 5 AST),45 - 42,-3,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,220,2,79,2,8:48 PM,7:40,MISS Carter 25' 3PT Pullup Jump Shot,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,221,4,0,2,8:48 PM,7:40,,,Cousins REBOUND (Off:3 Def:2),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,222,6,2,2,8:49 PM,7:29,Carter S.FOUL (P3.T2) (R.Acosta),,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,224,3,11,2,8:49 PM,7:29,,,Cousins Free Throw 1 of 2 (11 PTS),46 - 42,-4,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,229,3,12,2,8:49 PM,7:29,,,MISS Cousins Free Throw 2 of 2,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,225,8,0,2,8:49 PM,7:29,SUB: Aldridge FOR Griffin,,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,226,8,0,2,8:49 PM,7:29,SUB: Edwards FOR Brown,,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,230,4,0,2,8:49 PM,7:26,Aldridge REBOUND (Off:0 Def:5),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,231,5,13,2,8:50 PM,7:08,Aldridge Backcourt Turnover (P1.T3),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022100453,232,8,0,2,8:50 PM,7:08,,,SUB: Jokic FOR Cousins,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,233,8,0,2,8:50 PM,7:08,,,SUB: Barton FOR Rivers,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,236,2,1,2,8:51 PM,6:54,,,MISS Barton 3PT Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,237,4,0,2,8:51 PM,6:53,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,239,9,1,2,8:51 PM,6:53,NETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,240,1,80,2,8:54 PM,6:39,Thomas 27' 3PT Step Back Jump Shot (9 PTS),,,46 - 45,-1,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,241,2,1,2,8:54 PM,6:21,,,MISS Forbes 25' 3PT Jump Shot,,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,242,4,0,2,8:54 PM,6:18,,,Nnaji REBOUND (Off:2 Def:1),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,243,2,72,2,8:54 PM,6:16,Edwards BLOCK (1 BLK),,MISS Nnaji 2' Putback Layup,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1
+0022100453,245,4,0,2,8:54 PM,6:14,Edwards REBOUND (Off:2 Def:2),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,246,1,80,2,8:54 PM,6:08,Thomas 26' 3PT Step Back Jump Shot (12 PTS),,,46 - 48,2,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,247,2,1,2,8:55 PM,5:43,,,MISS Barton 3PT Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,248,4,0,2,8:55 PM,5:41,,,Barton REBOUND (Off:1 Def:3),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,249,5,45,2,8:55 PM,5:41,,,Barton Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,250,8,0,2,8:55 PM,5:41,,,SUB: Je. Green FOR Forbes,,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,251,8,0,2,8:55 PM,5:41,,,SUB: Gordon FOR Campazzo,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,288,8,0,2,8:55 PM,5:41,,,SUB: Morris FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,254,2,79,2,8:55 PM,5:27,MISS Thomas 26' 3PT Pullup Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,255,4,0,2,8:55 PM,5:22,,,Jokic REBOUND (Off:0 Def:1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,256,1,47,2,8:55 PM,5:16,,,Gordon 9' Turnaround Jump Shot (2 PTS) (Jokic 3 AST),48 - 48,TIE,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,258,2,1,2,8:56 PM,5:04,MISS Aldridge 19' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,259,4,0,2,8:56 PM,5:01,,,Je. Green REBOUND (Off:0 Def:2),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,260,1,6,2,8:56 PM,4:51,,,Gordon 2' Driving Layup (4 PTS) (Morris 3 AST),50 - 48,-2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,262,6,1,2,8:56 PM,4:39,,,Barton P.FOUL (P1.T3) (S.Wright),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,264,8,0,2,8:56 PM,4:39,SUB: Bembry FOR Thomas,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,268,1,108,2,8:57 PM,4:32,Aldridge 1' Cutting Dunk Shot (8 PTS) (Johnson 2 AST),,,50 - 50,TIE,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,270,2,79,2,8:57 PM,4:16,,,MISS Morris 16' Pullup Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,271,4,0,2,8:57 PM,4:13,Johnson REBOUND (Off:0 Def:2),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,272,1,1,2,8:57 PM,4:01,Carter 3PT Jump Shot (9 PTS) (Bembry 2 AST),,,50 - 53,3,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,274,1,79,2,8:57 PM,3:41,,,Barton 12' Pullup Jump Shot (10 PTS),52 - 53,1,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,275,5,1,2,8:58 PM,3:26,Edwards Bad Pass Turnover (P1.T4),,Morris STEAL (1 STL),,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,277,5,2,2,8:58 PM,3:23,Bembry STEAL (1 STL),,Barton Lost Ball Turnover (P2.T5),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,279,1,9,2,8:58 PM,3:17,Edwards 1' Driving Dunk (5 PTS) (Bembry 3 AST),,,52 - 55,3,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,281,2,1,2,8:58 PM,2:57,,,MISS Je. Green 24' 3PT Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,282,4,0,2,8:58 PM,2:54,Edwards REBOUND (Off:2 Def:3),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,283,1,78,2,8:58 PM,2:45,Aldridge 12' Floating Jump Shot (10 PTS) (Carter 2 AST),,,52 - 57,5,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,285,6,2,2,8:58 PM,2:45,,,Je. Green S.FOUL (P1.T4) (R.Acosta),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,287,9,1,2,8:59 PM,2:45,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,290,3,10,2,9:02 PM,2:45,Aldridge Free Throw 1 of 1 (11 PTS),,,52 - 58,6,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,291,6,1,2,9:02 PM,2:33,Carter P.FOUL (P4.T3) (R.Acosta),,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,293,8,0,2,9:02 PM,2:33,SUB: Mills FOR Carter,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,295,2,1,2,9:02 PM,2:26,,,MISS Morris 3PT Jump Shot,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,296,4,0,2,9:02 PM,2:23,Johnson REBOUND (Off:0 Def:3),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,297,2,3,2,9:02 PM,2:12,MISS Aldridge 8' Hook Shot,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,298,4,0,2,9:03 PM,2:10,,,Jokic REBOUND (Off:0 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,299,6,1,2,9:03 PM,2:07,Bembry P.FOUL (P2.T4) (D.Richardson),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,301,2,1,2,9:03 PM,1:59,,,MISS Jokic 15' Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,302,4,0,2,9:03 PM,1:56,Bembry REBOUND (Off:0 Def:3),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,303,1,75,2,9:03 PM,1:45,Aldridge 1' Driving Finger Roll Layup (13 PTS) (Mills 4 AST),,,52 - 60,8,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,305,6,2,2,9:03 PM,1:45,,,Barton S.FOUL (P2.PN) (D.Richardson),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,307,3,10,2,9:04 PM,1:45,Aldridge Free Throw 1 of 1 (14 PTS),,,52 - 61,9,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,308,2,6,2,9:04 PM,1:27,,,MISS Jokic 6' Driving Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,309,4,0,2,9:04 PM,1:25,Johnson REBOUND (Off:0 Def:4),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,310,2,6,2,9:04 PM,1:14,MISS Bembry 1' Driving Layup,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,311,4,0,2,9:04 PM,1:12,,,Je. Green REBOUND (Off:0 Def:3),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,312,5,1,2,9:04 PM,1:08,Johnson STEAL (2 STL),,Barton Bad Pass Turnover (P3.T6),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,314,1,50,2,9:04 PM,1:05,Bembry 1' Running Dunk (8 PTS) (Johnson 3 AST),,,52 - 63,11,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,317,6,2,2,9:05 PM,0:54,Johnson S.FOUL (P2.PN) (D.Richardson),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0022100453,319,3,11,2,9:05 PM,0:54,,,Morris Free Throw 1 of 2 (5 PTS),53 - 63,10,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,320,3,12,2,9:05 PM,0:54,,,Morris Free Throw 2 of 2 (6 PTS),54 - 63,9,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,321,2,47,2,9:06 PM,0:39,MISS Aldridge 10' Turnaround Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,322,4,0,2,9:06 PM,0:36,,,Jokic REBOUND (Off:0 Def:3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,323,2,1,2,9:06 PM,0:16,,,MISS Gordon 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,324,4,0,2,9:06 PM,0:13,Edwards REBOUND (Off:2 Def:4),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,325,1,41,2,9:06 PM,0:07,Edwards 1' Running Layup (7 PTS),,,54 - 65,11,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,326,2,41,2,9:06 PM,0:01,,,MISS Morris 2' Running Layup,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,327,4,0,2,9:06 PM,0:00,,,Jokic REBOUND (Off:1 Def:3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,328,2,97,2,9:07 PM,0:00,,,MISS Jokic Tip Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,329,4,0,2,9:07 PM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,330,13,0,2,9:07 PM,0:00,,End of 2nd Period (9:07 PM EST),,54 - 65,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100453,331,12,0,3,9:22 PM,12:00,,Start of 3rd Period (9:22 PM EST),,54 - 65,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,332,2,6,3,9:22 PM,11:44,,,MISS Barton 2' Driving Layup,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,334,1,97,3,9:22 PM,11:40,,,Barton Tip Layup Shot (12 PTS),56 - 65,9,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,333,4,0,3,9:22 PM,11:40,,,Barton REBOUND (Off:2 Def:3),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,335,6,2,3,9:22 PM,11:27,,,Morris S.FOUL (P1.T1) (D.Richardson),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,337,18,0,3,9:23 PM,11:27,,Instant Replay3rd Period (9:23 PM EST),,56 - 65,9,0,335,Willie Anderson,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,338,3,13,3,9:23 PM,11:27,Mills Free Throw 1 of 3 (10 PTS),,,56 - 66,10,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,339,3,14,3,9:23 PM,11:27,Mills Free Throw 2 of 3 (11 PTS),,,56 - 67,11,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,340,3,15,3,9:23 PM,11:27,Mills Free Throw 3 of 3 (12 PTS),,,56 - 68,12,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,341,1,79,3,9:24 PM,11:11,,,Morris 17' Pullup Jump Shot (8 PTS),58 - 68,10,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,342,1,1,3,9:24 PM,10:50,Aldridge 22' Jump Shot (16 PTS),,,58 - 70,12,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,343,6,2,3,9:24 PM,10:40,Mills S.FOUL (P1.T1) (S.Wright),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,345,3,11,3,9:25 PM,10:40,,,Barton Free Throw 1 of 2 (13 PTS),59 - 70,11,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,346,3,12,3,9:25 PM,10:40,,,Barton Free Throw 2 of 2 (14 PTS),60 - 70,10,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,347,6,26,3,9:25 PM,10:25,Bembry Offensive Charge Foul (P3) (R.Acosta),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,349,5,37,3,9:25 PM,10:25,Bembry Offensive Foul Turnover (P1.T5),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022100453,350,1,1,3,9:26 PM,10:09,,,Jokic 26' 3PT Jump Shot (10 PTS) (Gordon 1 AST),63 - 70,7,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,352,1,6,3,9:26 PM,9:57,Johnson 3' Driving Layup (4 PTS),,,63 - 72,9,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,353,6,2,3,9:26 PM,9:57,,,Je. Green S.FOUL (P2.T2) (S.Wright),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,355,3,10,3,9:26 PM,9:57,Johnson Free Throw 1 of 1 (5 PTS),,,63 - 73,10,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,356,1,1,3,9:26 PM,9:46,,,Barton 26' 3PT Jump Shot (17 PTS) (Morris 4 AST),66 - 73,7,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,358,2,79,3,9:27 PM,9:29,MISS Johnson 25' 3PT Pullup Jump Shot,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,359,4,0,3,9:27 PM,9:25,,,Je. Green REBOUND (Off:0 Def:4),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,360,2,6,3,9:27 PM,9:20,Edwards BLOCK (2 BLK),,MISS Morris 2' Driving Layup,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1
+0022100453,362,4,0,3,9:27 PM,9:20,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,364,7,5,3,9:27 PM,9:13,Edwards Violation:Kicked Ball (S.Wright),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022100453,365,1,108,3,9:28 PM,9:04,,,Barton 2' Cutting Dunk Shot (19 PTS) (Jokic 4 AST),68 - 73,5,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,367,7,5,3,9:28 PM,8:49,,,Je. Green Violation:Kicked Ball (R.Acosta),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0022100453,368,2,79,3,9:28 PM,8:42,MISS Mills 21' Pullup Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,369,4,0,3,9:28 PM,8:39,,,Je. Green REBOUND (Off:0 Def:5),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,370,1,108,3,9:28 PM,8:32,,,Je. Green 1' Cutting Dunk Shot (2 PTS) (Jokic 5 AST),70 - 73,3,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,372,9,1,3,9:28 PM,8:32,NETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,373,1,6,3,9:31 PM,8:21,Bembry 5' Driving Layup (10 PTS) (Johnson 4 AST),,,70 - 75,5,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,375,2,1,3,9:32 PM,7:55,,,MISS Gordon 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,376,4,0,3,9:32 PM,7:51,Mills REBOUND (Off:0 Def:1),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,377,2,6,3,9:32 PM,7:47,MISS Mills 3' Driving Layup,,Barton BLOCK (1 BLK),,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1
+0022100453,379,4,0,3,9:32 PM,7:47,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,381,1,1,3,9:32 PM,7:39,Aldridge 14' Jump Shot (18 PTS) (Johnson 5 AST),,,70 - 77,7,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,383,1,57,3,9:33 PM,7:16,,,Jokic 1' Driving Hook Shot (12 PTS),72 - 77,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,384,2,1,3,9:33 PM,7:05,MISS Aldridge 19' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,385,4,0,3,9:33 PM,7:01,Johnson REBOUND (Off:1 Def:4),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,386,2,97,3,9:33 PM,7:01,MISS Johnson Tip Layup Shot,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,387,4,0,3,9:33 PM,7:00,,,Gordon REBOUND (Off:0 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,388,5,2,3,9:33 PM,6:54,Johnson STEAL (3 STL),,Gordon Lost Ball Turnover (P1.T7),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,390,5,2,3,9:33 PM,6:43,Edwards Lost Ball Turnover (P2.T6),,Barton STEAL (2 STL),,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,392,6,1,3,9:34 PM,6:37,Edwards P.FOUL (P1.T2) (S.Wright),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,394,8,0,3,9:34 PM,6:37,SUB: Thomas FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,396,8,0,3,9:34 PM,6:37,,,SUB: Rivers FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,398,1,6,3,9:34 PM,6:25,,,Barton 1' Driving Layup (21 PTS),74 - 77,3,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,400,2,79,3,9:34 PM,6:07,MISS Thomas 15' Pullup Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,401,4,0,3,9:34 PM,6:04,,,Barton REBOUND (Off:2 Def:4),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,402,2,103,3,9:35 PM,6:02,,,MISS Barton 26' 3PT Running Pull-Up Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,403,4,0,3,9:35 PM,6:02,Aldridge REBOUND (Off:0 Def:6),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,404,1,44,3,9:35 PM,5:42,Bembry 2' Reverse Layup (12 PTS) (Johnson 6 AST),,,74 - 79,5,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,406,2,1,3,9:35 PM,5:25,,,MISS Je. Green 15' Jump Shot,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,407,4,0,3,9:35 PM,5:25,Aldridge REBOUND (Off:0 Def:7),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,408,5,2,3,9:35 PM,5:12,Thomas Lost Ball Turnover (P1.T7),,Jokic STEAL (1 STL),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,438,2,58,3,9:36 PM,5:04,,,MISS Barton 6' Turnaround Hook Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,439,4,0,3,9:36 PM,5:02,,,Barton REBOUND (Off:3 Def:4),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,410,1,5,3,9:36 PM,5:01,,,Jokic 5' Layup (14 PTS),76 - 79,3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,411,6,2,3,9:36 PM,5:01,Edwards S.FOUL (P2.T3) (D.Richardson),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,413,7,1,3,9:36 PM,5:01,NETS Violation: Delay of game Violation,,,,,2,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100453,414,3,10,3,9:36 PM,5:01,,,Jokic Free Throw 1 of 1 (15 PTS),77 - 79,2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,415,5,1,3,9:36 PM,4:47,Thomas Bad Pass Turnover (P2.T8),,Rivers STEAL (1 STL),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,417,1,41,3,9:37 PM,4:44,,,Je. Green 1' Running Layup (4 PTS) (Rivers 1 AST),79 - 79,TIE,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,419,6,2,3,9:37 PM,4:44,Aldridge S.FOUL (P1.T4) (R.Acosta),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,421,8,0,3,9:37 PM,4:44,,,SUB: Campazzo FOR Morris,,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,423,8,0,3,9:37 PM,4:44,SUB: Carter FOR Bembry,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,433,8,0,3,9:37 PM,4:44,SUB: Brown FOR Edwards,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,425,3,10,3,9:37 PM,4:44,,,MISS Je. Green Free Throw 1 of 1,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,426,4,0,3,9:37 PM,4:38,Brown REBOUND (Off:1 Def:2),,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,427,2,79,3,9:38 PM,4:24,MISS Aldridge 19' Pullup Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,428,4,0,3,9:38 PM,4:21,,,Barton REBOUND (Off:3 Def:5),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,429,2,6,3,9:38 PM,4:09,,,MISS Barton 2' Driving Layup,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,430,4,0,3,9:38 PM,4:09,,,Je. Green REBOUND (Off:1 Def:5),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,431,6,2,3,9:38 PM,4:09,Thomas S.FOUL (P1.PN) (S.Wright),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,435,3,11,3,9:38 PM,4:09,,,Je. Green Free Throw 1 of 2 (5 PTS),80 - 79,-1,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,436,3,12,3,9:39 PM,4:09,,,Je. Green Free Throw 2 of 2 (6 PTS),81 - 79,-2,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,437,1,78,3,9:39 PM,3:44,Thomas 15' Floating Jump Shot (14 PTS),,,81 - 81,TIE,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,440,1,79,3,9:40 PM,3:23,,,Rivers 26' 3PT Pullup Jump Shot (6 PTS) (Je. Green 1 AST),84 - 81,-3,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,442,2,5,3,9:40 PM,3:11,MISS Aldridge 2' Layup,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,443,4,0,3,9:40 PM,3:11,,,Je. Green REBOUND (Off:1 Def:6),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,444,5,1,3,9:40 PM,3:05,Carter STEAL (1 STL),,Rivers Bad Pass Turnover (P1.T8),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,446,6,9,3,9:40 PM,3:03,,,Barton C.P.FOUL (P3.T3) (S.Wright),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,448,18,0,3,9:40 PM,3:03,,Instant Replay3rd Period (9:40 PM EST),,84 - 81,-3,0,446,Lucious Harris,,,,,0,0,,,,,,1,0,,,,,,0
+0022100453,449,8,0,3,9:41 PM,3:03,SUB: Griffin FOR Johnson,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,451,3,25,3,9:42 PM,3:03,MISS Carter Free Throw Clear Path 1 of 2,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,452,4,1,3,9:42 PM,3:03,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,453,3,26,3,9:42 PM,3:03,Carter Free Throw Clear Path 2 of 2 (10 PTS),,,84 - 82,-2,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,454,8,0,3,9:42 PM,3:03,SUB: Edwards FOR Aldridge,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,455,8,0,3,9:42 PM,3:03,,,SUB: Forbes FOR Barton,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,456,8,0,3,9:42 PM,3:03,,,SUB: Nnaji FOR Je. Green,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,460,2,98,3,9:42 PM,2:50,MISS Brown 3' Cutting Layup Shot,,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,461,4,0,3,9:42 PM,2:50,,,Jokic REBOUND (Off:1 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,462,6,1,3,9:42 PM,2:50,Brown P.FOUL (P3.PN) (D.Richardson),,,,,4,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,464,9,1,3,9:43 PM,2:50,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,465,3,11,3,9:46 PM,2:50,,,Jokic Free Throw 1 of 2 (16 PTS),85 - 82,-3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,466,3,12,3,9:46 PM,2:50,,,Jokic Free Throw 2 of 2 (17 PTS),86 - 82,-4,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,468,6,1,3,9:46 PM,2:29,,,Rivers P.FOUL (P2.T4) (S.Wright),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,470,2,79,3,9:47 PM,2:24,MISS Thomas 19' Pullup Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,471,4,0,3,9:47 PM,2:21,,,Campazzo REBOUND (Off:0 Def:1),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,472,1,1,3,9:47 PM,2:14,,,Rivers 25' 3PT Jump Shot (9 PTS) (Jokic 6 AST),89 - 82,-7,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,474,6,2,3,9:48 PM,1:53,,,Forbes S.FOUL (P1.PN) (S.Wright),,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,476,3,11,3,9:48 PM,1:53,Edwards Free Throw 1 of 2 (8 PTS),,,89 - 83,-6,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,477,8,0,3,9:48 PM,1:53,,,SUB: Cousins FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,479,3,12,3,9:48 PM,1:53,Edwards Free Throw 2 of 2 (9 PTS),,,89 - 84,-5,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,481,1,1,3,9:49 PM,1:33,,,Rivers 25' 3PT Jump Shot (12 PTS),92 - 84,-8,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,483,2,1,3,9:49 PM,1:21,MISS Griffin 25' 3PT Jump Shot,,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,484,4,0,3,9:49 PM,1:17,,,Nnaji REBOUND (Off:2 Def:2),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,485,6,4,3,9:49 PM,1:14,,,Cousins OFF.Foul (P2) (S.Wright),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,487,5,37,3,9:49 PM,1:14,,,Cousins Offensive Foul Turnover (P2.T9),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,488,1,102,3,9:50 PM,1:06,Thomas 15' Driving Floating Bank Jump Shot (16 PTS) (Carter 3 AST),,,92 - 86,-6,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,489,6,2,3,9:50 PM,1:06,,,Campazzo S.FOUL (P1.PN) (R.Acosta),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,491,3,10,3,9:50 PM,1:06,Thomas Free Throw 1 of 1 (17 PTS),,,92 - 87,-5,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,493,2,80,3,9:50 PM,0:43,,,MISS Forbes 26' 3PT Step Back Jump Shot,,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,494,4,0,3,9:51 PM,0:42,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,495,6,3,3,9:51 PM,0:42,Edwards L.B.FOUL (P3.PN) (R.Acosta),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,497,6,11,3,9:51 PM,0:42,,,Cousins T.FOUL (P2.PN) (R.Acosta),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,498,3,16,3,9:52 PM,0:42,Thomas Free Throw Technical (18 PTS),,,92 - 88,-4,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,499,3,11,3,9:52 PM,0:42,,,Cousins Free Throw 1 of 2 (12 PTS),93 - 88,-5,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,500,3,12,3,9:52 PM,0:42,,,Cousins Free Throw 2 of 2 (13 PTS),94 - 88,-6,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,501,2,6,3,9:52 PM,0:35,MISS Carter 3' Driving Layup,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,502,4,0,3,9:52 PM,0:33,,,Cousins REBOUND (Off:3 Def:3),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,503,1,6,3,9:53 PM,0:22,,,Rivers 3' Driving Layup (14 PTS),96 - 88,-8,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,504,1,80,3,9:53 PM,0:02,Thomas 25' 3PT Step Back Jump Shot (21 PTS),,,96 - 91,-5,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,505,13,0,3,9:53 PM,0:00,,End of 3rd Period (9:53 PM EST),,96 - 91,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100453,512,12,0,4,9:56 PM,12:00,,Start of 4th Period (9:56 PM EST),,96 - 91,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,513,6,1,4,9:56 PM,11:55,,,Campazzo P.FOUL (P2.T1) (S.Wright),,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,515,6,4,4,9:56 PM,11:45,Thomas OFF.Foul (P2) (S.Wright),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,517,5,37,4,9:56 PM,11:45,Thomas Offensive Foul Turnover (P3.T9),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022100453,518,6,4,4,9:57 PM,11:38,,,Forbes OFF.Foul (P2) (R.Acosta),,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,520,5,37,4,9:57 PM,11:38,,,Forbes Offensive Foul Turnover (P1.T10),,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,521,6,4,4,9:57 PM,11:30,Johnson OFF.Foul (P3) (S.Wright),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,523,5,37,4,9:57 PM,11:30,Johnson Offensive Foul Turnover (P2.T10),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022100453,524,5,4,4,9:58 PM,11:17,,,Cousins Traveling Turnover (P3.T11),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,525,6,11,4,9:58 PM,11:17,,,Cousins T.FOUL (P2.T1) (S.Wright),,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,526,11,4,4,9:58 PM,11:17,,,Cousins Ejection:Other,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,535,8,0,4,9:58 PM,11:17,,,SUB: Jokic FOR Cousins,,,5,202326,DeMarcus Cousins,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,527,3,16,4,9:59 PM,11:17,MISS Mills Free Throw Technical,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,528,4,1,4,9:59 PM,11:17,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,529,1,80,4,9:59 PM,11:02,Thomas 25' 3PT Step Back Jump Shot (24 PTS),,,96 - 94,-2,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,530,1,79,4,9:59 PM,10:49,,,Rivers 27' 3PT Pullup Jump Shot (17 PTS) (Jokic 7 AST),99 - 94,-5,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,532,1,6,4,9:59 PM,10:35,Johnson 4' Driving Layup (7 PTS),,,99 - 96,-3,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,533,2,5,4,10:00 PM,10:23,,,MISS Forbes 2' Layup,,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,534,4,0,4,10:00 PM,10:21,Johnson REBOUND (Off:1 Def:5),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,537,2,1,4,10:00 PM,10:15,MISS Thomas 24' 3PT Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,538,4,0,4,10:00 PM,10:12,Griffin REBOUND (Off:2 Def:3),,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,539,1,1,4,10:00 PM,10:10,Mills 3PT Jump Shot (15 PTS) (Griffin 3 AST),,,99 - 99,TIE,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,541,1,78,4,10:00 PM,9:53,,,Jokic 12' Floating Jump Shot (19 PTS) (Campazzo 6 AST),101 - 99,-2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,544,5,2,4,10:01 PM,9:28,Thomas Lost Ball Turnover (P4.T11),,Campazzo STEAL (1 STL),,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,546,1,2,4,10:01 PM,9:23,,,Rivers 26' 3PT Running Jump Shot (20 PTS) (Nnaji 1 AST),104 - 99,-5,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,548,9,1,4,10:01 PM,9:21,NETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,549,8,0,4,10:01 PM,9:21,SUB: Edwards FOR Thomas,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,550,8,0,4,10:01 PM,9:21,,,SUB: Gordon FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,553,1,108,4,10:04 PM,9:08,Griffin 1' Cutting Dunk Shot (6 PTS) (Mills 5 AST),,,104 - 101,-3,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,555,2,80,4,10:04 PM,8:43,,,MISS Rivers 26' 3PT Step Back Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,556,4,0,4,10:04 PM,8:42,,,Jokic REBOUND (Off:2 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,557,1,72,4,10:04 PM,8:42,,,Jokic Putback Layup (21 PTS),106 - 101,-5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,558,6,2,4,10:04 PM,8:42,Edwards S.FOUL (P4.T1) (R.Acosta),,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,560,8,0,4,10:05 PM,8:42,,,SUB: Barton FOR Forbes,,,5,1627854,Bryn Forbes,1610612743.0,Denver,Nuggets,DEN,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,562,3,10,4,10:05 PM,8:42,,,Jokic Free Throw 1 of 1 (22 PTS),107 - 101,-6,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100453,563,1,98,4,10:05 PM,8:29,Bembry 2' Cutting Layup Shot (14 PTS) (Griffin 4 AST),,,107 - 103,-4,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,565,6,14,4,10:05 PM,8:14,Bembry FLAGRANT.FOUL.TYPE1 (P4.T2) (S.Wright),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,566,18,0,4,10:06 PM,8:14,,Instant Replay4th Period (10:06 PM EST),,107 - 103,-4,0,565,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100453,570,3,18,4,10:08 PM,8:14,,,Rivers Free Throw Flagrant 1 of 2 (21 PTS),108 - 103,-5,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,571,3,19,4,10:08 PM,8:14,,,Rivers Free Throw Flagrant 2 of 2 (22 PTS),109 - 103,-6,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,572,5,40,4,10:08 PM,8:03,,,Jokic Out of Bounds Lost Ball Turnover (P2.T12),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,573,2,6,4,10:09 PM,7:54,MISS Bembry 5' Driving Layup,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,574,4,0,4,10:09 PM,7:54,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,576,2,80,4,10:09 PM,7:36,,,MISS Gordon 13' Step Back Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,577,4,0,4,10:09 PM,7:33,Johnson REBOUND (Off:1 Def:6),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,578,2,47,4,10:10 PM,7:17,MISS Johnson 12' Turnaround Jump Shot,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,579,4,0,4,10:10 PM,7:13,,,Jokic REBOUND (Off:2 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,580,6,2,4,10:10 PM,7:02,Bembry S.FOUL (P5.T3) (D.Richardson),,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,582,3,11,4,10:10 PM,7:02,,,Gordon Free Throw 1 of 2 (5 PTS),110 - 103,-7,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,583,8,0,4,10:10 PM,7:02,SUB: Aldridge FOR Griffin,,,,,4,201933,Blake Griffin,1610612751.0,Brooklyn,Nets,BKN,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,584,8,0,4,10:10 PM,7:02,SUB: Thomas FOR Bembry,,,,,4,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,587,3,12,4,10:11 PM,7:02,,,Gordon Free Throw 2 of 2 (6 PTS),111 - 103,-8,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,588,1,80,4,10:11 PM,6:47,Mills 25' 3PT Step Back Jump Shot (18 PTS),,,111 - 106,-5,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,589,2,76,4,10:11 PM,6:35,,,MISS Campazzo 4' Running Finger Roll Layup,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,590,4,0,4,10:11 PM,6:31,,,Gordon REBOUND (Off:1 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,591,1,97,4,10:11 PM,6:31,,,Gordon Tip Layup Shot (8 PTS),113 - 106,-7,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,592,1,44,4,10:11 PM,6:17,Johnson 2' Reverse Layup (9 PTS) (Thomas 1 AST),,,113 - 108,-5,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,594,1,1,4,10:12 PM,6:00,,,Rivers 3PT Jump Shot (25 PTS) (Jokic 8 AST),116 - 108,-8,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,596,1,79,4,10:12 PM,5:40,Mills 25' 3PT Pullup Jump Shot (21 PTS) (Johnson 7 AST),,,116 - 111,-5,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,598,9,1,4,10:12 PM,5:39,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,599,8,0,4,10:12 PM,5:39,,,SUB: Morris FOR Campazzo,,,5,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022100453,601,2,98,4,10:15 PM,5:25,,,MISS Jokic 5' Cutting Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,602,4,0,4,10:15 PM,5:23,Aldridge REBOUND (Off:0 Def:8),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,603,1,41,4,10:15 PM,5:18,Johnson 3' Running Layup (11 PTS) (Mills 6 AST),,,116 - 113,-3,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,605,2,1,4,10:16 PM,5:00,,,MISS Rivers 26' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,606,4,0,4,10:16 PM,4:58,Mills REBOUND (Off:0 Def:2),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,607,5,1,4,10:16 PM,4:49,Mills Bad Pass Turnover (P1.T12),,Rivers STEAL (2 STL),,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022100453,609,2,1,4,10:16 PM,4:43,,,MISS Barton 25' 3PT Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,610,4,0,4,10:16 PM,4:39,Thomas REBOUND (Off:0 Def:1),,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,611,2,78,4,10:16 PM,4:29,MISS Thomas 15' Floating Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,612,4,0,4,10:16 PM,4:27,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,614,2,101,4,10:17 PM,4:08,,,MISS Jokic 5' Driving Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,615,4,0,4,10:17 PM,4:08,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,617,8,0,4,10:17 PM,4:08,SUB: Carter FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,619,2,79,4,10:17 PM,3:54,MISS Thomas 13' Pullup Jump Shot,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,620,4,0,4,10:18 PM,3:50,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,621,2,105,4,10:18 PM,3:41,,,MISS Barton 7' Turnaround Fadeaway Bank Jump Shot,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,622,4,0,4,10:18 PM,3:38,Carter REBOUND (Off:0 Def:1),,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,623,6,2,4,10:18 PM,3:32,,,Jokic S.FOUL (P3.T2) (R.Acosta),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,625,9,1,4,10:18 PM,3:32,NETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,626,8,0,4,10:18 PM,3:32,SUB: Mills FOR Carter,,,,,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,628,3,11,4,10:20 PM,3:32,MISS Aldridge Free Throw 1 of 2,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,629,4,1,4,10:20 PM,3:32,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,630,3,12,4,10:20 PM,3:32,MISS Aldridge Free Throw 2 of 2,,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,631,4,0,4,10:20 PM,3:30,,,Jokic REBOUND (Off:2 Def:6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,632,1,79,4,10:21 PM,3:17,,,Gordon 12' Pullup Jump Shot (10 PTS),118 - 113,-5,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,633,2,1,4,10:21 PM,2:55,MISS Edwards 25' 3PT Jump Shot,,,,,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,634,4,0,4,10:21 PM,2:52,,,Barton REBOUND (Off:3 Def:6),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,635,5,40,4,10:21 PM,2:42,,,Gordon Out of Bounds Lost Ball Turnover (P2.T13),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022100453,636,2,1,4,10:22 PM,2:21,MISS Mills 25' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,637,4,0,4,10:22 PM,2:16,,,Gordon REBOUND (Off:1 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,638,2,73,4,10:22 PM,2:00,,,MISS Barton 2' Driving Reverse Layup,,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,639,4,0,4,10:22 PM,1:56,Mills REBOUND (Off:0 Def:3),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,640,6,2,4,10:22 PM,1:52,,,Jokic S.FOUL (P4.T3) (R.Acosta),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,642,3,11,4,10:23 PM,1:52,Johnson Free Throw 1 of 2 (12 PTS),,,118 - 114,-4,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022100453,643,3,12,4,10:23 PM,1:52,MISS Johnson Free Throw 2 of 2,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,644,4,0,4,10:23 PM,1:48,,,Barton REBOUND (Off:3 Def:7),,,5,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,645,6,2,4,10:23 PM,1:34,Aldridge S.FOUL (P2.T4) (D.Richardson),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,647,3,11,4,10:24 PM,1:34,,,Jokic Free Throw 1 of 2 (23 PTS),119 - 114,-5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,648,3,12,4,10:24 PM,1:34,,,Jokic Free Throw 2 of 2 (24 PTS),120 - 114,-6,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,649,2,98,4,10:24 PM,1:25,MISS Aldridge 2' Cutting Layup Shot,,Gordon BLOCK (1 BLK),,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1
+0022100453,651,4,0,4,10:24 PM,1:21,,,Morris REBOUND (Off:0 Def:4),,,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,652,6,1,4,10:24 PM,1:07,Aldridge P.FOUL (P3.PN) (S.Wright),,,,,4,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022100453,654,3,11,4,10:25 PM,1:07,,,Jokic Free Throw 1 of 2 (25 PTS),121 - 114,-7,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022100453,655,9,1,4,10:25 PM,1:07,NETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100453,656,3,12,4,10:27 PM,1:07,,,Jokic Free Throw 2 of 2 (26 PTS),122 - 114,-8,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,657,2,6,4,10:27 PM,1:01,MISS Johnson 1' Driving Layup,,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,658,4,0,4,10:27 PM,0:58,,,Jokic REBOUND (Off:2 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,659,1,6,4,10:27 PM,0:45,,,Morris 2' Driving Layup (10 PTS),124 - 114,-10,5,1628420,Monté Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,660,6,2,4,10:27 PM,0:39,,,Jokic S.FOUL (P5.PN) (S.Wright),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022100453,662,3,11,4,10:28 PM,0:39,Thomas Free Throw 1 of 2 (25 PTS),,,124 - 115,-9,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,665,3,12,4,10:28 PM,0:39,MISS Thomas Free Throw 2 of 2,,,,,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,663,8,0,4,10:28 PM,0:39,SUB: Carter FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022100453,666,4,0,4,10:28 PM,0:37,,,Jokic REBOUND (Off:2 Def:8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,667,2,1,4,10:29 PM,0:18,,,MISS Gordon 26' 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022100453,668,4,0,4,10:29 PM,0:15,Johnson REBOUND (Off:1 Def:7),,,,,4,201949,James Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022100453,669,1,1,4,10:29 PM,0:11,Carter 3PT Jump Shot (13 PTS) (Edwards 1 AST),,,124 - 118,-6,4,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022100453,671,13,0,4,10:29 PM,0:00,,End of 4th Period (10:29 PM EST),,124 - 118,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

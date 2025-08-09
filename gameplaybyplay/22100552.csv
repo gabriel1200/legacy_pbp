@@ -1,0 +1,475 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100552,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,4,10,0,1,7:11 PM,12:00,Jump Ball Embiid vs. Theis: Tip to Green,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1
+0022100552,7,2,79,1,7:11 PM,11:41,,,MISS Green 29' 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,8,4,0,1,7:11 PM,11:38,,,Theis REBOUND (Off:1 Def:0),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,9,2,1,1,7:12 PM,11:37,,,MISS Mathews 27' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,10,4,0,1,7:12 PM,11:32,Embiid REBOUND (Off:0 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,11,1,80,1,7:12 PM,11:16,Harris 21' Step Back Jump Shot (2 PTS),,,0 - 2,2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,12,6,2,1,7:12 PM,11:08,Harris S.FOUL (P1.T1) (B.Adair),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,14,3,11,1,7:12 PM,11:08,,,MISS Tate Free Throw 1 of 2,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,15,4,1,1,7:12 PM,11:08,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,16,3,12,1,7:13 PM,11:08,,,Tate Free Throw 2 of 2 (1 PTS),1 - 2,1,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,17,2,79,1,7:13 PM,10:45,MISS Embiid 18' Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,18,4,0,1,7:13 PM,10:40,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,19,5,1,1,7:13 PM,10:32,Embiid STEAL (1 STL),,Mathews Bad Pass Turnover (P1.T1),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,21,1,1,1,7:13 PM,10:26,Korkmaz 26' 3PT Jump Shot (3 PTS) (Curry 1 AST),,,1 - 5,4,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,23,2,6,1,7:14 PM,10:17,Harris BLOCK (1 BLK),,MISS Tate 5' Driving Layup,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,25,4,0,1,7:14 PM,10:17,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,27,6,2,1,7:14 PM,10:15,Curry S.FOUL (P1.T2) (K.Cutler),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,29,3,11,1,7:14 PM,10:15,,,Mathews Free Throw 1 of 2 (1 PTS),2 - 5,3,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,30,3,12,1,7:15 PM,10:15,,,Mathews Free Throw 2 of 2 (2 PTS),3 - 5,2,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,31,1,3,1,7:15 PM,9:58,Embiid 5' Hook Shot (2 PTS) (Curry 2 AST),,,3 - 7,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,33,1,75,1,7:15 PM,9:42,,,Green 3' Driving Finger Roll Layup (2 PTS),5 - 7,2,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,34,6,1,1,7:16 PM,9:29,,,Mathews P.FOUL (P1.T1) (B.Adair),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,36,2,79,1,7:16 PM,9:25,MISS Curry 27' 3PT Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,37,4,0,1,7:16 PM,9:21,,,Gordon REBOUND (Off:0 Def:2),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,39,6,2,1,7:16 PM,9:18,Curry S.FOUL (P2.T3) (A.Nagy),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,41,3,13,1,7:17 PM,9:18,,,Mathews Free Throw 1 of 3 (3 PTS),6 - 7,1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,42,3,14,1,7:17 PM,9:18,,,Mathews Free Throw 2 of 3 (4 PTS),7 - 7,TIE,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,43,8,0,1,7:17 PM,9:18,SUB: Milton FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,45,3,15,1,7:17 PM,9:18,,,Mathews Free Throw 3 of 3 (5 PTS),8 - 7,-1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,46,6,1,1,7:18 PM,9:05,,,Theis P.FOUL (P1.T2) (A.Nagy),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,48,2,79,1,7:18 PM,9:00,MISS Harris 25' 3PT Pullup Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,49,4,0,1,7:18 PM,8:56,,,Mathews REBOUND (Off:0 Def:1),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,50,2,1,1,7:18 PM,8:41,,,MISS Theis 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,51,4,0,1,7:18 PM,8:38,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,52,2,57,1,7:19 PM,8:34,MISS Harris 1' Driving Hook Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,53,4,0,1,7:19 PM,8:32,,,Theis REBOUND (Off:1 Def:1),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,54,1,1,1,7:19 PM,8:27,,,Gordon 28' 3PT Jump Shot (3 PTS) (Mathews 1 AST),11 - 7,-4,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,56,1,79,1,7:19 PM,8:09,Korkmaz 26' 3PT Pullup Jump Shot (6 PTS) (Embiid 1 AST),,,11 - 10,-1,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,58,2,1,1,7:19 PM,7:57,,,MISS Theis 17' Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,59,4,0,1,7:19 PM,7:55,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,60,2,5,1,7:19 PM,7:50,MISS Embiid 4' Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,61,4,0,1,7:19 PM,7:49,Embiid REBOUND (Off:1 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,68,2,72,1,7:19 PM,7:49,MISS Embiid 2' Putback Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,62,2,97,1,7:19 PM,7:47,MISS Embiid 3' Tip Layup Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,69,4,0,1,7:19 PM,7:47,Embiid REBOUND (Off:2 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,63,4,0,1,7:19 PM,7:45,,,Theis REBOUND (Off:1 Def:2),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,64,1,6,1,7:19 PM,7:36,,,Tate 2' Driving Layup (3 PTS),13 - 10,-3,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,65,6,2,1,7:20 PM,7:26,,,Mathews S.FOUL (P2.T3) (A.Nagy),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,67,3,11,1,7:20 PM,7:26,Embiid Free Throw 1 of 2 (3 PTS),,,13 - 11,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,70,3,12,1,7:21 PM,7:26,Embiid Free Throw 2 of 2 (4 PTS),,,13 - 12,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,71,6,4,1,7:21 PM,7:11,,,Gordon OFF.Foul (P1) (K.Cutler),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0022100552,73,5,37,1,7:21 PM,7:11,,,Gordon Offensive Foul Turnover (P1.T2),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0022100552,74,9,1,1,7:21 PM,7:11,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,75,18,6,1,7:22 PM,7:11,,Instant Replay1st Period (7:22 PM EST),,13 - 12,-1,0,71,Pooh Richardson,,,,,0,0,,,,,,1,0,,,,,,0
+0022100552,76,1,1,1,7:24 PM,6:53,Korkmaz 25' 3PT Jump Shot (9 PTS) (Milton 1 AST),,,13 - 15,2,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,78,2,73,1,7:25 PM,6:32,,,MISS Gordon 5' Driving Reverse Layup,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,79,4,0,1,7:25 PM,6:31,Korkmaz REBOUND (Off:0 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,80,2,1,1,7:25 PM,6:21,MISS Korkmaz 26' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,81,4,0,1,7:25 PM,6:16,,,Mathews REBOUND (Off:0 Def:2),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,82,2,6,1,7:25 PM,6:07,Green BLOCK (1 BLK),,MISS Green 2' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,84,4,0,1,7:25 PM,6:05,Embiid REBOUND (Off:2 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,85,1,41,1,7:25 PM,6:02,Milton 2' Running Layup (2 PTS) (Embiid 2 AST),,,13 - 17,4,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,87,2,1,1,7:26 PM,5:34,,,MISS Theis 27' 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,88,4,0,1,7:26 PM,5:30,Embiid REBOUND (Off:2 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,89,2,47,1,7:26 PM,5:17,MISS Harris 14' Turnaround Jump Shot,,Tate BLOCK (1 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1
+0022100552,91,4,0,1,7:26 PM,5:14,,,Mathews REBOUND (Off:0 Def:3),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,92,1,1,1,7:26 PM,5:10,,,Mathews 27' 3PT Jump Shot (8 PTS) (Tate 1 AST),16 - 17,1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,94,6,2,1,7:26 PM,5:10,Milton S.FOUL (P1.T4) (K.Cutler),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,96,8,0,1,7:26 PM,5:10,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,97,8,0,1,7:26 PM,5:10,SUB: Joe FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,98,8,0,1,7:26 PM,5:10,,,SUB: Christopher FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,99,8,0,1,7:26 PM,5:10,,,SUB: Martin Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,104,3,10,1,7:27 PM,5:10,,,Mathews Free Throw 1 of 1 (9 PTS),17 - 17,TIE,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,105,5,1,1,7:27 PM,5:03,Embiid Bad Pass Turnover (P1.T1),,Christopher STEAL (1 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,108,2,1,1,7:28 PM,4:45,,,MISS Green 26' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,109,4,0,1,7:28 PM,4:42,Milton REBOUND (Off:0 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,110,6,1,1,7:28 PM,4:42,,,Christopher P.FOUL (P1.T4) (A.Nagy),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,112,6,2,1,7:28 PM,4:28,,,Theis S.FOUL (P2.PN) (K.Cutler),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,114,3,11,1,7:29 PM,4:28,Embiid Free Throw 1 of 2 (5 PTS),,,17 - 18,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,115,3,12,1,7:29 PM,4:28,MISS Embiid Free Throw 2 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,116,4,0,1,7:29 PM,4:26,,,Christopher REBOUND (Off:0 Def:1),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,117,2,63,1,7:29 PM,4:13,,,MISS Christopher 5' Fadeaway Jumper,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,118,4,0,1,7:29 PM,4:10,Korkmaz REBOUND (Off:0 Def:2),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,119,1,75,1,7:29 PM,4:01,Embiid 1' Driving Finger Roll Layup (7 PTS) (Korkmaz 1 AST),,,17 - 20,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,121,2,6,1,7:30 PM,3:47,,,MISS Green 4' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,122,4,0,1,7:30 PM,3:43,,,Theis REBOUND (Off:2 Def:2),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,123,2,97,1,7:30 PM,3:43,,,MISS Theis Tip Layup Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,124,4,0,1,7:30 PM,3:42,Niang REBOUND (Off:0 Def:1),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,125,1,50,1,7:30 PM,3:39,Embiid 1' Running Dunk (9 PTS) (Korkmaz 2 AST),,,17 - 22,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,127,9,1,1,7:30 PM,3:39,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,128,8,0,1,7:32 PM,3:39,SUB: Reed FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,130,8,0,1,7:33 PM,3:39,,,SUB: Nwaba FOR Mathews,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,132,1,108,1,7:33 PM,3:18,,,Martin Jr. 2' Cutting Dunk Shot (2 PTS) (Nwaba 1 AST),19 - 22,3,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,134,1,1,1,7:33 PM,3:04,Joe 26' 3PT Jump Shot (3 PTS) (Embiid 3 AST),,,19 - 25,6,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,136,6,1,1,7:34 PM,2:48,Joe P.FOUL (P1.PN) (B.Adair),,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,138,3,11,1,7:34 PM,2:48,,,Christopher Free Throw 1 of 2 (1 PTS),20 - 25,5,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,139,3,12,1,7:35 PM,2:48,,,Christopher Free Throw 2 of 2 (2 PTS),21 - 25,4,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,140,2,3,1,7:35 PM,2:36,MISS Reed 5' Hook Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,141,4,0,1,7:35 PM,2:34,,,Christopher REBOUND (Off:0 Def:2),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,142,5,1,1,7:35 PM,2:28,Reed STEAL (1 STL),,Martin Jr. Bad Pass Turnover (P1.T3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,144,2,2,1,7:35 PM,2:24,MISS Joe 26' 3PT Running Jump Shot,,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,146,1,72,1,7:35 PM,2:16,Reed Putback Layup (2 PTS),,,21 - 27,6,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,145,4,0,1,7:35 PM,2:16,Reed REBOUND (Off:1 Def:0),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,147,6,1,1,7:35 PM,2:00,Milton P.FOUL (P2.PN) (K.Cutler),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,149,3,11,1,7:36 PM,2:00,,,Christopher Free Throw 1 of 2 (3 PTS),22 - 27,5,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,150,8,0,1,7:36 PM,2:00,SUB: Korkmaz FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,151,8,0,1,7:36 PM,2:00,,,SUB: Gordon FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,154,3,12,1,7:36 PM,2:00,,,Christopher Free Throw 2 of 2 (4 PTS),23 - 27,4,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,155,1,79,1,7:37 PM,1:47,Embiid 16' Pullup Jump Shot (11 PTS),,,23 - 29,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,156,6,1,1,7:37 PM,1:32,Reed P.FOUL (P1.PN) (A.Nagy),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,158,3,11,1,7:37 PM,1:32,,,Gordon Free Throw 1 of 2 (4 PTS),24 - 29,5,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,161,3,12,1,7:37 PM,1:32,,,MISS Gordon Free Throw 2 of 2,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,159,8,0,1,7:38 PM,1:32,,,SUB: Tate FOR Theis,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,162,4,0,1,7:38 PM,1:30,Niang REBOUND (Off:0 Def:2),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,163,6,1,1,7:38 PM,1:23,,,Tate P.FOUL (P1.PN) (B.Adair),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,165,3,11,1,7:38 PM,1:23,Embiid Free Throw 1 of 2 (12 PTS),,,24 - 30,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,166,3,12,1,7:39 PM,1:23,Embiid Free Throw 2 of 2 (13 PTS),,,24 - 31,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,167,1,79,1,7:39 PM,1:13,,,Christopher 29' 3PT Pullup Jump Shot (7 PTS) (Tate 2 AST),27 - 31,4,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,169,1,1,1,7:39 PM,1:00,Niang 26' 3PT Jump Shot (3 PTS) (Embiid 4 AST),,,27 - 34,7,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,171,2,1,1,7:39 PM,0:51,,,MISS Christopher 27' 3PT Jump Shot,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,172,4,0,1,7:39 PM,0:46,,,Martin Jr. REBOUND (Off:1 Def:0),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,173,2,97,1,7:39 PM,0:46,,,MISS Martin Jr. Tip Layup Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,174,4,0,1,7:39 PM,0:46,,,Martin Jr. REBOUND (Off:2 Def:0),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,175,2,1,1,7:40 PM,0:40,,,MISS Martin Jr. 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,176,4,0,1,7:40 PM,0:37,Niang REBOUND (Off:0 Def:3),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,177,2,1,1,7:40 PM,0:33,MISS Korkmaz 26' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,178,4,0,1,7:40 PM,0:29,,,Nwaba REBOUND (Off:0 Def:1),,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,179,6,2,1,7:40 PM,0:20,Reed S.FOUL (P2.PN) (A.Nagy),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,181,3,11,1,7:40 PM,0:20,,,MISS Gordon Free Throw 1 of 2,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,182,4,1,1,7:40 PM,0:20,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,183,8,0,1,7:40 PM,0:20,SUB: Curry FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,185,3,12,1,7:41 PM,0:20,,,Gordon Free Throw 2 of 2 (5 PTS),28 - 34,6,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,186,5,1,1,7:41 PM,0:04,Curry Bad Pass Turnover (P1.T2),,Nwaba STEAL (1 STL),,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,188,2,76,1,7:41 PM,0:00,,,MISS Nwaba 1' Running Finger Roll Layup,,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,189,4,0,1,7:41 PM,0:00,,,Martin Jr. REBOUND (Off:3 Def:0),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,190,1,107,1,7:41 PM,0:00,,,Martin Jr. Tip Dunk Shot (4 PTS),30 - 34,4,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,191,13,0,1,7:41 PM,0:00,,End of 1st Period (7:41 PM EST),,30 - 34,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100552,200,12,0,2,7:44 PM,12:00,,Start of 2nd Period (7:44 PM EST),,30 - 34,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,201,1,6,2,7:44 PM,11:40,Joe 1' Driving Layup (5 PTS) (Green 1 AST),,,30 - 36,6,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,203,6,2,2,7:45 PM,11:40,,,Martin Jr. S.FOUL (P1.T1) (B.Adair),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,205,3,10,2,7:45 PM,11:40,Joe Free Throw 1 of 1 (6 PTS),,,30 - 37,7,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,206,2,102,2,7:45 PM,11:24,,,MISS Gordon 4' Driving Floating Bank Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,207,4,0,2,7:45 PM,11:22,Drummond REBOUND (Off:0 Def:1),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,208,1,1,2,7:45 PM,11:13,Joe 26' 3PT Jump Shot (9 PTS) (Harris 1 AST),,,30 - 40,10,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,210,1,1,2,7:46 PM,11:00,,,Nwaba 28' 3PT Jump Shot (3 PTS) (Gordon 1 AST),33 - 40,7,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,212,2,101,2,7:46 PM,10:47,MISS Curry 6' Driving Floating Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,213,4,0,2,7:46 PM,10:44,,,Augustin REBOUND (Off:0 Def:1),,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,214,1,9,2,7:46 PM,10:39,,,Tate 1' Driving Dunk (5 PTS) (Nwaba 2 AST),35 - 40,5,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,216,2,1,2,7:46 PM,10:18,MISS Curry 26' 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,217,4,0,2,7:46 PM,10:15,,,Augustin REBOUND (Off:0 Def:2),,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,218,6,1,2,7:46 PM,10:14,Joe P.FOUL (P2.T1) (A.Nagy),,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,220,5,45,2,7:47 PM,10:01,,,Augustin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100552,221,1,5,2,7:47 PM,9:51,Drummond Layup (2 PTS) (Curry 3 AST),,,35 - 42,7,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,223,6,2,2,7:47 PM,9:42,Joe S.FOUL (P3.T2) (K.Cutler),,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,225,3,11,2,7:48 PM,9:42,,,MISS Augustin Free Throw 1 of 2,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,226,4,1,2,7:48 PM,9:42,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,227,8,0,2,7:48 PM,9:42,SUB: Korkmaz FOR Joe,,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,229,3,12,2,7:48 PM,9:42,,,Augustin Free Throw 2 of 2 (1 PTS),36 - 42,6,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,230,2,1,2,7:49 PM,9:20,MISS Curry 25' 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,231,4,0,2,7:49 PM,9:15,,,Tate REBOUND (Off:0 Def:1),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,232,1,1,2,7:49 PM,9:06,,,Augustin 27' 3PT Jump Shot (4 PTS) (Tate 3 AST),39 - 42,3,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,234,1,58,2,7:49 PM,8:51,Harris 3' Turnaround Hook Shot (4 PTS),,,39 - 44,5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,235,1,6,2,7:49 PM,8:43,,,Tate 2' Driving Layup (7 PTS),41 - 44,3,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,236,2,1,2,7:50 PM,8:27,MISS Green 24' 3PT Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,237,4,0,2,7:50 PM,8:24,Drummond REBOUND (Off:1 Def:1),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,238,1,1,2,7:50 PM,8:17,Green 3PT Jump Shot (3 PTS) (Drummond 1 AST),,,41 - 47,6,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,240,2,6,2,7:50 PM,8:07,,,MISS Gordon 3' Driving Layup,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,241,4,0,2,7:50 PM,8:05,,,Gordon REBOUND (Off:1 Def:2),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,242,2,97,2,7:50 PM,8:05,,,MISS Gordon Tip Layup Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,243,4,0,2,7:50 PM,8:05,,,Martin Jr. REBOUND (Off:4 Def:0),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,244,2,97,2,7:50 PM,8:05,,,MISS Martin Jr. Tip Layup Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,245,4,0,2,7:50 PM,8:05,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,246,8,0,2,7:50 PM,8:05,,,SUB: Mathews FOR Nwaba,,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,248,2,79,2,7:51 PM,7:58,,,MISS Mathews 29' 3PT Pullup Jump Shot,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,249,4,0,2,7:51 PM,7:55,Curry REBOUND (Off:0 Def:1),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,250,1,1,2,7:51 PM,7:51,Green 25' 3PT Jump Shot (6 PTS) (Curry 4 AST),,,41 - 50,9,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,253,8,0,2,7:51 PM,7:34,,,SUB: Christopher FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,254,8,0,2,7:51 PM,7:34,,,SUB: Theis FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,257,1,99,2,7:51 PM,7:21,,,Christopher 3' Cutting Finger Roll Layup Shot (9 PTS) (Augustin 1 AST),43 - 50,7,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,259,1,52,2,7:52 PM,7:07,Drummond 1' Alley Oop Dunk (4 PTS) (Harris 2 AST),,,43 - 52,9,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,261,2,73,2,7:52 PM,6:53,Drummond BLOCK (1 BLK),,MISS Augustin 3' Driving Reverse Layup,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,263,4,0,2,7:52 PM,6:46,,,Martin Jr. REBOUND (Off:5 Def:0),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,264,1,87,2,7:52 PM,6:46,,,Martin Jr. Putback Dunk (6 PTS),45 - 52,7,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,265,2,47,2,7:52 PM,6:36,MISS Harris 9' Turnaround Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,266,4,0,2,7:52 PM,6:30,,,Martin Jr. REBOUND (Off:5 Def:1),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,267,1,1,2,7:52 PM,6:27,,,Martin Jr. 27' 3PT Jump Shot (9 PTS) (Christopher 1 AST),48 - 52,4,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,269,9,1,2,7:52 PM,6:24,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,270,2,80,2,7:56 PM,6:03,MISS Harris 17' Step Back Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,271,4,0,2,7:56 PM,5:59,,,Mathews REBOUND (Off:0 Def:4),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,272,2,80,2,7:56 PM,5:48,,,MISS Augustin 26' 3PT Step Back Jump Shot,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,273,4,0,2,7:56 PM,5:45,Drummond REBOUND (Off:1 Def:2),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,274,5,45,2,7:56 PM,5:29,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022100552,275,8,0,2,7:56 PM,5:29,SUB: Embiid FOR Drummond,,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,277,1,1,2,7:57 PM,5:16,,,Mathews 28' 3PT Jump Shot (12 PTS) (Augustin 2 AST),51 - 52,1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,279,1,5,2,7:57 PM,4:58,Embiid 1' Layup (15 PTS) (Harris 3 AST),,,51 - 54,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,281,1,98,2,7:57 PM,4:43,,,Mathews 3' Cutting Layup Shot (14 PTS) (Augustin 3 AST),53 - 54,1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,283,2,79,2,7:58 PM,4:21,MISS Curry 18' Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,284,4,0,2,7:58 PM,4:18,Embiid REBOUND (Off:3 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,285,1,9,2,7:58 PM,4:16,Harris 2' Driving Dunk (6 PTS) (Korkmaz 3 AST),,,53 - 56,3,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,287,2,1,2,7:58 PM,4:01,,,MISS Theis 16' Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,288,4,0,2,7:58 PM,3:59,Embiid REBOUND (Off:3 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,289,2,1,2,7:58 PM,3:49,MISS Curry 24' 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,290,4,0,2,7:58 PM,3:46,,,Martin Jr. REBOUND (Off:5 Def:2),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,291,1,50,2,7:58 PM,3:41,,,Christopher 1' Running Dunk (11 PTS) (Martin Jr. 1 AST),55 - 56,1,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,293,9,1,2,7:59 PM,3:31,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,294,8,0,2,8:01 PM,3:31,,,SUB: Green FOR Christopher,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,296,8,0,2,8:01 PM,3:31,SUB: Milton FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,298,1,7,2,8:02 PM,3:19,Embiid 1' Dunk (17 PTS),,,55 - 58,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,299,2,6,2,8:02 PM,2:58,,,MISS Theis 2' Driving Layup,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,300,4,0,2,8:02 PM,2:56,Embiid REBOUND (Off:3 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,301,1,75,2,8:02 PM,2:49,Embiid 1' Driving Finger Roll Layup (19 PTS),,,55 - 60,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,302,6,2,2,8:02 PM,2:41,Korkmaz S.FOUL (P1.T3) (B.Adair),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,304,3,11,2,8:03 PM,2:41,,,Green Free Throw 1 of 2 (3 PTS),56 - 60,4,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,305,8,0,2,8:03 PM,2:41,SUB: Niang FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,306,8,0,2,8:03 PM,2:41,,,SUB: Tate FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,307,8,0,2,8:03 PM,2:41,,,SUB: Gordon FOR Augustin,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,311,3,12,2,8:03 PM,2:41,,,MISS Green Free Throw 2 of 2,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,312,4,0,2,8:03 PM,2:39,Embiid REBOUND (Off:3 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,313,2,80,2,8:04 PM,2:17,MISS Embiid 24' 3PT Step Back Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,314,4,0,2,8:04 PM,2:12,,,Mathews REBOUND (Off:0 Def:5),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,315,2,41,2,8:04 PM,2:08,,,MISS Green 2' Running Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,316,4,0,2,8:04 PM,2:03,,,Theis REBOUND (Off:3 Def:2),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,317,1,87,2,8:04 PM,2:03,,,Theis Putback Dunk (2 PTS),58 - 60,2,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,318,2,1,2,8:04 PM,1:54,MISS Korkmaz 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,319,4,0,2,8:04 PM,1:51,,,Green REBOUND (Off:0 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,320,2,1,2,8:04 PM,1:40,,,MISS Theis 28' 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,321,4,0,2,8:04 PM,1:37,Milton REBOUND (Off:0 Def:2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,322,2,1,2,8:04 PM,1:29,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,323,4,0,2,8:04 PM,1:25,Embiid REBOUND (Off:4 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,324,2,97,2,8:04 PM,1:25,MISS Embiid Tip Layup Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,325,4,0,2,8:04 PM,1:25,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,327,2,73,2,8:05 PM,1:15,,,MISS Gordon 2' Driving Reverse Layup,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,328,4,0,2,8:05 PM,1:13,Niang REBOUND (Off:0 Def:4),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,329,2,1,2,8:05 PM,1:09,MISS Harris 26' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,330,4,0,2,8:05 PM,1:07,,,Tate REBOUND (Off:0 Def:2),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,331,1,2,2,8:05 PM,1:02,,,Mathews 3PT Running Jump Shot (17 PTS) (Tate 4 AST),61 - 60,-1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,333,2,102,2,8:05 PM,0:46,MISS Harris 1' Driving Floating Bank Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,334,4,0,2,8:05 PM,0:44,,,Theis REBOUND (Off:3 Def:3),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,335,5,45,2,8:05 PM,0:43,,,Theis Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100552,336,2,1,2,8:06 PM,0:32,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,337,4,0,2,8:06 PM,0:30,Korkmaz REBOUND (Off:1 Def:2),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,338,1,72,2,8:06 PM,0:30,Korkmaz Putback Layup (11 PTS),,,61 - 62,1,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,339,1,6,2,8:06 PM,0:10,,,Gordon 1' Driving Layup (7 PTS),63 - 62,-1,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,340,2,75,2,8:07 PM,0:01,MISS Milton 1' Driving Finger Roll Layup,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,341,4,0,2,8:07 PM,0:01,,,Mathews REBOUND (Off:0 Def:6),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,342,13,0,2,8:07 PM,0:00,,End of 2nd Period (8:07 PM EST),,63 - 62,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100552,347,12,0,3,8:22 PM,12:00,,Start of 3rd Period (8:22 PM EST),,63 - 62,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,348,1,1,3,8:22 PM,11:45,Embiid 28' 3PT Jump Shot (22 PTS) (Harris 4 AST),,,63 - 65,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,350,6,2,3,8:23 PM,11:18,Green S.FOUL (P1.T1) (K.Cutler),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,352,3,11,3,8:23 PM,11:18,,,Green Free Throw 1 of 2 (4 PTS),64 - 65,1,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,353,3,12,3,8:24 PM,11:18,,,Green Free Throw 2 of 2 (5 PTS),65 - 65,TIE,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,354,1,6,3,8:24 PM,11:08,Korkmaz 1' Driving Layup (13 PTS),,,65 - 67,2,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,355,6,2,3,8:24 PM,11:08,,,Green S.FOUL (P1.T1) (B.Adair),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,357,3,10,3,8:24 PM,11:08,Korkmaz Free Throw 1 of 1 (14 PTS),,,65 - 68,3,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,358,1,98,3,8:24 PM,10:58,,,Mathews Cutting Layup Shot (19 PTS) (Gordon 2 AST),67 - 68,1,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,360,2,1,3,8:25 PM,10:45,MISS Embiid 21' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,361,4,0,3,8:25 PM,10:42,,,Green REBOUND (Off:0 Def:2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,362,2,1,3,8:25 PM,10:36,,,MISS Tate 26' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,363,4,0,3,8:25 PM,10:34,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,365,1,79,3,8:25 PM,10:20,Curry 18' Pullup Jump Shot (2 PTS) (Embiid 5 AST),,,67 - 70,3,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,367,1,1,3,8:25 PM,10:08,,,Mathews 27' 3PT Jump Shot (22 PTS) (Tate 5 AST),70 - 70,TIE,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,369,1,58,3,8:26 PM,9:43,Korkmaz 7' Turnaround Hook Shot (16 PTS) (Embiid 6 AST),,,70 - 72,2,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,371,6,2,3,8:26 PM,9:34,Green S.FOUL (P2.T2) (B.Adair),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,373,3,11,3,8:26 PM,9:34,,,Tate Free Throw 1 of 2 (8 PTS),71 - 72,1,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,374,3,12,3,8:26 PM,9:34,,,MISS Tate Free Throw 2 of 2,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,375,4,0,3,8:27 PM,9:31,Korkmaz REBOUND (Off:1 Def:3),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,377,1,79,3,8:27 PM,9:14,Curry 11' Pullup Jump Shot (4 PTS) (Harris 5 AST),,,71 - 74,3,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,379,2,79,3,8:27 PM,9:04,,,MISS Gordon 26' 3PT Pullup Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,380,4,0,3,8:28 PM,9:02,Embiid REBOUND (Off:4 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,381,1,86,3,8:28 PM,8:55,Embiid 16' Turnaround Fadeaway (24 PTS),,,71 - 76,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,382,2,73,3,8:28 PM,8:43,Embiid BLOCK (1 BLK),,MISS Green 2' Driving Reverse Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,384,4,0,3,8:28 PM,8:42,Embiid REBOUND (Off:4 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,385,6,28,3,8:28 PM,8:42,,,Tate Personal Take Foul (P2.T2) (K.Cutler),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,387,6,4,3,8:28 PM,8:36,Embiid OFF.Foul (P1) (A.Nagy),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0022100552,389,5,37,3,8:28 PM,8:36,Embiid Offensive Foul Turnover (P2.T4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0022100552,390,2,1,3,8:29 PM,8:26,,,MISS Theis 26' 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,391,4,0,3,8:29 PM,8:22,Korkmaz REBOUND (Off:1 Def:4),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,392,6,1,3,8:29 PM,8:09,,,Theis P.FOUL (P3.T3) (B.Adair),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,394,8,0,3,8:29 PM,8:09,SUB: Niang FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,396,1,1,3,8:30 PM,8:01,Embiid 20' Jump Shot (26 PTS) (Harris 6 AST),,,71 - 78,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,398,6,2,3,8:30 PM,8:01,,,Theis S.FOUL (P4.T4) (A.Nagy),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,400,3,10,3,8:30 PM,8:01,Embiid Free Throw 1 of 1 (27 PTS),,,71 - 79,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,401,2,1,3,8:31 PM,7:48,,,MISS Tate 26' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,402,4,0,3,8:31 PM,7:45,Korkmaz REBOUND (Off:1 Def:5),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,403,1,79,3,8:31 PM,7:37,Curry 27' 3PT Pullup Jump Shot (7 PTS),,,71 - 82,11,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,404,9,1,3,8:31 PM,7:36,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,405,1,6,3,8:34 PM,7:12,,,Tate 2' Driving Layup (10 PTS),73 - 82,9,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,406,6,2,3,8:35 PM,6:53,,,Mathews S.FOUL (P3.PN) (A.Nagy),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,408,3,11,3,8:35 PM,6:53,Korkmaz Free Throw 1 of 2 (17 PTS),,,73 - 83,10,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,409,3,12,3,8:35 PM,6:53,Korkmaz Free Throw 2 of 2 (18 PTS),,,73 - 84,11,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,410,1,101,3,8:36 PM,6:42,,,Tate 3' Driving Floating Jump Shot (12 PTS),75 - 84,9,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,411,6,26,3,8:36 PM,6:25,Embiid Offensive Charge Foul (P2) (K.Cutler),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,413,5,37,3,8:36 PM,6:25,Embiid Offensive Foul Turnover (P3.T5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022100552,414,8,0,3,8:36 PM,6:25,SUB: Joe FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,416,6,1,3,8:37 PM,6:15,Niang P.FOUL (P1.T3) (A.Nagy),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,418,2,1,3,8:37 PM,6:09,,,MISS Tate 25' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,419,4,0,3,8:37 PM,6:06,Korkmaz REBOUND (Off:1 Def:6),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,421,2,6,3,8:37 PM,5:56,MISS Embiid 4' Driving Layup,,Theis BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1
+0022100552,423,4,0,3,8:37 PM,5:53,,,Tate REBOUND (Off:0 Def:3),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,424,2,1,3,8:38 PM,5:49,,,MISS Gordon 25' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,425,4,0,3,8:38 PM,5:46,Embiid REBOUND (Off:4 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,426,1,1,3,8:38 PM,5:34,Niang 24' 3PT Jump Shot (6 PTS) (Embiid 7 AST),,,75 - 87,12,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,428,2,80,3,8:38 PM,5:20,,,MISS Green 26' 3PT Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,429,4,0,3,8:38 PM,5:19,Curry REBOUND (Off:0 Def:2),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,431,5,39,3,8:38 PM,5:18,Curry Step Out of Bounds Turnover (P2.T6),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022100552,432,8,0,3,8:38 PM,5:18,SUB: Milton FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,433,8,0,3,8:38 PM,5:18,,,SUB: Martin Jr. FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,434,8,0,3,8:38 PM,5:18,,,SUB: Christopher FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,438,6,2,3,8:39 PM,5:17,Niang S.FOUL (P2.T4) (K.Cutler),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,440,3,11,3,8:39 PM,5:17,,,MISS Mathews Free Throw 1 of 2,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,441,4,1,3,8:39 PM,5:17,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,442,3,12,3,8:39 PM,5:17,,,Mathews Free Throw 2 of 2 (23 PTS),76 - 87,11,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,443,1,63,3,8:40 PM,5:09,Embiid 10' Fadeaway Jumper (29 PTS) (Milton 2 AST),,,76 - 89,13,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,445,1,1,3,8:40 PM,4:48,,,Theis 25' 3PT Jump Shot (5 PTS) (Martin Jr. 2 AST),79 - 89,10,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,447,5,2,3,8:40 PM,4:33,Embiid Lost Ball Turnover (P4.T7),,Christopher STEAL (2 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,449,1,5,3,8:40 PM,4:27,,,Martin Jr. Layup (11 PTS) (Christopher 2 AST),81 - 89,8,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,451,1,6,3,8:41 PM,4:07,Niang 3' Driving Layup (8 PTS) (Embiid 8 AST),,,81 - 91,10,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,453,2,1,3,8:41 PM,3:46,,,MISS Christopher 26' 3PT Jump Shot,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,454,4,0,3,8:41 PM,3:42,Embiid REBOUND (Off:4 Def:10),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,455,1,79,3,8:41 PM,3:34,Korkmaz 17' Pullup Jump Shot (20 PTS) (Embiid 9 AST),,,81 - 93,12,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,457,5,1,3,8:42 PM,3:09,Korkmaz STEAL (1 STL),,Green Bad Pass Turnover (P1.T6),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,463,6,1,3,8:42 PM,3:08,,,Mathews P.FOUL (P4.PN) (B.Adair),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0022100552,465,9,1,3,8:43 PM,3:08,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,466,8,0,3,8:44 PM,3:08,SUB: Drummond FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,468,8,0,3,8:45 PM,3:08,,,SUB: Nwaba FOR Mathews,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,470,3,11,3,8:45 PM,3:08,Korkmaz Free Throw 1 of 2 (21 PTS),,,81 - 94,13,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,471,3,12,3,8:46 PM,3:08,Korkmaz Free Throw 2 of 2 (22 PTS),,,81 - 95,14,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,472,2,80,3,8:46 PM,2:56,,,MISS Green 26' 3PT Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,473,4,0,3,8:46 PM,2:53,,,Nwaba REBOUND (Off:1 Def:1),,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,474,1,1,3,8:46 PM,2:49,,,Green 24' 3PT Jump Shot (8 PTS) (Nwaba 3 AST),84 - 95,11,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,476,2,1,3,8:46 PM,2:35,MISS Niang 27' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,477,4,0,3,8:46 PM,2:31,,,Theis REBOUND (Off:3 Def:4),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,478,2,41,3,8:46 PM,2:26,,,MISS Green 2' Running Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,479,4,0,3,8:46 PM,2:24,Joe REBOUND (Off:0 Def:1),,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,480,2,73,3,8:46 PM,2:18,MISS Milton 1' Driving Reverse Layup,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,481,4,0,3,8:46 PM,2:17,,,Theis REBOUND (Off:3 Def:5),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,482,1,106,3,8:46 PM,2:14,,,Green 1' Running Alley Oop Dunk Shot (10 PTS) (Christopher 3 AST),86 - 95,9,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,484,2,79,3,8:47 PM,1:53,MISS Korkmaz 27' 3PT Pullup Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,485,4,0,3,8:47 PM,1:50,,,Martin Jr. REBOUND (Off:5 Def:3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,486,6,1,3,8:47 PM,1:44,Niang P.FOUL (P3.PN) (A.Nagy),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,488,3,11,3,8:48 PM,1:44,,,Green Free Throw 1 of 2 (11 PTS),87 - 95,8,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,489,8,0,3,8:48 PM,1:44,SUB: Curry FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,490,8,0,3,8:48 PM,1:44,,,SUB: Tate FOR Theis,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,493,9,1,3,8:48 PM,1:44,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,494,8,0,3,8:50 PM,1:44,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,496,3,12,3,8:50 PM,1:44,,,Green Free Throw 2 of 2 (12 PTS),88 - 95,7,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,497,1,1,3,8:50 PM,1:26,Milton 28' 3PT Jump Shot (5 PTS) (Curry 5 AST),,,88 - 98,10,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,499,1,6,3,8:50 PM,1:06,,,Tate 1' Driving Layup (14 PTS),90 - 98,8,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,500,1,1,3,8:51 PM,0:52,Joe 28' 3PT Jump Shot (12 PTS) (Drummond 2 AST),,,90 - 101,11,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,502,6,2,3,8:51 PM,0:41,Milton S.FOUL (P3.PN) (K.Cutler),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,504,3,11,3,8:51 PM,0:41,,,Christopher Free Throw 1 of 2 (12 PTS),91 - 101,10,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,505,8,0,3,8:51 PM,0:41,,,SUB: Gordon FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,507,3,12,3,8:52 PM,0:41,,,Christopher Free Throw 2 of 2 (13 PTS),92 - 101,9,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,508,5,1,3,8:52 PM,0:23,Harris Bad Pass Turnover (P1.T8),,Gordon STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,510,7,5,3,8:52 PM,0:20,Curry Violation:Kicked Ball (A.Nagy),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0022100552,511,2,1,3,8:53 PM,0:03,,,MISS Martin Jr. 24' 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,512,4,0,3,8:53 PM,0:00,Drummond REBOUND (Off:1 Def:3),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,513,6,1,3,8:53 PM,0:00,,,Tate P.FOUL (P3.PN) (A.Nagy),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,515,3,11,3,8:53 PM,0:00,Drummond Free Throw 1 of 2 (5 PTS),,,92 - 102,10,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,516,3,12,3,8:54 PM,0:00,Drummond Free Throw 2 of 2 (6 PTS),,,92 - 103,11,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,517,13,0,3,8:54 PM,0:00,,End of 3rd Period (8:54 PM EST),,92 - 103,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100552,520,12,0,4,8:56 PM,12:00,,Start of 4th Period (8:56 PM EST),,92 - 103,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,521,2,79,4,8:57 PM,11:35,,,MISS Augustin 26' 3PT Pullup Jump Shot,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,522,4,0,4,8:57 PM,11:32,Curry REBOUND (Off:0 Def:3),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,523,2,101,4,8:57 PM,11:16,MISS Harris 3' Driving Floating Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,524,4,0,4,8:57 PM,11:16,Harris REBOUND (Off:1 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,525,1,72,4,8:57 PM,11:13,Harris 2' Putback Layup (8 PTS),,,92 - 105,13,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,526,5,2,4,8:57 PM,11:01,Milton STEAL (1 STL),,Gordon Lost Ball Turnover (P2.T7),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,528,2,1,4,8:57 PM,10:52,MISS Milton 25' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,529,4,0,4,8:58 PM,10:49,Drummond REBOUND (Off:2 Def:3),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,530,1,72,4,8:58 PM,10:46,Drummond 1' Putback Layup (8 PTS),,,92 - 107,15,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,531,6,2,4,8:58 PM,10:33,Drummond S.FOUL (P1.T1) (A.Nagy),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,533,3,11,4,8:58 PM,10:33,,,Gordon Free Throw 1 of 2 (8 PTS),93 - 107,14,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,534,3,12,4,8:58 PM,10:33,,,MISS Gordon Free Throw 2 of 2,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,535,4,0,4,8:58 PM,10:31,Drummond REBOUND (Off:2 Def:4),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,536,2,5,4,8:59 PM,10:10,MISS Drummond 6' Layup,,Tate BLOCK (2 BLK),,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1
+0022100552,538,4,0,4,8:59 PM,10:10,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,540,5,11,4,8:59 PM,10:08,76ERS Turnover: Shot Clock (T#9),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100552,541,2,1,4,9:00 PM,9:52,,,MISS Tate 24' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,542,4,0,4,9:00 PM,9:49,Curry REBOUND (Off:0 Def:4),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,543,1,79,4,9:00 PM,9:42,Curry 27' 3PT Pullup Jump Shot (10 PTS),,,93 - 110,17,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,544,1,1,4,9:00 PM,9:16,,,Gordon 26' 3PT Jump Shot (11 PTS),96 - 110,14,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,545,2,1,4,9:01 PM,8:56,MISS Milton 28' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,546,4,0,4,9:01 PM,8:54,Harris REBOUND (Off:2 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,547,1,86,4,9:01 PM,8:49,Harris 7' Turnaround Fadeaway (10 PTS),,,96 - 112,16,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,548,5,4,4,9:01 PM,8:30,,,Gordon Traveling Turnover (P3.T8),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022100552,549,5,2,4,9:02 PM,8:16,Curry Lost Ball Turnover (P3.T10),,Tate STEAL (1 STL),,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,551,1,50,4,9:02 PM,8:10,,,Nwaba 1' Running Dunk (5 PTS) (Martin Jr. 3 AST),98 - 112,14,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,553,2,1,4,9:02 PM,7:57,MISS Joe 29' 3PT Jump Shot,,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,554,4,0,4,9:02 PM,7:55,,,Nwaba REBOUND (Off:1 Def:2),,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,560,8,0,4,9:03 PM,7:49,SUB: Green FOR Joe,,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,561,8,0,4,9:03 PM,7:49,,,SUB: Mathews FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,564,2,6,4,9:03 PM,7:49,Milton BLOCK (1 BLK),,MISS Nwaba 11' Driving Layup,,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,569,4,0,4,9:03 PM,7:46,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,566,10,0,4,9:04 PM,7:46,Jump Ball Curry vs. Nwaba: Tip to Harris,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,570,2,6,4,9:04 PM,7:40,MISS Milton 2' Driving Layup,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,571,4,0,4,9:04 PM,7:40,Harris REBOUND (Off:3 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,572,1,87,4,9:04 PM,7:35,Harris Putback Dunk (12 PTS),,,98 - 114,16,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,573,1,1,4,9:04 PM,7:30,,,Gordon 26' 3PT Jump Shot (14 PTS) (Nwaba 4 AST),101 - 114,13,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,576,9,1,4,9:05 PM,7:26,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,577,8,0,4,9:07 PM,7:26,SUB: Embiid FOR Drummond,,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,578,8,0,4,9:07 PM,7:26,SUB: Korkmaz FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,581,1,75,4,9:07 PM,7:13,Korkmaz 2' Driving Finger Roll Layup (24 PTS),,,101 - 116,15,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,583,2,80,4,9:08 PM,6:48,,,MISS Augustin 24' 3PT Step Back Jump Shot,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,584,4,0,4,9:08 PM,6:45,Korkmaz REBOUND (Off:1 Def:7),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,585,2,1,4,9:08 PM,6:40,MISS Curry 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,586,4,0,4,9:08 PM,6:37,,,Mathews REBOUND (Off:0 Def:7),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,587,1,5,4,9:08 PM,6:27,,,Nwaba 1' Layup (7 PTS) (Gordon 3 AST),103 - 116,13,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,589,5,45,4,9:09 PM,6:02,Embiid Out of Bounds - Bad Pass Turnover Turnover (P5.T11),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022100552,590,8,0,4,9:09 PM,6:02,,,SUB: Christopher FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,591,8,0,4,9:09 PM,6:02,,,SUB: Theis FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,594,2,6,4,9:09 PM,5:51,Embiid BLOCK (2 BLK),,MISS Christopher 2' Driving Layup,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,596,4,0,4,9:09 PM,5:49,Harris REBOUND (Off:3 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,597,2,2,4,9:09 PM,5:47,MISS Korkmaz 28' 3PT Running Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,598,4,0,4,9:09 PM,5:43,,,Theis REBOUND (Off:3 Def:6),,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,599,2,1,4,9:09 PM,5:34,,,MISS Theis 24' 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,600,4,0,4,9:09 PM,5:31,Green REBOUND (Off:0 Def:1),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,602,6,2,4,9:10 PM,5:25,,,Mathews S.FOUL (P5.T1) (A.Nagy),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022100552,604,3,11,4,9:10 PM,5:25,Harris Free Throw 1 of 2 (13 PTS),,,103 - 117,14,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,607,8,0,4,9:10 PM,5:25,,,SUB: Green FOR Augustin,,,5,201571,D.J. Augustin,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,608,3,12,4,9:10 PM,5:25,Harris Free Throw 2 of 2 (14 PTS),,,103 - 118,15,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,609,2,1,4,9:11 PM,5:16,,,MISS Mathews 25' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,610,4,0,4,9:11 PM,5:13,Curry REBOUND (Off:0 Def:5),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,611,2,1,4,9:11 PM,4:55,MISS Harris 24' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,612,4,0,4,9:11 PM,4:52,Embiid REBOUND (Off:5 Def:10),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,613,5,40,4,9:11 PM,4:52,Embiid Out of Bounds Lost Ball Turnover (P6.T12),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022100552,614,2,1,4,9:11 PM,4:42,,,MISS Theis 24' 3PT Jump Shot,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,615,4,0,4,9:12 PM,4:38,Korkmaz REBOUND (Off:1 Def:8),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,616,1,79,4,9:12 PM,4:20,Curry 22' Pullup Jump Shot (12 PTS) (Embiid 10 AST),,,103 - 120,17,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,618,2,79,4,9:12 PM,4:08,,,MISS Mathews 26' 3PT Pullup Jump Shot,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,619,4,0,4,9:12 PM,4:05,Korkmaz REBOUND (Off:1 Def:9),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,620,1,41,4,9:12 PM,4:01,Embiid 2' Running Layup (31 PTS) (Korkmaz 4 AST),,,103 - 122,19,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,622,9,1,4,9:12 PM,4:00,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,623,8,0,4,9:15 PM,4:00,SUB: Niang FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,624,8,0,4,9:15 PM,4:00,SUB: Drummond FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,627,5,2,4,9:15 PM,3:48,Drummond STEAL (1 STL),,Green Lost Ball Turnover (P2.T9),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,629,2,41,4,9:15 PM,3:46,MISS Drummond 3' Running Layup,,Nwaba BLOCK (1 BLK),,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,1
+0022100552,631,4,0,4,9:15 PM,3:46,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,634,2,73,4,9:16 PM,3:36,MISS Korkmaz Driving Reverse Layup,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,635,4,0,4,9:16 PM,3:34,,,Green REBOUND (Off:0 Def:3),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,636,2,1,4,9:16 PM,3:28,,,MISS Christopher 24' 3PT Jump Shot,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,637,4,0,4,9:16 PM,3:23,Korkmaz REBOUND (Off:1 Def:10),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,638,1,79,4,9:16 PM,3:08,Curry 25' 3PT Pullup Jump Shot (15 PTS),,,103 - 125,22,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,640,8,0,4,9:17 PM,2:56,SUB: Joe FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,642,8,0,4,9:17 PM,2:56,SUB: Reed FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,643,8,0,4,9:17 PM,2:56,,,SUB: Nix FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,644,8,0,4,9:17 PM,2:56,,,SUB: Queen FOR Mathews,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1630243,Trevelin Queen,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022100552,648,1,52,4,9:18 PM,2:48,,,Nwaba 1' Alley Oop Dunk (9 PTS) (Nix 1 AST),105 - 125,20,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,650,1,1,4,9:18 PM,2:27,Joe 25' 3PT Jump Shot (15 PTS) (Korkmaz 5 AST),,,105 - 128,23,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,652,5,2,4,9:18 PM,2:20,Joe STEAL (1 STL),,Nix Lost Ball Turnover (P1.T10),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,654,1,2,4,9:18 PM,2:16,Joe 27' 3PT Running Jump Shot (18 PTS) (Korkmaz 6 AST),,,105 - 131,26,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,656,2,1,4,9:18 PM,1:55,,,MISS Queen 26' 3PT Jump Shot,,,5,1630243,Trevelin Queen,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,657,4,0,4,9:18 PM,1:52,Drummond REBOUND (Off:2 Def:5),,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,659,8,0,4,9:19 PM,1:34,SUB: Henry FOR Drummond,,,,,4,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,1630565,Aaron Henry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,660,8,0,4,9:19 PM,1:34,SUB: Bassey FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629646,Charles Bassey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022100552,663,5,11,4,9:19 PM,1:30,76ERS Turnover: Shot Clock (T#13),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100552,664,1,6,4,9:20 PM,1:19,,,Theis 2' Driving Layup (7 PTS) (Christopher 4 AST),107 - 131,24,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,666,6,2,4,9:20 PM,1:19,Bassey S.FOUL (P1.T2) (B.Adair),,,,,4,1629646,Charles Bassey,1610612755.0,Philadelphia,76ers,PHI,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022100552,668,3,10,4,9:20 PM,1:19,,,MISS Theis Free Throw 1 of 1,,,5,1628464,Daniel Theis,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,669,4,0,4,9:20 PM,1:16,,,Queen REBOUND (Off:1 Def:0),,,5,1630243,Trevelin Queen,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,670,1,1,4,9:20 PM,1:15,,,Nwaba 25' 3PT Jump Shot (12 PTS) (Queen 1 AST),110 - 131,21,5,1628021,David Nwaba,1610612745.0,Houston,Rockets,HOU,5,1630243,Trevelin Queen,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,672,2,1,4,9:21 PM,0:57,MISS Joe 28' 3PT Jump Shot,,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,676,4,0,4,9:21 PM,0:49,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100552,673,10,0,4,9:21 PM,0:49,Jump Ball Henry vs. Queen: Tip to Bassey,,,,,4,1630565,Aaron Henry,1610612755.0,Philadelphia,76ers,PHI,5,1630243,Trevelin Queen,1610612745.0,Houston,Rockets,HOU,4,1629646,Charles Bassey,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,677,2,105,4,9:21 PM,0:36,MISS Reed 14' Turnaround Fadeaway Bank Jump Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,678,4,0,4,9:22 PM,0:33,,,Nix REBOUND (Off:0 Def:1),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,679,5,2,4,9:22 PM,0:29,Reed STEAL (2 STL),,Nix Lost Ball Turnover (P2.T11),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,681,5,1,4,9:22 PM,0:24,Henry Bad Pass Turnover (P1.T14),,Christopher STEAL (3 STL),,,4,1630565,Aaron Henry,1610612755.0,Philadelphia,76ers,PHI,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022100552,683,2,41,4,9:22 PM,0:19,Henry BLOCK (1 BLK),,MISS Christopher 1' Running Layup,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1630565,Aaron Henry,1610612755.0,Philadelphia,76ers,PHI,1
+0022100552,685,4,0,4,9:22 PM,0:15,Joe REBOUND (Off:0 Def:2),,,,,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022100552,686,1,7,4,9:22 PM,0:14,Bassey 1' Dunk (2 PTS) (Joe 1 AST),,,110 - 133,23,4,1629646,Charles Bassey,1610612755.0,Philadelphia,76ers,PHI,4,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022100552,688,1,79,4,9:22 PM,0:07,,,Queen 28' 3PT Pullup Jump Shot (3 PTS),113 - 133,20,5,1630243,Trevelin Queen,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022100552,689,13,0,4,9:23 PM,0:00,,End of 4th Period (9:23 PM EST),,113 - 133,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

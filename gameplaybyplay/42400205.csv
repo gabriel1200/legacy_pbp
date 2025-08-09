@@ -1,0 +1,509 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042400205,2,12,0,1,7:07 PM,12:00,,Start of 1st Period (7:07 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,4,10,0,1,7:07 PM,12:00,Jump Ball Allen vs. Turner: Tip to Mobley,,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042400205,7,5,1,1,7:07 PM,11:47,Garland Bad Pass Turnover (P1.T1),,Haliburton STEAL (1 STL),,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,9,1,6,1,7:07 PM,11:37,,,Nembhard 1' Driving Layup (2 PTS) (Siakam 1 AST),2 - 0,-2,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,11,1,108,1,7:08 PM,11:26,Allen Cutting Dunk Shot (2 PTS) (Garland 1 AST),,,2 - 2,TIE,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,13,2,6,1,7:08 PM,11:10,,,MISS Nembhard 1' Driving Layup,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,14,4,0,1,7:08 PM,11:08,Allen REBOUND (Off:0 Def:1),,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,15,2,2,1,7:08 PM,11:03,MISS Strus 24' 3PT Running Jump Shot,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,16,4,0,1,7:08 PM,10:59,Mobley REBOUND (Off:1 Def:0),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,17,2,1,1,7:08 PM,10:55,MISS Garland 29' 3PT Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,18,4,0,1,7:08 PM,10:52,,,Haliburton REBOUND (Off:0 Def:1),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,19,6,2,1,7:08 PM,10:40,Strus S.FOUL (P1.T1) (B.Taylor),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,21,3,11,1,7:09 PM,10:40,,,MISS Siakam Free Throw 1 of 2,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,22,4,1,1,7:09 PM,10:40,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,23,3,12,1,7:09 PM,10:40,,,Siakam Free Throw 2 of 2 (1 PTS),3 - 2,-1,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,24,2,47,1,7:09 PM,10:24,MISS Garland 9' Turnaround Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,25,4,0,1,7:09 PM,10:21,,,Turner REBOUND (Off:0 Def:1),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,26,2,1,1,7:10 PM,10:14,,,MISS Turner 14' Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,27,4,0,1,7:10 PM,10:12,Allen REBOUND (Off:0 Def:2),,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,28,2,86,1,7:10 PM,10:04,MISS Mitchell 14' Turnaround Fadeaway Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,29,4,0,1,7:10 PM,10:01,,,Nesmith REBOUND (Off:0 Def:1),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,30,2,1,1,7:10 PM,9:51,,,MISS Siakam 24' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,31,4,0,1,7:10 PM,9:48,Mobley REBOUND (Off:1 Def:1),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,32,1,58,1,7:10 PM,9:39,Mobley 7' Turnaround Hook Shot (2 PTS),,,3 - 4,1,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,33,2,1,1,7:10 PM,9:24,,,MISS Haliburton 25' 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,34,4,0,1,7:10 PM,9:20,Strus REBOUND (Off:0 Def:1),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,35,6,1,1,7:11 PM,9:17,,,Haliburton P.FOUL (P1.T1) (J.Capers),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,37,2,57,1,7:11 PM,9:06,MISS Mobley 9' Driving Hook Shot,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,38,4,0,1,7:11 PM,9:04,,,Siakam REBOUND (Off:0 Def:1),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,39,1,73,1,7:11 PM,8:58,,,Siakam 2' Driving Reverse Layup (3 PTS),5 - 4,-1,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,40,2,79,1,7:12 PM,8:38,MISS Mobley 23' Pullup Jump Shot,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,41,4,0,1,7:12 PM,8:36,,,Turner REBOUND (Off:0 Def:2),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,42,2,1,1,7:12 PM,8:30,,,MISS Siakam 17' Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,43,4,0,1,7:12 PM,8:29,,,Turner REBOUND (Off:1 Def:2),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,44,6,2,1,7:12 PM,8:29,Strus S.FOUL (P2.T2) (J.Capers),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,46,3,11,1,7:12 PM,8:29,,,MISS Turner Free Throw 1 of 2,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,47,4,1,1,7:12 PM,8:29,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,48,3,12,1,7:13 PM,8:29,,,Turner Free Throw 2 of 2 (1 PTS),6 - 4,-2,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,49,2,80,1,7:13 PM,8:10,MISS Mitchell 16' Step Back Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,50,4,0,1,7:13 PM,8:07,,,Siakam REBOUND (Off:0 Def:2),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,51,2,1,1,7:13 PM,8:02,,,MISS Turner 27' 3PT Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,52,4,0,1,7:13 PM,7:59,Garland REBOUND (Off:0 Def:1),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,53,2,1,1,7:13 PM,7:49,MISS Mitchell 24' 3PT Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,54,4,0,1,7:13 PM,7:46,,,Siakam REBOUND (Off:0 Def:3),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,55,2,1,1,7:14 PM,7:33,,,MISS Nesmith 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,56,4,0,1,7:14 PM,7:31,Allen REBOUND (Off:0 Def:3),,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,57,6,2,1,7:14 PM,7:25,,,Turner S.FOUL (P1.T2) (J.Capers),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,59,3,11,1,7:14 PM,7:25,Mobley Free Throw 1 of 2 (3 PTS),,,6 - 5,-1,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,60,3,12,1,7:14 PM,7:25,Mobley Free Throw 2 of 2 (4 PTS),,,6 - 6,TIE,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,61,2,6,1,7:15 PM,7:12,Mitchell BLOCK (1 BLK),,MISS Turner 2' Driving Layup,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042400205,63,4,0,1,7:15 PM,7:12,Mitchell REBOUND (Off:0 Def:1),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,64,1,41,1,7:15 PM,7:09,Mitchell 2' Running Layup (2 PTS),,,6 - 8,2,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,65,6,2,1,7:15 PM,7:09,,,Haliburton S.FOUL (P2.T3) (J.Capers),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,67,8,0,1,7:15 PM,7:09,,,SUB: Mathurin FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,69,3,10,1,7:16 PM,7:09,Mitchell Free Throw 1 of 1 (3 PTS),,,6 - 9,3,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,70,1,75,1,7:16 PM,6:51,,,Nembhard Driving Finger Roll Layup (4 PTS),8 - 9,1,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,71,1,108,1,7:16 PM,6:32,Mobley 1' Cutting Dunk Shot (6 PTS) (Garland 2 AST),,,8 - 11,3,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,74,9,1,1,7:17 PM,6:15,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,75,8,0,1,7:17 PM,6:15,SUB: Hunter FOR Mobley,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,76,8,0,1,7:17 PM,6:15,SUB: Wade FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,77,8,0,1,7:17 PM,6:15,,,SUB: Toppin FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,78,8,0,1,7:17 PM,6:15,,,SUB: Bryant FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,83,8,0,1,7:20 PM,6:15,,,SUB: McConnell FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,85,6,4,1,7:21 PM,6:09,,,Toppin OFF.Foul (P1) (B.Taylor),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,87,5,37,1,7:21 PM,6:09,,,Toppin Offensive Foul Turnover (P1.T1),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400205,88,1,78,1,7:21 PM,5:56,Allen 11' Floating Jump Shot (4 PTS) (Garland 3 AST),,,8 - 13,5,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,90,6,4,1,7:21 PM,5:46,,,Mathurin OFF.Foul (P1) (J.Capers),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,92,5,37,1,7:21 PM,5:46,,,Mathurin Offensive Foul Turnover (P1.T2),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400205,93,2,79,1,7:21 PM,5:39,MISS Garland 27' 3PT Pullup Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,94,4,0,1,7:22 PM,5:36,,,McConnell REBOUND (Off:0 Def:1),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,95,2,6,1,7:22 PM,5:28,,,MISS Nesmith Driving Layup,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,96,4,0,1,7:22 PM,5:26,,,Nesmith REBOUND (Off:1 Def:1),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,97,1,72,1,7:22 PM,5:24,,,Nesmith 2' Putback Layup (2 PTS),10 - 13,3,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,98,2,75,1,7:22 PM,5:14,MISS Garland 3' Driving Finger Roll Layup,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,99,4,0,1,7:22 PM,5:14,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,100,6,3,1,7:22 PM,5:14,Allen L.B.FOUL (P1.T3) (J.Capers),,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,102,8,0,1,7:22 PM,5:14,SUB: Okoro FOR Strus,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,104,1,101,1,7:23 PM,5:01,,,Mathurin 9' Driving Floating Jump Shot (2 PTS),12 - 13,1,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,105,1,79,1,7:23 PM,4:36,Garland 18' Pullup Jump Shot (2 PTS),,,12 - 15,3,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,106,2,86,1,7:23 PM,4:12,,,MISS Bryant 13' Turnaround Fadeaway Shot,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,107,4,0,1,7:23 PM,4:12,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,109,8,0,1,7:24 PM,4:12,SUB: Mitchell FOR Garland,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,111,6,2,1,7:24 PM,4:02,,,Bryant S.FOUL (P1.T4) (J.Capers),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,113,3,11,1,7:25 PM,4:02,Mitchell Free Throw 1 of 2 (4 PTS),,,12 - 16,4,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,114,8,0,1,7:25 PM,4:02,,,SUB: Nembhard FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,116,8,0,1,7:25 PM,4:02,,,SUB: Siakam FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,118,8,0,1,7:25 PM,4:02,,,SUB: Toppin FOR Bryant,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,120,3,12,1,7:26 PM,4:02,Mitchell Free Throw 2 of 2 (5 PTS),,,12 - 17,5,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,121,2,79,1,7:26 PM,3:44,,,MISS Mathurin 24' 3PT Pullup Jump Shot,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,122,4,0,1,7:26 PM,3:43,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,124,6,2,1,7:26 PM,3:35,,,Toppin S.FOUL (P2.PN) (M.Lindsay),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,126,3,11,1,7:27 PM,3:35,Mitchell Free Throw 1 of 2 (6 PTS),,,12 - 18,6,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,127,8,0,1,7:27 PM,3:35,,,SUB: Sheppard FOR Mathurin,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,128,8,0,1,7:27 PM,3:35,,,SUB: Haliburton FOR Nesmith,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,131,3,12,1,7:27 PM,3:35,Mitchell Free Throw 2 of 2 (7 PTS),,,12 - 19,7,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,132,2,1,1,7:28 PM,3:21,,,MISS Siakam 16' Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,133,4,0,1,7:28 PM,3:19,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,135,5,1,1,7:28 PM,3:03,Allen Bad Pass Turnover (P1.T2),,Toppin STEAL (1 STL),,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,137,5,1,1,7:28 PM,2:59,Allen STEAL (1 STL),,Toppin Bad Pass Turnover (P2.T3),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,139,1,51,1,7:28 PM,2:59,Allen 1' Reverse Dunk (6 PTS) (Mitchell 1 AST),,,12 - 21,9,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,141,9,1,1,7:29 PM,2:59,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,142,8,0,1,7:29 PM,2:59,SUB: Mobley FOR Allen,,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,143,8,0,1,7:29 PM,2:59,,,SUB: Bryant FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,144,8,0,1,7:29 PM,2:59,,,SUB: Turner FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,148,8,0,1,7:32 PM,2:59,,,SUB: Nembhard FOR Bryant,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,150,1,80,1,7:32 PM,2:41,,,Nembhard 12' Step Back Jump Shot (6 PTS) (Siakam 2 AST),14 - 21,7,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,152,2,80,1,7:32 PM,2:31,MISS Mitchell 26' 3PT Step Back Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,153,4,0,1,7:32 PM,2:30,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,155,2,1,1,7:33 PM,2:09,,,MISS Nembhard 32' 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,156,4,0,1,7:33 PM,2:05,Mobley REBOUND (Off:1 Def:2),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,157,1,6,1,7:33 PM,1:56,Mobley 1' Driving Layup (8 PTS),,,14 - 23,9,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,158,5,2,1,7:33 PM,1:47,Mitchell STEAL (1 STL),,Haliburton Lost Ball Turnover (P1.T4),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,160,1,41,1,7:33 PM,1:46,Mitchell 1' Running Layup (9 PTS),,,14 - 25,11,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,161,6,2,1,7:33 PM,1:46,,,Siakam S.FOUL (P1.PN) (M.Lindsay),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,163,8,0,1,7:34 PM,1:46,,,SUB: McConnell FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,165,3,10,1,7:34 PM,1:46,MISS Mitchell Free Throw 1 of 1,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,166,4,0,1,7:34 PM,1:43,,,McConnell REBOUND (Off:0 Def:2),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,167,1,1,1,7:34 PM,1:36,,,Sheppard 28' 3PT Jump Shot (3 PTS) (McConnell 1 AST),17 - 25,8,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,170,6,2,1,7:34 PM,1:17,,,Turner S.FOUL (P2.PN) (B.Taylor),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,172,3,11,1,7:35 PM,1:17,Mobley Free Throw 1 of 2 (9 PTS),,,17 - 26,9,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,173,8,0,1,7:35 PM,1:17,,,SUB: Bryant FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,175,3,12,1,7:35 PM,1:17,Mobley Free Throw 2 of 2 (10 PTS),,,17 - 27,10,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,176,2,1,1,7:35 PM,0:56,,,MISS Nembhard 33' 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,177,4,0,1,7:36 PM,0:53,Mobley REBOUND (Off:1 Def:3),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,178,1,101,1,7:36 PM,0:36,Mitchell 9' Driving Floating Jump Shot (11 PTS),,,17 - 29,12,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,179,2,79,1,7:36 PM,0:20,,,MISS McConnell 7' Pullup Jump Shot,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,180,4,0,1,7:36 PM,0:18,Mitchell REBOUND (Off:0 Def:2),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,181,6,2,1,7:36 PM,0:04,,,Sheppard S.FOUL (P1.PN) (M.Lindsay),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,183,3,11,1,7:37 PM,0:04,Mitchell Free Throw 1 of 2 (12 PTS),,,17 - 30,13,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,184,8,0,1,7:37 PM,0:04,,,SUB: Haliburton FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,185,8,0,1,7:37 PM,0:04,,,SUB: Nesmith FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,188,3,12,1,7:37 PM,0:04,Mitchell Free Throw 2 of 2 (13 PTS),,,17 - 31,14,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,189,6,2,1,7:38 PM,0:02,Okoro S.FOUL (P1.T4) (B.Taylor),,,,,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,191,3,13,1,7:38 PM,0:02,,,Haliburton Free Throw 1 of 3 (1 PTS),18 - 31,13,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,192,3,14,1,7:38 PM,0:02,,,Haliburton Free Throw 2 of 3 (2 PTS),19 - 31,12,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,193,3,15,1,7:38 PM,0:02,,,MISS Haliburton Free Throw 3 of 3,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,194,4,0,1,7:38 PM,0:02,Wade REBOUND (Off:0 Def:1),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,195,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,19 - 31,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400205,200,12,0,2,7:43 PM,12:00,,Start of 2nd Period (7:43 PM EST),,19 - 31,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,201,2,1,2,7:43 PM,11:41,,,MISS Nesmith 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,202,4,0,2,7:43 PM,11:38,Hunter REBOUND (Off:0 Def:1),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,203,1,76,2,7:43 PM,11:35,Hunter 2' Running Finger Roll Layup (2 PTS),,,19 - 33,14,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,204,2,101,2,7:43 PM,11:09,,,MISS Siakam 8' Driving Floating Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,205,4,0,2,7:43 PM,11:05,,,McConnell REBOUND (Off:1 Def:2),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,206,5,2,2,7:44 PM,10:58,Mitchell STEAL (2 STL),,Sheppard Lost Ball Turnover (P1.T5),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,208,5,2,2,7:44 PM,10:52,Mitchell Lost Ball Turnover (P1.T3),,Sheppard STEAL (1 STL),,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,210,6,1,2,7:44 PM,10:45,Mitchell P.FOUL (P1.T1) (J.Capers),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,212,8,0,2,7:44 PM,10:45,,,SUB: Mathurin FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,214,2,6,2,7:44 PM,10:32,,,MISS Siakam 1' Driving Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,215,4,0,2,7:44 PM,10:29,Hunter REBOUND (Off:0 Def:2),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,216,5,45,2,7:45 PM,10:26,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042400205,217,2,1,2,7:45 PM,10:19,,,MISS Toppin 28' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,218,4,0,2,7:45 PM,10:13,Wade REBOUND (Off:0 Def:2),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,219,1,79,2,7:45 PM,10:03,Hunter 24' 3PT Pullup Jump Shot (5 PTS),,,19 - 36,17,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,220,1,101,2,7:45 PM,9:52,,,Siakam Driving Floating Jump Shot (5 PTS) (Toppin 1 AST),21 - 36,15,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,222,6,2,2,7:45 PM,9:52,Wade S.FOUL (P1.T2) (B.Taylor),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,224,8,0,2,7:46 PM,9:52,SUB: Garland FOR Wade,,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,225,8,0,2,7:46 PM,9:52,SUB: Strus FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,228,3,10,2,7:46 PM,9:52,,,MISS Siakam Free Throw 1 of 1,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,229,4,0,2,7:46 PM,9:50,Hunter REBOUND (Off:0 Def:3),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,230,1,58,2,7:46 PM,9:33,Mobley 10' Turnaround Hook Shot (12 PTS),,,21 - 38,17,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,231,6,2,2,7:46 PM,9:24,Strus S.FOUL (P3.T3) (J.Capers),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,233,3,11,2,7:47 PM,9:24,,,Toppin Free Throw 1 of 2 (1 PTS),22 - 38,16,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,234,8,0,2,7:47 PM,9:24,SUB: Allen FOR Strus,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,235,8,0,2,7:47 PM,9:24,,,SUB: Turner FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,236,8,0,2,7:47 PM,9:24,,,SUB: Haliburton FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,240,3,12,2,7:47 PM,9:24,,,Toppin Free Throw 2 of 2 (2 PTS),23 - 38,15,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,241,1,44,2,7:48 PM,9:06,Allen 1' Reverse Layup (8 PTS) (Hunter 1 AST),,,23 - 40,17,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,243,6,2,2,7:48 PM,8:56,Garland S.FOUL (P1.T4) (J.Capers),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,245,3,13,2,7:48 PM,8:56,,,MISS Nesmith Free Throw 1 of 3,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,246,4,1,2,7:48 PM,8:56,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,247,3,14,2,7:49 PM,8:56,,,Nesmith Free Throw 2 of 3 (3 PTS),24 - 40,16,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,248,3,15,2,7:49 PM,8:56,,,Nesmith Free Throw 3 of 3 (4 PTS),25 - 40,15,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,249,1,102,2,7:49 PM,8:43,Hunter 1' Driving Floating Bank Jump Shot (7 PTS),,,25 - 42,17,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,250,5,45,2,7:50 PM,8:22,,,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400205,251,9,1,2,7:50 PM,8:22,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,252,6,2,2,7:54 PM,8:10,,,Toppin S.FOUL (P3.T1) (M.Lindsay),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,254,3,11,2,7:54 PM,8:10,Mobley Free Throw 1 of 2 (13 PTS),,,25 - 43,18,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,255,8,0,2,7:54 PM,8:10,,,SUB: Siakam FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,257,8,0,2,7:54 PM,8:10,,,SUB: Nembhard FOR Mathurin,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,259,3,12,2,7:55 PM,8:10,Mobley Free Throw 2 of 2 (14 PTS),,,25 - 44,19,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,260,1,80,2,7:55 PM,7:55,,,Haliburton 24' 3PT Step Back Jump Shot (5 PTS),28 - 44,16,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,261,6,1,2,7:55 PM,7:47,,,Nesmith P.FOUL (P1.T2) (M.Lindsay),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,263,5,1,2,7:56 PM,7:41,Okoro Bad Pass Turnover (P1.T5),,Nembhard STEAL (1 STL),,,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,265,2,1,2,7:56 PM,7:26,,,MISS Nesmith 27' 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,266,4,0,2,7:56 PM,7:20,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400205,268,8,0,2,7:56 PM,7:20,SUB: Wade FOR Mobley,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,270,2,98,2,7:57 PM,7:07,MISS Allen 2' Cutting Layup Shot,,Turner BLOCK (1 BLK),,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042400205,272,4,0,2,7:57 PM,7:04,,,Haliburton REBOUND (Off:0 Def:2),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,273,1,2,2,7:57 PM,7:02,,,Nesmith 26' 3PT Running Jump Shot (7 PTS) (Haliburton 1 AST),31 - 44,13,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,275,9,1,2,7:57 PM,7:02,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,276,8,0,2,7:57 PM,7:02,SUB: Mitchell FOR Garland,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,278,6,2,2,8:01 PM,6:48,,,Nembhard S.FOUL (P1.T3) (B.Taylor),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,280,3,11,2,8:01 PM,6:48,Mitchell Free Throw 1 of 2 (14 PTS),,,31 - 45,14,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,281,3,12,2,8:02 PM,6:48,Mitchell Free Throw 2 of 2 (15 PTS),,,31 - 46,15,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,282,1,80,2,8:02 PM,6:33,,,Nembhard 26' 3PT Step Back Jump Shot (9 PTS) (Siakam 3 AST),34 - 46,12,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,284,2,79,2,8:02 PM,6:20,MISS Mitchell 26' 3PT Pullup Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,285,4,0,2,8:02 PM,6:18,Wade REBOUND (Off:1 Def:2),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,286,1,97,2,8:02 PM,6:18,Wade Tip Layup Shot (2 PTS),,,34 - 48,14,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,287,1,86,2,8:02 PM,5:56,,,Nesmith 14' Turnaround Fadeaway (9 PTS),36 - 48,12,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,289,5,1,2,8:03 PM,5:45,Allen Bad Pass Turnover (P2.T6),,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,291,6,3,2,8:03 PM,5:44,Hunter L.B.FOUL (P1.PN) (M.Lindsay),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,293,3,11,2,8:04 PM,5:44,,,Siakam Free Throw 1 of 2 (6 PTS),37 - 48,11,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,294,8,0,2,8:04 PM,5:44,SUB: Mobley FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,296,3,12,2,8:04 PM,5:44,,,Siakam Free Throw 2 of 2 (7 PTS),38 - 48,10,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,297,6,4,2,8:04 PM,5:36,Wade OFF.Foul (P2) (B.Taylor),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,299,5,37,2,8:04 PM,5:36,Wade Offensive Foul Turnover (P1.T7),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0042400205,300,8,0,2,8:04 PM,5:36,SUB: Garland FOR Okoro,,,,,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,302,2,6,2,8:05 PM,5:30,,,MISS Siakam 6' Driving Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,303,4,0,2,8:05 PM,5:29,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,305,2,80,2,8:05 PM,5:14,MISS Garland 25' 3PT Step Back Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,306,4,0,2,8:05 PM,5:11,,,Haliburton REBOUND (Off:0 Def:3),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,307,2,3,2,8:05 PM,5:01,,,MISS Turner 4' Hook Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,308,4,0,2,8:05 PM,4:59,Wade REBOUND (Off:1 Def:3),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,309,2,80,2,8:06 PM,4:49,MISS Mitchell 19' Step Back Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,310,4,0,2,8:06 PM,4:47,,,Nembhard REBOUND (Off:0 Def:1),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,311,1,79,2,8:06 PM,4:37,,,Haliburton 31' 3PT Pullup Jump Shot (8 PTS) (Nembhard 1 AST),41 - 48,7,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,313,9,1,2,8:06 PM,4:36,CAVALIERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,314,8,0,2,8:06 PM,4:36,,,SUB: Sheppard FOR Nesmith,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,316,2,79,2,8:08 PM,4:20,MISS Garland 21' Pullup Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,317,4,0,2,8:08 PM,4:16,Wade REBOUND (Off:2 Def:3),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,318,1,97,2,8:08 PM,4:16,Wade Tip Layup Shot (4 PTS),,,41 - 50,9,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,319,1,80,2,8:08 PM,3:57,,,Haliburton 31' 3PT Step Back Jump Shot (11 PTS),44 - 50,6,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,320,1,101,2,8:08 PM,3:44,Garland 6' Driving Floating Jump Shot (4 PTS),,,44 - 52,8,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,321,1,1,2,8:09 PM,3:24,,,Haliburton 30' 3PT Jump Shot (14 PTS) (Nembhard 2 AST),47 - 52,5,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,323,6,1,2,8:09 PM,3:15,,,Siakam P.FOUL (P2.T4) (B.Taylor),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,325,2,80,2,8:09 PM,3:05,MISS Mitchell 26' 3PT Step Back Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,326,4,0,2,8:10 PM,3:03,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400205,373,5,1,2,8:10 PM,2:50,Garland Bad Pass Turnover (P2.T8),,Siakam STEAL (1 STL),,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,331,1,6,2,8:10 PM,2:32,,,Siakam Driving Layup (9 PTS) (Haliburton 2 AST),49 - 52,3,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,333,6,1,2,8:11 PM,2:13,,,Nembhard P.FOUL (P2.PN) (J.Capers),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,335,3,11,2,8:11 PM,2:13,Allen Free Throw 1 of 2 (9 PTS),,,49 - 53,4,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,340,3,12,2,8:11 PM,2:13,MISS Allen Free Throw 2 of 2,,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,336,8,0,2,8:11 PM,2:13,SUB: Okoro FOR Wade,,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,337,8,0,2,8:11 PM,2:13,,,SUB: Nesmith FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,341,4,0,2,8:11 PM,2:11,,,Siakam REBOUND (Off:0 Def:4),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,342,2,1,2,8:12 PM,1:55,,,MISS Nesmith 24' 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,343,4,0,2,8:12 PM,1:53,,,Nesmith REBOUND (Off:2 Def:1),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,344,2,80,2,8:12 PM,1:50,,,MISS Nesmith 7' Step Back Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,345,4,0,2,8:12 PM,1:48,Mitchell REBOUND (Off:0 Def:3),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,346,2,79,2,8:12 PM,1:30,MISS Garland 25' 3PT Pullup Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,347,4,0,2,8:12 PM,1:27,,,Haliburton REBOUND (Off:0 Def:4),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,348,1,79,2,8:12 PM,1:16,,,Haliburton 35' 3PT Pullup Jump Shot (17 PTS) (Nembhard 3 AST),52 - 53,1,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,350,1,57,2,8:13 PM,1:05,Okoro 9' Driving Hook Shot (2 PTS),,,52 - 55,3,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,352,2,1,2,8:13 PM,0:44,,,MISS Siakam 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,353,4,0,2,8:13 PM,0:44,Mitchell REBOUND (Off:0 Def:4),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,354,6,1,2,8:13 PM,0:33,,,Nesmith P.FOUL (P2.PN) (B.Taylor),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,356,3,11,2,8:14 PM,0:33,Mitchell Free Throw 1 of 2 (16 PTS),,,52 - 56,4,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,357,3,12,2,8:14 PM,0:33,MISS Mitchell Free Throw 2 of 2,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,358,4,0,2,8:14 PM,0:31,,,Nesmith REBOUND (Off:2 Def:2),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,359,5,2,2,8:15 PM,0:10,Okoro STEAL (1 STL),,Haliburton Lost Ball Turnover (P3.T7),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,361,8,0,2,8:15 PM,0:10,,,SUB: Sheppard FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,362,8,0,2,8:15 PM,0:10,,,SUB: Bryant FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,365,8,0,2,8:16 PM,0:10,,,SUB: Walker FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,367,10,0,2,8:16 PM,0:06,Jump Ball Okoro vs. Nesmith: Tip to Mobley,,,,,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042400205,370,2,79,2,8:16 PM,0:00,MISS Mitchell 25' 3PT Pullup Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,371,4,0,2,8:16 PM,0:00,,,Nesmith REBOUND (Off:2 Def:3),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,372,13,0,2,8:16 PM,0:00,,End of 2nd Period (8:16 PM EST),,52 - 56,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400205,383,12,0,3,8:33 PM,12:00,,Start of 3rd Period (8:33 PM EST),,52 - 56,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,384,2,86,3,8:34 PM,11:36,,,MISS Siakam 15' Turnaround Fadeaway Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,385,4,0,3,8:34 PM,11:34,Mitchell REBOUND (Off:0 Def:5),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,386,1,86,3,8:34 PM,11:21,Mobley 12' Turnaround Fadeaway (16 PTS),,,52 - 58,6,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,387,6,4,3,8:34 PM,11:12,,,Nembhard OFF.Foul (P3) (J.Capers),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,389,5,37,3,8:34 PM,11:12,,,Nembhard Offensive Foul Turnover (P1.T8),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400205,390,1,75,3,8:34 PM,11:03,Garland 1' Driving Finger Roll Layup (6 PTS),,,52 - 60,8,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,391,9,1,3,8:35 PM,11:03,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,392,6,1,3,8:38 PM,10:55,Garland P.FOUL (P2.T1) (J.Capers),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,394,5,1,3,8:39 PM,10:48,Mitchell STEAL (3 STL),,Nembhard Bad Pass Turnover (P2.T9),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,398,2,41,3,8:39 PM,10:44,MISS Mitchell 1' Running Layup,,Turner BLOCK (2 BLK),,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042400205,400,4,0,3,8:39 PM,10:44,Strus REBOUND (Off:1 Def:1),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,401,2,72,3,8:39 PM,10:44,MISS Strus 1' Putback Layup,,Nembhard BLOCK (1 BLK),,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1
+0042400205,403,4,0,3,8:39 PM,10:44,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,405,5,1,3,8:40 PM,10:35,Garland Bad Pass Turnover (P3.T9),,Nesmith STEAL (1 STL),,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,407,5,4,3,8:40 PM,10:26,,,Turner Traveling Turnover (P1.T10),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400205,408,2,1,3,8:40 PM,10:12,MISS Strus 24' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,409,4,0,3,8:40 PM,10:05,Mitchell REBOUND (Off:1 Def:5),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,410,2,97,3,8:40 PM,10:05,MISS Mitchell Tip Layup Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,411,4,0,3,8:40 PM,10:04,,,Nesmith REBOUND (Off:2 Def:4),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,412,1,47,3,8:41 PM,9:58,,,Turner 8' Turnaround Jump Shot (3 PTS) (Nesmith 1 AST),54 - 60,6,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,414,1,1,3,8:41 PM,9:44,Mobley 26' 3PT Jump Shot (19 PTS) (Strus 1 AST),,,54 - 63,9,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,417,2,80,3,8:41 PM,9:23,,,MISS Haliburton 25' 3PT Step Back Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,418,4,0,3,8:41 PM,9:19,Mobley REBOUND (Off:1 Def:4),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,419,2,1,3,8:42 PM,9:05,MISS Allen 14' Jump Shot,,Turner BLOCK (3 BLK),,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042400205,421,4,0,3,8:42 PM,9:00,,,Turner REBOUND (Off:1 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,422,1,41,3,8:42 PM,8:58,,,Nesmith Running Layup (11 PTS),56 - 63,7,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,423,2,1,3,8:42 PM,8:47,MISS Mitchell 31' 3PT Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,424,4,0,3,8:42 PM,8:44,,,Nesmith REBOUND (Off:2 Def:5),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,425,6,1,3,8:42 PM,8:36,Garland P.FOUL (P3.T2) (M.Lindsay),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,427,1,1,3,8:43 PM,8:27,,,Siakam 25' 3PT Jump Shot (12 PTS) (Haliburton 3 AST),59 - 63,4,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,429,6,2,3,8:43 PM,8:13,,,Nesmith S.FOUL (P3.T1) (M.Lindsay),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,431,3,11,3,8:43 PM,8:13,Garland Free Throw 1 of 2 (7 PTS),,,59 - 64,5,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,432,3,12,3,8:43 PM,8:13,MISS Garland Free Throw 2 of 2,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,433,4,0,3,8:43 PM,8:11,,,Nesmith REBOUND (Off:2 Def:6),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,434,1,80,3,8:44 PM,7:58,,,Haliburton 31' 3PT Step Back Jump Shot (20 PTS) (Nembhard 4 AST),62 - 64,2,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,436,2,1,3,8:44 PM,7:43,MISS Strus 24' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,437,4,0,3,8:44 PM,7:41,,,Turner REBOUND (Off:1 Def:4),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,438,2,79,3,8:44 PM,7:34,,,MISS Haliburton 31' 3PT Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,439,4,0,3,8:44 PM,7:31,Strus REBOUND (Off:1 Def:2),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,440,2,79,3,8:45 PM,7:20,MISS Garland 14' Pullup Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,441,4,0,3,8:45 PM,7:18,,,Nesmith REBOUND (Off:2 Def:7),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,442,1,1,3,8:45 PM,7:04,,,Siakam 24' 3PT Jump Shot (15 PTS) (Nesmith 2 AST),65 - 64,-1,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,444,9,1,3,8:45 PM,7:04,CAVALIERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,445,8,0,3,8:45 PM,7:04,SUB: Hunter FOR Garland,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,446,8,0,3,8:45 PM,7:04,,,SUB: Bryant FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,453,8,0,3,8:45 PM,7:04,SUB: Wade FOR Allen,,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,449,2,79,3,8:49 PM,6:48,MISS Strus 28' 3PT Pullup Jump Shot,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,450,4,0,3,8:49 PM,6:46,,,Siakam REBOUND (Off:0 Def:5),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,451,6,1,3,8:49 PM,6:36,Wade P.FOUL (P3.T3) (B.Taylor),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,455,1,79,3,8:50 PM,6:30,,,Siakam 18' Pullup Jump Shot (17 PTS) (Haliburton 4 AST),67 - 64,-3,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,458,2,1,3,8:50 PM,6:15,MISS Mobley 16' Jump Shot,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,459,4,0,3,8:50 PM,6:11,Mobley REBOUND (Off:2 Def:4),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,461,2,79,3,8:50 PM,6:06,MISS Mitchell 26' 3PT Pullup Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,462,4,0,3,8:50 PM,6:04,Strus REBOUND (Off:2 Def:2),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,463,2,72,3,8:50 PM,6:04,MISS Strus 2' Putback Layup,,Siakam BLOCK (1 BLK),,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1
+0042400205,465,4,0,3,8:50 PM,6:02,,,Bryant REBOUND (Off:0 Def:1),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,466,2,2,3,8:51 PM,5:54,,,MISS Nembhard 3PT Running Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,467,4,0,3,8:51 PM,5:54,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,468,6,3,3,8:51 PM,5:54,,,Siakam L.B.FOUL (P3.T2) (M.Lindsay),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,470,2,6,3,8:51 PM,5:43,MISS Strus 1' Driving Layup,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,471,4,0,3,8:51 PM,5:40,,,Bryant REBOUND (Off:0 Def:2),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,472,6,1,3,8:51 PM,5:31,Wade P.FOUL (P4.T4) (B.Taylor),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,474,8,0,3,8:52 PM,5:31,SUB: Okoro FOR Strus,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,476,5,9,3,8:52 PM,5:31,,,Pacers Turnover: 5 Second Violation (T#11),,,3,1610612754,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400205,477,2,1,3,8:53 PM,5:10,MISS Mobley 25' 3PT Jump Shot,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,478,4,0,3,8:53 PM,5:07,,,Siakam REBOUND (Off:0 Def:6),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,479,1,101,3,8:53 PM,4:54,,,Haliburton 10' Driving Floating Jump Shot (22 PTS) (Nembhard 5 AST),69 - 64,-5,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,481,6,2,3,8:53 PM,4:44,,,Bryant S.FOUL (P2.T3) (M.Lindsay),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,483,3,11,3,8:54 PM,4:44,MISS Mobley Free Throw 1 of 2,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,484,4,1,3,8:54 PM,4:44,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,485,8,0,3,8:54 PM,4:44,SUB: Garland FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,486,8,0,3,8:54 PM,4:44,,,SUB: Sheppard FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,487,8,0,3,8:54 PM,4:44,,,SUB: Toppin FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,491,3,12,3,8:54 PM,4:44,Mobley Free Throw 2 of 2 (20 PTS),,,69 - 65,-4,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,492,2,98,3,8:55 PM,4:23,Mobley BLOCK (1 BLK),,MISS Bryant 2' Cutting Layup Shot,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042400205,494,4,0,3,8:55 PM,4:20,Wade REBOUND (Off:2 Def:4),,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,495,5,1,3,8:55 PM,4:11,Garland Bad Pass Turnover (P4.T10),,Bryant STEAL (1 STL),,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,497,1,50,3,8:55 PM,4:07,,,Bryant 1' Running Dunk (2 PTS),71 - 65,-6,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,498,2,98,3,8:55 PM,3:48,MISS Okoro 2' Cutting Layup Shot,,,,,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,499,4,0,3,8:55 PM,3:46,,,Toppin REBOUND (Off:0 Def:1),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,500,2,6,3,8:55 PM,3:40,,,MISS Nesmith 3' Driving Layup,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,501,4,0,3,8:55 PM,3:38,Garland REBOUND (Off:0 Def:2),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,502,2,1,3,8:56 PM,3:21,MISS Wade 24' 3PT Jump Shot,,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,503,4,0,3,8:56 PM,3:19,,,Toppin REBOUND (Off:0 Def:2),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,504,1,108,3,8:56 PM,3:14,,,Bryant 2' Cutting Dunk Shot (4 PTS) (Haliburton 5 AST),73 - 65,-8,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,506,9,1,3,8:56 PM,3:14,CAVALIERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,507,8,0,3,8:56 PM,3:14,SUB: Strus FOR Mobley,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,508,8,0,3,8:56 PM,3:14,SUB: Jerome FOR Okoro,,,,,4,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,510,8,0,3,8:56 PM,3:14,,,SUB: Mathurin FOR Nesmith,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,515,2,6,3,8:58 PM,3:00,MISS Garland 2' Driving Layup,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,516,4,0,3,8:58 PM,2:59,,,Bryant REBOUND (Off:0 Def:3),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,518,1,6,3,8:58 PM,2:41,,,Haliburton 1' Driving Layup (24 PTS),75 - 65,-10,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,519,1,80,3,8:58 PM,2:27,Jerome 27' 3PT Step Back Jump Shot (3 PTS),,,75 - 68,-7,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,520,1,108,3,8:59 PM,2:09,,,Bryant 2' Cutting Dunk Shot (6 PTS) (Toppin 2 AST),77 - 68,-9,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,523,2,102,3,8:59 PM,1:56,MISS Garland 9' Driving Floating Bank Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,524,4,0,3,8:59 PM,1:55,,,Toppin REBOUND (Off:0 Def:3),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,525,1,41,3,8:59 PM,1:50,,,Toppin 1' Running Layup (4 PTS),79 - 68,-11,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,526,6,2,3,8:59 PM,1:50,Jerome S.FOUL (P1.PN) (M.Lindsay),,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,528,8,0,3,9:00 PM,1:50,SUB: Allen FOR Wade,,,,,4,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,529,8,0,3,9:00 PM,1:50,,,SUB: McConnell FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,532,3,10,3,9:00 PM,1:50,,,Toppin Free Throw 1 of 1 (5 PTS),80 - 68,-12,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,533,2,79,3,9:00 PM,1:30,MISS Hunter 15' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,534,4,0,3,9:00 PM,1:28,,,Sheppard REBOUND (Off:0 Def:1),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,535,2,73,3,9:01 PM,1:15,,,MISS Mathurin 1' Driving Reverse Layup,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,536,4,0,3,9:01 PM,1:12,Strus REBOUND (Off:2 Def:3),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,537,1,103,3,9:01 PM,1:07,Jerome 26' 3PT Running Pull-Up Jump Shot (6 PTS),,,80 - 71,-9,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,538,9,1,3,9:01 PM,1:06,,,Pacers Timeout: Regular (Reg.4 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,539,8,0,3,9:02 PM,1:06,SUB: Mitchell FOR Garland,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,540,8,0,3,9:02 PM,1:06,,,SUB: Nembhard FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,543,1,1,3,9:03 PM,0:45,,,Bryant 24' 3PT Jump Shot (9 PTS) (Toppin 3 AST),83 - 71,-12,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,545,1,101,3,9:03 PM,0:33,Mitchell 10' Driving Floating Jump Shot (18 PTS),,,83 - 73,-10,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,546,6,2,3,9:03 PM,0:33,,,Bryant S.FOUL (P3.T4) (M.Lindsay),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,548,3,10,3,9:04 PM,0:33,Mitchell Free Throw 1 of 1 (19 PTS),,,83 - 74,-9,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,549,1,98,3,9:04 PM,0:12,,,Mathurin 1' Cutting Layup Shot (4 PTS) (McConnell 2 AST),85 - 74,-11,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,552,1,102,3,9:04 PM,0:01,Hunter 8' Driving Floating Bank Jump Shot (9 PTS),,,85 - 76,-9,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,553,2,1,3,9:05 PM,0:00,,,MISS Toppin 59' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,554,4,0,3,9:05 PM,0:00,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,555,13,0,3,9:05 PM,0:00,,End of 3rd Period (9:05 PM EST),,85 - 76,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400205,560,12,0,4,9:08 PM,12:00,,Start of 4th Period (9:08 PM EST),,85 - 76,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,561,1,79,4,9:08 PM,11:45,Jerome 10' Pullup Jump Shot (8 PTS),,,85 - 78,-7,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,562,2,63,4,9:09 PM,11:21,,,MISS Siakam 18' Fadeaway Jumper,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,563,4,0,4,9:09 PM,11:17,Mitchell REBOUND (Off:1 Def:6),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,564,6,2,4,9:09 PM,11:05,,,Mathurin S.FOUL (P2.T1) (M.Lindsay),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,566,3,13,4,9:10 PM,11:05,Mitchell Free Throw 1 of 3 (20 PTS),,,85 - 79,-6,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,567,3,14,4,9:10 PM,11:05,Mitchell Free Throw 2 of 3 (21 PTS),,,85 - 80,-5,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,568,3,15,4,9:10 PM,11:05,Mitchell Free Throw 3 of 3 (22 PTS),,,85 - 81,-4,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,569,5,2,4,9:11 PM,10:45,Mitchell STEAL (4 STL),,McConnell Lost Ball Turnover (P1.T12),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,571,2,41,4,9:11 PM,10:39,MISS Mitchell 2' Running Layup,,Mathurin BLOCK (1 BLK),,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1
+0042400205,573,4,0,4,9:11 PM,10:36,,,Siakam REBOUND (Off:0 Def:7),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,574,6,1,4,9:11 PM,10:36,Hunter P.FOUL (P2.T1) (M.Lindsay),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,576,6,1,4,9:11 PM,10:31,Mitchell P.FOUL (P2.T2) (J.Capers),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,578,5,2,4,9:12 PM,10:17,Hunter STEAL (1 STL),,McConnell Lost Ball Turnover (P2.T13),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,580,2,41,4,9:12 PM,10:15,MISS Hunter 1' Running Layup,,Turner BLOCK (4 BLK),,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042400205,582,4,0,4,9:12 PM,10:15,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,584,8,0,4,9:12 PM,10:15,SUB: Garland FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,585,8,0,4,9:12 PM,10:15,,,SUB: Haliburton FOR Mathurin,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,586,8,0,4,9:12 PM,10:15,,,SUB: Nesmith FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,590,2,101,4,9:13 PM,10:06,MISS Hunter 10' Driving Floating Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,591,4,0,4,9:13 PM,10:03,Hunter REBOUND (Off:1 Def:3),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,592,2,1,4,9:13 PM,10:03,MISS Strus 26' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,593,4,0,4,9:13 PM,10:00,,,Nembhard REBOUND (Off:0 Def:2),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,594,1,86,4,9:13 PM,9:49,,,Siakam 15' Turnaround Fadeaway (19 PTS),87 - 81,-6,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,595,2,79,4,9:13 PM,9:36,MISS Garland 26' 3PT Pullup Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,596,4,0,4,9:13 PM,9:34,Allen REBOUND (Off:1 Def:3),,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,597,1,79,4,9:13 PM,9:31,Hunter 25' 3PT Pullup Jump Shot (12 PTS),,,87 - 84,-3,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,598,6,2,4,9:14 PM,9:31,,,Siakam S.FOUL (P4.T2) (M.Lindsay),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,600,8,0,4,9:14 PM,9:31,SUB: Mobley FOR Allen,,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,601,8,0,4,9:14 PM,9:31,,,SUB: Sheppard FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,604,3,10,4,9:14 PM,9:31,MISS Hunter Free Throw 1 of 1,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,605,4,0,4,9:14 PM,9:26,Mobley REBOUND (Off:3 Def:4),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,606,1,6,4,9:14 PM,9:24,Garland 1' Driving Layup (9 PTS) (Jerome 1 AST),,,87 - 86,-1,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,608,9,1,4,9:14 PM,9:24,,,Pacers Timeout: Regular (Reg.5 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,609,1,9,4,9:18 PM,9:09,,,Haliburton 1' Driving Dunk (26 PTS),89 - 86,-3,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,610,6,2,4,9:19 PM,8:53,,,Sheppard S.FOUL (P2.T3) (J.Capers),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,612,3,11,4,9:19 PM,8:53,Garland Free Throw 1 of 2 (10 PTS),,,89 - 87,-2,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,613,3,12,4,9:19 PM,8:53,Garland Free Throw 2 of 2 (11 PTS),,,89 - 88,-1,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0042400205,614,1,1,4,9:19 PM,8:40,,,Turner 11' Jump Shot (5 PTS) (Haliburton 6 AST),91 - 88,-3,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,616,2,79,4,9:20 PM,8:25,MISS Garland 26' 3PT Pullup Jump Shot,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,617,4,0,4,9:20 PM,8:25,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,619,8,0,4,9:20 PM,8:25,SUB: Mitchell FOR Jerome,,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,620,8,0,4,9:20 PM,8:25,,,SUB: Nembhard FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,623,1,1,4,9:21 PM,7:59,,,Nembhard 24' 3PT Jump Shot (12 PTS) (Siakam 4 AST),94 - 88,-6,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,625,2,101,4,9:21 PM,7:47,MISS Hunter 10' Driving Floating Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,626,4,0,4,9:21 PM,7:45,Mobley REBOUND (Off:4 Def:4),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,627,1,97,4,9:21 PM,7:45,Mobley Tip Layup Shot (22 PTS),,,94 - 90,-4,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,628,6,1,4,9:21 PM,7:31,Hunter P.FOUL (P3.T3) (B.Taylor),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,630,1,6,4,9:22 PM,7:21,,,Siakam 1' Driving Layup (21 PTS) (Haliburton 7 AST),96 - 90,-6,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,632,6,2,4,9:22 PM,7:13,,,Nesmith S.FOUL (P4.T4) (M.Lindsay),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,634,3,11,4,9:22 PM,7:13,Mitchell Free Throw 1 of 2 (23 PTS),,,96 - 91,-5,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,637,3,12,4,9:22 PM,7:13,MISS Mitchell Free Throw 2 of 2,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,635,8,0,4,9:22 PM,7:13,SUB: Jerome FOR Strus,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,638,4,0,4,9:23 PM,7:09,,,Nembhard REBOUND (Off:0 Def:3),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,639,5,2,4,9:23 PM,7:00,Jerome STEAL (1 STL),,Haliburton Lost Ball Turnover (P4.T14),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,641,1,103,4,9:23 PM,6:53,Mitchell 26' 3PT Running Pull-Up Jump Shot (26 PTS) (Mobley 1 AST),,,96 - 94,-2,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,643,2,1,4,9:24 PM,6:29,,,MISS Siakam 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,644,4,0,4,9:24 PM,6:27,Garland REBOUND (Off:0 Def:3),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,645,2,1,4,9:24 PM,6:08,MISS Mitchell 24' 3PT Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,646,4,0,4,9:24 PM,6:05,,,Nesmith REBOUND (Off:2 Def:8),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,647,6,1,4,9:24 PM,6:02,Jerome P.FOUL (P2.T4) (B.Taylor),,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,649,8,0,4,9:24 PM,6:02,SUB: Allen FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,651,2,98,4,9:25 PM,5:50,,,MISS Siakam 2' Cutting Layup Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,652,4,0,4,9:25 PM,5:47,Mobley REBOUND (Off:4 Def:5),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,653,5,2,4,9:25 PM,5:33,Garland Lost Ball Turnover (P5.T11),,Nesmith STEAL (2 STL),,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,655,1,6,4,9:25 PM,5:25,,,Nesmith 2' Driving Layup (13 PTS) (Siakam 5 AST),98 - 94,-4,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,657,1,79,4,9:26 PM,5:03,Mitchell 25' 3PT Pullup Jump Shot (29 PTS) (Jerome 2 AST),,,98 - 97,-1,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,659,2,1,4,9:26 PM,4:46,,,MISS Nesmith 26' 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,660,4,0,4,9:26 PM,4:44,,,Turner REBOUND (Off:2 Def:4),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,661,1,1,4,9:26 PM,4:39,,,Nembhard 25' 3PT Jump Shot (15 PTS) (Haliburton 8 AST),101 - 97,-4,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,664,2,101,4,9:26 PM,4:29,MISS Jerome 14' Driving Floating Jump Shot,,Haliburton BLOCK (1 BLK),,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1
+0042400205,666,4,0,4,9:26 PM,4:28,,,Haliburton REBOUND (Off:0 Def:5),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,667,1,41,4,9:27 PM,4:23,,,Haliburton 1' Running Layup (28 PTS),103 - 97,-6,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,668,6,2,4,9:27 PM,4:23,Jerome S.FOUL (P3.PN) (J.Capers),,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,671,8,0,4,9:27 PM,4:23,SUB: Strus FOR Jerome,,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,672,8,0,4,9:27 PM,4:23,SUB: Hunter FOR Garland,,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,675,3,10,4,9:27 PM,4:23,,,Haliburton Free Throw 1 of 1 (29 PTS),104 - 97,-7,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,676,2,6,4,9:27 PM,4:01,MISS Hunter 5' Driving Layup,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,677,4,0,4,9:27 PM,3:59,Hunter REBOUND (Off:2 Def:3),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,678,5,11,4,9:28 PM,3:59,CAVALIERS Turnover: Shot Clock (T#12),,,,,2,1610612739,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400205,679,8,0,4,9:28 PM,3:59,SUB: Jerome FOR Allen,,,,,4,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,681,2,1,4,9:28 PM,3:34,,,MISS Nesmith 3PT Jump Shot,,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,682,4,0,4,9:28 PM,3:32,Mobley REBOUND (Off:4 Def:6),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,683,2,2,4,9:28 PM,3:27,MISS Hunter 25' 3PT Running Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,684,4,0,4,9:28 PM,3:24,,,Nesmith REBOUND (Off:2 Def:9),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,685,2,80,4,9:29 PM,3:05,,,MISS Haliburton 25' 3PT Step Back Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,686,4,0,4,9:29 PM,3:03,Mitchell REBOUND (Off:1 Def:7),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,687,2,1,4,9:29 PM,2:43,MISS Jerome 26' 3PT Jump Shot,,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,688,4,0,4,9:29 PM,2:41,Mitchell REBOUND (Off:2 Def:7),,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,689,2,78,4,9:29 PM,2:40,MISS Mitchell 7' Floating Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,690,4,0,4,9:29 PM,2:38,,,Turner REBOUND (Off:2 Def:5),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,691,6,1,4,9:29 PM,2:38,Strus P.FOUL (P4.PN) (J.Capers),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,693,9,1,4,9:30 PM,2:38,CAVALIERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,694,8,0,4,9:30 PM,2:38,SUB: Garland FOR Jerome,,,,,4,1629660,Ty Jerome,1610612739.0,Cleveland,Cavaliers,CLE,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0042400205,696,3,11,4,9:33 PM,2:38,,,Turner Free Throw 1 of 2 (6 PTS),105 - 97,-8,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,697,3,12,4,9:33 PM,2:38,,,Turner Free Throw 2 of 2 (7 PTS),106 - 97,-9,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,698,1,79,4,9:34 PM,2:23,Mitchell 28' 3PT Pullup Jump Shot (32 PTS),,,106 - 100,-6,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,699,2,86,4,9:34 PM,1:59,,,MISS Siakam 19' Turnaround Fadeaway Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,700,4,0,4,9:34 PM,1:57,Strus REBOUND (Off:2 Def:4),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,701,6,2,4,9:34 PM,1:49,,,Nesmith S.FOUL (P5.PN) (B.Taylor),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,703,3,13,4,9:35 PM,1:49,MISS Mitchell Free Throw 1 of 3,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,704,4,1,4,9:35 PM,1:49,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,705,3,14,4,9:35 PM,1:49,MISS Mitchell Free Throw 2 of 3,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,706,4,1,4,9:35 PM,1:49,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,707,3,15,4,9:35 PM,1:49,MISS Mitchell Free Throw 3 of 3,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,708,4,0,4,9:35 PM,1:47,,,Nesmith REBOUND (Off:2 Def:10),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,709,2,101,4,9:36 PM,1:33,Mobley BLOCK (2 BLK),,MISS Haliburton 11' Driving Floating Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0042400205,711,4,0,4,9:36 PM,1:30,Garland REBOUND (Off:0 Def:4),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,712,1,2,4,9:36 PM,1:27,Mitchell 3PT Running Jump Shot (35 PTS) (Strus 2 AST),,,106 - 103,-3,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0042400205,714,1,102,4,9:37 PM,1:07,,,Nembhard 8' Driving Floating Bank Jump Shot (17 PTS),108 - 103,-5,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,715,6,2,4,9:37 PM,1:07,Garland S.FOUL (P4.PN) (B.Taylor),,,,,4,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,717,3,10,4,9:37 PM,1:07,,,Nembhard Free Throw 1 of 1 (18 PTS),109 - 103,-6,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,718,2,6,4,9:37 PM,0:59,MISS Mitchell 2' Driving Layup,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,719,4,0,4,9:37 PM,0:56,,,Nesmith REBOUND (Off:2 Def:11),,,5,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,720,6,1,4,9:38 PM,0:55,Hunter P.FOUL (P4.PN) (J.Capers),,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400205,722,3,11,4,9:38 PM,0:55,,,Haliburton Free Throw 1 of 2 (30 PTS),110 - 103,-7,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,723,3,12,4,9:38 PM,0:55,,,Haliburton Free Throw 2 of 2 (31 PTS),111 - 103,-8,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,724,2,1,4,9:39 PM,0:43,MISS Hunter 27' 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,725,4,0,4,9:39 PM,0:43,Mobley REBOUND (Off:5 Def:6),,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,726,1,97,4,9:39 PM,0:43,Mobley 2' Tip Layup Shot (24 PTS),,,111 - 105,-6,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,727,6,2,4,9:39 PM,0:43,,,Haliburton S.FOUL (P3.PN) (M.Lindsay),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0042400205,729,3,10,4,9:39 PM,0:43,MISS Mobley Free Throw 1 of 1,,,,,4,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,730,4,0,4,9:39 PM,0:41,,,Haliburton REBOUND (Off:0 Def:6),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,731,1,1,4,9:39 PM,0:23,,,Turner 3PT Jump Shot (10 PTS) (Nembhard 6 AST),114 - 105,-9,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400205,733,9,1,4,9:40 PM,0:23,CAVALIERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400205,734,8,0,4,9:40 PM,0:23,,,SUB: Toppin FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400205,736,2,1,4,9:41 PM,0:19,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,737,4,0,4,9:41 PM,0:17,Strus REBOUND (Off:3 Def:4),,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,738,2,63,4,9:41 PM,0:16,MISS Strus 24' 3PT Fadeaway Jumper,,,,,4,1629622,Max Strus,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0042400205,739,4,0,4,9:41 PM,0:13,,,Siakam REBOUND (Off:0 Def:8),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400205,740,13,0,4,9:42 PM,0:00,,End of 4th Period (9:42 PM EST),,114 - 105,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

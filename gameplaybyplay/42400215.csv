@@ -1,0 +1,471 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042400215,2,12,0,1,7:06 PM,12:00,,Start of 1st Period (7:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,4,10,0,1,7:06 PM,12:00,Jump Ball Porzingis vs. Towns: Tip to Horford,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042400215,7,2,1,1,7:07 PM,11:37,MISS Horford 24' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,8,4,0,1,7:07 PM,11:36,,,Towns REBOUND (Off:0 Def:1),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,9,1,63,1,7:07 PM,11:25,,,Bridges 12' Fadeaway Jumper (2 PTS),2 - 0,-2,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,11,5,1,1,7:07 PM,11:13,White Bad Pass Turnover (P1.T1),,Bridges STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,13,2,103,1,7:07 PM,11:08,,,MISS Brunson 27' 3PT Running Pull-Up Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,14,4,0,1,7:07 PM,11:07,Brown REBOUND (Off:0 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,15,1,1,1,7:07 PM,11:00,White 3PT Jump Shot (3 PTS) (Brown 1 AST),,,2 - 3,1,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,18,6,1,1,7:08 PM,10:32,Holiday P.FOUL (P1.T1) (T.Brothers),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,20,2,1,1,7:09 PM,10:26,,,MISS Towns 27' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,21,4,0,1,7:09 PM,10:24,Holiday REBOUND (Off:0 Def:1),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,22,2,101,1,7:09 PM,10:16,MISS Holiday 4' Driving Floating Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,23,4,0,1,7:09 PM,10:15,Holiday REBOUND (Off:1 Def:1),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,24,1,57,1,7:09 PM,10:02,Brown 3' Driving Hook Shot (2 PTS),,,2 - 5,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,25,6,2,1,7:09 PM,9:45,Horford S.FOUL (P1.T2) (B.Forte),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,27,3,11,1,7:10 PM,9:45,,,Towns Free Throw 1 of 2 (1 PTS),3 - 5,2,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,28,3,12,1,7:10 PM,9:45,,,Towns Free Throw 2 of 2 (2 PTS),4 - 5,1,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,29,2,1,1,7:11 PM,9:35,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,30,4,0,1,7:11 PM,9:31,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,32,6,26,1,7:11 PM,9:24,Porzingis Offensive Charge Foul (P1) (T.Brothers),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,34,5,37,1,7:11 PM,9:24,Porzingis Offensive Foul Turnover (P1.T2),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042400215,35,2,57,1,7:12 PM,9:08,,,MISS Brunson 9' Driving Hook Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,36,4,0,1,7:12 PM,9:07,Brown REBOUND (Off:0 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,37,1,79,1,7:12 PM,8:59,White 29' 3PT Pullup Jump Shot (6 PTS) (Horford 1 AST),,,4 - 8,4,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,39,2,1,1,7:12 PM,8:33,,,MISS Hart 25' 3PT Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,40,4,0,1,7:12 PM,8:32,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,42,1,1,1,7:13 PM,8:30,,,Bridges 25' 3PT Jump Shot (5 PTS) (Anunoby 1 AST),7 - 8,1,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,44,5,45,1,7:13 PM,8:21,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042400215,45,1,101,1,7:13 PM,8:07,,,Brunson 8' Driving Floating Jump Shot (2 PTS),9 - 8,-1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,46,9,1,1,7:13 PM,8:06,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,47,5,2,1,7:17 PM,7:45,Porzingis Lost Ball Turnover (P2.T4),,Towns STEAL (1 STL),,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,49,2,102,1,7:17 PM,7:39,,,MISS Anunoby 9' Driving Floating Bank Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,50,4,0,1,7:17 PM,7:38,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,53,6,3,1,7:17 PM,7:38,Holiday L.B.FOUL (P2.T3) (J.Tiven),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,55,8,0,1,7:18 PM,7:38,SUB: Pritchard FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,57,2,86,1,7:18 PM,7:30,,,MISS Bridges 11' Turnaround Fadeaway Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,58,4,0,1,7:18 PM,7:26,Brown REBOUND (Off:0 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,59,2,75,1,7:18 PM,7:19,MISS Brown 3' Driving Finger Roll Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,60,4,0,1,7:18 PM,7:17,,,Hart REBOUND (Off:0 Def:1),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,61,1,41,1,7:19 PM,7:12,,,Hart 5' Running Layup (2 PTS),11 - 8,-3,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,62,2,98,1,7:19 PM,6:56,MISS Porzingis 5' Cutting Layup Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,63,4,0,1,7:19 PM,6:54,,,Anunoby REBOUND (Off:0 Def:1),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,64,2,86,1,7:19 PM,6:42,,,MISS Brunson 18' Turnaround Fadeaway Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,65,4,0,1,7:19 PM,6:39,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,67,8,0,1,7:19 PM,6:39,SUB: Kornet FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,69,2,44,1,7:20 PM,6:31,Horford BLOCK (1 BLK),,MISS Hart 4' Reverse Layup,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0042400215,71,4,0,1,7:20 PM,6:30,Kornet REBOUND (Off:0 Def:1),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,72,1,2,1,7:20 PM,6:24,White 28' 3PT Running Jump Shot (9 PTS) (Brown 2 AST),,,11 - 11,TIE,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,74,2,1,1,7:20 PM,6:04,,,MISS Anunoby 25' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,75,4,0,1,7:20 PM,6:03,Kornet REBOUND (Off:0 Def:2),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,76,1,98,1,7:20 PM,5:45,Kornet 4' Cutting Layup Shot (2 PTS) (Brown 3 AST),,,11 - 13,2,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,78,6,4,1,7:21 PM,5:34,,,Towns OFF.Foul (P1) (B.Forte),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,80,5,37,1,7:21 PM,5:34,,,Towns Offensive Foul Turnover (P1.T1),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042400215,81,1,6,1,7:21 PM,5:26,White 2' Driving Layup (11 PTS),,,11 - 15,4,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,82,1,98,1,7:21 PM,5:10,,,Brunson 4' Cutting Layup Shot (4 PTS) (Hart 1 AST),13 - 15,2,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,84,1,79,1,7:21 PM,5:03,White 26' 3PT Pullup Jump Shot (14 PTS),,,13 - 18,5,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,85,2,6,1,7:22 PM,4:51,Kornet BLOCK (1 BLK),,MISS Anunoby 9' Driving Layup,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,87,4,0,1,7:22 PM,4:50,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,89,2,1,1,7:22 PM,4:45,,,MISS Anunoby 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,90,4,0,1,7:22 PM,4:44,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,91,2,1,1,7:22 PM,4:31,MISS Pritchard 27' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,92,4,0,1,7:22 PM,4:28,,,Anunoby REBOUND (Off:0 Def:2),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,93,5,2,1,7:23 PM,4:22,Kornet STEAL (1 STL),,Anunoby Lost Ball Turnover (P1.T2),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,95,2,2,1,7:23 PM,4:16,MISS White 30' 3PT Running Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,96,4,0,1,7:23 PM,4:14,,,Hart REBOUND (Off:0 Def:2),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,97,1,1,1,7:23 PM,4:03,,,Towns 26' 3PT Jump Shot (5 PTS) (Brunson 1 AST),16 - 18,2,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,99,1,79,1,7:23 PM,3:43,Brown 26' 3PT Pullup Jump Shot (5 PTS) (Kornet 1 AST),,,16 - 21,5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,101,6,2,1,7:24 PM,3:30,Kornet S.FOUL (P1.T4) (T.Brothers),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,103,18,0,1,7:25 PM,3:30,,Instant Replay1st Period (7:25 PM EST),,16 - 21,5,0,101,Scott Skiles,,,,,0,0,,,,,,1,0,,,,,,0
+0042400215,104,8,0,1,7:27 PM,3:30,SUB: Hauser FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,105,8,0,1,7:27 PM,3:30,SUB: Craig FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,106,8,0,1,7:27 PM,3:30,,,SUB: Robinson FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,110,3,11,1,7:28 PM,3:30,,,Hart Free Throw 1 of 2 (3 PTS),17 - 21,4,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,111,3,12,1,7:28 PM,3:30,,,Hart Free Throw 2 of 2 (4 PTS),18 - 21,3,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,112,2,6,1,7:29 PM,3:16,MISS Brown 3' Driving Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,113,4,0,1,7:29 PM,3:15,Kornet REBOUND (Off:1 Def:2),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,114,1,107,1,7:29 PM,3:15,Kornet Tip Dunk Shot (4 PTS),,,18 - 23,5,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,115,6,28,1,7:29 PM,3:09,Craig Personal Take Foul (P1.PN) (B.Forte),,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,117,3,11,1,7:29 PM,3:09,,,Robinson Free Throw 1 of 2 (1 PTS),19 - 23,4,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,118,8,0,1,7:29 PM,3:09,,,SUB: McBride FOR Hart,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,120,3,12,1,7:30 PM,3:09,,,Robinson Free Throw 2 of 2 (2 PTS),20 - 23,3,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,121,2,80,1,7:30 PM,2:45,MISS Pritchard 26' 3PT Step Back Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,122,4,0,1,7:30 PM,2:44,Pritchard REBOUND (Off:1 Def:0),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,123,2,79,1,7:30 PM,2:42,MISS Pritchard 11' Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,124,4,0,1,7:30 PM,2:40,,,Robinson REBOUND (Off:0 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,125,2,78,1,7:30 PM,2:30,,,MISS Brunson 15' Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,126,4,0,1,7:30 PM,2:28,,,Robinson REBOUND (Off:1 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,127,2,97,1,7:30 PM,2:28,,,MISS Robinson Tip Layup Shot,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,128,4,0,1,7:30 PM,2:26,Craig REBOUND (Off:0 Def:1),,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,129,6,1,1,7:31 PM,2:14,,,McBride P.FOUL (P1.T1) (J.Tiven),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,131,9,1,1,7:31 PM,2:14,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,132,8,0,1,7:34 PM,2:14,SUB: Porzingis FOR Craig,,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,134,2,1,1,7:35 PM,2:08,MISS Hauser 31' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,135,4,0,1,7:35 PM,2:05,,,Bridges REBOUND (Off:0 Def:1),,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,136,2,101,1,7:35 PM,1:47,,,MISS Bridges 14' Driving Floating Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,137,4,0,1,7:35 PM,1:46,,,Robinson REBOUND (Off:2 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,138,2,97,1,7:35 PM,1:46,,,MISS Robinson Tip Layup Shot,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,139,4,0,1,7:35 PM,1:45,,,Robinson REBOUND (Off:3 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,140,1,107,1,7:35 PM,1:45,,,Robinson Tip Dunk Shot (4 PTS),22 - 23,1,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,141,1,79,1,7:35 PM,1:38,Pritchard 31' 3PT Pullup Jump Shot (3 PTS),,,22 - 26,4,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,142,1,1,1,7:35 PM,1:20,,,McBride 24' 3PT Jump Shot (3 PTS) (Brunson 2 AST),25 - 26,1,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,144,2,1,1,7:36 PM,1:08,MISS Porzingis 27' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,145,4,0,1,7:36 PM,1:06,Brown REBOUND (Off:1 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,146,1,1,1,7:36 PM,1:02,Hauser 24' 3PT Jump Shot (3 PTS) (Brown 4 AST),,,25 - 29,4,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,148,2,79,1,7:36 PM,0:40,,,MISS Bridges 16' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,149,4,0,1,7:36 PM,0:39,,,Robinson REBOUND (Off:4 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,150,6,28,1,7:36 PM,0:38,Kornet Personal Take Foul (P2.PN) (T.Brothers),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,152,3,11,1,7:37 PM,0:38,,,Robinson Free Throw 1 of 2 (5 PTS),26 - 29,3,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,153,3,12,1,7:37 PM,0:38,,,Robinson Free Throw 2 of 2 (6 PTS),27 - 29,2,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,154,5,1,1,7:37 PM,0:36,Brown Bad Pass Turnover (P1.T5),,McBride STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,156,2,101,1,7:37 PM,0:35,Porzingis BLOCK (1 BLK),,MISS Anunoby 1' Driving Floating Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1
+0042400215,158,4,0,1,7:37 PM,0:34,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,160,1,80,1,7:38 PM,0:30,,,Anunoby 27' 3PT Step Back Jump Shot (3 PTS),30 - 29,-1,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,161,6,2,1,7:38 PM,0:09,,,Robinson S.FOUL (P1.T2) (J.Tiven),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,164,3,11,1,7:40 PM,0:09,MISS Porzingis Free Throw 1 of 2,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,165,4,1,1,7:40 PM,0:09,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,166,8,0,1,7:40 PM,0:09,SUB: Horford FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,167,8,0,1,7:40 PM,0:09,,,SUB: Towns FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,170,3,12,1,7:40 PM,0:09,Porzingis Free Throw 2 of 2 (1 PTS),,,30 - 30,TIE,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,171,1,98,1,7:40 PM,0:01,,,Bridges 2' Cutting Layup Shot (7 PTS) (Brunson 3 AST),32 - 30,-2,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,173,2,1,1,7:40 PM,0:00,MISS Pritchard 67' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,174,4,0,1,7:40 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,175,13,0,1,7:40 PM,0:00,,End of 1st Period (7:40 PM EST),,32 - 30,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,182,12,0,2,7:44 PM,12:00,,Start of 2nd Period (7:44 PM EST),,32 - 30,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,183,6,2,2,7:44 PM,11:44,Horford S.FOUL (P2.T1) (B.Forte),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0042400215,185,3,11,2,7:45 PM,11:44,,,Towns Free Throw 1 of 2 (6 PTS),33 - 30,-3,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,186,3,12,2,7:45 PM,11:44,,,MISS Towns Free Throw 2 of 2,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,187,4,0,2,7:45 PM,11:44,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,188,6,1,2,7:45 PM,11:29,,,Towns P.FOUL (P2.T1) (J.Tiven),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,190,2,1,2,7:46 PM,11:27,MISS Pritchard 31' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,191,4,0,2,7:46 PM,11:25,,,Towns REBOUND (Off:0 Def:2),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,192,1,1,2,7:46 PM,11:03,,,Towns 17' Jump Shot (8 PTS) (Bridges 1 AST),35 - 30,-5,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,194,1,57,2,7:46 PM,10:50,Horford 7' Driving Hook Shot (2 PTS),,,35 - 32,-3,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,195,6,2,2,7:47 PM,10:39,White S.FOUL (P1.T2) (T.Brothers),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,197,3,11,2,7:47 PM,10:39,,,McBride Free Throw 1 of 2 (4 PTS),36 - 32,-4,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,198,8,0,2,7:47 PM,10:39,SUB: Holiday FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,200,3,12,2,7:47 PM,10:39,,,McBride Free Throw 2 of 2 (5 PTS),37 - 32,-5,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,201,2,79,2,7:48 PM,10:26,MISS White 25' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,202,4,0,2,7:48 PM,10:24,,,Robinson REBOUND (Off:4 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,203,2,63,2,7:48 PM,10:17,,,MISS Bridges 11' Fadeaway Jumper,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,204,4,0,2,7:48 PM,10:16,Holiday REBOUND (Off:1 Def:2),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,206,2,79,2,7:48 PM,9:58,MISS White 28' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,207,4,0,2,7:48 PM,9:56,,,Bridges REBOUND (Off:0 Def:2),,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,208,2,2,2,7:48 PM,9:50,White BLOCK (1 BLK),,MISS Towns 3PT Running Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042400215,210,4,0,2,7:49 PM,9:49,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,211,6,3,2,7:49 PM,9:49,,,Towns L.B.FOUL (P3.T2) (J.Tiven),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,213,8,0,2,7:49 PM,9:49,,,SUB: Hart FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,215,5,1,2,7:49 PM,9:32,White Bad Pass Turnover (P2.T6),,Robinson STEAL (1 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,217,1,79,2,7:50 PM,9:08,,,McBride 25' 3PT Pullup Jump Shot (8 PTS),40 - 32,-8,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,218,9,1,2,7:50 PM,9:08,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,219,8,0,2,7:53 PM,9:08,SUB: Brown FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,221,6,2,2,7:54 PM,8:55,,,Payne S.FOUL (P1.T3) (T.Brothers),,,5,1626166,Cameron Payne,1610612752.0,New York,Knicks,NYK,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,223,3,11,2,7:54 PM,8:55,Holiday Free Throw 1 of 2 (1 PTS),,,40 - 33,-7,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,224,3,12,2,7:54 PM,8:55,MISS Holiday Free Throw 2 of 2,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,225,4,0,2,7:54 PM,8:55,,,Robinson REBOUND (Off:4 Def:3),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,226,1,78,2,7:55 PM,8:40,,,Hart 10' Floating Jump Shot (6 PTS) (Bridges 2 AST),42 - 33,-9,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,228,6,2,2,7:55 PM,8:30,,,Payne S.FOUL (P2.T4) (T.Brothers),,,5,1626166,Cameron Payne,1610612752.0,New York,Knicks,NYK,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,230,3,11,2,7:55 PM,8:30,White Free Throw 1 of 2 (15 PTS),,,42 - 34,-8,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,231,3,12,2,7:56 PM,8:30,White Free Throw 2 of 2 (16 PTS),,,42 - 35,-7,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,232,2,75,2,7:56 PM,8:15,,,MISS Bridges 9' Driving Finger Roll Layup,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,233,4,0,2,7:56 PM,8:14,White REBOUND (Off:0 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,235,2,79,2,7:57 PM,7:50,MISS Horford 18' Pullup Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,236,4,0,2,7:57 PM,7:48,,,Hart REBOUND (Off:0 Def:3),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,237,2,41,2,7:57 PM,7:41,,,MISS Hart 6' Running Layup,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,238,4,0,2,7:57 PM,7:40,Brown REBOUND (Off:1 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,239,1,76,2,7:57 PM,7:36,Brown 2' Running Finger Roll Layup (7 PTS),,,42 - 37,-5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,240,2,79,2,7:57 PM,7:27,,,MISS McBride 24' 3PT Pullup Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,241,4,0,2,7:57 PM,7:26,Holiday REBOUND (Off:1 Def:3),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,242,1,1,2,7:57 PM,7:17,Horford 24' 3PT Jump Shot (5 PTS) (Pritchard 1 AST),,,42 - 40,-2,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,244,5,13,2,7:57 PM,7:07,,,Bridges Backcourt Turnover (P1.T3),,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042400215,245,6,1,2,7:58 PM,6:54,,,Payne P.FOUL (P3.PN) (T.Brothers),,,5,1626166,Cameron Payne,1610612752.0,New York,Knicks,NYK,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,247,3,11,2,7:59 PM,6:54,MISS Holiday Free Throw 1 of 2,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,248,4,1,2,7:59 PM,6:54,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,249,8,0,2,7:59 PM,6:54,,,SUB: Brunson FOR Payne,,,5,1626166,Cameron Payne,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,250,8,0,2,7:59 PM,6:54,,,SUB: Anunoby FOR Bridges,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,253,3,12,2,7:59 PM,6:54,Holiday Free Throw 2 of 2 (2 PTS),,,42 - 41,-1,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,254,1,6,2,7:59 PM,6:39,,,Brunson 6' Driving Layup (6 PTS),44 - 41,-3,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,255,1,80,2,7:59 PM,6:29,Brown 25' 3PT Step Back Jump Shot (10 PTS),,,44 - 44,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,256,2,1,2,8:00 PM,6:06,,,MISS Brunson 24' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,257,4,0,2,8:00 PM,6:05,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,259,1,79,2,8:00 PM,5:49,Brown 17' Pullup Jump Shot (12 PTS),,,44 - 46,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,260,1,1,2,8:01 PM,5:23,,,Brunson 3PT Jump Shot (9 PTS) (McBride 1 AST),47 - 46,-1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,262,2,86,2,8:01 PM,5:08,MISS Brown 17' Turnaround Fadeaway Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,263,4,0,2,8:01 PM,5:07,,,Robinson REBOUND (Off:4 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,264,2,79,2,8:01 PM,4:52,,,MISS Brunson 15' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,265,4,0,2,8:01 PM,4:51,,,Robinson REBOUND (Off:5 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,266,2,1,2,8:01 PM,4:48,,,MISS Anunoby 26' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,267,4,0,2,8:01 PM,4:46,Brown REBOUND (Off:1 Def:5),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,268,1,108,2,8:02 PM,4:39,Horford 1' Cutting Dunk Shot (7 PTS) (Holiday 1 AST),,,47 - 48,1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,270,1,6,2,8:02 PM,4:22,,,Brunson 4' Driving Layup (11 PTS),49 - 48,-1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,271,1,80,2,8:02 PM,4:05,Pritchard 25' 3PT Step Back Jump Shot (6 PTS) (Brown 5 AST),,,49 - 51,2,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,273,1,1,2,8:03 PM,3:35,,,Hart 24' 3PT Jump Shot (9 PTS) (Brunson 4 AST),52 - 51,-1,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,275,5,45,2,8:03 PM,3:23,Horford Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0042400215,276,1,1,2,8:03 PM,3:08,,,Hart 25' 3PT Jump Shot (12 PTS) (Brunson 5 AST),55 - 51,-4,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,278,1,1,2,8:04 PM,2:46,White 26' 3PT Jump Shot (19 PTS) (Brown 6 AST),,,55 - 54,-1,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,280,6,2,2,8:04 PM,2:16,Holiday S.FOUL (P3.T3) (T.Brothers),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,282,9,1,2,8:04 PM,2:16,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,283,3,11,2,8:08 PM,2:16,,,Anunoby Free Throw 1 of 2 (4 PTS),56 - 54,-2,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,284,3,12,2,8:08 PM,2:16,,,Anunoby Free Throw 2 of 2 (5 PTS),57 - 54,-3,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,285,1,1,2,8:09 PM,2:02,Brown 29' 3PT Jump Shot (15 PTS) (Holiday 2 AST),,,57 - 57,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,287,1,57,2,8:09 PM,1:36,,,Brunson 4' Driving Hook Shot (13 PTS),59 - 57,-2,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,288,6,2,2,8:09 PM,1:36,Horford S.FOUL (P3.T4) (J.Tiven),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,290,8,0,2,8:09 PM,1:36,SUB: Porzingis FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,291,8,0,2,8:09 PM,1:36,,,SUB: Bridges FOR McBride,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,294,3,10,2,8:10 PM,1:36,,,MISS Brunson Free Throw 1 of 1,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,295,4,0,2,8:10 PM,1:36,Porzingis REBOUND (Off:0 Def:1),,,,,4,204001,Kristaps Porziņģis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,296,1,79,2,8:10 PM,1:14,Brown 18' Pullup Jump Shot (17 PTS),,,59 - 59,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,297,2,80,2,8:10 PM,0:55,,,MISS Anunoby 19' Step Back Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,298,4,0,2,8:10 PM,0:54,,,Robinson REBOUND (Off:6 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,299,2,1,2,8:10 PM,0:51,,,MISS Anunoby 15' Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,300,4,0,2,8:10 PM,0:48,Horford REBOUND (Off:0 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,301,2,1,2,8:11 PM,0:41,MISS Pritchard 26' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,302,4,0,2,8:11 PM,0:39,Brown REBOUND (Off:2 Def:5),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,303,2,97,2,8:11 PM,0:39,MISS Brown Tip Layup Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,304,4,0,2,8:11 PM,0:38,,,Robinson REBOUND (Off:6 Def:5),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,305,5,45,2,8:11 PM,0:33,,,Brunson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042400215,306,8,0,2,8:11 PM,0:33,SUB: Hauser FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,308,2,79,2,8:11 PM,0:12,MISS White 30' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,309,4,0,2,8:11 PM,0:11,,,Anunoby REBOUND (Off:0 Def:3),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,310,2,101,2,8:12 PM,0:00,,,MISS Brunson 13' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,311,4,0,2,8:12 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,312,13,0,2,8:12 PM,0:00,,End of 2nd Period (8:12 PM EST),,59 - 59,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,321,12,0,3,8:28 PM,12:00,,Start of 3rd Period (8:28 PM EST),,59 - 59,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,322,6,16,3,8:29 PM,11:41,,"Double Technical - Hart, Brown (T.Brothers)",,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,324,6,1,3,8:30 PM,11:41,Brown P.FOUL (P1.T1) (T.Brothers),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,326,1,1,3,8:30 PM,11:34,,,Hart 26' 3PT Jump Shot (15 PTS) (Brunson 6 AST),62 - 59,-3,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,328,1,6,3,8:31 PM,11:11,Holiday 2' Driving Layup (4 PTS) (White 1 AST),,,62 - 61,-1,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,329,6,2,3,8:31 PM,11:11,,,Brunson S.FOUL (P1.T1) (B.Forte),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,331,3,10,3,8:31 PM,11:11,MISS Holiday Free Throw 1 of 1,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,332,4,0,3,8:31 PM,11:09,Holiday REBOUND (Off:2 Def:3),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,333,2,101,3,8:31 PM,11:01,MISS Brown 2' Driving Floating Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,334,4,0,3,8:31 PM,11:00,Kornet REBOUND (Off:2 Def:2),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,335,1,97,3,8:31 PM,11:00,Kornet Tip Layup Shot (6 PTS),,,62 - 63,1,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,336,5,2,3,8:32 PM,10:43,Brown STEAL (1 STL),,Brunson Lost Ball Turnover (P2.T5),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,338,6,2,3,8:32 PM,10:37,,,Brunson S.FOUL (P2.T2) (T.Brothers),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,340,3,11,3,8:32 PM,10:37,Brown Free Throw 1 of 2 (18 PTS),,,62 - 64,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,341,3,12,3,8:33 PM,10:37,Brown Free Throw 2 of 2 (19 PTS),,,62 - 65,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,342,1,1,3,8:33 PM,10:15,,,Hart 28' 3PT Jump Shot (18 PTS) (Bridges 3 AST),65 - 65,TIE,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,344,1,1,3,8:33 PM,10:07,White 25' 3PT Jump Shot (22 PTS) (Horford 2 AST),,,65 - 68,3,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,346,6,2,3,8:33 PM,10:01,Horford S.FOUL (P4.T2) (T.Brothers),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,348,3,11,3,8:34 PM,10:01,,,Hart Free Throw 1 of 2 (19 PTS),66 - 68,2,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,349,8,0,3,8:34 PM,10:01,SUB: Pritchard FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,351,3,12,3,8:34 PM,10:01,,,Hart Free Throw 2 of 2 (20 PTS),67 - 68,1,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,352,6,2,3,8:35 PM,9:42,,,Anunoby S.FOUL (P1.T3) (T.Brothers),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,354,3,11,3,8:35 PM,9:42,White Free Throw 1 of 2 (23 PTS),,,67 - 69,2,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,355,3,12,3,8:35 PM,9:42,MISS White Free Throw 2 of 2,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,356,4,0,3,8:35 PM,9:42,,,Towns REBOUND (Off:0 Def:3),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,357,2,86,3,8:36 PM,9:18,,,MISS Hart 19' Turnaround Fadeaway Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,358,4,0,3,8:36 PM,9:17,Holiday REBOUND (Off:2 Def:4),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,359,6,2,3,8:36 PM,9:07,,,Brunson S.FOUL (P3.T4) (B.Forte),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,362,9,1,3,8:37 PM,9:07,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,363,18,5,3,8:37 PM,9:07,,Instant Replay3rd Period (8:37 PM EST),,67 - 69,2,0,359,Chucky Brown,,,,,0,0,,,,,,1,0,,,,,,1
+0042400215,364,3,11,3,8:41 PM,9:07,MISS White Free Throw 1 of 2,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,365,4,1,3,8:41 PM,9:07,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,366,3,12,3,8:41 PM,9:07,White Free Throw 2 of 2 (24 PTS),,,67 - 70,3,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,368,6,2,3,8:42 PM,8:51,Kornet S.FOUL (P3.T3) (J.Tiven),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,370,3,11,3,8:42 PM,8:51,,,MISS Hart Free Throw 1 of 2,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,371,4,1,3,8:42 PM,8:51,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,372,3,12,3,8:42 PM,8:51,,,Hart Free Throw 2 of 2 (21 PTS),68 - 70,2,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,373,6,1,3,8:43 PM,8:40,,,Towns P.FOUL (P4.PN) (B.Forte),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,375,3,11,3,8:43 PM,8:40,Brown Free Throw 1 of 2 (20 PTS),,,68 - 71,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,376,3,12,3,8:44 PM,8:40,Brown Free Throw 2 of 2 (21 PTS),,,68 - 72,4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,377,2,98,3,8:44 PM,8:19,Kornet BLOCK (2 BLK),,MISS Towns 7' Cutting Layup Shot,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,379,4,0,3,8:44 PM,8:18,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,381,2,63,3,8:44 PM,8:15,,,MISS Towns 14' Fadeaway Jumper,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,382,4,0,3,8:44 PM,8:14,White REBOUND (Off:0 Def:3),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,383,1,1,3,8:45 PM,8:07,White 28' 3PT Jump Shot (27 PTS) (Holiday 3 AST),,,68 - 75,7,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,385,9,1,3,8:45 PM,8:06,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,387,2,80,3,8:49 PM,7:50,,,MISS Brunson 26' 3PT Step Back Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,388,4,0,3,8:49 PM,7:48,Pritchard REBOUND (Off:1 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,389,6,2,3,8:49 PM,7:40,,,Hart S.FOUL (P1.PN) (B.Forte),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,391,3,13,3,8:49 PM,7:40,White Free Throw 1 of 3 (28 PTS),,,68 - 76,8,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,392,3,14,3,8:50 PM,7:40,White Free Throw 2 of 3 (29 PTS),,,68 - 77,9,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,393,3,15,3,8:50 PM,7:40,White Free Throw 3 of 3 (30 PTS),,,68 - 78,10,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,394,2,6,3,8:50 PM,7:26,Kornet BLOCK (3 BLK),,MISS Hart 8' Driving Layup,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,396,4,0,3,8:50 PM,7:25,,,Hart REBOUND (Off:1 Def:3),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,397,5,45,3,8:50 PM,7:24,,,Hart Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042400215,398,1,1,3,8:51 PM,7:10,Pritchard 24' 3PT Jump Shot (9 PTS) (Brown 7 AST),,,68 - 81,13,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,400,2,1,3,8:51 PM,6:42,,,MISS Hart 26' 3PT Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,401,4,0,3,8:51 PM,6:41,,,Towns REBOUND (Off:1 Def:3),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,402,2,72,3,8:51 PM,6:40,Kornet BLOCK (4 BLK),,MISS Towns 4' Putback Layup,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,404,4,0,3,8:51 PM,6:39,Holiday REBOUND (Off:2 Def:5),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,405,2,1,3,8:51 PM,6:28,MISS Pritchard 30' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,406,4,0,3,8:52 PM,6:25,,,Towns REBOUND (Off:1 Def:4),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,407,1,63,3,8:52 PM,6:01,,,Brunson 18' Fadeaway Jumper (15 PTS),70 - 81,11,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,408,6,1,3,8:52 PM,5:47,,,Anunoby P.FOUL (P2.PN) (J.Tiven),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,410,3,11,3,8:53 PM,5:47,MISS Brown Free Throw 1 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,411,4,1,3,8:53 PM,5:47,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,414,3,12,3,8:53 PM,5:47,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,415,4,0,3,8:53 PM,5:47,,,Anunoby REBOUND (Off:0 Def:4),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,412,8,0,3,8:53 PM,5:47,SUB: Hauser FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,416,2,1,3,8:54 PM,5:30,,,MISS Bridges 26' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,417,4,0,3,8:54 PM,5:28,Kornet REBOUND (Off:2 Def:3),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,418,1,1,3,8:54 PM,5:11,Hauser 25' 3PT Jump Shot (6 PTS) (Pritchard 2 AST),,,70 - 84,14,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,420,9,1,3,8:54 PM,5:10,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,421,8,0,3,8:55 PM,5:10,SUB: White FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,423,2,101,3,8:56 PM,4:57,Kornet BLOCK (5 BLK),,MISS Brunson 6' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,425,4,0,3,8:56 PM,4:56,Hauser REBOUND (Off:0 Def:1),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,426,2,2,3,8:56 PM,4:51,MISS White 26' 3PT Running Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,427,4,0,3,8:56 PM,4:50,Pritchard REBOUND (Off:2 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,428,2,1,3,8:56 PM,4:47,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,429,4,0,3,8:56 PM,4:46,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,431,1,63,3,8:57 PM,4:25,,,Bridges 17' Fadeaway Jumper (9 PTS) (Anunoby 2 AST),72 - 84,12,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,433,1,98,3,8:57 PM,4:14,Holiday 2' Cutting Layup Shot (6 PTS) (Hauser 1 AST),,,72 - 86,14,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,435,2,102,3,8:57 PM,3:59,,,MISS Anunoby 7' Driving Floating Bank Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,436,4,0,3,8:57 PM,3:58,,,Anunoby REBOUND (Off:1 Def:4),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,437,2,1,3,8:57 PM,3:55,,,MISS Bridges 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,438,4,0,3,8:57 PM,3:53,Kornet REBOUND (Off:2 Def:4),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,439,2,1,3,8:57 PM,3:43,MISS Pritchard 27' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,440,4,0,3,8:57 PM,3:41,,,Anunoby REBOUND (Off:1 Def:5),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,441,6,2,3,8:57 PM,3:34,Hauser S.FOUL (P1.T4) (J.Tiven),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,443,3,11,3,8:58 PM,3:34,,,Towns Free Throw 1 of 2 (9 PTS),73 - 86,13,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,444,8,0,3,8:58 PM,3:34,SUB: Brown FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,446,3,12,3,8:59 PM,3:34,,,Towns Free Throw 2 of 2 (10 PTS),74 - 86,12,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,447,6,2,3,8:59 PM,3:17,,,Brunson S.FOUL (P4.PN) (J.Tiven),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,449,3,11,3,9:00 PM,3:17,Brown Free Throw 1 of 2 (22 PTS),,,74 - 87,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,450,8,0,3,9:00 PM,3:17,,,SUB: Robinson FOR Bridges,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,451,8,0,3,9:00 PM,3:17,,,SUB: McBride FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,454,3,12,3,9:00 PM,3:17,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,455,4,0,3,9:00 PM,3:17,,,Hart REBOUND (Off:1 Def:4),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,456,6,28,3,9:00 PM,3:12,Hauser Personal Take Foul (P2.PN) (T.Brothers),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,458,3,11,3,9:01 PM,3:12,,,Robinson Free Throw 1 of 2 (7 PTS),75 - 87,12,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,459,3,12,3,9:01 PM,3:12,,,Robinson Free Throw 2 of 2 (8 PTS),76 - 87,11,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,460,5,1,3,9:01 PM,3:01,Brown Bad Pass Turnover (P2.T8),,Robinson STEAL (2 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,462,2,102,3,9:01 PM,2:53,,,MISS Brunson 10' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,463,4,0,3,9:01 PM,2:51,Kornet REBOUND (Off:2 Def:5),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,464,6,2,3,9:02 PM,2:45,,,Brunson S.FOUL (P5.PN) (T.Brothers),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,466,3,11,3,9:02 PM,2:45,White Free Throw 1 of 2 (31 PTS),,,76 - 88,12,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,469,3,12,3,9:02 PM,2:45,White Free Throw 2 of 2 (32 PTS),,,76 - 89,13,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,467,8,0,3,9:02 PM,2:45,,,SUB: Bridges FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,470,2,101,3,9:03 PM,2:27,Kornet BLOCK (6 BLK),,MISS Anunoby 9' Driving Floating Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,472,4,0,3,9:03 PM,2:25,Kornet REBOUND (Off:2 Def:6),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,473,1,108,3,9:03 PM,2:08,Kornet 1' Cutting Dunk Shot (8 PTS) (Hauser 2 AST),,,76 - 91,15,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,475,5,45,3,9:03 PM,2:03,,,Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,476,2,80,3,9:04 PM,1:41,MISS Brown 26' 3PT Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,477,4,0,3,9:04 PM,1:40,Pritchard REBOUND (Off:3 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,478,2,9,3,9:04 PM,1:27,MISS Brown 4' Driving Dunk,,Anunoby BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,1
+0042400215,480,4,0,3,9:04 PM,1:26,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,482,8,0,3,9:05 PM,1:26,SUB: Holiday FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,484,2,1,3,9:05 PM,1:25,MISS Pritchard 27' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,485,4,0,3,9:05 PM,1:25,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,486,5,11,3,9:05 PM,1:25,CELTICS Turnover: Shot Clock (T#9),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400215,487,6,4,3,9:05 PM,1:10,,,Anunoby OFF.Foul (P3) (J.Tiven),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,489,5,37,3,9:05 PM,1:10,,,Anunoby Offensive Foul Turnover (P2.T8),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042400215,490,2,75,3,9:06 PM,0:58,MISS Pritchard 8' Driving Finger Roll Layup,,Robinson BLOCK (1 BLK),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0042400215,492,4,0,3,9:06 PM,0:57,,,Hart REBOUND (Off:1 Def:5),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,493,2,79,3,9:06 PM,0:41,,,MISS McBride 17' Pullup Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,494,4,0,3,9:06 PM,0:39,Brown REBOUND (Off:2 Def:6),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,495,2,79,3,9:06 PM,0:31,MISS Hauser 27' 3PT Pullup Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,496,4,0,3,9:06 PM,0:29,,,Robinson REBOUND (Off:6 Def:6),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,499,2,79,3,9:07 PM,0:05,,,MISS Hart 29' 3PT Pullup Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,500,4,0,3,9:07 PM,0:03,,,Anunoby REBOUND (Off:2 Def:5),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,501,2,47,3,9:08 PM,0:00,,,MISS Bridges 23' Turnaround Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,502,4,0,3,9:08 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,503,13,0,3,9:08 PM,0:00,,End of 3rd Period (9:08 PM EST),,76 - 91,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,512,12,0,4,9:11 PM,12:00,,Start of 4th Period (9:11 PM EST),,76 - 91,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,513,2,1,4,9:11 PM,11:44,MISS Hauser 27' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,514,4,0,4,9:12 PM,11:43,,,Robinson REBOUND (Off:6 Def:7),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,515,2,80,4,9:12 PM,11:28,,,MISS Bridges 18' Step Back Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,516,4,0,4,9:12 PM,11:26,Horford REBOUND (Off:0 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,517,1,1,4,9:12 PM,11:16,Horford 25' 3PT Jump Shot (10 PTS) (Pritchard 3 AST),,,76 - 94,18,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,519,5,1,4,9:12 PM,10:57,Pritchard STEAL (1 STL),,Bridges Bad Pass Turnover (P2.T9),,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,521,2,2,4,9:12 PM,10:53,MISS Holiday 27' 3PT Running Jump Shot,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,522,4,0,4,9:12 PM,10:52,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,523,1,97,4,9:12 PM,10:52,Horford 1' Tip Layup Shot (12 PTS),,,76 - 96,20,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,524,6,2,4,9:13 PM,10:44,White S.FOUL (P2.T1) (B.Forte),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,526,3,11,4,9:13 PM,10:44,,,MISS Brunson Free Throw 1 of 2,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,527,4,1,4,9:13 PM,10:44,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,528,3,12,4,9:14 PM,10:44,,,Brunson Free Throw 2 of 2 (16 PTS),77 - 96,19,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,529,1,79,4,9:14 PM,10:34,Holiday 25' 3PT Pullup Jump Shot (9 PTS),,,77 - 99,22,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,530,2,80,4,9:14 PM,10:09,,,MISS McBride 23' Step Back Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,531,4,0,4,9:14 PM,10:08,Horford REBOUND (Off:1 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,533,2,6,4,9:15 PM,9:50,MISS Holiday 8' Driving Layup,,Towns BLOCK (1 BLK),,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1
+0042400215,535,4,0,4,9:15 PM,9:49,,,Towns REBOUND (Off:1 Def:5),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,536,6,1,4,9:15 PM,9:42,Horford P.FOUL (P5.T2) (J.Tiven),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,538,9,1,4,9:15 PM,9:42,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,539,18,4,4,9:15 PM,9:42,,Instant Replay4th Period (9:15 PM EST),,77 - 99,22,0,536,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400215,540,8,0,4,9:19 PM,9:42,SUB: Kornet FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,542,2,101,4,9:20 PM,9:29,,,MISS Bridges 12' Driving Floating Jump Shot,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,543,4,0,4,9:20 PM,9:28,,,Towns REBOUND (Off:2 Def:5),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,544,1,72,4,9:20 PM,9:26,,,Towns 4' Putback Layup (12 PTS),79 - 99,20,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,545,2,6,4,9:20 PM,9:13,MISS White 5' Driving Layup,,Bridges BLOCK (1 BLK),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,1
+0042400215,546,4,0,4,9:20 PM,9:12,,,Towns REBOUND (Off:2 Def:6),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,547,6,2,4,9:20 PM,9:07,Holiday S.FOUL (P4.T3) (B.Forte),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,549,3,11,4,9:21 PM,9:07,,,Brunson Free Throw 1 of 2 (17 PTS),80 - 99,19,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,550,3,12,4,9:21 PM,9:07,,,Brunson Free Throw 2 of 2 (18 PTS),81 - 99,18,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,552,1,80,4,9:21 PM,8:50,Pritchard 25' 3PT Step Back Jump Shot (12 PTS),,,81 - 102,21,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,553,2,57,4,9:22 PM,8:31,,,MISS Towns 6' Driving Hook Shot,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,554,4,0,4,9:22 PM,8:27,,,Brunson REBOUND (Off:1 Def:0),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,557,6,2,4,9:22 PM,8:25,White S.FOUL (P3.T4) (T.Brothers),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,559,3,11,4,9:22 PM,8:25,,,Brunson Free Throw 1 of 2 (19 PTS),82 - 102,20,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,560,8,0,4,9:22 PM,8:25,SUB: Brown FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,562,3,12,4,9:23 PM,8:25,,,Brunson Free Throw 2 of 2 (20 PTS),83 - 102,19,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,563,1,99,4,9:23 PM,8:07,Pritchard 2' Cutting Finger Roll Layup Shot (14 PTS) (White 2 AST),,,83 - 104,21,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,565,2,1,4,9:23 PM,7:48,White BLOCK (2 BLK),,MISS McBride 25' 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042400215,566,4,0,4,9:23 PM,7:47,Kornet REBOUND (Off:2 Def:7),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,567,1,98,4,9:23 PM,7:36,Holiday 1' Cutting Layup Shot (11 PTS) (Brown 8 AST),,,83 - 106,23,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,570,9,1,4,9:24 PM,7:36,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,571,8,0,4,9:27 PM,7:36,,,SUB: Hart FOR McBride,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,572,8,0,4,9:27 PM,7:36,,,SUB: Anunoby FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,575,6,1,4,9:27 PM,7:30,Brown P.FOUL (P2.PN) (B.Forte),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,577,3,11,4,9:28 PM,7:30,,,Brunson Free Throw 1 of 2 (21 PTS),84 - 106,22,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,578,3,12,4,9:28 PM,7:30,,,Brunson Free Throw 2 of 2 (22 PTS),85 - 106,21,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,580,6,1,4,9:29 PM,7:19,,,Brunson P.FOUL (P6.T1) (T.Brothers),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0042400215,582,9,1,4,9:30 PM,7:19,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,583,18,4,4,9:30 PM,7:19,,Instant Replay4th Period (9:30 PM EST),,85 - 106,21,0,580,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400215,584,8,0,4,9:31 PM,7:19,,,SUB: McBride FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,586,1,79,4,9:31 PM,7:06,Brown 18' Pullup Jump Shot (24 PTS),,,85 - 108,23,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,587,2,1,4,9:32 PM,6:44,Kornet BLOCK (7 BLK),,MISS Hart 3PT Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0042400215,589,4,0,4,9:32 PM,6:43,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,591,2,79,4,9:32 PM,6:37,White BLOCK (3 BLK),,MISS McBride 27' 3PT Pullup Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0042400215,592,4,0,4,9:32 PM,6:37,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400215,593,5,11,4,9:32 PM,6:37,,,Knicks Turnover: Shot Clock (T#10),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400215,594,1,52,4,9:33 PM,6:21,Kornet 1' Alley Oop Dunk (10 PTS) (Brown 9 AST),,,85 - 110,25,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,596,1,6,4,9:33 PM,6:05,,,Towns 1' Driving Layup (14 PTS) (McBride 2 AST),87 - 110,23,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,599,2,80,4,9:33 PM,5:46,MISS Brown 26' 3PT Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,600,4,0,4,9:33 PM,5:45,,,Hart REBOUND (Off:1 Def:6),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,601,1,78,4,9:33 PM,5:32,,,Towns 12' Floating Jump Shot (16 PTS) (Hart 2 AST),89 - 110,21,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,603,1,1,4,9:34 PM,5:16,Pritchard 30' 3PT Jump Shot (17 PTS) (Brown 10 AST),,,89 - 113,24,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,605,6,2,4,9:34 PM,4:53,Holiday S.FOUL (P5.PN) (T.Brothers),,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,607,7,1,4,9:35 PM,4:53,CELTICS Violation: Delay of game Violation,,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400215,608,3,11,4,9:35 PM,4:53,,,Towns Free Throw 1 of 2 (17 PTS),90 - 113,23,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,609,3,12,4,9:35 PM,4:53,,,Towns Free Throw 2 of 2 (18 PTS),91 - 113,22,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,610,1,79,4,9:36 PM,4:34,Brown 17' Pullup Jump Shot (26 PTS),,,91 - 115,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,612,6,18,4,9:36 PM,4:32,CELTICS Delay,,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400215,613,3,16,4,9:36 PM,4:32,,,Towns Free Throw Technical (19 PTS),92 - 115,23,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,614,5,40,4,9:37 PM,4:18,,,Towns Out of Bounds Lost Ball Turnover (P2.T11),,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0042400215,615,2,1,4,9:37 PM,4:05,MISS Pritchard 27' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,616,4,0,4,9:37 PM,4:04,,,Anunoby REBOUND (Off:2 Def:6),,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,617,6,2,4,9:37 PM,3:54,Kornet S.FOUL (P4.PN) (J.Tiven),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,619,3,11,4,9:38 PM,3:54,,,Anunoby Free Throw 1 of 2 (6 PTS),93 - 115,22,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,620,3,12,4,9:38 PM,3:54,,,MISS Anunoby Free Throw 2 of 2,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,621,4,0,4,9:38 PM,3:50,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,623,1,98,4,9:38 PM,3:34,White 3' Cutting Layup Shot (34 PTS) (Brown 11 AST),,,93 - 117,24,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,625,1,1,4,9:39 PM,3:19,,,Hart 25' 3PT Jump Shot (24 PTS) (McBride 3 AST),96 - 117,21,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,627,1,1,4,9:39 PM,3:02,Holiday 26' 3PT Jump Shot (14 PTS) (Brown 12 AST),,,96 - 120,24,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,629,2,80,4,9:39 PM,2:52,,,MISS Anunoby 25' 3PT Step Back Jump Shot,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,630,4,0,4,9:39 PM,2:51,Pritchard REBOUND (Off:3 Def:2),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,631,6,28,4,9:39 PM,2:34,,,Hart Personal Take Foul (P2.T2) (B.Forte),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0042400215,633,8,0,4,9:40 PM,2:34,SUB: Craig FOR Holiday,,,,,4,201950,Jrue Holiday,1610612738.0,Boston,Celtics,BOS,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,634,8,0,4,9:40 PM,2:34,SUB: Davison FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,635,8,0,4,9:40 PM,2:34,SUB: Walsh FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1641775,Jordan Walsh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,636,8,0,4,9:40 PM,2:34,SUB: Scheierman FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1631248,Baylor Scheierman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,637,8,0,4,9:40 PM,2:34,SUB: Queta FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0042400215,638,8,0,4,9:40 PM,2:34,,,SUB: Dadiet FOR Hart,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1642359,Pacôme Dadiet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,639,8,0,4,9:40 PM,2:34,,,SUB: Achiuwa FOR Anunoby,,,5,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,640,8,0,4,9:40 PM,2:34,,,SUB: Kolek FOR Bridges,,,5,1628969,Mikal Bridges,1610612752.0,New York,Knicks,NYK,5,1642278,Tyler Kolek,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,641,8,0,4,9:40 PM,2:34,,,SUB: Shamet FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612752.0,New York,Knicks,NYK,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0042400215,651,2,1,4,9:40 PM,2:21,MISS Walsh 3PT Jump Shot,,,,,4,1641775,Jordan Walsh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,652,4,0,4,9:40 PM,2:19,,,Achiuwa REBOUND (Off:0 Def:1),,,5,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,653,6,1,4,9:41 PM,2:11,Queta P.FOUL (P1.PN) (T.Brothers),,,,,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,655,3,11,4,9:41 PM,2:11,,,MISS Shamet Free Throw 1 of 2,,,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,656,4,1,4,9:41 PM,2:11,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400215,657,3,12,4,9:41 PM,2:11,,,MISS Shamet Free Throw 2 of 2,,,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,658,4,0,4,9:41 PM,2:11,Craig REBOUND (Off:0 Def:2),,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,659,2,80,4,9:42 PM,1:52,MISS Craig 24' 3PT Step Back Jump Shot,,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,660,4,0,4,9:42 PM,1:51,Queta REBOUND (Off:1 Def:0),,,,,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,661,1,87,4,9:42 PM,1:49,Queta 1' Putback Dunk (2 PTS),,,96 - 122,26,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,662,1,6,4,9:42 PM,1:34,,,Dadiet 4' Driving Layup (2 PTS) (Shamet 1 AST),98 - 122,24,5,1642359,Pacôme Dadiet,1610612752.0,New York,Knicks,NYK,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0042400215,664,2,79,4,9:42 PM,1:22,MISS Scheierman 27' 3PT Pullup Jump Shot,,,,,4,1631248,Baylor Scheierman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,665,4,0,4,9:42 PM,1:21,Craig REBOUND (Off:1 Def:2),,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,666,1,79,4,9:42 PM,1:07,Davison 28' 3PT Pullup Jump Shot (3 PTS) (Queta 1 AST),,,98 - 125,27,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,668,6,1,4,9:43 PM,1:01,Scheierman P.FOUL (P1.PN) (J.Tiven),,,,,4,1631248,Baylor Scheierman,1610612738.0,Boston,Celtics,BOS,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0042400215,670,3,11,4,9:43 PM,1:01,,,Shamet Free Throw 1 of 2 (1 PTS),99 - 125,26,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,671,3,12,4,9:43 PM,1:01,,,MISS Shamet Free Throw 2 of 2,,,5,1629013,Landry Shamet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,672,4,0,4,9:43 PM,0:59,Craig REBOUND (Off:1 Def:3),,,,,4,1628470,Torrey Craig,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0042400215,673,1,43,4,9:43 PM,0:48,Queta 1' Alley Oop Layup (4 PTS) (Davison 1 AST),,,99 - 127,28,4,1629674,Neemias Queta,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0042400215,675,1,86,4,9:44 PM,0:23,,,McBride 27' 3PT Turnaround Fadeaway (11 PTS),102 - 127,25,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0042400215,676,13,0,4,9:44 PM,0:00,,End of 4th Period (9:44 PM EST),,102 - 127,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

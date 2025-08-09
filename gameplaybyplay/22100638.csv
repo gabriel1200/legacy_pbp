@@ -1,0 +1,475 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100638,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,4,10,0,1,8:41 PM,12:00,Jump Ball Poeltl vs. Allen: Tip to Garland,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100638,7,2,3,1,8:42 PM,11:40,,,MISS Allen 9' Hook Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,8,4,0,1,8:42 PM,11:38,Poeltl REBOUND (Off:0 Def:1),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,9,2,78,1,8:42 PM,11:20,MISS Poeltl 14' Floating Jump Shot,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,10,4,0,1,8:42 PM,11:16,,,Allen REBOUND (Off:0 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,11,6,2,1,8:42 PM,11:09,Poeltl S.FOUL (P1.T1) (J.Ralls),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,13,3,11,1,8:43 PM,11:09,,,Allen Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,14,3,12,1,8:43 PM,11:09,,,MISS Allen Free Throw 2 of 2,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,15,4,0,1,8:43 PM,11:07,Murray REBOUND (Off:0 Def:1),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,16,5,45,1,8:43 PM,10:59,Poeltl Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,17,2,1,1,8:44 PM,10:35,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,18,4,0,1,8:44 PM,10:31,,,Stevens REBOUND (Off:1 Def:0),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,19,1,1,1,8:44 PM,10:29,,,Garland 25' 3PT Jump Shot (3 PTS) (Stevens 1 AST),4 - 0,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,21,2,80,1,8:44 PM,10:14,MISS K. Johnson 10' Step Back Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,22,4,0,1,8:44 PM,10:12,,,Allen REBOUND (Off:0 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,23,1,79,1,8:44 PM,9:59,,,Mobley 18' Pullup Jump Shot (2 PTS) (Allen 1 AST),6 - 0,-6,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,25,1,75,1,8:44 PM,9:45,Murray Driving Finger Roll Layup (2 PTS),,,6 - 2,-4,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,26,5,1,1,8:45 PM,9:34,McDermott STEAL (1 STL),,Mobley Bad Pass Turnover (P1.T1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,28,2,41,1,8:45 PM,9:30,MISS McDermott 3' Running Layup,,Mobley BLOCK (1 BLK),,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100638,30,4,0,1,8:45 PM,9:30,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,32,5,1,1,8:45 PM,9:26,McDermott Bad Pass Turnover (P1.T2),,Mobley STEAL (1 STL),,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,34,2,58,1,8:45 PM,9:20,,,MISS Mobley 10' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,35,4,0,1,8:45 PM,9:18,,,Mobley REBOUND (Off:1 Def:0),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,36,2,3,1,8:45 PM,9:16,,,MISS Mobley 7' Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,37,4,0,1,8:45 PM,9:14,Vassell REBOUND (Off:0 Def:1),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,38,6,1,1,8:45 PM,9:08,,,Stevens P.FOUL (P1.T1) (J.Ralls),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,40,1,79,1,8:46 PM,9:02,Murray 15' Pullup Jump Shot (4 PTS),,,6 - 4,-2,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,41,1,75,1,8:46 PM,8:47,,,Garland 1' Driving Finger Roll Layup (5 PTS),8 - 4,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,42,2,1,1,8:46 PM,8:40,MISS Vassell 3PT Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,43,4,0,1,8:46 PM,8:35,K. Johnson REBOUND (Off:1 Def:0),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,44,1,97,1,8:46 PM,8:35,K. Johnson Tip Layup Shot (2 PTS),,,8 - 6,-2,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,45,1,79,1,8:46 PM,8:12,,,Markkanen 17' Pullup Jump Shot (2 PTS) (Garland 1 AST),10 - 6,-4,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,47,10,0,1,8:47 PM,7:42,Jump Ball Vassell vs. Markkanen: Tip to McDermott,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,1
+0022100638,50,2,63,1,8:47 PM,7:40,MISS McDermott 14' Fadeaway Jumper,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,51,4,0,1,8:47 PM,7:39,,,Markkanen REBOUND (Off:0 Def:1),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,52,1,108,1,8:48 PM,7:30,,,Stevens 2' Cutting Dunk Shot (2 PTS) (Garland 2 AST),12 - 6,-6,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,54,9,1,1,8:48 PM,7:29,SPURS Timeout: Regular (Full 1 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,55,2,1,1,8:51 PM,7:13,MISS K. Johnson 26' 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,56,4,0,1,8:51 PM,7:09,,,Allen REBOUND (Off:0 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,57,1,79,1,8:51 PM,6:53,,,Garland 26' 3PT Pullup Jump Shot (8 PTS),15 - 6,-9,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,58,2,1,1,8:51 PM,6:41,MISS Murray 26' 3PT Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,59,4,0,1,8:51 PM,6:38,,,Allen REBOUND (Off:0 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,60,2,80,1,8:52 PM,6:29,,,MISS Garland 26' 3PT Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,61,4,0,1,8:52 PM,6:27,Poeltl REBOUND (Off:0 Def:2),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,62,1,1,1,8:52 PM,6:19,McDermott 25' 3PT Jump Shot (3 PTS) (K. Johnson 1 AST),,,15 - 9,-6,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,64,5,2,1,8:52 PM,6:00,Poeltl STEAL (1 STL),,Mobley Lost Ball Turnover (P2.T2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,66,2,5,1,8:52 PM,5:57,MISS Vassell 3' Layup,,Garland BLOCK (1 BLK),,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100638,68,4,0,1,8:52 PM,5:57,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,70,8,0,1,8:52 PM,5:57,SUB: Walker IV FOR K. Johnson,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,71,8,0,1,8:52 PM,5:57,SUB: Bates-Diop FOR Vassell,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,72,8,0,1,8:52 PM,5:57,,,SUB: Osman FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,73,8,0,1,8:52 PM,5:57,,,SUB: Okoro FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,74,8,0,1,8:52 PM,5:57,,,SUB: Love FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,80,2,1,1,8:53 PM,5:52,MISS McDermott 15' Jump Shot,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,81,4,0,1,8:53 PM,5:50,,,Allen REBOUND (Off:0 Def:5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,82,1,52,1,8:53 PM,5:42,,,Allen 1' Alley Oop Dunk (3 PTS) (Garland 3 AST),17 - 9,-8,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,84,2,5,1,8:53 PM,5:24,MISS Poeltl 1' Layup,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,85,4,0,1,8:53 PM,5:21,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,86,2,41,1,8:53 PM,5:18,,,MISS Okoro Running Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,87,4,0,1,8:53 PM,5:14,Poeltl REBOUND (Off:0 Def:3),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,88,1,1,1,8:53 PM,5:11,McDermott 26' 3PT Jump Shot (6 PTS) (Murray 1 AST),,,17 - 12,-5,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,90,2,96,1,8:54 PM,4:49,,,MISS Love 7' Turnaround Bank Hook Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,91,4,0,1,8:54 PM,4:47,Murray REBOUND (Off:0 Def:2),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,92,1,44,1,8:54 PM,4:44,Bates-Diop 1' Reverse Layup (2 PTS) (Murray 2 AST),,,17 - 14,-3,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,94,9,1,1,8:54 PM,4:44,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,95,8,0,1,8:56 PM,4:44,SUB: Forbes FOR McDermott,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,97,1,1,1,8:57 PM,4:34,,,Garland 25' 3PT Jump Shot (11 PTS) (Osman 1 AST),20 - 14,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,99,1,75,1,8:57 PM,4:24,Murray 1' Driving Finger Roll Layup (6 PTS),,,20 - 16,-4,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,100,1,98,1,8:57 PM,4:11,,,Love Cutting Layup Shot (2 PTS) (Garland 4 AST),22 - 16,-6,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,102,1,79,1,8:57 PM,4:05,Forbes 25' 3PT Pullup Jump Shot (3 PTS) (Murray 3 AST),,,22 - 19,-3,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,105,8,0,1,8:58 PM,3:53,SUB: Landale FOR Poeltl,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,106,8,0,1,8:58 PM,3:53,,,SUB: Mobley FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,107,8,0,1,8:58 PM,3:53,,,SUB: Goodwin FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,111,1,1,1,8:58 PM,3:38,,,Goodwin 25' 3PT Jump Shot (3 PTS) (Mobley 1 AST),25 - 19,-6,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,113,5,2,1,8:59 PM,3:26,Murray Lost Ball Turnover (P1.T3),,Goodwin STEAL (1 STL),,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,115,2,43,1,8:59 PM,3:21,,,MISS Osman Alley Oop Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,116,4,0,1,8:59 PM,3:20,Murray REBOUND (Off:0 Def:3),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,117,6,28,1,8:59 PM,3:20,,,Osman Personal Take Foul (P1.T2) (J.Ralls),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,119,8,0,1,8:59 PM,3:20,SUB: Primo FOR Murray,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,121,2,99,1,8:59 PM,2:58,MISS Primo 1' Cutting Finger Roll Layup Shot,,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,122,4,0,1,8:59 PM,2:55,,,Mobley REBOUND (Off:1 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,123,2,78,1,9:00 PM,2:32,,,MISS Osman 11' Floating Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,124,4,0,1,9:00 PM,2:30,Primo REBOUND (Off:0 Def:1),,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,125,1,79,1,9:00 PM,2:26,Forbes 25' 3PT Pullup Jump Shot (6 PTS) (Walker IV 1 AST),,,25 - 22,-3,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,127,2,1,1,9:00 PM,2:09,,,MISS Okoro 24' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,128,4,0,1,9:00 PM,2:07,,,Mobley REBOUND (Off:2 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,129,1,72,1,9:00 PM,2:07,,,Mobley Putback Layup (4 PTS),27 - 22,-5,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,130,6,2,1,9:00 PM,2:07,Walker IV S.FOUL (P1.T2) (B.Barnaky),,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,132,8,0,1,9:00 PM,2:07,SUB: K. Johnson FOR Bates-Diop,,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,134,3,10,1,9:01 PM,2:07,,,MISS Mobley Free Throw 1 of 1,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,135,4,0,1,9:01 PM,2:04,Landale REBOUND (Off:0 Def:1),,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,136,6,1,1,9:01 PM,1:59,,,Goodwin P.FOUL (P1.T3) (K.Lane),,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,138,6,26,1,9:02 PM,1:54,K. Johnson Offensive Charge Foul (P1) (J.Ralls),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,140,5,37,1,9:02 PM,1:54,K. Johnson Offensive Foul Turnover (P1.T4),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,141,1,1,1,9:02 PM,1:35,,,Osman 25' 3PT Jump Shot (3 PTS) (Goodwin 1 AST),30 - 22,-8,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,143,1,75,1,9:03 PM,1:17,K. Johnson 1' Driving Finger Roll Layup (4 PTS) (Forbes 1 AST),,,30 - 24,-6,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,144,1,75,1,9:03 PM,1:05,,,Goodwin 1' Driving Finger Roll Layup (5 PTS),32 - 24,-8,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,145,6,4,1,9:03 PM,1:00,Primo OFF.Foul (P1) (B.Barnaky),,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,147,5,37,1,9:03 PM,1:00,Primo Offensive Foul Turnover (P1.T5),,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,148,6,2,1,9:03 PM,0:50,Forbes S.FOUL (P1.T3) (B.Barnaky),,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,150,3,11,1,9:04 PM,0:50,,,MISS Okoro Free Throw 1 of 2,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,151,4,1,1,9:04 PM,0:50,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,152,3,12,1,9:04 PM,0:50,,,Okoro Free Throw 2 of 2 (1 PTS),33 - 24,-9,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,153,6,2,1,9:05 PM,0:33,,,Okoro S.FOUL (P1.PN) (K.Lane),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,156,3,11,1,9:05 PM,0:33,Walker IV Free Throw 1 of 2 (1 PTS),,,33 - 25,-8,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,157,3,12,1,9:05 PM,0:33,Walker IV Free Throw 2 of 2 (2 PTS),,,33 - 26,-7,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022100638,158,2,1,1,9:05 PM,0:18,,,MISS Osman 26' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,159,4,0,1,9:05 PM,0:14,,,Love REBOUND (Off:1 Def:0),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,160,1,58,1,9:06 PM,0:14,,,Love Turnaround Hook Shot (4 PTS),35 - 26,-9,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,161,2,1,1,9:06 PM,0:03,MISS Landale 25' 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,162,4,0,1,9:06 PM,0:01,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,164,13,0,1,9:06 PM,0:00,,End of 1st Period (9:06 PM EST),,35 - 26,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100638,171,12,0,2,9:09 PM,12:00,,Start of 2nd Period (9:09 PM EST),,35 - 26,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,172,1,79,2,9:09 PM,11:46,Vassell 19' Pullup Jump Shot (2 PTS) (Landale 1 AST),,,35 - 28,-7,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,174,1,1,2,9:09 PM,11:29,,,Mobley 13' Jump Shot (6 PTS) (Goodwin 2 AST),37 - 28,-9,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,176,2,1,2,9:10 PM,11:08,MISS McDermott 3PT Jump Shot,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,177,4,0,2,9:10 PM,11:05,McDermott REBOUND (Off:1 Def:0),,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,178,2,5,2,9:10 PM,11:04,MISS McDermott 7' Layup,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,179,4,0,2,9:10 PM,11:04,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,180,6,3,2,9:10 PM,11:03,McDermott L.B.FOUL (P1.T1) (J.Ralls),,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,182,8,0,2,9:10 PM,11:03,SUB: Poeltl FOR Landale,,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,184,1,52,2,9:10 PM,10:48,,,Mobley 1' Alley Oop Dunk (8 PTS) (Goodwin 3 AST),39 - 28,-11,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,186,1,1,2,9:10 PM,10:38,K. Johnson 26' 3PT Jump Shot (7 PTS) (Poeltl 1 AST),,,39 - 31,-8,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,188,1,80,2,9:11 PM,10:22,,,Goodwin 10' Step Back Jump Shot (7 PTS),41 - 31,-10,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,189,2,80,2,9:11 PM,10:06,MISS Vassell 15' Step Back Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,190,4,0,2,9:11 PM,10:03,Primo REBOUND (Off:1 Def:1),,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,191,1,1,2,9:11 PM,9:58,Vassell 25' 3PT Jump Shot (5 PTS) (K. Johnson 2 AST),,,41 - 34,-7,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,193,2,78,2,9:11 PM,9:43,,,MISS Goodwin 12' Floating Jump Shot,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,194,4,0,2,9:11 PM,9:40,Vassell REBOUND (Off:0 Def:2),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,195,2,1,2,9:12 PM,9:32,MISS K. Johnson 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,196,4,0,2,9:12 PM,9:29,,,Mobley REBOUND (Off:2 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,197,1,78,2,9:12 PM,9:23,,,Markkanen 4' Floating Jump Shot (4 PTS) (Goodwin 4 AST),43 - 34,-9,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,199,2,75,2,9:12 PM,9:10,MISS Vassell 1' Driving Finger Roll Layup,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,200,4,0,2,9:12 PM,9:10,,,Love REBOUND (Off:1 Def:1),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,201,2,5,2,9:12 PM,9:05,Primo BLOCK (1 BLK),,MISS Goodwin 3' Layup,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,1
+0022100638,203,4,0,2,9:12 PM,9:05,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,205,8,0,2,9:12 PM,9:05,,,SUB: Garland FOR Goodwin,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,207,2,79,2,9:13 PM,8:57,,,MISS Mobley 15' Pullup Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,208,4,0,2,9:13 PM,8:55,K. Johnson REBOUND (Off:1 Def:1),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,209,6,2,2,9:13 PM,8:34,,,Love S.FOUL (P1.T1) (B.Barnaky),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,211,3,11,2,9:14 PM,8:34,Primo Free Throw 1 of 2 (1 PTS),,,43 - 35,-8,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,212,3,12,2,9:14 PM,8:34,Primo Free Throw 2 of 2 (2 PTS),,,43 - 36,-7,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,214,5,45,2,9:14 PM,8:17,,,Mobley Out of Bounds - Bad Pass Turnover Turnover (P3.T3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100638,215,8,0,2,9:15 PM,8:17,SUB: Murray FOR Primo,,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,217,5,1,2,9:15 PM,8:04,Vassell Bad Pass Turnover (P1.T6),,Markkanen STEAL (1 STL),,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,219,2,1,2,9:15 PM,7:54,,,MISS Love 12' Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,220,4,0,2,9:15 PM,7:54,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,222,8,0,2,9:15 PM,7:54,,,SUB: Stevens FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,223,8,0,2,9:15 PM,7:54,,,SUB: Allen FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,226,5,1,2,9:16 PM,7:44,McDermott Bad Pass Turnover (P2.T7),,Garland STEAL (1 STL),,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,228,6,28,2,9:16 PM,7:44,McDermott Personal Take Foul (P2.T2) (K.Lane),,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,230,1,79,2,9:16 PM,7:28,,,Mobley 17' Pullup Jump Shot (10 PTS),45 - 36,-9,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,231,1,79,2,9:16 PM,7:17,Murray 8' Pullup Jump Shot (8 PTS),,,45 - 38,-7,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,233,2,101,2,9:17 PM,6:55,,,MISS Mobley 6' Driving Floating Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,234,4,0,2,9:17 PM,6:52,,,Allen REBOUND (Off:1 Def:5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,235,1,97,2,9:17 PM,6:52,,,Allen Tip Layup Shot (5 PTS),47 - 38,-9,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,236,6,1,2,9:17 PM,6:52,,,Mobley P.FOUL (P1.T2) (J.Ralls),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,238,9,1,2,9:17 PM,6:52,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,239,8,0,2,9:19 PM,6:52,SUB: Bates-Diop FOR K. Johnson,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,240,8,0,2,9:19 PM,6:52,,,SUB: Okoro FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,243,2,5,2,9:20 PM,6:49,MISS McDermott 4' Layup,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,244,4,0,2,9:20 PM,6:47,,,Allen REBOUND (Off:1 Def:6),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,245,6,1,2,9:20 PM,6:36,Murray P.FOUL (P1.T3) (J.Ralls),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0022100638,247,8,0,2,9:20 PM,6:36,SUB: Forbes FOR McDermott,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,248,8,0,2,9:20 PM,6:36,SUB: Walker IV FOR Vassell,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,252,2,1,2,9:21 PM,6:21,,,MISS Garland 29' 3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,253,4,0,2,9:21 PM,6:18,Bates-Diop REBOUND (Off:0 Def:1),,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,254,1,1,2,9:21 PM,6:03,Forbes 24' 3PT Jump Shot (9 PTS) (Walker IV 2 AST),,,47 - 41,-6,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,256,6,2,2,9:21 PM,6:03,,,Garland S.FOUL (P1.T3) (B.Barnaky),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,258,3,10,2,9:22 PM,6:03,Forbes Free Throw 1 of 1 (10 PTS),,,47 - 42,-5,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,259,1,58,2,9:22 PM,5:46,,,Allen 4' Turnaround Hook Shot (7 PTS),49 - 42,-7,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,260,2,79,2,9:23 PM,5:25,MISS Walker IV 25' 3PT Pullup Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,261,4,0,2,9:23 PM,5:23,,,Garland REBOUND (Off:0 Def:1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,262,2,78,2,9:23 PM,5:14,,,MISS Garland 9' Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,263,4,0,2,9:23 PM,5:14,Poeltl REBOUND (Off:0 Def:4),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,264,2,79,2,9:23 PM,5:04,MISS Forbes 16' Pullup Jump Shot,,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,265,4,0,2,9:23 PM,5:01,,,Markkanen REBOUND (Off:0 Def:2),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,266,5,2,2,9:23 PM,4:48,Bates-Diop STEAL (1 STL),,Markkanen Lost Ball Turnover (P1.T4),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,268,2,1,2,9:23 PM,4:42,MISS Forbes 26' 3PT Jump Shot,,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,269,4,0,2,9:23 PM,4:40,Murray REBOUND (Off:1 Def:3),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,270,2,5,2,9:23 PM,4:40,MISS Murray 3' Layup,,Markkanen BLOCK (1 BLK),,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022100638,271,4,0,2,9:23 PM,4:40,Murray REBOUND (Off:2 Def:3),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,272,1,72,2,9:23 PM,4:39,Murray 1' Putback Layup (10 PTS),,,49 - 44,-5,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,273,6,2,2,9:23 PM,4:39,,,Allen S.FOUL (P1.T4) (J.Ralls),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,275,3,10,2,9:24 PM,4:39,Murray Free Throw 1 of 1 (11 PTS),,,49 - 45,-4,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022100638,276,1,5,2,9:24 PM,4:19,,,Allen Layup (9 PTS),51 - 45,-6,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,277,1,47,2,9:24 PM,4:08,Murray 8' Turnaround Jump Shot (13 PTS),,,51 - 47,-4,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,278,2,1,2,9:25 PM,3:55,,,MISS Okoro 24' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,279,4,0,2,9:25 PM,3:51,Bates-Diop REBOUND (Off:0 Def:2),,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,280,1,79,2,9:25 PM,3:41,Murray 18' Pullup Jump Shot (15 PTS),,,51 - 49,-2,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,281,6,2,2,9:25 PM,3:16,Poeltl S.FOUL (P2.T4) (J.Ralls),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,283,3,11,2,9:26 PM,3:16,,,Okoro Free Throw 1 of 2 (2 PTS),52 - 49,-3,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,291,3,12,2,9:26 PM,3:16,,,MISS Okoro Free Throw 2 of 2,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,284,8,0,2,9:26 PM,3:16,SUB: K. Johnson FOR Poeltl,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,285,8,0,2,9:26 PM,3:16,SUB: Landale FOR Bates-Diop,,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,286,8,0,2,9:26 PM,3:16,,,SUB: Mobley FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,292,4,0,2,9:26 PM,3:14,Murray REBOUND (Off:2 Def:4),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,293,1,108,2,9:26 PM,3:08,Landale 1' Cutting Dunk Shot (2 PTS) (Murray 4 AST),,,52 - 51,-1,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,295,6,2,2,9:26 PM,3:08,,,Allen S.FOUL (P2.PN) (B.Barnaky),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,297,8,0,2,9:26 PM,3:08,,,SUB: Osman FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,299,3,10,2,9:27 PM,3:08,Landale Free Throw 1 of 1 (3 PTS),,,52 - 52,TIE,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,300,6,1,2,9:27 PM,2:49,Murray P.FOUL (P2.PN) (K.Lane),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,302,9,1,2,9:28 PM,2:49,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,303,3,11,2,9:30 PM,2:49,,,Garland Free Throw 1 of 2 (12 PTS),53 - 52,-1,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,304,3,12,2,9:31 PM,2:49,,,Garland Free Throw 2 of 2 (13 PTS),54 - 52,-2,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,305,1,6,2,9:31 PM,2:37,Walker IV 2' Driving Layup (4 PTS),,,54 - 54,TIE,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,306,2,79,2,9:31 PM,2:22,,,MISS Garland 26' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,307,4,0,2,9:31 PM,2:19,K. Johnson REBOUND (Off:1 Def:2),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,308,1,1,2,9:31 PM,2:07,K. Johnson 26' 3PT Jump Shot (10 PTS) (Walker IV 3 AST),,,54 - 57,3,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,310,1,78,2,9:32 PM,1:47,,,Osman 7' Floating Jump Shot (5 PTS) (Mobley 2 AST),56 - 57,1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,312,6,2,2,9:32 PM,1:47,Forbes S.FOUL (P2.PN) (B.Barnaky),,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,314,3,10,2,9:32 PM,1:47,,,MISS Osman Free Throw 1 of 1,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,315,4,0,2,9:32 PM,1:46,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,317,1,80,2,9:33 PM,1:36,Walker IV 17' Step Back Jump Shot (6 PTS) (Murray 5 AST),,,56 - 59,3,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,319,2,47,2,9:33 PM,1:24,,,MISS Stevens 7' Turnaround Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,320,4,0,2,9:33 PM,1:22,Murray REBOUND (Off:2 Def:5),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,321,2,79,2,9:33 PM,1:15,MISS Forbes 17' Pullup Jump Shot,,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,322,4,0,2,9:33 PM,1:15,,,Stevens REBOUND (Off:1 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,323,1,78,2,9:33 PM,1:09,,,Stevens 1' Floating Jump Shot (4 PTS),58 - 59,1,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,324,6,2,2,9:33 PM,1:09,Forbes S.FOUL (P3.PN) (K.Lane),,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,326,8,0,2,9:33 PM,1:09,SUB: Vassell FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,328,8,0,2,9:33 PM,1:09,,,SUB: Markkanen FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,330,3,10,2,9:34 PM,1:09,,,MISS Stevens Free Throw 1 of 1,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,331,4,0,2,9:34 PM,1:07,Murray REBOUND (Off:2 Def:6),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,332,2,79,2,9:34 PM,0:56,MISS Walker IV 17' Pullup Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,333,4,0,2,9:34 PM,0:54,,,Garland REBOUND (Off:0 Def:2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,334,2,75,2,9:34 PM,0:49,,,MISS Garland 1' Driving Finger Roll Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,335,4,0,2,9:34 PM,0:49,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,337,6,2,2,9:34 PM,0:47,Walker IV S.FOUL (P2.PN) (J.Ralls),,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,339,3,11,2,9:35 PM,0:47,,,Mobley Free Throw 1 of 2 (11 PTS),59 - 59,TIE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,340,3,12,2,9:35 PM,0:47,,,MISS Mobley Free Throw 2 of 2,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,341,4,0,2,9:35 PM,0:45,Murray REBOUND (Off:2 Def:7),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,342,2,78,2,9:36 PM,0:33,MISS Murray 12' Floating Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,343,4,0,2,9:36 PM,0:31,,,Markkanen REBOUND (Off:0 Def:3),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,344,2,1,2,9:36 PM,0:20,,,MISS Allen 15' Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,345,4,0,2,9:36 PM,0:18,,,Stevens REBOUND (Off:2 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,346,1,97,2,9:36 PM,0:18,,,Stevens Tip Layup Shot (6 PTS),61 - 59,-2,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,347,2,75,2,9:36 PM,0:02,MISS Walker IV 1' Driving Finger Roll Layup,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,348,4,0,2,9:36 PM,0:01,,,Allen REBOUND (Off:1 Def:7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,349,1,79,2,9:36 PM,0:00,,,Garland 42' 3PT Pullup Jump Shot (16 PTS) (Allen 2 AST),64 - 59,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,350,18,0,2,9:37 PM,0:00,,Instant Replay2nd Period (9:37 PM EST),,64 - 59,-5,0,349,Mark Jackson,,,,,0,0,,,,,,1,0,,,,,,0
+0022100638,352,13,0,2,9:37 PM,0:00,,End of 2nd Period (9:37 PM EST),,64 - 59,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100638,357,12,0,3,9:51 PM,12:00,,Start of 3rd Period (9:51 PM EST),,64 - 59,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,358,1,1,3,9:52 PM,11:41,Vassell 26' 3PT Jump Shot (8 PTS) (Murray 6 AST),,,64 - 62,-2,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,360,2,1,3,9:52 PM,11:24,,,MISS Stevens 21' Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,361,4,0,3,9:52 PM,11:23,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,363,2,6,3,9:52 PM,11:14,MISS McDermott 1' Driving Layup,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,364,4,0,3,9:52 PM,11:09,Poeltl REBOUND (Off:1 Def:4),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,365,2,107,3,9:52 PM,11:09,MISS Poeltl Tip Dunk Shot,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,366,4,0,3,9:52 PM,11:08,Vassell REBOUND (Off:1 Def:2),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,367,2,1,3,9:52 PM,11:08,MISS K. Johnson 26' 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,368,4,0,3,9:53 PM,11:08,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,370,2,5,3,9:53 PM,10:49,,,MISS Mobley 1' Layup,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,371,4,0,3,9:53 PM,10:44,,,Allen REBOUND (Off:2 Def:7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,372,5,40,3,9:53 PM,10:44,,,Allen Out of Bounds Lost Ball Turnover (P1.T5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100638,373,2,5,3,9:53 PM,10:37,MISS K. Johnson Layup,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,374,4,0,3,9:53 PM,10:32,,,Garland REBOUND (Off:0 Def:3),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,375,6,2,3,9:53 PM,10:30,Vassell S.FOUL (P1.T1) (J.Ralls),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,377,3,11,3,9:54 PM,10:30,,,Allen Free Throw 1 of 2 (10 PTS),65 - 62,-3,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,378,3,12,3,9:54 PM,10:30,,,Allen Free Throw 2 of 2 (11 PTS),66 - 62,-4,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,379,1,79,3,9:54 PM,10:21,Murray 11' Pullup Jump Shot (17 PTS),,,66 - 64,-2,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,380,2,3,3,9:55 PM,9:55,,,MISS Allen 7' Hook Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,381,4,0,3,9:55 PM,9:52,K. Johnson REBOUND (Off:1 Def:3),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,382,2,79,3,9:55 PM,9:42,MISS Murray 16' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,383,4,0,3,9:55 PM,9:41,K. Johnson REBOUND (Off:2 Def:3),,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,384,1,1,3,9:55 PM,9:38,K. Johnson 26' 3PT Jump Shot (13 PTS),,,66 - 67,1,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,385,2,78,3,9:55 PM,9:23,,,MISS Garland 7' Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,386,4,0,3,9:55 PM,9:20,Poeltl REBOUND (Off:1 Def:5),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,387,2,1,3,9:56 PM,9:09,MISS Vassell 15' Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,388,4,0,3,9:56 PM,9:07,,,Allen REBOUND (Off:2 Def:8),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,389,2,79,3,9:56 PM,8:53,,,MISS Garland 13' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,390,4,0,3,9:56 PM,8:51,McDermott REBOUND (Off:1 Def:1),,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,391,2,1,3,9:56 PM,8:41,MISS Poeltl 8' Jump Shot,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,392,4,0,3,9:56 PM,8:39,,,Stevens REBOUND (Off:2 Def:2),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,393,1,5,3,9:56 PM,8:33,,,Allen 2' Layup (13 PTS) (Stevens 2 AST),68 - 67,-1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,395,2,1,3,9:56 PM,8:12,MISS McDermott 26' 3PT Jump Shot,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,396,4,0,3,9:57 PM,8:09,,,Allen REBOUND (Off:2 Def:9),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,397,6,1,3,9:57 PM,8:06,Vassell P.FOUL (P2.T2) (B.Barnaky),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,399,1,52,3,9:57 PM,7:58,,,Mobley 2' Alley Oop Dunk (13 PTS) (Garland 5 AST),70 - 67,-3,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,401,1,6,3,9:57 PM,7:35,Murray Driving Layup (19 PTS),,,70 - 69,-1,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,402,2,80,3,9:58 PM,7:07,,,MISS Garland 18' Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,403,4,0,3,9:58 PM,7:05,Poeltl REBOUND (Off:1 Def:6),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,404,1,79,3,9:58 PM,6:57,Murray 10' Pullup Jump Shot (21 PTS),,,70 - 71,1,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,405,2,47,3,9:59 PM,6:30,,,MISS Mobley 17' Turnaround Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,406,4,0,3,9:59 PM,6:27,Vassell REBOUND (Off:1 Def:3),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,407,5,45,3,9:59 PM,6:22,Vassell Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,408,9,1,3,9:59 PM,6:22,SPURS Timeout: Regular (Full 2 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,409,8,0,3,10:01 PM,6:22,,,SUB: Love FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,411,6,1,3,10:02 PM,6:10,Poeltl P.FOUL (P3.T3) (K.Lane),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,413,1,79,3,10:02 PM,6:03,,,Garland 18' Pullup Jump Shot (18 PTS) (Love 1 AST),72 - 71,-1,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,415,5,45,3,10:03 PM,5:45,Vassell Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,416,8,0,3,10:03 PM,5:45,SUB: Bates-Diop FOR K. Johnson,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,417,8,0,3,10:03 PM,5:45,SUB: Walker IV FOR Vassell,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,420,1,1,3,10:03 PM,5:31,,,Love 26' 3PT Jump Shot (7 PTS) (Garland 6 AST),75 - 71,-4,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,422,1,1,3,10:04 PM,5:11,McDermott 3PT Jump Shot (9 PTS) (Walker IV 4 AST),,,75 - 74,-1,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,424,2,1,3,10:04 PM,4:54,,,MISS Love 26' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,425,4,0,3,10:04 PM,4:51,Poeltl REBOUND (Off:1 Def:7),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,426,5,1,3,10:04 PM,4:44,McDermott Bad Pass Turnover (P3.T10),,Allen STEAL (1 STL),,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,428,2,5,3,10:04 PM,4:27,,,MISS Stevens 7' Layup,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,429,4,0,3,10:04 PM,4:25,Poeltl REBOUND (Off:1 Def:8),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,430,2,1,3,10:04 PM,4:17,MISS Bates-Diop 24' 3PT Jump Shot,,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,431,4,0,3,10:04 PM,4:13,,,Stevens REBOUND (Off:2 Def:3),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,432,2,1,3,10:05 PM,4:07,,,MISS Love 26' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,433,4,0,3,10:05 PM,4:03,Poeltl REBOUND (Off:1 Def:9),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,434,1,5,3,10:05 PM,3:55,Murray 1' Layup (23 PTS),,,75 - 76,1,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,435,9,1,3,10:05 PM,3:55,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,436,8,0,3,10:07 PM,3:55,SUB: Landale FOR McDermott,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,437,8,0,3,10:07 PM,3:55,SUB: Forbes FOR Poeltl,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,438,8,0,3,10:07 PM,3:55,,,SUB: Goodwin FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,439,8,0,3,10:07 PM,3:55,,,SUB: Mobley FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,440,8,0,3,10:07 PM,3:55,,,SUB: Osman FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,441,8,0,3,10:07 PM,3:55,,,SUB: Okoro FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,448,2,86,3,10:08 PM,3:30,,,MISS Mobley 17' Turnaround Fadeaway Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,449,4,0,3,10:08 PM,3:29,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,451,2,79,3,10:09 PM,3:16,MISS Murray 14' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,452,4,0,3,10:09 PM,3:13,,,Love REBOUND (Off:1 Def:2),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,453,2,5,3,10:09 PM,3:07,Landale BLOCK (1 BLK),,MISS Osman 1' Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,1
+0022100638,455,4,0,3,10:09 PM,3:03,Murray REBOUND (Off:2 Def:8),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,456,1,1,3,10:09 PM,3:01,Forbes 3PT Jump Shot (13 PTS) (Walker IV 5 AST),,,75 - 79,4,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,458,2,1,3,10:09 PM,2:34,,,MISS Osman 27' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,459,4,0,3,10:09 PM,2:31,Landale REBOUND (Off:0 Def:2),,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,461,2,5,3,10:10 PM,2:20,MISS Murray 2' Layup,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,462,4,0,3,10:10 PM,2:16,Bates-Diop REBOUND (Off:1 Def:2),,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,463,2,97,3,10:10 PM,2:16,MISS Bates-Diop Tip Layup Shot,,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,464,4,0,3,10:10 PM,2:15,,,Goodwin REBOUND (Off:0 Def:1),,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,465,1,76,3,10:10 PM,2:13,,,Okoro 1' Running Finger Roll Layup (4 PTS) (Goodwin 5 AST),77 - 79,2,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,467,1,6,3,10:10 PM,1:53,Murray Driving Layup (25 PTS),,,77 - 81,4,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,468,1,9,3,10:11 PM,1:30,,,Okoro 2' Driving Dunk (6 PTS),79 - 81,2,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,469,2,1,3,10:11 PM,1:11,MISS Landale 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,470,4,0,3,10:11 PM,1:07,,,Love REBOUND (Off:1 Def:3),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,471,2,6,3,10:11 PM,0:59,,,MISS Okoro 1' Driving Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,472,4,0,3,10:11 PM,0:57,Landale REBOUND (Off:0 Def:3),,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,473,1,44,3,10:11 PM,0:46,Bates-Diop 2' Reverse Layup (4 PTS) (Murray 7 AST),,,79 - 83,4,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,477,1,52,3,10:12 PM,0:38,,,Mobley 1' Alley Oop Dunk (15 PTS) (Okoro 1 AST),81 - 83,2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,479,2,79,3,10:13 PM,0:18,MISS Walker IV 17' Pullup Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,480,4,0,3,10:13 PM,0:18,Bates-Diop REBOUND (Off:2 Def:2),,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,481,1,1,3,10:13 PM,0:12,Bates-Diop 3PT Jump Shot (7 PTS) (Forbes 2 AST),,,81 - 86,5,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,483,6,1,3,10:13 PM,0:04,Walker IV P.FOUL (P3.T4) (J.Ralls),,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,485,8,0,3,10:13 PM,0:04,SUB: Poeltl FOR Murray,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,486,8,0,3,10:13 PM,0:04,SUB: Primo FOR Landale,,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,487,8,0,3,10:13 PM,0:04,SUB: Vassell FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,488,8,0,3,10:13 PM,0:04,,,SUB: Garland FOR Goodwin,,,5,1629164,Brandon Goodwin,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,493,1,1,3,10:14 PM,0:00,,,Osman 27' 3PT Jump Shot (8 PTS) (Mobley 3 AST),84 - 86,2,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,495,13,0,3,10:14 PM,0:00,,End of 3rd Period (10:14 PM EST),,84 - 86,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100638,496,18,0,3,10:14 PM,0:00,,Instant Replay3rd Period (10:14 PM EST),,84 - 86,2,0,493,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100638,503,12,0,4,10:17 PM,12:00,,Start of 4th Period (10:17 PM EST),,84 - 86,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,504,1,1,4,10:17 PM,11:51,,,Garland 18' Jump Shot (20 PTS) (Osman 2 AST),86 - 86,TIE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,506,6,2,4,10:17 PM,11:37,,,Markkanen S.FOUL (P1.T1) (K.Lane),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,508,3,11,4,10:17 PM,11:37,Landale Free Throw 1 of 2 (4 PTS),,,86 - 87,1,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,509,3,12,4,10:18 PM,11:37,Landale Free Throw 2 of 2 (5 PTS),,,86 - 88,2,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,510,2,98,4,10:18 PM,11:16,,,MISS Osman 1' Cutting Layup Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,511,4,0,4,10:18 PM,11:14,,,Markkanen REBOUND (Off:1 Def:3),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,512,1,107,4,10:18 PM,11:14,,,Markkanen Tip Dunk Shot (6 PTS),88 - 88,TIE,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,513,6,1,4,10:18 PM,11:05,,,Osman P.FOUL (P2.T2) (J.Ralls),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,515,5,4,4,10:19 PM,10:55,Bates-Diop Traveling Turnover (P1.T11),,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,516,5,45,4,10:19 PM,10:37,,,Okoro Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022100638,517,1,9,4,10:20 PM,10:16,Bates-Diop 1' Driving Dunk (9 PTS) (Landale 2 AST),,,88 - 90,2,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,519,1,79,4,10:20 PM,9:58,,,Garland 19' Pullup Jump Shot (22 PTS),90 - 90,TIE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,520,1,79,4,10:21 PM,9:45,Forbes 19' Pullup Jump Shot (15 PTS),,,90 - 92,2,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,521,1,79,4,10:21 PM,9:29,,,Garland 21' Pullup Jump Shot (24 PTS),92 - 92,TIE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,522,5,1,4,10:21 PM,9:15,Primo Bad Pass Turnover (P2.T12),,Osman STEAL (1 STL),,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,524,1,76,4,10:21 PM,9:13,,,Osman 1' Running Finger Roll Layup (10 PTS),94 - 92,-2,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,525,7,2,4,10:21 PM,9:13,Landale Violation:Defensive Goaltending (B.Barnaky),,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022100638,526,5,2,4,10:22 PM,9:07,Primo Lost Ball Turnover (P3.T13),,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,528,6,3,4,10:22 PM,9:07,Primo L.B.FOUL (P2.T1) (J.Ralls),,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,530,8,0,4,10:22 PM,9:07,SUB: McDermott FOR Primo,,,,,4,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,531,8,0,4,10:22 PM,9:07,SUB: Vassell FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612759.0,San Antonio,Spurs,SAS,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,532,8,0,4,10:22 PM,9:07,SUB: Poeltl FOR Landale,,,,,4,1629111,Jock Landale,1610612759.0,San Antonio,Spurs,SAS,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,533,8,0,4,10:22 PM,9:07,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,538,1,98,4,10:22 PM,8:51,,,Stevens 1' Cutting Layup Shot (8 PTS) (Garland 7 AST),96 - 92,-4,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,540,1,6,4,10:23 PM,8:39,Walker IV 1' Driving Layup (8 PTS),,,96 - 94,-2,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,541,1,78,4,10:23 PM,8:26,,,Garland 10' Floating Jump Shot (26 PTS),98 - 94,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,542,1,1,4,10:23 PM,8:07,Walker IV 6' Jump Shot (10 PTS) (Poeltl 2 AST),,,98 - 96,-2,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,544,2,6,4,10:23 PM,7:53,Poeltl BLOCK (1 BLK),,MISS Garland 2' Driving Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1
+0022100638,546,4,0,4,10:23 PM,7:47,,,Osman REBOUND (Off:1 Def:0),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,547,1,72,4,10:23 PM,7:47,,,Osman Putback Layup (12 PTS),100 - 96,-4,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,548,2,5,4,10:23 PM,7:38,MISS McDermott 2' Layup,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,549,4,0,4,10:24 PM,7:36,,,Markkanen REBOUND (Off:1 Def:4),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,550,6,2,4,10:24 PM,7:35,Vassell S.FOUL (P3.T2) (B.Barnaky),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,552,3,11,4,10:24 PM,7:35,,,MISS Osman Free Throw 1 of 2,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,553,4,1,4,10:24 PM,7:35,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,554,9,1,4,10:25 PM,7:35,SPURS Timeout: Regular (Full 3 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,555,8,0,4,10:27 PM,7:35,SUB: K. Johnson FOR Bates-Diop,,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,556,8,0,4,10:27 PM,7:35,,,SUB: Allen FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,559,3,12,4,10:28 PM,7:35,,,Osman Free Throw 2 of 2 (13 PTS),101 - 96,-5,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,560,5,45,4,10:28 PM,7:20,McDermott Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,561,5,2,4,10:28 PM,7:00,Vassell STEAL (1 STL),,Osman Lost Ball Turnover (P1.T7),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,563,1,50,4,10:28 PM,6:57,Vassell 2' Running Dunk (10 PTS),,,101 - 98,-3,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,574,1,5,4,10:28 PM,6:45,,,Allen 2' Layup (15 PTS),103 - 98,-5,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,564,6,2,4,10:28 PM,6:45,Poeltl S.FOUL (P4.T3) (J.Ralls),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,566,8,0,4,10:29 PM,6:45,SUB: Murray FOR McDermott,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,567,8,0,4,10:29 PM,6:45,,,SUB: Mobley FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,570,3,10,4,10:29 PM,6:45,,,MISS Allen Free Throw 1 of 1,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,571,4,0,4,10:29 PM,6:42,Murray REBOUND (Off:2 Def:9),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,572,1,1,4,10:29 PM,6:31,K. Johnson 24' 3PT Jump Shot (16 PTS) (Walker IV 6 AST),,,103 - 101,-2,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,575,2,5,4,10:30 PM,6:14,Poeltl BLOCK (2 BLK),,MISS Garland Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1
+0022100638,576,4,0,4,10:30 PM,6:14,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,578,1,63,4,10:30 PM,6:04,Murray 16' Fadeaway Jumper (27 PTS),,,103 - 103,TIE,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,579,6,1,4,10:30 PM,5:57,Murray P.FOUL (P3.T4) (J.Ralls),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,581,2,1,4,10:31 PM,5:42,,,MISS Osman 25' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,582,4,0,4,10:31 PM,5:37,,,Mobley REBOUND (Off:3 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,583,6,1,4,10:31 PM,5:37,Vassell P.FOUL (P4.PN) (K.Lane),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,585,3,11,4,10:31 PM,5:37,,,Osman Free Throw 1 of 2 (14 PTS),104 - 103,-1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022100638,586,3,12,4,10:31 PM,5:37,,,MISS Osman Free Throw 2 of 2,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,587,4,0,4,10:31 PM,5:34,Murray REBOUND (Off:2 Def:10),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,588,5,1,4,10:32 PM,5:21,Murray Bad Pass Turnover (P2.T15),,Stevens STEAL (1 STL),,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,590,2,5,4,10:32 PM,5:16,,,MISS Stevens Layup,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,591,4,0,4,10:32 PM,5:14,,,Osman REBOUND (Off:2 Def:0),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,592,9,1,4,10:32 PM,5:13,,,Cavaliers Timeout: Regular (Reg.5 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,593,2,79,4,10:35 PM,5:06,,,MISS Garland 12' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,594,4,0,4,10:35 PM,5:04,,,Allen REBOUND (Off:3 Def:9),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,595,2,3,4,10:35 PM,5:02,,,MISS Allen 3' Hook Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,596,4,0,4,10:35 PM,5:00,Poeltl REBOUND (Off:1 Def:10),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,597,2,79,4,10:36 PM,4:42,MISS Vassell 20' Pullup Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,598,4,0,4,10:36 PM,4:40,,,Allen REBOUND (Off:3 Def:10),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,600,2,5,4,10:36 PM,4:23,Poeltl BLOCK (3 BLK),,MISS Garland 2' Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1
+0022100638,602,4,0,4,10:36 PM,4:20,Vassell REBOUND (Off:1 Def:4),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,603,2,1,4,10:36 PM,4:16,MISS K. Johnson 25' 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,604,4,0,4,10:36 PM,4:16,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,606,8,0,4,10:36 PM,4:16,,,SUB: Markkanen FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,608,5,1,4,10:37 PM,4:01,Poeltl STEAL (2 STL),,Allen Bad Pass Turnover (P2.T8),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,610,2,79,4,10:37 PM,3:47,MISS Walker IV 26' 3PT Pullup Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,611,4,0,4,10:37 PM,3:44,,,Markkanen REBOUND (Off:1 Def:5),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,612,9,1,4,10:37 PM,3:40,,,Cavaliers Timeout: Regular (Reg.6 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,614,2,1,4,10:39 PM,3:23,,,MISS Garland 3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,615,4,0,4,10:39 PM,3:23,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,617,9,1,4,10:39 PM,3:23,SPURS Timeout: Regular (Full 4 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,618,8,0,4,10:41 PM,3:23,SUB: McDermott FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,620,2,79,4,10:41 PM,3:06,MISS Murray 14' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,621,4,0,4,10:41 PM,3:03,,,Stevens REBOUND (Off:2 Def:4),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,622,2,47,4,10:41 PM,2:52,,,MISS Mobley 8' Turnaround Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,623,4,0,4,10:42 PM,2:50,Poeltl REBOUND (Off:1 Def:11),,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,624,2,1,4,10:42 PM,2:36,MISS McDermott 27' 3PT Jump Shot,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,625,4,0,4,10:42 PM,2:34,,,Allen REBOUND (Off:3 Def:11),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,626,1,9,4,10:42 PM,2:18,,,Markkanen 1' Driving Dunk (8 PTS),106 - 103,-3,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,627,2,1,4,10:42 PM,2:04,MISS K. Johnson 25' 3PT Jump Shot,,,,,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,628,4,0,4,10:42 PM,2:02,,,Allen REBOUND (Off:3 Def:12),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,629,1,52,4,10:43 PM,1:53,,,Allen 3' Alley Oop Dunk (17 PTS) (Garland 8 AST),108 - 103,-5,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022100638,631,6,2,4,10:43 PM,1:50,,,Mobley S.FOUL (P2.T3) (K.Lane),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,633,3,11,4,10:43 PM,1:50,MISS Murray Free Throw 1 of 2,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022100638,634,4,1,4,10:43 PM,1:50,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,635,8,0,4,10:43 PM,1:50,SUB: Walker IV FOR McDermott,,,,,4,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,637,3,12,4,10:43 PM,1:50,MISS Murray Free Throw 2 of 2,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,638,4,0,4,10:43 PM,1:47,,,Mobley REBOUND (Off:3 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,639,2,44,4,10:44 PM,1:34,,,MISS Stevens 1' Reverse Layup,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,640,4,0,4,10:44 PM,1:33,Murray REBOUND (Off:2 Def:11),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,642,2,79,4,10:46 PM,1:19,MISS Murray 25' 3PT Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,643,4,0,4,10:46 PM,1:16,,,Garland REBOUND (Off:0 Def:4),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,644,2,6,4,10:46 PM,1:05,,,MISS Garland 1' Driving Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,645,4,0,4,10:46 PM,1:03,Murray REBOUND (Off:2 Def:12),,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,646,6,2,4,10:46 PM,0:59,,,Markkanen S.FOUL (P2.PN) (K.Lane),,,5,1628374,Lauri Markkanen,1610612739.0,Cleveland,Cavaliers,CLE,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022100638,648,3,11,4,10:47 PM,0:59,MISS Walker IV Free Throw 1 of 2,,,,,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,649,4,1,4,10:47 PM,0:59,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,650,3,12,4,10:47 PM,0:59,Walker IV Free Throw 2 of 2 (11 PTS),,,108 - 104,-4,4,1629022,Lonnie Walker IV,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,651,1,6,4,10:47 PM,0:48,,,Garland 1' Driving Layup (28 PTS),110 - 104,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,652,2,1,4,10:48 PM,0:36,MISS Vassell 26' 3PT Jump Shot,,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,653,4,0,4,10:48 PM,0:34,,,Allen REBOUND (Off:3 Def:13),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,654,5,2,4,10:48 PM,0:26,Vassell STEAL (2 STL),,Garland Lost Ball Turnover (P1.T9),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,656,1,41,4,10:48 PM,0:21,K. Johnson Running Layup (18 PTS) (Murray 8 AST),,,110 - 106,-4,4,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022100638,658,9,1,4,10:48 PM,0:21,,,Cavaliers Timeout: Regular (Reg.7 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,659,8,0,4,10:49 PM,0:21,SUB: Bates-Diop FOR Poeltl,,,,,4,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022100638,660,8,0,4,10:49 PM,0:21,,,SUB: Osman FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,663,6,28,4,10:50 PM,0:11,Bates-Diop Personal Take Foul (P1.PN) (J.Ralls),,,,,4,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,665,3,11,4,10:51 PM,0:11,,,Garland Free Throw 1 of 2 (29 PTS),111 - 106,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,666,8,0,4,10:51 PM,0:11,,,SUB: Allen FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022100638,668,3,12,4,10:51 PM,0:11,,,Garland Free Throw 2 of 2 (30 PTS),112 - 106,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,669,1,79,4,10:51 PM,0:06,Murray 25' 3PT Pullup Jump Shot (30 PTS),,,112 - 109,-3,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,671,6,28,4,10:52 PM,0:05,Vassell Personal Take Foul (P5.PN) (K.Lane),,,,,4,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022100638,673,3,11,4,10:52 PM,0:05,,,Garland Free Throw 1 of 2 (31 PTS),113 - 109,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,674,3,12,4,10:52 PM,0:05,,,Garland Free Throw 2 of 2 (32 PTS),114 - 109,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022100638,675,2,79,4,10:52 PM,0:00,MISS Murray 25' 3PT Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022100638,676,4,0,4,10:52 PM,0:00,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100638,677,13,0,4,10:52 PM,0:00,,End of 4th Period (10:52 PM EST),,114 - 109,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

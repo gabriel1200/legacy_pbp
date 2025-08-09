@@ -1,0 +1,507 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022100368,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,4,10,0,1,7:11 PM,12:00,Jump Ball Stewart vs. Gafford: Tip to Hayes,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,1
+0022100368,7,2,47,1,7:11 PM,11:37,MISS Grant 6' Turnaround Jump Shot,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,8,4,0,1,7:11 PM,11:34,,,Gafford REBOUND (Off:0 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,9,5,1,1,7:11 PM,11:14,Grant STEAL (1 STL),,Dinwiddie Bad Pass Turnover (P1.T1),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,11,2,101,1,7:11 PM,11:06,MISS Hayes 9' Driving Floating Jump Shot,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,12,4,0,1,7:12 PM,11:04,,,Dinwiddie REBOUND (Off:0 Def:1),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,13,1,80,1,7:12 PM,10:54,,,Beal 20' Step Back Jump Shot (2 PTS),2 - 0,-2,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,14,1,79,1,7:12 PM,10:39,Hayes 16' Pullup Jump Shot (2 PTS) (Cunningham 1 AST),,,2 - 2,TIE,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,16,7,5,1,7:12 PM,10:24,Hayes Violation:Kicked Ball (J.Williams),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0022100368,17,1,1,1,7:13 PM,10:16,,,Dinwiddie 24' 3PT Jump Shot (3 PTS) (Beal 1 AST),5 - 2,-3,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,19,6,6,1,7:13 PM,10:16,Stewart AWAY.FROM.PLAY.FOUL (P1.T1) (J.Williams),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,50,3,10,1,7:13 PM,10:16,,,MISS Gafford Free Throw 1 of 1,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,51,4,0,1,7:13 PM,10:15,Grant REBOUND (Off:0 Def:1),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,22,2,78,1,7:13 PM,9:54,MISS Bey 3' Floating Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,23,4,0,1,7:14 PM,9:52,Stewart REBOUND (Off:1 Def:0),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,24,1,72,1,7:14 PM,9:52,Stewart 3' Putback Layup (2 PTS),,,5 - 4,-1,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,25,2,41,1,7:14 PM,9:43,,,MISS Beal 3' Running Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,26,4,0,1,7:14 PM,9:40,Stewart REBOUND (Off:1 Def:1),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,27,5,1,1,7:14 PM,9:28,Cunningham Bad Pass Turnover (P1.T1),,Caldwell-Pope STEAL (1 STL),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,29,2,79,1,7:14 PM,9:14,,,MISS Caldwell-Pope 21' Pullup Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,30,4,0,1,7:14 PM,9:10,Bey REBOUND (Off:0 Def:1),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,31,1,1,1,7:14 PM,8:56,Bey 26' 3PT Jump Shot (3 PTS) (Stewart 1 AST),,,5 - 7,2,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,33,5,2,1,7:15 PM,8:38,Stewart STEAL (1 STL),,Caldwell-Pope Lost Ball Turnover (P1.T2),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,35,2,41,1,7:15 PM,8:32,MISS Grant 2' Running Layup,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,36,4,0,1,7:15 PM,8:29,Cunningham REBOUND (Off:1 Def:0),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,37,1,97,1,7:15 PM,8:29,Cunningham Tip Layup Shot (2 PTS),,,5 - 9,4,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,38,1,2,1,7:15 PM,8:24,,,Caldwell-Pope 3PT Running Jump Shot (3 PTS) (Dinwiddie 1 AST),8 - 9,1,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,40,5,1,1,7:15 PM,8:08,Grant Bad Pass Turnover (P1.T2),,Dinwiddie STEAL (1 STL),,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,42,2,103,1,7:15 PM,8:02,,,MISS Dinwiddie 27' 3PT Running Pull-Up Jump Shot,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,43,4,0,1,7:15 PM,7:59,Bey REBOUND (Off:0 Def:2),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,44,2,98,1,7:16 PM,7:47,MISS Cunningham 2' Cutting Layup Shot,,Gafford BLOCK (1 BLK),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022100368,46,4,0,1,7:16 PM,7:43,Grant REBOUND (Off:1 Def:1),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,47,2,5,1,7:16 PM,7:39,MISS Stewart 3' Layup,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,48,4,0,1,7:16 PM,7:37,,,Gafford REBOUND (Off:0 Def:2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,49,2,103,1,7:16 PM,7:33,,,MISS Caldwell-Pope 26' 3PT Running Pull-Up Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,52,4,0,1,7:16 PM,7:31,Grant REBOUND (Off:1 Def:2),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,53,1,41,1,7:16 PM,7:27,Grant 2' Running Layup (2 PTS),,,8 - 11,3,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,54,2,105,1,7:16 PM,7:07,,,MISS Beal 10' Turnaround Fadeaway Bank Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,55,4,0,1,7:16 PM,7:03,,,Gafford REBOUND (Off:1 Def:2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,57,6,4,1,7:16 PM,7:02,,,Kuzma OFF.Foul (P1) (J.Goble),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,59,5,37,1,7:16 PM,7:02,,,Kuzma Offensive Foul Turnover (P1.T3),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,60,6,2,1,7:17 PM,6:48,,,Kuzma S.FOUL (P2.T1) (C.Flores),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,62,9,1,1,7:17 PM,6:48,PISTONS Timeout: Regular (Full 1 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,63,8,0,1,7:19 PM,6:48,,,SUB: Avdija FOR Dinwiddie,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,64,8,0,1,7:19 PM,6:48,,,SUB: Neto FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,67,3,11,1,7:20 PM,6:48,Grant Free Throw 1 of 2 (3 PTS),,,8 - 12,4,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,68,3,12,1,7:21 PM,6:48,Grant Free Throw 2 of 2 (4 PTS),,,8 - 13,5,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,69,2,1,1,7:21 PM,6:28,,,MISS Beal 24' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,70,4,0,1,7:21 PM,6:26,Grant REBOUND (Off:1 Def:3),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,71,2,1,1,7:21 PM,6:15,MISS Cunningham 3PT Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,72,4,0,1,7:21 PM,6:13,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,73,6,1,1,7:21 PM,6:10,Cunningham P.FOUL (P1.T2) (J.Williams),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,75,1,5,1,7:22 PM,6:05,,,Gafford 2' Layup (2 PTS) (Neto 1 AST),10 - 13,3,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,77,6,2,1,7:22 PM,6:05,Stewart S.FOUL (P2.T3) (J.Goble),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,79,3,10,1,7:22 PM,6:05,,,Gafford Free Throw 1 of 1 (3 PTS),11 - 13,2,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,80,6,2,1,7:22 PM,5:50,,,Avdija S.FOUL (P1.T2) (J.Goble),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,82,3,11,1,7:23 PM,5:50,Grant Free Throw 1 of 2 (5 PTS),,,11 - 14,3,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,83,8,0,1,7:23 PM,5:50,SUB: Lyles FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,84,8,0,1,7:23 PM,5:50,,,SUB: Harrell FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,87,3,12,1,7:23 PM,5:50,Grant Free Throw 2 of 2 (6 PTS),,,11 - 15,4,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,88,2,1,1,7:24 PM,5:37,,,MISS Avdija 3PT Jump Shot,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,89,4,0,1,7:24 PM,5:35,Bey REBOUND (Off:0 Def:3),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,90,5,1,1,7:24 PM,5:33,Bey Bad Pass Turnover (P1.T3),,Beal STEAL (1 STL),,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,92,1,5,1,7:24 PM,5:26,,,Avdija 2' Layup (2 PTS),13 - 15,2,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,93,1,47,1,7:24 PM,5:02,Lyles 14' Turnaround Jump Shot (2 PTS) (Bey 1 AST),,,13 - 17,4,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,95,2,98,1,7:25 PM,4:37,,,MISS Harrell 2' Cutting Layup Shot,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,96,4,0,1,7:25 PM,4:35,Lyles REBOUND (Off:0 Def:1),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,97,2,74,1,7:25 PM,4:30,MISS Grant 3' Running Reverse Layup,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,98,4,0,1,7:25 PM,4:27,,,Harrell REBOUND (Off:0 Def:1),,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,99,1,6,1,7:25 PM,4:19,,,Neto 2' Driving Layup (2 PTS),15 - 17,2,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,100,2,2,1,7:25 PM,4:11,MISS Bey 27' 3PT Running Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,101,4,0,1,7:25 PM,4:08,,,Harrell REBOUND (Off:0 Def:2),,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,102,2,1,1,7:25 PM,3:56,,,MISS Caldwell-Pope 25' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,103,4,0,1,7:25 PM,3:53,Lyles REBOUND (Off:0 Def:2),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,104,1,79,1,7:25 PM,3:47,Cunningham 11' Pullup Jump Shot (4 PTS),,,15 - 19,4,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,105,9,1,1,7:26 PM,3:47,,,Wizards Timeout: Regular (Reg.1 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,106,8,0,1,7:26 PM,3:47,,,SUB: Bertans FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,108,5,45,1,7:29 PM,3:35,,,Beal Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,109,5,1,1,7:29 PM,3:24,Bey Bad Pass Turnover (P2.T4),,Neto STEAL (1 STL),,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,111,1,1,1,7:29 PM,3:13,,,Bertans 24' 3PT Jump Shot (3 PTS) (Neto 2 AST),18 - 19,1,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,113,2,6,1,7:29 PM,3:02,MISS Cunningham 3' Driving Layup,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,115,4,0,1,7:29 PM,2:59,,,Avdija REBOUND (Off:0 Def:1),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,116,1,86,1,7:29 PM,2:51,,,Neto 4' Turnaround Fadeaway (4 PTS),20 - 19,-1,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,117,2,58,1,7:30 PM,2:29,MISS Grant 6' Turnaround Hook Shot,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,118,4,0,1,7:30 PM,2:27,,,Bertans REBOUND (Off:0 Def:1),,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,119,1,98,1,7:30 PM,2:20,,,Beal 1' Cutting Layup Shot (4 PTS) (Bertans 1 AST),22 - 19,-3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,121,1,1,1,7:30 PM,2:06,Cunningham 27' 3PT Jump Shot (7 PTS) (Hayes 1 AST),,,22 - 22,TIE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,124,8,0,1,7:31 PM,1:48,SUB: Joseph FOR Hayes,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,125,8,0,1,7:31 PM,1:48,SUB: F. Jackson FOR Bey,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,126,8,0,1,7:31 PM,1:48,,,SUB: Dinwiddie FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,130,2,6,1,7:31 PM,1:39,,,MISS Avdija 2' Driving Layup,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,131,4,0,1,7:31 PM,1:39,,,Avdija REBOUND (Off:1 Def:1),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,132,2,97,1,7:31 PM,1:39,,,MISS Avdija Tip Layup Shot,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,133,4,0,1,7:31 PM,1:39,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,163,6,4,1,7:31 PM,1:31,,,Bertans OFF.Foul (P1) (J.Goble),,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,164,5,37,1,7:31 PM,1:31,,,Bertans Offensive Foul Turnover (P1.T5),,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,159,9,7,1,7:32 PM,1:31,PISTONS Timeout: Coach Challenge (Full 1 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,137,18,5,1,7:32 PM,1:31,,Instant Replay1st Period (7:32 PM EST),,22 - 22,TIE,0,134,Kevin Johnson,,,,,0,0,,,,,,1,0,,,,,,1
+0022100368,138,6,2,1,7:34 PM,1:16,,,Avdija S.FOUL (P2.T3) (J.Williams),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,140,3,11,1,7:35 PM,1:16,Cunningham Free Throw 1 of 2 (8 PTS),,,22 - 23,1,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,141,3,12,1,7:35 PM,1:16,Cunningham Free Throw 2 of 2 (9 PTS),,,22 - 24,2,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,343,6,1,1,7:35 PM,1:04,Lyles P.FOUL (P1.T4) (J.Williams),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0022100368,144,8,0,1,7:36 PM,1:04,SUB: Diallo FOR Cunningham,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,146,6,4,1,7:36 PM,1:01,,,Dinwiddie OFF.Foul (P1) (J.Williams),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,148,5,37,1,7:36 PM,1:01,,,Dinwiddie Offensive Foul Turnover (P2.T6),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,149,6,2,1,7:36 PM,0:49,,,Harrell S.FOUL (P1.PN) (C.Flores),,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,151,3,11,1,7:37 PM,0:49,Grant Free Throw 1 of 2 (7 PTS),,,22 - 25,3,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,152,3,12,1,7:37 PM,0:49,Grant Free Throw 2 of 2 (8 PTS),,,22 - 26,4,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,153,1,101,1,7:37 PM,0:29,,,Avdija 5' Driving Floating Jump Shot (4 PTS) (Dinwiddie 2 AST),24 - 26,2,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,155,1,1,1,7:38 PM,0:17,F. Jackson 26' 3PT Jump Shot (3 PTS) (Joseph 1 AST),,,24 - 29,5,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,157,1,1,1,7:38 PM,0:01,,,Avdija 27' 3PT Jump Shot (7 PTS) (Dinwiddie 3 AST),27 - 29,2,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,160,2,2,1,7:38 PM,0:00,MISS Diallo 50' 3PT Running Jump Shot,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,161,4,0,1,7:38 PM,0:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,162,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100368,170,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,171,1,6,2,7:41 PM,11:41,,,Harrell 2' Driving Layup (2 PTS) (Dinwiddie 4 AST),29 - 29,TIE,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,173,6,2,2,7:41 PM,11:31,,,Bertans S.FOUL (P2.T1) (J.Williams),,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,175,3,11,2,7:42 PM,11:31,Diallo Free Throw 1 of 2 (1 PTS),,,29 - 30,1,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,176,3,12,2,7:42 PM,11:31,MISS Diallo Free Throw 2 of 2,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,177,4,0,2,7:42 PM,11:27,,,Avdija REBOUND (Off:1 Def:2),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,178,1,101,2,7:42 PM,11:09,,,Holiday 5' Driving Floating Jump Shot (2 PTS),31 - 30,-1,5,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,179,6,4,2,7:43 PM,10:53,Joseph OFF.Foul (P1) (C.Flores),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,5,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,181,5,37,2,7:43 PM,10:53,Joseph Offensive Foul Turnover (P1.T5),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,182,1,1,2,7:43 PM,10:32,,,Avdija 24' 3PT Jump Shot (10 PTS) (Holiday 1 AST),34 - 30,-4,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,184,2,1,2,7:44 PM,10:19,MISS Lyles 26' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,185,4,0,2,7:44 PM,10:16,,,Avdija REBOUND (Off:1 Def:3),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,186,2,6,2,7:44 PM,10:06,,,MISS Avdija 2' Driving Layup,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,187,4,0,2,7:44 PM,10:06,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,189,6,1,2,7:44 PM,10:06,J. Jackson P.FOUL (P1.T1) (J.Williams),,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0022100368,191,2,1,2,7:45 PM,9:58,,,MISS Avdija 3PT Jump Shot,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,192,4,0,2,7:45 PM,9:55,Lyles REBOUND (Off:0 Def:3),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,193,1,79,2,7:45 PM,9:50,Diallo 13' Pullup Jump Shot (3 PTS),,,34 - 32,-2,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,194,2,5,2,7:45 PM,9:37,J. Jackson BLOCK (1 BLK),,MISS Harrell 4' Layup,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,1
+0022100368,196,4,0,2,7:45 PM,9:37,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,197,1,1,2,7:45 PM,9:18,F. Jackson 24' 3PT Jump Shot (6 PTS) (Joseph 2 AST),,,34 - 35,1,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,199,6,1,2,7:46 PM,9:12,Diallo P.FOUL (P1.T2) (J.Williams),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,201,2,47,2,7:46 PM,9:01,,,MISS Dinwiddie 7' Turnaround Jump Shot,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,202,4,0,2,7:46 PM,8:58,Joseph REBOUND (Off:0 Def:1),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,203,1,2,2,7:46 PM,8:53,J. Jackson 24' 3PT Running Jump Shot (3 PTS) (F. Jackson 1 AST),,,34 - 38,4,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,205,6,4,2,7:47 PM,8:34,,,Avdija OFF.Foul (P3) (J.Goble),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,207,5,37,2,7:47 PM,8:34,,,Avdija Offensive Foul Turnover (P1.T7),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,208,8,0,2,7:47 PM,8:34,,,SUB: Kuzma FOR Avdija,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,209,8,0,2,7:47 PM,8:34,,,SUB: Beal FOR Dinwiddie,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,212,6,2,2,7:47 PM,8:19,,,Harrell S.FOUL (P2.T2) (J.Goble),,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,214,3,11,2,7:48 PM,8:19,Joseph Free Throw 1 of 2 (1 PTS),,,34 - 39,5,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022100368,215,3,12,2,7:48 PM,8:19,Joseph Free Throw 2 of 2 (2 PTS),,,34 - 40,6,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,216,5,1,2,7:49 PM,8:00,Diallo STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T8),,,5,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,218,1,50,2,7:49 PM,8:00,Diallo 3' Running Dunk (5 PTS),,,34 - 42,8,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,219,9,1,2,7:49 PM,8:00,,,Wizards Timeout: Regular (Reg.2 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,221,8,0,2,7:51 PM,8:00,SUB: Stewart FOR Lyles,,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,222,8,0,2,7:51 PM,8:00,,,SUB: Neto FOR Holiday,,,5,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,223,8,0,2,7:51 PM,8:00,,,SUB: Caldwell-Pope FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,227,2,3,2,7:52 PM,7:40,,,MISS Harrell 5' Hook Shot,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,228,4,0,2,7:52 PM,7:37,Joseph REBOUND (Off:0 Def:2),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,229,5,40,2,7:52 PM,7:26,Joseph Out of Bounds Lost Ball Turnover (P2.T6),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,230,2,86,2,7:53 PM,7:01,,,MISS Kuzma 16' Turnaround Fadeaway Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,231,4,0,2,7:53 PM,6:59,Stewart REBOUND (Off:1 Def:2),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,232,1,66,2,7:53 PM,6:47,F. Jackson 9' Jump Bank Shot (8 PTS) (J. Jackson 1 AST),,,34 - 44,10,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,233,2,79,2,7:53 PM,6:37,,,MISS Caldwell-Pope 19' Pullup Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,234,4,0,2,7:53 PM,6:33,Stewart REBOUND (Off:1 Def:3),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,235,2,101,2,7:53 PM,6:26,MISS J. Jackson 9' Driving Floating Jump Shot,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,236,4,0,2,7:53 PM,6:23,,,Kuzma REBOUND (Off:0 Def:1),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,237,1,5,2,7:54 PM,6:04,,,Harrell 3' Layup (4 PTS) (Caldwell-Pope 1 AST),36 - 44,8,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,239,1,79,2,7:54 PM,5:45,J. Jackson 20' Pullup Jump Shot (5 PTS),,,36 - 46,10,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,240,1,98,2,7:54 PM,5:30,,,Beal 3' Cutting Layup Shot (6 PTS) (Neto 3 AST),38 - 46,8,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,242,1,79,2,7:55 PM,5:15,F. Jackson 27' 3PT Pullup Jump Shot (11 PTS) (Stewart 2 AST),,,38 - 49,11,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,244,5,1,2,7:55 PM,4:59,Joseph STEAL (1 STL),,Beal Bad Pass Turnover (P2.T9),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,246,6,2,2,7:55 PM,4:56,,,Beal S.FOUL (P1.T3) (C.Flores),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,248,3,11,2,7:55 PM,4:56,F. Jackson Free Throw 1 of 2 (12 PTS),,,38 - 50,12,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,249,8,0,2,7:55 PM,4:56,SUB: Cunningham FOR Diallo,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,250,8,0,2,7:55 PM,4:56,SUB: Hayes FOR Joseph,,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,251,8,0,2,7:55 PM,4:56,SUB: Grant FOR J. Jackson,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,252,8,0,2,7:55 PM,4:56,,,SUB: Gafford FOR Harrell,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,257,6,11,2,7:56 PM,4:56,,,Caldwell-Pope T.FOUL (P0.T3) (J.Williams),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0022100368,258,3,16,2,7:56 PM,4:56,Grant Free Throw Technical (9 PTS),,,38 - 51,13,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,259,3,12,2,7:57 PM,4:56,F. Jackson Free Throw 2 of 2 (13 PTS),,,38 - 52,14,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,260,1,63,2,7:57 PM,4:36,,,Neto 6' Fadeaway Jumper (6 PTS),40 - 52,12,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,261,2,6,2,7:57 PM,4:24,MISS Cunningham 3' Driving Layup,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,262,4,0,2,7:57 PM,4:21,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,263,6,2,2,7:57 PM,4:18,Hayes S.FOUL (P1.T3) (C.Flores),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,265,3,11,2,7:58 PM,4:18,,,Kuzma Free Throw 1 of 2 (1 PTS),41 - 52,11,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,266,8,0,2,7:58 PM,4:18,SUB: Bey FOR F. Jackson,,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,268,3,12,2,7:58 PM,4:18,,,Kuzma Free Throw 2 of 2 (2 PTS),42 - 52,10,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,270,6,4,2,7:58 PM,4:05,Bey OFF.Foul (P1) (J.Goble),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,272,5,37,2,7:58 PM,4:05,Bey Offensive Foul Turnover (P3.T7),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,273,1,73,2,7:59 PM,3:55,,,Beal 2' Driving Reverse Layup (8 PTS),44 - 52,8,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,274,6,2,2,7:59 PM,3:55,Cunningham S.FOUL (P2.T4) (J.Goble),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,276,3,10,2,7:59 PM,3:55,,,MISS Beal Free Throw 1 of 1,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,277,4,0,2,7:59 PM,3:50,Bey REBOUND (Off:0 Def:4),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,278,6,2,2,8:00 PM,3:35,,,Gafford S.FOUL (P1.T4) (J.Goble),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,280,3,11,2,8:01 PM,3:35,Grant Free Throw 1 of 2 (10 PTS),,,44 - 53,9,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,281,8,0,2,8:01 PM,3:35,SUB: Lyles FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,282,8,0,2,8:01 PM,3:35,,,SUB: Harrell FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,285,3,12,2,8:01 PM,3:35,Grant Free Throw 2 of 2 (11 PTS),,,44 - 54,10,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,287,1,75,2,8:01 PM,3:14,,,Beal 1' Driving Finger Roll Layup (10 PTS),46 - 54,8,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,288,6,2,2,8:02 PM,3:02,,,Harrell S.FOUL (P3.PN) (C.Flores),,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,290,3,11,2,8:02 PM,3:02,Lyles Free Throw 1 of 2 (3 PTS),,,46 - 55,9,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,291,8,0,2,8:02 PM,3:02,,,SUB: Gill FOR Harrell,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,293,3,12,2,8:03 PM,3:02,Lyles Free Throw 2 of 2 (4 PTS),,,46 - 56,10,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,294,1,6,2,8:03 PM,2:41,,,Kuzma 3' Driving Layup (4 PTS) (Neto 4 AST),48 - 56,8,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,296,6,26,2,8:03 PM,2:34,Grant Offensive Charge Foul (P1) (J.Williams),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,298,5,37,2,8:03 PM,2:34,Grant Offensive Foul Turnover (P2.T8),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,299,9,1,2,8:04 PM,2:34,PISTONS Timeout: Regular (Full 2 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,300,6,11,2,8:04 PM,2:34,Cunningham T.FOUL (P2.T4) (J.Williams),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,301,8,0,2,8:06 PM,2:34,,,SUB: Dinwiddie FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,303,3,16,2,8:06 PM,2:34,,,MISS Beal Free Throw Technical,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022100368,304,4,1,2,8:06 PM,2:34,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,305,2,80,2,8:07 PM,2:09,,,MISS Dinwiddie 17' Step Back Jump Shot,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,306,4,0,2,8:07 PM,2:08,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,308,6,2,2,8:07 PM,1:55,,,Gill S.FOUL (P1.PN) (J.Goble),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,310,3,11,2,8:08 PM,1:55,Cunningham Free Throw 1 of 2 (10 PTS),,,48 - 57,9,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,311,3,12,2,8:08 PM,1:55,Cunningham Free Throw 2 of 2 (11 PTS),,,48 - 58,10,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,312,2,109,2,8:08 PM,1:44,,,MISS Kuzma 3' Driving Reverse Dunk Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,314,4,0,2,8:08 PM,1:44,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,316,2,79,2,8:09 PM,1:24,MISS Hayes 22' Pullup Jump Shot,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,317,4,0,2,8:09 PM,1:21,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,318,2,57,2,8:09 PM,1:02,,,MISS Kuzma 4' Driving Hook Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,319,4,0,2,8:09 PM,1:00,Hayes REBOUND (Off:0 Def:1),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,320,6,2,2,8:09 PM,0:58,,,Gill S.FOUL (P2.PN) (J.Williams),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,322,3,11,2,8:10 PM,0:58,Hayes Free Throw 1 of 2 (3 PTS),,,48 - 59,11,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,323,8,0,2,8:10 PM,0:58,SUB: Joseph FOR Cunningham,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,325,3,12,2,8:10 PM,0:58,Hayes Free Throw 2 of 2 (4 PTS),,,48 - 60,12,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,326,1,78,2,8:10 PM,0:38,,,Gill 5' Floating Jump Shot (2 PTS) (Beal 2 AST),50 - 60,10,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,328,5,4,2,8:11 PM,0:27,Bey Traveling Turnover (P4.T9),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,329,6,2,2,8:11 PM,0:07,Grant S.FOUL (P2.PN) (J.Williams),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,331,3,11,2,8:12 PM,0:07,,,Gill Free Throw 1 of 2 (3 PTS),51 - 60,9,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022100368,332,8,0,2,8:12 PM,0:07,SUB: Cunningham FOR Joseph,,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,334,8,0,2,8:12 PM,0:07,,,SUB: Holiday FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,336,3,12,2,8:12 PM,0:07,,,Gill Free Throw 2 of 2 (4 PTS),52 - 60,8,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,337,2,1,2,8:12 PM,0:00,MISS Cunningham 25' 3PT Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,338,4,0,2,8:12 PM,0:00,,,Dinwiddie REBOUND (Off:0 Def:2),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,339,13,0,2,8:12 PM,0:00,,End of 2nd Period (8:12 PM EST),,52 - 60,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100368,352,12,0,3,8:28 PM,12:00,,Start of 3rd Period (8:28 PM EST),,52 - 60,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,353,2,1,3,8:28 PM,11:48,,,MISS Beal 26' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,354,4,0,3,8:28 PM,11:45,,,Beal REBOUND (Off:1 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,355,1,1,3,8:28 PM,11:38,,,Caldwell-Pope 24' 3PT Jump Shot (6 PTS) (Kuzma 1 AST),55 - 60,5,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,357,1,75,3,8:28 PM,11:21,Cunningham 2' Driving Finger Roll Layup (13 PTS),,,55 - 62,7,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,358,1,80,3,8:29 PM,11:02,,,Caldwell-Pope 19' Step Back Jump Shot (8 PTS),57 - 62,5,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,359,5,21,3,8:29 PM,10:52,Cunningham Palming Turnover (P2.T10),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,360,1,1,3,8:29 PM,10:35,,,Caldwell-Pope 26' 3PT Jump Shot (11 PTS) (Dinwiddie 5 AST),60 - 62,2,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,362,6,4,3,8:30 PM,10:19,Stewart OFF.Foul (P3) (J.Goble),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,364,5,37,3,8:30 PM,10:19,Stewart Offensive Foul Turnover (P1.T11),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,365,1,75,3,8:30 PM,10:08,,,Caldwell-Pope 3' Driving Finger Roll Layup (13 PTS) (Beal 3 AST),62 - 62,TIE,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,367,9,1,3,8:30 PM,10:08,PISTONS Timeout: Regular (Full 3 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,368,1,1,3,8:33 PM,9:53,Grant 21' Jump Shot (13 PTS) (Stewart 3 AST),,,62 - 64,2,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,370,2,79,3,8:33 PM,9:26,,,MISS Caldwell-Pope 21' Pullup Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,371,4,0,3,8:34 PM,9:24,Stewart REBOUND (Off:1 Def:4),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,372,1,1,3,8:34 PM,9:18,Bey 3PT Jump Shot (6 PTS) (Cunningham 2 AST),,,62 - 67,5,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,374,6,2,3,8:34 PM,8:51,Grant S.FOUL (P3.T1) (C.Flores),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,376,3,11,3,8:35 PM,8:51,,,Dinwiddie Free Throw 1 of 2 (4 PTS),63 - 67,4,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,377,3,12,3,8:35 PM,8:51,,,Dinwiddie Free Throw 2 of 2 (5 PTS),64 - 67,3,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,378,2,1,3,8:35 PM,8:30,MISS Grant 12' Jump Shot,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,380,4,0,3,8:35 PM,8:26,,,Kuzma REBOUND (Off:0 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,381,1,50,3,8:35 PM,8:25,,,Beal 3' Running Dunk (12 PTS) (Kuzma 2 AST),66 - 67,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,383,1,1,3,8:36 PM,8:11,Bey 17' Jump Shot (8 PTS) (Cunningham 3 AST),,,66 - 69,3,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,385,5,1,3,8:36 PM,7:55,Bey STEAL (1 STL),,Harrell Bad Pass Turnover (P1.T10),,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,387,2,103,3,8:36 PM,7:51,MISS Bey 26' 3PT Running Pull-Up Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,388,4,0,3,8:36 PM,7:51,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,390,8,0,3,8:36 PM,7:51,,,SUB: Gafford FOR Harrell,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,392,2,6,3,8:36 PM,7:40,Stewart BLOCK (1 BLK),,MISS Beal 3' Driving Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1
+0022100368,394,4,0,3,8:37 PM,7:36,,,Gafford REBOUND (Off:2 Def:2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,395,6,2,3,8:37 PM,7:31,Stewart S.FOUL (P4.T2) (J.Williams),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,397,3,11,3,8:37 PM,7:31,,,Beal Free Throw 1 of 2 (13 PTS),67 - 69,2,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,398,8,0,3,8:37 PM,7:31,SUB: Lyles FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,400,3,12,3,8:37 PM,7:31,,,Beal Free Throw 2 of 2 (14 PTS),68 - 69,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,401,1,1,3,8:38 PM,7:15,Grant 3PT Jump Shot (16 PTS) (Lyles 1 AST),,,68 - 72,4,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,403,1,1,3,8:38 PM,6:56,,,Kuzma 26' 3PT Jump Shot (7 PTS) (Gafford 1 AST),71 - 72,1,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,405,2,6,3,8:38 PM,6:39,MISS Hayes 3' Driving Layup,,Gafford BLOCK (2 BLK),,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022100368,407,4,0,3,8:38 PM,6:35,,,Dinwiddie REBOUND (Off:0 Def:3),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,408,2,1,3,8:38 PM,6:28,,,MISS Dinwiddie 26' 3PT Jump Shot,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,409,4,0,3,8:39 PM,6:24,,,Kuzma REBOUND (Off:1 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,410,1,5,3,8:39 PM,6:20,,,Dinwiddie 3' Layup (7 PTS),73 - 72,-1,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,411,5,40,3,8:39 PM,6:06,Grant Out of Bounds Lost Ball Turnover (P3.T12),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,412,8,0,3,8:39 PM,6:06,SUB: Joseph FOR Hayes,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,414,2,1,3,8:39 PM,5:55,,,MISS Kuzma 25' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,415,4,0,3,8:39 PM,5:52,Joseph REBOUND (Off:0 Def:3),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,416,1,1,3,8:40 PM,5:38,Grant 26' 3PT Jump Shot (19 PTS) (Bey 2 AST),,,73 - 75,2,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,418,1,6,3,8:40 PM,5:18,,,Beal 5' Driving Layup (16 PTS),75 - 75,TIE,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,419,6,2,3,8:40 PM,4:58,,,Beal S.FOUL (P2.T1) (J.Goble),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,421,3,11,3,8:41 PM,4:58,MISS Bey Free Throw 1 of 2,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022100368,422,4,1,3,8:41 PM,4:58,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,427,3,12,3,8:41 PM,4:58,MISS Bey Free Throw 2 of 2,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,423,8,0,3,8:41 PM,4:58,,,SUB: Neto FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,425,8,0,3,8:41 PM,4:58,,,SUB: Avdija FOR Dinwiddie,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,428,4,0,3,8:41 PM,4:39,,,Gafford REBOUND (Off:2 Def:3),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,429,6,2,3,8:41 PM,4:39,Joseph S.FOUL (P2.T3) (J.Goble),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,431,3,11,3,8:42 PM,4:39,,,Kuzma Free Throw 1 of 2 (8 PTS),76 - 75,-1,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,432,3,12,3,8:42 PM,4:39,,,MISS Kuzma Free Throw 2 of 2,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,433,4,0,3,8:42 PM,4:35,Grant REBOUND (Off:1 Def:4),,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,434,2,6,3,8:42 PM,4:20,MISS Cunningham 2' Driving Layup,,Gafford BLOCK (3 BLK),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022100368,436,4,0,3,8:42 PM,4:17,,,Beal REBOUND (Off:1 Def:1),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,437,2,1,3,8:43 PM,4:13,,,MISS Neto 26' 3PT Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,438,4,0,3,8:43 PM,4:09,,,Kuzma REBOUND (Off:2 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,439,6,2,3,8:43 PM,4:09,Cunningham S.FOUL (P3.T4) (C.Flores),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,441,3,11,3,8:43 PM,4:09,,,Kuzma Free Throw 1 of 2 (9 PTS),77 - 75,-2,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,442,8,0,3,8:43 PM,4:09,SUB: Diallo FOR Cunningham,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,443,8,0,3,8:43 PM,4:09,SUB: F. Jackson FOR Bey,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,446,3,12,3,8:44 PM,4:09,,,Kuzma Free Throw 2 of 2 (10 PTS),78 - 75,-3,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022100368,447,1,47,3,8:44 PM,3:53,Grant 17' Turnaround Jump Shot (21 PTS) (Joseph 3 AST),,,78 - 77,-1,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,448,6,2,3,8:44 PM,3:38,Diallo S.FOUL (P2.PN) (J.Williams),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,450,3,11,3,8:45 PM,3:38,,,Gafford Free Throw 1 of 2 (4 PTS),79 - 77,-2,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,451,8,0,3,8:45 PM,3:38,,,SUB: Bertans FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,453,3,12,3,8:45 PM,3:38,,,Gafford Free Throw 2 of 2 (5 PTS),80 - 77,-3,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,454,1,1,3,8:45 PM,3:23,Diallo 3PT Jump Shot (8 PTS) (Joseph 4 AST),,,80 - 80,TIE,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,456,2,3,3,8:46 PM,2:59,,,MISS Gafford 3' Hook Shot,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,457,4,0,3,8:46 PM,2:56,Lyles REBOUND (Off:0 Def:4),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,458,2,5,3,8:46 PM,2:37,MISS Lyles 2' Layup,,Gafford BLOCK (4 BLK),,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022100368,460,4,0,3,8:46 PM,2:33,,,Gafford REBOUND (Off:2 Def:4),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,461,1,98,3,8:46 PM,2:24,,,Neto 3' Cutting Layup Shot (8 PTS) (Gafford 2 AST),82 - 80,-2,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,463,6,2,3,8:47 PM,2:09,,,Gafford S.FOUL (P2.T2) (J.Goble),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,465,9,1,3,8:47 PM,2:09,,,Wizards Timeout: Regular (Reg.3 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,467,8,0,3,8:47 PM,2:09,,,SUB: Gill FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,469,3,11,3,8:50 PM,2:09,Grant Free Throw 1 of 2 (22 PTS),,,82 - 81,-1,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022100368,470,3,12,3,8:50 PM,2:09,Grant Free Throw 2 of 2 (23 PTS),,,82 - 82,TIE,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,471,6,1,3,8:50 PM,1:59,Diallo P.FOUL (P3.PN) (J.Williams),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,473,3,11,3,8:50 PM,1:59,,,Bertans Free Throw 1 of 2 (4 PTS),83 - 82,-1,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,474,3,12,3,8:51 PM,1:59,,,Bertans Free Throw 2 of 2 (5 PTS),84 - 82,-2,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,475,2,1,3,8:51 PM,1:49,MISS Grant 10' Jump Shot,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,476,4,0,3,8:51 PM,1:47,,,Gill REBOUND (Off:0 Def:1),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,510,5,1,3,8:51 PM,1:35,F. Jackson STEAL (1 STL),,Gill Bad Pass Turnover (P1.T11),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,480,6,2,3,8:51 PM,1:26,,,Beal S.FOUL (P3.T3) (J.Williams),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,482,3,11,3,8:52 PM,1:26,MISS Diallo Free Throw 1 of 2,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,483,4,1,3,8:52 PM,1:26,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,486,3,12,3,8:52 PM,1:26,Diallo Free Throw 2 of 2 (9 PTS),,,84 - 83,-1,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,484,8,0,3,8:52 PM,1:26,SUB: J. Jackson FOR Grant,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,487,1,79,3,8:53 PM,1:07,,,Beal 18' Pullup Jump Shot (18 PTS) (Bertans 2 AST),86 - 83,-3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,488,1,80,3,8:53 PM,0:53,F. Jackson 27' 3PT Step Back Jump Shot (16 PTS) (Joseph 5 AST),,,86 - 86,TIE,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,490,5,4,3,8:53 PM,0:47,,,Neto Traveling Turnover (P1.T12),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,491,8,0,3,8:53 PM,0:47,,,SUB: Dinwiddie FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,493,2,7,3,8:53 PM,0:34,MISS Lyles 2' Dunk,,Avdija BLOCK (1 BLK),,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1
+0022100368,494,4,0,3,8:53 PM,0:32,Lyles REBOUND (Off:1 Def:4),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,495,2,72,3,8:53 PM,0:31,MISS Lyles 1' Putback Layup,,Bertans BLOCK (1 BLK),,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1
+0022100368,497,4,0,3,8:53 PM,0:31,,,Dinwiddie REBOUND (Off:0 Def:4),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,498,6,1,3,8:54 PM,0:20,Lyles P.FOUL (P2.PN) (J.Goble),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,501,6,11,3,8:54 PM,0:20,Lyles T.FOUL (P2.PN) (J.Goble),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,502,3,16,3,8:54 PM,0:20,,,Bertans Free Throw Technical (6 PTS),87 - 86,-1,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022100368,503,3,11,3,8:54 PM,0:20,,,Dinwiddie Free Throw 1 of 2 (8 PTS),88 - 86,-2,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,506,3,12,3,8:54 PM,0:20,,,Dinwiddie Free Throw 2 of 2 (9 PTS),89 - 86,-3,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,504,8,0,3,8:54 PM,0:20,,,SUB: Kuzma FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,507,10,0,3,8:56 PM,0:04,Jump Ball Joseph vs. Gill: Tip to Diallo,,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,1
+0022100368,512,2,1,3,8:56 PM,0:00,MISS J. Jackson 26' 3PT Jump Shot,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,513,4,0,3,8:56 PM,0:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,514,13,0,3,8:56 PM,0:00,,End of 3rd Period (8:56 PM EST),,89 - 86,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100368,516,12,0,4,8:58 PM,12:00,,Start of 4th Period (8:58 PM EST),,89 - 86,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,517,2,1,4,8:58 PM,11:48,MISS F. Jackson 27' 3PT Jump Shot,,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,518,4,0,4,8:59 PM,11:46,,,Dinwiddie REBOUND (Off:0 Def:5),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,519,2,80,4,8:59 PM,11:26,,,MISS Dinwiddie 26' 3PT Step Back Jump Shot,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,520,4,0,4,8:59 PM,11:25,,,Kuzma REBOUND (Off:3 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,521,2,1,4,8:59 PM,11:23,,,MISS Kuzma 27' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,522,4,0,4,8:59 PM,11:18,Lyles REBOUND (Off:1 Def:5),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,523,1,6,4,8:59 PM,11:07,J. Jackson 4' Driving Layup (7 PTS),,,89 - 88,-1,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,524,2,79,4,8:59 PM,10:48,,,MISS Neto 26' 3PT Pullup Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,525,4,0,4,9:00 PM,10:46,,,Gill REBOUND (Off:1 Def:1),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,526,1,5,4,9:00 PM,10:44,,,Kuzma 2' Layup (12 PTS) (Gill 1 AST),91 - 88,-3,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,528,2,44,4,9:00 PM,10:27,MISS Diallo 2' Reverse Layup,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,529,4,0,4,9:00 PM,10:24,,,Avdija REBOUND (Off:1 Def:4),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,530,2,73,4,9:00 PM,10:14,,,MISS Neto 3' Driving Reverse Layup,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,531,4,0,4,9:00 PM,10:14,,,Kuzma REBOUND (Off:4 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,532,1,97,4,9:00 PM,10:14,,,Kuzma Tip Layup Shot (14 PTS),93 - 88,-5,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,533,6,2,4,9:00 PM,10:14,Lyles S.FOUL (P3.T1) (J.Williams),,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,535,3,10,4,9:01 PM,10:14,,,Kuzma Free Throw 1 of 1 (15 PTS),94 - 88,-6,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022100368,536,5,1,4,9:01 PM,9:54,Joseph Bad Pass Turnover (P3.T13),,Kuzma STEAL (1 STL),,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,538,1,1,4,9:01 PM,9:34,,,Kuzma 24' 3PT Jump Shot (18 PTS) (Neto 5 AST),97 - 88,-9,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,540,9,1,4,9:02 PM,9:34,PISTONS Timeout: Regular (Full 4 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100368,541,8,0,4,9:02 PM,9:34,SUB: Stewart FOR Lyles,,,,,4,1626168,Trey Lyles,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,542,8,0,4,9:02 PM,9:34,SUB: Cunningham FOR Joseph,,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,545,2,80,4,9:05 PM,9:11,MISS J. Jackson 27' 3PT Step Back Jump Shot,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,546,4,0,4,9:05 PM,9:08,,,Avdija REBOUND (Off:1 Def:5),,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,547,2,101,4,9:05 PM,8:54,Diallo BLOCK (1 BLK),,MISS Dinwiddie 8' Driving Floating Jump Shot,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,1
+0022100368,549,4,0,4,9:05 PM,8:54,,,Dinwiddie REBOUND (Off:1 Def:5),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,550,6,1,4,9:05 PM,8:54,Cunningham P.FOUL (P4.T2) (J.Williams),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,552,8,0,4,9:05 PM,8:54,,,SUB: Gafford FOR Gill,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,554,2,1,4,9:06 PM,8:41,,,MISS Kuzma 30' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,555,4,0,4,9:06 PM,8:38,Cunningham REBOUND (Off:1 Def:1),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,556,1,5,4,9:06 PM,8:17,Stewart 3' Layup (4 PTS) (J. Jackson 2 AST),,,97 - 90,-7,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,558,1,7,4,9:06 PM,7:59,,,Gafford 2' Dunk (7 PTS) (Kuzma 3 AST),99 - 90,-9,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,560,2,73,4,9:06 PM,7:50,MISS Cunningham 2' Driving Reverse Layup,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,561,4,0,4,9:06 PM,7:49,,,Kuzma REBOUND (Off:4 Def:3),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,562,5,40,4,9:07 PM,7:44,,,Kuzma Out of Bounds Lost Ball Turnover (P2.T13),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,563,8,0,4,9:07 PM,7:44,,,SUB: Beal FOR Dinwiddie,,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,565,2,9,4,9:07 PM,7:34,MISS Cunningham 3' Driving Dunk,,Gafford BLOCK (5 BLK),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022100368,567,4,0,4,9:07 PM,7:34,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,569,2,1,4,9:07 PM,7:25,MISS Cunningham 3PT Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,570,4,0,4,9:08 PM,7:22,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,571,1,6,4,9:08 PM,7:13,,,Neto 1' Driving Layup (10 PTS),101 - 90,-11,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,572,2,101,4,9:08 PM,6:55,MISS Cunningham 4' Driving Floating Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,573,4,0,4,9:08 PM,6:52,,,Beal REBOUND (Off:1 Def:2),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,574,1,58,4,9:08 PM,6:40,,,Kuzma 4' Turnaround Hook Shot (20 PTS),103 - 90,-13,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,575,6,4,4,9:08 PM,6:30,Stewart OFF.Foul (P5) (J.Goble),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,577,5,37,4,9:08 PM,6:30,Stewart Offensive Foul Turnover (P2.T14),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022100368,578,8,0,4,9:09 PM,6:30,SUB: Grant FOR J. Jackson,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,579,8,0,4,9:09 PM,6:30,,,SUB: Caldwell-Pope FOR Avdija,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,582,2,1,4,9:09 PM,6:10,,,MISS Kuzma 27' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,583,4,0,4,9:09 PM,6:09,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,585,1,1,4,9:10 PM,5:50,Diallo 29' 3PT Jump Shot (12 PTS) (Grant 1 AST),,,103 - 93,-10,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,587,9,1,4,9:10 PM,5:50,,,Wizards Timeout: Regular (Reg.4 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,588,2,6,4,9:13 PM,5:31,Grant BLOCK (1 BLK),,MISS Gafford 4' Driving Layup,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1
+0022100368,590,4,0,4,9:13 PM,5:27,Cunningham REBOUND (Off:1 Def:2),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,591,1,7,4,9:13 PM,5:17,Stewart 2' Dunk (6 PTS) (Diallo 1 AST),,,103 - 95,-8,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,593,2,6,4,9:14 PM,5:02,,,MISS Beal 3' Driving Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,594,4,0,4,9:14 PM,5:00,,,Beal REBOUND (Off:2 Def:2),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,595,6,2,4,9:14 PM,4:59,Diallo S.FOUL (P4.T3) (J.Williams),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,597,3,11,4,9:14 PM,4:59,,,Beal Free Throw 1 of 2 (19 PTS),104 - 95,-9,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,598,8,0,4,9:14 PM,4:59,,,SUB: Dinwiddie FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,600,3,12,4,9:14 PM,4:59,,,MISS Beal Free Throw 2 of 2,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,601,4,0,4,9:14 PM,4:58,Stewart REBOUND (Off:1 Def:5),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,602,2,78,4,9:15 PM,4:34,MISS Cunningham 6' Floating Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,603,4,0,4,9:15 PM,4:34,Cunningham REBOUND (Off:2 Def:2),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,604,2,6,4,9:15 PM,4:34,MISS Grant 3' Driving Layup,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,605,4,0,4,9:15 PM,4:34,Stewart REBOUND (Off:2 Def:5),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,607,2,6,4,9:15 PM,4:25,MISS Cunningham 4' Driving Layup,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,608,4,0,4,9:15 PM,4:25,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,609,5,11,4,9:15 PM,4:25,PISTONS Turnover: Shot Clock (T#15),,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0022100368,610,2,1,4,9:16 PM,4:08,,,MISS Caldwell-Pope 24' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,611,4,0,4,9:16 PM,4:06,Stewart REBOUND (Off:2 Def:6),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,612,6,2,4,9:16 PM,4:00,,,Dinwiddie S.FOUL (P2.T1) (J.Goble),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,614,3,11,4,9:16 PM,4:00,MISS Grant Free Throw 1 of 2,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,615,4,1,4,9:16 PM,4:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,616,3,12,4,9:17 PM,4:00,Grant Free Throw 2 of 2 (24 PTS),,,104 - 96,-8,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,617,2,1,4,9:17 PM,3:42,,,MISS Caldwell-Pope 26' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,618,4,0,4,9:17 PM,3:38,F. Jackson REBOUND (Off:0 Def:1),,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,619,2,41,4,9:17 PM,3:32,MISS Diallo 3' Running Layup,,Gafford BLOCK (6 BLK),,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022100368,621,4,0,4,9:17 PM,3:32,,,Gafford REBOUND (Off:2 Def:5),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,622,5,2,4,9:18 PM,3:11,Cunningham STEAL (1 STL),,Kuzma Lost Ball Turnover (P3.T14),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,624,6,2,4,9:18 PM,3:08,,,Beal S.FOUL (P4.T2) (C.Flores),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,626,9,1,4,9:18 PM,3:08,,,Wizards Timeout: Regular (Reg.5 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,627,3,11,4,9:20 PM,3:08,Stewart Free Throw 1 of 2 (7 PTS),,,104 - 97,-7,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,628,3,12,4,9:20 PM,3:08,MISS Stewart Free Throw 2 of 2,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,629,4,0,4,9:20 PM,3:04,,,Gafford REBOUND (Off:2 Def:6),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,630,2,80,4,9:20 PM,2:42,,,MISS Beal 14' Step Back Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,634,4,0,4,9:20 PM,2:37,,,Gafford REBOUND (Off:3 Def:6),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,714,5,2,4,9:21 PM,2:37,Grant STEAL (2 STL),,Gafford Lost Ball Turnover (P1.T15),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,631,10,0,4,9:21 PM,2:37,Jump Ball Grant vs. Gafford: Tip to Stewart,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1
+0022100368,635,1,6,4,9:21 PM,2:27,Grant 4' Driving Layup (26 PTS),,,104 - 99,-5,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,636,2,1,4,9:22 PM,2:03,,,MISS Kuzma 26' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,637,4,0,4,9:22 PM,2:00,Diallo REBOUND (Off:0 Def:1),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,638,1,1,4,9:22 PM,1:46,F. Jackson 27' 3PT Jump Shot (19 PTS) (Grant 2 AST),,,104 - 102,-2,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,640,10,0,4,9:23 PM,1:28,Jump Ball Cunningham vs. Beal: Tip to Kuzma,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022100368,643,2,1,4,9:23 PM,1:23,,,MISS Caldwell-Pope 26' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,644,4,0,4,9:23 PM,1:20,F. Jackson REBOUND (Off:0 Def:2),,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,692,9,7,4,9:23 PM,1:10,,,Wizards Timeout: Coach Challenge (Reg.5 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,648,18,5,4,9:24 PM,1:10,,Instant Replay4th Period (9:24 PM EST),,104 - 102,-2,0,645,,,,,,0,0,,,,,,1,0,,,,,,1
+0022100368,649,10,1,4,9:27 PM,1:07,Jump Ball (CC) Grant vs. Gafford: Tip to Stewart,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1
+0022100368,652,2,79,4,9:28 PM,0:49,MISS Grant 12' Pullup Jump Shot,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,653,4,0,4,9:28 PM,0:47,,,Beal REBOUND (Off:2 Def:3),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,654,1,79,4,9:28 PM,0:31,,,Beal 10' Pullup Jump Shot (21 PTS),106 - 102,-4,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,655,9,1,4,9:28 PM,0:31,PISTONS Timeout: Regular (Full 5 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,656,1,5,4,9:30 PM,0:22,Stewart 2' Layup (9 PTS) (Grant 3 AST),,,106 - 104,-2,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,658,6,1,4,9:30 PM,0:16,F. Jackson P.FOUL (P1.T4) (J.Williams),,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,660,8,0,4,9:31 PM,0:16,,,SUB: Neto FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,662,8,0,4,9:31 PM,0:16,SUB: J. Jackson FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,664,5,13,4,9:31 PM,0:12,,,Beal Backcourt Turnover (P3.T16),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022100368,665,9,1,4,9:32 PM,0:12,PISTONS Timeout: Regular (Full 6 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,666,8,0,4,9:32 PM,0:12,SUB: Stewart FOR J. Jackson,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,667,8,0,4,9:32 PM,0:12,,,SUB: Gafford FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,670,6,2,4,9:34 PM,0:02,,,Dinwiddie S.FOUL (P3.T3) (C.Flores),,,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022100368,672,3,11,4,9:34 PM,0:02,Grant Free Throw 1 of 2 (27 PTS),,,106 - 105,-1,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,673,8,0,4,9:34 PM,0:02,,,SUB: Harrell FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,675,3,12,4,9:35 PM,0:02,Grant Free Throw 2 of 2 (28 PTS),,,106 - 106,TIE,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,676,9,1,4,9:35 PM,0:02,,,Wizards Timeout: Regular (Reg.6 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,677,8,0,4,9:35 PM,0:02,SUB: J. Jackson FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,678,8,0,4,9:35 PM,0:02,,,SUB: Bertans FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,679,8,0,4,9:35 PM,0:02,,,SUB: Caldwell-Pope FOR Harrell,,,5,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,683,9,1,4,9:37 PM,0:02,,,Wizards Timeout: Regular (Reg.7 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,684,8,0,4,9:37 PM,0:02,,,SUB: Gafford FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,686,8,0,4,9:38 PM,0:02,SUB: Stewart FOR J. Jackson,,,,,4,1628367,Josh Jackson,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,689,2,80,4,9:39 PM,0:00,,,MISS Beal 16' Step Back Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,690,4,0,4,9:39 PM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,691,13,0,4,9:39 PM,0:00,,End of 4th Period (9:39 PM EST),,106 - 106,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022100368,693,12,0,5,9:41 PM,5:00,,Start of 1st OT (9:41 PM EST),,106 - 106,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,694,5,2,5,9:42 PM,4:39,Cunningham Lost Ball Turnover (P3.T16),,Dinwiddie STEAL (2 STL),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,696,2,79,5,9:42 PM,4:20,,,MISS Kuzma 13' Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,697,4,0,5,9:42 PM,4:17,,,Gafford REBOUND (Off:4 Def:6),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,698,1,1,5,9:42 PM,4:08,,,Kuzma 24' 3PT Jump Shot (23 PTS) (Dinwiddie 6 AST),109 - 106,-3,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,700,2,5,5,9:43 PM,3:46,MISS Grant 2' Layup,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,701,4,0,5,9:43 PM,3:42,Stewart REBOUND (Off:3 Def:6),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,702,1,97,5,9:43 PM,3:42,Stewart Tip Layup Shot (11 PTS),,,109 - 108,-1,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,703,2,63,5,9:43 PM,3:24,,,MISS Beal 8' Fadeaway Jumper,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,704,4,0,5,9:43 PM,3:22,Stewart REBOUND (Off:3 Def:7),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,705,2,79,5,9:43 PM,3:15,MISS Grant 18' Pullup Jump Shot,,,,,4,203924,Jerami Grant,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,706,4,0,5,9:43 PM,3:13,,,Beal REBOUND (Off:2 Def:4),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,707,6,2,5,9:44 PM,2:57,Diallo S.FOUL (P5.T1) (J.Williams),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022100368,709,18,3,5,9:44 PM,2:57,,Instant Replay1st OT (9:44 PM EST),,109 - 108,-1,0,707,Mark Davis,,,,,0,0,,,,,,1,0,,,,,,0
+0022100368,712,3,11,5,9:46 PM,2:57,,,Beal Free Throw 1 of 2 (22 PTS),110 - 108,-2,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,713,3,12,5,9:46 PM,2:57,,,Beal Free Throw 2 of 2 (23 PTS),111 - 108,-3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,716,1,75,5,9:46 PM,2:37,Cunningham 3' Driving Finger Roll Layup (15 PTS),,,111 - 110,-1,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,717,1,1,5,9:47 PM,2:16,,,Dinwiddie 26' 3PT Jump Shot (12 PTS) (Caldwell-Pope 2 AST),114 - 110,-4,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,719,2,101,5,9:47 PM,2:04,MISS F. Jackson 9' Driving Floating Jump Shot,,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,720,4,0,5,9:47 PM,2:01,,,Caldwell-Pope REBOUND (Off:0 Def:3),,,5,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,721,5,2,5,9:47 PM,1:45,Cunningham STEAL (2 STL),,Beal Lost Ball Turnover (P4.T17),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022100368,723,1,6,5,9:48 PM,1:36,Cunningham 3' Driving Layup (17 PTS),,,114 - 112,-2,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,724,2,1,5,9:48 PM,1:19,,,MISS Kuzma 30' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022100368,725,4,0,5,9:48 PM,1:16,Diallo REBOUND (Off:0 Def:2),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,726,1,57,5,9:48 PM,0:58,Cunningham 4' Driving Hook Shot (19 PTS),,,114 - 114,TIE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,727,9,1,5,9:48 PM,0:58,,,Wizards Timeout: Regular (Reg.8 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,728,1,80,5,9:50 PM,0:39,,,Beal 17' Step Back Jump Shot (25 PTS) (Kuzma 4 AST),116 - 114,-2,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,729,1,6,5,9:51 PM,0:23,Cunningham 3' Driving Layup (21 PTS),,,116 - 116,TIE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,730,1,1,5,9:51 PM,0:00,,,Kuzma 24' 3PT Jump Shot (26 PTS) (Dinwiddie 7 AST),119 - 116,-3,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022100368,732,9,1,5,9:51 PM,0:00,PISTONS Timeout: Regular (Full 7 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,734,8,0,5,9:51 PM,0:00,,,SUB: Gill FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022100368,736,9,1,5,9:53 PM,0:00,PISTONS Timeout: Regular (Full 8 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,737,8,0,5,9:55 PM,0:00,SUB: Joseph FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022100368,739,2,1,5,9:55 PM,0:00,MISS F. Jackson 34' 3PT Jump Shot,,,,,4,1628402,Frank Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022100368,740,4,0,5,9:55 PM,0:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022100368,741,13,0,5,9:55 PM,0:00,,End of 1st OT (9:55 PM EST),,119 - 116,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
