@@ -1,0 +1,47 @@
+{
+    "homeTeam": {
+        "name": "76ers",
+        "score": 95,
+        "logo": "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg"
+    },
+    "awayTeam": {
+        "name": "Wizards",
+        "score": 120,
+        "logo": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg"
+    },
+    "game_id": "42000102",
+    "date": "2021-05-26",
+    "status": "Final",
+    "players": {
+        "2730": "Dwight Howard",
+        "201229": "Anthony Tolliver",
+        "201588": "George Hill",
+        "201980": "Danny Green",
+        "202699": "Tobias Harris",
+        "203118": "Mike Scott",
+        "203552": "Seth Curry",
+        "203954": "Joel Embiid",
+        "1627732": "Ben Simmons",
+        "1627788": "Furkan Korkmaz",
+        "1629003": "Shake Milton",
+        "1629680": "Matisse Thybulle",
+        "1630178": "Tyrese Maxey",
+        "1630194": "Paul Reed",
+        "1630198": "Isaiah Joe",
+        "201566": "Russell Westbrook",
+        "201577": "Robin Lopez",
+        "202397": "Ish Smith",
+        "202722": "Davis Bertans",
+        "203078": "Bradley Beal",
+        "203458": "Alex Len",
+        "203526": "Raul Neto",
+        "1628990": "Chandler Hutchison",
+        "1629060": "Rui Hachimura",
+        "1629067": "Isaac Bonga",
+        "1629655": "Daniel Gafford",
+        "1629726": "Garrison Mathews",
+        "1630216": "Cassius Winston",
+        "1630264": "Anthony Gill"
+    },
+    "starter_on": "201980|202699|203552|203954|1627732|201566|203078|203458|203526|1629060"
+}

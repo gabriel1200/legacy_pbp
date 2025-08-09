@@ -1,0 +1,46 @@
+{
+    "homeTeam": {
+        "name": "Celtics",
+        "score": 123,
+        "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg"
+    },
+    "awayTeam": {
+        "name": "Nets",
+        "score": 95,
+        "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg"
+    },
+    "game_id": "22000007",
+    "date": "2020-12-25",
+    "status": "Final",
+    "players": {
+        "201952": "Jeff Teague",
+        "202684": "Tristan Thompson",
+        "203935": "Marcus Smart",
+        "1627759": "Jaylen Brown",
+        "1628369": "Jayson Tatum",
+        "1628400": "Semi Ojeleye",
+        "1628464": "Daniel Theis",
+        "1629035": "Carsen Edwards",
+        "1629682": "Tremont Waters",
+        "1629684": "Grant Williams",
+        "1629750": "Javonte Green",
+        "1630174": "Aaron Nesmith",
+        "1630202": "Payton Pritchard",
+        "201142": "Kevin Durant",
+        "201145": "Jeff Green",
+        "201599": "DeAndre Jordan",
+        "202681": "Kyrie Irving",
+        "203915": "Spencer Dinwiddie",
+        "203925": "Joe Harris",
+        "204020": "Tyler Johnson",
+        "1627747": "Caris LeVert",
+        "1627752": "Taurean Prince",
+        "1627789": "Timothe Luwawu-Cabarrot",
+        "1628386": "Jarrett Allen",
+        "1628971": "Bruce Brown",
+        "1629013": "Landry Shamet",
+        "1629066": "Rodions Kurucs",
+        "1629617": "Reggie Perry"
+    },
+    "starter_on": "202684|203935|1627759|1628369|1628464|201142|201599|202681|203915|203925"
+}
